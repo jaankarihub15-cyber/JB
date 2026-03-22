@@ -1,0 +1,82 @@
+{
+  "slug": "ppf-guide",
+  "title": "PPF — Complete Guide",
+  "meta_description": "Public Provident Fund (PPF) offers 7.1% tax-free returns with government guarantee. Learn how to open, interest rates, withdrawal rules, and tax benefits.",
+  "hero": {
+    "one_liner": "Government-guaranteed savings with 7.1% tax-free interest — the safest long-term investment in India",
+    "icon": "🏛️",
+    "updated_date": "March 2026",
+    "tags": ["Savings", "Tax Free"],
+    "read_time": "6 min",
+    "stats": [
+      {"label": "Interest Rate", "value": "7.1% p.a."},
+      {"label": "Lock-in", "value": "15 years"},
+      {"label": "Tax Status", "value": "EEE (fully tax-free)"}
+    ]
+  },
+  "sections": [
+    {
+      "heading": "What is PPF?",
+      "icon": "💡",
+      "type": "text",
+      "content": [
+        "PPF stands for Public Provident Fund. It is a government-backed long-term savings scheme where you deposit money for 15 years and earn guaranteed interest at 7.1% per year (as of 2026). The biggest advantage — your deposit, interest earned, and the final maturity amount are all completely tax-free.",
+        "You can open a PPF account at any post office or major bank (SBI, PNB, HDFC, ICICI, etc.). The minimum deposit is ₹500 per year and maximum is ₹1.5 lakh per year. Since it's backed by the Government of India, there is zero risk of losing your money — making it the safest investment available."
+      ]
+    },
+    {
+      "heading": "PPF Key Features",
+      "icon": "📋",
+      "type": "info_rows",
+      "rows": [
+        {"label": "Interest rate", "value": "7.1% per annum, compounded annually (reviewed quarterly by govt)", "highlight": true},
+        {"label": "Minimum deposit", "value": "₹500 per financial year", "highlight": false},
+        {"label": "Maximum deposit", "value": "₹1.5 lakh per financial year", "highlight": false},
+        {"label": "Lock-in period", "value": "15 years (extendable in blocks of 5 years)", "highlight": true},
+        {"label": "Partial withdrawal", "value": "Allowed from 7th year onwards", "highlight": false},
+        {"label": "Loan facility", "value": "Available from 3rd to 6th year (at 1% above PPF interest rate)", "highlight": false},
+        {"label": "Tax benefit", "value": "EEE — deposit deductible under 80C, interest and maturity fully tax-free", "highlight": true},
+        {"label": "Nomination", "value": "Can nominate one or more persons", "highlight": false}
+      ]
+    },
+    {
+      "heading": "How to Open a PPF Account",
+      "icon": "🚀",
+      "type": "steps",
+      "steps": [
+        {"step": 1, "title": "Choose bank or post office", "description": "You can open PPF at any post office, SBI, PNB, BOB, HDFC Bank, ICICI Bank, Axis Bank, or other authorized banks. Online opening is available through most bank net banking portals."},
+        {"step": 2, "title": "Fill the PPF account opening form", "description": "Provide your name, address, nominee details. Carry PAN card, Aadhaar card, and passport-size photo."},
+        {"step": 3, "title": "Make initial deposit", "description": "Deposit minimum ₹500 to activate the account. You can deposit up to ₹1.5 lakh in a financial year."},
+        {"step": 4, "title": "Deposit regularly for 15 years", "description": "You must deposit at least ₹500 every year for 15 years. You can deposit in one shot or multiple times (max 12 deposits per year). Tip: deposit before 5th of the month to earn interest for that month."}
+      ]
+    },
+    {
+      "heading": "PPF vs SIP vs FD",
+      "icon": "⚖️",
+      "type": "comparison_table",
+      "columns": ["Feature", "PPF", "SIP (Equity MF)", "Fixed Deposit"],
+      "rows": [
+        ["Returns", "7.1% (guaranteed)", "10-15% (not guaranteed)", "6-7.5% (guaranteed)"],
+        ["Risk", "Zero (govt-backed)", "Market-linked", "Very low"],
+        ["Lock-in", "15 years", "None (3yr for ELSS)", "Flexible"],
+        ["Tax on returns", "Fully tax-free", "12.5% LTCG above ₹1.25L", "Taxable at slab rate"],
+        ["Best for", "Ultra-safe long-term saving", "Wealth creation (5+ years)", "Short-term parking"]
+      ],
+      "footnote": "PPF is best when you want guaranteed, tax-free returns with zero risk. SIP is better for higher potential returns over long periods."
+    }
+  ],
+  "faqs": [
+    {"question": "Can I withdraw from PPF before 15 years?", "answer": "Partial withdrawal is allowed from the 7th financial year. You can withdraw up to 50% of the balance at the end of the 4th year or the year before withdrawal, whichever is lower. Complete premature closure is only allowed after 5 years for medical emergencies or higher education."},
+    {"question": "What happens after 15 years?", "answer": "You have three options: (1) Withdraw the full amount tax-free, (2) Extend for 5 more years with contributions, or (3) Extend without contributions — your existing balance keeps earning interest."},
+    {"question": "Can I open PPF for my child?", "answer": "Yes. A parent/guardian can open a PPF account for a minor child. But the combined deposit in parent's and child's accounts cannot exceed ₹1.5 lakh per year."},
+    {"question": "Is PPF better than FD?", "answer": "For long-term savings, yes. PPF gives 7.1% completely tax-free, while FD interest is taxable. After tax, a 7% FD gives only 4.9% (at 30% tax slab) vs PPF's full 7.1%."},
+    {"question": "Can NRIs open PPF?", "answer": "No. NRIs cannot open new PPF accounts. However, if you had a PPF account before becoming an NRI, you can continue it until maturity but cannot extend it."}
+  ],
+  "disclaimer": "This article is for educational purposes only. Interest rates are subject to quarterly revision by the government. Consult a financial advisor for personalized advice.",
+  "related_pages": [
+    {"title": "What is SIP?", "slug": "what-is-sip", "tag": "Investing"},
+    {"title": "SIP vs FD vs PPF — Which is Best?", "slug": "sip-vs-fd-vs-ppf", "tag": "Compare"},
+    {"title": "Section 80C — Tax Saving Guide", "slug": "section-80c-guide", "tag": "Tax"}
+  ],
+  "tags": ["Savings", "PPF", "Tax Free", "Government Scheme", "Long Term"]
+}

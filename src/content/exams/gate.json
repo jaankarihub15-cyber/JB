@@ -1,0 +1,126 @@
+{
+  "slug": "gate",
+  "title": "GATE 2026",
+  "meta_description": "GATE 2026 — Graduate Aptitude Test for MTech and PSU recruitment. Pattern, preparation, PSU list.",
+  "hero": {
+    "status": "upcoming",
+    "one_liner": "Gateway to MTech at IITs/NITs and recruitment in PSUs like ONGC, IOCL, NTPC, BHEL",
+    "icon": "⚙️",
+    "updated_date": "March 2026",
+    "stats": [
+      {
+        "label": "Exam",
+        "value": "Feb 2026"
+      },
+      {
+        "label": "Papers",
+        "value": "30 subjects"
+      },
+      {
+        "label": "Validity",
+        "value": "3 years"
+      }
+    ]
+  },
+  "key_details": [
+    {
+      "label": "Body",
+      "value": "IITs (rotating)",
+      "highlight": false
+    },
+    {
+      "label": "Education",
+      "value": "B.E./B.Tech/B.Sc",
+      "highlight": true
+    },
+    {
+      "label": "Age Limit",
+      "value": "None",
+      "highlight": true
+    },
+    {
+      "label": "Uses",
+      "value": "MTech + PSU + PhD + foreign admissions",
+      "highlight": true
+    }
+  ],
+  "exam_pattern": [
+    {
+      "tier_name": "CBT — 3 hrs, 65 Qs",
+      "subjects": [
+        {
+          "name": "General Aptitude",
+          "questions": 10,
+          "marks": 15
+        },
+        {
+          "name": "Subject Core",
+          "questions": 55,
+          "marks": 85
+        }
+      ],
+      "total_questions": 65,
+      "total_marks": 100,
+      "duration": "3 hours",
+      "negative_marking": "1/3rd for MCQ, none for NAT"
+    }
+  ],
+  "major_posts": [
+    {
+      "post": "PSU Engineer",
+      "pay_level": "E1-E2",
+      "in_hand_salary": "₹40-80K/mo",
+      "department": "ONGC/IOCL/NTPC etc"
+    },
+    {
+      "post": "MTech at IIT",
+      "pay_level": "Scholarship",
+      "in_hand_salary": "₹12,400/mo stipend",
+      "department": "IITs/NITs"
+    }
+  ],
+  "important_dates": [
+    {
+      "label": "Registration",
+      "value": "Aug-Sep 2025",
+      "highlight": false
+    },
+    {
+      "label": "Exam",
+      "value": "Feb 2026",
+      "highlight": true
+    }
+  ],
+  "preparation_tips": [
+    "Core subjects carry 70/100 marks. Focus there.",
+    "25+ years of previous papers available free — best resource.",
+    "PSU recruitment needs 700+ score."
+  ],
+  "faqs": [
+    {
+      "question": "Which PSUs recruit via GATE?",
+      "answer": "ONGC, IOCL, NTPC, BHEL, GAIL, HPCL, Power Grid, SAIL, NHAI and more."
+    },
+    {
+      "question": "Non-engineering eligible?",
+      "answer": "Yes. Papers in Science, Statistics, etc. available."
+    }
+  ],
+  "official_portal": {
+    "name": "GATE",
+    "url": "https://gate2026.iisc.ac.in"
+  },
+  "related_pages": [
+    {
+      "title": "UGC NET",
+      "slug": "ugc-net",
+      "tag": "Academic"
+    }
+  ],
+  "tags": [
+    "Engineering",
+    "GATE",
+    "PSU",
+    "MTech"
+  ]
+}

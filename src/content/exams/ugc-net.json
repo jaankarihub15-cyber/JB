@@ -1,0 +1,131 @@
+{
+  "slug": "ugc-net",
+  "title": "UGC NET 2026",
+  "meta_description": "UGC NET 2026 — eligibility and prep guide for Assistant Professor and JRF qualification.",
+  "hero": {
+    "status": "upcoming",
+    "one_liner": "National Eligibility Test for Assistant Professor and Junior Research Fellowship in universities",
+    "icon": "🎓",
+    "updated_date": "March 2026",
+    "stats": [
+      {
+        "label": "Exam",
+        "value": "Jun 2026"
+      },
+      {
+        "label": "Subjects",
+        "value": "84"
+      },
+      {
+        "label": "Qualifies",
+        "value": "AP + JRF"
+      }
+    ]
+  },
+  "key_details": [
+    {
+      "label": "Body",
+      "value": "NTA",
+      "highlight": false
+    },
+    {
+      "label": "Education",
+      "value": "Master's with 55% (50% reserved)",
+      "highlight": true
+    },
+    {
+      "label": "AP Age",
+      "value": "No limit",
+      "highlight": true
+    },
+    {
+      "label": "JRF Age",
+      "value": "Max 31 years",
+      "highlight": false
+    }
+  ],
+  "exam_pattern": [
+    {
+      "tier_name": "CBT — 3 hrs, 150 Qs",
+      "subjects": [
+        {
+          "name": "Paper 1: Teaching/Research",
+          "questions": 50,
+          "marks": 100
+        },
+        {
+          "name": "Paper 2: Subject",
+          "questions": 100,
+          "marks": 200
+        }
+      ],
+      "total_questions": 150,
+      "total_marks": 300,
+      "duration": "3 hours",
+      "negative_marking": "None"
+    }
+  ],
+  "major_posts": [
+    {
+      "post": "Assistant Professor",
+      "pay_level": "Level 10",
+      "in_hand_salary": "₹57-70K/mo",
+      "department": "Universities"
+    },
+    {
+      "post": "JRF",
+      "pay_level": "Fellowship",
+      "in_hand_salary": "₹37K/mo + HRA",
+      "department": "Research"
+    }
+  ],
+  "important_dates": [
+    {
+      "label": "Notification",
+      "value": "Mar 2026",
+      "highlight": true
+    },
+    {
+      "label": "Exam",
+      "value": "Jun 2026",
+      "highlight": false
+    }
+  ],
+  "preparation_tips": [
+    "No negative marking — attempt ALL.",
+    "Paper 1: Trueman's UGC NET book is standard.",
+    "Paper 2: Master's syllabus + previous papers."
+  ],
+  "faqs": [
+    {
+      "question": "NET vs JRF?",
+      "answer": "NET = AP qualification. JRF = AP + research fellowship (₹37K/mo). JRF cutoff is higher."
+    },
+    {
+      "question": "Attempts?",
+      "answer": "No limit for NET. JRF has age limit of 31."
+    }
+  ],
+  "official_portal": {
+    "name": "UGC NET",
+    "url": "https://ugcnet.nta.ac.in"
+  },
+  "related_pages": [
+    {
+      "title": "GATE",
+      "slug": "gate",
+      "tag": "Academic"
+    },
+    {
+      "title": "CTET",
+      "slug": "ctet",
+      "tag": "Teaching"
+    }
+  ],
+  "tags": [
+    "Academic",
+    "UGC",
+    "Teaching",
+    "JRF"
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "slug": "ctet",
+  "title": "CTET 2026",
+  "meta_description": "CTET 2026 — Central Teacher Eligibility Test pattern, eligibility, and preparation guide.",
+  "hero": {
+    "status": "upcoming",
+    "one_liner": "Mandatory qualification for teaching in KVS, NVS, and central government schools",
+    "icon": "📚",
+    "updated_date": "March 2026",
+    "stats": [
+      {
+        "label": "Exam",
+        "value": "Jul 2026"
+      },
+      {
+        "label": "Papers",
+        "value": "I + II"
+      },
+      {
+        "label": "Validity",
+        "value": "Lifetime"
+      }
+    ]
+  },
+  "key_details": [
+    {
+      "label": "Body",
+      "value": "CBSE",
+      "highlight": false
+    },
+    {
+      "label": "Paper I (1-5)",
+      "value": "12th + D.El.Ed/B.Ed",
+      "highlight": true
+    },
+    {
+      "label": "Paper II (6-8)",
+      "value": "Graduation + B.Ed",
+      "highlight": true
+    },
+    {
+      "label": "Pass marks",
+      "value": "60% General, 55% reserved",
+      "highlight": true
+    }
+  ],
+  "exam_pattern": [
+    {
+      "tier_name": "Paper I — 150 min, 150 Qs",
+      "subjects": [
+        {
+          "name": "Child Development",
+          "questions": 30,
+          "marks": 30
+        },
+        {
+          "name": "Language I",
+          "questions": 30,
+          "marks": 30
+        },
+        {
+          "name": "Language II",
+          "questions": 30,
+          "marks": 30
+        },
+        {
+          "name": "Mathematics",
+          "questions": 30,
+          "marks": 30
+        },
+        {
+          "name": "EVS",
+          "questions": 30,
+          "marks": 30
+        }
+      ],
+      "total_questions": 150,
+      "total_marks": 150,
+      "duration": "150 min",
+      "negative_marking": "None"
+    }
+  ],
+  "major_posts": [
+    {
+      "post": "PRT in KVS/NVS",
+      "pay_level": "Level 6-7",
+      "in_hand_salary": "₹35-45K/mo",
+      "department": "Central Schools"
+    },
+    {
+      "post": "TGT",
+      "pay_level": "Level 7",
+      "in_hand_salary": "₹40-50K/mo",
+      "department": "KVS/NVS"
+    }
+  ],
+  "important_dates": [
+    {
+      "label": "Notification",
+      "value": "May 2026",
+      "highlight": true
+    },
+    {
+      "label": "Exam",
+      "value": "Jul 2026",
+      "highlight": false
+    }
+  ],
+  "preparation_tips": [
+    "No negative marking — attempt ALL questions.",
+    "Child Development: Piaget, Vygotsky, Kohlberg, NCF 2005.",
+    "NCERT Class 1-8 for content questions."
+  ],
+  "faqs": [
+    {
+      "question": "Is CTET enough for a job?",
+      "answer": "CTET is eligibility, not job guarantee. Still need to clear KVS/NVS/state recruitment."
+    },
+    {
+      "question": "Validity?",
+      "answer": "Lifetime since 2021."
+    }
+  ],
+  "official_portal": {
+    "name": "CTET",
+    "url": "https://ctet.nic.in"
+  },
+  "related_pages": [
+    {
+      "title": "UGC NET",
+      "slug": "ugc-net",
+      "tag": "Teaching"
+    }
+  ],
+  "tags": [
+    "Teaching",
+    "CTET",
+    "CBSE"
+  ]
+}

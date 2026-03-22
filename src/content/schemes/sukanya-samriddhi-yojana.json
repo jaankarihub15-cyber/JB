@@ -1,0 +1,91 @@
+{
+  "slug": "sukanya-samriddhi-yojana",
+  "title": "Sukanya Samriddhi Yojana",
+  "meta_description": "Sukanya Samriddhi Yojana offers 8.2% interest for girl child savings. Check eligibility, how to open account, calculator, and withdrawal rules.",
+  "hero": {
+    "status": "active",
+    "one_liner": "Government-backed savings scheme for girl child with 8.2% annual interest — highest among all small savings schemes",
+    "icon": "👧",
+    "updated_date": "March 2026",
+    "stats": [
+      {"label": "Interest Rate", "value": "8.2% p.a."},
+      {"label": "Min. Deposit", "value": "₹250/year"},
+      {"label": "Max. Deposit", "value": "₹1.5L/year"}
+    ]
+  },
+  "quick_actions": [
+    {"icon": "🏦", "label": "Open at Post Office", "url": "https://www.indiapost.gov.in"},
+    {"icon": "📊", "label": "SSY Calculator", "url": "https://www.nsiindia.gov.in"}
+  ],
+  "what_is_it": [
+    "Sukanya Samriddhi Yojana (SSY) is a government savings scheme launched in 2015 under the 'Beti Bachao Beti Padhao' campaign. It is designed to help parents save for their daughter's education and marriage. The account can be opened at any post office or authorized bank.",
+    "The scheme currently offers 8.2% annual interest — the highest among all government small savings schemes. The interest is compounded yearly. The account matures after 21 years from the date of opening, or when the girl gets married after turning 18. The entire maturity amount is tax-free under the EEE (Exempt-Exempt-Exempt) category — meaning your deposits, interest earned, and final withdrawal are all completely tax-free."
+  ],
+  "eligibility": [
+    {"label": "Who can open", "value": "Parent or legal guardian of a girl child", "highlight": false},
+    {"label": "Girl's age", "value": "Must be below 10 years at the time of account opening", "highlight": true},
+    {"label": "Accounts per family", "value": "Maximum 2 accounts (one per girl child, exception for twins/triplets)", "highlight": false},
+    {"label": "Citizenship", "value": "Girl child must be an Indian citizen and resident", "highlight": false},
+    {"label": "Documents needed", "value": "Girl's birth certificate, parent's Aadhaar + PAN, address proof, passport photos", "highlight": true},
+    {"label": "Where to open", "value": "Any India Post office or authorized banks (SBI, PNB, BOB, ICICI, HDFC, etc.)", "highlight": false}
+  ],
+  "eligibility_filters": {
+    "gender": ["female"],
+    "age_min": 0,
+    "age_max": 10,
+    "occupation": ["any"],
+    "income_max": 9999999,
+    "category": ["general", "obc", "sc", "st"],
+    "states": ["all"]
+  },
+  "how_to_apply": [
+    {"step": 1, "title": "Visit your nearest post office or bank", "description": "Carry the girl child's birth certificate, parent's Aadhaar card, PAN card, address proof, and 2 passport-size photos of the guardian."},
+    {"step": 2, "title": "Fill the SSY account opening form", "description": "Get the form from the post office/bank counter. Fill in the girl's details, guardian details, and nominee information."},
+    {"step": 3, "title": "Make the initial deposit", "description": "Minimum ₹250 to open the account. You can deposit up to ₹1.5 lakh per financial year. Pay via cash, cheque, or demand draft."},
+    {"step": 4, "title": "Receive passbook", "description": "After processing, you'll receive a passbook for the SSY account. Use it to track deposits and interest. You must deposit at least ₹250 every year for 15 years."}
+  ],
+  "important_alert": {
+    "text": "You must deposit at least ₹250 every financial year for 15 years. If you miss a year, a penalty of ₹50 per year of default is charged, and you must pay the minimum deposit for each missed year to reactivate.",
+    "type": "warning"
+  },
+  "important_dates": [
+    {"label": "Deposit period", "value": "15 years from account opening date", "highlight": true},
+    {"label": "Maturity", "value": "21 years from opening OR marriage after 18", "highlight": true},
+    {"label": "Partial withdrawal", "value": "50% allowed after girl turns 18 (for education)", "highlight": false},
+    {"label": "Interest rate review", "value": "Revised every quarter by Government of India", "highlight": false}
+  ],
+  "faqs": [
+    {
+      "question": "How much will I get if I deposit ₹1,000/month for 15 years?",
+      "answer": "At 8.2% interest, depositing ₹12,000/year (₹1,000/month) for 15 years means you invest ₹1.8 lakh total. At maturity after 21 years, you'll get approximately ₹5.6 lakh. The exact amount depends on the interest rate which is revised quarterly."
+    },
+    {
+      "question": "Can I withdraw money before maturity?",
+      "answer": "Partial withdrawal (up to 50% of the balance) is allowed once the girl turns 18, and only for higher education purposes. Full premature closure is allowed if the girl gets married after age 18, or in extreme cases like life-threatening illness."
+    },
+    {
+      "question": "What happens if I don't deposit the minimum ₹250 in a year?",
+      "answer": "The account becomes inactive. To reactivate it, you must pay ₹50 penalty per year of default plus the minimum ₹250 for each missed year. Interest continues to accrue even on inactive accounts."
+    },
+    {
+      "question": "Is the interest taxable?",
+      "answer": "No. Sukanya Samriddhi Yojana has EEE (Exempt-Exempt-Exempt) status. Your deposits qualify for Section 80C deduction (up to ₹1.5 lakh), the interest earned is tax-free, and the maturity amount is also tax-free."
+    },
+    {
+      "question": "Can NRIs open a Sukanya Samriddhi account?",
+      "answer": "No. The girl child must be a resident Indian citizen. If the girl or guardian becomes NRI after opening the account, the account can continue but no fresh deposits are allowed, and it will earn only post office savings account interest rate."
+    }
+  ],
+  "official_portal": {
+    "name": "National Savings Institute",
+    "url": "https://www.nsiindia.gov.in"
+  },
+  "related_pages": [
+    {"title": "PPF — Complete Guide", "slug": "ppf-guide", "tag": "Savings"},
+    {"title": "Section 80C — Tax Saving Guide", "slug": "section-80c-guide", "tag": "Tax"},
+    {"title": "PM Kisan Samman Nidhi", "slug": "pm-kisan", "tag": "Agriculture"}
+  ],
+  "tags": ["Savings", "Girl Child", "Tax Free", "Central Government"],
+  "ministry": "Ministry of Finance",
+  "launch_year": 2015
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "pm-awas-yojana",
+  "title": "PM Awas Yojana (PMAY)",
+  "meta_description": "PM Awas Yojana provides up to ₹2.67 lakh subsidy on home loans. Check eligibility by income category, how to apply online, and beneficiary list.",
+  "hero": {
+    "status": "active",
+    "one_liner": "Interest subsidy on home loans to make housing affordable for EWS, LIG, and MIG families across India",
+    "icon": "🏠",
+    "updated_date": "March 2026",
+    "stats": [
+      {"label": "Max Subsidy", "value": "₹2.67 lakh"},
+      {"label": "Beneficiaries", "value": "2.5+ Crore"},
+      {"label": "Categories", "value": "EWS/LIG/MIG"}
+    ]
+  },
+  "quick_actions": [
+    {"icon": "✅", "label": "Check Status", "url": "https://pmaymis.gov.in/track_application_status.aspx"},
+    {"icon": "📝", "label": "Apply Online", "url": "https://pmaymis.gov.in"},
+    {"icon": "📋", "label": "Beneficiary List", "url": "https://pmaymis.gov.in/Search_Beneficiary.aspx"}
+  ],
+  "what_is_it": [
+    "Pradhan Mantri Awas Yojana (PMAY) is a flagship housing scheme launched in 2015 with the goal of 'Housing for All'. It provides interest subsidy on home loans, making it cheaper for families to buy or build their first home. The scheme has two components: PMAY-Urban for city areas and PMAY-Gramin (PMAY-G) for rural areas.",
+    "Under PMAY-Urban, eligible families get a direct subsidy on home loan interest — the government pays a portion of your EMI directly to your bank. The subsidy amount depends on your income category: EWS and LIG families can get up to ₹2.67 lakh subsidy on loans up to ₹6 lakh, while MIG-I and MIG-II categories get subsidies on higher loan amounts. Under PMAY-Gramin, beneficiaries receive direct financial assistance of ₹1.20 lakh (plain areas) or ₹1.30 lakh (hilly/difficult areas) to build a house."
+  ],
+  "eligibility": [
+    {"label": "EWS (Economically Weaker Section)", "value": "Annual household income up to ₹3 lakh", "highlight": true},
+    {"label": "LIG (Low Income Group)", "value": "Annual household income ₹3–6 lakh", "highlight": true},
+    {"label": "MIG-I (Middle Income Group I)", "value": "Annual household income ₹6–12 lakh", "highlight": false},
+    {"label": "MIG-II (Middle Income Group II)", "value": "Annual household income ₹12–18 lakh", "highlight": false},
+    {"label": "Key condition", "value": "Must NOT own a pucca house anywhere in India", "highlight": true},
+    {"label": "Preference", "value": "Women ownership or co-ownership mandatory for EWS/LIG", "highlight": false},
+    {"label": "Documents", "value": "Aadhaar, income proof, property documents, bank loan sanction letter", "highlight": false}
+  ],
+  "eligibility_filters": {
+    "gender": ["all"],
+    "age_min": 18,
+    "age_max": 70,
+    "occupation": ["salaried", "self-employed", "labourer", "farmer"],
+    "income_max": 1800000,
+    "category": ["general", "obc", "sc", "st"],
+    "states": ["all"]
+  },
+  "how_to_apply": [
+    {"step": 1, "title": "Check your eligibility category", "description": "Determine if you fall under EWS (income up to ₹3L), LIG (₹3-6L), MIG-I (₹6-12L), or MIG-II (₹12-18L) based on your annual household income."},
+    {"step": 2, "title": "Apply online at pmaymis.gov.in", "description": "Visit the PMAY-MIS portal. Click 'Citizen Assessment' → select your category (In Situ Slum, Affordable Housing, etc.) → enter Aadhaar number to begin."},
+    {"step": 3, "title": "Fill application form", "description": "Enter personal details, income details, current housing status, property details, and bank loan information. Upload required documents."},
+    {"step": 4, "title": "Apply for home loan at your bank", "description": "Visit any bank or housing finance company. Apply for a home loan and mention PMAY subsidy. The bank will process your CLSS (Credit Linked Subsidy) application."},
+    {"step": 5, "title": "Subsidy gets credited to your loan", "description": "Once approved, the subsidy amount is credited directly to your home loan account by NHB (National Housing Bank), reducing your outstanding loan and therefore your EMI."}
+  ],
+  "important_alert": {
+    "text": "PMAY subsidy is a one-time benefit. It's credited directly to your loan account, not given as cash. You must take a home loan from a bank to avail the subsidy. The property must be the family's first pucca house.",
+    "type": "info"
+  },
+  "important_dates": [
+    {"label": "Scheme extended till", "value": "December 2026", "highlight": true},
+    {"label": "PMAY-Urban 2.0", "value": "Announced in Budget 2025 — 1 crore new houses", "highlight": true},
+    {"label": "Application", "value": "Open year-round on pmaymis.gov.in", "highlight": false}
+  ],
+  "faqs": [
+    {
+      "question": "How much subsidy will I actually get?",
+      "answer": "EWS/LIG: Up to ₹2.67 lakh on loan up to ₹6 lakh at 6.5% interest subsidy for 20 years. MIG-I: Up to ₹2.35 lakh on loan up to ₹9 lakh at 4% subsidy. MIG-II: Up to ₹2.30 lakh on loan up to ₹12 lakh at 3% subsidy."
+    },
+    {
+      "question": "Can I apply if I already own a house?",
+      "answer": "No. The beneficiary family must not own a pucca house in any part of India. If any family member owns a pucca house, the family is not eligible."
+    },
+    {
+      "question": "Is women ownership mandatory?",
+      "answer": "For EWS and LIG categories, the house must be in the name of the female head of household, or in joint ownership. MIG categories do not have this mandatory requirement."
+    },
+    {
+      "question": "Can I use PMAY for house renovation?",
+      "answer": "No. PMAY-Urban CLSS is only for purchasing a new house or constructing a new house. Renovation of existing houses is not covered under the subsidy component."
+    },
+    {
+      "question": "How do I check my PMAY application status?",
+      "answer": "Visit pmaymis.gov.in → Track Your Assessment Status → enter your assessment ID or search by name, father's name, and mobile number."
+    }
+  ],
+  "official_portal": {
+    "name": "PMAY-MIS Official Portal",
+    "url": "https://pmaymis.gov.in"
+  },
+  "related_pages": [
+    {"title": "PM Jan Dhan Yojana", "slug": "pm-jan-dhan-yojana", "tag": "Banking"},
+    {"title": "PM Ujjwala Yojana", "slug": "pm-ujjwala-yojana", "tag": "Welfare"},
+    {"title": "PM Mudra Yojana", "slug": "pm-mudra-yojana", "tag": "Business"}
+  ],
+  "tags": ["Housing", "Subsidy", "Home Loan", "Central Government"],
+  "ministry": "Ministry of Housing and Urban Affairs",
+  "launch_year": 2015
+}

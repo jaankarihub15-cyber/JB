@@ -1,0 +1,53 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #FAFAF8;
+  --color-card: #FFFFFF;
+  --color-card-alt: #F5F3EF;
+  --color-border: #E8E4DD;
+  --color-accent: #1B6B4A;
+  --color-accent-light: #E8F5EE;
+  --color-accent-dark: #145236;
+  --color-orange: #D4760A;
+  --color-orange-light: #FFF4E6;
+  --color-blue: #1959A8;
+  --color-blue-light: #EBF2FF;
+  --color-blue-dark: #0D3B7A;
+  --color-red: #C0392B;
+  --color-red-light: #FDEDEC;
+  --color-purple: #6B21A8;
+  --color-purple-light: #F3E8FF;
+  --color-text: #1A1A18;
+  --color-text-secondary: #5C5C57;
+  --color-text-muted: #8A8A85;
+  --color-tag-bg: #EEEDEB;
+
+  --font-heading: 'DM Serif Display', Georgia, serif;
+  --font-body: 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}
+
+/* Base styles */
+body {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Utility classes for our design system */
+.heading {
+  font-family: var(--font-heading);
+}
+
+.card {
+  background: var(--color-card);
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+}
+
+/* Smooth transitions */
+* {
+  transition-property: color, background-color, border-color;
+  transition-duration: 150ms;
+}
