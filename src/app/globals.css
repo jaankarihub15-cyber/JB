@@ -29,7 +29,7 @@
 
 /* Base styles */
 html {
-  font-size: 16px;
+  font-size: 18px;
 }
 
 body {
@@ -38,7 +38,7 @@ body {
   font-family: var(--font-body);
   -webkit-font-smoothing: antialiased;
   font-size: 1rem;
-  line-height: 1.6;
+  line-height: 1.7;
 }
 
 /* Utility classes for our design system */

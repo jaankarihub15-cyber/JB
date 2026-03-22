@@ -70,7 +70,7 @@ export default function EligibilityPage() {
   // RESULTS
   if (results) {
     return (
-      <div className="max-w-[800px] mx-auto px-5 py-6">
+      <div className="max-w-[860px] mx-auto px-5 py-6">
         <div className="rounded-2xl p-7 text-white mb-6 text-center" style={{ background: "linear-gradient(135deg, #6B21A8 0%, #4C1D95 100%)" }}>
           <div className="text-5xl mb-2">🎯</div>
           <h1 className="heading text-3xl font-normal mb-2">

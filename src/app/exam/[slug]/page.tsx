@@ -27,7 +27,7 @@ export default async function ExamDetailPage({ params }: Props) {
   if (!e) notFound();
 
   return (
-    <div className="max-w-[800px] mx-auto px-5 py-6">
+    <div className="max-w-[860px] mx-auto px-5 py-6">
       <Breadcrumb
         items={[
           { label: "Home", href: "/" },

@@ -13,7 +13,7 @@ export default function ExamHubPage() {
   const exams = getAllExams();
 
   return (
-    <div className="max-w-[800px] mx-auto px-5 py-6">
+    <div className="max-w-[860px] mx-auto px-5 py-6">
       <div className="mb-6">
         <h1 className="heading text-3xl font-normal text-text mb-1.5">
           📝 Government Exams
