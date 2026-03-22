@@ -21,6 +21,12 @@ export const metadata: Metadata = {
   },
 };
 
+export const viewport = {
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 1,
+};
+
 export default function RootLayout({
   children,
 }: {
@@ -37,8 +43,8 @@ export default function RootLayout({
       <body className="min-h-screen bg-bg">
         <Header />
         <main>{children}</main>
-        <footer className="max-w-[720px] mx-auto px-5 py-8 mt-12 border-t border-border">
-          <div className="text-center text-[12px] text-text-muted leading-relaxed">
+        <footer className="max-w-[800px] mx-auto px-5 py-8 mt-12 border-t border-border">
+          <div className="text-center text-sm text-text-muted leading-relaxed">
             <p className="mb-2">
               📋 All information sourced from official government portals.
               Updated regularly.

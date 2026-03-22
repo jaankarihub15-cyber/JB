@@ -28,11 +28,17 @@
 }
 
 /* Base styles */
+html {
+  font-size: 16px;
+}
+
 body {
   background-color: var(--color-bg);
   color: var(--color-text);
   font-family: var(--font-body);
   -webkit-font-smoothing: antialiased;
+  font-size: 1rem;
+  line-height: 1.6;
 }
 
 /* Utility classes for our design system */

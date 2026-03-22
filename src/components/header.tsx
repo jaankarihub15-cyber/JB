@@ -21,17 +21,17 @@ export function Header() {
 
   return (
     <header className="sticky top-0 z-50 bg-bg/92 backdrop-blur-md border-b border-border">
-      <div className="max-w-[720px] mx-auto px-5 py-3 flex items-center justify-between">
-        <Link href="/" className="heading text-lg">
+      <div className="max-w-[800px] mx-auto px-5 py-3.5 flex items-center justify-between">
+        <Link href="/" className="heading text-xl">
           <span className="text-text">Jaankari</span>
           <span className="text-accent">Hub</span>
         </Link>
-        <nav className="flex gap-0.5 bg-card-alt rounded-full p-0.5">
+        <nav className="flex gap-0.5 bg-card-alt rounded-full p-1">
           {navItems.map((item) => (
             <Link
               key={item.href}
               href={item.href}
-              className={`px-3 py-1.5 rounded-full text-[12px] font-medium whitespace-nowrap transition-colors ${
+              className={`px-4 py-2 rounded-full text-sm font-medium whitespace-nowrap transition-colors ${
                 getActive(item.href)
                   ? "bg-accent text-white"
                   : "text-text-secondary hover:text-text"

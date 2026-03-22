@@ -27,7 +27,7 @@ export default async function PaisaDetailPage({ params }: Props) {
   if (!p) notFound();
 
   return (
-    <div className="max-w-[700px] mx-auto px-5 py-6">
+    <div className="max-w-[800px] mx-auto px-5 py-6">
       <Breadcrumb
         items={[
           { label: "Home", href: "/" },
@@ -54,7 +54,7 @@ export default async function PaisaDetailPage({ params }: Props) {
             section.content.map((para: string, i: number) => (
               <p
                 key={i}
-                className="text-[13px] text-text-secondary leading-[1.8] mb-2"
+                className="text-sm text-text-secondary leading-[1.8] mb-2"
                 dangerouslySetInnerHTML={{ __html: para }}
               />
             ))}
@@ -88,13 +88,13 @@ export default async function PaisaDetailPage({ params }: Props) {
           {section.type === "comparison_table" && (
             <>
               <div className="overflow-x-auto">
-                <table className="w-full border-collapse text-[12px] card overflow-hidden">
+                <table className="w-full border-collapse text-sm card overflow-hidden">
                   <thead>
                     <tr className="bg-card-alt">
                       {section.columns.map((col: string) => (
                         <th
                           key={col}
-                          className="px-3 py-2.5 text-left font-semibold text-text text-[11px] border-b border-border"
+                          className="px-3 py-2.5 text-left font-semibold text-text text-xs border-b border-border"
                         >
                           {col}
                         </th>
@@ -122,7 +122,7 @@ export default async function PaisaDetailPage({ params }: Props) {
                 </table>
               </div>
               {section.footnote && (
-                <p className="text-[11px] text-text-muted mt-1.5">
+                <p className="text-xs text-text-muted mt-1.5">
                   {section.footnote}
                 </p>
               )}
@@ -149,7 +149,7 @@ export default async function PaisaDetailPage({ params }: Props) {
             className="card px-4 py-3.5 min-w-[180px] shrink-0"
           >
             <Tag className="bg-orange-light">{r.tag}</Tag>
-            <div className="text-[13px] font-medium text-text mt-2">
+            <div className="text-sm font-medium text-text mt-2">
               {r.title}
             </div>
           </a>
@@ -158,7 +158,7 @@ export default async function PaisaDetailPage({ params }: Props) {
 
       {/* Disclaimer */}
       {p.disclaimer && (
-        <div className="mt-6 p-4 bg-card-alt rounded-xl text-[11px] text-text-muted leading-relaxed">
+        <div className="mt-6 p-4 bg-card-alt rounded-xl text-xs text-text-muted leading-relaxed">
           <strong>Disclaimer:</strong> {p.disclaimer}
         </div>
       )}

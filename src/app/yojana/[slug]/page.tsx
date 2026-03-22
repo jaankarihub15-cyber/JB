@@ -35,7 +35,7 @@ export default async function SchemeDetailPage({ params }: Props) {
   if (!s) notFound();
 
   return (
-    <div className="max-w-[700px] mx-auto px-5 py-6">
+    <div className="max-w-[800px] mx-auto px-5 py-6">
       <Breadcrumb
         items={[
           { label: "Home", href: "/" },
@@ -63,7 +63,7 @@ export default async function SchemeDetailPage({ params }: Props) {
             href={a.url}
             target="_blank"
             rel="noopener noreferrer"
-            className="flex items-center gap-1.5 px-3 py-2 rounded-lg border border-border bg-card text-[11px] font-medium text-text hover:border-accent/40 transition-colors"
+            className="flex items-center gap-1.5 px-3 py-2 rounded-lg border border-border bg-card text-xs font-medium text-text hover:border-accent/40 transition-colors"
           >
             <span>{a.icon}</span>
             {a.label}
@@ -76,7 +76,7 @@ export default async function SchemeDetailPage({ params }: Props) {
       {s.what_is_it.map((p, i) => (
         <p
           key={i}
-          className="text-[13px] text-text-secondary leading-[1.8] mb-2"
+          className="text-sm text-text-secondary leading-[1.8] mb-2"
         >
           {p}
         </p>
@@ -147,7 +147,7 @@ export default async function SchemeDetailPage({ params }: Props) {
             className="card px-4 py-3.5 min-w-[180px] shrink-0 hover:border-accent/30 transition-colors"
           >
             <Tag>{r.tag}</Tag>
-            <div className="text-[13px] font-medium text-text mt-2">
+            <div className="text-sm font-medium text-text mt-2">
               {r.title}
             </div>
           </a>
@@ -157,10 +157,10 @@ export default async function SchemeDetailPage({ params }: Props) {
       {/* Official Portal */}
       <div className="mt-6 p-4 bg-blue-light rounded-xl flex justify-between items-center">
         <div>
-          <div className="text-[12px] font-semibold text-blue">
+          <div className="text-sm font-semibold text-blue">
             {s.official_portal.name}
           </div>
-          <div className="font-mono text-[11px] text-blue/70">
+          <div className="font-mono text-xs text-blue/70">
             {s.official_portal.url.replace("https://", "")}
           </div>
         </div>
@@ -168,7 +168,7 @@ export default async function SchemeDetailPage({ params }: Props) {
           href={s.official_portal.url}
           target="_blank"
           rel="noopener noreferrer"
-          className="text-[12px] text-blue font-medium"
+          className="text-sm text-blue font-medium"
         >
           Visit →
         </a>

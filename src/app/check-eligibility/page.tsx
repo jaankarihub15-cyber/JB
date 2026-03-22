@@ -70,13 +70,13 @@ export default function EligibilityPage() {
   // RESULTS
   if (results) {
     return (
-      <div className="max-w-[720px] mx-auto px-5 py-6">
+      <div className="max-w-[800px] mx-auto px-5 py-6">
         <div className="rounded-2xl p-7 text-white mb-6 text-center" style={{ background: "linear-gradient(135deg, #6B21A8 0%, #4C1D95 100%)" }}>
           <div className="text-5xl mb-2">🎯</div>
-          <h1 className="heading text-[28px] font-normal mb-2">
+          <h1 className="heading text-3xl font-normal mb-2">
             You may be eligible for {results.length} schemes
           </h1>
-          <p className="text-[14px] opacity-80">
+          <p className="text-base opacity-80">
             Based on your profile. Tap any scheme to learn more and apply.
           </p>
         </div>
@@ -90,11 +90,11 @@ export default function EligibilityPage() {
             >
               <span className="text-3xl">{s.icon}</span>
               <div className="flex-1 min-w-0">
-                <div className="text-[14px] font-semibold text-text">{s.title}</div>
-                <div className="text-[12px] text-text-secondary mt-0.5">{s.desc}</div>
+                <div className="text-base font-semibold text-text">{s.title}</div>
+                <div className="text-sm text-text-secondary mt-0.5">{s.desc}</div>
               </div>
               <div className="text-right shrink-0">
-                <div className="text-[14px] font-bold text-accent">{s.amount}</div>
+                <div className="text-base font-bold text-accent">{s.amount}</div>
                 <Tag>{s.tag}</Tag>
               </div>
             </Link>
@@ -102,19 +102,19 @@ export default function EligibilityPage() {
         </div>
 
         {results.length === 0 && (
-          <div className="p-10 text-center text-text-muted text-[14px]">
+          <div className="p-10 text-center text-text-muted text-base">
             No matching schemes found. Try adjusting your answers.
           </div>
         )}
 
         <button
           onClick={reset}
-          className="block mx-auto mt-6 px-6 py-2.5 rounded-lg border border-border bg-card text-[13px] font-medium text-text-secondary cursor-pointer hover:bg-card-alt transition-colors"
+          className="block mx-auto mt-6 px-6 py-2.5 rounded-lg border border-border bg-card text-sm font-medium text-text-secondary cursor-pointer hover:bg-card-alt transition-colors"
         >
           ← Check Again
         </button>
 
-        <div className="mt-8 p-4 bg-card-alt rounded-xl text-center text-[12px] text-text-muted leading-relaxed">
+        <div className="mt-8 p-4 bg-card-alt rounded-xl text-center text-sm text-text-muted leading-relaxed">
           This is an indicative check based on general eligibility criteria.
           Actual eligibility depends on documents, state rules, and specific
           scheme conditions. Always verify on the official portal.
@@ -134,7 +134,7 @@ export default function EligibilityPage() {
         <h1 className="heading text-2xl font-normal text-text mb-1.5">
           Find Schemes You&apos;re Eligible For
         </h1>
-        <p className="text-[13px] text-text-secondary">
+        <p className="text-sm text-text-secondary">
           Answer 5 quick questions. Takes 30 seconds.
         </p>
       </div>
@@ -147,17 +147,17 @@ export default function EligibilityPage() {
         />
       </div>
 
-      <div className="text-[11px] text-text-muted mb-2">
+      <div className="text-xs text-text-muted mb-2">
         Question {step + 1} of {questions.length}
       </div>
-      <h2 className="text-[17px] font-semibold text-text mb-4">{cq.q}</h2>
+      <h2 className="text-lg font-semibold text-text mb-4">{cq.q}</h2>
 
       <div className="flex flex-col gap-2">
         {cq.opts.map((o) => (
           <button
             key={o.v}
             onClick={() => selectOption(cq.key, o.v)}
-            className={`p-3.5 rounded-xl text-left text-[14px] font-medium cursor-pointer transition-all border-[1.5px] ${
+            className={`p-3.5 rounded-xl text-left text-base font-medium cursor-pointer transition-all border-[1.5px] ${
               data[cq.key] === o.v
                 ? "bg-accent-light border-accent text-accent"
                 : "bg-card border-border text-text hover:border-accent/40"
@@ -171,7 +171,7 @@ export default function EligibilityPage() {
       {step > 0 && (
         <button
           onClick={() => setStep(step - 1)}
-          className="mt-4 px-4 py-2 text-[13px] text-text-muted cursor-pointer hover:text-text transition-colors"
+          className="mt-4 px-4 py-2 text-sm text-text-muted cursor-pointer hover:text-text transition-colors"
         >
           ← Back
         </button>

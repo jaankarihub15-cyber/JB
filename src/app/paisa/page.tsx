@@ -13,12 +13,12 @@ export default function PaisaHubPage() {
   const articles = getAllPaisaArticles();
 
   return (
-    <div className="max-w-[720px] mx-auto px-5 py-6">
+    <div className="max-w-[800px] mx-auto px-5 py-6">
       <div className="mb-6">
-        <h1 className="heading text-[28px] font-normal text-text mb-1.5">
+        <h1 className="heading text-3xl font-normal text-text mb-1.5">
           💰 Paisa Guide
         </h1>
-        <p className="text-[14px] text-text-secondary">
+        <p className="text-base text-text-secondary">
           {articles.length} articles — investing, savings, tax, and personal
           finance made simple
         </p>
@@ -39,15 +39,15 @@ export default function PaisaHubPage() {
                   </Tag>
                 ))}
               </div>
-              <div className="text-[15px] font-semibold text-text mb-1 leading-snug">
+              <div className="text-base font-semibold text-text mb-1 leading-snug">
                 {p.title}
               </div>
-              <div className="text-[12px] text-text-secondary leading-relaxed">
+              <div className="text-sm text-text-secondary leading-relaxed">
                 {p.hero.one_liner.slice(0, 100)}
                 {p.hero.one_liner.length > 100 ? "..." : ""}
               </div>
             </div>
-            <div className="text-[11px] text-text-muted mt-3">
+            <div className="text-xs text-text-muted mt-3">
               📖 {p.hero.read_time} read
             </div>
           </Link>

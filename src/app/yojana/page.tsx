@@ -13,12 +13,12 @@ export default function YojanaHubPage() {
   const schemes = getAllSchemes();
 
   return (
-    <div className="max-w-[720px] mx-auto px-5 py-6">
+    <div className="max-w-[800px] mx-auto px-5 py-6">
       <div className="mb-6">
-        <h1 className="heading text-[28px] font-normal text-text mb-1.5">
+        <h1 className="heading text-3xl font-normal text-text mb-1.5">
           🏛️ Government Yojanas
         </h1>
-        <p className="text-[14px] text-text-secondary">
+        <p className="text-base text-text-secondary">
           {schemes.length} schemes explained simply — eligibility, benefits, how
           to apply
         </p>
@@ -44,19 +44,19 @@ export default function YojanaHubPage() {
             <div className="flex items-start gap-3">
               <span className="text-2xl">{s.hero.icon}</span>
               <div className="flex-1">
-                <div className="text-[15px] font-semibold text-text mb-1">
+                <div className="text-base font-semibold text-text mb-1">
                   {s.title}
                 </div>
-                <div className="text-[12px] text-text-secondary leading-relaxed">
+                <div className="text-sm text-text-secondary leading-relaxed">
                   {s.hero.one_liner}
                 </div>
                 <div className="flex gap-4 mt-2.5">
                   {s.hero.stats.slice(0, 2).map((stat) => (
                     <div key={stat.label}>
-                      <span className="text-[11px] text-text-muted">
+                      <span className="text-xs text-text-muted">
                         {stat.label}:{" "}
                       </span>
-                      <span className="text-[12px] font-semibold text-accent">
+                      <span className="text-sm font-semibold text-accent">
                         {stat.value}
                       </span>
                     </div>

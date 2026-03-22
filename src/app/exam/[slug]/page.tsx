@@ -27,7 +27,7 @@ export default async function ExamDetailPage({ params }: Props) {
   if (!e) notFound();
 
   return (
-    <div className="max-w-[700px] mx-auto px-5 py-6">
+    <div className="max-w-[800px] mx-auto px-5 py-6">
       <Breadcrumb
         items={[
           { label: "Home", href: "/" },
@@ -60,14 +60,14 @@ export default async function ExamDetailPage({ params }: Props) {
           <SectionHeading icon="📝">{tier.tier_name}</SectionHeading>
           <Card className="px-4 py-3.5">
             {tier.description && (
-              <p className="text-[12px] text-text-secondary leading-relaxed mb-3">
+              <p className="text-sm text-text-secondary leading-relaxed mb-3">
                 {tier.description}
               </p>
             )}
             {tier.subjects.map((sub) => (
               <div
                 key={sub.name}
-                className="flex justify-between py-2 border-b border-border text-[12px]"
+                className="flex justify-between py-2 border-b border-border text-sm"
               >
                 <span className="text-text">{sub.name}</span>
                 <span className="text-text-muted whitespace-nowrap">
@@ -75,14 +75,14 @@ export default async function ExamDetailPage({ params }: Props) {
                 </span>
               </div>
             ))}
-            <div className="flex justify-between pt-2.5 text-[13px] font-semibold text-accent">
+            <div className="flex justify-between pt-2.5 text-sm font-semibold text-accent">
               <span>Total</span>
               <span>
                 {tier.total_questions} Qs · {tier.total_marks} marks ·{" "}
                 {tier.duration}
               </span>
             </div>
-            <div className="text-[11px] text-orange mt-2">
+            <div className="text-xs text-orange mt-2">
               ⚠️ Negative marking: {tier.negative_marking}
             </div>
           </Card>
@@ -95,11 +95,11 @@ export default async function ExamDetailPage({ params }: Props) {
         {e.major_posts.map((p) => (
           <div
             key={p.post}
-            className="flex justify-between items-center py-2 border-b border-border text-[12px]"
+            className="flex justify-between items-center py-2 border-b border-border text-sm"
           >
             <div>
               <span className="text-text font-medium">{p.post}</span>
-              <span className="text-text-muted ml-1.5 text-[11px]">
+              <span className="text-text-muted ml-1.5 text-xs">
                 ({p.department})
               </span>
             </div>
@@ -123,7 +123,7 @@ export default async function ExamDetailPage({ params }: Props) {
             {e.preparation_tips.map((tip, i) => (
               <div
                 key={i}
-                className={`py-2 text-[12px] text-text-secondary leading-relaxed flex gap-2 ${
+                className={`py-2 text-sm text-text-secondary leading-relaxed flex gap-2 ${
                   i < e.preparation_tips.length - 1 ? "border-b border-border" : ""
                 }`}
               >
@@ -147,17 +147,17 @@ export default async function ExamDetailPage({ params }: Props) {
         {e.related_pages.map((r) => (
           <a key={r.slug} href={`/exam/${r.slug}`} className="card px-4 py-3.5 min-w-[180px] shrink-0">
             <Tag className="bg-blue-light">{r.tag}</Tag>
-            <div className="text-[13px] font-medium text-text mt-2">{r.title}</div>
+            <div className="text-sm font-medium text-text mt-2">{r.title}</div>
           </a>
         ))}
       </div>
 
       <div className="mt-6 p-4 bg-blue-light rounded-xl flex justify-between items-center">
         <div>
-          <div className="text-[12px] font-semibold text-blue">{e.official_portal.name}</div>
-          <div className="font-mono text-[11px] text-blue/70">{e.official_portal.url.replace("https://", "")}</div>
+          <div className="text-sm font-semibold text-blue">{e.official_portal.name}</div>
+          <div className="font-mono text-xs text-blue/70">{e.official_portal.url.replace("https://", "")}</div>
         </div>
-        <a href={e.official_portal.url} target="_blank" rel="noopener noreferrer" className="text-[12px] text-blue font-medium">
+        <a href={e.official_portal.url} target="_blank" rel="noopener noreferrer" className="text-sm text-blue font-medium">
           Visit →
         </a>
       </div>
