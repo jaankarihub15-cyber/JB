@@ -1,15 +1,7 @@
 import { notFound } from "next/navigation";
 import { getSchemeBySlug, getAllSchemeSlugs } from "@/lib/content";
 import {
-  Breadcrumb,
-  HeroBanner,
-  SectionHeading,
-  Card,
-  InfoRow,
-  StepCard,
-  FAQ,
-  AlertBox,
-  Tag,
+  Breadcrumb, HeroBanner, SectionHeading, Card, InfoRow, StepCard, FAQ, AlertBox, Tag,
 } from "@/components/ui";
 import type { Metadata } from "next";
 
@@ -31,11 +23,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function SchemeDetailPage({ params }: Props) {
   const { slug } = await params;
-  const s = getSchemeBySlug(slug);
+  const s = getSchemeBySlug(slug) as any;
   if (!s) notFound();
 
   return (
-    <div className="max-w-[860px] mx-auto px-5 py-6">
+    <div className="max-w-[860px] mx-auto px-6 py-8">
       <Breadcrumb
         items={[
           { label: "Home", href: "/" },
@@ -56,14 +48,14 @@ export default async function SchemeDetailPage({ params }: Props) {
       />
 
       {/* Quick Actions */}
-      <div className="flex gap-2 mb-6 flex-wrap">
-        {s.quick_actions.map((a) => (
+      <div className="flex gap-3 mb-8 flex-wrap">
+        {s.quick_actions.map((a: any) => (
           <a
             key={a.label}
             href={a.url}
             target="_blank"
             rel="noopener noreferrer"
-            className="flex items-center gap-1.5 px-3 py-2 rounded-lg border border-border bg-card text-xs font-medium text-text hover:border-accent/40 transition-colors"
+            className="flex items-center gap-2 px-4 py-3 rounded-lg border border-border bg-card text-sm font-medium text-text hover:border-accent/40 transition-colors"
           >
             <span>{a.icon}</span>
             {a.label}
@@ -73,105 +65,115 @@ export default async function SchemeDetailPage({ params }: Props) {
 
       {/* What is it */}
       <SectionHeading icon="📖">What is {s.title}?</SectionHeading>
-      {s.what_is_it.map((p, i) => (
-        <p
-          key={i}
-          className="text-sm text-text-secondary leading-[1.8] mb-2"
-        >
-          {p}
-        </p>
+      {s.what_is_it.map((p: string, i: number) => (
+        <p key={i} className="text-base text-text-secondary leading-relaxed mb-4">{p}</p>
       ))}
 
       {/* Eligibility */}
       <SectionHeading icon="✅">Eligibility</SectionHeading>
       <Card>
-        {s.eligibility.map((e) => (
-          <InfoRow
-            key={e.label}
-            label={e.label}
-            value={e.value}
-            highlight={e.highlight}
-          />
+        {s.eligibility.map((e: any) => (
+          <InfoRow key={e.label} label={e.label} value={e.value} highlight={e.highlight} />
         ))}
       </Card>
+
+      {/* Extra Sections — renders deep content dynamically */}
+      {s.extra_sections && s.extra_sections.map((section: any, idx: number) => (
+        <div key={idx}>
+          <SectionHeading icon={section.icon}>{section.heading}</SectionHeading>
+
+          {section.type === "text" && section.content.map((para: string, i: number) => (
+            <p key={i} className="text-base text-text-secondary leading-relaxed mb-4">{para}</p>
+          ))}
+
+          {section.type === "steps" && (
+            <Card>
+              {section.steps.map((step: any) => (
+                <StepCard key={step.step} number={step.step} title={step.title} description={step.description} />
+              ))}
+            </Card>
+          )}
+
+          {section.type === "table" && (
+            <div className="overflow-x-auto">
+              <table className="w-full border-collapse card overflow-hidden text-sm">
+                <thead>
+                  <tr className="bg-card-alt">
+                    {section.columns.map((col: string) => (
+                      <th key={col} className="px-4 py-3 text-left font-semibold text-text border-b border-border">{col}</th>
+                    ))}
+                  </tr>
+                </thead>
+                <tbody>
+                  {section.rows.map((row: string[], ri: number) => (
+                    <tr key={ri}>
+                      {row.map((cell: string, ci: number) => (
+                        <td key={ci} className={`px-4 py-3 border-b border-border ${ci === 0 ? "font-medium text-text" : "text-text-secondary"}`}>{cell}</td>
+                      ))}
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          )}
+
+          {section.type === "info_rows" && (
+            <Card>
+              {section.rows.map((row: any) => (
+                <InfoRow key={row.label} label={row.label} value={row.value} highlight={row.highlight} />
+              ))}
+            </Card>
+          )}
+        </div>
+      ))}
 
       {/* How to Apply */}
       <SectionHeading icon="📝">How to Apply</SectionHeading>
       <Card>
-        {s.how_to_apply.map((step) => (
-          <StepCard
-            key={step.step}
-            number={step.step}
-            title={step.title}
-            description={step.description}
-          />
+        {s.how_to_apply.map((step: any) => (
+          <StepCard key={step.step} number={step.step} title={step.title} description={step.description} />
         ))}
       </Card>
 
       {/* Alert */}
       {s.important_alert && (
-        <AlertBox
-          text={`<strong>Important:</strong> ${s.important_alert.text}`}
-          type={s.important_alert.type as any}
-        />
+        <AlertBox text={s.important_alert.text} type={s.important_alert.type as any} />
       )}
 
       {/* Important Dates */}
-      <SectionHeading icon="📅">Important Dates</SectionHeading>
+      <SectionHeading icon="📅">Important Dates & Schedule</SectionHeading>
       <Card>
-        {s.important_dates.map((d) => (
-          <InfoRow
-            key={d.label}
-            label={d.label}
-            value={d.value}
-            highlight={d.highlight}
-          />
+        {s.important_dates.map((d: any) => (
+          <InfoRow key={d.label} label={d.label} value={d.value} highlight={d.highlight} />
         ))}
       </Card>
 
       {/* FAQs */}
-      <SectionHeading icon="❓">Common Questions</SectionHeading>
+      <SectionHeading icon="❓">Frequently Asked Questions</SectionHeading>
       <Card>
-        {s.faqs.map((f) => (
+        {s.faqs.map((f: any) => (
           <FAQ key={f.question} question={f.question} answer={f.answer} />
         ))}
       </Card>
 
       {/* Related */}
       <SectionHeading icon="🔗">Related Schemes</SectionHeading>
-      <div className="flex gap-2.5 overflow-x-auto pb-2">
-        {s.related_pages.map((r) => (
-          <a
-            key={r.slug}
-            href={`/yojana/${r.slug}`}
-            className="card px-4 py-3.5 min-w-[180px] shrink-0 hover:border-accent/30 transition-colors"
-          >
+      <div className="flex gap-3 overflow-x-auto pb-2">
+        {s.related_pages.map((r: any) => (
+          <a key={r.slug} href={`/yojana/${r.slug}`} className="card px-5 py-4 min-w-[200px] shrink-0 hover:border-accent/30 transition-colors">
             <Tag>{r.tag}</Tag>
-            <div className="text-sm font-medium text-text mt-2">
-              {r.title}
-            </div>
+            <div className="text-base font-medium text-text mt-2">{r.title}</div>
           </a>
         ))}
       </div>
 
       {/* Official Portal */}
-      <div className="mt-6 p-4 bg-blue-light rounded-xl flex justify-between items-center">
+      <div className="mt-8 p-5 bg-blue-light rounded-xl flex justify-between items-center">
         <div>
-          <div className="text-sm font-semibold text-blue">
-            {s.official_portal.name}
-          </div>
-          <div className="font-mono text-xs text-blue/70">
-            {s.official_portal.url.replace("https://", "")}
-          </div>
+          <div className="text-base font-semibold text-blue">{s.official_portal.name}</div>
+          <div className="font-mono text-sm text-blue/70">{s.official_portal.url.replace("https://", "")}</div>
         </div>
-        <a
-          href={s.official_portal.url}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="text-sm text-blue font-medium"
-        >
-          Visit →
-        </a>
+        <a href={s.official_portal.url} target="_blank" rel="noopener noreferrer" className="text-base text-blue font-medium">Visit →</a>
       </div>
     </div>
   );

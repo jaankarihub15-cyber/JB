@@ -1,32 +1,35 @@
 {
   "slug": "ssc-cgl-2026",
   "title": "SSC CGL 2026",
-  "meta_description": "SSC CGL 2026 — exam pattern, syllabus, eligibility, dates, salary details. Complete guide for Combined Graduate Level Examination.",
+  "meta_description": "SSC CGL 2026 complete guide — notification date (31 March), Tier 1 exam (May-June), exam pattern, detailed syllabus, previous year cutoffs, post-wise salary, and 6-month preparation strategy.",
   "hero": {
     "status": "upcoming",
-    "one_liner": "Combined Graduate Level Examination for Group B and Group C posts across central government ministries and departments",
+    "one_liner": "Combined Graduate Level Examination 2026 — India's most popular exam for Group B and Group C government posts across central ministries",
     "icon": "🎯",
     "updated_date": "March 2026",
     "stats": [
-      {"label": "Tier 1 Exam", "value": "Jul 2026"},
-      {"label": "Vacancies", "value": "~18,000"},
+      {"label": "Notification", "value": "31 Mar 2026"},
+      {"label": "Tier 1 Exam", "value": "May–Jun 2026"},
+      {"label": "Expected Vacancies", "value": "14,000–18,000"},
       {"label": "Salary Range", "value": "₹25–65K/mo"}
     ]
   },
   "key_details": [
     {"label": "Conducting Body", "value": "Staff Selection Commission (SSC)", "highlight": false},
-    {"label": "Education Required", "value": "Bachelor's degree from any recognized university", "highlight": true},
-    {"label": "Age Limit (General)", "value": "18–27 years (varies by post, up to 32 for some)", "highlight": false},
-    {"label": "Age Relaxation", "value": "OBC: +3 years, SC/ST: +5 years, PwD: +10 years", "highlight": false},
-    {"label": "Application Fee", "value": "₹100 (Exempted for Women, SC, ST, and Ex-Servicemen)", "highlight": false},
-    {"label": "Exam Mode", "value": "Computer Based Test (CBT) — Online only", "highlight": false},
-    {"label": "Exam Language", "value": "English and Hindi (except English Comprehension section)", "highlight": false},
-    {"label": "Selection Process", "value": "Tier 1 (qualifying) → Tier 2 (final merit) → Document Verification", "highlight": true}
+    {"label": "Official Website", "value": "ssc.gov.in", "highlight": false},
+    {"label": "Education Required", "value": "Bachelor's degree from any recognized university (final year students can also apply)", "highlight": true},
+    {"label": "Age Limit (General)", "value": "18–27 years for most posts (up to 30 for Assistant Audit Officer, up to 32 for some other posts)", "highlight": false},
+    {"label": "Age Relaxation", "value": "OBC: +3 years, SC/ST: +5 years, PwD: +10 years, Ex-Servicemen: +3 years after deducting military service", "highlight": false},
+    {"label": "Application Fee", "value": "₹100 (Exempted for Women, SC, ST, and Ex-Servicemen candidates)", "highlight": false},
+    {"label": "Exam Mode", "value": "Computer Based Test (CBT) — Online only, conducted at SSC exam centers across India", "highlight": false},
+    {"label": "Exam Language", "value": "English and Hindi (bilingual) — except the English Comprehension section which is only in English", "highlight": false},
+    {"label": "Selection Process", "value": "Tier 1 (qualifying/screening) → Tier 2 (determines final merit and post allocation) → Document Verification → Medical Examination", "highlight": true},
+    {"label": "Number of Attempts", "value": "No limit — you can appear every year as long as you meet the age criteria", "highlight": true}
   ],
   "exam_pattern": [
     {
-      "tier_name": "Tier 1 — Qualifying (60 minutes)",
-      "description": "This is a screening test. You need to clear the cutoff to appear for Tier 2. Tier 1 score is NOT counted in final merit.",
+      "tier_name": "Tier 1 — Screening Exam (60 minutes)",
+      "description": "Tier 1 is a qualifying exam only — it determines whether you proceed to Tier 2. Your Tier 1 score does NOT count in the final merit. You only need to clear the cutoff. The exam has 100 objective (MCQ) questions across 4 sections, with a total of 200 marks and 60 minutes duration. There is negative marking of 0.50 marks for each wrong answer.",
       "subjects": [
         {"name": "General Intelligence & Reasoning", "questions": 25, "marks": 50},
         {"name": "General Awareness", "questions": 25, "marks": 50},
@@ -36,90 +39,125 @@
       "total_questions": 100,
       "total_marks": 200,
       "duration": "60 minutes",
-      "negative_marking": "0.50 marks deducted for each wrong answer"
+      "negative_marking": "0.50 marks deducted for each wrong answer (questions carry 2 marks each)"
     },
     {
-      "tier_name": "Tier 2 — Final Merit (Multiple Sessions)",
-      "description": "This determines your final rank and post allocation. It has three sessions conducted on the same day plus a computer proficiency test.",
+      "tier_name": "Tier 2 — Final Merit Exam (3 sessions, same day)",
+      "description": "Tier 2 is the main exam that decides your final rank and post allocation. It consists of three sessions conducted on the same day. Session 1 (Mathematical Abilities + Reasoning) and Session 2 (English + General Awareness) are the main scoring papers. Session 3 (Computer Knowledge) is qualifying only. There is also a DEST (Data Entry Speed Test) module for certain posts.",
       "subjects": [
-        {"name": "Session 1: Mathematical Ability + Reasoning", "questions": 60, "marks": 390},
-        {"name": "Session 2: English Language + General Awareness", "questions": 70, "marks": 390},
-        {"name": "Session 3: Computer Knowledge", "questions": 20, "marks": 60}
+        {"name": "Session 1: Mathematical Abilities (30 Qs, 90 min) + Reasoning (30 Qs, 90 min)", "questions": 60, "marks": 390},
+        {"name": "Session 2: English Language (45 Qs, 60 min) + General Awareness (25 Qs, 30 min)", "questions": 70, "marks": 390},
+        {"name": "Session 3: Computer Knowledge (20 Qs, 15 min) — Qualifying only", "questions": 20, "marks": 60}
       ],
       "total_questions": 150,
       "total_marks": 840,
-      "duration": "Session 1: 1 hr, Session 2: 1 hr, Session 3: 15 min",
-      "negative_marking": "1.0 mark for Math/Reasoning, 0.25 for English/GK"
+      "duration": "Session 1: 2 hrs 15 min, Session 2: 1 hr 15 min, Session 3: 15 min",
+      "negative_marking": "Session 1: 1.0 mark per wrong answer | Session 2: 0.50 marks (English), 0.50 marks (GK) | Session 3: 0.25 marks"
     }
   ],
   "major_posts": [
-    {"post": "Assistant Audit Officer (AAO)", "pay_level": "Level 8 (₹47,600–1,51,100)", "in_hand_salary": "₹52,000–60,000/month", "department": "CAG"},
-    {"post": "Assistant Section Officer (ASO)", "pay_level": "Level 7 (₹44,900–1,42,400)", "in_hand_salary": "₹44,000–52,000/month", "department": "Central Secretariat"},
-    {"post": "Income Tax Inspector", "pay_level": "Level 7", "in_hand_salary": "₹44,000–52,000/month", "department": "CBDT"},
-    {"post": "Sub Inspector (CBI)", "pay_level": "Level 7", "in_hand_salary": "₹44,000–50,000/month", "department": "CBI"},
-    {"post": "Inspector (Preventive Officer)", "pay_level": "Level 7", "in_hand_salary": "₹44,000–50,000/month", "department": "CBIC/Customs"},
+    {"post": "Assistant Audit Officer (AAO)", "pay_level": "Level 8 (₹47,600–1,51,100)", "in_hand_salary": "₹52,000–60,000/month", "department": "Comptroller & Auditor General (CAG)"},
+    {"post": "Assistant Section Officer (ASO)", "pay_level": "Level 7 (₹44,900–1,42,400)", "in_hand_salary": "₹46,000–55,000/month", "department": "Central Secretariat Service (CSS)"},
+    {"post": "Income Tax Inspector", "pay_level": "Level 7 (₹44,900–1,42,400)", "in_hand_salary": "₹44,000–52,000/month", "department": "CBDT — Income Tax Department"},
+    {"post": "Inspector (Preventive Officer)", "pay_level": "Level 7", "in_hand_salary": "₹44,000–52,000/month", "department": "CBIC — Customs & Central Excise"},
+    {"post": "Inspector (Examiner)", "pay_level": "Level 7", "in_hand_salary": "₹44,000–52,000/month", "department": "CBIC — Customs & Central Excise"},
+    {"post": "Sub Inspector (CBI)", "pay_level": "Level 7", "in_hand_salary": "₹44,000–50,000/month", "department": "Central Bureau of Investigation"},
+    {"post": "Assistant Enforcement Officer", "pay_level": "Level 7", "in_hand_salary": "₹44,000–50,000/month", "department": "Directorate of Enforcement"},
     {"post": "Divisional Accountant", "pay_level": "Level 6 (₹35,400–1,12,400)", "in_hand_salary": "₹35,000–42,000/month", "department": "CAG"},
-    {"post": "Tax Assistant", "pay_level": "Level 4 (₹25,500–81,100)", "in_hand_salary": "₹25,000–32,000/month", "department": "CBDT/CBIC"}
+    {"post": "Auditor", "pay_level": "Level 5 (₹29,200–92,300)", "in_hand_salary": "₹29,000–35,000/month", "department": "CAG / CGDA"},
+    {"post": "Tax Assistant", "pay_level": "Level 4 (₹25,500–81,100)", "in_hand_salary": "₹25,000–32,000/month", "department": "CBDT / CBIC"}
   ],
-  "important_dates": [
-    {"label": "Official Notification", "value": "March 2026 (expected)", "highlight": true},
-    {"label": "Online Registration Opens", "value": "March 2026", "highlight": true},
-    {"label": "Registration Deadline", "value": "April 2026", "highlight": false},
-    {"label": "Tier 1 Exam", "value": "July 2026 (tentative)", "highlight": false},
-    {"label": "Tier 1 Result", "value": "August–September 2026", "highlight": false},
-    {"label": "Tier 2 Exam", "value": "October–November 2026 (tentative)", "highlight": false},
-    {"label": "Final Result", "value": "Early 2027 (expected)", "highlight": false}
-  ],
-  "syllabus_highlights": {
-    "reasoning": ["Analogies", "Coding-Decoding", "Puzzles", "Blood Relations", "Syllogisms", "Pattern Recognition", "Statement-Conclusion", "Matrix"],
-    "math": ["Number System", "Percentage", "Ratio & Proportion", "Profit & Loss", "Time & Work", "Time & Distance", "Algebra", "Geometry", "Trigonometry", "Data Interpretation"],
-    "english": ["Reading Comprehension", "Fill in the Blanks", "Error Spotting", "Synonyms/Antonyms", "Idioms & Phrases", "One Word Substitution", "Sentence Rearrangement", "Cloze Test"],
-    "general_awareness": ["Indian History", "Geography", "Indian Polity", "Economics", "General Science", "Current Affairs (last 6 months)", "Static GK"]
-  },
-  "preparation_tips": [
-    "Start with NCERT books for Class 6–10 to build your foundation in Math, Science, History, and Geography. This covers 60% of the General Awareness syllabus.",
-    "Previous year papers are gold. SSC repeats question patterns every year. Solve at least 20 previous year papers for Tier 1 and Tier 2.",
-    "Speed is everything in Tier 1 — you have only 36 seconds per question. Practice with a timer from day one. Target 90% accuracy with 50-second-per-question speed, then push faster.",
-    "For English, read The Hindu or Indian Express editorial page daily. Note down new words. This single habit improves vocabulary, comprehension, and grammar simultaneously.",
-    "Don't ignore Computer Knowledge for Tier 2 Session 3. It's 60 easy marks — basics of MS Office, networking, internet, and shortcuts. Most students skip this and lose free marks.",
-    "Join a free test series (Testbook, Oliveboard, PracticeMock all offer free mocks). Take at least one full mock test every week from month two onwards."
-  ],
-  "faqs": [
+  "extra_sections": [
     {
-      "question": "What degree is needed for SSC CGL?",
-      "answer": "Any Bachelor's degree from a recognized university or equivalent. You can apply in your final year too — you need the degree at the time of document verification, not at the time of applying. A few specific posts need special degrees: Statistical Investigator needs a degree in Statistics, and Compiler needs a degree in Economics/Statistics."
+      "heading": "Detailed Syllabus — Topic by Topic",
+      "icon": "📚",
+      "type": "text",
+      "content": [
+        "Quantitative Aptitude (most important for Tier 2): Number System — divisibility, remainder theorems, HCF/LCM, factorization. Percentage — successive percentage, population-based problems. Ratio & Proportion — simple and compound ratios, partnerships. Profit, Loss & Discount — successive discounts, marked price. Simple & Compound Interest — difference method, half-yearly/quarterly compounding. Time & Work — work-wages, pipes and cisterns. Time, Speed & Distance — boats and streams, trains, circular track. Algebra — linear equations, quadratic equations, surds and indices. Geometry — triangles (similarity, congruence), circles (tangent, chord, secant), quadrilaterals. Mensuration — area and volume of 2D and 3D shapes. Trigonometry — heights and distances, identities. Data Interpretation — bar graphs, pie charts, tables, line graphs, mixed DI.",
+        "General Intelligence & Reasoning: Analogies — word, letter, number, and figure analogies. Classification — odd one out (verbal and non-verbal). Series — number, letter, and figure series. Coding-Decoding — letter shifting, number coding, sentence coding. Blood Relations — family tree problems. Direction & Distance — turns, displacement. Syllogisms — statements and conclusions. Venn Diagrams — 2 and 3 set problems. Matrix — number matrix, letter matrix. Word Arrangement — dictionary order, meaningful word formation. Mirror & Water Image. Paper Folding & Cutting. Embedded Figures.",
+        "English Language & Comprehension: Reading Comprehension — passage-based questions (2-3 passages of 200-300 words each). Fill in the Blanks — vocabulary and grammar-based. Cloze Test — passage with blanks. Error Spotting/Sentence Correction — grammar rules. Sentence Rearrangement/Para Jumbles — ordering sentences logically. Synonyms and Antonyms — vocabulary-based. Idioms and Phrases — meaning and usage. One Word Substitution. Active/Passive Voice and Direct/Indirect Speech conversions. Spelling Errors.",
+        "General Awareness: Indian History — ancient, medieval, modern (focus on freedom struggle, important acts, governors-general). Geography — Indian geography (rivers, mountains, climate, soils, agriculture). Indian Polity — constitutional provisions, fundamental rights, Parliament, judiciary. Economics — basic concepts (GDP, inflation, fiscal policy, monetary policy, budget, banking). General Science — physics (mechanics, optics), chemistry (acids, bases, reactions), biology (human body, diseases, nutrition). Current Affairs — last 6 months of national and international events, awards, sports, summits, government schemes, appointments.",
+        "Computer Knowledge (Tier 2, Session 3 — qualifying): Computer Basics — hardware, software, input/output devices, memory types. Operating Systems — Windows basics, file management. MS Office — Word (formatting, mail merge), Excel (formulas, charts, sorting), PowerPoint (basics). Internet — browsers, email, search engines, URLs, protocols. Networking — LAN, WAN, network devices, IP addresses. Computer Security — viruses, firewalls, encryption basics. Database — basic DBMS concepts. Keyboard Shortcuts — common shortcuts for Windows and MS Office."
+      ]
     },
     {
-      "question": "Is there negative marking?",
-      "answer": "Yes. In Tier 1, 0.50 marks are deducted per wrong answer (questions carry 2 marks each, so penalty is 25%). In Tier 2, it varies: 1.0 mark for Math/Reasoning sections, 0.25 marks for English/GK sections."
+      "heading": "Previous Year Cutoff Marks (Tier 1)",
+      "icon": "📊",
+      "type": "table",
+      "columns": ["Year", "General", "OBC", "SC", "ST", "EWS"],
+      "rows": [
+        ["SSC CGL 2024", "176.24", "158.04", "143.98", "126.50", "155.89"],
+        ["SSC CGL 2023", "175.44", "149.47", "141.93", "122.42", "159.54"],
+        ["SSC CGL 2022", "182.42", "164.66", "149.63", "139.47", "162.56"],
+        ["SSC CGL 2021", "170.00", "157.68", "142.01", "126.25", "159.25"]
+      ]
     },
     {
-      "question": "Does Tier 1 score count in final merit?",
-      "answer": "No. Tier 1 is only qualifying. You need to clear the cutoff to reach Tier 2. Your final rank and post allocation is based entirely on Tier 2 marks."
+      "heading": "6-Month Preparation Strategy",
+      "icon": "🗓️",
+      "type": "text",
+      "content": [
+        "Month 1-2 (Foundation): Focus entirely on building fundamentals. For Math, complete all chapters from a standard SSC book (Kiran's or Rakesh Yadav's Advance Math). For Reasoning, practice all types from a standard book. Start reading The Hindu or Indian Express editorial daily for English. For GK, begin with NCERT Class 6-10 for Science, History, Geography, and Polity.",
+        "Month 3-4 (Practice): Start solving previous year papers — aim for at least 3 full papers per week. Focus on weak areas identified from these papers. For Math, practice 50 questions daily with a timer. For English, solve 2 reading comprehension passages daily. Start a current affairs routine — read a monthly magazine (Pratiyogita Darpan or Competition Success Review) and make notes.",
+        "Month 5 (Mock Tests): Take at minimum 2 full-length mock tests per week under exam conditions (strict 60-minute timer). Analyze every mock thoroughly — don't just check the score, understand why you got each question wrong. Focus on improving speed — target completing the paper in 50 minutes to have 10 minutes for review.",
+        "Month 6 (Revision): Stop learning new topics. Revise all notes, formulas, and vocabulary lists. Take 3-4 mocks per week. Focus on accuracy over speed now — in the actual exam, avoiding wrong answers (and the 0.50 penalty) is as important as getting right answers. Revise current affairs of the last 6 months intensively.",
+        "Key Resource Recommendations: Math — Rakesh Yadav's 7300+ Questions or Kiran's SSC Math. Reasoning — Verbal and Non-Verbal Reasoning by RS Aggarwal. English — Word Power Made Easy by Norman Lewis (for vocabulary) + Plinth to Paramount for grammar. GK — Lucent's General Knowledge + NCERT 6-10. Mock Tests — Testbook, Oliveboard, or PracticeMock (all have free mocks). Previous Papers — SSC's official website publishes papers — download and solve all available."
+      ]
     },
     {
-      "question": "What is the expected salary after SSC CGL?",
-      "answer": "It depends on the post you get. Tax Assistant (Level 4) starts at around ₹25,000 in-hand. Inspector posts (Level 7) start at ₹44,000+. The highest post, Assistant Audit Officer (Level 8), gives ₹52,000+ in-hand. Salary is higher in metro cities due to higher HRA and DA."
-    },
-    {
-      "question": "How many attempts are allowed for SSC CGL?",
-      "answer": "There is no limit on the number of attempts. You can keep appearing for the exam every year as long as you meet the age criteria. The upper age limit is 27-32 years depending on the post, with relaxations for reserved categories."
-    },
-    {
-      "question": "Can I give the exam in Hindi?",
-      "answer": "Yes. The entire exam (except the English Comprehension section) is available in both Hindi and English. You choose your language preference during registration."
+      "heading": "Post Descriptions — What You'll Actually Do",
+      "icon": "💼",
+      "type": "text",
+      "content": [
+        "Assistant Audit Officer (AAO) — CAG: This is the highest-paying CGL post. You work under the Comptroller and Auditor General of India, auditing government expenditure. Job involves reviewing financial records of ministries, public enterprises, and state governments. Posting can be anywhere in India. Promotion path: Senior Audit Officer → Assistant Director → Deputy Director.",
+        "Income Tax Inspector — CBDT: One of the most sought-after posts. You'll be posted in Income Tax offices across India, handling assessment of tax returns, conducting tax raids (in some cases), processing refunds, and investigating tax evasion. The work involves significant interaction with taxpayers and their representatives. Promotion: Income Tax Officer → Assistant Commissioner.",
+        "Sub Inspector — CBI: You investigate cases of corruption, economic offenses, and serious crimes referred by the government. This is a field-heavy role involving evidence collection, witness examination, and court appearances. Posting primarily in major cities. Promotion: Inspector → Deputy SP.",
+        "Assistant Section Officer (ASO) — CSS: A desk job in the Central Secretariat (ministries in New Delhi). You handle policy files, draft notes for senior officers, and manage administrative workflows. Posting is guaranteed in Delhi. This is preferred by candidates who want work-life balance and a Delhi posting. Promotion: Section Officer → Under Secretary.",
+        "Tax Assistant — CBDT/CBIC: Entry-level post handling tax return processing, data entry, and basic assessment work. Lower pay than Inspector posts but still a permanent government job with all benefits. Promotion: Tax Assistant → Senior Tax Assistant → Inspector (after qualifying departmental exam)."
+      ]
     }
   ],
+  "important_dates": [
+    {"label": "Notification Release", "value": "31 March 2026 (confirmed per SSC Calendar)", "highlight": true},
+    {"label": "Online Application Opens", "value": "31 March 2026", "highlight": true},
+    {"label": "Application Deadline", "value": "30 April 2026 (expected)", "highlight": true},
+    {"label": "Tier 1 Exam", "value": "May–June 2026 (per SSC Calendar)", "highlight": false},
+    {"label": "Tier 1 Result", "value": "July–August 2026 (expected)", "highlight": false},
+    {"label": "Tier 2 Exam", "value": "Second half of 2026 (expected)", "highlight": false},
+    {"label": "Final Result", "value": "Early 2027 (expected)", "highlight": false}
+  ],
+  "preparation_tips": [
+    "Start with previous year papers before any book. Solve 10 papers first — this tells you exactly what topics are asked, at what difficulty, and in what proportion. Don't waste time on topics that SSC rarely asks.",
+    "Math is the deciding factor. In both Tier 1 and Tier 2, Math carries the most weight and is where toppers pull ahead. Practice 50-100 questions daily. Focus on shortcut methods — SSC Math rewards speed, not lengthy calculations.",
+    "For English, read one editorial daily from The Hindu. Note down 5 new words with meanings. Solve 2 reading comprehension passages. This single habit, done daily for 3 months, transforms your English section performance.",
+    "Current Affairs has a 3-6 month window. Don't study current affairs from 2 years ago. Focus only on the last 6 months before the exam. Use monthly current affairs PDFs from Oliveboard or Testbook (free to download).",
+    "Take minimum one full-length mock test every week from month 3 onwards. After each mock, spend equal time analyzing your mistakes as you spent taking the test. Without analysis, mocks are useless.",
+    "Don't ignore Computer Knowledge for Tier 2. It's only 20 questions but they're easy marks. Learn basic MS Office shortcuts, networking terms, and hardware/software basics. 2 days of focused study is enough.",
+    "Speed matters more than knowledge. In Tier 1, you have 36 seconds per question. If you can't solve a question in 45 seconds, skip it and move on. Attempting 85 questions with 90% accuracy beats attempting 100 questions with 70% accuracy.",
+    "Join a free online test series (Testbook, PracticeMock, SSC Adda all offer free mocks). Practice in the actual CBT interface — the computer-based format feels different from solving on paper."
+  ],
+  "faqs": [
+    {"question": "What degree is needed for SSC CGL?", "answer": "Any Bachelor's degree from a recognized university or equivalent. You can apply even if you're in the final year — but you must have the degree at the time of document verification (not at the time of applying). Exceptions: Statistical Investigator needs a degree with Statistics, and Junior Statistical Officer needs 60% in 12th with Mathematics."},
+    {"question": "Does Tier 1 score count in final merit?", "answer": "No. Tier 1 is purely qualifying — you only need to clear the cutoff. Your final rank and post allocation is determined entirely by your Tier 2 score. This means even if you barely clear Tier 1, you can still get the top post (AAO) if your Tier 2 score is high enough."},
+    {"question": "How many attempts are allowed?", "answer": "There is no limit on the number of attempts. You can appear for SSC CGL every year as long as you meet the age criteria. The upper age limit varies by post: 27 years for most posts, 30 for AAO, 32 for some others — with relaxations for reserved categories."},
+    {"question": "What is the expected salary after SSC CGL?", "answer": "It depends on the post: Tax Assistant (Level 4) starts at ~₹25,000 in-hand. Inspector-level posts (Level 7) start at ~₹44,000. AAO (Level 8) starts at ~₹52,000. Actual in-hand salary varies by city — metro postings get higher HRA and DA. All posts also get benefits like pension (NPS), medical, LTC, housing/HRA, and annual increments."},
+    {"question": "Can I choose my post and location?", "answer": "You fill a preference form during application listing your preferred posts in order. Post allocation depends on your Tier 2 rank and available vacancies. Higher rank = more choices. Location within a department is decided by the department — you can submit transfer requests after joining, but initial posting is assigned."},
+    {"question": "Can I give the exam in Hindi?", "answer": "Yes. The entire exam (except the English Comprehension section) is available in both Hindi and English. You select your language preference during registration. The question appears in both languages on screen."},
+    {"question": "Is SSC CGL tough to crack?", "answer": "It's competitive — roughly 30-40 lakh candidates apply and 14,000-18,000 are selected (acceptance rate of ~0.5%). However, only about 10-12 lakh actually appear for the exam. With focused 6-month preparation and consistent mock practice, clearing Tier 1 cutoff is achievable. Getting a top post (AAO, Inspector) requires being in the top 3,000-5,000 ranks."},
+    {"question": "What is the SSC CGL 2026 notification date?", "answer": "As per the official SSC Calendar 2026-27, the notification will be released on 31 March 2026. The application window will be open from 31 March to approximately 30 April 2026. The Tier 1 exam is scheduled for May-June 2026."},
+    {"question": "Is there an interview in SSC CGL?", "answer": "No. SSC removed the interview round from CGL in 2016. Selection is purely based on Tier 1 + Tier 2 written exam performance, followed by document verification and medical examination. No personality test or interview."},
+    {"question": "Can working professionals prepare for SSC CGL?", "answer": "Yes. Many successful candidates prepared while working. The key is consistent daily study of 3-4 hours. Focus weekdays on 1-2 topics and weekends on mock tests. Use your commute time for current affairs and vocabulary. A focused 6-month plan is more effective than casual 2-year preparation."}
+  ],
   "official_portal": {
-    "name": "SSC Official Website",
+    "name": "Staff Selection Commission",
     "url": "https://ssc.gov.in"
   },
-  "apply_url": "https://ssc.gov.in",
   "related_pages": [
     {"title": "SSC CHSL 2026", "slug": "ssc-chsl", "tag": "SSC"},
     {"title": "SSC MTS 2026", "slug": "ssc-mts", "tag": "SSC"},
     {"title": "SSC GD Constable 2026", "slug": "ssc-gd-constable", "tag": "SSC"},
-    {"title": "UPSC CSE 2026", "slug": "upsc-cse", "tag": "UPSC"}
+    {"title": "UPSC CSE 2026", "slug": "upsc-cse", "tag": "UPSC"},
+    {"title": "IBPS PO 2026", "slug": "ibps-po", "tag": "Banking"}
   ],
-  "tags": ["SSC", "Graduate Level", "Central Government", "Group B", "Group C"]
+  "tags": ["SSC", "CGL", "Graduate Level", "Central Government", "Group B", "Group C"]
 }
