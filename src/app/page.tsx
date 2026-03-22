@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { getAllSchemes, getAllExams, getAllPaisaArticles } from "@/lib/content";
 import { Badge, Tag } from "@/components/ui";
+import { JsonLd } from "@/components/json-ld";
 
 export default function HomePage() {
   const schemes = getAllSchemes();
@@ -9,6 +10,18 @@ export default function HomePage() {
 
   return (
     <>
+      <JsonLd data={{
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        name: "JaankariHub",
+        url: "https://jaankarihub.in",
+        description: "Find government schemes you're eligible for, prepare for exams, and learn personal finance.",
+        publisher: {
+          "@type": "Organization",
+          name: "JaankariHub",
+          url: "https://jaankarihub.in",
+        },
+      }} />
       {/* Hero — Eligibility Tool CTA */}
       <section className="text-center px-6 pt-14 pb-12 bg-gradient-to-b from-purple-light to-bg">
         <p className="text-sm font-semibold text-purple uppercase tracking-widest mb-4">

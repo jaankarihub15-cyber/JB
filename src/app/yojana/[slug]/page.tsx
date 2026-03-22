@@ -3,6 +3,7 @@ import { getSchemeBySlug, getAllSchemeSlugs } from "@/lib/content";
 import {
   Breadcrumb, HeroBanner, SectionHeading, Card, InfoRow, StepCard, FAQ, AlertBox, Tag,
 } from "@/components/ui";
+import { JsonLd, faqSchema, breadcrumbSchema, governmentServiceSchema } from "@/components/json-ld";
 import type { Metadata } from "next";
 
 type Props = { params: Promise<{ slug: string }> };
@@ -18,6 +19,23 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: `${scheme.title} — Eligibility, Benefits & How to Apply`,
     description: scheme.meta_description,
+    openGraph: {
+      title: `${scheme.title} — Eligibility, Benefits & How to Apply`,
+      description: scheme.meta_description,
+      url: `https://jaankarihub.in/yojana/${slug}`,
+      type: "article",
+      images: [{
+        url: `/api/og?title=${encodeURIComponent(scheme.title)}&icon=${encodeURIComponent((scheme as any).hero?.icon || '📋')}&cat=yojana`,
+        width: 1200,
+        height: 630,
+        alt: scheme.title,
+      }],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: scheme.title,
+      description: scheme.meta_description,
+    },
   };
 }
 
@@ -28,6 +46,19 @@ export default async function SchemeDetailPage({ params }: Props) {
 
   return (
     <div className="max-w-[860px] mx-auto px-6 py-8">
+      <JsonLd data={breadcrumbSchema([
+        { name: "Home", url: "https://jaankarihub.in" },
+        { name: "Yojana", url: "https://jaankarihub.in/yojana" },
+        { name: s.title, url: `https://jaankarihub.in/yojana/${slug}` },
+      ])} />
+      {s.faqs?.length > 0 && <JsonLd data={faqSchema(s.faqs)} />}
+      <JsonLd data={governmentServiceSchema({
+        name: s.title,
+        description: s.meta_description || s.hero.one_liner,
+        url: `https://jaankarihub.in/yojana/${slug}`,
+        provider: s.ministry || "Government of India",
+        serviceType: "Government Scheme",
+      })} />
       <Breadcrumb
         items={[
           { label: "Home", href: "/" },

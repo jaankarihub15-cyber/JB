@@ -3,6 +3,7 @@ import { getExamBySlug, getAllExamSlugs } from "@/lib/content";
 import {
   Breadcrumb, HeroBanner, SectionHeading, Card, InfoRow, StepCard, FAQ, Tag,
 } from "@/components/ui";
+import { JsonLd, faqSchema, breadcrumbSchema, articleSchema } from "@/components/json-ld";
 import type { Metadata } from "next";
 
 type Props = { params: Promise<{ slug: string }> };
@@ -18,6 +19,23 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: `${exam.title} — Pattern, Syllabus, Dates & Salary`,
     description: exam.meta_description,
+    openGraph: {
+      title: `${exam.title} — Pattern, Syllabus, Dates & Salary`,
+      description: exam.meta_description,
+      url: `https://jaankarihub.in/exam/${slug}`,
+      type: "article",
+      images: [{
+        url: `/api/og?title=${encodeURIComponent(exam.title)}&icon=${encodeURIComponent((exam as any).hero?.icon || '📝')}&cat=exam`,
+        width: 1200,
+        height: 630,
+        alt: exam.title,
+      }],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: exam.title,
+      description: exam.meta_description,
+    },
   };
 }
 
@@ -28,6 +46,12 @@ export default async function ExamDetailPage({ params }: Props) {
 
   return (
     <div className="max-w-[860px] mx-auto px-6 py-8">
+      <JsonLd data={breadcrumbSchema([
+        { name: "Home", url: "https://jaankarihub.in" },
+        { name: "Exams", url: "https://jaankarihub.in/exam" },
+        { name: e.title, url: `https://jaankarihub.in/exam/${slug}` },
+      ])} />
+      {e.faqs?.length > 0 && <JsonLd data={faqSchema(e.faqs)} />}
       <Breadcrumb
         items={[
           { label: "Home", href: "/" },

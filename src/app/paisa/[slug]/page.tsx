@@ -3,6 +3,7 @@ import { getPaisaBySlug, getAllPaisaSlugs } from "@/lib/content";
 import {
   Breadcrumb, HeroBanner, SectionHeading, Card, InfoRow, StepCard, FAQ, Tag,
 } from "@/components/ui";
+import { JsonLd, faqSchema, breadcrumbSchema, articleSchema } from "@/components/json-ld";
 import type { Metadata } from "next";
 
 type Props = { params: Promise<{ slug: string }> };
@@ -18,6 +19,23 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: article.title,
     description: article.meta_description,
+    openGraph: {
+      title: article.title,
+      description: article.meta_description,
+      url: `https://jaankarihub.in/paisa/${slug}`,
+      type: "article",
+      images: [{
+        url: `/api/og?title=${encodeURIComponent(article.title)}&icon=${encodeURIComponent((article as any).hero?.icon || '💰')}&cat=paisa`,
+        width: 1200,
+        height: 630,
+        alt: article.title,
+      }],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: article.title,
+      description: article.meta_description,
+    },
   };
 }
 
@@ -28,6 +46,12 @@ export default async function PaisaDetailPage({ params }: Props) {
 
   return (
     <div className="max-w-[860px] mx-auto px-5 py-6">
+      <JsonLd data={breadcrumbSchema([
+        { name: "Home", url: "https://jaankarihub.in" },
+        { name: "Paisa Guide", url: "https://jaankarihub.in/paisa" },
+        { name: p.title, url: `https://jaankarihub.in/paisa/${slug}` },
+      ])} />
+      {p.faqs?.length > 0 && <JsonLd data={faqSchema(p.faqs)} />}
       <Breadcrumb
         items={[
           { label: "Home", href: "/" },
