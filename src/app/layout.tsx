@@ -5,14 +5,14 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: {
-    default: "JaankariHub — Government Schemes, Exams & Financial Literacy",
-    template: "%s | JaankariHub",
+    default: "KnowledgeKendra — Government Schemes, Exams & Financial Literacy",
+    template: "%s | KnowledgeKendra",
   },
   description:
     "Find government schemes you're eligible for, prepare for exams, and learn personal finance. Simple, accurate, no spam.",
-  metadataBase: new URL("https://jaankarihub.in"),
+  metadataBase: new URL("https://knowledgekendra.in"),
   openGraph: {
-    siteName: "JaankariHub",
+    siteName: "KnowledgeKendra",
     locale: "en_IN",
     type: "website",
   },

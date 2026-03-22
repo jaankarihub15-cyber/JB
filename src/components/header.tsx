@@ -23,8 +23,8 @@ export function Header() {
     <header className="sticky top-0 z-50 bg-bg/92 backdrop-blur-md border-b border-border">
       <div className="max-w-[860px] mx-auto px-6 py-4 flex items-center justify-between">
         <Link href="/" className="heading text-2xl">
-          <span className="text-text">Jaankari</span>
-          <span className="text-accent">Hub</span>
+          <span className="text-text">Knowledge</span>
+          <span className="text-accent">Kendra</span>
         </Link>
         <nav className="flex gap-1 bg-card-alt rounded-full p-1">
           {navItems.map((item) => (

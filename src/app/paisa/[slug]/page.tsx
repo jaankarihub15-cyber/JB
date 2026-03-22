@@ -22,7 +22,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     openGraph: {
       title: article.title,
       description: article.meta_description,
-      url: `https://jaankarihub.in/paisa/${slug}`,
+      url: `https://knowledgekendra.in/paisa/${slug}`,
       type: "article",
       images: [{
         url: `/api/og?title=${encodeURIComponent(article.title)}&icon=${encodeURIComponent((article as any).hero?.icon || '💰')}&cat=paisa`,
@@ -47,9 +47,9 @@ export default async function PaisaDetailPage({ params }: Props) {
   return (
     <div className="max-w-[860px] mx-auto px-5 py-6">
       <JsonLd data={breadcrumbSchema([
-        { name: "Home", url: "https://jaankarihub.in" },
-        { name: "Paisa Guide", url: "https://jaankarihub.in/paisa" },
-        { name: p.title, url: `https://jaankarihub.in/paisa/${slug}` },
+        { name: "Home", url: "https://knowledgekendra.in" },
+        { name: "Paisa Guide", url: "https://knowledgekendra.in/paisa" },
+        { name: p.title, url: `https://knowledgekendra.in/paisa/${slug}` },
       ])} />
       {p.faqs?.length > 0 && <JsonLd data={faqSchema(p.faqs)} />}
       <Breadcrumb

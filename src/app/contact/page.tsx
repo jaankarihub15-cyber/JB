@@ -7,7 +7,7 @@ export default function ContactPage() {
       <div className="text-text-secondary leading-relaxed space-y-4">
         <p className="text-base">We appreciate your feedback and are here to help with any questions about the information on our site.</p>
         <div className="card p-6 mt-6 space-y-4">
-          <div><span className="font-semibold text-text">Email:</span> <span className="text-accent">hello@jaankarihub.in</span></div>
+          <div><span className="font-semibold text-text">Email:</span> <span className="text-accent">hello@knowledgekendra.in</span></div>
           <div><span className="font-semibold text-text">Response Time:</span> We typically respond within 24-48 hours</div>
         </div>
         <h2 className="heading text-2xl mt-8 mb-4 text-text">Report an Error</h2>

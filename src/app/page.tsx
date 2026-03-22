@@ -13,13 +13,13 @@ export default function HomePage() {
       <JsonLd data={{
         "@context": "https://schema.org",
         "@type": "WebSite",
-        name: "JaankariHub",
-        url: "https://jaankarihub.in",
+        name: "KnowledgeKendra",
+        url: "https://knowledgekendra.in",
         description: "Find government schemes you're eligible for, prepare for exams, and learn personal finance.",
         publisher: {
           "@type": "Organization",
-          name: "JaankariHub",
-          url: "https://jaankarihub.in",
+          name: "KnowledgeKendra",
+          url: "https://knowledgekendra.in",
         },
       }} />
       {/* Hero — Eligibility Tool CTA */}
@@ -65,7 +65,7 @@ export default function HomePage() {
 
         {/* How It Works */}
         <section className="mt-14">
-          <h2 className="heading text-2xl text-center mb-8">How JaankariHub Works</h2>
+          <h2 className="heading text-2xl text-center mb-8">How KnowledgeKendra Works</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             {[
               { icon: "🔍", title: "Find What Applies to You", desc: "Take our 30-second eligibility quiz or browse by category. We match you with schemes based on your age, occupation, income, and gender." },
@@ -224,7 +224,7 @@ export default function HomePage() {
         {/* Trust Signal */}
         <section className="mt-14 p-6 bg-card-alt rounded-xl text-center">
           <div className="text-base text-text-secondary leading-relaxed">
-            📋 All information on JaankariHub is sourced from official government portals including
+            📋 All information on KnowledgeKendra is sourced from official government portals including
             pmkisan.gov.in, ssc.gov.in, upsc.gov.in, and others. We update our content regularly
             and link directly to official application pages. No clickbait, no spam — just clarity.
           </div>

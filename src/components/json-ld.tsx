@@ -44,8 +44,8 @@ export function articleSchema({
     dateModified,
     publisher: {
       "@type": "Organization",
-      name: "JaankariHub",
-      url: "https://jaankarihub.in",
+      name: "KnowledgeKendra",
+      url: "https://knowledgekendra.in",
     },
     mainEntityOfPage: {
       "@type": "WebPage",

@@ -3,7 +3,7 @@ import type { MetadataRoute } from "next";
 
 export const dynamic = "force-static";
 
-const BASE_URL = "https://jaankarihub.in";
+const BASE_URL = "https://knowledgekendra.in";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const schemeSlugs = getAllSchemeSlugs();

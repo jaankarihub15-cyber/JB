@@ -10,7 +10,7 @@ export function Footer() {
           <div className="col-span-2 md:col-span-1">
             <Link href="/" className="heading text-xl inline-block mb-3">
               <span className="text-text">Jaankari</span>
-              <span className="text-accent">Hub</span>
+              <span className="text-accent">Kendra</span>
             </Link>
             <p className="text-sm text-text-muted leading-relaxed">
               Simple, accurate information about government schemes, exams, and personal finance.
@@ -63,7 +63,7 @@ export function Footer() {
             <Link href="/disclaimer" className="text-sm text-text-muted hover:text-text-secondary">Disclaimer</Link>
           </div>
           <p className="text-sm text-text-muted text-center">
-            © {new Date().getFullYear()} JaankariHub · All info sourced from official portals
+            © {new Date().getFullYear()} KnowledgeKendra · All info sourced from official portals
           </p>
         </div>
       </div>

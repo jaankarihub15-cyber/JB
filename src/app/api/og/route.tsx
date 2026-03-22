@@ -11,7 +11,7 @@ const catColors: Record<string, { bg: string; accent: string; label: string }> =
 
 export async function GET(req: NextRequest) {
   const { searchParams } = req.nextUrl;
-  const title = searchParams.get("title") || "JaankariHub";
+  const title = searchParams.get("title") || "KnowledgeKendra";
   const icon = searchParams.get("icon") || "📋";
   const cat = searchParams.get("cat") || "yojana";
 
@@ -103,7 +103,7 @@ export async function GET(req: NextRequest) {
                 opacity: 0.9,
               }}
             >
-              JaankariHub.in
+              KnowledgeKendra.in
             </div>
           </div>
           <div
