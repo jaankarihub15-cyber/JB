@@ -1,0 +1,458 @@
+{
+  "slug": "uptet",
+  "title": "UPTET 2026 — UP Teacher Eligibility Test",
+  "meta_description": "UPTET 2026 — UP Teacher Eligibility Test for primary and upper primary teachers. Paper 1/2 pattern, syllabus, eligibility, and preparation guide.",
+  "hero": {
+    "status": "upcoming",
+    "one_liner": "Mandatory qualification for teaching in Uttar Pradesh government schools — Paper 1 for Classes 1-5 (Primary), Paper 2 for Classes 6-8 (Upper Primary).",
+    "icon": "📚",
+    "updated_date": "March 2026",
+    "stats": [
+      {
+        "label": "Exam Dates",
+        "value": "July 2-4, 2026"
+      },
+      {
+        "label": "Validity",
+        "value": "Lifetime"
+      },
+      {
+        "label": "For Classes",
+        "value": "1-8"
+      },
+      {
+        "label": "State",
+        "value": "Uttar Pradesh"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "📝",
+      "label": "Apply at UPTET",
+      "url": "https://updeled.gov.in/"
+    },
+    {
+      "icon": "📞",
+      "label": "Helpline",
+      "url": "tel:0532-2467504"
+    }
+  ],
+  "what_is_it": [
+    "UPTET (Uttar Pradesh Teacher Eligibility Test) is conducted by the UP Basic Education Board for certifying candidates to teach in UP government schools — Paper 1 for Primary Teachers (Classes 1-5) and Paper 2 for Upper Primary Teachers (Classes 6-8). UPTET qualification is MANDATORY for appointment as a teacher in any government school under the UP Board. Without UPTET certificate, you cannot be appointed to a government school teaching position in Uttar Pradesh, regardless of other qualifications.",
+    "The exam has two papers conducted separately: Paper 1 (150 MCQs, 150 marks, 2.5 hours) for Primary teacher eligibility, and Paper 2 (150 MCQs, 150 marks, 2.5 hours) for Upper Primary teacher eligibility. You can appear for both papers to gain eligibility at both levels. Qualifying mark is 60% (90 out of 150 marks) for General candidates and 55% (82 out of 150) for OBC/SC/ST candidates. Critically, UPTET has ZERO negative marking — you lose no points for wrong answers, only gain for correct ones.",
+    "UPTET qualification is now valid for LIFETIME (changed from earlier 5-year validity). Once you qualify, your certificate never expires — you can use it to apply for government school vacancies anytime in future. This is aligned with CTET's lifetime validity policy following a Supreme Court directive. The exam is conducted by the UP Basic Education Board in coordination with state authorities. UPTET 2026 is scheduled for July 2-4, 2026, with application window from March 27 to April 26, 2026.",
+    "After qualifying UPTET, you need to clear the actual teacher recruitment exam (UP Assistant Teacher Recruitment or Super TET) to get appointed. UPTET is an eligibility test, not a recruitment/selection exam. Once you have UPTET, you're permanently eligible — then participate in recruitment exams whenever announced. Many candidates prepare for both UPTET and CTET (CBSE's national teacher eligibility) to maximize opportunities in both UP government schools and central schools (KVS, NVS)."
+  ],
+  "key_details": [
+    {
+      "label": "Conducting Body",
+      "value": "UP Basic Education Board (Uttar Pradesh)",
+      "highlight": false
+    },
+    {
+      "label": "Paper 1 Eligibility (Classes 1-5)",
+      "value": "D.El.Ed or BTC qualification + 12th pass with 50% marks",
+      "highlight": true
+    },
+    {
+      "label": "Paper 2 Eligibility (Classes 6-8)",
+      "value": "B.Ed + Bachelor's degree with 50% marks",
+      "highlight": true
+    },
+    {
+      "label": "Qualifying Marks",
+      "value": "60% (90/150) for General. 55% (82/150) for OBC/SC/ST/PwD.",
+      "highlight": true
+    },
+    {
+      "label": "Validity After Qualifying",
+      "value": "LIFETIME — no expiry (changed from 5 years in 2023)",
+      "highlight": true
+    },
+    {
+      "label": "Negative Marking",
+      "value": "ZERO negative marking — no penalty for wrong answers",
+      "highlight": true
+    },
+    {
+      "label": "Exam Format",
+      "value": "150 MCQs per paper, pen-and-paper mode",
+      "highlight": false
+    },
+    {
+      "label": "Application Fee",
+      "value": "₹600 (General). ₹150 (OBC/SC/ST)",
+      "highlight": false
+    }
+  ],
+  "exam_pattern": [
+    {
+      "tier_name": "Paper 1 — Primary Teacher (Classes 1-5) — 2.5 hours",
+      "description": "150 MCQs covering 5 subjects. No negative marking — attempt all 150 questions. Exam tests knowledge of teaching pedagogy, language, and basic subjects taught in Primary classes.",
+      "subjects": [
+        {
+          "name": "Child Development & Pedagogy (CDP)",
+          "questions": 30,
+          "marks": 30
+        },
+        {
+          "name": "Language I (Hindi)",
+          "questions": 30,
+          "marks": 30
+        },
+        {
+          "name": "Language II (English/Urdu/Sanskrit)",
+          "questions": 30,
+          "marks": 30
+        },
+        {
+          "name": "Mathematics",
+          "questions": 30,
+          "marks": 30
+        },
+        {
+          "name": "Environmental Studies (EVS)",
+          "questions": 30,
+          "marks": 30
+        }
+      ],
+      "total_questions": 150,
+      "total_marks": 150,
+      "duration": "150 minutes (2.5 hours)",
+      "negative_marking": "ZERO negative marking. +1 for each correct answer. No marking deduction for wrong answers."
+    },
+    {
+      "tier_name": "Paper 2 — Upper Primary Teacher (Classes 6-8) — 2.5 hours",
+      "description": "150 MCQs covering 4 subject areas. No negative marking — attempt all 150 questions. Tests knowledge at Upper Primary level.",
+      "subjects": [
+        {
+          "name": "Child Development & Pedagogy (CDP)",
+          "questions": 30,
+          "marks": 30
+        },
+        {
+          "name": "Language I (Hindi)",
+          "questions": 30,
+          "marks": 30
+        },
+        {
+          "name": "Language II (English/Urdu/Sanskrit)",
+          "questions": 30,
+          "marks": 30
+        },
+        {
+          "name": "Science + Mathematics OR Social Studies (choose one)",
+          "questions": 60,
+          "marks": 60
+        }
+      ],
+      "total_questions": 150,
+      "total_marks": 150,
+      "duration": "150 minutes (2.5 hours)",
+      "negative_marking": "ZERO negative marking. +1 for each correct answer. No marking deduction for wrong answers."
+    }
+  ],
+  "major_posts": [
+    {
+      "post": "Primary Teacher (Classes 1-5)",
+      "pay_level": "Level 1 (₹36,600-57,000 basic)",
+      "in_hand_salary": "₹42,000-55,000/month (with DA, HRA, allowances)",
+      "department": "UP Basic Education Board (Primary Schools)"
+    },
+    {
+      "post": "Upper Primary Teacher (Classes 6-8)",
+      "pay_level": "Level 2 (₹44,900-77,400 basic)",
+      "in_hand_salary": "₹50,000-65,000/month (with DA, HRA, allowances)",
+      "department": "UP Basic Education Board (Upper Primary Schools)"
+    },
+    {
+      "post": "Government School Teacher (Regular/Permanent)",
+      "pay_level": "Permanent position with pension benefits",
+      "in_hand_salary": "₹42,000-70,000/month",
+      "department": "UP government schools across state"
+    }
+  ],
+  "extra_sections": [
+    {
+      "heading": "NO NEGATIVE MARKING — Strategy & Importance",
+      "icon": "💡",
+      "type": "text",
+      "content": [
+        "<h3>Zero Negative Marking Means Attempt All 150 Questions</h3><p>This is UPTET's unique advantage vs other exams. In a typical exam with negative marking, you calculate: If I don't know, is -1 penalty worse than 0 for not attempting?",
+        "With UPTET's zero penalty, there is NO strategic dilemma. Attempt every single question.",
+        "Even random guessing on 25% of questions (unread/unsure questions) gives you: 25% × 150 ÷ 4 choices = 9 free marks from pure luck. Never leave a question blank in UPTET.</p>",
+        "<h3>This Changes Preparation Approach</h3><p>Traditional exam approach: Focus on attempting 100-120 questions perfectly. UPTET approach: Attempt ALL 150, maximize accuracy on high-confidence questions, use guessing on uncertain questions.",
+        "This means: (1) Don't worry about 'tough' questions — attempt anyway, (2) Don't build 'safety margins' — no penalty exists, (3) Speed up — you can read faster since wrong answer = zero, not negative, (4) Guess on 5-10 unfamiliar questions per paper — they contribute points, not loss."
+      ]
+    },
+    {
+      "heading": "UPTET vs CTET — Do You Need Both Certificates?",
+      "icon": "⚖️",
+      "type": "table",
+      "columns": [
+        "Feature",
+        "UPTET",
+        "CTET"
+      ],
+      "rows": [
+        [
+          "Valid For",
+          "UP government schools only",
+          "Central schools (KVS, NVS) + many states accept CTET"
+        ],
+        [
+          "Conducting Body",
+          "UP Basic Education Board",
+          "CBSE (Central Board of Secondary Education)"
+        ],
+        [
+          "Syllabus Overlap",
+          "~75-80% common with CTET",
+          "~75-80% common with UPTET"
+        ],
+        [
+          "Validity After Qualifying",
+          "LIFETIME (recent change)",
+          "LIFETIME (changed in 2023)"
+        ],
+        [
+          "Languages",
+          "Hindi + English/Urdu/Sanskrit",
+          "Hindi/English + any language"
+        ],
+        [
+          "Who Should Take Both?",
+          "Serious UP teachers wanting max flexibility",
+          "Flexibility: UPTET for UP, CTET for central/other states"
+        ],
+        [
+          "Best Strategy",
+          "Prepare once, appear for both UPTET and CTET",
+          "Saves months of separate study"
+        ]
+      ]
+    },
+    {
+      "heading": "After UPTET — Recruitment Path to Government School Job",
+      "icon": "🎯",
+      "type": "text",
+      "content": [
+        "<h3>UPTET is Eligibility, Not Selection</h3><p>UPTET certificate proves you're qualified to teach. But it doesn't get you a job.",
+        "To become a government school teacher in UP, follow this path: (1) Qualify UPTET (which you're preparing for), (2) Wait for UP Teacher Recruitment notification (conducted by UP Basic Education Board), (3) Appear for written recruitment exam, (4) Clear exam and appear in interview/merit list, (5) Get selected and appointed to a school.</p>",
+        "<h3>UP Recruitment Exam (Super TET or Assistant Teacher)</h3><p>After UPTET, the actual recruitment happens through: 'UP Super TET' (Shiksha Mitra to Assistant Teacher) or direct 'Assistant Teacher Recruitment' exams. These exams test: Language (Hindi/English), Science, Mathematics, Environmental Studies, Child Psychology, Reasoning, General Knowledge.",
+        "Syllabus overlaps with UPTET, but focus is slightly different — more reasoning and GK, less pedagogy.</p>",
+        "<h3>KVS/NVS Alternative (if you have CTET)</h3><p>If you qualify both UPTET and CTET, you can apply for central schools: Kendriya Vidyalaya (KVS) and Navodaya Vidyalaya (NVS). These pay higher (Level 2 starting ₹50,000+) and have better working conditions.",
+        "But competition is tougher. Many teachers prepare for both and apply for whichever recruitment opens first."
+      ]
+    }
+  ],
+  "important_dates": [
+    {
+      "label": "Application Window",
+      "value": "March 27 - April 26, 2026",
+      "highlight": true
+    },
+    {
+      "label": "Exam Dates",
+      "value": "July 2, 3, 4, 2026",
+      "highlight": true
+    },
+    {
+      "label": "Result Declaration",
+      "value": "August 2026 (typically)",
+      "highlight": false
+    },
+    {
+      "label": "Certificate Validity",
+      "value": "LIFETIME after qualifying",
+      "highlight": true
+    },
+    {
+      "label": "Recruitment Notification",
+      "value": "Periodic (as per government needs)",
+      "highlight": false
+    }
+  ],
+  "preparation_tips": [
+    "Child Development & Pedagogy (30 marks) is common to both Paper 1 and 2 and is UPTET-specific compared to school teaching content. Study: Piaget's theory of cognitive development, Vygotsky's social constructivism, Kohlberg's moral development, Howard Gardner's Multiple Intelligences, Bloom's taxonomy, RTE 2009 (Right to Education Act), NCF 2005 (National Curriculum Framework), inclusive education, learning disabilities. This section is highly scorable with focused 2-week preparation — 25+ marks is achievable.",
+    "NO NEGATIVE MARKING means attempt EVERY question. Even if you've read only 70 out of 150 questions, fill bubbles for all 150 — random guessing on 80 questions gives ~20 marks (25% of 80). This 'free' approach can push your score from 80 to 100 marks. Never leave blanks in UPTET. This is the biggest strategic difference from other exams.",
+    "NCERT textbooks for Classes 1-8 are the primary source. UPTET questions often come from NCERT directly — diagrams, definitions, examples. Read NCERT EVS for Paper 1 thoroughly. For Paper 2, read Class 6-8 Science/Social Studies NCERT. Don't use fancy reference books — NCERT content + previous year papers = 80% of preparation.",
+    "Language proficiency in Hindi is critical. Paper 1 has 60 marks in Languages (Hindi 30 + Language II 30). If you're weak in Hindi language skills, dedicate 3-4 weeks to Hindi grammar, vocabulary, reading comprehension. English/Urdu/Sanskrit as Language II requires less depth — basic knowledge suffices. Many candidates underestimate language section — strong Hindi skills = 50+ marks guaranteed.",
+    "Previous year UPTET papers (last 5-7 years) are your best practice resource. Solve all available papers to identify question patterns. Many UPTET questions repeat across years — sometimes with slight variations. After solving previous papers, you'll recognize 20-30% of questions in the actual exam, giving instant 20-30 marks."
+  ],
+  "faqs": [
+    {
+      "question": "I have B.Ed but no UPTET. Can I teach in UP government schools?",
+      "answer": "No. UPTET is mandatory for appointment in UP government schools. B.Ed alone is insufficient. You must clear UPTET first. However, some private schools in UP accept B.Ed without UPTET — check individual school policies. For any government school under UP Board, UPTET is non-negotiable."
+    },
+    {
+      "question": "I qualified CTET. Do I still need UPTET for UP government schools?",
+      "answer": "For UP Basic Education Board schools: UPTET is required. CTET alone may not guarantee UP government school appointment. However, policies change — check latest UP government notification. For maximum flexibility: Have both CTET and UPTET. Preparation is 75% common — appear for both. This opens doors in: UP government schools (with UPTET), Central schools KVS/NVS (with CTET), and potentially other states accepting CTET."
+    },
+    {
+      "question": "UPTET is now lifetime valid — confirmed?",
+      "answer": "Yes. Following the CTET lifetime validity change in 2023, UPTET certificates are now valid for LIFETIME. You don't need to re-appear once qualified. Your certificate is permanently valid for government school recruitment. This is a major advantage — qualify once, use forever."
+    },
+    {
+      "question": "I failed UPTET. How many times can I retry?",
+      "answer": "Unlimited attempts. There's no official limit on the number of times you can appear for UPTET. Each year's UPTET is a fresh exam. If you scored close to the cutoff (80-89 marks out of 150), retake next year focusing on weak topics. Typically, scoring 90 marks in UPTET is achievable with focused 2-3 month preparation."
+    },
+    {
+      "question": "What's the difference between Paper 1 and Paper 2 eligibility?",
+      "answer": "Paper 1 (Primary, Classes 1-5): Requires D.El.Ed or BTC (2-year diploma) + 12th pass. Easier eligibility. Paper 2 (Upper Primary, Classes 6-8): Requires full B.Ed (4-year degree) + Bachelor's degree. More rigorous qualification. If you have B.Ed, you can appear for both papers. Paper 2 salary is slightly higher (Level 2 vs Level 1). If you have only D.El.Ed, you're restricted to Paper 1."
+    },
+    {
+      "question": "Can I prepare for UPTET and CTET simultaneously?",
+      "answer": "Yes, highly recommended. Syllabus overlap is 75%+. Prepare together: Read NCERT (common), study CDP from both curricula (slight variations), practice language sections (Hindi is common), solve both UPTET and CTET previous papers. This takes only 10-15% extra effort compared to preparing for one exam. Result: You get both certificates, opening doors in UP and central schools. Efficiency at its best."
+    }
+  ],
+  "official_portal": {
+    "name": "UP Basic Education Board",
+    "url": "https://updeled.gov.in"
+  },
+  "related_pages": [
+    {
+      "title": "CTET 2026",
+      "slug": "ctet",
+      "tag": "Teaching",
+      "url": "/exam/ctet"
+    },
+    {
+      "title": "UGC NET 2026",
+      "slug": "ugc-net",
+      "tag": "Teaching",
+      "url": "/exam/ugc-net"
+    },
+    {
+      "title": "UPPSC PCS 2026",
+      "slug": "uppsc-pcs",
+      "tag": "State PSC",
+      "url": "/exam/uppsc-pcs"
+    }
+  ],
+  "tags": [
+    "UPTET",
+    "UP Teacher",
+    "Teaching",
+    "Primary",
+    "Upper Primary",
+    "Uttar Pradesh",
+    "Eligibility"
+  ],
+  "image_suggestions": [
+    "UP school classroom and teaching",
+    "Teacher with students in classroom",
+    "UPTET exam question paper or OMR sheet",
+    "Child learning and development concepts",
+    "School building and educational setting",
+    "Teacher training and pedagogy visual"
+  ],
+  "exam_prep": {
+    "syllabus": [
+      {
+        "subject": "Child Development & Pedagogy",
+        "topics": "Same as CTET — Piaget, Vygotsky, inclusive education, learning disabilities, NCF 2005, assessment methods, motivation theories",
+        "questions": 30,
+        "marks": 30,
+        "tag": "Reasoning"
+      },
+      {
+        "subject": "Language I (Hindi)",
+        "topics": "Hindi grammar, comprehension, Hindi pedagogy, teaching methods for Hindi language",
+        "questions": 30,
+        "marks": 30,
+        "tag": "English"
+      },
+      {
+        "subject": "Language II (English/Sanskrit/Urdu)",
+        "topics": "Grammar, comprehension, language pedagogy, error detection, vocabulary",
+        "questions": 30,
+        "marks": 30,
+        "tag": "English"
+      },
+      {
+        "subject": "Mathematics",
+        "topics": "Number system, algebra, geometry, mensuration, data handling, teaching methodology for mathematics",
+        "questions": 30,
+        "marks": 30,
+        "tag": "Maths"
+      },
+      {
+        "subject": "Environmental Studies / Science / Social Studies",
+        "topics": "Paper 1: EVS pedagogy, family, food, water, environment. Paper 2: Science/Social Studies content + pedagogy",
+        "questions": 30,
+        "marks": 30,
+        "tag": "GK"
+      }
+    ],
+    "books": [
+      {
+        "title": "UPTET Guide (Paper 1 & 2)",
+        "author": "Arihant / Youth Competition Times",
+        "subject": "All-in-one"
+      },
+      {
+        "title": "Child Development & Pedagogy",
+        "author": "Arihant Publications",
+        "subject": "CDP"
+      },
+      {
+        "title": "UPTET Previous Year Papers",
+        "author": "Kiran Publications",
+        "subject": "Practice"
+      },
+      {
+        "title": "NCERT Hindi & English Textbooks",
+        "author": "NCERT",
+        "subject": "Language"
+      }
+    ],
+    "study_plan": [
+      {
+        "period": "Month 1-2: CDP + Languages",
+        "tasks": "UPTET syllabus is very similar to CTET. Focus on CDP theories (30 marks). Hindi grammar and pedagogy. English grammar basics. Start NCERT content for your paper level."
+      },
+      {
+        "period": "Month 3: Content + Practice",
+        "tasks": "Maths/Science/Social Studies content from NCERT. Solve UPTET previous papers (2019-2025). Practice pedagogy questions — these are scoring. UP-specific education policies and schemes."
+      },
+      {
+        "period": "Month 4: Mocks + Revision",
+        "tasks": "Full mocks weekly. No negative marking — attempt all 150 questions. Qualifying marks: 60% (90/150). Revise CDP theories and pedagogy points. Time: 2.5 hours for 150 questions."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "UPTET is conducted by:",
+        "options": [
+          "CBSE",
+          "UP Board",
+          "UPDELED",
+          "UP Exam Regulatory Authority"
+        ],
+        "answer": 3
+      },
+      {
+        "question": "Gardner's theory includes how many intelligences?",
+        "options": [
+          "5",
+          "7",
+          "8",
+          "10"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Right to Education Act was passed in:",
+        "options": [
+          "2005",
+          "2008",
+          "2009",
+          "2010"
+        ],
+        "answer": 2
+      }
+    ]
+  }
+}

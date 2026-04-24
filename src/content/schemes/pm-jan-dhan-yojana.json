@@ -1,0 +1,381 @@
+{
+  "slug": "pm-jan-dhan-yojana",
+  "title": "PM Jan Dhan Yojana",
+  "meta_description": "PM Jan Dhan Yojana 2026 — open zero-balance bank account with free RuPay debit card, ₹2 lakh accident insurance, and overdraft facility.",
+  "hero": {
+    "status": "active",
+    "one_liner": "Zero-balance savings account with free RuPay debit card, ₹2 lakh accident insurance, and overdraft facility — India's largest financial inclusion drive",
+    "icon": "🏦",
+    "updated_date": "March 2026",
+    "stats": [
+      {
+        "label": "Accounts Opened",
+        "value": "55+ Crore"
+      },
+      {
+        "label": "Balance",
+        "value": "Zero minimum"
+      },
+      {
+        "label": "Insurance",
+        "value": "₹2 Lakh accident"
+      },
+      {
+        "label": "Overdraft",
+        "value": "Up to ₹10,000"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "📝",
+      "label": "Open at Any Bank",
+      "url": "https://pmjdy.gov.in/"
+    },
+    {
+      "icon": "📊",
+      "label": "Check Statistics",
+      "url": "https://pmjdy.gov.in/statewise-statistics"
+    },
+    {
+      "icon": "📞",
+      "label": "Helpline: 011-23361571",
+      "url": "tel:01123361571"
+    }
+  ],
+  "what_is_it": [
+    "Pradhan Mantri Jan Dhan Yojana (PMJDY) is India's largest financial inclusion program, launched on 28 August 2014. The scheme aims to provide every Indian household with a bank account that can be opened with zero balance and zero documentation hassle. It is the gateway through which the government delivers DBT (Direct Benefit Transfer) payments for all other schemes like PM Kisan, LPG subsidy, NREGA wages, and scholarships.",
+    "As of March 2026, over 55 crore Jan Dhan accounts have been opened across India — making it a Guinness World Record holder for the most bank accounts opened in a financial inclusion campaign. The total deposits in these accounts exceed ₹2.67 lakh crore, showing that these are not just dormant accounts but actively used for savings and transactions.",
+    "Every Jan Dhan account comes with a free RuPay debit card that provides ₹2 lakh accident insurance cover (for accidental death or permanent disability). Account holders who opened accounts between August 2014 and January 2015 also get ₹30,000 life insurance cover under PMJJBY. Additionally, eligible account holders can get an overdraft facility of up to ₹10,000 after maintaining the account satisfactorily for 6 months.",
+    "The scheme has been transformative for India's digital payment ecosystem. Jan Dhan accounts are the backbone of receiving government subsidies, NREGA wages, pension payments, and are linked to UPI/Aadhaar for digital transactions. The success of PMJDY enabled other programs like PM Kisan Samman Nidhi and Ayushman Bharat to reach beneficiaries directly without intermediaries."
+  ],
+  "eligibility": [
+    {
+      "label": "Who can open",
+      "value": "Any Indian citizen, including minors (above 10 years can open independently)",
+      "highlight": true
+    },
+    {
+      "label": "Minimum balance",
+      "value": "₹0 — truly zero-balance account with no minimum balance requirement",
+      "highlight": true
+    },
+    {
+      "label": "Documents needed",
+      "value": "Only ONE document: Aadhaar card (if Aadhaar not available: voter ID, driving license, PAN, NREGA job card, or gazetted officer letter)",
+      "highlight": false
+    },
+    {
+      "label": "Existing account",
+      "value": "If you already have a bank account, you can convert it to a Jan Dhan account to get the benefits (RuPay card, insurance, overdraft)",
+      "highlight": false
+    },
+    {
+      "label": "Where to open",
+      "value": "Any bank branch (nationalized, private, or regional rural bank) or Banking Correspondent (BC) point in your village/area",
+      "highlight": false
+    },
+    {
+      "label": "Small account option",
+      "value": "If you have no ID document, open a 'Small Account' with just a self-attested photo — but must provide valid ID within 12 months",
+      "highlight": false
+    }
+  ],
+  "eligibility_filters": {
+    "gender": [
+      "all"
+    ],
+    "age_min": 10,
+    "age_max": 100,
+    "occupation": [
+      "any"
+    ],
+    "income_max": 9999999,
+    "category": [
+      "general",
+      "obc",
+      "sc",
+      "st"
+    ],
+    "states": [
+      "all"
+    ]
+  },
+  "extra_sections": [
+    {
+      "heading": "What You Get with a Jan Dhan Account",
+      "icon": "🎁",
+      "type": "text",
+      "content": [
+        "Zero-balance savings account: No minimum balance requirement. You won't be charged any penalty even if your account balance is ₹0.",
+        "Regular savings accounts charge ₹300-1,000 per quarter if minimum balance isn't maintained.",
+        "Free RuPay debit card: Every Jan Dhan account holder gets a free RuPay debit card. This card can be used at ATMs to withdraw cash and at shops/online for payments.",
+        "The card also provides ₹2 lakh accidental death and permanent disability insurance — completely free.",
+        "Accident Insurance (₹2 lakh): If the Jan Dhan account holder dies or becomes permanently disabled due to an accident, the nominee receives ₹2 lakh. The only condition is that the card must have been used at least once in the 90 days before the accident.",
+        "Overdraft facility (up to ₹10,000): After maintaining the account satisfactorily for 6 months with regular deposits/withdrawals, you can apply for an overdraft of up to ₹10,000. One account per household (preferably in woman's name) is eligible.",
+        "Direct Benefit Transfer (DBT): Jan Dhan accounts are the primary channel for receiving government benefits — PM Kisan payments, LPG subsidy, NREGA wages, scholarship money, and pension. If you don't have a Jan Dhan account, you may face delays in receiving government benefits.",
+        "No charges: No charges for opening the account, no annual maintenance charges, no minimum balance charges, and no charge for RuPay card issuance (first card)."
+      ]
+    },
+    {
+      "heading": "Jan Dhan Account Growth: 10-Year Success Story",
+      "icon": "📈",
+      "type": "table",
+      "columns": [
+        "Year",
+        "Accounts (Crore)",
+        "Deposits (Lakh Cr)",
+        "Milestone"
+      ],
+      "rows": [
+        [
+          "2014-15",
+          "3.18",
+          "0.05",
+          "Launch year"
+        ],
+        [
+          "2015-16",
+          "8.60",
+          "0.25",
+          "Rapid expansion"
+        ],
+        [
+          "2016-17",
+          "14.72",
+          "0.60",
+          "50% rural coverage"
+        ],
+        [
+          "2017-18",
+          "29.20",
+          "0.95",
+          "Women: 50%+"
+        ],
+        [
+          "2019-20",
+          "38.60",
+          "1.38",
+          "DBT surge"
+        ],
+        [
+          "2021-22",
+          "44.30",
+          "1.75",
+          "Digital payment"
+        ],
+        [
+          "2023-24",
+          "52.81",
+          "2.31",
+          "52 crore milestone"
+        ],
+        [
+          "2025-26",
+          "55.02",
+          "2.67",
+          "55+ crore, Guinness Record"
+        ]
+      ]
+    },
+    {
+      "heading": "Jan Dhan vs Regular Savings Account",
+      "icon": "⚖️",
+      "type": "table",
+      "columns": [
+        "Feature",
+        "Jan Dhan Account",
+        "Regular Savings Account"
+      ],
+      "rows": [
+        [
+          "Minimum balance",
+          "₹0 (zero)",
+          "₹1,000–10,000"
+        ],
+        [
+          "Balance penalty",
+          "None",
+          "₹300–1,000/quarter"
+        ],
+        [
+          "Account opening charge",
+          "₹0",
+          "₹0–500"
+        ],
+        [
+          "RuPay card",
+          "Free",
+          "Free or ₹100-200"
+        ],
+        [
+          "Accident insurance",
+          "₹2 lakh",
+          "₹2 lakh"
+        ],
+        [
+          "Overdraft",
+          "Up to ₹10,000",
+          "Not applicable"
+        ],
+        [
+          "Interest rate",
+          "2.7-4%",
+          "2.7-4%"
+        ],
+        [
+          "ATM transactions",
+          "4 free/month",
+          "4-5 free/month"
+        ],
+        [
+          "Best for",
+          "Low-income, first-time, DBT",
+          "Regular banking"
+        ]
+      ]
+    }
+  ],
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Visit any bank branch with Aadhaar card",
+      "description": "You can go to absolutely any bank in India — SBI, PNB, BOB, HDFC, ICICI, or any regional rural bank."
+    },
+    {
+      "step": 2,
+      "title": "Ask specifically for PMJDY account",
+      "description": "Tell the bank staff you want to open a Pradhan Mantri Jan Dhan Yojana account. This is important because a regular account may have minimum balance requirements."
+    },
+    {
+      "step": 3,
+      "title": "Fill form and submit documents",
+      "description": "Fill the simple account opening form. Attach photocopy of Aadhaar and passport-size photo. No initial deposit needed."
+    },
+    {
+      "step": 4,
+      "title": "Get passbook and await RuPay card",
+      "description": "Account activated immediately with passbook. RuPay debit card arrives in 7-14 days. Use the card at least once every 90 days to keep accident insurance active."
+    }
+  ],
+  "important_alert": {
+    "text": "If any bank refuses to open a Jan Dhan (zero-balance) account for you, it is a violation of RBI and government guidelines. Report to the bank's grievance cell or call the PMJDY helpline at <strong>011-23361571</strong>.",
+    "type": "warning"
+  },
+  "important_dates": [
+    {
+      "label": "Application",
+      "value": "Open throughout the year at all banks — no deadline",
+      "highlight": true
+    },
+    {
+      "label": "RuPay card insurance",
+      "value": "₹2 lakh — card must be used once every 90 days",
+      "highlight": true
+    },
+    {
+      "label": "Overdraft eligibility",
+      "value": "After 6 months of satisfactory account operation",
+      "highlight": false
+    },
+    {
+      "label": "Helpline",
+      "value": "011-23361571",
+      "highlight": false
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I open Jan Dhan account if I already have a bank account?",
+      "answer": "You cannot open a second Jan Dhan account if you already have one. But you CAN convert your existing regular savings account to a Jan Dhan account to avail zero-balance and insurance benefits. Visit your bank and request the conversion — it's free."
+    },
+    {
+      "question": "How does the ₹2 lakh accident insurance work?",
+      "answer": "If a Jan Dhan account holder dies or suffers permanent total disability due to an accident, the nominee receives ₹2 lakh. The only condition: your RuPay card must have been used for at least one transaction (ATM, POS, or online) within 90 days before the accident."
+    },
+    {
+      "question": "Can I get a cheque book with Jan Dhan account?",
+      "answer": "Yes. You can request a cheque book for your Jan Dhan account. However, some banks may ask you to maintain a minimum balance (₹500-1,000) to issue a cheque book. The account itself remains zero-balance."
+    },
+    {
+      "question": "Is there a limit on deposits in Jan Dhan account?",
+      "answer": "No. You can deposit any amount in your Jan Dhan account — there is no upper limit. The zero-balance feature only means you don't need a minimum balance to maintain the account."
+    },
+    {
+      "question": "How to get the ₹10,000 overdraft?",
+      "answer": "After maintaining the account with regular activity for at least 6 months with Aadhaar linked, you can apply for an overdraft of up to ₹10,000. Visit your bank branch and request the overdraft facility. Only one account per household (preferably in woman's name) is eligible."
+    },
+    {
+      "question": "What if my Jan Dhan account becomes inactive?",
+      "answer": "If there are no transactions for 24 months, it becomes 'dormant'. To reactivate, visit your bank branch with your passbook and Aadhaar card. Submit a reactivation request — it's free and takes 1-2 days."
+    },
+    {
+      "question": "Can minors open Jan Dhan account?",
+      "answer": "Children above 10 years can open a Jan Dhan account independently. Children below 10 can have accounts opened by their parents/guardians on their behalf. This is a great way to introduce financial literacy early."
+    },
+    {
+      "question": "Can I link Jan Dhan account to Aadhaar for e-KYC?",
+      "answer": "Yes, strongly recommended. Linking your Jan Dhan account to Aadhaar enables you to do e-KYC (electronic Know Your Customer) verification. This opens doors to receiving government benefits and accessing digital financial services."
+    }
+  ],
+  "official_portal": {
+    "name": "PMJDY Official Website",
+    "url": "https://pmjdy.gov.in"
+  },
+  "related_pages": [
+    {
+      "title": "PM Kisan Samman Nidhi",
+      "slug": "pm-kisan",
+      "tag": "Agriculture",
+      "url": "/yojana/pm-kisan"
+    },
+    {
+      "title": "Atal Pension Yojana",
+      "slug": "atal-pension-yojana",
+      "tag": "Pension",
+      "url": "/yojana/atal-pension-yojana"
+    },
+    {
+      "title": "PM Suraksha Bima Yojana",
+      "slug": "pm-suraksha-bima-yojana",
+      "tag": "Insurance",
+      "url": "/yojana/pm-suraksha-bima-yojana"
+    },
+    {
+      "title": "PM Jeevan Jyoti Bima Yojana",
+      "slug": "pm-jeevan-jyoti-bima",
+      "tag": "Insurance",
+      "url": "/yojana/pm-jeevan-jyoti-bima"
+    },
+    {
+      "title": "e-Shram Card",
+      "slug": "e-shram-card",
+      "tag": "Labour",
+      "url": "/yojana/e-shram-card"
+    },
+    {
+      "title": "PM Awas Yojana (Housing)",
+      "slug": "pm-awas-yojana",
+      "tag": "Housing",
+      "url": "/yojana/pm-awas-yojana"
+    }
+  ],
+  "tags": [
+    "Banking",
+    "Financial Inclusion",
+    "Zero Balance",
+    "RuPay",
+    "DBT",
+    "Central Government"
+  ],
+  "ministry": "Ministry of Finance",
+  "launch_year": 2014,
+  "image_suggestions": [
+    "jan-dhan-account-opening-process-rural-bank",
+    "rupay-debit-card-features-benefits",
+    "jan-dhan-digital-payment-upi-qr-code",
+    "women-jan-dhan-beneficiaries-success-story",
+    "jan-dhan-financial-inclusion-india-map",
+    "overdraft-facility-usage-small-traders"
+  ]
+}

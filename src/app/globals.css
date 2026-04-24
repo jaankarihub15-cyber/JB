@@ -1,0 +1,72 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #F8F8F6;
+  --color-card: #FFFFFF;
+  --color-card-alt: #F1F0EC;
+  --color-border: #E5E7EB;
+  --color-accent: #1B6B4A;
+  --color-accent-light: #DCFCE7;
+  --color-accent-dark: #145236;
+  --color-orange: #EA580C;
+  --color-orange-light: #FFF7ED;
+  --color-blue: #2563EB;
+  --color-blue-light: #DBEAFE;
+  --color-blue-dark: #1E40AF;
+  --color-red: #DC2626;
+  --color-red-light: #FEE2E2;
+  --color-purple: #7C3AED;
+  --color-purple-light: #F3E8FF;
+  --color-text: #111827;
+  --color-text-secondary: #4B5563;
+  --color-text-muted: #6B7280;
+  --color-tag-bg: #F1F0EC;
+
+  --font-heading: var(--font-jakarta), -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-body: var(--font-jakarta), -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}
+
+/* Base styles */
+html {
+  font-size: 16px;
+}
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+  font-size: 1rem;
+  line-height: 1.65;
+}
+
+/* Utility classes for Theme D design system */
+.heading {
+  font-family: var(--font-heading);
+  font-weight: 800;
+  letter-spacing: -0.3px;
+}
+
+.card {
+  background: var(--color-card);
+  border: 1px solid var(--color-border);
+  border-radius: 16px;
+}
+
+.card:hover {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.04);
+  transform: translateY(-1px);
+}
+
+/* Smooth transitions */
+* {
+  transition-property: color, background-color, border-color, box-shadow, transform;
+  transition-duration: 150ms;
+}
+
+/* Prevent horizontal overflow on mobile */
+html, body {
+  overflow-x: hidden;
+  max-width: 100vw;
+}

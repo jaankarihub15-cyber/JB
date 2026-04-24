@@ -1,0 +1,436 @@
+{
+  "slug": "sikho-kamao-yojana",
+  "title": "Sikho Kamao Yojana Madhya Pradesh",
+  "meta_description": "Sikho Kamao: Earn ₹8,000-10,000/month while training in 700+ job skills. Job placement after training included.",
+  "hero": {
+    "status": "active",
+    "one_liner": "Learn job skills and earn ₹8,000-10,000 per month during training in Madhya Pradesh",
+    "icon": "💼",
+    "updated_date": "March 2026",
+    "stats": [
+      {
+        "label": "Monthly Stipend",
+        "value": "₹8,000-10,000"
+      },
+      {
+        "label": "Available Sectors",
+        "value": "700+ trades"
+      },
+      {
+        "label": "Registered Trainees",
+        "value": "10+ lakh"
+      },
+      {
+        "label": "Minimum Education",
+        "value": "10th/12th pass or ITI"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "📚",
+      "label": "Register Online",
+      "url": "https://mmsky.mp.gov.in/"
+    },
+    {
+      "icon": "🏢",
+      "label": "Find Nearby Center",
+      "url": "https://mmsky.mp.gov.in/centers"
+    },
+    {
+      "icon": "📋",
+      "label": "View Available Trades",
+      "url": "https://mmsky.mp.gov.in/trades"
+    },
+    {
+      "icon": "👔",
+      "label": "Job Placement Board",
+      "url": "https://mmsky.mp.gov.in/placement"
+    }
+  ],
+  "what_is_it": [
+    "Mukhyamantri Sikho Kamao Yojana (MMSKY) is Madhya Pradesh's flagship skill development scheme launched in May 2023. It gives young people the rare opportunity to earn while they learn—receiving a monthly stipend of ₹8,000 to ₹10,000 while training in practical, market-ready job skills. This 'learn and earn' model means you're not just gaining knowledge; you're financially supported during the critical phase of skill acquisition.",
+    "The scheme offers training in over 700 different job categories spanning every major industry sector: manufacturing, IT, software development, electronics, healthcare, banking, insurance, hospitality, agriculture, tourism, and engineering. Whether your interest is mechanical engineering, computer coding, hospitality management, nursing, or electrical work, you'll find a match. Training is provided by industry partners and technical institutes who ensure the skills taught match actual job market demand.",
+    "What makes Sikho Kamao unique is the shared funding model. The government pays 75% of your stipend (₹6,000-7,500) directly to your account, while your employer or training company contributes 25% (₹2,000-2,500). This ensures trainees are valued by employers from day one. After completing 6-12 months of training, you're guaranteed job placement assistance—some secure permanent roles, others start their own business with government support.",
+    "Since launch in May 2023, over 10 lakh young people have registered, making it one of India's largest active skill development programs. As of March 2026, the scheme continues expanding, with new sectors and training centers opening regularly. The government tracks all placements and provides unemployment allowance if you complete training but don't immediately find work."
+  ],
+  "eligibility": [
+    {
+      "label": "Age Requirement",
+      "value": "Between 18 and 29 years old as on date of application",
+      "highlight": true
+    },
+    {
+      "label": "Residency",
+      "value": "Must be a permanent resident of Madhya Pradesh",
+      "highlight": true
+    },
+    {
+      "label": "Education Minimum",
+      "value": "10th or 12th standard pass, or ITI diploma completion",
+      "highlight": true
+    },
+    {
+      "label": "Bank Account",
+      "value": "Must have an active bank account for Direct Benefit Transfer (DBT) of stipend",
+      "highlight": true
+    },
+    {
+      "label": "No Government Job",
+      "value": "Must not be currently employed in government service",
+      "highlight": false
+    },
+    {
+      "label": "Registration",
+      "value": "Must register on mmsky.mp.gov.in and complete online application",
+      "highlight": false
+    },
+    {
+      "label": "Training Commitment",
+      "value": "Must commit to full training duration (6-12 months depending on trade)",
+      "highlight": false
+    },
+    {
+      "label": "Sector Availability",
+      "value": "Must enroll in any of the 700+ approved trades across multiple sectors",
+      "highlight": false
+    }
+  ],
+  "eligibility_filters": {
+    "gender": [],
+    "age_min": 18,
+    "age_max": 29,
+    "occupation": [
+      "Unemployed",
+      "Underemployed",
+      "Fresh graduates"
+    ],
+    "income_max": 0,
+    "category": [
+      "All categories"
+    ],
+    "states": [
+      "Madhya Pradesh"
+    ]
+  },
+  "extra_sections": [
+    {
+      "heading": "Stipend Structure Based on Education Level",
+      "icon": "💰",
+      "type": "table",
+      "columns": [
+        "Education Level",
+        "Monthly Stipend",
+        "Government Share (75%)",
+        "Employer Share (25%)",
+        "Annual Total"
+      ],
+      "rows": [
+        [
+          "12th Pass",
+          "₹8,000",
+          "₹6,000",
+          "₹2,000",
+          "₹96,000"
+        ],
+        [
+          "ITI Pass",
+          "₹8,500",
+          "₹6,375",
+          "₹2,125",
+          "₹102,000"
+        ],
+        [
+          "Diploma Pass",
+          "₹9,000",
+          "₹6,750",
+          "₹2,250",
+          "₹108,000"
+        ],
+        [
+          "Graduate or Higher",
+          "₹10,000",
+          "₹7,500",
+          "₹2,500",
+          "₹120,000"
+        ]
+      ]
+    },
+    {
+      "heading": "Popular Job Sectors & Sample Trades",
+      "icon": "🏭",
+      "type": "table",
+      "columns": [
+        "Sector",
+        "Example Trades",
+        "Training Duration",
+        "Typical Job Role"
+      ],
+      "rows": [
+        [
+          "Manufacturing",
+          "CNC Machining, Welding, Tool Design",
+          "6-9 months",
+          "Machine Operator, Quality Inspector"
+        ],
+        [
+          "Information Technology",
+          "Web Development, Mobile App Development, IT Support",
+          "8-12 months",
+          "Junior Developer, Tech Support Executive"
+        ],
+        [
+          "Healthcare",
+          "Nursing Assistant, Lab Technician, Paramedic",
+          "6-8 months",
+          "Hospital Staff, Clinic Assistant"
+        ],
+        [
+          "Hospitality & Tourism",
+          "Hotel Management, Chef Training, Front Desk",
+          "6-8 months",
+          "Hotel Staff, Resort Coordinator"
+        ],
+        [
+          "Electronics & Electrical",
+          "Solar Installation, Electrical Maintenance, HVAC",
+          "6-9 months",
+          "Technician, Field Engineer"
+        ],
+        [
+          "Automotive",
+          "Auto Mechanic, Diagnostics, Body Repair",
+          "6-9 months",
+          "Service Technician, Repair Shop Staff"
+        ],
+        [
+          "Finance & Banking",
+          "Banking Operations, Insurance, Accounting",
+          "6-8 months",
+          "Bank Clerk, Insurance Agent, Data Entry"
+        ],
+        [
+          "Agriculture",
+          "Modern Farming, Dairy Management, Horticulture",
+          "6-9 months",
+          "Farm Manager, Cooperative Officer"
+        ]
+      ]
+    },
+    {
+      "heading": "Sikho Kamao vs PM Internship Scheme vs PMKVY",
+      "icon": "📊",
+      "type": "table",
+      "columns": [
+        "Feature",
+        "Sikho Kamao (MP)",
+        "Prime Minister Internship Scheme (National)",
+        "PMKVY (National)"
+      ],
+      "rows": [
+        [
+          "Monthly Stipend",
+          "₹8,000-10,000 (75% govt, 25% company)",
+          "₹5,000 (100% govt)",
+          "₹8,000-10,000 (100% govt)"
+        ],
+        [
+          "Duration",
+          "6-12 months training + job placement",
+          "12-month internship only",
+          "3-6 months course",
+          "Practical job-focused training"
+        ],
+        [
+          "Age Limit",
+          "18-29 years",
+          "21-24 years (recent graduates)",
+          "18-45 years"
+        ],
+        [
+          "Sectors Covered",
+          "700+ trades (manufacturing, IT, healthcare, etc.)",
+          "Major companies only (limited)",
+          "400+ trades (focus on unorganized sector)"
+        ],
+        [
+          "Job Placement Guarantee",
+          "Employer partnership for placement",
+          "Company internship doubles as recruitment",
+          "Placement assistance but not guaranteed"
+        ],
+        [
+          "Skill Focus",
+          "Hands-on industrial & technical training",
+          "Corporate environment exposure",
+          "Formal skill certification"
+        ],
+        [
+          "Best For",
+          "Job-seekers wanting paid training + placement",
+          "Recent graduates seeking corporate internships",
+          "Career switchers wanting formal certification"
+        ]
+      ]
+    },
+    {
+      "heading": "After Training: Your 3 Career Pathways",
+      "icon": "🚀",
+      "type": "text",
+      "content": [
+        "<h3>Pathway 1: Permanent Job Placement</h3><p>This is the most direct outcome. Your training company or an industry partner offers you a permanent or contract job based on your performance during training.",
+        "Many trainees secure positions within 30 days of completing the course, with starting salaries ranging from ₹12,000-25,000 per month depending on the sector and location. The government tracks placements and publishes placement statistics—as of March 2026, most sectors show 60-75% placement rates.",
+        "Government sectors like railways, NTPC, and state undertakings also recruit through this scheme.</p>",
+        "<h3>Pathway 2: Start Your Own Business</h3><p>If you don't want to work for someone else, you can start a business. For trades like welding, plumbing, electrical work, beauty services, or food preparation, many successful trainees launch their own ventures.",
+        "The Madhya Pradesh government provides <a href='https://www.mponline.gov.in' target='_blank'>entrepreneurship support and business loan schemes</a> for Sikho Kamao graduates. You get preferential rates and less paperwork.",
+        "Some trainees combine this with PMEGP (Prime Minister Employment Generation Program) for business loans up to ₹25 lakh at subsidized interest.</p>",
+        "<h3>Pathway 3: Further Higher Training or Specialization</h3><p>If your goal is to climb higher, you can use your foundational training as a stepping stone. Complete your trade, then enroll in advanced certification courses (like CNC Level 2, Advanced Software Development, or MBA for hospitality).",
+        "The government recognizes MMSKY completion as qualification for many higher skill programs. Some trainees even transition to ITI or diploma courses at government polytechnics with fee waivers or scholarships.</p>",
+        "<h3>Unemployment Allowance If Placement Delays</h3><p>If you complete training but don't immediately secure work, the government provides unemployment allowance of ₹2,000 per month for up to 6 months while you job hunt. This safety net ensures you're not left without income during the critical post-training period.",
+        "The government actively helps place you through job fairs and company referrals during this time.</p>"
+      ]
+    }
+  ],
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Register on MMSKY Portal",
+      "description": "Visit <a href='https://mmsky.mp.gov.in/' target='_blank'>mmsky.mp.gov.in</a> and click 'Register Now'. Enter your basic information: full name, Aadhaar number, date of birth (must be between 18-29), mobile number, and email address. Choose your permanent address within Madhya Pradesh. Complete the registration and you'll receive an OTP on your mobile to verify."
+    },
+    {
+      "step": 2,
+      "title": "Complete Your Profile & Upload Documents",
+      "description": "After registration, log in with your credentials and fill your complete profile. Upload a copy of your 12th standard certificate or ITI diploma (proof of educational qualification), Aadhaar card, and a recent passport-size photo. If you have any work experience, upload a reference letter from your previous employer. All documents are verified automatically through government databases."
+    },
+    {
+      "step": 3,
+      "title": "Choose Your Trade & Training Center",
+      "description": "Browse the portal's list of 700+ approved trades organized by sector. Read descriptions of each trade—what skills you'll learn, typical job roles after training, and expected salary ranges. Select your preferred trade and the training center near your location. Most districts have 2-5 MMSKY centers. You can also request a specific center if you're willing to travel."
+    },
+    {
+      "step": 4,
+      "title": "Appear for Trade Aptitude Assessment (if required)",
+      "description": "Some trades may require an online aptitude test to assess if you're suitable. This is simple and takes 30-45 minutes—testing basic numeracy, reasoning, and sector-specific knowledge. You can take this test online from home. Passing this assessment confirms your readiness for the intensive training ahead."
+    },
+    {
+      "step": 5,
+      "title": "Provide Bank Account Details",
+      "description": "Submit your active bank account number, IFSC code, and account holder name. This is where your monthly ₹8,000-10,000 stipend will be deposited via Direct Benefit Transfer (DBT). Ensure the account is in your own name and has been active for at least 1 month. The government verifies accounts through NEFT validation."
+    },
+    {
+      "step": 6,
+      "title": "Receive Training Center Assignment",
+      "description": "Once your application is approved (takes 5-7 days), you'll receive your training center location, reporting date, and instructor name via SMS and portal notification. You'll also receive a Sikho Kamao ID card digitally. Report to the center on your assigned date with your Aadhaar card and a photocopy."
+    },
+    {
+      "step": 7,
+      "title": "Begin Training & Start Earning",
+      "description": "Your training begins immediately. You'll attend classes 5-6 days per week for 6-12 months depending on your trade. Your first monthly stipend (₹8,000-10,000) is deposited in your bank account within 15 days of training start. The government (75%) and your employer/training company (25%) share the cost. Focus on practical skills—examinations are hands-on and industry-relevant."
+    },
+    {
+      "step": 8,
+      "title": "Complete Training & Secure Job Placement",
+      "description": "After completing your course, you take a final assessment. Passing trainees receive a certificate recognized across the state. The training company immediately starts placement interviews—many companies hire directly from the program. Unsuccessful placements receive unemployment allowance (₹2,000/month for up to 6 months) and continued job hunting support through government job fairs."
+    }
+  ],
+  "important_alert": {
+    "text": "<strong>Time-Sensitive Opportunity:</strong> Only candidates aged 18-29 are eligible. If you're currently 29, apply immediately as the age window closes after your 30th birthday. Also, registrations are competitive—high-demand trades (IT, healthcare) fill up quickly. The government releases new training batches monthly, but securing a seat in your preferred sector requires prompt registration. <strong>Apply now on <a href='https://mmsky.mp.gov.in/' target='_blank'>mmsky.mp.gov.in</a></strong>.",
+    "type": "warning"
+  },
+  "important_dates": [
+    {
+      "label": "Scheme Launch",
+      "value": "May 18, 2023",
+      "highlight": false
+    },
+    {
+      "label": "Age Limit Cutoff",
+      "value": "Must be 18-29 on application date (no exceptions)",
+      "highlight": true
+    },
+    {
+      "label": "Registrations Open",
+      "value": "Ongoing (new batches every month)",
+      "highlight": true
+    },
+    {
+      "label": "Typical Training Duration",
+      "value": "6-12 months depending on trade",
+      "highlight": false
+    },
+    {
+      "label": "Registered Trainees as of March 2026",
+      "value": "10+ lakh across all sectors",
+      "highlight": false
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much money will I receive during training?",
+      "answer": "You'll receive ₹8,000-10,000 per month depending on your educational qualification. A 12th pass gets ₹8,000, ITI pass gets ₹8,500, diploma pass gets ₹9,000, and graduates get ₹10,000 monthly. The government deposits 75% directly into your bank account, and your employer/training company contributes 25%. This continues for the entire training period (6-12 months). Total stipend ranges from ₹48,000-120,000 over the training duration."
+    },
+    {
+      "question": "Do I have to pay any fees to join the scheme?",
+      "answer": "No, Sikho Kamao is completely free. There are no registration fees, training fees, or hidden charges. The government and training companies bear all costs. You don't need to pay for materials, books, or uniforms—everything is provided. Your only investment is your time and effort during the training period."
+    },
+    {
+      "question": "What if I don't have a 12th pass certificate? Can I still join?",
+      "answer": "You need at least 10th standard pass, or you can complete an ITI course. If you dropped out of school, you can still appear for open school examinations (like NIOS 10th or 12th) and submit your certificate. Alternatively, an ITI diploma (in any trade) also qualifies you. The requirement is specifically: 10th pass minimum education."
+    },
+    {
+      "question": "What trades are available, and can I choose my preferred trade?",
+      "answer": "Over 700 trades are available across 8+ sectors: manufacturing, IT, healthcare, hospitality, electronics, automotive, finance, and agriculture. Yes, you can choose your preferred trade when registering online. The portal displays all available trades with descriptions, job prospects, and training centers offering each trade. Some popular choices fill up quickly (IT, nursing), so register early if you have a specific preference."
+    },
+    {
+      "question": "What is the job placement guarantee after I complete training?",
+      "answer": "The government doesn't offer a 100% placement guarantee, but job placement assistance is mandatory. Your training company must actively help place you. Placement rates vary by sector—IT and healthcare sectors show 70-80% placement, while others show 50-60%. If you don't get placed within 6 months of course completion, you receive ₹2,000 per month unemployment allowance for up to 6 months. Government job fairs are also organized to connect trained candidates with employers."
+    },
+    {
+      "question": "Can I apply if I'm already employed or a government employee?",
+      "answer": "No. Sikho Kamao is designed for unemployed or underemployed youth. If you currently have a job, you're ineligible. If you're a government employee (even on contract), you cannot apply. However, if you're in a precarious or informal job situation (like daily-wage work), you can apply to skill up for better employment."
+    },
+    {
+      "question": "How is the training structured? Is it classroom or hands-on?",
+      "answer": "Training is primarily hands-on and practical. You attend training centers 5-6 days per week for 6-12 months. The focus is industry-relevant skills—you'll work with actual equipment and software used in real jobs. Classroom time covers theory only as needed. For manufacturing trades, you work in workshops; for IT, you use actual software and development tools; for healthcare, you practice on models and in hospital settings. This practical approach ensures you're job-ready immediately after completion."
+    },
+    {
+      "question": "What happens if I don't complete the training?",
+      "answer": "If you drop out before completing the course, you stop receiving the stipend immediately. Incomplete training doesn't qualify for a certificate or job placement help. The government tracks dropout rates and attempts to contact dropouts to understand reasons. However, if you have genuine hardship, you can request a transfer to a later batch. Plan your training carefully—it requires full commitment for 6-12 months."
+    }
+  ],
+  "official_portal": {
+    "name": "Mukhyamantri Sikho Kamao Yojana Portal",
+    "url": "https://mmsky.mp.gov.in/"
+  },
+  "related_pages": [
+    {
+      "title": "PM Internship Scheme",
+      "slug": "pm-internship-scheme",
+      "tag": "national",
+      "url": "/yojana/pm-internship-scheme"
+    }
+  ],
+  "tags": [
+    "madhya-pradesh",
+    "skill-development",
+    "youth-employment",
+    "vocational-training",
+    "job-placement",
+    "stipend",
+    "18-29-years"
+  ],
+  "ministry": "Department of Skill Development & Employment, Government of Madhya Pradesh",
+  "launch_year": 2023,
+  "image_suggestions": [
+    "Homepage screenshot of mmsky.mp.gov.in showing registration button and key statistics",
+    "Infographic showing 8 major job sectors (Manufacturing, IT, Healthcare, Hospitality, Electronics, Automotive, Finance, Agriculture)",
+    "Photos of trainees in different settings: welding workshop, IT lab, hospital, hotel kitchen",
+    "Stipend structure chart showing ₹8,000-10,000 based on education level (12th, ITI, Diploma, Graduate)",
+    "Map of Madhya Pradesh highlighting training centers in major cities and districts",
+    "Success story photo: Young graduate receiving job offer letter from employer",
+    "Step-by-step application process flowchart (Register → Upload Docs → Choose Trade → Aptitude Test → Bank Linking → Training Start)",
+    "Comparison table visual: Sikho Kamao vs PM Internship vs PMKVY",
+    "Mobile phone screen showing monthly stipend deposit in bank account",
+    "Certificate/ID card sample that trainees receive after course completion"
+  ]
+}

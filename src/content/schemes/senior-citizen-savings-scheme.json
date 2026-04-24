@@ -1,0 +1,405 @@
+{
+  "slug": "senior-citizen-savings-scheme",
+  "title": "Senior Citizen Savings Scheme (SCSS) — 8.2% Quarterly Income",
+  "meta_description": "SCSS 2026 — 8.2% guaranteed interest, ₹20,500/quarter on ₹30L investment. Open at post office/bank, quarterly payouts, 5-year maturity, tax benefits.",
+  "hero": {
+    "status": "active",
+    "one_liner": "8.2% guaranteed interest with quarterly payouts for senior citizens — the safest and highest-return investment option for retirees",
+    "icon": "🏦",
+    "updated_date": "March 2026",
+    "stats": [
+      {
+        "label": "Interest Rate",
+        "value": "8.2% p.a."
+      },
+      {
+        "label": "Max Investment",
+        "value": "₹30 Lakh"
+      },
+      {
+        "label": "Payout",
+        "value": "Quarterly"
+      },
+      {
+        "label": "Tax Benefit",
+        "value": "80C + 80TTB"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "🏦",
+      "label": "Open at Post Office/Bank",
+      "url": "https://www.nsiindia.gov.in"
+    },
+    {
+      "icon": "📞",
+      "label": "Post Office Helpline",
+      "url": "tel:18002666868"
+    }
+  ],
+  "what_is_it": [
+    "Senior Citizen Savings Scheme (SCSS) is a government-backed savings scheme exclusively for Indian citizens aged 60 and above (55+ for retired defense personnel and 50+ for those who took VRS). It offers one of the highest guaranteed interest rates — 8.2% per annum — among all fixed-income investments available to senior citizens. The interest rate has been stable at 8.2% since April 2023.",
+    "The maximum investment limit is ₹30 lakh (doubled from ₹15 lakh in Budget 2023). The maturity period is 5 years, extendable by another 3 years at the prevailing rate. Interest is paid quarterly — directly into your bank account on April 1, July 1, October 1, and January 1 — providing regular cash flow for retirees who need monthly income for living expenses.",
+    "SCSS deposits qualify for Section 80C deduction up to ₹1.5 lakh. Additionally, senior citizens (age 60-80) get an extra ₹50,000 deduction on interest income under Section 80TTB. Combined with the 8.2% rate, SCSS offers superior post-tax returns compared to most alternatives. On ₹30 lakh at 8.2%, you receive ₹61,500 every quarter — over ₹20,500/month in guaranteed income.",
+    "The scheme is available at all post offices and authorized banks (SBI, PNB, BOB, HDFC Bank, ICICI Bank, Axis Bank, etc.). It can be opened individually or jointly with spouse. Joint account allows seamless transfer to the surviving spouse in case of death."
+  ],
+  "eligibility": [
+    {
+      "label": "Age",
+      "value": "60 years and above (55+ for retired defense, 50+ for VRS — must invest within 1 month of retirement)",
+      "highlight": true
+    },
+    {
+      "label": "Citizenship",
+      "value": "Indian citizen only. NRIs and HUFs are not eligible.",
+      "highlight": false
+    },
+    {
+      "label": "Max investment",
+      "value": "₹30 lakh per individual. Joint accounts can have ₹30 lakh each if both are seniors.",
+      "highlight": true
+    },
+    {
+      "label": "Minimum investment",
+      "value": "₹1,000 (in multiples of ₹1,000)",
+      "highlight": false
+    },
+    {
+      "label": "Joint account",
+      "value": "Allowed only with spouse. First depositor must be the senior citizen.",
+      "highlight": false
+    },
+    {
+      "label": "Multiple accounts",
+      "value": "Allowed, but total across all accounts cannot exceed ₹30 lakh",
+      "highlight": false
+    },
+    {
+      "label": "Where to open",
+      "value": "Any post office or authorized bank. Carry Aadhaar, PAN, age proof, and passport-size photos.",
+      "highlight": false
+    }
+  ],
+  "eligibility_filters": {
+    "gender": [
+      "all"
+    ],
+    "age_min": 55,
+    "age_max": 100,
+    "occupation": [
+      "any"
+    ],
+    "income_max": 9999999,
+    "category": [
+      "general",
+      "obc",
+      "sc",
+      "st"
+    ],
+    "states": [
+      "all"
+    ]
+  },
+  "extra_sections": [
+    {
+      "heading": "Quarterly Income Calculation at Different Investment Levels",
+      "icon": "💰",
+      "type": "table",
+      "columns": [
+        "Investment Amount",
+        "Annual Interest at 8.2%",
+        "Quarterly Payout",
+        "Monthly Equivalent",
+        "5-Year Total Interest"
+      ],
+      "rows": [
+        [
+          "₹10 lakh",
+          "₹82,000",
+          "₹20,500",
+          "₹6,833",
+          "₹4,10,000"
+        ],
+        [
+          "₹15 lakh",
+          "₹1,23,000",
+          "₹30,750",
+          "₹10,250",
+          "₹6,15,000"
+        ],
+        [
+          "₹20 lakh",
+          "₹1,64,000",
+          "₹41,000",
+          "₹13,667",
+          "₹8,20,000"
+        ],
+        [
+          "₹25 lakh",
+          "₹2,05,000",
+          "₹51,250",
+          "₹17,083",
+          "₹10,25,000"
+        ],
+        [
+          "₹30 lakh (Max)",
+          "₹2,46,000",
+          "₹61,500",
+          "₹20,500",
+          "₹12,30,000"
+        ]
+      ]
+    },
+    {
+      "heading": "SCSS vs Alternative Retirement Investments",
+      "icon": "⚖️",
+      "type": "table",
+      "columns": [
+        "Feature",
+        "SCSS (8.2%)",
+        "Senior FD (7-7.75%)",
+        "PPF (7.1%)",
+        "Bond/Mutual Fund"
+      ],
+      "rows": [
+        [
+          "Interest Rate",
+          "8.2% (stable since Apr 2023)",
+          "7.0–7.75% (varies)",
+          "7.1% (tax-free)",
+          "6-8% (varies, not guaranteed)"
+        ],
+        [
+          "Maximum Investment",
+          "₹30 lakh limit",
+          "No limit",
+          "₹1.5 lakh/year",
+          "No limit"
+        ],
+        [
+          "Interest Payout",
+          "Quarterly (regular income)",
+          "Monthly/quarterly/maturity",
+          "At maturity (no regular income)",
+          "Annual/variable"
+        ],
+        [
+          "Lock-in Period",
+          "5 years fixed",
+          "Flexible (no lock-in)",
+          "15 years fixed",
+          "Varies"
+        ],
+        [
+          "Premature Withdrawal",
+          "After 1 year (1.5% penalty)",
+          "Penalty applies",
+          "Partial from 7th year",
+          "Varies"
+        ],
+        [
+          "Tax on Interest",
+          "Taxable (but 80TTB: ₹50K exempt for 60-80 yrs)",
+          "Taxable (80TTB applies)",
+          "Tax-free (No TDS)",
+          "Depends on product"
+        ],
+        [
+          "80C Benefit",
+          "Yes (up to ₹1.5L)",
+          "Only 5-year tax-saver FD",
+          "Yes (up to ₹1.5L)",
+          "Limited"
+        ],
+        [
+          "Government Guarantee",
+          "100% — Post Office backed",
+          "DICGC up to ₹5L per bank",
+          "100% — Government backed",
+          "Depends on issuer"
+        ]
+      ]
+    },
+    {
+      "heading": "How to Open SCSS Account — Simple Process",
+      "icon": "📝",
+      "type": "steps",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Visit post office or authorized bank with documents",
+          "description": "Carry: Aadhaar card, PAN card (mandatory for investments above ₹50,000), age proof (Aadhaar/passport/pension book), passport-size photos (2-3), and the cheque/DD for the investment amount."
+        },
+        {
+          "step": 2,
+          "title": "Fill SCSS account opening form",
+          "description": "Form available in Hindi/English at all post offices and banks. Fill your details, nominee information (who gets money if you die), investment amount, and bank account where interest will be credited quarterly."
+        },
+        {
+          "step": 3,
+          "title": "Make the deposit",
+          "description": "Pay by cheque (in favor of 'Postmaster' for post office, or bank branch name for banks), demand draft, or transfer from your existing account at the same bank/post office. Cash deposits allowed only up to ₹1 lakh (then cheque/DD for balance)."
+        },
+        {
+          "step": 4,
+          "title": "Receive passbook and start quarterly income",
+          "description": "You'll receive a passbook immediately. Interest is credited to your linked savings account automatically on Apr 1, Jul 1, Oct 1, Jan 1. First interest payout comes on the next interest payment date after completing at least one quarter."
+        }
+      ]
+    },
+    {
+      "heading": "Tax Treatment & Benefits for Senior Citizens",
+      "icon": "📋",
+      "type": "text",
+      "content": [
+        "<h3>Who Pays Tax on SCSS Interest?</h3>SCSS interest is added to your total income and taxed at your applicable income tax slab rate. However, senior citizens (age 60-80) have significant tax relief: Basic exemption limit for senior citizens: ₹3 lakh (vs ₹2.5L for others).",
+        "Additional deduction under Section 80TTB: ₹50,000 (specifically on interest income). So effectively, ₹3.5 lakh of interest income is tax-free for most senior citizens.",
+        "<h3>Real Tax Impact for Senior Citizens</h3>If you invest ₹30 lakh and earn ₹2,46,000/year in SCSS interest: Gross income from SCSS: ₹2,46,000. Less 80TTB deduction: ₹50,000.",
+        "Taxable interest: ₹1,96,000. If this is your only income (many seniors), you're within the ₹3L exemption limit — NO TAX PAYABLE.",
+        "If you have other income (pension, rental, etc.), the additional ₹1,96,000 is taxed at your applicable slab (usually 10-20% for seniors).",
+        "<h3>TDS (Tax Deducted at Source)</h3>If your annual SCSS interest exceeds ₹50,000, the post office/bank deducts TDS at 10%. To avoid TDS, submit Form 15H (Declaration) at your post office/bank confirming your income is below taxable limit.",
+        "Keep Form 15H filed every year.",
+        "<h3>80C Benefit</h3>The principal amount invested in SCSS can be claimed as deduction under Section 80C up to ₹1.5 lakh per financial year. This means you get deduction at your marginal tax rate (e.g., 20% = ₹30,000 tax saving on ₹1.5L investment)."
+      ]
+    },
+    {
+      "heading": "Premature Withdrawal Rules",
+      "icon": "🚨",
+      "type": "text",
+      "content": [
+        "<h3>Before 1 Year: NO WITHDRAWAL</h3>You cannot withdraw any money before completing 1 year from date of deposit. Complete 1 full year, then you can withdraw.",
+        "<h3>After 1 Year but Before 2 Years: 1.5% Penalty</h3>Withdrawal allowed = (Principal + Interest) - 1.5% of principal. Example: Invested ₹10 lakh, earn ₹65,000 in 1.5 years.",
+        "Withdrawal = (10,65,000) - (1.5% of 10,00,000) = 10,65,000 - 15,000 = ₹10,50,000. Loss = ₹15,000.",
+        "<h3>After 2 Years but Before 5 Years: 1% Penalty</h3>Withdrawal allowed = (Principal + Interest) - 1% of principal. Example: Withdraw after 3 years with same numbers.",
+        "Withdrawal = 10,65,000 - 10,000 = ₹10,55,000. Loss = ₹10,000.",
+        "<h3>After 5 Years: Full Withdrawal</h3>Maturity: You get principal + full 5 years of interest with no penalty. You can then extend for 3 more years at the prevailing SCSS rate."
+      ]
+    }
+  ],
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Visit nearest post office or authorized bank",
+      "description": "Carry age proof, Aadhaar, PAN, photos, and investment amount (cheque/DD)."
+    },
+    {
+      "step": 2,
+      "title": "Fill SCSS form and make deposit",
+      "description": "Min ₹1,000, max ₹30 lakh. Joint account with spouse allowed."
+    },
+    {
+      "step": 3,
+      "title": "Quarterly interest starts",
+      "description": "Interest credited to bank account on Apr 1, Jul 1, Oct 1, Jan 1."
+    },
+    {
+      "step": 4,
+      "title": "Maturity at 5 years",
+      "description": "Principal returned. Option to extend for 3 more years at prevailing rate."
+    }
+  ],
+  "important_alert": {
+    "text": "TDS is deducted at 10% if annual interest exceeds ₹50,000 (for senior citizens — ₹40,000 for non-senior citizens in joint accounts). To avoid TDS, submit Form 15H at your post office/bank each year stating your income is below taxable limit. Form 15H must be resubmitted every financial year.",
+    "type": "info"
+  },
+  "important_dates": [
+    {
+      "label": "Open anytime",
+      "value": "Available throughout the year at post offices and banks",
+      "highlight": true
+    },
+    {
+      "label": "Interest payout",
+      "value": "Quarterly — Apr 1, Jul 1, Oct 1, Jan 1",
+      "highlight": true
+    },
+    {
+      "label": "Maturity",
+      "value": "5 years from date of deposit",
+      "highlight": false
+    },
+    {
+      "label": "Extension",
+      "value": "Can extend for 3 more years within 1 year of maturity at prevailing rate",
+      "highlight": false
+    }
+  ],
+  "faqs": [
+    {
+      "question": "I'm 58 and took VRS. Can I open SCSS?",
+      "answer": "Yes. People who have taken VRS (Voluntary Retirement Scheme) can open SCSS if they are 50 years or older. But you must invest within 1 month of receiving retirement benefits, and the investment cannot exceed the retirement benefits amount received (EPF withdrawal, gratuity, etc.). After 1 month of VRS, you cannot open SCSS even if you're 50+."
+    },
+    {
+      "question": "What if I need the money before 5 years?",
+      "answer": "Premature closure is allowed: After 1 year but before 2 years — deduction of 1.5% of principal. After 2 years but before 5 years — deduction of 1% of principal. Before 1 year — not allowed. Given the penalties are small, SCSS has better liquidity than PPF or other fixed schemes. Many seniors use SCSS for emergencies knowing the loss is minimal."
+    },
+    {
+      "question": "Can I invest retirement corpus from EPF/gratuity in SCSS?",
+      "answer": "Yes. Many retirees invest their EPF withdrawal, gratuity, commuted pension, and other retirement lump sums in SCSS for guaranteed quarterly income. The maximum is ₹30 lakh across all SCSS accounts. This is one of the best uses of retirement lump sums for guaranteed monthly cash flow."
+    },
+    {
+      "question": "Is SCSS interest fully taxable?",
+      "answer": "SCSS interest is added to your income and taxed at your slab rate. However, senior citizens (60-80 years) have a basic exemption of ₹3 lakh under the old regime, plus ₹50,000 deduction under 80TTB specifically for interest income. For most seniors with only SCSS and pension income, the effective tax is zero or very low."
+    },
+    {
+      "question": "Can I have both SCSS and PPF?",
+      "answer": "Yes. They serve different purposes. SCSS gives you regular quarterly income (ideal for living expenses now). PPF is for long-term tax-free wealth accumulation (15 years). You can invest ₹30 lakh in SCSS + ₹1.5 lakh/year in PPF and claim 80C deduction on both. Combined, they provide income + tax-free wealth building."
+    },
+    {
+      "question": "What happens if I die before maturity?",
+      "answer": "If the account holder dies before 5 years, the surviving spouse (or nominee if joint account, or legal nominee) receives: Full principal + all interest earned until death + no penalty. The money doesn't go to the bank — it goes to your family. Joint account makes transfer to spouse seamless."
+    },
+    {
+      "question": "Can I convert my SCSS to regular FD or vice versa?",
+      "answer": "No. SCSS and FD are separate products. However, when your SCSS matures at 5 years, you can withdraw the money and invest in FD, or extend it for 3 more years in SCSS. You cannot switch mid-term between products."
+    }
+  ],
+  "official_portal": {
+    "name": "National Savings Institute",
+    "url": "https://www.nsiindia.gov.in"
+  },
+  "related_pages": [
+    {
+      "title": "PPF — Complete Guide",
+      "slug": "ppf-guide",
+      "tag": "Savings",
+      "url": "/paisa/ppf-guide"
+    },
+    {
+      "title": "Atal Pension Yojana",
+      "slug": "atal-pension-yojana",
+      "tag": "Pension",
+      "url": "/yojana/atal-pension-yojana"
+    },
+    {
+      "title": "What is FD?",
+      "slug": "what-is-fd",
+      "tag": "Savings",
+      "url": "/paisa/what-is-fd"
+    },
+    {
+      "title": "Section 80C Guide",
+      "slug": "section-80c-guide",
+      "tag": "Tax",
+      "url": "/paisa/section-80c-guide"
+    }
+  ],
+  "tags": [
+    "Senior Citizens",
+    "Savings",
+    "Retirement",
+    "Quarterly Income",
+    "Post Office",
+    "Tax Benefits",
+    "March 2026"
+  ],
+  "ministry": "Ministry of Finance",
+  "launch_year": 2004,
+  "image_suggestions": [
+    "Senior couple receiving bank statement with quarterly interest",
+    "Post office senior citizen savings account passbook",
+    "Elderly person depositing cheque at bank",
+    "Retirees planning finances with SCSS income"
+  ]
+}

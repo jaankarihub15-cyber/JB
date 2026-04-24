@@ -1,0 +1,417 @@
+{
+  "slug": "ayushman-bharat",
+  "title": "Ayushman Bharat (PMJAY)",
+  "meta_description": "Ayushman Bharat PMJAY gives ₹5 lakh free health insurance per family per year. Check eligibility, hospital list, how to get Ayushman card, and claim benefits.",
+  "hero": {
+    "status": "active",
+    "one_liner": "₹5 lakh free health insurance per family per year covering 1,929 medical procedures at 35,000+ empanelled hospitals",
+    "icon": "🏥",
+    "updated_date": "Last reviewed: April 2026 • Source: National Health Authority",
+    "stats": [
+      {
+        "label": "Annual Cover",
+        "value": "₹5 Lakh"
+      },
+      {
+        "label": "Beneficiaries",
+        "value": "55+ Crore"
+      },
+      {
+        "label": "Hospitals",
+        "value": "35,000+"
+      },
+      {
+        "label": "Procedures",
+        "value": "1,929+"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "✅",
+      "label": "Check Eligibility",
+      "url": "https://beneficiary.nha.gov.in/"
+    },
+    {
+      "icon": "🏥",
+      "label": "Find Hospital",
+      "url": "https://hospitals.pmjay.gov.in/"
+    },
+    {
+      "icon": "🪪",
+      "label": "Download Ayushman Card",
+      "url": "https://beneficiary.nha.gov.in/"
+    },
+    {
+      "icon": "📞",
+      "label": "Helpline: 14555",
+      "url": "tel:14555"
+    }
+  ],
+  "what_is_it": [
+    "Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB-PMJAY) is the world's largest government-funded health insurance scheme. Launched on 23 September 2018, it provides free health coverage of up to ₹5 lakh per family per year to economically vulnerable families in India. The scheme covers secondary care (hospitalization) and tertiary care (surgery, ICU) at government and empanelled private hospitals.",
+    "The scheme covers over 55 crore individuals (approximately 12 crore families) from the bottom 40% of the population. Eligibility is determined based on the Socio-Economic Caste Census (SECC) 2011 data — if your family was identified as deprived in that census, you are automatically eligible. There is no enrollment fee, no premium to pay, and no age limit for beneficiaries.",
+    "PMJAY covers 1,929 medical and surgical procedures including pre-hospitalization (3 days before admission), hospitalization, and post-hospitalization (15 days after discharge) expenses. This includes diagnostics, medicines, room charges, surgeon fees, OT charges, and ICU costs. The coverage is on a family floater basis — meaning the entire ₹5 lakh limit is shared by all family members.",
+    "The scheme is implemented by the National Health Authority (NHA) at the central level and State Health Agencies (SHAs) at the state level. Over 35,000 hospitals across India (both government and private) are empanelled under PMJAY. Treatments are entirely cashless at empanelled hospitals — you don't need to pay anything upfront."
+  ],
+  "eligibility": [
+    {
+      "label": "Who is eligible",
+      "value": "Families identified as deprived in the SECC 2011 census data (bottom 40% of population)",
+      "highlight": true
+    },
+    {
+      "label": "Income criteria (rural)",
+      "value": "Families with kucha house, no adult earning member, female-headed household, SC/ST, landless, manual scavengers, destitute, beggars",
+      "highlight": false
+    },
+    {
+      "label": "Income criteria (urban)",
+      "value": "Rag pickers, street vendors, domestic workers, construction workers, plumbers, painters, security guards, sweepers, sanitation workers, transport workers, shop workers, rickshaw/auto drivers",
+      "highlight": false
+    },
+    {
+      "label": "Family size",
+      "value": "No limit on family size — all members of the family are covered",
+      "highlight": false
+    },
+    {
+      "label": "Age limit",
+      "value": "No age limit — newborns to senior citizens all covered",
+      "highlight": true
+    },
+    {
+      "label": "Premium/fee",
+      "value": "₹0 — completely free. No enrollment fee, no premium, no copay",
+      "highlight": true
+    },
+    {
+      "label": "Documents needed",
+      "value": "Aadhaar card or any government ID, ration card (for family verification). Ayushman card can be made at any empanelled hospital or CSC center",
+      "highlight": false
+    }
+  ],
+  "eligibility_filters": {
+    "gender": [
+      "all"
+    ],
+    "age_min": 0,
+    "age_max": 100,
+    "occupation": [
+      "labourer",
+      "farmer",
+      "self-employed",
+      "unemployed"
+    ],
+    "income_max": 300000,
+    "category": [
+      "general",
+      "obc",
+      "sc",
+      "st"
+    ],
+    "states": [
+      "all"
+    ]
+  },
+  "extra_sections": [
+    {
+      "heading": "Who Gets It Automatically",
+      "icon": "📌",
+      "type": "callout",
+      "variant": "info",
+      "content": "If your family was in the <strong>SECC 2011 deprivation list</strong>, you're automatically eligible — no application needed. Just visit the nearest CSC center or hospital and get your Ayushman card made. Over 12 crore families fall in this auto-eligibility group."
+    },
+    {
+      "heading": "How to Check If You Are Eligible",
+      "icon": "🔍",
+      "type": "steps",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Visit the PMJAY eligibility portal",
+          "description": "Go to mera.pmjay.gov.in or beneficiary.nha.gov.in. This is the official portal to check your eligibility."
+        },
+        {
+          "step": 2,
+          "title": "Enter your mobile number",
+          "description": "Enter your registered mobile number and complete the OTP verification. Your mobile should be linked to your ration card or SECC data."
+        },
+        {
+          "step": 3,
+          "title": "Search by name, ration card, or RSBY ID",
+          "description": "You can search using: your name + father's name + state, or ration card number, or RSBY (Rashtriya Swasthya Bima Yojana) URN number. The system checks if your family is in the SECC 2011 database."
+        },
+        {
+          "step": 4,
+          "title": "Check result",
+          "description": "If eligible, you'll see your family details and a message confirming eligibility. You can then generate your Ayushman card online or at an empanelled hospital."
+        },
+        {
+          "step": 5,
+          "title": "Not found? Don't lose hope",
+          "description": "If your family isn't found in the system but you believe you qualify, visit your nearest Ayushman Bharat Arogya Mandir (Health & Wellness Centre) or call the helpline at 14555. Many states have expanded eligibility beyond SECC 2011 data."
+        }
+      ]
+    },
+    {
+      "heading": "How to Get Your Ayushman Card",
+      "icon": "🪪",
+      "type": "text",
+      "content": [
+        "The Ayushman Card (also called ABHA Health Card or Golden Card) is your identification document for availing cashless treatment. Without this card, you may face delays at the hospital.",
+        "Method 1 — At any empanelled hospital: Visit the Ayushman Mitra desk at any PMJAY-empanelled hospital. Carry your Aadhaar card and ration card.",
+        "The Ayushman Mitra will verify your eligibility, take your photo, and generate the card on the spot. This is the most common method and takes about 10-15 minutes.",
+        "Method 2 — At a CSC center: Visit your nearest Common Service Centre (CSC). The CSC operator can check your eligibility and generate the card.",
+        "You may need to pay a nominal fee of ₹30 for the card printing.",
+        "Method 3 — Online through the PMJAY app: Download the 'Ayushman Bharat' app from Google Play Store. Register using your mobile number, verify with Aadhaar OTP, and download your digital Ayushman card.",
+        "You can show this digital card at hospitals.",
+        "Method 4 — Through Aarogya Mandir: Visit any Ayushman Bharat Health & Wellness Centre (AB-HWC) in your area. They can verify your eligibility and issue the card.",
+        "Important: The card is free to generate. If anyone asks you to pay a large amount (₹500+), it is likely a scam.",
+        "The maximum legitimate charge is ₹30 for printing at CSC centers."
+      ]
+    },
+    {
+      "heading": "Visual: What PMJAY Covers",
+      "icon": "📊",
+      "type": "svg_block",
+      "svg": "<svg viewBox=\"0 0 700 280\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\">\n  <text x=\"350\" y=\"28\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">PMJAY Ayushman Bharat — What's Covered</text>\n  <rect x=\"50\" y=\"60\" width=\"600\" height=\"70\" rx=\"12\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/>\n  <text x=\"350\" y=\"90\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"20\" font-weight=\"800\" fill=\"#1B6B4A\">₹5 LAKH/FAMILY/YEAR</text>\n  <text x=\"350\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#145236\">Cashless hospitalization at 27,000+ empanelled hospitals</text>\n  <!-- 3 coverage types -->\n  <rect x=\"30\" y=\"150\" width=\"200\" height=\"110\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <text x=\"130\" y=\"180\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"28\">🏥</text>\n  <text x=\"130\" y=\"208\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#1E40AF\">Hospitalization</text>\n  <text x=\"130\" y=\"228\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">All room charges</text>\n  <text x=\"130\" y=\"246\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">ICU + Ward</text>\n  <rect x=\"250\" y=\"150\" width=\"200\" height=\"110\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/>\n  <text x=\"350\" y=\"180\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"28\">⚕️</text>\n  <text x=\"350\" y=\"208\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#145236\">1,574 Procedures</text>\n  <text x=\"350\" y=\"228\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">Cancer, heart, knee</text>\n  <text x=\"350\" y=\"246\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">Dialysis, transplants</text>\n  <rect x=\"470\" y=\"150\" width=\"200\" height=\"110\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/>\n  <text x=\"570\" y=\"180\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"28\">💊</text>\n  <text x=\"570\" y=\"208\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#C2410C\">Pre + Post Care</text>\n  <text x=\"570\" y=\"228\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#C2410C\">3 days before + 15</text>\n  <text x=\"570\" y=\"246\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#C2410C\">days after covered</text>\n</svg>",
+      "caption": "₹5 lakh annual cover per family — one of the world's largest health schemes",
+      "description": "Coverage is per family per year, resets annually on April 1st. Spouse + children + parents all share the same ₹5 lakh pool."
+    },
+    {
+      "heading": "What is Covered Under PMJAY — Major Procedures",
+      "icon": "✅",
+      "type": "text",
+      "content": [
+        "PMJAY covers 1,929 treatment packages across 27 medical specialties. Major treatments covered include:",
+        "Cardiac: Bypass surgery (CABG), angioplasty with stent, heart valve replacement, pacemaker implantation. These alone can save ₹2-5 lakh per procedure.",
+        "Cancer: Chemotherapy, radiation therapy, surgical removal of tumors (various organs), bone marrow transplant. Cancer treatment packages range from ₹15,000 to ₹4 lakh.",
+        "Orthopedic: Knee replacement (₹80,000-1.2 lakh package), hip replacement, spine surgery, fracture treatment with implants.",
+        "Eye: Cataract surgery, glaucoma treatment, corneal transplant, vitreo-retinal surgery.",
+        "Kidney: Dialysis (₹2,000 per session, covered for up to 12 sessions/month), kidney transplant (up to ₹3 lakh).",
+        "Maternity: Normal delivery, C-section delivery, treatment of pregnancy complications. Newborn care up to 30 days is also covered.",
+        "Others: Brain surgery, lung surgery, burns treatment, polytrauma management, neonatal ICU care, cleft lip/palate surgery.",
+        "Also covered: 3 days of pre-hospitalization expenses (tests, consultations) and 15 days of post-hospitalization expenses (medicines, follow-up visits).",
+        "NOT covered: Outpatient consultations (OPD), cosmetic surgery, fertility treatment (IVF), organ transplant (except kidney/cornea), dental treatment unless hospitalized."
+      ]
+    },
+    {
+      "heading": "Visual: Hospital Process",
+      "icon": "🏥",
+      "type": "svg_block",
+      "svg": "<svg viewBox=\"0 0 700 200\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\">\n  <defs>\n    <marker id=\"arr-ab\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\">\n      <polygon points=\"0 0, 10 3, 0 6\" fill=\"#1B6B4A\"/>\n    </marker>\n  </defs>\n  <text x=\"350\" y=\"25\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">How to Use PMJAY at a Hospital — 4 Simple Steps</text>\n  <circle cx=\"100\" cy=\"100\" r=\"28\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <text x=\"100\" y=\"107\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">1</text>\n  <text x=\"100\" y=\"150\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#111827\">Show Ayushman</text>\n  <text x=\"100\" y=\"165\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#111827\">Card + Aadhaar</text>\n  <line x1=\"135\" y1=\"100\" x2=\"215\" y2=\"100\" stroke=\"#1B6B4A\" stroke-width=\"2\" marker-end=\"url(#arr-ab)\"/>\n  <circle cx=\"250\" cy=\"100\" r=\"28\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/>\n  <text x=\"250\" y=\"107\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">2</text>\n  <text x=\"250\" y=\"150\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#111827\">Verify at</text>\n  <text x=\"250\" y=\"165\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#111827\">Arogya Mitra desk</text>\n  <line x1=\"285\" y1=\"100\" x2=\"365\" y2=\"100\" stroke=\"#1B6B4A\" stroke-width=\"2\" marker-end=\"url(#arr-ab)\"/>\n  <circle cx=\"400\" cy=\"100\" r=\"28\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/>\n  <text x=\"400\" y=\"107\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#EA580C\">3</text>\n  <text x=\"400\" y=\"150\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#111827\">Get treatment</text>\n  <text x=\"400\" y=\"165\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#111827\">Zero cash payment</text>\n  <line x1=\"435\" y1=\"100\" x2=\"515\" y2=\"100\" stroke=\"#1B6B4A\" stroke-width=\"2\" marker-end=\"url(#arr-ab)\"/>\n  <circle cx=\"550\" cy=\"100\" r=\"28\" fill=\"#F3E8FF\" stroke=\"#7C3AED\" stroke-width=\"2\"/>\n  <text x=\"550\" y=\"107\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#7C3AED\">✓</text>\n  <text x=\"550\" y=\"150\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#111827\">Discharge with</text>\n  <text x=\"550\" y=\"165\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#111827\">zero bill</text>\n</svg>",
+      "caption": "The 4-step process is the same at every empanelled hospital",
+      "description": "Every empanelled hospital has an Arogya Mitra — a PMJAY coordinator who handles verification, pre-authorization, and billing on your behalf."
+    },
+    {
+      "heading": "How to Use PMJAY at a Hospital — Step by Step",
+      "icon": "🏥",
+      "type": "steps",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Go to any empanelled hospital",
+          "description": "Find empanelled hospitals at hospitals.pmjay.gov.in or call 14555. Both government and private hospitals are included. You can also use the Ayushman Bharat app to search nearby hospitals."
+        },
+        {
+          "step": 2,
+          "title": "Visit the Ayushman Mitra desk",
+          "description": "Every empanelled hospital has a dedicated 'Ayushman Mitra' or 'PMJAY Help Desk' near the entrance or registration counter. Show your Ayushman card and Aadhaar."
+        },
+        {
+          "step": 3,
+          "title": "Get pre-authorization",
+          "description": "The hospital submits a 'pre-authorization request' to PMJAY system describing your treatment. This is approved within 30 minutes for most procedures (emergency cases get instant approval). You don't need to do anything — the hospital handles this."
+        },
+        {
+          "step": 4,
+          "title": "Receive cashless treatment",
+          "description": "Once approved, your treatment proceeds at zero cost. Room charges, medicines, surgeon fees, diagnostics, food during stay — everything is covered by PMJAY. You do NOT need to pay anything upfront."
+        },
+        {
+          "step": 5,
+          "title": "Discharge and post-care",
+          "description": "At discharge, verify the treatment summary. Post-hospitalization medicines and follow-up visits for 15 days are covered. If the hospital tries to charge you for covered services, complain immediately."
+        }
+      ]
+    },
+    {
+      "heading": "States with Additional Coverage Beyond ₹5 Lakh",
+      "icon": "📍",
+      "type": "text",
+      "content": [
+        "Several states have expanded PMJAY coverage beyond the central ₹5 lakh limit or included more families:",
+        "Rajasthan — Chiranjeevi Yojana: Extends coverage to all families in the state. Additional coverage up to ₹25 lakh for serious illnesses.",
+        "Tamil Nadu — Chief Minister's Comprehensive Health Insurance Scheme: Covers all families with income below ₹72,000/year. Additional coverage up to ₹5 lakh.",
+        "Chhattisgarh — Dr. Khubchand Baghel Swasthya Sahayata Yojana: Covers all ration card holders, expanding beyond SECC data.",
+        "Kerala — Karunya Arogya Suraksha Padhathi (KASP): State-level scheme integrated with PMJAY, covering additional procedures.",
+        "Maharashtra — Mahatma Jyotiba Phule Jan Arogya Yojana: Integrated with PMJAY, covers families below ₹1.5 lakh income with additional procedures.",
+        "Check with your State Health Agency or call 14555 to know the exact coverage available in your state."
+      ]
+    },
+    {
+      "heading": "Important Limitation",
+      "icon": "⚠️",
+      "type": "callout",
+      "variant": "warning",
+      "content": "PMJAY covers <strong>hospitalization only</strong> — not OPD (outpatient visits). Doctor consultations, diagnostic tests without admission, and medicines for minor illness are <strong>not covered</strong>. You need to be admitted for at least 24 hours for coverage to kick in."
+    }
+  ],
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Check your eligibility first",
+      "description": "Visit mera.pmjay.gov.in or call 14555. Enter your details to check if your family is in the SECC 2011 database. You don't need to 'apply' — if you're in the database, you're automatically eligible."
+    },
+    {
+      "step": 2,
+      "title": "Get your Ayushman card made",
+      "description": "Visit any empanelled hospital's Ayushman Mitra desk, a CSC center, or download the Ayushman Bharat app. Carry Aadhaar card and ration card. Card generation takes 10-15 minutes."
+    },
+    {
+      "step": 3,
+      "title": "Verify your card details",
+      "description": "Make sure your name, photo, and family details on the card are correct. If there's any error, get it corrected at the same center immediately."
+    },
+    {
+      "step": 4,
+      "title": "Keep the card safe",
+      "description": "Store the physical card safely and also save the digital version on your phone. You'll need it whenever you visit an empanelled hospital for treatment. Family members can generate their individual cards as well."
+    }
+  ],
+  "important_alert": {
+    "text": "PMJAY is completely free. If anyone asks you to pay money for Ayushman card or enrollment, it is likely a fraud. The maximum legitimate charge is ₹30 for card printing at CSC centers. Report fraud to helpline <strong>14555</strong>.",
+    "type": "warning"
+  },
+  "important_dates": [
+    {
+      "label": "Coverage period",
+      "value": "₹5 lakh limit resets every April 1",
+      "highlight": true
+    },
+    {
+      "label": "Card validity",
+      "value": "Lifetime (as long as you remain eligible)",
+      "highlight": false
+    },
+    {
+      "label": "Helpline",
+      "value": "14555 (toll-free, 24x7)",
+      "highlight": true
+    },
+    {
+      "label": "Grievance portal",
+      "value": "grievance.pmjay.gov.in",
+      "highlight": false
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How do I know if I'm eligible for Ayushman Bharat?",
+      "answer": "Visit mera.pmjay.gov.in and search using your name, mobile number, or ration card number. If your family was identified as deprived in the SECC 2011 census, you are eligible. Alternatively, call the toll-free helpline 14555. Many states have also expanded eligibility beyond SECC data."
+    },
+    {
+      "question": "Is there any age limit for Ayushman Bharat?",
+      "answer": "No. There is no age limit — from newborns to senior citizens, all family members are covered. This is one of the biggest advantages of PMJAY compared to private health insurance, which often excludes people above 65."
+    },
+    {
+      "question": "Can I use Ayushman card in a private hospital?",
+      "answer": "Yes, but only at PMJAY-empanelled private hospitals. You can check the list of empanelled hospitals at hospitals.pmjay.gov.in or through the Ayushman Bharat app. Not all private hospitals accept PMJAY — verify before going."
+    },
+    {
+      "question": "What if I need treatment in another city or state?",
+      "answer": "PMJAY is fully portable. You can get treatment at any empanelled hospital anywhere in India, not just your home state or district. The Ayushman card works nationwide."
+    },
+    {
+      "question": "Does PMJAY cover pre-existing diseases?",
+      "answer": "Yes. Unlike private insurance, PMJAY has no exclusion for pre-existing diseases. Whether you have diabetes, heart disease, cancer, or any other condition — it is covered from day one. There is no waiting period."
+    },
+    {
+      "question": "What happens if my ₹5 lakh limit is exhausted?",
+      "answer": "The ₹5 lakh limit is annual and resets on April 1 each year. If you exhaust the limit mid-year, you'll need to wait until April 1 for reset, or check if your state offers additional top-up coverage. Some states offer up to ₹25 lakh additional."
+    },
+    {
+      "question": "Can I get OPD (outpatient) treatment under PMJAY?",
+      "answer": "No. PMJAY currently covers only hospitalization (inpatient) treatment. Regular OPD consultations, routine check-ups, and pharmacy purchases are not covered. The government has Ayushman Bharat Health & Wellness Centres (AB-HWC) which provide free primary care."
+    },
+    {
+      "question": "Is PMJAY the same as Ayushman card?",
+      "answer": "Yes. 'Ayushman card', 'PMJAY card', 'Golden Card', and 'AB-PMJAY card' all refer to the same scheme. The official name is Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (AB-PMJAY)."
+    },
+    {
+      "question": "Do I need to pay for medicines during hospitalization?",
+      "answer": "No. All medicines, diagnostics, room charges, surgeon fees, food, and transport (in some cases) during hospitalization are covered. If the hospital asks you to buy medicines from outside, it is a violation — report it to the Ayushman Mitra or call 14555."
+    },
+    {
+      "question": "Can I use PMJAY if I have private health insurance?",
+      "answer": "Yes. PMJAY works independently of your private insurance. You can use PMJAY for hospitalization at empanelled hospitals and still maintain your private insurance for OPD or coverage beyond ₹5 lakh."
+    },
+    {
+      "question": "Can I use my own doctor with PMJAY?",
+      "answer": "PMJAY only works at empanelled hospitals (public and private). You can't use your regular family doctor unless they're part of the PMJAY network. Search for empanelled hospitals at pmjay.gov.in using your location. Over 27,000 hospitals are empanelled, including major private hospitals like Apollo, Fortis, Max, and AIIMS."
+    },
+    {
+      "question": "What if the hospital asks for money after PMJAY?",
+      "answer": "Empanelled hospitals cannot ask for cash — it's completely cashless. If a hospital demands money, report immediately: (1) Call PMJAY helpline 14555 or 1800-111-565. (2) Contact the Arogya Mitra at the hospital. (3) File complaint on pmjay.gov.in grievance portal. NHA takes strict action against hospitals charging patients illegally."
+    },
+    {
+      "question": "Does PMJAY cover pre-existing diseases?",
+      "answer": "Yes, PMJAY covers pre-existing diseases from day 1 — no waiting period. This is a major advantage over private health insurance which has 2-4 year waiting for pre-existing conditions. Even chronic conditions like diabetes complications, cancer treatment, and heart surgery are covered immediately upon getting your Ayushman card."
+    }
+  ],
+  "official_portal": {
+    "name": "PMJAY Official Website",
+    "url": "https://pmjay.gov.in"
+  },
+  "related_pages": [
+    {
+      "title": "PM Kisan Samman Nidhi",
+      "slug": "pm-kisan",
+      "tag": "Agriculture",
+      "url": "/yojana/pm-kisan"
+    },
+    {
+      "title": "PM Jan Dhan Yojana",
+      "slug": "pm-jan-dhan-yojana",
+      "tag": "Banking",
+      "url": "/yojana/pm-jan-dhan-yojana"
+    },
+    {
+      "title": "e-Shram Card",
+      "slug": "e-shram-card",
+      "tag": "Labour",
+      "url": "/yojana/e-shram-card"
+    },
+    {
+      "title": "PM Suraksha Bima Yojana",
+      "slug": "pm-suraksha-bima-yojana",
+      "tag": "Insurance",
+      "url": "/yojana/pm-suraksha-bima-yojana"
+    },
+    {
+      "title": "Health Insurance — How to Choose",
+      "slug": "health-insurance-guide",
+      "tag": "Insurance",
+      "url": "/paisa/health-insurance-guide"
+    }
+  ],
+  "tags": [
+    "Health",
+    "Insurance",
+    "PMJAY",
+    "Hospital",
+    "Central Government",
+    "Free"
+  ],
+  "ministry": "Ministry of Health and Family Welfare",
+  "launch_year": 2018,
+  "image_suggestions": [
+    "ayushman-bharat-eligibility-check-process",
+    "empanelled-hospital-search-map",
+    "pmjay-card-generation-mitra-desk",
+    "cashless-treatment-flowchart",
+    "pre-authorization-hospital-process",
+    "family-health-coverage-illustration"
+  ]
+}

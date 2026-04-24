@@ -1,0 +1,301 @@
+{
+  "slug": "check-epf-balance",
+  "title": "How to Check EPF/PF Balance — 4 Easy Methods 2026",
+  "meta_description": "Check EPF balance online via UMANG app, EPFO portal, SMS, or missed call. Download PF passbook. UAN activation guide included.",
+  "hero": {
+    "one_liner": "Check your PF (Provident Fund) balance in 30 seconds using UMANG app, EPFO portal, SMS, or missed call — no office visit needed",
+    "icon": "💰",
+    "updated_date": "Last reviewed: April 2026 • Source: EPFO India",
+    "tags": [
+      "EPF",
+      "PF",
+      "Finance"
+    ],
+    "read_time": "7 min",
+    "stats": [
+      {
+        "label": "UMANG App",
+        "value": "Instant"
+      },
+      {
+        "label": "SMS",
+        "value": "Send to 7738299899"
+      },
+      {
+        "label": "Missed Call",
+        "value": "011-22901406"
+      },
+      {
+        "label": "Portal",
+        "value": "epfindia.gov.in"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "heading": "What is EPF Balance and PF Passbook?",
+      "icon": "📋",
+      "type": "text",
+      "content": [
+        "EPF stands for Employees' Provident Fund — a mandatory savings scheme where your employer deducts 12% from your salary and deposits it into your retirement account with EPFO. Your EPF balance is the total amount accumulated from all your contributions and employer contributions throughout your employment.",
+        "Your EPF balance includes three components: (1) Your contribution (12% of basic salary deducted every month), (2) Employer contribution (12% matched by your employer), (3) Interest earned annually (8.25% for FY 2024-25, decided by EPFO each year). The balance grows monthly as contributions are deposited and annually as interest is credited.",
+        "PF Passbook is the official record showing month-wise contributions, interest, and current balance. It's legally equivalent to a bank passbook.",
+        "You can download it as PDF from the EPFO portal and use it for: loan applications (as proof of savings), background checks (as proof of employment), retirement planning (to know your accumulated amount).",
+        "Under the 'Universal Account Number' (UAN) system, all your EPF accounts across different employers are consolidated into one account. So even if you worked for 5 companies, you have one UAN and one balance showing all contributions combined."
+      ]
+    },
+    {
+      "heading": "Quick Answer",
+      "icon": "⚡",
+      "type": "callout",
+      "variant": "info",
+      "content": "For most people, <strong>UMANG app is the fastest way</strong> to check EPF balance — shows full passbook with interest history. SMS/missed call methods only show the latest balance (no transaction history)."
+    },
+    {
+      "heading": "Visual: All 4 Methods at a Glance",
+      "icon": "📊",
+      "type": "svg_block",
+      "svg": "<svg viewBox=\"0 0 700 300\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\">\n  <text x=\"350\" y=\"28\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">4 Ways to Check Your EPF Balance — Pick Your Method</text>\n  <!-- Method 1 UMANG -->\n  <rect x=\"20\" y=\"60\" width=\"150\" height=\"210\" rx=\"12\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/>\n  <text x=\"95\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"28\">📱</text>\n  <text x=\"95\" y=\"125\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#145236\">UMANG App</text>\n  <line x1=\"35\" y1=\"140\" x2=\"155\" y2=\"140\" stroke=\"#1B6B4A\" stroke-width=\"1\" opacity=\"0.3\"/>\n  <text x=\"95\" y=\"165\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\" font-weight=\"700\">✓ Fastest</text>\n  <text x=\"95\" y=\"182\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#145236\">✓ Full passbook</text>\n  <text x=\"95\" y=\"198\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#145236\">✓ Real-time</text>\n  <text x=\"95\" y=\"218\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#145236\">Needs: UAN + Mobile</text>\n  <text x=\"95\" y=\"250\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#1B6B4A\">BEST FOR ALL</text>\n  <!-- Method 2 EPFO Portal -->\n  <rect x=\"190\" y=\"60\" width=\"150\" height=\"210\" rx=\"12\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <text x=\"265\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"28\">🌐</text>\n  <text x=\"265\" y=\"125\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#1E40AF\">EPFO Portal</text>\n  <line x1=\"205\" y1=\"140\" x2=\"325\" y2=\"140\" stroke=\"#2563EB\" stroke-width=\"1\" opacity=\"0.3\"/>\n  <text x=\"265\" y=\"165\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\" font-weight=\"700\">✓ PDF download</text>\n  <text x=\"265\" y=\"182\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#1E40AF\">✓ Full history</text>\n  <text x=\"265\" y=\"198\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#1E40AF\">✗ Slower loading</text>\n  <text x=\"265\" y=\"218\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#1E40AF\">Needs: UAN + Password</text>\n  <text x=\"265\" y=\"250\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#2563EB\">FOR DESKTOP USERS</text>\n  <!-- Method 3 SMS -->\n  <rect x=\"360\" y=\"60\" width=\"150\" height=\"210\" rx=\"12\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/>\n  <text x=\"435\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"28\">💬</text>\n  <text x=\"435\" y=\"125\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#C2410C\">SMS Method</text>\n  <line x1=\"375\" y1=\"140\" x2=\"495\" y2=\"140\" stroke=\"#EA580C\" stroke-width=\"1\" opacity=\"0.3\"/>\n  <text x=\"435\" y=\"165\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#C2410C\" font-weight=\"700\">✓ No internet</text>\n  <text x=\"435\" y=\"182\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#C2410C\">✓ Works on any phone</text>\n  <text x=\"435\" y=\"198\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#C2410C\">✗ Latest balance only</text>\n  <text x=\"435\" y=\"218\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#C2410C\">Send: EPFOHO UAN</text>\n  <text x=\"435\" y=\"250\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#EA580C\">NO DATA NEEDED</text>\n  <!-- Method 4 Missed Call -->\n  <rect x=\"530\" y=\"60\" width=\"150\" height=\"210\" rx=\"12\" fill=\"#F3E8FF\" stroke=\"#7C3AED\" stroke-width=\"2\"/>\n  <text x=\"605\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"28\">📞</text>\n  <text x=\"605\" y=\"125\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#6B21A8\">Missed Call</text>\n  <line x1=\"545\" y1=\"140\" x2=\"665\" y2=\"140\" stroke=\"#7C3AED\" stroke-width=\"1\" opacity=\"0.3\"/>\n  <text x=\"605\" y=\"165\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#6B21A8\" font-weight=\"700\">✓ Simplest</text>\n  <text x=\"605\" y=\"182\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B21A8\">✓ Free call</text>\n  <text x=\"605\" y=\"198\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B21A8\">✗ Latest balance only</text>\n  <text x=\"605\" y=\"218\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B21A8\">Call: 9966044425</text>\n  <text x=\"605\" y=\"250\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#7C3AED\">ZERO EFFORT</text>\n</svg>",
+      "caption": "Pick the method that works best for your situation",
+      "description": "For most people, UMANG is the best — fast, shows full passbook with interest history. SMS/missed call only give the latest balance (no passbook)."
+    },
+    {
+      "heading": "Method 1: Check via UMANG App (Fastest & Best)",
+      "icon": "📱",
+      "type": "text",
+      "content": [
+        "<strong>Why UMANG is best:</strong> Instant balance update, shows detailed month-wise breakdown, allows withdrawal application directly from app, works offline after you login once.",
+        "<strong>Steps:</strong> (1) Download UMANG app from Google Play or App Store. (2) Open app → select 'EPFO' service. (3) Login with UAN + password (same login as epfindia.gov.in). (4) Click 'View Passbook' or 'Dashboard'. (5) Your PF balance appears immediately, showing: Total balance, contribution this month, employer contribution, interest, and full passbook with month-wise details.",
+        "<strong>Bonus features:</strong> Download passbook as PDF, apply for PF withdrawal, check claim status, view establishment details."
+      ]
+    },
+    {
+      "heading": "Method 2: Check via EPFO Portal (Web-Based)",
+      "icon": "💻",
+      "type": "steps",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Visit unifiedportal-mem.epfindia.gov.in",
+          "description": "Open in any browser. You'll see login page."
+        },
+        {
+          "step": 2,
+          "title": "Login with UAN and password",
+          "description": "Enter your 12-digit UAN (from salary slip or 'Know Your UAN' service) and your password (set when you activated UAN). Click 'Login'."
+        },
+        {
+          "step": 3,
+          "title": "Click 'View Passbook'",
+          "description": "From the dashboard, look for 'Our Services' section → click 'View Passbook'. Your PF balance and month-wise contribution history appears."
+        },
+        {
+          "step": 4,
+          "title": "Download passbook as PDF",
+          "description": "Scroll down → click 'Download Passbook' → PDF downloads with digital signature. Use this for loan/visa applications."
+        }
+      ]
+    },
+    {
+      "heading": "Method 3: Check via SMS (No Internet Needed)",
+      "icon": "📲",
+      "type": "text",
+      "content": [
+        "<strong>How it works:</strong> Send a specially formatted SMS from your UAN-registered mobile number. No internet needed — works on any phone (even 2G).",
+        "<strong>Steps:</strong> Open your phone's SMS app. Send message to <strong>7738299899</strong> with format: <strong>EPFOHO UAN ENG</strong> (replace ENG with your language code: HIN for Hindi, TAM for Tamil, TEL for Telugu, KAN for Kannada, etc.).",
+        "Your PF balance reply comes in 1-2 minutes via SMS showing: 'Your EPF Balance: ₹XXXXX. Last credit: DD/MM/YY.'",
+        "<strong>Important:</strong> The SMS must be sent from the mobile number registered with your Aadhaar (same number linked with your UAN). If the number doesn't match, SMS doesn't reply."
+      ]
+    },
+    {
+      "heading": "Method 4: Check via Missed Call (Simplest)",
+      "icon": "☎️",
+      "type": "text",
+      "content": [
+        "<strong>How it works:</strong> Give a missed call from your UAN-registered mobile. You receive an SMS reply with your balance.",
+        "Fastest method and requires absolutely no credentials.",
+        "<strong>Steps:</strong> (1) From the mobile number registered with your UAN, dial <strong>011-22901406</strong>. (2) Let it ring once (or call for 1-2 seconds then hang up). (3) Within 2-3 minutes, you receive an SMS with your PF balance.",
+        "<strong>Important note:</strong> Missed call method shows only your last known balance, not the latest monthly update. For accurate current balance, use UMANG app or portal.",
+        "Also, this service only works if your UAN is already activated and linked to your mobile."
+      ]
+    },
+    {
+      "heading": "Understanding Your PF Passbook",
+      "icon": "📖",
+      "type": "table",
+      "columns": [
+        "Field",
+        "Meaning"
+      ],
+      "rows": [
+        [
+          "Contribution Period",
+          "The month/year when contribution was deposited"
+        ],
+        [
+          "Employer Contribution",
+          "12% of your basic salary deposited by your company"
+        ],
+        [
+          "Employee Contribution",
+          "12% of your basic salary deducted from your salary"
+        ],
+        [
+          "Interest",
+          "Annual interest credited (8.25% for FY 2024-25), shown as extra amount in year-end months"
+        ],
+        [
+          "Balance",
+          "Cumulative total of all contributions + interest up to that date"
+        ],
+        [
+          "Closing Balance",
+          "Your total PF amount as of the last contribution date"
+        ]
+      ]
+    },
+    {
+      "type": "pullquote",
+      "text": "EPF earns <strong>8.25% interest</strong> annually (FY 2024-25) — higher than any bank FD. Your money compounds tax-free until withdrawal."
+    },
+    {
+      "heading": "Common Reasons Your Balance Might Be Wrong",
+      "icon": "⚠️",
+      "type": "text",
+      "content": [
+        "<strong>1. Recent salary, balance shows ₹0 for last month</strong> — PF contributions are credited with a lag (usually 7-15 days after month-end).",
+        "If you just drew salary, wait 10 days before checking. The balance updates once employer deposits contribution to EPFO.",
+        "<strong>2. Balance seems low despite working for years</strong> — Check: (a) Are you in the same company?",
+        "If you changed jobs, old PF may not have been transferred. Check 'Transfer History' on portal. (b) Did employer deduct PF only partially (some startups illegally reduce PF to 10% or less).",
+        "Contact HR. (c) You may be in probation period where PF wasn't deducted. (d) You withdrew PF for housing/medical — that amount won't show.",
+        "<strong>3. Balance shows ₹0 despite working for months</strong> — (a) Your company is defaulting on EPF deposit (illegal).",
+        "Complain to EPFO. (b) Your UAN isn't activated. Activate at unifiedportal-mem.epfindia.gov.in. (c) Old employer's PF hasn't transferred yet. (d) You're in a company with pending EPFO registration.",
+        "<strong>4. Two months show same balance (not increasing)</strong> — (a) Your company hasn't deposited for that month (default). (b) The company may have laid off employees and is delaying PF deposit. (c) Payroll system glitch — check with HR."
+      ]
+    },
+    {
+      "heading": "Visual: Password Reset Flow",
+      "icon": "🔑",
+      "type": "svg_block",
+      "svg": "<svg viewBox=\"0 0 700 200\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\">\n  <defs>\n    <marker id=\"arr-epf\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\">\n      <polygon points=\"0 0, 10 3, 0 6\" fill=\"#1B6B4A\"/>\n    </marker>\n  </defs>\n  <text x=\"350\" y=\"25\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Forgot EPFO Password? Reset in 3 Steps</text>\n  <!-- Step 1 -->\n  <circle cx=\"100\" cy=\"100\" r=\"30\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/>\n  <text x=\"100\" y=\"107\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">1</text>\n  <text x=\"100\" y=\"155\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#111827\">Click \"Forgot</text>\n  <text x=\"100\" y=\"170\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#111827\">Password\"</text>\n  <text x=\"100\" y=\"188\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B7280\">on EPFO login</text>\n  <!-- Arrow -->\n  <line x1=\"135\" y1=\"100\" x2=\"215\" y2=\"100\" stroke=\"#1B6B4A\" stroke-width=\"2\" marker-end=\"url(#arr-epf)\"/>\n  <!-- Step 2 -->\n  <circle cx=\"250\" cy=\"100\" r=\"30\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/>\n  <text x=\"250\" y=\"107\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">2</text>\n  <text x=\"250\" y=\"155\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#111827\">Enter UAN +</text>\n  <text x=\"250\" y=\"170\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#111827\">Aadhaar mobile</text>\n  <text x=\"250\" y=\"188\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B7280\">Get OTP</text>\n  <!-- Arrow -->\n  <line x1=\"285\" y1=\"100\" x2=\"365\" y2=\"100\" stroke=\"#1B6B4A\" stroke-width=\"2\" marker-end=\"url(#arr-epf)\"/>\n  <!-- Step 3 -->\n  <circle cx=\"400\" cy=\"100\" r=\"30\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/>\n  <text x=\"400\" y=\"107\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">3</text>\n  <text x=\"400\" y=\"155\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#111827\">Set new</text>\n  <text x=\"400\" y=\"170\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#111827\">password</text>\n  <text x=\"400\" y=\"188\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B7280\">Log in</text>\n  <!-- Result -->\n  <line x1=\"435\" y1=\"100\" x2=\"525\" y2=\"100\" stroke=\"#1B6B4A\" stroke-width=\"2\" marker-end=\"url(#arr-epf)\"/>\n  <rect x=\"535\" y=\"70\" width=\"140\" height=\"60\" rx=\"10\" fill=\"#1B6B4A\"/>\n  <text x=\"605\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#FFFFFF\">✓ Balance</text>\n  <text x=\"605\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#FFFFFF\">Visible</text>\n</svg>",
+      "caption": "Most common issue — forgotten EPFO password. Takes 2 minutes to fix.",
+      "description": "Your Aadhaar-linked mobile is essential. If that mobile number is changed, you must first update Aadhaar via UIDAI, then wait 7 days before resetting."
+    },
+    {
+      "heading": "What to Do if PF Balance is Missing or Wrong",
+      "icon": "🔧",
+      "type": "text",
+      "content": [
+        "<strong>Step 1: Contact your HR/Payroll department</strong> — Ask: (a) 'Was my PF deposited for [month] to EPFO?' (b) 'What's my current PF balance in your system?' (c) 'Why is portal not showing latest contribution?' HR can check their EPFO submission status.",
+        "<strong>Step 2: File a complaint at epfigms.gov.in</strong> — If HR says PF was deposited but portal doesn't show it, file complaint at EPFO's Integrated Grievance Management System. Include: company name, PAN, your salary slip, month when PF is missing.",
+        "<strong>Step 3: File complaint at nearest EPFO office</strong> — Visit the EPFO office (address on epfindia.gov.in) with salary slip and passbook screenshot. They'll investigate whether your employer defaulted or if there's a data entry error.",
+        "<strong>Step 4: If employer is defaulting:</strong> This is illegal. EPFO can penalize the employer and force them to deposit PF + penalty.",
+        "Contact your state's labor department or file police complaint if employer completely refuses to deposit.",
+        "<strong>Important:</strong> Don't lose payslips. They're proof that PF should have been deducted. Keep them for 7+ years as backup."
+      ]
+    },
+    {
+      "heading": "External Links & Resources",
+      "icon": "🔗",
+      "type": "text",
+      "content": [
+        "<h3>Official EPFO Portals:</h3>",
+        "<a href='https://unifiedportal-mem.epfindia.gov.in' target='_blank'>EPFO Member Portal (unifiedportal-mem.epfindia.gov.in)</a> — Check balance, download passbook, apply for withdrawal.",
+        "<a href='https://www.epfindia.gov.in' target='_blank'>EPFO Homepage (epfindia.gov.in)</a> — General info, office locations, FAQs.",
+        "<h3>Mobile Apps:</h3>",
+        "<a href='https://umang.gov.in' target='_blank'>UMANG App</a> — Download from Google Play/App Store. Fastest way to check balance.",
+        "<h3>Locate Nearest EPFO Office:</h3>",
+        "<a href='https://www.epfindia.gov.in' target='_blank'>Office Finder (epfindia.gov.in → Office Locator)</a>",
+        "<h3>File Complaints:</h3>",
+        "<a href='https://epfigms.gov.in' target='_blank'>EPFO Integrated Grievance Management System (epfigms.gov.in)</a>"
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "My employer hasn't uploaded PF yet, but 2 weeks have passed. Should I worry?",
+      "answer": "Employers have until the 15th of the next month to deposit PF. So PF for January should be deposited by February 15. If it's still missing by February 20, contact HR asking when they'll deposit. If they say they've already deposited but portal doesn't show, wait 3-5 more days for data synchronization. If still missing after that, file complaint at epfigms.gov.in."
+    },
+    {
+      "question": "I worked for 2 companies. Why don't I see the old company's PF in my balance?",
+      "answer": "After you changed jobs, your old company's PF should have been transferred to your new company via 'Form 11' (transfer request). This process takes 15-30 days. Check your passbook for a note saying 'Transfer Received' or 'Previous balance transferred.' If not transferred after 1 month, contact your new HR asking them to follow up on the transfer. Once transferred, all balances merge into one number under your UAN."
+    },
+    {
+      "question": "My balance seems low. Did I lose money or was PF misused?",
+      "answer": "No, EPFO is the safest retirement account. Your balance only increases or stays same — it never decreases unless you withdraw. If balance seems low: (1) Check if you withdrew PF for housing/education/medical — those amounts won't show as balance. (2) You may have worked for only a few years. (3) Early probation period where PF wasn't deducted. (4) Multiple job changes where old PF wasn't transferred. Ask your current HR for full details."
+    },
+    {
+      "question": "Can I withdraw my entire EPF balance before retirement?",
+      "answer": "Partially yes, with restrictions. You can withdraw: (1) Full balance after 5 years of continuous employment, or if you've changed jobs and the account is inactive for 2+ months, (2) 50% of balance anytime for medical/higher education emergency, (3) 90% after age 54 (pre-retirement), (4) 100% after age 58 (retirement). For withdrawal, login to portal → 'Online Services' → 'Withdrawal Claim' and apply."
+    },
+    {
+      "question": "I gave a missed call to check balance but got no SMS. Why?",
+      "answer": "Possible reasons: (1) The mobile number you called from is not registered with your UAN. (2) Your UAN is not activated. (3) Your SMS pack is exhausted or network is down. (4) There was a network glitch. Try again after 10 minutes. If still not working, use UMANG app or portal instead."
+    },
+    {
+      "question": "Is UMANG app safe? Will my PAN/bank details be at risk?",
+      "answer": "Yes, UMANG app is completely safe — it's an official government app from MeitY. Your data is encrypted and protected by government servers. UMANG doesn't ask for PAN, bank details, or password. It only asks for UAN + password (same login as epfindia.gov.in). Don't share your UAN password with anyone."
+    },
+    {
+      "question": "What's the difference between 'EPF' and 'PF'?",
+      "answer": "No difference. EPF = Employees' Provident Fund (official name). PF = Provident Fund (shorter version). Both refer to the same retirement savings account managed by EPFO. Some people call it 'Employee PF', 'Employee Provident Fund', or 'EPF' — all mean the same thing."
+    },
+    {
+      "question": "How often is EPF balance updated?",
+      "answer": "EPF balance updates happen whenever your employer deposits the monthly contribution — usually by the 15th of every month. However, reflection in your passbook may take 3-5 extra days due to reconciliation. If your employer hasn't deposited for 2+ months, contact them directly. Interest is credited once per financial year (around May-July) for the previous year."
+    },
+    {
+      "question": "Can I check EPF balance without UAN?",
+      "answer": "No, UAN (Universal Account Number) is mandatory for all EPF balance checks. If you don't know your UAN: ask your HR department, check your salary slip (it's usually mentioned), or call EPFO helpline 1800-118-005. If your UAN is not activated, activate it first at epfindia.gov.in with PAN and Aadhaar."
+    },
+    {
+      "question": "What if my employer hasn't deposited EPF?",
+      "answer": "If contributions are missing for 2+ months, first confirm with your HR. If no resolution, file a complaint on EPFiGMS portal (<a href='https://epfigms.gov.in' target='_blank' rel='noopener'>epfigms.gov.in</a>). EPFO can penalize the employer with 12% interest + damages. You can also approach the labor commissioner. Keep salary slips as proof of deduction — employer must deposit within 15 days of salary payment."
+    }
+  ],
+  "disclaimer": "EPFO interest rates, regulations, and services may change annually. Always verify latest information from epfindia.gov.in.",
+  "related_pages": [
+    {
+      "title": "How to Activate UAN — EPF Account Access",
+      "slug": "activate-uan",
+      "tag": "EPF",
+      "url": "/guide/activate-uan"
+    },
+    {
+      "title": "EPF Withdrawal Guide — Full and Partial",
+      "slug": "epf-withdrawal",
+      "tag": "EPF",
+      "url": "/paisa/epf-withdrawal"
+    },
+    {
+      "title": "Gratuity Calculation & Claim",
+      "slug": "gratuity-guide",
+      "tag": "Finance",
+      "url": "/paisa/gratuity-guide"
+    },
+    {
+      "title": "NPS vs EPF vs PPF Comparison",
+      "slug": "nps-vs-epf-vs-ppf",
+      "tag": "Investments",
+      "url": "/compare/nps-vs-epf-vs-ppf"
+    }
+  ],
+  "tags": [
+    "EPF",
+    "PF Balance",
+    "EPFO",
+    "UAN",
+    "UMANG",
+    "Retirement",
+    "Employee Benefits"
+  ],
+  "image_suggestions": [
+    "UMANG app interface showing PF balance dashboard",
+    "EPFO portal screenshot showing passbook view",
+    "Sample PF passbook (month-wise contributions and balance)",
+    "SMS format example for checking balance via text",
+    "Comparison of 4 methods side-by-side with pros/cons",
+    "Graph showing EPF balance growth over 10 years example",
+    "Infographic: What's included in EPF balance (contribution + interest)"
+  ]
+}

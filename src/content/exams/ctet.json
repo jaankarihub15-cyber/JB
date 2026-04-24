@@ -1,0 +1,494 @@
+{
+  "slug": "ctet",
+  "title": "CTET 2026 — Central Teacher Eligibility Test",
+  "meta_description": "CTET 2026 — Teaching eligibility test for KVS, NVS, central schools. Paper 1 & 2 pattern, 150 questions, lifetime validity, and KVS/NVS recruitment.",
+  "hero": {
+    "status": "active",
+    "one_liner": "Mandatory eligibility test for teaching in Kendriya Vidyalayas, Navodaya Vidyalayas, Army Schools, and central government schools nationwide",
+    "icon": "📚",
+    "updated_date": "March 2026",
+    "stats": [
+      {
+        "label": "Conducted By",
+        "value": "CBSE"
+      },
+      {
+        "label": "Validity",
+        "value": "Lifetime"
+      },
+      {
+        "label": "Papers",
+        "value": "Paper 1 & 2"
+      },
+      {
+        "label": "Mode",
+        "value": "Online CBT"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "📝",
+      "label": "Apply at CTET",
+      "url": "https://ctet.nic.in/"
+    },
+    {
+      "icon": "📘",
+      "label": "KVS Recruitment",
+      "url": "https://kvsangathan.nic.in/"
+    },
+    {
+      "icon": "📞",
+      "label": "CBSE Helpline",
+      "url": "tel:011-22509256"
+    }
+  ],
+  "what_is_it": [
+    "CTET (Central Teacher Eligibility Test) is conducted by CBSE to certify eligibility for teaching positions in central government schools: Kendriya Vidyalayas (KVS — 1,200+ schools), Jawahar Navodaya Vidyalayas (NVS — 660+ schools), Army Schools, Tibetan Schools, and schools under Delhi/other union territories administration. CTET qualification is MANDATORY — you cannot be appointed as a teacher without it, making it an essential stepping stone for teaching careers.",
+    "CTET has two papers: Paper 1 (Classes 1-5, Primary) — requires 12th pass + D.El.Ed/BTC/B.Ed (or appearing in final year); Paper 2 (Classes 6-8, Upper Primary) — requires Bachelor's + B.Ed (or appearing in final year). Each paper has 150 MCQs in 150 minutes with NO negative marking. You need 60% (90 marks) to qualify; 55% for reserved categories. A major advantage: CTET validity is now LIFETIME (changed from 7 years in 2021) — once qualified, your eligibility never expires.",
+    "CTET is an eligibility test, NOT a recruitment exam. Clearing CTET makes you eligible to apply for KVS/NVS vacancies when announced. Actual selection depends on the organization-specific exam: KVS conducts its own Tier 1 & 2 exams, NVS conducts its own recruitment exams. However, a higher CTET score can give weightage in some recruitment processes and increases your chances of selection.",
+    "KVS/NVS teaching positions are among India's most coveted government jobs: PRT (Primary) at Pay Level 6 (₹38,000-48,000/month), TGT at Level 7 (₹48,000-60,000/month). Perks: Fixed 8 AM-2 PM working hours, 2+ months annual vacation, school holidays, pension, medical, and prestigious workplaces with excellent facilities."
+  ],
+  "key_details": [
+    {
+      "label": "Conducting Body",
+      "value": "CBSE (Central Board of Secondary Education)",
+      "highlight": false
+    },
+    {
+      "label": "Paper 1 (Classes 1-5) Eligibility",
+      "value": "12th pass + D.El.Ed/BTC/B.Ed (or appearing in final year)",
+      "highlight": true
+    },
+    {
+      "label": "Paper 2 (Classes 6-8) Eligibility",
+      "value": "Bachelor's degree + B.Ed (or appearing in final year). OR Bachelor's with 45% + NCTE-recognized teacher training.",
+      "highlight": true
+    },
+    {
+      "label": "Qualifying Marks",
+      "value": "General: 60% (90/150). OBC/SC/ST/PwBD: 55% (82/150).",
+      "highlight": true
+    },
+    {
+      "label": "Validity",
+      "value": "Lifetime (no expiry date). Changed from 7 years in 2021.",
+      "highlight": true
+    },
+    {
+      "label": "Negative Marking",
+      "value": "No negative marking — all 150 questions carry equal marks (1 mark each)",
+      "highlight": false
+    }
+  ],
+  "exam_pattern": [
+    {
+      "tier_name": "Paper 1 — Primary (Classes 1-5) — 2.5 hours",
+      "description": "150 MCQs, 150 marks total. No sectional timing; candidate's choice of attempt order. No negative marking — attempt all questions.",
+      "subjects": [
+        {
+          "name": "Child Development & Pedagogy (0-8 years child psychology, learning theories, classroom management)",
+          "questions": 30,
+          "marks": 30
+        },
+        {
+          "name": "Language I — Hindi (Reading, writing, comprehension, grammar)",
+          "questions": 30,
+          "marks": 30
+        },
+        {
+          "name": "Language II — English (Reading, writing, comprehension, grammar)",
+          "questions": 30,
+          "marks": 30
+        },
+        {
+          "name": "Mathematics (10th class level arithmetic, geometry, mensuration for teaching context)",
+          "questions": 30,
+          "marks": 30
+        },
+        {
+          "name": "Environmental Studies / EVS (Science + Social Studies for Class 1-5)",
+          "questions": 30,
+          "marks": 30
+        }
+      ],
+      "total_questions": 150,
+      "total_marks": 150,
+      "duration": "150 minutes (2.5 hours)",
+      "negative_marking": "No negative marking"
+    },
+    {
+      "tier_name": "Paper 2 — Upper Primary (Classes 6-8) — 2.5 hours",
+      "description": "150 MCQs, 150 marks. Same structure as Paper 1 but with subject-specific section instead of EVS.",
+      "subjects": [
+        {
+          "name": "Child Development & Pedagogy (0-14 years, adolescent psychology)",
+          "questions": 30,
+          "marks": 30
+        },
+        {
+          "name": "Language I — Hindi (Class 6-8 level)",
+          "questions": 30,
+          "marks": 30
+        },
+        {
+          "name": "Language II — English (Class 6-8 level)",
+          "questions": 30,
+          "marks": 30
+        },
+        {
+          "name": "Mathematics & Science OR Social Studies (Choose one based on specialization)",
+          "questions": 60,
+          "marks": 60
+        }
+      ],
+      "total_questions": 150,
+      "total_marks": 150,
+      "duration": "150 minutes (2.5 hours)",
+      "negative_marking": "No negative marking"
+    }
+  ],
+  "major_posts": [
+    {
+      "post": "PRT (Primary Teacher, Classes 1-5)",
+      "pay_level": "Level 6 (₹35,400–1,12,400 pay band)",
+      "in_hand_salary": "₹38,000–48,000/month (starting) + benefits",
+      "department": "Kendriya Vidyalaya / Navodaya Vidyalaya"
+    },
+    {
+      "post": "TGT (Trained Graduate Teacher, Classes 6-8)",
+      "pay_level": "Level 7 (₹44,900–1,42,400)",
+      "in_hand_salary": "₹48,000–60,000/month (starting) + benefits",
+      "department": "Kendriya Vidyalaya / Navodaya Vidyalaya"
+    }
+  ],
+  "extra_sections": [
+    {
+      "heading": "CTET → KVS/NVS Recruitment — Complete Career Path",
+      "icon": "📈",
+      "type": "text",
+      "content": [
+        "<h3>Step 1: Clear CTET (Eligibility)</h3>",
+        "Paper 1 (Primary): For PRT eligibility. Paper 2 (Upper Primary): For TGT eligibility.",
+        "Appearing for both papers makes you eligible for either position. Higher CTET score (70%+ instead of 55%) can give advantage in recruitment.",
+        "<h3>Step 2: Apply for KVS/NVS Recruitment Exams</h3>",
+        "KVS releases recruitment notifications typically 1-2 times per year with 500-1,000 vacancies for PRT/TGT combined. NVS releases 1-2 notifications with 200-500 vacancies.",
+        "These are separate exams — CTET qualification is prerequisite, not sufficient. Example: 5841 vacancies announced in NVS recruitment (Nov 2025 notification) for ~20,000+ CTET-qualified applicants.",
+        "<h3>Step 3: Clear KVS/NVS Tier 1 & Tier 2 Exams</h3>",
+        "KVS Recruitment: Tier 1 (written exam similar to CGL), Tier 2 (second written + interview). Difficulty: Moderate (easier than banking but harder than SSC CGL).",
+        "NVS Recruitment: Similar two-stage process. CTET score may be given 5-10% weightage in merit calculation.",
+        "<h3>Step 4: Interview & Final Selection</h3>",
+        "KVS/NVS conduct interviews for shortlisted candidates. Interview focuses on teaching philosophy, subject knowledge, communication skills, and aptitude for central schools' environment.",
+        "Final merit = Tier 2 + Interview scores.",
+        "<h3>Step 5: Appointment & Posting</h3>",
+        "Successful candidates are appointed as PRT/TGT at Pay Level 6/7. Posting is at KVS/NVS across India — you can be posted in any state based on vacancy and merit.",
+        "Salary: ₹38,000-60,000/month starting + allowances + pension."
+      ]
+    },
+    {
+      "heading": "KVS/NVS Permanent Teacher Salary & Benefits",
+      "icon": "💰",
+      "type": "table",
+      "columns": [
+        "Position",
+        "Pay Level",
+        "Starting Salary",
+        "After 10 Years",
+        "Perks"
+      ],
+      "rows": [
+        [
+          "PRT (Primary Teacher)",
+          "Level 6",
+          "₹35,400 (₹38,000-48K in-hand)",
+          "₹50,000-60,000/month",
+          "DA (50%), HRA, LTC, Children's Education Allowance"
+        ],
+        [
+          "TGT (Upper Primary)",
+          "Level 7",
+          "₹44,900 (₹48,000-60K in-hand)",
+          "₹65,000-75,000/month",
+          "DA (50%), HRA, LTC, CDA, Allowances"
+        ],
+        [
+          "PGT (Post-Graduate)",
+          "Level 8",
+          "₹47,600 (₹50,000-65K in-hand)",
+          "₹75,000-85,000/month",
+          "Same as TGT + Grade Allowance"
+        ]
+      ]
+    },
+    {
+      "heading": "CTET vs State TET — Which Should You Take?",
+      "icon": "⚖️",
+      "type": "table",
+      "columns": [
+        "Aspect",
+        "CTET (Central Schools)",
+        "State TET (e.g., UPTET, MPTET, REET)"
+      ],
+      "rows": [
+        [
+          "Eligibility",
+          "CTET only",
+          "State TET (UPTET for UP, MPTET for MP, etc.)"
+        ],
+        [
+          "Posting",
+          "Pan-India (any state)",
+          "Within your state only"
+        ],
+        [
+          "Schools covered",
+          "KVS, NVS, Army Schools, Central Govt schools",
+          "State government schools"
+        ],
+        [
+          "Vacancies",
+          "~3,000-5,000 yearly (KVS+NVS)",
+          "~10,000-50,000 yearly (state-dependent)"
+        ],
+        [
+          "Salary",
+          "₹38,000-60,000/month starting",
+          "₹20,000-35,000/month starting (varies by state)"
+        ],
+        [
+          "Prestige",
+          "High (central schools, pan-India posting)",
+          "Good (state schools, local posting)"
+        ],
+        [
+          "Recommendation",
+          "If: willing to relocate, want pan-India career, higher salary",
+          "If: want to stay in home state, prefer local community"
+        ]
+      ]
+    }
+  ],
+  "important_dates": [
+    {
+      "label": "CTET 2026 Exam",
+      "value": "Conducted twice yearly (check ctet.nic.in for dates)",
+      "highlight": true
+    },
+    {
+      "label": "Application Window",
+      "value": "1-2 months before exam date",
+      "highlight": false
+    },
+    {
+      "label": "Validity",
+      "value": "Lifetime (no expiry)",
+      "highlight": true
+    },
+    {
+      "label": "KVS Recruitment Notification",
+      "value": "Check kvs.ac.in for upcoming recruitment 2026-27",
+      "highlight": true
+    },
+    {
+      "label": "NVS Recruitment Notification",
+      "value": "Check navodaya.gov.in for upcoming recruitment 2026-27",
+      "highlight": false
+    }
+  ],
+  "preparation_tips": [
+    "Child Development & Pedagogy is CTET-specific and highest-scoring section if you understand concepts. Study: Piaget's cognitive development stages, Vygotsky's ZPD theory, Kohlberg's moral development, Gardner's multiple intelligences, Bloom's taxonomy, NCF 2005 framework, RTE 2009 Act, inclusive education principles. These concepts repeat in almost all CTET papers — master them thoroughly.",
+    "For Math & Science (Paper 1) and Math/Science or Social Studies (Paper 2): Questions are at Class 1-8 NCERT level but with a pedagogy twist. Understand HOW to teach concepts, not just the concept itself. Example: Instead of 'What is photosynthesis?', expect 'Which activity best helps students understand photosynthesis?' Study the 'why' behind lessons.",
+    "Language I (Hindi) and Language II (English): Focus on teaching methodology. Reading comprehension, grammar, and writing (letter writing, paragraph writing) are common. For Hindi: Study NCERT textbooks, grammar rules, formal letter writing, translation from English-to-Hindi. For English: Same approach plus idioms, synonyms/antonyms, proverbs.",
+    "No negative marking = Attempt ALL 150 questions. Even intelligent guessing helps your score. Don't leave blanks. Spend 1 minute average per question — if stuck, mark your best guess and move on."
+  ],
+  "faqs": [
+    {
+      "question": "Is CTET alone enough to become a teacher?",
+      "answer": "CTET makes you ELIGIBLE; it doesn't guarantee appointment. You must also clear the specific recruitment exam of KVS, NVS, or your state's TET. Think of CTET as a license to apply, not a job offer. After CTET, you compete in organization-specific recruitment exams."
+    },
+    {
+      "question": "I have B.Ed but no CTET. Can I teach in government schools?",
+      "answer": "In central schools (KVS, NVS): No, CTET is mandatory. In state government schools: You need your state's TET (UPTET for UP, MPTET for MP, etc.). Many states have replaced individual TET with CTET recognition, but verify your state's policy on <a href='https://www.ncte-india.org/'>NCTE website</a>."
+    },
+    {
+      "question": "Should I appear for both Paper 1 and Paper 2?",
+      "answer": "If you meet eligibility for both: Yes. This makes you eligible for both PRT and TGT positions. More options = higher chances of selection. Example: If you're a B.Ed graduate, you can do Paper 2 (TGT). If you also have D.El.Ed, you can do Paper 1 (PRT). Having both qualifications opens both pathways."
+    },
+    {
+      "question": "CTET vs UPTET vs MPTET — which should I choose?",
+      "answer": "Choose BOTH if possible. CTET qualifies you for central schools (pan-India posting, higher salary). State TET (UPTET, MPTET, REET) qualifies you for state schools (local posting, lower salary but more vacancies). CTET preparation and state TET preparation overlap 70%+. Study for CTET, then easily crack state TET with minor additional study."
+    },
+    {
+      "question": "What's the passing score and how many attempt?",
+      "answer": "Passing: 60% (90/150) for General, 55% (82/150) for SC/ST/OBC/PwBD. Unlimited attempts allowed. Many aspirants appear 2-3 times to improve score for better weightage in KVS/NVS recruitment. Each attempt shows improvement in your KVS application."
+    },
+    {
+      "question": "How long after CTET can I apply for KVS recruitment?",
+      "answer": "Immediately. CTET score remains valid for lifetime. As soon as you clear CTET, you're eligible for KVS, NVS, or state TET recruitment exams whenever they announce vacancies. You don't need to wait or re-attempt CTET."
+    }
+  ],
+  "official_portal": {
+    "name": "CTET Official Website",
+    "url": "https://ctet.nic.in/"
+  },
+  "related_pages": [
+    {
+      "title": "UPTET 2026",
+      "slug": "uptet",
+      "tag": "Teaching",
+      "url": "/exam/uptet"
+    },
+    {
+      "title": "UGC NET 2026",
+      "slug": "ugc-net",
+      "tag": "Teaching",
+      "url": "/exam/ugc-net"
+    },
+    {
+      "title": "SSC CGL 2026",
+      "slug": "ssc-cgl-2026",
+      "tag": "SSC",
+      "url": "/exam/ssc-cgl-2026"
+    }
+  ],
+  "tags": [
+    "CTET",
+    "Teaching",
+    "KVS",
+    "NVS",
+    "CBSE",
+    "Primary Teacher",
+    "TGT",
+    "Lifetime Validity",
+    "Government Jobs"
+  ],
+  "image_suggestions": [
+    "CBSE headquarters building",
+    "Kendriya Vidyalaya classroom",
+    "Navodaya Vidyalaya campus",
+    "Teacher with students in classroom",
+    "Child development stages visual",
+    "CTET exam paper sample",
+    "KVS school entrance gate",
+    "Teacher certificate after CTET",
+    "Classroom pedagogy demonstration",
+    "Teaching methodology flowchart"
+  ],
+  "exam_prep": {
+    "syllabus": [
+      {
+        "subject": "Child Development & Pedagogy",
+        "topics": "Child development (Piaget, Vygotsky, Kohlberg), inclusive education, learning disabilities, assessment & evaluation, motivation, cognition, language development, gender as social construct",
+        "questions": 30,
+        "marks": 30,
+        "tag": "Reasoning"
+      },
+      {
+        "subject": "Language I (English/Hindi)",
+        "topics": "Reading comprehension, grammar, pedagogy of language development, teaching strategies, materials for language teaching, remedial teaching",
+        "questions": 30,
+        "marks": 30,
+        "tag": "English"
+      },
+      {
+        "subject": "Language II",
+        "topics": "Same as Language I but in a different language. Tests language proficiency and teaching methodology.",
+        "questions": 30,
+        "marks": 30,
+        "tag": "English"
+      },
+      {
+        "subject": "Mathematics (Paper 1) / Science & Maths (Paper 2)",
+        "topics": "Paper 1 (1-5): Number system, geometry, measurement, data handling, pedagogical issues. Paper 2 (6-8): Advanced maths/science concepts + teaching methodology.",
+        "questions": 30,
+        "marks": 30,
+        "tag": "Maths"
+      },
+      {
+        "subject": "Environmental Studies (Paper 1) / Social Studies (Paper 2)",
+        "topics": "Paper 1: Family, food, shelter, water, environment, pedagogy. Paper 2: History, geography, civics, economics + pedagogical issues.",
+        "questions": 30,
+        "marks": 30,
+        "tag": "GK"
+      }
+    ],
+    "books": [
+      {
+        "title": "Child Development & Pedagogy",
+        "author": "Arihant / Disha Publications",
+        "subject": "CDP (most important)"
+      },
+      {
+        "title": "NCERT Books (relevant classes)",
+        "author": "NCERT",
+        "subject": "Content knowledge"
+      },
+      {
+        "title": "CTET Previous Year Papers",
+        "author": "Youth Competition Times",
+        "subject": "Practice"
+      },
+      {
+        "title": "Environmental Studies for CTET",
+        "author": "Arihant Publications",
+        "subject": "EVS (Paper 1)"
+      }
+    ],
+    "study_plan": [
+      {
+        "period": "Month 1-2: CDP + Content Knowledge",
+        "tasks": "Child Development & Pedagogy is the most important section — 30 marks. Study Piaget's stages, Vygotsky's ZPD, Kohlberg's moral development, Gardner's multiple intelligences, inclusive education, NCF 2005. Content subjects from NCERT textbooks of relevant classes."
+      },
+      {
+        "period": "Month 3: Practice + Pedagogy",
+        "tasks": "Solve last 10 years CTET papers. Focus on pedagogy questions in every section — these test HOW to teach, not just WHAT to teach. Language pedagogy, maths pedagogy, science/EVS pedagogy. Mock tests weekly."
+      },
+      {
+        "period": "Month 4: Revision + Mocks",
+        "tasks": "Daily mock tests. Revise CDP theories and NCF 2005 points. Focus on scoring 60%+ overall (qualifying marks). No negative marking in CTET — attempt all questions. CTET certificate is valid for lifetime."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "According to Piaget, the concrete operational stage is:",
+        "options": [
+          "0-2 years",
+          "2-7 years",
+          "7-11 years",
+          "11+ years"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "NCF 2005 was developed by:",
+        "options": [
+          "NCERT",
+          "UGC",
+          "CBSE",
+          "NCTE"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Zone of Proximal Development (ZPD) was proposed by:",
+        "options": [
+          "Piaget",
+          "Vygotsky",
+          "Bruner",
+          "Skinner"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "CTET certificate is valid for:",
+        "options": [
+          "5 years",
+          "7 years",
+          "10 years",
+          "Lifetime"
+        ],
+        "answer": 3
+      }
+    ]
+  }
+}

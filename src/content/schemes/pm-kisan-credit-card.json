@@ -1,0 +1,464 @@
+{
+  "slug": "pm-kisan-credit-card",
+  "title": "Kisan Credit Card (KCC)",
+  "meta_description": "Kisan Credit Card 2026 — get agricultural loans up to ₹3 lakh at 4% interest. How to apply, documents needed, interest subvention, and link with PM Kisan.",
+  "hero": {
+    "status": "active",
+    "one_liner": "Short-term agricultural loans at just 4% interest (after government subsidy) — the cheapest borrowing option for Indian farmers",
+    "icon": "💳",
+    "updated_date": "March 2026",
+    "stats": [
+      {
+        "label": "Loan Limit",
+        "value": "Up to ₹3 Lakh"
+      },
+      {
+        "label": "Interest Rate",
+        "value": "4% (after subsidy)"
+      },
+      {
+        "label": "Cards Issued",
+        "value": "7.5+ Crore"
+      },
+      {
+        "label": "Repayment",
+        "value": "Flexible"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "📝",
+      "label": "Apply at Bank",
+      "url": "https://pmkisan.gov.in/"
+    },
+    {
+      "icon": "💰",
+      "label": "KCC Calculator",
+      "url": "https://pmkisan.gov.in/"
+    },
+    {
+      "icon": "📞",
+      "label": "NABARD Helpline",
+      "url": "tel:18001801111"
+    },
+    {
+      "icon": "🔍",
+      "label": "Check Bank Eligibility",
+      "url": "https://pmkisan.gov.in/"
+    }
+  ],
+  "what_is_it": [
+    "Kisan Credit Card (KCC) is a credit scheme launched in 1998 that provides farmers with easy and timely access to bank credit for their agricultural needs. Think of it as a special credit card for farmers — you get a pre-approved credit limit (up to ₹3 lakh for most crops) and can withdraw money whenever you need it for seeds, fertilizers, pesticides, harvesting expenses, or even personal needs. Over 7.5 crore cards have been issued to Indian farmers, making it one of the largest agricultural credit schemes globally.",
+    "The biggest advantage of KCC is the interest rate. The base rate is 7% per annum, but the government provides a 2% interest subvention (central government subsidy), bringing it down to 5%. If you repay on time (within the crop season, typically 12 months), you get an additional 3% prompt repayment incentive, making the effective interest rate just 4% per annum. This is lower than any personal loan (12-18%), credit card (18-24%), or even gold loan rate (7-12%).",
+    "For loans up to ₹1.6 lakh, no collateral is required — a major relief for small farmers who cannot mortgage land or assets. For loans between ₹1.6 lakh and ₹3 lakh, the crop grown serves as security through hypothecation (legal claim on the produce). This means farmers can get substantial credit without losing ownership of their land. Above ₹3 lakh, the interest subvention no longer applies, and banks may ask for additional collateral.",
+    "KCC has been linked with PM Kisan — all PM Kisan beneficiaries are automatically prioritized for KCC applications, and banks must process their applications within 14 days. The government has also extended KCC benefits to allied activities: dairy farming (based on cattle count), poultry (based on flock size), fisheries, and shrimp farming, with identical interest subvention benefits. A digital KCC (d-KCC) system now allows farmers to apply online through Aadhaar e-KYC and receive loan approval within hours."
+  ],
+  "eligibility": [
+    {
+      "label": "Who can apply",
+      "value": "Individual farmers, joint liability groups (JLGs), tenant farmers, sharecroppers, landless agricultural laborers, and SHGs of farmers",
+      "highlight": true
+    },
+    {
+      "label": "Land ownership",
+      "value": "Own cultivable land or leased land with proper documentation. Tenant farmers need written lease agreement or NOC from landowner signed by both parties.",
+      "highlight": false
+    },
+    {
+      "label": "PM Kisan link",
+      "value": "PM Kisan beneficiaries get priority processing — guaranteed approval within 14 days with simplified documentation",
+      "highlight": true
+    },
+    {
+      "label": "Crop coverage",
+      "value": "All food crops (paddy, wheat, maize, pulses), oilseeds, horticulture, and allied activities: dairy, poultry, fishery, shrimp farming with same interest benefits",
+      "highlight": false
+    },
+    {
+      "label": "Documents needed",
+      "value": "Aadhaar card, PAN card (for loans above ₹1.6L), land records (7/12 extract, pattadar passbook, khatauni per state), recent sowing certificate from village officer, passport-size photos, existing loan details if any",
+      "highlight": false
+    },
+    {
+      "label": "Bank account",
+      "value": "Savings account at any bank where you want to apply — can be commercial, regional rural, cooperative, or small finance bank",
+      "highlight": false
+    }
+  ],
+  "eligibility_filters": {
+    "gender": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 75,
+    "occupation": [
+      "farmer"
+    ],
+    "income_max": 9999999,
+    "category": [
+      "general",
+      "obc",
+      "sc",
+      "st"
+    ],
+    "states": [
+      "all"
+    ]
+  },
+  "extra_sections": [
+    {
+      "heading": "How KCC Interest Subvention Works — Breaking Down the 4%",
+      "icon": "💰",
+      "type": "table",
+      "columns": [
+        "Stage",
+        "Interest Rate",
+        "How It Works"
+      ],
+      "rows": [
+        [
+          "Base Rate",
+          "7% per annum",
+          "Bank's standard agricultural lending rate for KCC loans"
+        ],
+        [
+          "After Government Subsidy",
+          "5% (-2% subvention)",
+          "Central government pays 2% rebate directly to banks to reduce your burden"
+        ],
+        [
+          "After Prompt Repayment Incentive",
+          "4% (-additional 3% benefit)",
+          "If you repay within crop season (typically 12 months), you save an additional 3%, bringing effective rate to 4%"
+        ],
+        [
+          "Delayed Payment",
+          "7%+ (subvention lost)",
+          "If you don't repay within crop season, you lose the 3% prompt repayment incentive and pay 7% or higher"
+        ],
+        [
+          "Loans Above ₹3 Lakh",
+          "No subvention (9-11%)",
+          "Interest subvention does not apply. Banks charge standard agricultural lending rates."
+        ]
+      ]
+    },
+    {
+      "heading": "Interest Rate Comparison — Why KCC Wins",
+      "icon": "🎯",
+      "type": "table",
+      "columns": [
+        "Loan Type",
+        "Annual Interest Rate",
+        "Monthly Cost on ₹1L Loan",
+        "Why It Matters"
+      ],
+      "rows": [
+        [
+          "Kisan Credit Card (KCC)",
+          "4% (after subsidy)",
+          "₹333/month",
+          "Cheapest agricultural borrowing option. Best for crop loans."
+        ],
+        [
+          "Personal Loan",
+          "12-18%",
+          "₹1,000–1,500/month",
+          "10× more expensive than KCC. Also no collateral needed for KCC up to ₹1.6L."
+        ],
+        [
+          "Gold Loan",
+          "7-12%",
+          "₹583–1,000/month",
+          "Requires collateral. Still more expensive than KCC."
+        ],
+        [
+          "Home Loan",
+          "8.5-9.5%",
+          "₹708–792/month",
+          "Longer tenure, but still costlier than KCC for short-term agricultural needs."
+        ],
+        [
+          "NBFC Agricultural Loan",
+          "18-24%",
+          "₹1,500–2,000/month",
+          "Predatory lending. Avoid. Go to bank for KCC instead."
+        ]
+      ]
+    },
+    {
+      "heading": "Step-by-Step KCC Application Process",
+      "icon": "📝",
+      "type": "steps",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Gather Required Documents",
+          "description": "Collect Aadhaar card, land records (7/12 extract or equivalent from your state), PAN card (if loan > ₹1.6L), sowing certificate from village officer, bank passbook, and recent passport-size photos (2-4 copies)."
+        },
+        {
+          "step": 2,
+          "title": "Visit Your Bank or Apply Online (d-KCC)",
+          "description": "Go to any bank branch (SBI, PNB, BOB, regional rural bank, cooperative bank) where you have a savings account. Ask for KCC. Many banks now offer digital KCC (d-KCC) — apply online via Aadhaar e-KYC through your bank's website or mobile app. Digital approval takes 2-4 hours instead of days."
+        },
+        {
+          "step": 3,
+          "title": "Fill KCC Application Form and Submit Documents",
+          "description": "The bank provides a KCC application form (usually 2-3 pages). Fill in personal details, land details (survey numbers, total area, current crops), credit limit needed (banks suggest based on land area and crop type), and submit with photocopies of all documents."
+        },
+        {
+          "step": 4,
+          "title": "Bank Officer Visits Your Farm (if required)",
+          "description": "For larger loans or new applicants, the bank officer may conduct a site visit to verify land ownership and assess farm conditions. This typically takes 2-3 days. PM Kisan beneficiaries usually skip this step as their details are pre-verified."
+        },
+        {
+          "step": 5,
+          "title": "Loan Sanction and KCC Card Issuance",
+          "description": "Once approved (14 days for PM Kisan beneficiaries, 21-30 days for others), you receive a KCC account and a RuPay debit card. The card is linked to your credit limit. You're now ready to withdraw."
+        },
+        {
+          "step": 6,
+          "title": "Start Using KCC for Agricultural Needs",
+          "description": "Withdraw funds as needed from ATMs or bank branches up to your sanctioned limit. Use the money for seeds, fertilizers, pesticides, farm labor, irrigation equipment, or harvesting costs. The card remains valid for 5 years and is renewed after re-assessment if you maintain good repayment history."
+        }
+      ]
+    },
+    {
+      "heading": "KCC Loan Limit by Crop Type and Farm Size",
+      "icon": "🌾",
+      "type": "table",
+      "columns": [
+        "Farm Size",
+        "Crop Type",
+        "Typical KCC Limit",
+        "Details"
+      ],
+      "rows": [
+        [
+          "0.5 acres",
+          "Rice/Wheat",
+          "₹25,000-50,000",
+          "Small marginal farmer. 2% of land area × scale of finance."
+        ],
+        [
+          "1 acre",
+          "Cotton/Sugarcane",
+          "₹50,000-1,00,000",
+          "Scale of finance for cotton is ₹50,000/acre (varies by state)."
+        ],
+        [
+          "2 acres",
+          "Paddy + Vegetables",
+          "₹1,00,000-1,50,000",
+          "Mixed cropping increases limit. Vegetable cultivation has higher scale."
+        ],
+        [
+          "5 acres",
+          "Sugarcane + Wheat",
+          "₹2,00,000-3,00,000",
+          "Can reach full ₹3 lakh limit depending on state and scale of finance."
+        ],
+        [
+          "Dairy (5 cows)",
+          "Dairy Farming",
+          "₹2,00,000",
+          "₹40,000 per milch cow/buffalo. Renewable every 2-3 years."
+        ],
+        [
+          "Poultry (10K birds)",
+          "Layer Farming",
+          "₹1,50,000",
+          "₹15 per bird for layer production. Based on production capacity."
+        ],
+        [
+          "2 pond acres",
+          "Fish Farming",
+          "₹2,00,000",
+          "Based on pond area and production potential. Linked to fish seed cost and feed requirements."
+        ]
+      ]
+    },
+    {
+      "heading": "KCC for Allied Activities — Beyond Crop Farming",
+      "icon": "🐄",
+      "type": "text",
+      "content": [
+        "In 2019, the government extended KCC benefits to allied activities beyond traditional crop farming, recognizing that many rural households depend on agriculture-related income sources. This expansion has helped dairy farmers, poultry producers, and aquaculturists access cheap credit at the same 4% rate.",
+        "Dairy Farming KCC: For farmers owning milch cattle (cows and buffalo). Credit limit is calculated at ₹40,000 per animal.",
+        "A farmer with 3 cows can get ₹1.2 lakh KCC. With 5 cows: ₹2 lakh.",
+        "Funds can be used for: purchasing quality breeding stock, cattle feed and fodder, veterinary medicines and equipment, dairy processing equipment (milk chilling tanks, separator machines).",
+        "Poultry KCC: For commercial poultry farmers (layers, broilers, breeders). Credit limit is based on flock size: layer farming ₹15 per bird, broiler farming ₹10-12 per bird.",
+        "A 5,000-bird layer farm gets approximately ₹75,000 limit. Funds cover: quality chicks from hatcheries, specialized poultry feed, medicine and vaccines, housing and equipment construction, processing facilities for eggs and meat.",
+        "Fisheries KCC: For inland and marine fishermen and fish farmers. Limit is based on fishing vessels (₹2-5 lakh per vessel) or pond area (₹40,000 per acre of fishpond).",
+        "Funds for: nets and fishing equipment, fish seed and feed, pond preparation and maintenance, value-added processing (fish freezing, canning, smoking).",
+        "Shrimp Farming KCC: For shrimp and prawn culturists. Calculated based on pond area.",
+        "A 1-acre shrimp pond gets approximately ₹5-8 lakh limit (highest among allied activities due to higher investment requirements). Use: pond construction and preparation, quality seeds (post-larvae), specialized shrimp feed, aeration equipment, harvesting and processing machinery.",
+        "All allied activity KCC loans up to ₹3 lakh get the same 4% interest rate after government subsidy and prompt repayment incentive. Repayment period is 12-24 months depending on the activity production cycle.",
+        "Farmers can maintain separate KCC accounts for crop farming and allied activities simultaneously."
+      ]
+    },
+    {
+      "heading": "KCC vs Personal Loan — Why The Difference Matters",
+      "icon": "⚡",
+      "type": "text",
+      "content": [
+        "A ₹1 lakh personal loan from your bank would cost 12-18% annual interest. That translates to ₹1,000-1,500 per month or ₹12,000-18,000 per year.",
+        "The same ₹1 lakh borrowed through KCC costs only ₹333 per month (4% interest) or ₹4,000 per year. Over a 3-year period, KCC saves you ₹24,000-42,000 — enough to buy quality seeds and fertilizers for multiple seasons.",
+        "Personal loans require collateral like gold, property, fixed deposits, or a personal guarantor. Most small farmers don't have these.",
+        "KCC doesn't require any collateral up to ₹1.6 lakh — your good faith and crop are sufficient. For amounts above ₹1.6 lakh, your harvest serves as implicit security.",
+        "Personal loan approval takes 7-14 days and involves extensive financial documentation (income proof, employment verification, tax returns for self-employed). KCC uses NABARD-prescribed scale of finance based on land area and crop type — much simpler for farmers.",
+        "PM Kisan beneficiaries get KCC approval in just 14 days.",
+        "With personal loans, you must repay in fixed monthly EMIs regardless of harvest. If crop fails, you still owe the bank.",
+        "With KCC, if your crop fails due to natural calamity, you can apply for restructuring, and the government has relief provisions. Plus, KCC holders automatically get crop insurance (PMFBY) — the bank deducts the ₹20 annual premium from your KCC account."
+      ],
+      "image_suggestions": [
+        "Farmer reviewing KCC documents with bank officer",
+        "KCC RuPay card with security features highlighted",
+        "Chart comparing KCC interest rates vs personal loans",
+        "Success story testimonial from farmer with KCC",
+        "Process flowchart from application to fund disbursement"
+      ]
+    }
+  ],
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Visit bank or apply via d-KCC digital portal",
+      "description": "Go to any bank branch with savings account, or apply online using d-KCC if your bank offers it. Digital KCC is faster (2-4 hours approval)."
+    },
+    {
+      "step": 2,
+      "title": "Submit KCC application and land documents",
+      "description": "Fill form, attach Aadhaar, land records (7/12 extract), sowing certificate, PAN (if loan > ₹1.6L), and passport photos."
+    },
+    {
+      "step": 3,
+      "title": "Bank sanctions loan within 14-30 days",
+      "description": "PM Kisan beneficiaries: 14 days guaranteed. Others: 21-30 days depending on verification and land assessment."
+    },
+    {
+      "step": 4,
+      "title": "Receive KCC RuPay card and start withdrawals",
+      "description": "Card is valid for 5 years. Withdraw from ATMs or bank branches up to your sanctioned limit. Repay within crop season for 4% interest rate."
+    }
+  ],
+  "important_alert": {
+    "text": "Always repay KCC loan within the crop season (usually 12 months from drawdown date) to keep the 4% interest rate. If you delay beyond the crop season, you lose the 3% prompt repayment incentive and pay 7% or more. Set mobile reminders for repayment deadlines. If you face crop loss, immediately inform your bank to apply for loan restructuring — the government has provisions for natural calamity-affected farmers.",
+    "type": "warning"
+  },
+  "important_dates": [
+    {
+      "label": "KCC application window",
+      "value": "Open throughout the year at all banks; fastest during sowing season (June-July for kharif, October-November for rabi)",
+      "highlight": true
+    },
+    {
+      "label": "KCC card validity",
+      "value": "5 years from issuance; renewal requires re-assessment of farm and repayment history",
+      "highlight": false
+    },
+    {
+      "label": "Repayment deadline",
+      "value": "Within crop season (typically 12 months from drawdown) for 4% interest rate; extends to 18 months for sugarcane and similar long-cycle crops",
+      "highlight": true
+    },
+    {
+      "label": "Interest subvention validity",
+      "value": "Valid for crop loans up to ₹3 lakh only; no subvention for loans between ₹3-5 lakh",
+      "highlight": false
+    },
+    {
+      "label": "Auto-renewal of limit",
+      "value": "If you maintain good repayment record, your credit limit is automatically renewed each year without re-application",
+      "highlight": false
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Do I need collateral (land mortgage) for KCC?",
+      "answer": "For loans up to ₹1.6 lakh — absolutely no collateral or mortgage needed. For ₹1.6 lakh to ₹3 lakh — the crop you grow serves as security (hypothecation). For above ₹3 lakh — the bank may ask for land mortgage or other collateral. Most small and marginal farmers fall within the ₹1.6 lakh no-collateral bracket, which is why KCC is so popular."
+    },
+    {
+      "question": "I'm a PM Kisan beneficiary. How does the KCC link help me?",
+      "answer": "Banks are legally mandated to process your KCC application within 14 days if you're a PM Kisan beneficiary. Your PM Kisan registration serves as pre-verification of your farmer status and land details, eliminating lengthy document verification. Visit your bank, mention your PM Kisan registration number, and your KCC can be approved in 1-2 weeks instead of a month. You also get priority among applications."
+    },
+    {
+      "question": "Can I use KCC money for personal expenses like medical treatment?",
+      "answer": "KCC is officially for agricultural purposes (crop production, farm equipment, hiring labor). However, the government includes 'consumption needs of farmer household' — up to ₹1 lakh from a ₹3 lakh KCC can be used for personal needs like medical emergencies, children's education, or house repairs. In practice, banks don't strictly monitor how you use the funds for small loans, but using it for non-agricultural purposes could affect your credit history if you're flagged."
+    },
+    {
+      "question": "What happens if I can't repay on time due to crop failure?",
+      "answer": "If your crop fails due to drought, flood, pest attack, or disease: (1) Immediately apply for crop insurance claim under PM Fasal Bima Yojana (automatic if KCC holder). Insurance payout covers loan repayment. (2) Inform your bank about the loss. (3) Apply for loan restructuring/reschedulement — the government has provisions for natural calamity-affected farmers to extend repayment without penalty. (4) If you default completely, the loan becomes an NPA (Non-Performing Asset) after 90 days, your CIBIL score is damaged, and future lending becomes difficult."
+    },
+    {
+      "question": "Is crop insurance automatically linked to my KCC?",
+      "answer": "Yes. All KCC holders for notified crops are automatically enrolled under PM Fasal Bima Yojana (crop insurance) from the 2020 kharif season onwards. However, since 2020, farmers can opt out if they choose. The insurance premium (2% for kharif, 1.5% for rabi) is deducted from your KCC account at the time of loan disbursement. This protects you against crop loss due to natural calamities, pests, and diseases."
+    },
+    {
+      "question": "I'm a tenant farmer with no land ownership. Can I get KCC?",
+      "answer": "Yes. Tenant farmers and sharecroppers are fully eligible for KCC. You need: (1) a written lease agreement, (2) copy of land records in the landowner's name, (3) No Objection Certificate (NOC) signed by the landowner, (4) your Aadhaar and other identity documents. Joint Liability Groups (JLGs) of tenant farmers can also apply collectively with a single KCC. The interest rate and benefits remain the same."
+    },
+    {
+      "question": "Can I hold KCC with multiple banks?",
+      "answer": "You can hold KCC with only ONE bank at a time. If you try to open KCC in a second bank before closing the first, it will be rejected during verification. However, you can close KCC at Bank A and open it at Bank B. Most farmers stick with one bank for consistency. If you've moved to a new location, you can transfer your KCC to a local bank with RBI approval."
+    },
+    {
+      "question": "What's the difference between d-KCC (digital) and regular KCC?",
+      "answer": "d-KCC is a faster digital version launched in 2023-24. Instead of visiting the bank branch with documents, you apply online using Aadhaar e-KYC. The approval happens in 2-4 hours instead of 2-3 weeks. However, for loans above ₹1.6 lakh, some banks still conduct land verification before final approval. d-KCC is faster and convenient, but not all banks have rolled it out yet. Check your bank's website to see if d-KCC is available in your branch."
+    }
+  ],
+  "official_portal": {
+    "name": "PM Kisan Portal (KCC Section)",
+    "url": "https://pmkisan.gov.in"
+  },
+  "related_pages": [
+    {
+      "title": "PM Kisan Samman Nidhi",
+      "slug": "pm-kisan",
+      "tag": "Agriculture",
+      "url": "/yojana/pm-kisan"
+    },
+    {
+      "title": "PM Fasal Bima Yojana",
+      "slug": "pm-fasal-bima-yojana",
+      "tag": "Insurance",
+      "url": "/yojana/pm-fasal-bima-yojana"
+    },
+    {
+      "title": "PM KUSUM Yojana (Solar Pumps)",
+      "slug": "pm-kusum-yojana",
+      "tag": "Solar",
+      "url": "/yojana/pm-kusum-yojana"
+    },
+    {
+      "title": "PM Mudra Yojana",
+      "slug": "pm-mudra-yojana",
+      "tag": "Business",
+      "url": "/yojana/pm-mudra-yojana"
+    },
+    {
+      "title": "Atal Pension Yojana",
+      "slug": "atal-pension-yojana",
+      "tag": "Pension",
+      "url": "/yojana/atal-pension-yojana"
+    }
+  ],
+  "tags": [
+    "Agriculture",
+    "Loan",
+    "KCC",
+    "Credit Card",
+    "Farmer",
+    "Interest Subsidy"
+  ],
+  "ministry": "Ministry of Agriculture and Farmers Welfare",
+  "launch_year": 1998,
+  "image_suggestions": [
+    "Farmer holding KCC RuPay card with harvest field in background",
+    "Bank counter with KCC application form and documents",
+    "Comparison chart showing KCC vs personal loan interest rates",
+    "Map of India highlighting KCC branches",
+    "Close-up of KCC card with UPI enabled symbol"
+  ]
+}

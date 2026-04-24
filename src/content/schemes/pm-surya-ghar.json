@@ -1,0 +1,335 @@
+{
+  "slug": "pm-surya-ghar",
+  "title": "PM Surya Ghar Yojana — Free Solar Rooftop",
+  "meta_description": "PM Surya Ghar Yojana 2026 — up to ₹78,000 subsidy on rooftop solar panels. Free electricity, how to apply at pmsuryaghar.gov.in.",
+  "hero": {
+    "status": "active",
+    "one_liner": "Up to ₹78,000 government subsidy on rooftop solar panels (₹30K for 1kW, ₹60K for 2kW, ₹78K for 3kW) — generate free electricity and zero out your monthly bill",
+    "icon": "☀️",
+    "updated_date": "March 2026",
+    "stats": [
+      {
+        "label": "Subsidy",
+        "value": "Up to ₹78,000"
+      },
+      {
+        "label": "Target",
+        "value": "1 Cr homes"
+      },
+      {
+        "label": "Budget",
+        "value": "₹75,021 Cr"
+      },
+      {
+        "label": "Portal",
+        "value": "pmsuryaghar.gov.in"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "📝",
+      "label": "Apply Online",
+      "url": "https://pmsuryaghar.gov.in/"
+    },
+    {
+      "icon": "📞",
+      "label": "Helpline: 1800-180-3333",
+      "url": "tel:18001803333"
+    }
+  ],
+  "what_is_it": [
+    "PM Surya Ghar Muft Bijli Yojana (PM Solar Rooftop Free Electricity Scheme) was launched in February 2024 with an ambitious target of installing rooftop solar systems on 1 crore (10 million) residential households across India. The scheme provides substantial government subsidies capped at 3 kW: ₹30,000 for 1 kW systems, ₹60,000 for 2 kW, and ₹78,000 for 3 kW or higher. The subsidy covers approximately 40-50% of total installation cost for most households.",
+    "A typical 3 kW rooftop solar system generates 300-400 units (kWh) of electricity per month under average Indian solar conditions, sufficient for 80-90% of typical household electricity consumption. The system uses net metering — any excess electricity your panels generate is fed back to the grid, and your electricity meter runs backward, reducing your monthly bill. In good solar months, some households achieve near-zero or even negative electricity bills (credits).",
+    "Cost economics are compelling: A 3 kW system costs ₹1.80-2.20 lakh before subsidy. After ₹78,000 government subsidy, your net cost is ₹1.02-1.42 lakh. The system generates ₹2,000-3,000 worth of free electricity monthly (at ₹8-10 per unit), meaning it pays for itself in 3-5 years. After that, electricity is essentially free for 20-25 years (typical solar panel lifespan), resulting in ₹5-7 lakh in lifetime electricity savings.",
+    "Implementation happens through state electricity distribution companies (DISCOMs). You apply online, your DISCOM approves feasibility, you install through an MNRE-empanelled vendor, DISCOM inspects and commissions, and subsidy is directly credited to your bank account within 30 days of commissioning. The process is designed to be transparent and prevent middleman exploitation."
+  ],
+  "eligibility": [
+    {
+      "label": "Who can apply",
+      "value": "Any residential electricity consumer with a sanctioned load (10-50 ampere connection). Must own or have legal authority over the rooftop.",
+      "highlight": true
+    },
+    {
+      "label": "Roof space requirement",
+      "value": "Approximately 10 sq.m. of shadow-free rooftop per 1 kW. For 3 kW system: 30 sq.m. (roughly 300 sq.ft.). North-facing roofs are useless; south-facing ideal.",
+      "highlight": false
+    },
+    {
+      "label": "Subsidy cap",
+      "value": "₹30,000 (1 kW), ₹60,000 (2 kW), ₹78,000 (3+ kW). Maximum subsidy is ₹78,000 even if you install 5 or 10 kW. Only first 3 kW get subsidy.",
+      "highlight": true
+    },
+    {
+      "label": "Ineligible applicants",
+      "value": "Commercial establishments, industrial units, institutional buildings (schools, colleges, hospitals). Only residential electricity connections qualify.",
+      "highlight": false
+    },
+    {
+      "label": "Bank account",
+      "value": "Must have bank account (Aadhaar-linked) for subsidy transfer. Joint account acceptable.",
+      "highlight": false
+    },
+    {
+      "label": "Documents needed",
+      "value": "Electricity bill, Aadhaar card, bank passbook (first page), passport-sized photo, roof ownership proof (property deed or lease agreement)",
+      "highlight": false
+    }
+  ],
+  "eligibility_filters": {
+    "gender": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "occupation": [
+      "any"
+    ],
+    "income_max": 9999999,
+    "category": [
+      "general",
+      "obc",
+      "sc",
+      "st"
+    ],
+    "states": [
+      "all"
+    ]
+  },
+  "extra_sections": [
+    {
+      "heading": "Cost Breakdown — What You Pay After Subsidy",
+      "icon": "💰",
+      "type": "table",
+      "columns": [
+        "System Size",
+        "Equipment + Installation Cost",
+        "Govt Subsidy",
+        "Your Out-of-Pocket",
+        "Monthly Electricity Savings",
+        "Payback Period",
+        "Lifetime Savings (25 yrs)"
+      ],
+      "rows": [
+        [
+          "1 kW",
+          "₹60K-70K",
+          "₹30K",
+          "₹30K-40K",
+          "₹800-1,200",
+          "3-4 years",
+          "₹24-36 lakh"
+        ],
+        [
+          "2 kW",
+          "₹1.2L-1.4L",
+          "₹60K",
+          "₹60K-80K",
+          "₹1.5K-2.4K",
+          "3-5 years",
+          "₹45-72 lakh"
+        ],
+        [
+          "3 kW",
+          "₹1.8L-2.2L",
+          "₹78K",
+          "₹1.02L-1.42L",
+          "₹2.4K-3.6K",
+          "3-5 years",
+          "₹72-108 lakh"
+        ]
+      ]
+    },
+    {
+      "heading": "Installation Timeline — From Application to Free Electricity",
+      "icon": "📅",
+      "type": "steps",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Step 1: Online Registration at pmsuryaghar.gov.in",
+          "description": "Visit national portal, click 'Register'. Enter: name, mobile, email, electricity consumer number (from your bill), address. Your state DISCOM details auto-populate. Registration is instant, no documents needed yet."
+        },
+        {
+          "step": 2,
+          "title": "Step 2: Apply for Rooftop Solar",
+          "description": "Click 'Apply for Rooftop Solar'. Fill: roof area available (in sq.m.), desired system size (1/2/3 kW), bank account details for subsidy. Upload: recent electricity bill (JPG, <500KB), Aadhaar card (JPG), roof photo showing area and sunlight. Processing: 24-48 hours."
+        },
+        {
+          "step": 3,
+          "title": "Step 3: DISCOM Approves Feasibility",
+          "description": "Your DISCOM checks: (1) Roof suitable for solar installation, (2) Transformer capacity sufficient for net metering, (3) Building height/obstruction doesn't shade roof, (4) No architectural restrictions. DISCOM issues feasibility report. Timeline: 7-15 days. Cost: ₹0 (free)."
+        },
+        {
+          "step": 4,
+          "title": "Step 4: Select Vendor and Install",
+          "description": "Portal lists MNRE-approved solar installers in your area. Compare 2-3 vendors (different companies give different quotes). Finalize vendor. Installation takes 1-3 days for residential 1-3 kW systems. Vendor handles all technical work. You: supervise and ensure quality."
+        },
+        {
+          "step": 5,
+          "title": "Step 5: DISCOM Inspection and Net Meter Installation",
+          "description": "After installation, DISCOM inspects the system (checks wiring, safety, panel quality, inverter rating). If satisfactory, DISCOM installs a net meter (bidirectional meter that tracks solar generation and grid consumption). Commissioning report issued. Timeline: 7-15 days."
+        },
+        {
+          "step": 6,
+          "title": "Step 6: Subsidy Credited to Your Bank Account",
+          "description": "Upload commissioning report on portal. Verify bank account details are correct. DISCOM forwards paperwork to state nodal agency → Ministry of New and Renewable Energy (MNRE) → subsidy disbursement initiated. Subsidy (₹30K-78K) credited directly to your Aadhaar-linked bank account. Timeline: 20-30 days after commissioning. Simultaneously, your solar system starts generating electricity credited to you via net metering."
+        }
+      ]
+    },
+    {
+      "heading": "Real-Life Scenarios — How Much Will Your Bill Drop?",
+      "icon": "💡",
+      "type": "text",
+      "content": [
+        "Amit's 1 kW system (Bangalore, south-facing): Avg generation 120 units/month. Amit's previous bill: ₹1,200-1,500.",
+        "After solar: ₹200-400 (only for night consumption, off-peak grid charges). Monthly savings: ₹1,000.",
+        "Annual savings: ₹12,000. System cost after ₹30K subsidy: ₹40K.",
+        "Payback: 3.3 years. 25-year lifetime savings: ₹2.8 lakh.",
+        "Priya's 3 kW system (Delhi, good sunlight, 30 sq.m. roof): Avg generation 350 units/month (25+ peak sun hours). Priya's previous bill: ₹3,500-4,000 (₹10-11 per unit, expensive Delhi tariff).",
+        "After solar: Some months ₹0 (fully solar), others ₹200-500 (seasonal variation). Annual savings: ₹36,000-42,000.",
+        "System cost after subsidy: ₹1.20 lakh. Payback: 2.8 years. 25-year savings: ₹7.2 lakh.",
+        "Raj's 2 kW system (Chennai, coastal city): Humid, occasional cloud cover. Avg generation 280 units/month.",
+        "Raj's previous bill: ₹3,000. After solar: ₹800-1,200.",
+        "Monthly savings: ₹1,800-2,200. Annual: ₹21,600-26,400.",
+        "Payback: 4.2 years. Lifetime: ₹5.4 lakh.",
+        "Higher humidity impacts efficiency slightly, but still highly economical."
+      ]
+    },
+    {
+      "heading": "How Net Metering Works — Understanding the Backward-Running Meter",
+      "icon": "🔄",
+      "type": "text",
+      "content": [
+        "Net metering is the game-changer that makes rooftop solar economical. Your DISCOM installs a bidirectional meter that measures both: (1) Electricity consumed from grid (running forward), (2) Excess electricity exported to grid (running backward).",
+        "During day when sun is bright: Your 3 kW system generates 12+ units per hour. If you consume 2 units, excess 10 units flows back to grid.",
+        "Your meter runs BACKWARD. Credit: +10 units.",
+        "During night or cloudy days: You consume from grid normally. Meter runs forward. Debit: consumption units.",
+        "Monthly settlement: DISCOM credits you for excess generation at the same rate they charge (₹8-12 per unit, varies by state). Some states credit at ₹0 per unit if there's excess (less generous).",
+        "Check your state's net metering policy.",
+        "Benefits: (1) Zero batteries needed — grid acts as free battery storage, (2) Excess never wasted, (3) Seasonal variation smoothed out — good solar months offset bad months, (4) True cost per unit = (total annual consumption - solar generation) / 12, often ₹0-3 per unit vs. ₹8-12 without solar."
+      ]
+    }
+  ],
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Register at pmsuryaghar.gov.in with electricity consumer number",
+      "description": "Instant online registration. No fees. Get application ID for tracking."
+    },
+    {
+      "step": 2,
+      "title": "Apply for rooftop solar subsidy with roof details",
+      "description": "Upload electricity bill, Aadhaar, roof photo. DISCOM processes in 7-15 days."
+    },
+    {
+      "step": 3,
+      "title": "Choose MNRE-empanelled installer from portal list",
+      "description": "Get quotes, compare, select vendor. Avoid non-empanelled installers — they won't be eligible for subsidy."
+    },
+    {
+      "step": 4,
+      "title": "Install and get DISCOM inspection + net meter",
+      "description": "Installation: 1-3 days. DISCOM inspection: 7-15 days. System commissioned with bidirectional meter installed."
+    },
+    {
+      "step": 5,
+      "title": "Subsidy credited within 30 days of commissioning",
+      "description": "Upload commissioning report on portal. Subsidy transferred directly to bank account. System starts generating free electricity."
+    }
+  ],
+  "important_alert": {
+    "text": "CRITICAL: Only use MNRE-empanelled vendors listed on pmsuryaghar.gov.in. Non-empanelled installations will NOT be approved for subsidy. Verify vendor's empanelment certificate BEFORE making any payment. Scams involve unregistered vendors promising subsidy but disappearing after installation.",
+    "type": "warning"
+  },
+  "important_dates": [
+    {
+      "label": "Application",
+      "value": "Open throughout the year at pmsuryaghar.gov.in",
+      "highlight": true
+    },
+    {
+      "label": "Subsidy disbursement",
+      "value": "Within 30 days of DISCOM commissioning",
+      "highlight": true
+    },
+    {
+      "label": "Scheme period",
+      "value": "Till target of 1 crore homes reached (estimated completion 2027-2028)",
+      "highlight": false
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I get solar for completely free with this scheme?",
+      "answer": "No. Subsidy covers 40-50% of cost. You pay the remaining 50-60%. For 1 kW: you pay ₹30-40K after subsidy. For 3 kW: ₹1-1.4 lakh after subsidy. However, free electricity generated pays back this cost in 3-5 years. After that, electricity is essentially free. In effect, you get free electricity for the lifespan of panels (20-25 years) after paying upfront and waiting 3-5 years for payback."
+    },
+    {
+      "question": "Does solar work on cloudy days or monsoon season?",
+      "answer": "Yes, but at reduced output. On cloudy days, panels generate 20-30% of rated capacity. In monsoon, generation is 30-50% of peak. Annual generation in India averages 300-400 units/month for a 3 kW system when accounting for all seasons. Your annual bill calculation should use average generation, not peak summer generation. Even in cloudy regions like Kerala or northeastern states, solar is still economically viable — just with longer payback (5-7 years vs 3-4 years)."
+    },
+    {
+      "question": "What maintenance is required?",
+      "answer": "Minimal. (1) Clean panels once monthly with water and soft cloth, or after dusty storms. Takes 15 minutes. (2) Check inverter display monthly — should show generation data. (3) Check no leaves, bird droppings, or dirt blocking panels. No moving parts, no consumables to replace yearly. Inverter has 5-10 year lifespan (₹15,000-25,000 replacement cost). Panels have 25-year performance warranty — even after 25 years, panels typically retain 80% efficiency."
+    },
+    {
+      "question": "I live in an apartment. Can I install solar?",
+      "answer": "Very difficult. You need dedicated rooftop area, housing society permission, and electrical connections. Apartment societies can do rooftop solar collectively and split benefits — some are doing this. Individual apartment solar is technically possible if there's accessible rooftop, but practically challenging due to society regulations and shared infrastructure. Contact your building secretary about collective solar projects. Some states are incentivizing apartment complexes to go solar."
+    },
+    {
+      "question": "What about battery storage for power cuts?",
+      "answer": "PM Surya Ghar subsidy is for grid-connected solar ONLY (no battery). Your system feeds excess to grid via net metering. If there's a power cut, your system won't work (for safety — to prevent electrocuting repair personnel). If you want backup during outages, add a battery system separately (₹50,000-1,50,000 extra, not subsidized). This is a separate decision. Net metering without battery is sufficient if you have reliable grid supply."
+    },
+    {
+      "question": "What if my DISCOM refuses net metering?",
+      "answer": "All DISCOMs in India must offer net metering per MNRE guidelines. However, some older, recalcitrant DISCOMs delay. If denied, escalate to: (1) State Electricity Regulator, (2) Chief Secretary of state energy department, (3) MNRE helpline. Courts have ruled net metering is consumer's right. Don't proceed with solar without confirmed net metering approval from DISCOM — without net metering, excess generation is wasted and economics collapse."
+    },
+    {
+      "question": "Can I install larger system (5 kW) and get subsidy only for 3 kW?",
+      "answer": "Yes, but it's unusual. You can install 5 kW system and receive ₹78,000 subsidy (capped at 3 kW). The extra 2 kW operates without subsidy. Makes sense only if: (1) You have huge roof space, (2) You want future upgradability, (3) You run power-intensive equipment. Most households are served well by 2-3 kW. Anything beyond 3 kW rarely gets subsidy approval — MNRE considers it commercial scale."
+    }
+  ],
+  "official_portal": {
+    "name": "PM Surya Ghar Portal",
+    "url": "https://pmsuryaghar.gov.in"
+  },
+  "related_pages": [
+    {
+      "title": "PM KUSUM Yojana",
+      "slug": "pm-kusum-yojana",
+      "tag": "Solar",
+      "url": "/yojana/pm-kusum-yojana"
+    },
+    {
+      "title": "PM Awas Yojana",
+      "slug": "pm-awas-yojana",
+      "tag": "Housing",
+      "url": "/yojana/pm-awas-yojana"
+    },
+    {
+      "title": "PM Ujjwala Yojana",
+      "slug": "pm-ujjwala-yojana",
+      "tag": "Energy",
+      "url": "/yojana/pm-ujjwala-yojana"
+    }
+  ],
+  "tags": [
+    "Solar",
+    "Rooftop",
+    "Free Electricity",
+    "Subsidy",
+    "Green Energy",
+    "Central Government",
+    "Net Metering",
+    "₹78000"
+  ],
+  "ministry": "Ministry of New and Renewable Energy (MNRE)",
+  "launch_year": 2024,
+  "image_suggestions": [
+    "3 kW rooftop solar system installed on house",
+    "Net meter installation process",
+    "Solar panels generating electricity at sunrise",
+    "Electricity bill showing zero charges after solar",
+    "Before-after household electricity costs"
+  ]
+}

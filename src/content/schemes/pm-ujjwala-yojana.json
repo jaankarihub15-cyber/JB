@@ -1,0 +1,426 @@
+{
+  "slug": "pm-ujjwala-yojana",
+  "title": "PM Ujjwala Yojana",
+  "meta_description": "PM Ujjwala Yojana 2026 — free LPG connection for BPL women. Check eligibility, how to apply, get PAHAL subsidy refills, and verify 10+ crore connections.",
+  "hero": {
+    "status": "active",
+    "one_liner": "Free LPG gas connection for women from Below Poverty Line households — eliminating indoor air pollution from traditional cooking fuels",
+    "icon": "🔥",
+    "updated_date": "March 2026",
+    "stats": [
+      {
+        "label": "Benefit",
+        "value": "Free LPG Connection"
+      },
+      {
+        "label": "Beneficiaries",
+        "value": "10.3+ Crore"
+      },
+      {
+        "label": "Deposit",
+        "value": "₹0 (Free)"
+      },
+      {
+        "label": "Launched",
+        "value": "May 2016"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "📝",
+      "label": "Apply at Distributor",
+      "url": "https://www.pmuy.gov.in/"
+    },
+    {
+      "icon": "✅",
+      "label": "Check Eligibility",
+      "url": "https://www.pmuy.gov.in/"
+    },
+    {
+      "icon": "📞",
+      "label": "LPG Helpline: 1906",
+      "url": "tel:1906"
+    }
+  ],
+  "what_is_it": [
+    "PM Ujjwala Yojana was launched on 1 May 2016 in Ballia, Uttar Pradesh. The scheme provides completely free LPG (Liquefied Petroleum Gas) connections to women from Below Poverty Line (BPL) households, replacing traditional cooking fuels like firewood, cow dung cakes, and coal that cause severe indoor air pollution, respiratory diseases, and burn injuries.",
+    "As of March 2026, over 10.3 crore free LPG connections have been distributed under PMUY 1.0 and PMUY 2.0. The government approved an additional 25 lakh connections for FY 2025-26, pushing the total further. The scheme's impact is significant: the World Health Organization estimates that indoor air pollution from solid fuels kills over 5 lakh Indians annually. By switching families to LPG, the scheme reduces respiratory diseases, eye problems, and time spent collecting firewood (a burden primarily on women).",
+    "Under PMUY 2.0 (launched August 2021), the benefit package was enhanced: free LPG connection (registration fee waived), free first cylinder with gas, free stove and regulator, and a 5 kg composite cylinder option for smaller households. The ₹1,600 security deposit can be taken as an interest-free loan from the oil company, to be recovered through PAHAL subsidy amounts.",
+    "The government provides monthly LPG subsidy through PAHAL (Direct Benefit Transfer via LPG). When you refill a 14.2 kg cylinder at the market price (around ₹900-950), the government transfers ₹200-300 subsidy to your bank account within days. This makes refills affordable at just ₹600-700 effective cost. Additionally, the government has provided free cylinders during festivals and emergencies."
+  ],
+  "eligibility": [
+    {
+      "label": "Who can apply",
+      "value": "Adult women (18+) from BPL households who don't already have an LPG connection",
+      "highlight": true
+    },
+    {
+      "label": "PMUY 2.0 expanded categories",
+      "value": "Also includes: SC/ST households, PMAY beneficiaries, AAY families, most backward classes, forest dwellers, tea garden workers, river island residents",
+      "highlight": false
+    },
+    {
+      "label": "Income criteria",
+      "value": "Must be from Below Poverty Line (BPL) family as per SECC 2011 data or state government identification",
+      "highlight": false
+    },
+    {
+      "label": "Existing connection",
+      "value": "No existing LPG connection should be in any household member's name",
+      "highlight": true
+    },
+    {
+      "label": "Documents needed",
+      "value": "Aadhaar, BPL ration card or BPL certificate, bank account passbook, passport photo. PMUY 2.0: migrants can use self-declaration for address.",
+      "highlight": false
+    },
+    {
+      "label": "Connection ownership",
+      "value": "LPG connection is in the woman's name, not male head of household — deliberate design to empower women",
+      "highlight": true
+    }
+  ],
+  "eligibility_filters": {
+    "gender": [
+      "female"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "occupation": [
+      "any"
+    ],
+    "income_max": 250000,
+    "category": [
+      "general",
+      "obc",
+      "sc",
+      "st"
+    ],
+    "states": [
+      "all"
+    ]
+  },
+  "extra_sections": [
+    {
+      "heading": "What You Get Under PMUY — Complete Benefit Package",
+      "icon": "🎁",
+      "type": "text",
+      "content": [
+        "Under the enhanced PMUY 2.0 package, eligible women receive at absolutely zero cost:\n<h3>Mandatory Benefits (Free)</h3>\nLPG connection: Registration to the nearest Indian Oil, Bharat Petroleum, or HP Gas distributor. Includes KYC and consumer number.",
+        "First cylinder (14.2 kg): One full cylinder of LPG with gas — normally costs ₹800-900. Pressure regulator: Safety device connecting cylinder to stove — normally costs ₹150-250.",
+        "Gas stove (hotplate): In many states, a free induction or gas stove with 2-3 burners is provided.",
+        "<h3>Security Deposit — Interest-Free Loan Option</h3>\nThe ₹1,600 security deposit for the cylinder and regulator is provided as an interest-free loan by IOC/BPC/HPC.",
+        "This loan is recovered in small installments (₹50-100) from your future PAHAL subsidy payments — you don't pay it upfront.",
+        "<h3>What You Need to Arrange</h3>\nSubsequent refills: You pay market price (~₹900-950 for 14.2 kg) and get PAHAL subsidy (₹200-300) in your bank account.",
+        "Rubber hose pipe (connection tube): Costs ₹200-400 — optional if not provided with stove. Gas stove (if not provided): ₹1,000-2,500 for a basic two-burner stove.\n<h3>5 kg Composite Cylinder Option</h3>\nFor families finding ₹900 too expensive per refill, the 5 kg composite (FRP) cylinder costs only ₹350-400 per refill.",
+        "Lighter, more portable, and easier for single women or elderly to handle. Available at many distributors."
+      ]
+    },
+    {
+      "heading": "PAHAL Subsidy and Affordable Refills",
+      "icon": "🔄",
+      "type": "table",
+      "columns": [
+        "Cylinder Type",
+        "Market Price",
+        "PAHAL Subsidy",
+        "Your Effective Cost",
+        "Best For"
+      ],
+      "rows": [
+        [
+          "14.2 kg domestic cylinder",
+          "₹900-950",
+          "₹200-300",
+          "₹600-700/refill",
+          "Standard household (4-5 people)"
+        ],
+        [
+          "5 kg composite cylinder",
+          "₹350-400",
+          "₹100-150",
+          "₹200-250/refill",
+          "Single/elderly person, light use"
+        ],
+        [
+          "Holiday/festival free cylinders",
+          "₹0 (free)",
+          "100%",
+          "₹0 (periodic)",
+          "During government relief programs"
+        ],
+        [
+          "Refill frequency",
+          "Monthly",
+          "N/A",
+          "Costs 4,200-8,400/year",
+          "Average household"
+        ]
+      ]
+    },
+    {
+      "heading": "Free First Refill and How PAHAL Works",
+      "icon": "💳",
+      "type": "text",
+      "content": [
+        "Many Ujjwala beneficiaries stopped using LPG after the first free cylinder ran out because they couldn't afford refills. The government has addressed this through PAHAL subsidy.\n<h3>How to Book a Refill</h3>\nVisit your nearest LPG distributor or call their toll-free number.",
+        "You can also book online on most distributors' websites. Example: You want to refill your 14.2 kg cylinder.",
+        "Market price: ₹920\nYou pay: ₹920 at the distributor\nPAHAL subsidy: ₹250 automatically transferred to your Aadhaar-linked bank account within 3-5 days\nYour actual cost: ₹670 (after subsidy)\n<h3>Free Cylinders During Emergencies</h3>\nDuring COVID-19 (2020-21), the government provided 3 free refills per year to PMUY beneficiaries under PM Garib Kalyan Yojana.",
+        "Similar programs may be launched during future crises. <h3>Keeping Your Connection Active</h3>\nBook at least 1 refill per year to keep your connection active.",
+        "Inactive connections (no refill for 12+ months) may be terminated by the distributor. If terminated, you can reactivate with a fresh KYC visit — no charges."
+      ]
+    },
+    {
+      "heading": "Step-by-Step Application Process",
+      "icon": "📝",
+      "type": "steps",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Find nearest LPG distributor (Indian Oil, Bharat Gas, HP Gas)",
+          "description": "Search online at indianoil.in, bharatpetroleum.in, or hindustanpetroleum.com. Or ask in your village/neighborhood — distributors have visible signboards. Call them to confirm timings and required documents."
+        },
+        {
+          "step": 2,
+          "title": "Visit distributor with documents (all photocopies)",
+          "description": "Bring: Original Aadhaar card (for verification), BPL ration card or BPL certificate from Gram Panchayat, bank passbook (first page showing account number), one passport-size photo. For PMUY 2.0, migrants can submit a self-declaration of address instead of formal address proof."
+        },
+        {
+          "step": 3,
+          "title": "Request Ujjwala Yojana application form and fill",
+          "description": "Tell distributor you want to apply under PM Ujjwala Yojana. They provide the form. Fill in: your name, address, Aadhaar number, bank account number and IFSC code, ration card number, date of birth. Write neatly — any errors may delay approval."
+        },
+        {
+          "step": 4,
+          "title": "Submit application and verify details",
+          "description": "Distributor checks your name against the SECC database (official BPL list) and cross-verifies that no LPG connection exists in your household (using Aadhaar). If details match, your application is approved — usually within 7-14 days."
+        },
+        {
+          "step": 5,
+          "title": "Collect your free connection at distributor office",
+          "description": "You'll be notified (by phone or SMS) to collect your LPG cylinder, regulator, and stove from the distributor. Some distributors deliver to home. Bring your Aadhaar for final KYC verification. Sign consumer agreement. You're now an active LPG user."
+        }
+      ]
+    },
+    {
+      "heading": "Comparison: Traditional Fuels vs LPG Under PMUY",
+      "icon": "⚖️",
+      "type": "table",
+      "columns": [
+        "Aspect",
+        "Firewood/Dung Cakes",
+        "Coal/Kerosene",
+        "LPG (PMUY)"
+      ],
+      "rows": [
+        [
+          "Cost per month",
+          "₹0 (but time/effort)",
+          "₹300-500 (market price)",
+          "₹600-700 (with PAHAL subsidy)"
+        ],
+        [
+          "Health impact",
+          "Severe (WHO: 5L deaths/year)",
+          "Very high (air pollution)",
+          "Minimal (clean burning)"
+        ],
+        [
+          "Time spent collecting",
+          "2-4 hours/day (women burden)",
+          "None",
+          "None (distributor delivers)"
+        ],
+        [
+          "Indoor air quality",
+          "Highly toxic",
+          "Toxic",
+          "Clean, safe"
+        ],
+        [
+          "Cooking time",
+          "Slower",
+          "Normal",
+          "Fast, controlled flame"
+        ],
+        [
+          "Connection cost",
+          "Free (but environmental cost)",
+          "₹100-200 setup",
+          "₹0 (free under PMUY)"
+        ],
+        [
+          "Fire/burn risk",
+          "Very high",
+          "Moderate",
+          "Low (safe regulator)"
+        ],
+        [
+          "Renewable?",
+          "Depletes forests",
+          "Non-renewable",
+          "Imported (LNG)"
+        ]
+      ]
+    },
+    {
+      "heading": "Addressing Common Concerns About LPG Usage",
+      "icon": "💡",
+      "type": "text",
+      "content": [
+        "<h3>Is LPG Safe at Home?</h3>\nYes. Modern LPG cylinders have safety mechanisms: pressure regulator (prevents over-flow), safety valve (automatically closes if pressure builds), and hose with clamp.",
+        "The gas has a smell added so leaks are immediately detectable. Over 100 crore Indians use LPG safely daily.\n<h3>Will Refill Cost Bankrupt Me?</h3>\nNo.",
+        "PAHAL subsidy makes refills affordable. At ₹600-700 per refill, a household uses about ₹4,200/year (₹350/month).",
+        "Compare: traditional fuel collection = 2-4 hours daily = lost wage-earning opportunity = far more costly over time. LPG saves money when you factor in saved time.",
+        "<h3>What If I Can't Afford Refills?</h3>\nFive options: (1) Book 5 kg composite cylinders at ₹350-400 instead of 14.2 kg. (2) Share a cylinder with neighbors. (3) Government occasionally provides free cylinders during festivals.",
+        "(4) Some state governments have additional subsidy schemes. (5) Contact your Gram Panchayat about welfare relief if facing extreme hardship. <h3>Can I Cook Traditional Food on LPG?</h3>\nAbsolutely.",
+        "LPG works with all Indian cooking methods: tandoori preparations, bread-making, pressure cooking, rice/dal, tempering. Many prefer LPG because flame is controllable and cooking is faster and cleaner."
+      ]
+    },
+    {
+      "heading": "Reactivation and Portability of PMUY Connection",
+      "icon": "📍",
+      "type": "text",
+      "content": [
+        "<h3>If Your Connection Becomes Inactive</h3>\nIf you don't book any refill for 12+ months, your distributor may mark your connection inactive and eventually terminate it. This doesn't mean you lose your eligibility — you can reactivate.",
+        "How: Visit the same distributor with your consumer card (or Aadhaar). Tell them you want to reactivate.",
+        "They update their system. You can then book a refill immediately.",
+        "Usually no charges for reactivation.\n<h3>If You Move to a Different City</h3>\nLPG connections are portable across India. You don't need a new PMUY connection — you transfer your existing one.",
+        "How: Visit an LPG distributor in your new city. Bring your old consumer card, Aadhaar, and new address proof.",
+        "Request a transfer/porting of your connection. Takes 7-10 days.",
+        "Transfer is FREE. Your monthly PAHAL subsidy follows you to the new location."
+      ]
+    }
+  ],
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Visit nearest LPG distributor",
+      "description": "Indian Oil, Bharat Gas, or HP Gas. Carry Aadhaar, BPL ration card, bank passbook, and passport photo."
+    },
+    {
+      "step": 2,
+      "title": "Fill PMUY application form with distributor assistance",
+      "description": "Distributor helps you fill the form. Specify your Aadhaar, address, bank account, and ration card number."
+    },
+    {
+      "step": 3,
+      "title": "Distributor verifies BPL status against SECC database",
+      "description": "Usually takes 7-14 days. They confirm no existing LPG connection in your household."
+    },
+    {
+      "step": 4,
+      "title": "Collect free cylinder, stove, and regulator",
+      "description": "Once approved, notify you to pick up your complete package. One-time KYC verification, then you're done."
+    }
+  ],
+  "important_alert": {
+    "text": "PM Ujjwala Yojana connection is completely FREE. If any distributor, agent, or CSC operator asks you to pay money for the connection, it is FRAUD. Report immediately at LPG helpline <strong>1906</strong> or at <a href='https://mylpg.in' target='_blank'>mylpg.in</a>. You have the right to complain.",
+    "type": "warning"
+  },
+  "important_dates": [
+    {
+      "label": "PMUY 2.0 active",
+      "value": "Open — apply anytime at any LPG distributor",
+      "highlight": true
+    },
+    {
+      "label": "PAHAL subsidy",
+      "value": "Auto-credited to bank within 3-5 days of refill booking",
+      "highlight": false
+    },
+    {
+      "label": "LPG Helpline 1906",
+      "value": "Toll-free, available in 11 languages",
+      "highlight": true
+    },
+    {
+      "label": "Online complaints",
+      "value": "mylpg.in — report grievances online",
+      "highlight": false
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can men apply for Ujjwala Yojana or must the woman apply?",
+      "answer": "The connection is given only in the name of an adult woman of the household — not the male head. This is deliberate design to empower women, as cooking and fuel management are primarily handled by women. Once the woman is registered, the entire household benefits. If a woman doesn't exist in the household (rare cases), eligible widows or adult daughters can apply."
+    },
+    {
+      "question": "I have an LPG connection already. Can I get another one under PMUY?",
+      "answer": "No. If any household member already has an LPG connection (in anyone's name), you cannot get a new PMUY connection. The system cross-checks using Aadhaar and address data. If your existing connection is very old and inactive, you can surrender it and then apply for PMUY. But once you have a connection, that's it — no duplicates."
+    },
+    {
+      "question": "I don't have a BPL ration card. Can I still apply?",
+      "answer": "Under PMUY 2.0, eligibility was expanded beyond BPL. If you belong to SC/ST community, are a PMAY beneficiary, have an AAY (Antyodaya) ration card, are a most backward class member, a tea garden worker, or a forest dweller, you can apply even without a standard BPL card. Check with your distributor about your category."
+    },
+    {
+      "question": "How much does a refill cost after the free first cylinder?",
+      "answer": "You pay the market price (approximately ₹900-950 for a 14.2 kg cylinder as of March 2026). The government subsidy of ₹200-300 is automatically transferred to your linked bank account via PAHAL within 3-5 days. Your effective cost: around ₹600-700 per refill. For 5 kg composite cylinders, cost is ₹350-400. At ₹650/refill for monthly use, budget ₹7,800/year."
+    },
+    {
+      "question": "My Ujjwala connection has been inactive for 15 months. Is it cancelled?",
+      "answer": "Likely, yes. Connections inactive for 12+ months are terminated by the distributor. But you can reactivate. Visit the same distributor with your Aadhaar card and consumer ID (if you have it). Complete a fresh KYC. They'll reactivate your connection. Once reactivated, book a refill immediately. There's no charge for reactivation."
+    },
+    {
+      "question": "Can I transfer my Ujjwala connection if I move to another state?",
+      "answer": "Yes. LPG connections are portable across India. Visit an LPG distributor in your new city. Request a 'transfer' or 'porting' of your existing connection. Provide: old consumer card (if available), Aadhaar, new address proof. The transfer is FREE and takes about 7-10 days. Your PAHAL subsidy and connection benefits follow you to the new location."
+    },
+    {
+      "question": "Can I choose between Indian Oil, Bharat Gas, or HP Gas?",
+      "answer": "No, you don't choose. Your nearest distributor (determined by your address and pincode) is automatically assigned. If you have both Indian Oil and Bharat Gas nearby, most distributors will allow you to register with either. Just go to the one most convenient to you. Later, if you move, you can request a distributor change in your new area."
+    },
+    {
+      "question": "Are there any hidden charges or future costs with PMUY?",
+      "answer": "None. The LPG connection and first cylinder are completely free — this is guaranteed. Going forward, you pay only the market price of refills (₹600-700 effective cost with PAHAL subsidy). The government subsidy is automatic and free. There are no annual fees, registration renewals, or hidden charges. Your only obligation: book at least 1 refill per year to keep the connection active."
+    }
+  ],
+  "official_portal": {
+    "name": "PM Ujjwala Yojana Official Portal",
+    "url": "https://www.pmuy.gov.in"
+  },
+  "related_pages": [
+    {
+      "title": "PM Jan Dhan Yojana — Bank Account Access",
+      "slug": "pm-jan-dhan-yojana",
+      "tag": "Banking",
+      "url": "/yojana/pm-jan-dhan-yojana"
+    },
+    {
+      "title": "Ayushman Bharat PMJAY — Health Insurance",
+      "slug": "ayushman-bharat",
+      "tag": "Health",
+      "url": "/yojana/ayushman-bharat"
+    },
+    {
+      "title": "PM Awas Yojana — Housing for Poor",
+      "slug": "pm-awas-yojana",
+      "tag": "Housing",
+      "url": "/yojana/pm-awas-yojana"
+    },
+    {
+      "title": "e-Shram Card — Unorganized Worker Benefits",
+      "slug": "e-shram-card",
+      "tag": "Labour",
+      "url": "/yojana/e-shram-card"
+    }
+  ],
+  "tags": [
+    "LPG",
+    "Women",
+    "BPL",
+    "Welfare",
+    "Clean Cooking",
+    "Government Scheme"
+  ],
+  "ministry": "Ministry of Petroleum and Natural Gas",
+  "launch_year": 2016,
+  "image_suggestions": [
+    "Woman holding free LPG connection certificate",
+    "LPG cylinder with stove in village kitchen",
+    "Family cooking on LPG (mother with children)",
+    "LPG distributor office with signboard",
+    "Before/after: traditional firewood vs modern LPG stove",
+    "Woman receiving PAHAL subsidy bank transfer notification"
+  ]
+}

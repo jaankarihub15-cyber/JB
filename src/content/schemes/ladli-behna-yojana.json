@@ -1,0 +1,339 @@
+{
+  "slug": "ladli-behna-yojana",
+  "title": "Ladli Behna Yojana (MP) — ₹1,500/Month for Women",
+  "meta_description": "Ladli Behna Yojana 2026 — ₹1,500/month for married women 21-60 in MP. Eligibility, payment status, how to apply, and FAQ guide.",
+  "hero": {
+    "status": "active",
+    "one_liner": "Madhya Pradesh's flagship women's welfare scheme — ₹1,500 per month direct transfer to married women aged 21-60 from lower-income families",
+    "icon": "👩",
+    "updated_date": "Last reviewed: April 2026 • Source: MP WCD Department",
+    "stats": [
+      {
+        "label": "Monthly Amount",
+        "value": "₹1,500"
+      },
+      {
+        "label": "Beneficiaries",
+        "value": "1.3+ Crore"
+      },
+      {
+        "label": "Annual Benefit",
+        "value": "₹18,000"
+      },
+      {
+        "label": "State",
+        "value": "Madhya Pradesh"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "📝",
+      "label": "Apply / Check Status",
+      "url": "https://cmladlibahna.mp.gov.in/"
+    },
+    {
+      "icon": "📞",
+      "label": "Helpline: 0755-2700800",
+      "url": "tel:07552700800"
+    }
+  ],
+  "what_is_it": [
+    "Ladli Behna Yojana is a direct cash transfer scheme launched by the Madhya Pradesh government on 5 March 2023. It provides ₹1,500 per month (₹18,000/year) to eligible women through direct bank transfer. As of March 2026, the monthly amount has been progressively increased from ₹1,000 to ₹1,250 to ₹1,500, making it one of the most generous women's welfare schemes in India.",
+    "The scheme targets married women aged 21-60 from families with annual income below ₹2.5 lakh. Notably, divorced, widowed, and separated women are also eligible regardless of income.",
+    "Over 1.3 crore women in MP have enrolled. The money arrives on the 10th of every month in the beneficiary's Aadhaar-linked bank account.",
+    "The scheme has expanded to influence similar programs across states. Maharashtra launched Majhi Ladki Bahin (₹1,500/month), Jharkhand introduced Maiyan Samman, and Chhattisgarh started Mahtari Vandana. These state-level schemes demonstrate the policy success and popularity of direct benefit transfers for women.",
+    "Unlike conditional cash transfers, there are no restrictions on how women can use the money. Beneficiaries report using funds for household expenses, children's education, small business startup capital, health emergencies, and personal financial independence. The scheme is designed to strengthen women's decision-making power within families."
+  ],
+  "eligibility": [
+    {
+      "label": "Who can apply",
+      "value": "Married women aged 21-60 who are residents of Madhya Pradesh. Divorced, widowed, and separated women are also eligible.",
+      "highlight": true
+    },
+    {
+      "label": "Income limit",
+      "value": "Family annual income should not exceed ₹2.5 lakh. Family should not be an income tax payer.",
+      "highlight": true
+    },
+    {
+      "label": "Land limit",
+      "value": "Family should not own more than 5 acres of agricultural land",
+      "highlight": false
+    },
+    {
+      "label": "Exclusions",
+      "value": "Women whose family members are government employees (except Group D/contract), or whose family has a 4-wheeler registered vehicle, or who are already receiving ₹1,000+ from any other state pension scheme",
+      "highlight": false
+    },
+    {
+      "label": "Documents",
+      "value": "Aadhaar card (linked to mobile + bank), Samagra ID (family + member), bank passbook (DBT-enabled), passport photo",
+      "highlight": true
+    },
+    {
+      "label": "Samagra ID",
+      "value": "MANDATORY — you must have an active Samagra Family ID and Member ID. Without this, application is not possible. Get it at samagra.gov.in",
+      "highlight": true
+    }
+  ],
+  "eligibility_filters": {
+    "gender": [
+      "female"
+    ],
+    "age_min": 21,
+    "age_max": 60,
+    "occupation": [
+      "any"
+    ],
+    "income_max": 250000,
+    "category": [
+      "general",
+      "obc",
+      "sc",
+      "st"
+    ],
+    "states": [
+      "madhya-pradesh"
+    ]
+  },
+  "extra_sections": [
+    {
+      "heading": "Scheme Summary",
+      "icon": "👩",
+      "type": "callout",
+      "variant": "info",
+      "content": "<strong>₹1,500/month</strong> for eligible women aged 21-60 in Madhya Pradesh. Over <strong>1.25 crore women</strong> benefit. Payments arrive on the <strong>10th of every month</strong> via DBT. Launched in March 2023, it's MP's flagship women welfare scheme."
+    },
+    {
+      "heading": "Payment Amount History & Growth",
+      "icon": "📈",
+      "type": "table",
+      "columns": [
+        "Period",
+        "Monthly Amount",
+        "Annual Amount",
+        "Total Beneficiaries"
+      ],
+      "rows": [
+        [
+          "March 2023 - Dec 2024",
+          "₹1,000",
+          "₹12,000",
+          "1.25 crore"
+        ],
+        [
+          "Jan 2025 - Oct 2025",
+          "₹1,250",
+          "₹15,000",
+          "1.28 crore"
+        ],
+        [
+          "Nov 2025 - Present",
+          "₹1,500",
+          "₹18,000",
+          "1.3+ crore"
+        ]
+      ]
+    },
+    {
+      "heading": "Visual: Payment Growth Since 2023",
+      "icon": "📈",
+      "type": "svg_block",
+      "svg": "<svg viewBox=\"0 0 700 280\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\">\n  <text x=\"350\" y=\"25\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Ladli Behna Payment — Growth Over Time</text>\n  <!-- Axes -->\n  <line x1=\"60\" y1=\"220\" x2=\"640\" y2=\"220\" stroke=\"#4B5563\" stroke-width=\"1\"/>\n  <line x1=\"60\" y1=\"60\" x2=\"60\" y2=\"220\" stroke=\"#4B5563\" stroke-width=\"1\"/>\n  <text x=\"50\" y=\"223\" text-anchor=\"end\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B7280\">₹0</text>\n  <text x=\"50\" y=\"180\" text-anchor=\"end\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B7280\">₹500</text>\n  <text x=\"50\" y=\"140\" text-anchor=\"end\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B7280\">₹1K</text>\n  <text x=\"50\" y=\"100\" text-anchor=\"end\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B7280\">₹1.5K</text>\n  <text x=\"50\" y=\"65\" text-anchor=\"end\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B7280\">₹3K</text>\n  <!-- Bars -->\n  <rect x=\"100\" y=\"180\" width=\"80\" height=\"40\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <text x=\"140\" y=\"175\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1E40AF\">₹1,000</text>\n  <text x=\"140\" y=\"240\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#4B5563\">2023 (Start)</text>\n  <rect x=\"230\" y=\"140\" width=\"80\" height=\"80\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/>\n  <text x=\"270\" y=\"135\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#145236\">₹1,250</text>\n  <text x=\"270\" y=\"240\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#4B5563\">Oct 2023</text>\n  <rect x=\"360\" y=\"100\" width=\"80\" height=\"120\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/>\n  <text x=\"400\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#C2410C\">₹1,500</text>\n  <text x=\"400\" y=\"240\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#4B5563\">Aug 2024</text>\n  <rect x=\"490\" y=\"60\" width=\"80\" height=\"160\" fill=\"#F3E8FF\" stroke=\"#7C3AED\" stroke-width=\"2\"/>\n  <text x=\"530\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#6B21A8\">₹3,000</text>\n  <text x=\"530\" y=\"240\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#4B5563\">Promised</text>\n  <text x=\"530\" y=\"258\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-style=\"italic\" fill=\"#6B7280\">(by 2028)</text>\n</svg>",
+      "caption": "Payments have tripled from ₹1,000 to promised ₹3,000 over 5 years",
+      "description": "MP government has committed to raising the amount to ₹3,000/month by 2028, making it one of India's largest women welfare schemes."
+    },
+    {
+      "heading": "How to Apply — Step by Step",
+      "icon": "📝",
+      "type": "steps",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Get your Samagra ID ready",
+          "description": "Samagra ID is mandatory for all MP government schemes. Check your Samagra ID at <a href=\"https://samagra.gov.in\" target=\"_blank\">samagra.gov.in</a>. If you don't have one, apply at your local Gram Panchayat or Nagar Palika office. Both Family ID and Member ID are needed. Ensure your name, age, and Aadhaar are correctly linked in Samagra."
+        },
+        {
+          "step": 2,
+          "title": "Complete Aadhaar eKYC",
+          "description": "Your Aadhaar must be linked with your bank account and mobile number. If not linked, visit your bank branch for Aadhaar seeding. Also complete eKYC at the Samagra portal — this verifies your identity biometrically. Without eKYC, payments will be blocked."
+        },
+        {
+          "step": 3,
+          "title": "Visit your nearest camp/ward office",
+          "description": "Applications are accepted at Gram Panchayat offices, ward offices, and special Ladli Behna camps organized by the district administration. Carry: Aadhaar card, Samagra printout, bank passbook, 2 passport photos. The operator fills your form and captures your photo."
+        },
+        {
+          "step": 4,
+          "title": "Form verification and approval",
+          "description": "Your application is verified at the ward/panchayat level, then at the block level. Verification takes 15-30 days. Check status at <a href=\"https://cmladlibahna.mp.gov.in/\" target=\"_blank\">cmladlibahna.mp.gov.in</a> with your Samagra ID or application number."
+        },
+        {
+          "step": 5,
+          "title": "First payment arrives on 10th of next month",
+          "description": "Once approved, ₹1,500 is credited to your Aadhaar-linked bank account on the 10th of every month. You'll receive an SMS notification. If payment doesn't arrive, check: (1) Aadhaar-bank linking, (2) eKYC status, (3) bank account is active and not dormant."
+        }
+      ]
+    },
+    {
+      "heading": "How to Check Payment Status",
+      "icon": "🔍",
+      "type": "text",
+      "content": [
+        "<h3>Method 1 — Online Status Check</h3>Visit <a href=\"https://cmladlibahna.mp.gov.in/\" target=\"_blank\">cmladlibahna.mp.gov.in</a> and click 'आवेदन एवं भुगतान की स्थिति' (Application and Payment Status). Enter your Samagra Member ID or mobile number to view all payment details including date and amount.",
+        "<h3>Method 2 — Bank Passbook</h3>Visit your bank and get your passbook updated. All Ladli Behna payments appear as DBT credit entries, usually on the 10th of each month.",
+        "Your statement will show each monthly deposit.",
+        "<h3>Method 3 — Helpline Support</h3>Call 0755-2700800 (state helpline) or CM Helpline 181. Provide your Samagra ID and ask about payment status.",
+        "Staff can also help troubleshoot payment delays.",
+        "<h3>Resolving Payment Issues</h3>Common problems: (1) eKYC pending — complete at Samagra center, (2) Aadhaar not linked to bank — visit bank branch, (3) Bank account dormant — make one transaction to reactivate, (4) Name mismatch between Aadhaar and bank — correct at either end."
+      ]
+    },
+    {
+      "heading": "What Makes This Scheme Different",
+      "icon": "💡",
+      "type": "text",
+      "content": [
+        "<h3>No Conditions on Use</h3>Unlike schemes that give money for specific purposes (education, housing), Ladli Behna has zero conditions. The ₹1,500 can be spent however beneficiaries choose.",
+        "This respects women's autonomy to decide their own priorities.",
+        "<h3>Nearly Universal Coverage</h3>The ₹2.5 lakh income limit is generous enough that roughly 80% of MP's married women qualify. This isn't targeted only at the extremely poor — it's near-universal support for women.",
+        "<h3>Regular Monthly Guarantee</h3>₹1,500 arrives every single month like clockwork. For rural women in MP where daily wages are ₹200-300, this represents 5-7 days of guaranteed income without working.",
+        "<h3>Builds Financial Independence</h3>Many beneficiaries report that having their own bank account with regular income has transformed family dynamics. Women have more say in household decisions and are less financially dependent on husbands or in-laws."
+      ]
+    },
+    {
+      "heading": "Payment Check",
+      "icon": "💰",
+      "type": "callout",
+      "variant": "tip",
+      "content": "Check payment status at <a href='https://cmladlibahna.mp.gov.in' target='_blank' rel='noopener'>cmladlibahna.mp.gov.in</a> using your Aadhaar/Samagra ID. If payment is delayed, first check bank for transactions with 'MSK' or 'WCD' prefix. Contact helpline <strong>181</strong> for issues."
+    }
+  ],
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Ensure Samagra ID + Aadhaar eKYC is complete",
+      "description": "Check at <a href=\"https://samagra.gov.in\" target=\"_blank\">samagra.gov.in</a>. Both Family ID and Member ID needed."
+    },
+    {
+      "step": 2,
+      "title": "Visit Gram Panchayat/Ward office with documents",
+      "description": "Aadhaar, Samagra printout, bank passbook, 2 passport photos."
+    },
+    {
+      "step": 3,
+      "title": "Application verified in 15-30 days",
+      "description": "Track at <a href=\"https://cmladlibahna.mp.gov.in/\" target=\"_blank\">cmladlibahna.mp.gov.in</a>."
+    },
+    {
+      "step": 4,
+      "title": "₹1,500/month credited on 10th",
+      "description": "To Aadhaar-linked bank account. SMS notification sent."
+    }
+  ],
+  "important_alert": {
+    "text": "Samagra ID and Aadhaar eKYC are MANDATORY. Without these, your application will be rejected or payments will be blocked. Complete eKYC first, then apply. Helpline: <strong>0755-2700800</strong> or <strong>181</strong>",
+    "type": "warning"
+  },
+  "important_dates": [
+    {
+      "label": "Current payment amount",
+      "value": "₹1,500/month (increased November 2025)",
+      "highlight": true
+    },
+    {
+      "label": "Payment date",
+      "value": "10th of every month",
+      "highlight": true
+    },
+    {
+      "label": "Total annual benefit",
+      "value": "₹18,000/year",
+      "highlight": false
+    },
+    {
+      "label": "Application",
+      "value": "Open throughout the year at Gram Panchayat offices",
+      "highlight": false
+    }
+  ],
+  "faqs": [
+    {
+      "question": "I'm from UP/Bihar. Can I apply for Ladli Behna?",
+      "answer": "No. Ladli Behna is exclusively for Madhya Pradesh residents with MP Samagra ID. However, similar schemes exist in other states: Maharashtra has Majhi Ladki Bahin Yojana (₹1,500/month), Jharkhand has Maiyan Samman Yojana, and Chhattisgarh has Mahtari Vandana Yojana. Check your state's women welfare department website."
+    },
+    {
+      "question": "I'm unmarried. Am I eligible?",
+      "answer": "The scheme primarily targets married women. However, widowed, divorced, and legally separated women ARE eligible regardless of current marital status. Unmarried women above 21 may be eligible in some categories — check the latest guidelines at <a href=\"https://cmladlibahna.mp.gov.in/\" target=\"_blank\">cmladlibahna.mp.gov.in</a> or call the helpline."
+    },
+    {
+      "question": "My payment stopped suddenly. Why?",
+      "answer": "Common reasons: (1) Aadhaar eKYC expired — redo it at Samagra center, (2) Bank account became dormant (no transaction for 2 years) — visit bank to reactivate, (3) Your family income crossed ₹2.5 lakh in the latest survey — verify at Samagra portal, (4) Duplicate application detected — contact block office, (5) Technical glitch — wait for next month's cycle, payments often get released in the following month."
+    },
+    {
+      "question": "Can I change my bank account for Ladli Behna?",
+      "answer": "Yes. Visit <a href=\"https://cmladlibahna.mp.gov.in/\" target=\"_blank\">cmladlibahna.mp.gov.in</a>, login, and update bank details. Or visit your Gram Panchayat office with new bank passbook + Aadhaar. Ensure the new account is also Aadhaar-linked and DBT-enabled. The change takes effect from the next payment cycle."
+    },
+    {
+      "question": "When will the amount increase to ₹2,000 or ₹3,000?",
+      "answer": "The government has announced plans to increase the amount to ₹3,000/month in the future, but no official timeline has been announced yet. The latest increase to ₹1,500 happened in November 2025. Monitor <a href=\"https://cmladlibahna.mp.gov.in/\" target=\"_blank\">cmladlibahna.mp.gov.in</a> for official announcements."
+    },
+    {
+      "question": "Is this scheme permanent or will it be stopped?",
+      "answer": "Ladli Behna has been continued by the current MP government (post-2023 elections). It has strong political support across parties due to its massive popularity (1.3+ crore beneficiaries). While no government scheme has a permanent guarantee, the political cost of stopping Ladli Behna would be extremely high — making continuation very likely."
+    },
+    {
+      "question": "My Samagra ID shows wrong information. How to correct?",
+      "answer": "Visit <a href=\"https://samagra.gov.in\" target=\"_blank\">samagra.gov.in</a> and click 'सदस्य प्रोफाइल अपडेट करें' (Update Member Profile). Or visit your local Samagra Kendra / Gram Panchayat office with correct documents. Common corrections: name spelling, date of birth, Aadhaar number, marital status. Corrections take 7-15 days."
+    },
+    {
+      "question": "What's the difference between Ladli Behna and other women schemes like Sukanya Samriddhi?",
+      "answer": "Ladli Behna is for married women (21-60) with monthly cash — for immediate household needs. Sukanya Samriddhi is specifically for girls' education and savings (until age 21), with tax benefits. Ladli Behna is for living expenses, Sukanya Samriddhi is for long-term wealth. You can benefit from both if eligible."
+    }
+  ],
+  "official_portal": {
+    "name": "Ladli Behna Yojana Portal",
+    "url": "https://cmladlibahna.mp.gov.in"
+  },
+  "related_pages": [
+    {
+      "title": "Majhi Ladki Bahin Yojana (Maharashtra)",
+      "slug": "majhi-ladki-bahin",
+      "tag": "Women",
+      "url": "/yojana/majhi-ladki-bahin"
+    },
+    {
+      "title": "Sukanya Samriddhi Yojana",
+      "slug": "sukanya-samriddhi-yojana",
+      "tag": "Girl Child",
+      "url": "/yojana/sukanya-samriddhi-yojana"
+    },
+    {
+      "title": "PM Jan Dhan Yojana",
+      "slug": "pm-jan-dhan-yojana",
+      "tag": "Banking",
+      "url": "/yojana/pm-jan-dhan-yojana"
+    },
+    {
+      "title": "e-Shram Card",
+      "slug": "e-shram-card",
+      "tag": "Labour",
+      "url": "/yojana/e-shram-card"
+    }
+  ],
+  "tags": [
+    "Madhya Pradesh",
+    "Women",
+    "Cash Transfer",
+    "State Scheme",
+    "March 2026"
+  ],
+  "ministry": "Department of Women and Child Development, Government of Madhya Pradesh",
+  "launch_year": 2023,
+  "image_suggestions": [
+    "Madhya Pradesh women receiving cash transfer payment",
+    "Happy women with phone and bank passbook",
+    "Village Gram Panchayat office beneficiary check",
+    "Women discussing financial independence"
+  ]
+}

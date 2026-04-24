@@ -1,0 +1,448 @@
+{
+  "slug": "kanya-vivah-yojana",
+  "title": "Kanya Vivah Yojana: Marriage Assistance for Daughters from Poor Families",
+  "meta_description": "Marriage assistance scheme: Get ₹5,000-₹51,000 for your daughter's wedding across states. Documents, eligibility & application process.",
+  "hero": {
+    "status": "active",
+    "one_liner": "₹5,000 to ₹51,000 marriage assistance for daughters from low-income families across states",
+    "icon": "💍",
+    "updated_date": "March 2026",
+    "stats": [
+      {
+        "label": "Benefit Range",
+        "value": "₹5,000 - ₹51,000"
+      },
+      {
+        "label": "States Covered",
+        "value": "10+ States"
+      },
+      {
+        "label": "Beneficiaries",
+        "value": "Millions"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "📋",
+      "label": "Apply Online",
+      "url": "https://shadianudan.upsdc.gov.in/"
+    },
+    {
+      "icon": "✅",
+      "label": "Check Status",
+      "url": "https://serviceonline.bihar.gov.in/"
+    },
+    {
+      "icon": "📞",
+      "label": "Contact Support",
+      "url": "#"
+    }
+  ],
+  "what_is_it": [
+    "Marriage in poor families is often delayed or doesn't happen because parents can't afford the expenses. Kanya Vivah Yojana addresses this by giving cash assistance to families when their daughters get married. The amount varies by state—from ₹5,000 in Bihar to ₹51,000 in Madhya Pradesh and Uttar Pradesh. This money is meant to cover marriage expenses like venue, decorations, food, and essential shopping.",
+    "Different states run their own versions of this scheme with different names: Bihar calls it Mukhyamantri Kanya Vivah Yojana, Madhya Pradesh has Chief Minister Kananya Vivah Yojana, and Uttar Pradesh runs Shramik Kanya Vivah Yojana for laborer families. All aim for the same thing—removing financial barriers to marriage and allowing families to celebrate this important event without going into debt.",
+    "The scheme doesn't give cash to the bride directly. Instead, it transfers money to the parents' or guardian's bank account after the wedding is registered. This ensures the money is actually used for the marriage and prevents misuse. Many states also offer additional benefits like a gift for the couple, kitchen utensils, clothes, or household items.",
+    "Eligibility is based on family income, caste (in some states), and sometimes parental occupation. The goal is to help families living below the poverty line or in the lower-middle-income group. If your family struggles financially and your daughter is getting married, this scheme can provide significant relief and allow you to organize a decent wedding without borrowing heavily."
+  ],
+  "eligibility": [
+    {
+      "label": "Daughter's Age",
+      "value": "Usually 18 years or above (some states require 21+)",
+      "highlight": true
+    },
+    {
+      "label": "Family Income",
+      "value": "Below poverty line or low income (varies by state)",
+      "highlight": true
+    },
+    {
+      "label": "Marriage Registration",
+      "value": "Marriage must be registered under law",
+      "highlight": true
+    },
+    {
+      "label": "Residency",
+      "value": "Applicant must be resident of the state where scheme is applied",
+      "highlight": true
+    },
+    {
+      "label": "One Benefit Per Daughter",
+      "value": "Only one daughter per family can receive benefit in some states",
+      "highlight": false
+    },
+    {
+      "label": "Parental Occupation",
+      "value": "Some states require parents to be laborers or in informal sector",
+      "highlight": false
+    },
+    {
+      "label": "Caste Category",
+      "value": "Some states have SC/ST/OBC reservations or restrictions",
+      "highlight": false
+    }
+  ],
+  "eligibility_filters": {
+    "gender": [
+      "Female"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "occupation": [
+      "Any"
+    ],
+    "income_max": 300000,
+    "category": [
+      "SC",
+      "ST",
+      "OBC",
+      "General",
+      "EWS"
+    ],
+    "states": [
+      "Bihar",
+      "Madhya Pradesh",
+      "Uttar Pradesh",
+      "Rajasthan",
+      "Chhattisgarh",
+      "Jharkhand",
+      "Odisha",
+      "West Bengal"
+    ]
+  },
+  "extra_sections": [
+    {
+      "heading": "State-Wise Scheme Amounts and Details",
+      "icon": "🏛️",
+      "type": "table",
+      "columns": [
+        "State",
+        "Scheme Name",
+        "Amount",
+        "Eligibility Focus"
+      ],
+      "rows": [
+        [
+          "Bihar",
+          "Mukhyamantri Kanya Vivah Yojana",
+          "₹5,000",
+          "BPL and EWS families"
+        ],
+        [
+          "Madhya Pradesh",
+          "Chief Minister Kananya Vivah Yojana",
+          "₹51,000",
+          "Below poverty line families"
+        ],
+        [
+          "Uttar Pradesh",
+          "Shramik Kanya Vivah Yojana",
+          "₹51,000",
+          "Laborer families (registered with BOCW board)"
+        ],
+        [
+          "Rajasthan",
+          "Mukhyamantri Kanyadan Yojana",
+          "₹21,000-₹41,000",
+          "BPL and SC/ST families"
+        ],
+        [
+          "Chhattisgarh",
+          "Kanya Vivah Yojana",
+          "₹25,000",
+          "Low-income families"
+        ],
+        [
+          "Jharkhand",
+          "Kanya Vivah Yojana",
+          "₹40,000",
+          "SC/ST and BPL families"
+        ]
+      ]
+    },
+    {
+      "heading": "Documents You'll Need",
+      "icon": "📄",
+      "type": "table",
+      "columns": [
+        "Document",
+        "Where to Get It",
+        "Important Note"
+      ],
+      "rows": [
+        [
+          "Aadhaar Card of Applicant",
+          "Aadhaar Enrollment Center (if not already made)",
+          "Required for identity verification and DBT transfers"
+        ],
+        [
+          "Age Proof of Daughter",
+          "Birth Certificate, School Certificate, or Passport",
+          "Must prove daughter is 18+ years old"
+        ],
+        [
+          "Marriage Certificate",
+          "Registrar of Marriages in your district",
+          "Proof that marriage has been legally registered"
+        ],
+        [
+          "Income Certificate",
+          "Issued by Block or Tahsildar office",
+          "Proof that family income is below the limit for your state"
+        ],
+        [
+          "Caste Certificate",
+          "Issued by Tahsildar or Tehsildar office",
+          "Required if state scheme has SC/ST/OBC component"
+        ],
+        [
+          "Residence Certificate",
+          "Issued by District/Tehsildar office",
+          "Proof of permanent residency in the state"
+        ],
+        [
+          "Bank Account Details",
+          "Your own bank account (passbook or statement)",
+          "Account must be in parent's/guardian's name for transfer"
+        ],
+        [
+          "Passport-Size Photos",
+          "Any photography studio",
+          "Usually 2-4 photos needed for application form"
+        ]
+      ]
+    },
+    {
+      "heading": "Mass Marriage vs Individual Marriage Applications",
+      "icon": "👥",
+      "type": "text",
+      "content": [
+        "<h3>What is a Mass Marriage Program?</h3>Many states organize mass marriage events where hundreds of couples get married together. The government handles the wedding venue, decorations, food, and other arrangements.",
+        "Both the bride and groom from poor families register in advance, and the state conducts the ceremony. This is different from an individual marriage where you arrange the wedding privately.",
+        "<h3>Benefits of Mass Marriage</h3>In mass marriage programs, the Kanya Vivah Yojana assistance is often higher because the government also covers venue and catering costs. Some states give additional gifts like utensils, clothes, or furniture for the couple.",
+        "The event is festive, and you don't have to spend on basic arrangements. For families with almost no money, this removes enormous financial pressure.",
+        "<h3>Drawbacks of Mass Marriage</h3>You have less control over the guest list and wedding timing. The government picks the date based on their schedule.",
+        "You can't invite everyone you want if the government limits numbers. Some couples find it impersonal compared to family-arranged weddings.",
+        "Also, finding a suitable partner on the government-set date might be challenging.",
+        "<h3>Individual Marriage Applications</h3>If your daughter is already married or you want a private family wedding, you can apply under the individual marriage category. You arrange the wedding yourself, and after it's legally registered, you apply for the scheme assistance.",
+        "The amount is usually lower than mass marriage benefits because the government isn't handling arrangements.",
+        "<h3>How to Choose?</h3>If you're planning your daughter's marriage and money is your main concern, mass marriage programs offer better financial support. If you already have a suitable groom selected and want a family-controlled wedding, individual application is the way.",
+        "Check with your state's women and child development office to see when mass marriages are scheduled."
+      ]
+    },
+    {
+      "heading": "State-Wise Application Portals and Links",
+      "icon": "💻",
+      "type": "table",
+      "columns": [
+        "State",
+        "Portal Name",
+        "Website"
+      ],
+      "rows": [
+        [
+          "Uttar Pradesh",
+          "Shadi Anudan Portal",
+          "https://shadianudan.upsdc.gov.in/"
+        ],
+        [
+          "Bihar",
+          "ServiceOnline Bihar Portal",
+          "https://serviceonline.bihar.gov.in/"
+        ],
+        [
+          "Madhya Pradesh",
+          "CM Helpline / MP Government Portal",
+          "https://cmhelpline.mp.gov.in/"
+        ],
+        [
+          "Rajasthan",
+          "Department of Social Justice Portal",
+          "https://sje.rajasthan.gov.in/"
+        ],
+        [
+          "Jharkhand",
+          "RTPS - Right to Public Services",
+          "https://rtps.jharkhand.gov.in/"
+        ],
+        [
+          "Odisha",
+          "Odisha Government Services Portal",
+          "https://odisha.gov.in/"
+        ]
+      ]
+    },
+    {
+      "heading": "Important Application Tips",
+      "icon": "💡",
+      "type": "text",
+      "content": [
+        "<h3>Apply After Marriage is Registered</h3>Don't apply before marriage. Some states reject early applications.",
+        "Get your marriage legally registered first at the Registrar's office (this is free or costs a small fee). Then apply within the deadline—usually 30 to 90 days after marriage registration.",
+        "<h3>Match All Names Carefully</h3>Names in Aadhaar, birth certificate, marriage certificate, and income certificate must match exactly. If your daughter's Aadhaar says 'Priya Sharma' but marriage certificate says 'Priya S.",
+        "Sharma,' it will cause rejection. Check and correct before applying.",
+        "<h3>Income Certificate Limits Vary</h3>Each state sets its own income limit. Bihar might accept families earning up to ₹1.5 lakh annually, while UP might accept up to ₹2 lakh.",
+        "Check your state's exact limit before getting the income certificate made.",
+        "<h3>Don't Miss the Deadline</h3>Most states have annual application windows—sometimes June-July, sometimes year-round. If you miss it, you'll have to wait months for the next window.",
+        "Mark the deadline in your calendar and submit early."
+      ]
+    }
+  ],
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Check Your State's Scheme Details",
+      "description": "Visit your state's women and child development department website. Note the income limit, maximum benefit amount, and whether they prefer mass marriages or individual applications. Each state has slightly different rules."
+    },
+    {
+      "step": 2,
+      "title": "Get Your Marriage Registered",
+      "description": "Go to the Registrar of Marriages (or Registrar Office) in your district with your marriage invitation, photos, and both bride and groom's ID. Register the marriage legally. This is free or costs ₹50-100. You'll get a marriage certificate within days."
+    },
+    {
+      "step": 3,
+      "title": "Collect Required Documents",
+      "description": "Gather your Aadhaar, daughter's age proof, marriage certificate, income certificate (from Tahsildar), caste certificate if needed, residence proof, and bank details. Get all certificates notarized or attested as your state requires."
+    },
+    {
+      "step": 4,
+      "title": "Open a Bank Account if You Don't Have One",
+      "description": "The scheme transfers money via bank transfer (DBT). If you don't have a bank account, open one in your name at any bank. Bring Aadhaar and any address proof. The account takes a few days to activate."
+    },
+    {
+      "step": 5,
+      "title": "Visit the Application Portal",
+      "description": "Go to your state's official scheme portal (see the table above). Create an account using your Aadhaar or phone number. Some states also allow offline application at the district women and child development office."
+    },
+    {
+      "step": 6,
+      "title": "Fill the Application Form",
+      "description": "Enter your details: name, Aadhaar, bank account, daughter's details, marriage certificate number, income, caste category if applicable. Re-read everything—mistakes cause rejection."
+    },
+    {
+      "step": 7,
+      "title": "Upload Documents",
+      "description": "Upload clear photos or PDFs of all required documents. Image quality matters—blurry documents get rejected. Ensure file sizes are within limits (usually 5 MB per document)."
+    },
+    {
+      "step": 8,
+      "title": "Submit and Get Acknowledgment Number",
+      "description": "Click submit. The portal will show an acknowledgment number. Write it down or save the receipt. Use this number to track your application status."
+    },
+    {
+      "step": 9,
+      "title": "Track Your Application",
+      "description": "Log back into the portal regularly to check status. The office will verify your documents and update the status. Most states complete verification in 30-60 days."
+    },
+    {
+      "step": 10,
+      "title": "Receive Your Payment",
+      "description": "Once approved, the amount is transferred to your bank account. You'll usually get an SMS notification. Check your account balance to confirm. Don't withdraw all at once—use it for remaining wedding expenses or debt repayment."
+    }
+  ],
+  "important_alert": {
+    "text": "<strong>Marriage Registration is Non-Negotiable:</strong> Without a legally registered marriage certificate, no state will approve your Kanya Vivah Yojana application. Register your marriage at the Registrar's office BEFORE applying. This is free and takes 1-2 weeks. Don't wait—register immediately after the wedding ceremony.",
+    "type": "warning"
+  },
+  "important_dates": [
+    {
+      "label": "Application Window (varies by state)",
+      "value": "Usually June-July or ongoing",
+      "highlight": true
+    },
+    {
+      "label": "Marriage Registration Deadline",
+      "value": "Within 30 days of marriage ceremony",
+      "highlight": true
+    },
+    {
+      "label": "Application Submission Deadline",
+      "value": "Usually 30-90 days after marriage registration",
+      "highlight": true
+    },
+    {
+      "label": "Document Verification Period",
+      "value": "30-60 days from application submission",
+      "highlight": false
+    },
+    {
+      "label": "Payment Processing",
+      "value": "5-10 days after approval via bank transfer",
+      "highlight": false
+    }
+  ],
+  "faqs": [
+    {
+      "question": "My daughter is already married. Can I still apply?",
+      "answer": "Yes, if the marriage was registered within the state's required timeframe (usually within 1 year). Get the original marriage certificate and apply as soon as possible. Some states allow applications up to 5 years after marriage, but earlier is better."
+    },
+    {
+      "question": "What if my family income is above the limit?",
+      "answer": "You're ineligible under the standard scheme. However, check if your state has an EWS (Economically Weaker Section) category or if you qualify under SC/ST/OBC subcategories, which sometimes have relaxed income limits. Also, some states have mass marriage programs that accept slightly higher incomes."
+    },
+    {
+      "question": "Can I apply if my daughter married someone outside my caste?",
+      "answer": "Most modern schemes don't check the groom's caste, only the bride's family eligibility. However, a few states still have inter-caste marriage bonus provisions (extra amount if couples from different castes marry). Check your state's current policy on the official portal."
+    },
+    {
+      "question": "Is the payment made to the bride or the parents?",
+      "answer": "Payment is always made to the parents or legal guardian, never directly to the bride. The assumption is that parents bear the wedding expenses. This also ensures the money is used for actual wedding-related purposes."
+    },
+    {
+      "question": "What if my marriage certificate shows a different spelling of my name?",
+      "answer": "This will cause rejection. Get your marriage certificate corrected by the Registrar (free or low-cost process). They'll issue a corrected certificate. Then reapply. Don't try to use a certificate with spelling errors."
+    },
+    {
+      "question": "How do I get an income certificate?",
+      "answer": "Visit your Block Development Officer (BDO) or Tehsildar office with your Aadhaar, tax returns or wage slips if you have them, and a letter requesting income certificate. They'll issue it within a few days, usually for free. Don't get it made from private agents—only government offices issue valid certificates."
+    },
+    {
+      "question": "Can I reapply in a different state if I move after marriage?",
+      "answer": "No, schemes are state-specific. You can only apply where you were a resident at the time of marriage. If you've moved, check if your new state has a similar scheme and apply there separately—but only after meeting that state's residency requirements."
+    },
+    {
+      "question": "What happens if I get rejected? Can I appeal?",
+      "answer": "Yes, you can file an appeal or complaint at the district women and child development office. Download the rejection letter from the portal—it specifies why you were rejected. Fix that issue and reapply in the next window, or file a formal appeal if you believe the rejection was wrong."
+    }
+  ],
+  "official_portal": {
+    "name": "Shadi Anudan Portal - Uttar Pradesh (Primary Portal for Multiple States)",
+    "url": "https://shadianudan.upsdc.gov.in/"
+  },
+  "related_pages": [
+    {
+      "title": "Gruha Lakshmi Scheme",
+      "slug": "gruha-lakshmi",
+      "tag": "Women Welfare",
+      "url": "/yojana/gruha-lakshmi"
+    },
+    {
+      "title": "PM Garib Kalyan Anna Yojana",
+      "slug": "pm-garib-kalyan-anna",
+      "tag": "Poverty Alleviation",
+      "url": "/yojana/pm-garib-kalyan-anna"
+    }
+  ],
+  "tags": [
+    "Marriage Assistance",
+    "Women Welfare",
+    "Poverty Alleviation",
+    "State Schemes",
+    "Financial Support",
+    "Girl Child"
+  ],
+  "ministry": "State Departments of Women and Child Development",
+  "launch_year": 2006,
+  "image_suggestions": [
+    "State-wise scheme comparison table showing amount differences across states",
+    "Marriage registration process at Registrar's office",
+    "Filled application form on the Shadi Anudan portal",
+    "Documents spread out showing all required paperwork",
+    "Mass marriage event with hundreds of couples",
+    "Young couple receiving certificate at government mass marriage",
+    "Bank transfer notification showing scheme payment received",
+    "Income certificate issued by Tahsildar office",
+    "Online portal dashboard showing application status tracking",
+    "Common Service Center helper assisting with online application"
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "slug": "pm-svanidhi",
+  "title": "PM SVANidhi: Street Vendor's AtmaNirbhar Nidhi Scheme",
+  "meta_description": "Collateral-free loans up to ₹50,000 for street vendors with 7% interest subsidy and UPI cashback benefits.",
+  "hero": {
+    "status": "active",
+    "one_liner": "Easy business loans for street vendors with government interest subsidy and digital payment rewards",
+    "icon": "🛍️",
+    "updated_date": "March 2026",
+    "stats": [
+      {
+        "label": "Total Beneficiaries",
+        "value": "1.15+ crore"
+      },
+      {
+        "label": "Max Loan Amount",
+        "value": "₹50,000"
+      },
+      {
+        "label": "Interest Subsidy",
+        "value": "7% annually"
+      },
+      {
+        "label": "Loan Tiers",
+        "value": "3 levels"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "🌐",
+      "label": "Apply Online",
+      "url": "https://pmsvanidhi.mohua.gov.in"
+    },
+    {
+      "icon": "🏦",
+      "label": "Find Lender",
+      "url": "https://pmsvanidhi.mohua.gov.in/findlender"
+    },
+    {
+      "icon": "📱",
+      "label": "Check Status",
+      "url": "https://pmsvanidhi.mohua.gov.in/status"
+    }
+  ],
+  "what_is_it": [
+    "PM SVANidhi (Pradhan Mantri Street Vendor's AtmaNirbhar Nidhi) is a government-backed micro-credit scheme designed specifically for street vendors and small business operators selling goods on pavements, markets, and public spaces. Launched in June 2020 to help vendors recover from the COVID-19 pandemic crisis, the scheme has since become a lifeline for millions of informal sector entrepreneurs. If you run a small street-based business—whether it's selling vegetables, clothes, snacks, household items, or services—PM SVANidhi offers you affordable loans without demanding land or property as collateral.",
+    "Unlike traditional bank loans that require extensive documentation and security, PM SVANidhi recognizes the reality of street vendors' operations. The scheme provides working capital loans in three tiers: ₹10,000 for first-time borrowers, ₹20,000 for those who've successfully repaid their first loan, and ₹50,000 for vendors with a track record of timely repayments. The beauty of this scheme is that it's based on trust and repayment history, not on collateral.",
+    "The government doesn't just lend money—it actively subsidizes your interest payments. Every year, the government credits 7% interest subsidy directly to your bank account, significantly reducing your effective loan burden. For example, if you borrow ₹20,000 at a bank rate of 12% per annum, the government pays 7%, so you effectively pay only 5%. Additionally, the scheme incentivizes digital payments. When you accept customer payments through UPI or digital methods, you earn cashback rewards up to ₹100 per month, and on wholesale purchases, up to ₹400 per quarter.",
+    "As of February 2026, over 1.15 crore vendors have benefited from PM SVANidhi, collectively accessing loans worth thousands of crores of rupees. The scheme has evolved significantly with the introduction of UPI-linked RuPay credit cards (with ₹30,000 limit), making it easier for vendors to access credit for both business and personal needs. The scheme's lending period has been extended to March 2030, ensuring long-term support for the informal vendor economy."
+  ],
+  "eligibility": [
+    {
+      "label": "Occupation",
+      "value": "Street vendor, cart operator, or hawker engaged in selling goods/services",
+      "highlight": true
+    },
+    {
+      "label": "Business Location",
+      "value": "Operating in municipal corporation area, census towns, or urban agglomerations",
+      "highlight": false
+    },
+    {
+      "label": "Age",
+      "value": "18 years and above",
+      "highlight": false
+    },
+    {
+      "label": "Legal Status",
+      "value": "Must not be a borrower in PM Mudra Yojana or similar schemes simultaneously",
+      "highlight": false
+    },
+    {
+      "label": "Documentation",
+      "value": "Aadhaar, bank account, voter ID or utility bill for address proof",
+      "highlight": false
+    },
+    {
+      "label": "Business Status",
+      "value": "Can be self-employed or running any informal business; no minimum turnover required",
+      "highlight": true
+    }
+  ],
+  "eligibility_filters": {
+    "gender": [],
+    "age_min": 18,
+    "age_max": 0,
+    "occupation": [
+      "street vendor",
+      "hawker",
+      "cart operator",
+      "informal business owner"
+    ],
+    "income_max": 0,
+    "category": [],
+    "states": []
+  },
+  "extra_sections": [
+    {
+      "heading": "Loan Tiers and Repayment Details",
+      "icon": "💳",
+      "type": "table",
+      "columns": [
+        "Loan Tier",
+        "Loan Amount",
+        "Repayment Period",
+        "Interest Rate (Market)",
+        "Govt Subsidy",
+        "Your Effective Rate"
+      ],
+      "rows": [
+        [
+          "First Loan",
+          "₹10,000",
+          "12 months",
+          "9-12%",
+          "7% pa",
+          "2-5%"
+        ],
+        [
+          "Second Loan",
+          "₹20,000",
+          "24 months",
+          "10-12%",
+          "7% pa",
+          "3-5%"
+        ],
+        [
+          "Third Loan",
+          "₹50,000",
+          "36 months",
+          "10-12%",
+          "7% pa",
+          "3-5%"
+        ]
+      ]
+    },
+    {
+      "heading": "PM SVANidhi vs PM Mudra Loan",
+      "icon": "⚖️",
+      "type": "table",
+      "columns": [
+        "Feature",
+        "PM SVANidhi",
+        "PM Mudra Loan"
+      ],
+      "rows": [
+        [
+          "Target Group",
+          "Street vendors, informal traders",
+          "Micro-entrepreneurs, small business owners"
+        ],
+        [
+          "Maximum Loan",
+          "₹50,000 (in tiers)",
+          "₹10 lakh"
+        ],
+        [
+          "Collateral Required",
+          "No collateral needed",
+          "No collateral for loans up to ₹10 lakh"
+        ],
+        [
+          "Interest Subsidy",
+          "7% government subsidy per annum",
+          "Nil (no subsidy)"
+        ],
+        [
+          "Digital Payment Incentive",
+          "Up to ₹1,600 cashback yearly",
+          "No digital incentive"
+        ],
+        [
+          "Credit Card Facility",
+          "RuPay credit card (₹30,000 limit) available",
+          "Business credit card only"
+        ],
+        [
+          "Ideal For",
+          "Small cart businesses, street shops",
+          "Larger business expansion"
+        ],
+        [
+          "Portal",
+          "pmsvanidhi.mohua.gov.in",
+          "pmmudra.org.in"
+        ]
+      ]
+    },
+    {
+      "heading": "Digital Payment Cashback Benefits",
+      "icon": "📱",
+      "type": "text",
+      "content": [
+        "<h3>Earn Cash While Accepting Digital Payments</h3><p>One of the most valuable features of PM SVANidhi is the digital payment incentive. The government actively encourages vendors to move away from cash-only transactions by offering cashback rewards.",
+        "If you're running a vegetable cart, a clothing stall, or any food business, accepting digital payments through UPI, cards, or mobile wallets now comes with financial rewards.</p><p><h3>Retail Payment Cashback</h3><p>When your customers pay you through UPI, digital wallets, or online payment methods for regular retail purchases, you earn cashback of up to ₹100 per month.",
+        "This might seem small, but over a year, it adds up to ₹1,200 in free income just for accepting digital payments from your customers.",
+        "The cashback is credited directly to your bank account automatically.</p><p><h3>Wholesale Purchase Incentive</h3><p>If you purchase goods wholesale for your business (e.g., buying vegetables from the wholesale market, clothes from manufacturers), you can also earn cashback on these transactions.",
+        "For wholesale purchases of ₹2,000 or more through digital payment, you earn ₹20 per transaction, capped at ₹100 per quarter.",
+        "This incentivizes you to buy from larger suppliers who accept digital payments.</p><p><h3>RuPay Credit Card Benefits</h3><p>Since August 2025, PM SVANidhi vendors can apply for a UPI-linked RuPay credit card with a ₹30,000 limit. This card is specifically designed for informal vendors and comes with reasonable interest rates (not exceeding 12% per annum).",
+        "You can use it for emergency working capital, inventory purchases, or even personal needs. As of February 2026, over 2,479 cards have been issued, and vendors are finding it extremely useful for smoothing out cash flow challenges during slow business periods.</p>"
+      ]
+    },
+    {
+      "heading": "Types of Vendors Eligible",
+      "icon": "🏪",
+      "type": "table",
+      "columns": [
+        "Business Type",
+        "Examples",
+        "Loan Eligibility"
+      ],
+      "rows": [
+        [
+          "Food & Beverage",
+          "Tea stall, snack seller, juice shop, vegetable cart",
+          "Eligible - all tiers"
+        ],
+        [
+          "Clothing & Apparel",
+          "Shirt/saree seller, shoes vendor, used clothes trader",
+          "Eligible - all tiers"
+        ],
+        [
+          "Household Items",
+          "Utensils, plastic goods, stationery seller",
+          "Eligible - all tiers"
+        ],
+        [
+          "Personal Care",
+          "Street barber, shoe repair, tailoring services",
+          "Eligible - all tiers"
+        ],
+        [
+          "Books & Reading",
+          "Used book vendor, magazine seller, newspaper stand",
+          "Eligible - all tiers"
+        ],
+        [
+          "Flowers & Plants",
+          "Flower garland seller, nursery stall",
+          "Eligible - all tiers"
+        ],
+        [
+          "Electronics & Repairs",
+          "Mobile repair stall, watch repair vendor",
+          "Eligible - all tiers"
+        ],
+        [
+          "General Retail",
+          "Any other goods sold in street/market without permanent shop",
+          "Eligible if in designated area"
+        ]
+      ]
+    },
+    {
+      "heading": "From Loan to Growth: Real Vendor Stories",
+      "icon": "📖",
+      "type": "text",
+      "content": [
+        "<h3>Case Study: From Cart to Multi-Product Business</h3><p>Consider Ramesh, a vegetable vendor in Delhi who accessed PM SVANidhi's first loan of ₹10,000. He used the money to upgrade his cart, buy a cooler for better product storage, and increase his daily stock variety.",
+        "Within 8 months, he'd repaid the first loan on time. With his clean repayment history, he borrowed ₹20,000 in the second tier.",
+        "This time, he expanded to add fruits and dry groceries to his vegetable business. His daily income increased from ₹400 to ₹800.",
+        "After repaying the second loan, he accessed ₹50,000 and is now considering renting a small 100-sq-ft shop space instead of operating from a cart.</p><p><h3>How the Subsidy Actually Works</h3><p>Let's break down the math so you understand the real benefit. If Ramesh borrowed ₹20,000 at a market interest rate of 11% per annum for 24 months, he'd normally pay ₹2,200 in interest.",
+        "However, the government subsidizes 7% of this, saving him approximately ₹1,400 over the loan period. His effective cost of borrowing is only around ₹800—a 64% reduction in interest burden.",
+        "That's real money in his pocket.</p><p><h3>Digital Payment Cashback in Action</h3><p>Additionally, if Ramesh accepts digital payments from customers and earns the maximum ₹100 per month in retail cashback, that's ₹1,200 over the year. On wholesale purchases, he's earning another ₹100 per quarter, adding ₹400 yearly.",
+        "So Ramesh is effectively reducing his business costs through multiple government incentives while building credit history for future loans.</p>"
+      ]
+    }
+  ],
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Check if You're Eligible",
+      "description": "Verify you're a street vendor aged 18+ operating in a municipal area, census town, or urban agglomeration. You should have an Aadhaar card and a bank account. No minimum business turnover or collateral required."
+    },
+    {
+      "step": 2,
+      "title": "Visit pmsvanidhi.mohua.gov.in",
+      "description": "Go to <a href=\"https://pmsvanidhi.mohua.gov.in\" target=\"_blank\">PM SVANidhi official portal</a> and click on 'Apply for Loan' or 'New Applicant'. You can also visit the nearest UMANG center or bank branch for offline assistance."
+    },
+    {
+      "step": 3,
+      "title": "Register with Aadhaar",
+      "description": "Create an account using your Aadhaar number. Complete eKYC verification. Your Aadhaar will be verified against government databases. Ensure your Aadhaar is linked to your active bank account."
+    },
+    {
+      "step": 4,
+      "title": "Fill Loan Application",
+      "description": "Provide details about your business (type of goods sold, daily income estimate, business location). Specify the loan amount you need (₹10,000, ₹20,000, or ₹50,000 based on previous repayment history). Mention your preferred bank or lender."
+    },
+    {
+      "step": 5,
+      "title": "Submit Documents",
+      "description": "Upload scans of your Aadhaar, bank account statement (3 months), address proof (voter ID or utility bill), and any business registration certificate if you have one. The process is mostly digital, but some banks may ask for in-person verification."
+    },
+    {
+      "step": 6,
+      "title": "Bank Reviews and Approves",
+      "description": "The assigned bank (typically a public or private lender) will review your application within 7-14 days. They may call you for verification of details. Approval is usually swift as there's no collateral evaluation needed."
+    },
+    {
+      "step": 7,
+      "title": "Loan Disbursal",
+      "description": "Once approved, the loan amount is transferred directly to your bank account within 2-3 days. You can withdraw it via ATM or check. Start using it for your business. Monthly repayment schedule will be provided by the bank."
+    }
+  ],
+  "important_alert": {
+    "text": "<strong>Bank Selection Matters:</strong> Different banks participate in PM SVANidhi. Some offer better customer service and digital integration than others. Check your nearest bank's participation status before applying. <strong>Beware of Fraud:</strong> Never pay upfront fees to anyone claiming to help you get a loan. The application is free. Use only the official portal (pmsvanidhi.mohua.gov.in) or authorized bank branches. <strong>Digital Payment Benefits:</strong> To earn cashback, ensure your bank account is linked to a digital payment method (UPI, card, or mobile wallet).",
+    "type": "warning"
+  },
+  "important_dates": [
+    {
+      "label": "Scheme Extension",
+      "value": "Valid till March 2030",
+      "highlight": true
+    },
+    {
+      "label": "Loan Application Window",
+      "value": "Open year-round (check with lender for processing timelines)",
+      "highlight": false
+    },
+    {
+      "label": "Repayment Commencement",
+      "value": "Typically 2 months after loan disbursal (varies by bank)",
+      "highlight": false
+    },
+    {
+      "label": "Subsidy Credit",
+      "value": "Credited annually to your bank account",
+      "highlight": false
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Do I need a shop or fixed business location to apply?",
+      "answer": "No, you don't need a permanent shop. The scheme is specifically designed for street vendors, cart operators, and hawkers who operate in public spaces. You just need to be registered as a vendor in your municipal corporation or local authority area. If you're not registered yet, contact your municipal commissioner's office or gram panchayat to get registered first."
+    },
+    {
+      "question": "What if my business has no formal income documentation?",
+      "answer": "That's exactly why PM SVANidhi exists. The scheme doesn't require income tax returns, profit & loss statements, or formal business registration. You can self-declare your estimated daily/monthly income. The bank assesses based on your business viability and repayment capacity, not on formal documents. Bring any proof you have—old invoices, vendor registration, customer testimonials."
+    },
+    {
+      "question": "Can I use the loan for personal purposes instead of business?",
+      "answer": "The loan is sanctioned for business purposes, but once the money is in your account, it's yours to use. However, we recommend using it for business growth (expanding inventory, upgrading equipment, opening additional stall) because business improvements lead to higher income, making repayment easier. If you face genuine personal emergencies, the new RuPay credit card (₹30,000 limit) offers flexibility without a dedicated business purpose."
+    },
+    {
+      "question": "What happens if I miss a monthly installment?",
+      "answer": "Most banks provide a grace period of 10-15 days after the due date without penalty. However, missing payments consistently can lead to late charges (typically ₹100-500) and may impact your credit score, making future loans harder. If you face cash flow issues, contact your bank immediately and explain the situation. Many banks offer EMI restructuring or temporary payment holidays for genuinely affected vendors."
+    },
+    {
+      "question": "How quickly can I access the second or third loan tier?",
+      "answer": "Once you've repaid your first ₹10,000 loan completely and on time, you're automatically eligible for the ₹20,000 second tier. You typically need to maintain a good repayment record for 6-12 months before being offered the higher tier. After successfully repaying the second loan, you can apply for the third tier of ₹50,000. Banks may offer upgrades proactively, or you can request them through the portal."
+    },
+    {
+      "question": "Is the 7% interest subsidy automatic or do I need to claim it?",
+      "answer": "The subsidy is automatic and doesn't require you to claim anything. The government tracks your loan through the UMANG system and directly credits the 7% subsidy to your registered bank account, usually quarterly or annually depending on your lender. You'll see it as a credit in your statement—it's free money the government adds to reduce your effective interest burden."
+    },
+    {
+      "question": "Can I repay my loan early without penalty?",
+      "answer": "Yes, most PM SVANidhi lenders allow prepayment without any penalty or extra charges. If you have extra cash in a good business month, you can pay a larger amount or clear the entire loan early. Early repayment reduces the total interest you pay and frees up your cash flow. Always inform your bank if you plan to prepay so they can adjust your subsequent EMI schedules."
+    },
+    {
+      "question": "What documents do I need to submit for the RuPay credit card?",
+      "answer": "The RuPay credit card application is simplified. Since you've already completed eKYC for the loan, most banks automatically issue the card or send you an application form. You'll need your Aadhaar, bank account details, and possibly a recent photograph. The card arrives by post within 7-10 days of approval. It comes with a ₹30,000 limit and the same interest rate as your loan (with 7% government subsidy applicable)."
+    }
+  ],
+  "official_portal": {
+    "name": "PM SVANidhi Official Portal",
+    "url": "https://pmsvanidhi.mohua.gov.in"
+  },
+  "related_pages": [
+    {
+      "title": "PM Mudra Yojana",
+      "slug": "pm-mudra-yojana",
+      "tag": "business-loans",
+      "url": "/yojana/pm-mudra-yojana"
+    },
+    {
+      "title": "Atal Pension Yojana",
+      "slug": "atal-pension-yojana",
+      "tag": "financial-security",
+      "url": "/yojana/atal-pension-yojana"
+    },
+    {
+      "title": "PM Jan Samarth",
+      "slug": "jan-samarth",
+      "tag": "government-loans",
+      "url": "/yojana/jan-samarth"
+    }
+  ],
+  "tags": [
+    "street-vendors",
+    "micro-credit",
+    "business-loan",
+    "informal-sector",
+    "digital-payment",
+    "government-subsidy"
+  ],
+  "ministry": "Ministry of Housing and Urban Affairs (MoHUA)",
+  "launch_year": 2020,
+  "image_suggestions": [
+    "Screenshot of pmsvanidhi.mohua.gov.in loan application form",
+    "Street vendor operating vegetable cart with PM SVANidhi banner",
+    "Comparison chart: PM SVANidhi loan tiers and eligibility flow",
+    "UPI payment being made to street vendor through mobile phone",
+    "RuPay credit card design for PM SVANidhi beneficiaries",
+    "Before/after transformation: cart vendor expanding to stall shop",
+    "Digital payment cashback earning examples with calculation breakdown",
+    "Bank branch counter with PM SVANidhi application documents",
+    "Vendor using digital wallet for transactions and earning rewards",
+    "Infographic: Three-tier loan progression from ₹10,000 to ₹50,000"
+  ]
+}

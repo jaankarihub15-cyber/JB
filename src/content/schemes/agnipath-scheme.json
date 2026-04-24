@@ -1,0 +1,368 @@
+{
+  "slug": "agnipath-scheme",
+  "title": "Agnipath Scheme — 4-Year Military Service, ₹11.71L Seva Nidhi",
+  "meta_description": "Agnipath 2026 — 4-year Indian Armed Forces service, ₹30-40K monthly salary, ₹11.71L Seva Nidhi on completion. Eligibility, Seva Nidhi breakdown, FAQs.",
+  "hero": {
+    "status": "active",
+    "one_liner": "4-year military service in Indian Armed Forces with ₹30,000-40,000 monthly salary and ₹11.71 lakh tax-free Seva Nidhi on completion",
+    "icon": "🎖️",
+    "updated_date": "Last reviewed: April 2026 • Source: Ministry of Defence",
+    "stats": [
+      {
+        "label": "Service Period",
+        "value": "4 Years"
+      },
+      {
+        "label": "Monthly Salary",
+        "value": "₹30K–40K"
+      },
+      {
+        "label": "Seva Nidhi",
+        "value": "₹11.71 Lakh"
+      },
+      {
+        "label": "Retention",
+        "value": "25% permanent"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "📝",
+      "label": "Apply at joinindianarmy.nic.in",
+      "url": "https://joinindianarmy.nic.in/"
+    },
+    {
+      "icon": "📞",
+      "label": "Army Helpline",
+      "url": "tel:011-26173215"
+    }
+  ],
+  "what_is_it": [
+    "The Agnipath Scheme is a military recruitment program launched on 14 June 2022 for the Indian Army, Navy, and Air Force. Under this scheme, young Indians (called 'Agniveers') are recruited for a 4-year service period. After 4 years, 25% of Agniveers are selected for permanent enrollment (15-year minimum service), while the remaining 75% are released with a tax-free Seva Nidhi (service fund) of approximately ₹11.71 lakh.",
+    "Agniveers receive an attractive salary package: ₹30,000/month in the first year, increasing to ₹40,000/month in the fourth year. Of this, 30% is automatically contributed to the Seva Nidhi corpus, with the government matching it equally. The Seva Nidhi (approximately ₹5 lakh from the Agniveer + ₹5 lakh from government + interest = ₹11.71 lakh) is paid as a lump sum upon completion of 4 years.",
+    "The scheme was introduced to reduce the average age of armed forces personnel (previously 32 years) to about 26 years, making the military younger, fitter, and more technologically adaptable. It also provides military training, discipline, and marketable skills to millions of youth — even those who don't continue in the forces benefit from the experience, skill certifications, and financial corpus.",
+    "As of March 2026, recruitment continues through periodic notifications. The scheme combines patriotic service with financial security and skill development. For released Agniveers, there are additional benefits: priority in CAPF (BSF, CRPF, CISF, ITBP) recruitment, age relaxation in government exams, preference in state police jobs, and skill certifications recognized across industries."
+  ],
+  "eligibility": [
+    {
+      "label": "Age",
+      "value": "17.5 to 23 years (originally 17.5-21, extended to 23 for early batches)",
+      "highlight": true
+    },
+    {
+      "label": "Education (Army)",
+      "value": "10th pass for General Duty, 12th pass (Science) for Technical, 12th for Clerk/SKT",
+      "highlight": false
+    },
+    {
+      "label": "Education (Navy)",
+      "value": "12th pass with Maths & Physics for Senior Secondary Recruit (SSR), 10th pass for Matric Recruit (MR)",
+      "highlight": false
+    },
+    {
+      "label": "Education (Air Force)",
+      "value": "12th pass with Maths & Physics, minimum 50% aggregate and 50% in English",
+      "highlight": false
+    },
+    {
+      "label": "Physical standards",
+      "value": "Height: 170 cm (men), 152 cm (women). Weight proportionate to height. Vision: 6/6 without glasses (varies by trade). No tattoos on inner arms.",
+      "highlight": true
+    },
+    {
+      "label": "Citizenship",
+      "value": "Indian citizen. Must not be married at time of enrollment (can marry during 4-year service with permission)",
+      "highlight": true
+    },
+    {
+      "label": "Medical",
+      "value": "Must pass military medical examination — no chronic diseases, bone deformities, or disqualifying conditions. TB, cardiac issues, diabetes: disqualifying.",
+      "highlight": false
+    }
+  ],
+  "eligibility_filters": {
+    "gender": [
+      "all"
+    ],
+    "age_min": 17,
+    "age_max": 23,
+    "occupation": [
+      "student",
+      "unemployed"
+    ],
+    "income_max": 9999999,
+    "category": [
+      "general",
+      "obc",
+      "sc",
+      "st"
+    ],
+    "states": [
+      "all"
+    ]
+  },
+  "extra_sections": [
+    {
+      "heading": "Who Can Apply",
+      "icon": "🎖️",
+      "type": "callout",
+      "variant": "info",
+      "content": "Men and women aged <strong>17.5 to 21 years</strong> (Navy) / <strong>17.5 to 23 years</strong> (Army, Airforce) who passed 10th/12th depending on trade. No experience required. Height/weight and medical tests are strict — check official notification."
+    },
+    {
+      "heading": "Visual: Agnipath Journey + 3 Outcomes",
+      "icon": "📊",
+      "type": "svg_block",
+      "svg": "<svg viewBox=\"0 0 700 320\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\">\n  <text x=\"350\" y=\"28\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Agnipath — 4-Year Journey &amp; After</text>\n  <!-- 4-year path -->\n  <rect x=\"40\" y=\"60\" width=\"620\" height=\"80\" rx=\"12\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n  <text x=\"350\" y=\"90\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#1E40AF\">4 Years as Agniveer</text>\n  <text x=\"350\" y=\"112\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#1E40AF\">Salary: ₹21K → ₹40K/month (growing each year)</text>\n  <text x=\"350\" y=\"128\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#1E40AF\">Total earnings: ₹11.7 lakh (over 4 years)</text>\n  <!-- Arrow down -->\n  <line x1=\"350\" y1=\"150\" x2=\"350\" y2=\"170\" stroke=\"#1B6B4A\" stroke-width=\"2\"/>\n  <!-- After 4 years -->\n  <rect x=\"40\" y=\"175\" width=\"195\" height=\"110\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/>\n  <text x=\"137\" y=\"200\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#145236\">25% Retained</text>\n  <text x=\"137\" y=\"222\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">Regular soldier for</text>\n  <text x=\"137\" y=\"238\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">15 more years</text>\n  <text x=\"137\" y=\"260\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#1B6B4A\">Full pension + benefits</text>\n  <text x=\"137\" y=\"275\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#145236\">(top performers only)</text>\n  <rect x=\"253\" y=\"175\" width=\"195\" height=\"110\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/>\n  <text x=\"350\" y=\"200\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#C2410C\">75% Exit</text>\n  <text x=\"350\" y=\"222\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#C2410C\">Get ₹11.71 lakh</text>\n  <text x=\"350\" y=\"238\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#C2410C\">Seva Nidhi package</text>\n  <text x=\"350\" y=\"260\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#EA580C\">+ Skill certificate</text>\n  <text x=\"350\" y=\"275\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#C2410C\">+ Pref in CAPF/Police</text>\n  <rect x=\"466\" y=\"175\" width=\"195\" height=\"110\" rx=\"10\" fill=\"#F3E8FF\" stroke=\"#7C3AED\" stroke-width=\"2\"/>\n  <text x=\"563\" y=\"200\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#6B21A8\">Re-Employment</text>\n  <text x=\"563\" y=\"222\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#6B21A8\">Priority in CAPF,</text>\n  <text x=\"563\" y=\"238\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#6B21A8\">State Police, PSUs</text>\n  <text x=\"563\" y=\"260\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#7C3AED\">10-20% reservation</text>\n  <text x=\"563\" y=\"275\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B21A8\">in govt jobs</text>\n</svg>",
+      "caption": "Every Agniveer follows one of three paths after 4 years",
+      "description": "The retention ratio is decided purely on merit — performance during training, annual ratings, fitness tests. Retained Agniveers become regular soldiers with full pension benefits after 15 more years."
+    },
+    {
+      "heading": "Salary Breakdown & Seva Nidhi Accumulation Over 4 Years",
+      "icon": "💰",
+      "type": "table",
+      "columns": [
+        "Year",
+        "Monthly Salary",
+        "Seva Nidhi Contribution (30%)",
+        "In-Hand Salary (70%)",
+        "Cumulative Seva Nidhi (Your + Govt Match)"
+      ],
+      "rows": [
+        [
+          "Year 1",
+          "₹30,000",
+          "₹9,000",
+          "₹21,000",
+          "₹2,16,000"
+        ],
+        [
+          "Year 2",
+          "₹33,000",
+          "₹9,900",
+          "₹23,100",
+          "₹4,51,800"
+        ],
+        [
+          "Year 3",
+          "₹36,500",
+          "₹10,950",
+          "₹25,550",
+          "₹7,03,800"
+        ],
+        [
+          "Year 4",
+          "₹40,000",
+          "₹12,000",
+          "₹28,000",
+          "₹10,19,600"
+        ]
+      ]
+    },
+    {
+      "heading": "What Happens After 4 Years — Three Scenarios",
+      "icon": "🔄",
+      "type": "text",
+      "content": [
+        "<h3>Scenario 1: Selected for Permanent Service (25% of Agniveers)</h3>After 4 years, approximately 25% of Agniveers are selected for permanent enrollment in the regular armed forces based on merit, performance during service, physical fitness, and organizational requirements.",
+        "These Agniveers continue for a minimum total service of 15 years (so 11 more years after Agnipath) with full military pay (₹40,000-60,000/month, increasing with rank), allowances, pension after 20 years, and all service benefits.",
+        "Permanent selection depends on: Performance appraisal (65%), medical fitness, organizational vacancies, and officer potential assessment.",
+        "<h3>Scenario 2: Released with Seva Nidhi (75% of Agniveers)</h3>The remaining 75% of Agniveers complete their 4-year service and receive the Seva Nidhi package. Total Seva Nidhi = Agniveer's contribution (₹5.02 lakh over 4 years) + Government's matching contribution (₹5.02 lakh) + Accrued interest on the fund ≈ ₹11.71 lakh (tax-free).",
+        "This amount is credited to their bank account as a lump sum upon discharge.",
+        "<h3>Using the Seva Nidhi Corpus</h3>Released Agniveers can use ₹11.71 lakh for: (1) Starting their own business (with preference under PM Mudra, Stand Up India), (2) Pursuing higher education (polytechnic, bachelor's degree, professional courses), (3) Meeting family needs or personal investment, (4) Down payment on a house (combined with bank loan), (5) Skill certification courses in civil sector jobs.",
+        "No restrictions on usage — the money is completely theirs."
+      ]
+    },
+    {
+      "heading": "Benefits After Agnipath Completion",
+      "icon": "✨",
+      "type": "text",
+      "content": [
+        "<h3>Priority in Government Jobs</h3>Agniveers get 10% reservation in recruitment for CAPF (BSF, CRPF, CISF, ITBP, SSB) across India. Additionally, many states have announced 10% reservations in state police recruitment for ex-Agniveers.",
+        "Age relaxation: 3 years additional age relaxation (beyond normal limit) in central government exams (SSC, Railways, UPSC, etc.).",
+        "<h3>Skill Certifications & Market Credibility</h3>Agniveers receive official skill certificates for their trade learned during service (e.g., vehicle maintenance, communications, logistics, ammunition handling, etc.). These NSQF-aligned certifications are recognized by employers and enhance employability in private sector.",
+        "Certificate also certifies physical fitness, discipline, and reliability — valued across industries.",
+        "<h3>Veteran Identity & Community</h3>Agniveers become recognized veterans with service medals, discharge certificate, and veteran benefits. They join a nationwide network of ex-service personnel with mutual support and networking opportunities.",
+        "Many employers actively recruit ex-military personnel for their discipline and training background.",
+        "<h3>Bank Loans at Preferential Rates</h3>Agniveers can access bank loans (Mudra, housing, auto, personal) at preferential rates. Banks treat military service experience as favorable for creditworthiness.",
+        "Many Agniveers use their Seva Nidhi + bank loan to start businesses (e.g., franchise, restaurant, transport, retail).",
+        "<h3>Private Sector Opportunities</h3>Major employers actively recruit ex-Agniveers: IT companies (prefer technical skills), logistics/transportation (experienced personnel), private security firms, hospitality (discipline and customer service), manufacturing, and civil aviation (technical roles). Some companies have committed to hiring at least 5-10% ex-Agniveers."
+      ]
+    },
+    {
+      "heading": "Agnipath Selection Process — 5 Stages",
+      "icon": "📝",
+      "type": "steps",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Online registration",
+          "description": "Register at <a href=\"https://joinindianarmy.nic.in/\" target=\"_blank\">joinindianarmy.nic.in</a> (Army), <a href=\"https://joinindiannavy.gov.in\" target=\"_blank\">joinindiannavy.gov.in</a> (Navy), or official Air Force portal. Fill personal details, educational qualifications, physical measurements, and choose your preferred trade."
+        },
+        {
+          "step": 2,
+          "title": "Physical Fitness Test (PFT) at rally point",
+          "description": "PFT is conducted at designated rally locations in your district. Tests include: 1.6 km run (must complete within 5 min 30 sec for Army), pull-ups, balance test, standing broad jump, and other physical standards. PFT is elimination round — only 30-40% of candidates pass this stage."
+        },
+        {
+          "step": 3,
+          "title": "Medical examination",
+          "description": "Thorough medical checkup including vision test, hearing test, dental examination, cardiovascular assessment, chest X-ray, and musculoskeletal evaluation. Any chronic condition (diabetes, hypertension requiring medication), bone deformity, or disqualifying condition leads to rejection."
+        },
+        {
+          "step": 4,
+          "title": "Common Entrance Examination (CEE)",
+          "description": "Written examination covering general knowledge, mathematics, reasoning, and English (60-90 minutes). Pattern varies by service (Army, Navy, Air Force) and trade. Merit list is prepared based on PFT + CEE score. Candidates in top merit list are called for document verification."
+        },
+        {
+          "step": 5,
+          "title": "Document verification and enrollment",
+          "description": "Selected candidates (typically top 5,000-10,000 from 500,000+ applicants) submit original documents (birth certificate, school certificates, Aadhaar, caste certificate if applicable) for verification. After successful verification, enrollment is confirmed. Training begins at respective training establishments (Army: various regimental training centers, Navy: INS Chilka, Air Force: Air Force Academy/stations)."
+        }
+      ]
+    },
+    {
+      "heading": "The Real Challenge",
+      "icon": "⚠️",
+      "type": "callout",
+      "variant": "warning",
+      "content": "Only <strong>25% are retained</strong> for regular service after 4 years. The other 75% return to civilian life with ₹11.71 lakh Seva Nidhi. Have a clear plan for what you'll do if not retained — college, business, or CAPF/police exams."
+    }
+  ],
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Register online at service-specific portal",
+      "description": "Army: <a href=\"https://joinindianarmy.nic.in/\" target=\"_blank\">joinindianarmy.nic.in</a>, Navy: <a href=\"https://joinindiannavy.gov.in\" target=\"_blank\">joinindiannavy.gov.in</a>, Air Force: official portal. Fill personal and educational details."
+    },
+    {
+      "step": 2,
+      "title": "Watch for rally/recruitment notifications",
+      "description": "Notifications are published on official portals and in Employment News magazine. Check every month as recruitment happens in batches (typically 3-4 batches per year). Some states have multiple rallies."
+    },
+    {
+      "step": 3,
+      "title": "Appear for Physical Fitness Test at rally point",
+      "description": "Carry all original documents, 10 passport photos, running shoes, and sports clothing. PFT usually happens on same day as registration or next day."
+    },
+    {
+      "step": 4,
+      "title": "Clear medical + written exam + verification",
+      "description": "If you pass PFT, you're called for medical exam and CEE within 1-2 weeks. Merit-based selection determines final enrollment."
+    }
+  ],
+  "important_alert": {
+    "text": "Agnipath recruitment notifications are published periodically — not continuous. Check official portals at <a href=\"https://joinindianarmy.nic.in/\" target=\"_blank\">joinindianarmy.nic.in</a> regularly. Beware of fraudsters claiming to arrange selection for money or 'coaching' — all recruitment is through official government portals only. No agent or coaching institute can guarantee selection.",
+    "type": "warning"
+  },
+  "important_dates": [
+    {
+      "label": "Recruitment",
+      "value": "Periodic batches — check official portals for current notifications",
+      "highlight": true
+    },
+    {
+      "label": "Service duration",
+      "value": "4 years from date of enrollment into service",
+      "highlight": false
+    },
+    {
+      "label": "Current batch",
+      "value": "Army CEE 2026: June 1-16, 2026 (application deadline April 1, 2026)",
+      "highlight": true
+    },
+    {
+      "label": "Permanent selection",
+      "value": "Based on merit after 4 years — up to 25% of Agniveers retained",
+      "highlight": true
+    },
+    {
+      "label": "Seva Nidhi disbursement",
+      "value": "Paid on completion of 4-year service (approximately ₹11.71 lakh, tax-free)",
+      "highlight": true
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is Agnipath only for men?",
+      "answer": "No. Women are eligible for Agnipath recruitment in all three services (Army, Navy, Air Force). The Indian Air Force and Navy have already recruited women Agniveers since 2022. The Indian Army has opened most categories to women. Physical standards differ between genders (e.g., height: men 170 cm, women 152 cm), but opportunities are equal."
+    },
+    {
+      "question": "What if I'm not selected for permanent service after 4 years?",
+      "answer": "You receive ₹11.71 lakh Seva Nidhi (tax-free), a service discharge certificate, and skill certifications recognized nationwide. You get priority (10% reservation) in CAPF recruitment (BSF, CRPF, CISF, ITBP). Many states have announced 10% reservation in state police recruitment for ex-Agniveers. Private companies actively hire ex-military personnel. The Seva Nidhi helps you start a business or pursue education."
+    },
+    {
+      "question": "Can I prepare for other competitive exams during 4-year service?",
+      "answer": "Yes. Agniveers get study leave and access to education facilities. Many Agniveers prepare for NDA, CDS, CAPF (Officer), SSC, and state PSC exams during service. The military training and discipline actually improve exam performance. Success in exams while still serving is fast-tracked to officer rank or alternate career."
+    },
+    {
+      "question": "Is there age relaxation for Agniveers in government exams?",
+      "answer": "Yes. Government has announced 3-year age relaxation for Agniveers appearing in central government recruitment exams (CAPF, SSC, Railways, UPSC, etc.). Additionally, the Agniveer's 4-year service counts toward age requirements in some job categories. Many states have announced additional age relaxation (5-7 years) in state police and government job exams."
+    },
+    {
+      "question": "What happens to the Seva Nidhi if an Agniveer dies during service?",
+      "answer": "If an Agniveer dies during service, the family receives: (1) ₹48 lakh non-contributory life insurance payout + (2) Full accumulated Seva Nidhi corpus (approximately ₹11.71 lakh at completion, or proportionate amount if death occurs earlier) + (3) Ex-gratia compensation as applicable to armed forces personnel + (4) Family pension in some cases. The family is not left without financial support."
+    },
+    {
+      "question": "Do released Agniveers get pension?",
+      "answer": "No. Released Agniveers who complete 4 years and are NOT selected for permanent service do not receive pension. Only those selected for permanent enrollment and completing 20+ years of total service get military pension (approximately 50% of last salary + DA). The Seva Nidhi (₹11.71 lakh) is the financial benefit for released Agniveers, meant to cover transition and initial civilian career costs."
+    },
+    {
+      "question": "Can I prepare for Agnipath while working or studying?",
+      "answer": "Yes. Agnipath is open to anyone aged 17.5-23. You can prepare while in college or working a part-time job. However, once selected, you must complete 4 years of full-time military service — you cannot work another job simultaneously. Many candidates prepare for Agnipath as their primary career goal while completing 12th standard or early college."
+    },
+    {
+      "question": "What if I fail PFT? Can I try again?",
+      "answer": "If you fail PFT in one rally, you can try in the next recruitment notification (typically 1-2 months later). There is no limit on number of attempts as long as you're within the age window (17.5-23 years). Many candidates succeed on 2nd or 3rd attempt after physical conditioning."
+    }
+  ],
+  "official_portal": {
+    "name": "Join Indian Army",
+    "url": "https://joinindianarmy.nic.in"
+  },
+  "related_pages": [
+    {
+      "title": "NDA Exam 2026",
+      "slug": "nda",
+      "tag": "Defence",
+      "url": "/exam/nda"
+    },
+    {
+      "title": "SSC GD Constable",
+      "slug": "ssc-gd-constable",
+      "tag": "Defence",
+      "url": "/exam/ssc-gd-constable"
+    },
+    {
+      "title": "PM Mudra Yojana",
+      "slug": "pm-mudra-yojana",
+      "tag": "Business",
+      "url": "/yojana/pm-mudra-yojana"
+    },
+    {
+      "title": "PMKVY — Free Skill Training",
+      "slug": "pmkvy-skill-india",
+      "tag": "Skill",
+      "url": "/yojana/pmkvy-skill-india"
+    }
+  ],
+  "tags": [
+    "Defence",
+    "Military",
+    "Army",
+    "Navy",
+    "Air Force",
+    "Youth",
+    "Central Government",
+    "March 2026"
+  ],
+  "ministry": "Ministry of Defence",
+  "launch_year": 2022,
+  "image_suggestions": [
+    "Agniveer in military uniform during training",
+    "Young soldiers in parade formation",
+    "Agniveer receiving Seva Nidhi certificate at discharge",
+    "Indian Army recruitment rally with candidates running"
+  ]
+}

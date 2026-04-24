@@ -1,0 +1,363 @@
+{
+  "slug": "upi-guide",
+  "title": "UPI Complete Guide 2026 — How It Works, Limits & Security",
+  "meta_description": "UPI guide 2026 — how UPI works, daily transaction limits, troubleshooting failed transactions, UPI Lite, safety tips, and filing complaints.",
+  "hero": {
+    "one_liner": "Everything about UPI — India's payment system processing 12+ billion transactions monthly. Learn how it works, limits, and how to stay safe.",
+    "icon": "📱",
+    "updated_date": "March 2026",
+    "tags": [
+      "Digital Payment",
+      "UPI",
+      "Banking"
+    ],
+    "read_time": "10 min",
+    "stats": [
+      {
+        "label": "Monthly Transactions",
+        "value": "12+ Billion"
+      },
+      {
+        "label": "Daily Limit (P2P)",
+        "value": "₹1-5 Lakh"
+      },
+      {
+        "label": "Transaction Fee",
+        "value": "₹0 (Completely Free)"
+      },
+      {
+        "label": "Processing Time",
+        "value": "2-30 seconds"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "heading": "What is UPI? The Technology Behind Instant Payments",
+      "icon": "📖",
+      "type": "text",
+      "content": [
+        "<h3>Understanding UPI (Unified Payments Interface)</h3>",
+        "UPI is an instant real-time payment system developed by NPCI (National Payments Corporation of India) in 2016 that allows you to transfer money directly between bank accounts using your smartphone. Unlike traditional banking methods (NEFT takes 30 minutes, IMPS takes time, demand drafts are cumbersome), UPI transfers complete within 2-30 seconds.",
+        "The key innovation: You don't need the recipient's bank account number or IFSC code. You just need a UPI ID (yourname@upi or yourname@banknme) or a QR code.",
+        "This simplicity is why UPI has become India's primary digital payment method.",
+        "<h3>How UPI Actually Works — The Technology</h3>",
+        "When you send ₹1,000 via UPI:",
+        "1. You open your UPI app (PhonePe, Google Pay, Paytm, etc.) and enter recipient's UPI ID or scan their QR code.",
+        "2. You enter your UPI PIN (4-digit security code).",
+        "3. Your UPI app sends an encrypted request to NPCI servers.",
+        "4. NPCI routes the request to YOUR bank's server.",
+        "5. Your bank deducts ₹1,000 from your account and sends confirmation.",
+        "6. NPCI routes the confirmation to RECIPIENT's bank.",
+        "7. Recipient's bank credits ₹1,000 to their account.",
+        "8. All parties receive confirmation messages.",
+        "Total time: 2-30 seconds (typically 5-15 seconds).",
+        "<h3>Critical Point: UPI Apps Are Just Interfaces</h3>",
+        "PhonePe, Google Pay, Paytm, Bhim — these are just apps/interfaces. The actual transaction happens between banks via NPCI infrastructure.",
+        "Your money is never 'stored' in the app. The app is merely a portal to initiate bank-to-bank transfers.",
+        "This is why uninstalling the app doesn't affect your money. Your money stays in your bank account, and you can reinstall the app and regain access using the same UPI ID and bank account."
+      ]
+    },
+    {
+      "heading": "UPI Transaction Limits — Know Before You Transfer",
+      "icon": "💰",
+      "type": "table",
+      "columns": [
+        "Transaction Type",
+        "Per Transaction Limit",
+        "Daily Limit",
+        "Monthly Limit"
+      ],
+      "rows": [
+        [
+          "Person-to-Person (P2P)",
+          "₹1,00,000",
+          "₹1,00,000",
+          "No limit"
+        ],
+        [
+          "Merchant Payments",
+          "₹1,00,000",
+          "₹1,00,000",
+          "No limit"
+        ],
+        [
+          "UPI for Capital Markets",
+          "₹5,00,000",
+          "₹5,00,000",
+          "No limit"
+        ],
+        [
+          "UPI Lite (Offline)",
+          "₹500 per transaction",
+          "₹2,000",
+          "No limit"
+        ],
+        [
+          "Government Tax Payments",
+          "₹5,00,000",
+          "₹5,00,000",
+          "No limit"
+        ],
+        [
+          "Bill Payments (Utilities)",
+          "₹1,00,000",
+          "₹1,00,000",
+          "No limit"
+        ]
+      ]
+    },
+    {
+      "heading": "Common UPI Issues & Solutions",
+      "icon": "🔧",
+      "type": "text",
+      "content": [
+        "<h3>Problem 1: 'Transaction Failed, Money Debited' — The Most Common Issue</h3>",
+        "This happens when money is deducted from your account but the recipient doesn't receive it. In 99% of cases, the money is automatically refunded within 24-48 hours.",
+        "Why does this happen? Usually: (a) Recipient's bank server was temporarily down, (b) Network glitch during confirmation, (c) Recipient's account had some temporary restriction.",
+        "<strong>What to do:</strong>",
+        "1. Wait 48 hours. The auto-reversal is automatic — you'll see a credit back into your account.",
+        "2. Check your bank statement (not the UPI app) to confirm the debit and subsequent credit.",
+        "3. If money isn't refunded after 48 hours, raise a dispute in the UPI app: Open transaction history → tap failed transaction → 'Raise Dispute' → describe the issue.",
+        "4. The bank/NPCI investigates (usually within 7 days) and credits the money.",
+        "<strong>Critical mistake to avoid:</strong> Do NOT initiate the transaction again. If you send the same money twice thinking the first attempt failed, you'll end up sending ₹2,000 instead of ₹1,000.",
+        "<h3>Problem 2: 'UPI PIN Incorrect' — Locked Account</h3>",
+        "After 3 incorrect UPI PIN attempts, the UPI is blocked for 24 hours for security reasons. Your account is not locked — only UPI transactions are disabled temporarily.",
+        "<strong>Solution:</strong>",
+        "1. Wait 24 hours, then try again with the correct PIN.",
+        "2. OR: Reset your UPI PIN immediately.",
+        "Open your UPI app → Settings → Bank account → 'Reset UPI PIN' → Enter your debit card number and expiry → Enter OTP from bank → Create new PIN.",
+        "3. After resetting, you can transact immediately (you don't need to wait 24 hours).",
+        "<strong>Prevention:</strong> Remember your UPI PIN. Most apps allow 3 wrong attempts to prevent brute-force attacks.",
+        "<h3>Problem 3: 'Beneficiary Bank Not Responding'</h3>",
+        "The UPI system couldn't reach the recipient's bank server. This is usually temporary and not your fault.",
+        "<strong>Solution:</strong>",
+        "1. Wait 15-30 minutes and try again.",
+        "2. If persistent, try a different payment method: NEFT, IMPS, or call the recipient to confirm their details.",
+        "3. This is common during month-end (salary day peaks) when all banks are processing high transaction volumes.",
+        "<h3>Problem 4: 'Transaction Limit Exceeded'</h3>",
+        "You've crossed the ₹1 lakh daily limit for P2P transfers.",
+        "<strong>Solution:</strong>",
+        "1. Wait until midnight (the daily limit resets at 00:00 hours).",
+        "2. For large transfers above ₹1 lakh, use NEFT/IMPS instead (no daily limit, but NEFT takes 2-4 hours, IMPS takes 30 min).",
+        "3. Some banks allow limit enhancement — contact your bank to request increased UPI limits.",
+        "<h3>Problem 5: 'Request Timeout' or 'Server Error'</h3>",
+        "Usually a temporary app or server issue.",
+        "<strong>Solution:</strong>",
+        "1. Close the app completely (not just minimizing) and reopen.",
+        "2. Check your internet connection (switch between WiFi and mobile data).",
+        "3. Restart your phone.",
+        "4. Try a different payment method if UPI continues failing.",
+        "5. Update your UPI app to the latest version."
+      ]
+    },
+    {
+      "heading": "How to File a UPI Complaint — When Disputes Occur",
+      "icon": "⚖️",
+      "type": "steps",
+      "steps": [
+        {
+          "step": 1,
+          "title": "In-App Dispute Filing (Fastest)",
+          "description": "Open your UPI app → Transaction History → Find the problematic transaction → Long-press or tap the transaction → Select 'Raise Dispute' or 'File Complaint' → Describe the issue → Submit. The app will document your complaint with timestamp and transaction details."
+        },
+        {
+          "step": 2,
+          "title": "Bank Complaint (If App Doesn't Resolve)",
+          "description": "Call your bank's customer service (number on back of debit card) and report the UPI issue. Provide: Transaction ID (from UPI app), amount, recipient's UPI ID, date/time. Bank logs your complaint and assigns a reference number."
+        },
+        {
+          "step": 3,
+          "title": "NPCI Official Complaint (Last Resort)",
+          "description": "Visit npci.org.in/upi-dispute → Fill the complaint form with transaction details → Submit. NPCI (the UPI regulator) will investigate if bank and app don't resolve within 7-10 days."
+        },
+        {
+          "step": 4,
+          "title": "RBI Ombudsman (If Still Unresolved)",
+          "description": "If the above steps don't resolve within 30 days, file a complaint with RBI Ombudsman at cms.rbi.org.in. RBI will investigate the bank's handling of your complaint."
+        }
+      ]
+    },
+    {
+      "heading": "UPI Lite — Offline UPI Payments",
+      "icon": "📵",
+      "type": "text",
+      "content": [
+        "<h3>What is UPI Lite?</h3>",
+        "UPI Lite allows offline UPI transactions (no internet required) using NFC technology (tap-to-pay). You preload a small amount into a UPI Lite wallet, then tap your phone on compatible merchant terminals to pay.",
+        "Limits: ₹500 per transaction, ₹2,000 per day. Ideal for small frequent purchases (coffee, groceries, metro) without needing internet.",
+        "<h3>How to Activate UPI Lite</h3>",
+        "1. Open your UPI app (PhonePe, Google Pay, Paytm) → Search for 'UPI Lite' or 'Offline Payments'.",
+        "2. Enable UPI Lite → Set wallet limit (₹500-2,000) → Load wallet from your bank account → Confirm.",
+        "3. When paying at merchant: Tap your phone on their NFC terminal.",
+        "4. No PIN required for amounts under ₹2,000 (for convenience).",
+        "<h3>Availability</h3>",
+        "Not all UPI apps and merchants support UPI Lite yet (as of 2026). PhonePe and Google Pay are gradually rolling it out.",
+        "Check if your app and local merchants support it before relying on it."
+      ]
+    },
+    {
+      "heading": "UPI Safety Tips — Protect Your Money",
+      "icon": "🔒",
+      "type": "text",
+      "content": [
+        "<h3>Golden Rule: NEVER Share Your UPI PIN</h3>",
+        "Your UPI PIN is like your ATM PIN. Never share it with anyone — not bank staff, not customer service, not friends.",
+        "No legitimate entity will ever ask for your UPI PIN. If someone asks for your UPI PIN over phone or email, it's 100% a scam.",
+        "<h3>Beware of 'Request Money' Scams</h3>",
+        "Scammers use UPI's 'request money' feature (which looks like a payment notification) to trick you into SENDING money instead of receiving it.",
+        "Red flag message: 'You have received a ₹5,000 refund from Amazon. Click to accept.' OR 'Cashback from PayPal: ₹10,000. Approve payment.'",
+        "Reality: Clicking 'Accept' on a request money notification SENDS money to the scammer, not receives. Real refunds from companies are direct bank credits — you never approve anything.",
+        "Protection: Ignore all 'collect requests' or 'payment requests' from unknown numbers. If you expect a refund, wait for automatic bank credit instead of approving requests.",
+        "<h3>Verify UPI ID Before Large Transfers</h3>",
+        "A small typo in UPI ID sends money to the wrong person: yashsbi@sbi ≠ yashsbi1@sbi (just one digit difference = completely different person).",
+        "For transfers above ₹10,000: Send ₹1 first to verify the recipient account. If ₹1 goes through successfully, the UPI ID is correct.",
+        "Then send the main amount.",
+        "<h3>Enable App Lock & Transaction Alerts</h3>",
+        "1. Set fingerprint or face lock on your UPI app (Settings → Security → Enable Biometric Lock).",
+        "2. Enable 'Transaction Alerts' in your bank account (Settings → Notifications). You'll receive SMS/push notification for every UPI transaction.",
+        "3. Check your bank balance regularly. If you see unauthorized debits, report immediately.",
+        "<h3>Don't Use Public WiFi for UPI</h3>",
+        "Avoid initiating UPI transactions on public WiFi (airport, cafe, malls). Hackers on the same network can intercept data.",
+        "Use mobile data (cellular) or trusted home WiFi for UPI transactions.",
+        "<h3>Update Your Apps Regularly</h3>",
+        "Keep UPI apps (PhonePe, Google Pay, etc.) and your phone's operating system updated. Security patches are released regularly to close vulnerabilities."
+      ]
+    },
+    {
+      "heading": "UPI vs NEFT vs IMPS vs Net Banking — When to Use What",
+      "icon": "⚔️",
+      "type": "table",
+      "columns": [
+        "Method",
+        "Processing Time",
+        "Amount Limit",
+        "Fee",
+        "Best For"
+      ],
+      "rows": [
+        [
+          "UPI",
+          "2-30 seconds",
+          "₹1-5 lakh/day",
+          "Free",
+          "Daily payments, instant transfers"
+        ],
+        [
+          "NEFT",
+          "30 minutes",
+          "No limit",
+          "₹2.50 (SBI)",
+          "Large amounts, non-urgent"
+        ],
+        [
+          "IMPS",
+          "30 minutes",
+          "₹2-5 lakh",
+          "₹5-15",
+          "Urgent, requires confirmation"
+        ],
+        [
+          "Net Banking",
+          "1-2 hours",
+          "No limit",
+          "Free",
+          "Bill payments, large transfers"
+        ],
+        [
+          "Mobile Banking",
+          "Instant",
+          "Varies",
+          "Free",
+          "Account management, balance check"
+        ],
+        [
+          "Check",
+          "3-7 days",
+          "No limit",
+          "₹50-100",
+          "Non-electronic (rarely used now)"
+        ]
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is UPI safe? Can my money be stolen?",
+      "answer": "UPI is secure with 2-factor authentication (device binding + UPI PIN) and 256-bit encryption. The fraud rate is less than 0.01% of transactions. However, social engineering fraud (you sharing your PIN, approving fake requests, clicking phishing links) is the real risk. Protect your PIN and you're safe. The 99.99% security is strong — human behavior (revealing PIN, clicking suspicious links) is the weak point."
+    },
+    {
+      "question": "I was scammed via UPI. Can I get my money back?",
+      "answer": "Immediate steps: (1) Report transaction as 'fraud' in the UPI app. (2) Call your bank's fraud hotline immediately. (3) File cybercrime complaint at cybercrime.gov.in. (4) File FIR at nearest police station. Recovery chances: If reported within 24 hours, banks can sometimes freeze the recipient's account. After 24 hours, recovery is very difficult (money transferred out). Prevention is better — never share PIN, never approve unknown requests, verify UPI IDs before sending."
+    },
+    {
+      "question": "Why did my UPI transaction fail and money was debited?",
+      "answer": "This happens when the initial debit succeeds but confirmation from recipient's bank fails (usually due to their server being down). In 99% of cases, auto-reversal happens within 24-48 hours. The bank automatically credits the money back. Wait 48 hours before worrying. If not reversed after 48 hours, raise a dispute in the UPI app."
+    },
+    {
+      "question": "Can I use UPI without internet?",
+      "answer": "Standard UPI requires internet. However, UPI Lite (new feature) allows offline payments up to ₹500 using NFC (tap-to-pay). You need to preload the UPI Lite wallet while online, then can use offline at merchants. Not all apps/merchants support UPI Lite yet as of 2026. Standard UPI always needs internet connection."
+    },
+    {
+      "question": "What's the daily limit on UPI transfers?",
+      "answer": "₹1-5 lakh depending on the UPI app and bank. Most banks: ₹1 lakh daily limit for P2P transfers. Some premium apps (Google Pay): ₹5 lakh. For amounts above your limit: Wait until midnight (limit resets) or use NEFT/IMPS. You can request your bank to increase UPI limits — some banks allow up to ₹5 lakh daily."
+    },
+    {
+      "question": "Is UPI free? Any hidden charges?",
+      "answer": "Completely free. Person-to-person UPI transfers: ₹0 fee. Merchant payments: ₹0 for most, some merchants add their own surcharge. Government fees (tax, utility bills): Paid via UPI Lite sometimes adds a minimal processing charge (rare). There are no hidden charges from banks or NPCI for UPI transactions."
+    },
+    {
+      "question": "What if I send UPI money to the wrong person by mistake?",
+      "answer": "Once UPI money is sent, it's irreversible. The recipient receives the money immediately. If you realize the mistake: Contact the recipient and request them to refund (they can send money back, but you have no legal claim if they refuse). No way to 'recall' UPI like email. This is why verifying UPI ID before large transfers is critical."
+    },
+    {
+      "question": "Can banks decline UPI transactions?",
+      "answer": "Yes. Banks may block UPI transactions if: (1) Account has fraud alerts, (2) Account is suspended, (3) Daily limit exhausted, (4) RBI restrictions on the account, (5) Suspicious transaction pattern detected (fraud prevention). If your UPI is blocked, contact your bank. Usually, they unblock within 24 hours after verification."
+    }
+  ],
+  "disclaimer": "UPI information as of March 2026. NPCI policies and features may change. Transaction limits and features vary by app and bank. Always verify current limits with your UPI app. This is informational content, not financial advice.",
+  "related_pages": [
+    {
+      "title": "Credit Score Guide",
+      "slug": "credit-score-guide",
+      "tag": "Banking",
+      "url": "/paisa/credit-score-guide"
+    },
+    {
+      "title": "PM Jan Dhan Yojana",
+      "slug": "pm-jan-dhan-yojana",
+      "tag": "Banking",
+      "url": "/yojana/pm-jan-dhan-yojana"
+    },
+    {
+      "title": "Demat Account Guide",
+      "slug": "demat-account-guide",
+      "tag": "Investing",
+      "url": "/paisa/demat-account-guide"
+    },
+    {
+      "title": "How to Link Aadhaar with Bank",
+      "slug": "link-aadhaar-bank",
+      "tag": "KYC",
+      "url": "/guide/link-aadhaar-bank"
+    }
+  ],
+  "tags": [
+    "UPI",
+    "Digital Payment",
+    "NPCI",
+    "PhonePe",
+    "Google Pay",
+    "Paytm",
+    "Mobile Banking"
+  ],
+  "image_suggestions": [
+    "upi-how-it-works-flow",
+    "upi-transaction-limits-chart",
+    "upi-lite-offline-payments",
+    "upi-pin-security",
+    "common-upi-scams-to-avoid",
+    "upi-failed-transaction-resolution",
+    "upi-apps-comparison"
+  ]
+}

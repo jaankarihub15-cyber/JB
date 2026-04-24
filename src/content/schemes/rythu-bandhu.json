@@ -1,0 +1,365 @@
+{
+  "slug": "rythu-bandhu",
+  "title": "Rythu Bandhu / Rythu Bharosa (Telangana) — Farmer Support",
+  "meta_description": "Rythu Bharosa: ₹12,000/acre annual investment support for Telangana farmers. Check eligibility, payment dates, and how to apply.",
+  "hero": {
+    "status": "active",
+    "one_liner": "Annual investment support of ₹12,000 per acre for cultivable land in Telangana",
+    "icon": "🌾",
+    "updated_date": "March 2026",
+    "stats": [
+      {
+        "label": "Annual Support",
+        "value": "₹12,000/acre"
+      },
+      {
+        "label": "Beneficiary Farmers",
+        "value": "70+ lakh"
+      },
+      {
+        "label": "Budget 2025-26",
+        "value": "₹18,000 crore"
+      },
+      {
+        "label": "Payment Sessions",
+        "value": "2 per year (Kharif & Rabi)"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "💳",
+      "label": "Check Payment Status",
+      "url": "https://rythubharosa.telangana.gov.in/status-check"
+    },
+    {
+      "icon": "📱",
+      "label": "Register on Dharani Portal",
+      "url": "https://dharani.telangana.gov.in/agricultureHomepage"
+    },
+    {
+      "icon": "📋",
+      "label": "Download Guidelines",
+      "url": "https://rythubharosa.telangana.gov.in/"
+    },
+    {
+      "icon": "💬",
+      "label": "Contact Support",
+      "url": "https://rythubharosa.telangana.gov.in/contact"
+    }
+  ],
+  "what_is_it": [
+    "Rythu Bharosa is Telangana's flagship agricultural investment support scheme launched by the Congress government on January 26, 2025. It replaced the previous Rythu Bandhu scheme with enhanced support of ₹12,000 per acre annually, distributed equally across two growing seasons—Kharif and Rabi. The scheme directly deposits funds into farmer bank accounts through Direct Benefit Transfer (DBT), ensuring transparent and corruption-free disbursement.",
+    "The scheme provides ₹6,000 per acre per crop season to registered landowners who cultivate crops on their registered land in Telangana. Unlike the old system that sometimes included fallow or non-cultivable land, Rythu Bharosa focuses exclusively on actively cultivated plots, verified through the state's land survey system. This targeted approach ensures funds reach farmers actually working the land.",
+    "With a budget allocation of ₹18,000 crore for the 2025-26 financial year, Rythu Bharosa aims to reach 70+ lakh farmers across all 33 districts of Telangana. The first Kharif installment of ₹3,590 crore will be released starting March 22, 2026, with remaining payments completed by end of April. The second Rabi installment follows in August-September, providing financial support exactly when farmers need to invest in seeds, fertilizers, and labor.",
+    "Registration is simple—your land must be registered in the Bhu Bharathi digital land records system (which replaced Dharani in 2025), you must be the owner or authorized cultivator, and your Aadhaar must be linked to your bank account. Payments are fully automatic once you meet these conditions, with no application form or offline process required."
+  ],
+  "eligibility": [
+    {
+      "label": "Land Ownership",
+      "value": "Must own or legally cultivate land in Telangana registered in Bhu Bharathi",
+      "highlight": true
+    },
+    {
+      "label": "Cultivation Status",
+      "value": "Land must be actively cultivated (not fallow, reserved, or non-cultivable)",
+      "highlight": true
+    },
+    {
+      "label": "Residency",
+      "value": "Must be a resident of Telangana",
+      "highlight": false
+    },
+    {
+      "label": "Bank Account",
+      "value": "Must have an active bank account linked to Aadhaar for DBT",
+      "highlight": true
+    },
+    {
+      "label": "Aadhaar Linkage",
+      "value": "Aadhaar must be linked to both land records (Bhu Bharathi) and bank account",
+      "highlight": true
+    },
+    {
+      "label": "Land Size",
+      "value": "Applies to all landholdings—from marginal farmers (0.25 acres) to large farms",
+      "highlight": false
+    },
+    {
+      "label": "Tenant Farmers",
+      "value": "Tenant farmers can register through crop insurance schemes; check with village revenue officer for eligible alternatives",
+      "highlight": false
+    }
+  ],
+  "eligibility_filters": {
+    "gender": [],
+    "age_min": 0,
+    "age_max": 0,
+    "occupation": [
+      "Cultivators",
+      "Landowners",
+      "Agricultural workers (through allied schemes)"
+    ],
+    "income_max": 0,
+    "category": [
+      "All categories eligible"
+    ],
+    "states": [
+      "Telangana"
+    ]
+  },
+  "extra_sections": [
+    {
+      "heading": "Rythu Bharosa Payment Schedule 2026",
+      "icon": "📅",
+      "type": "table",
+      "columns": [
+        "Season",
+        "Payment Month",
+        "Amount per Acre",
+        "Expected Date"
+      ],
+      "rows": [
+        [
+          "Kharif 2026",
+          "March-April",
+          "₹6,000",
+          "First phase: March 22, 2026"
+        ],
+        [
+          "Kharif 2026",
+          "April",
+          "₹6,000",
+          "Final payments by April 30"
+        ],
+        [
+          "Rabi 2025-26",
+          "January-February",
+          "₹6,000",
+          "Already disbursed (Jan 26, Feb 5, Feb 11)"
+        ],
+        [
+          "Rabi 2026-27",
+          "August-September",
+          "₹6,000",
+          "Expected Aug-Sept 2026"
+        ]
+      ]
+    },
+    {
+      "heading": "How to Check Payment Status",
+      "icon": "🔍",
+      "type": "steps",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Visit Official Portal",
+          "description": "Go to <a href='https://rythubharosa.telangana.gov.in/' target='_blank'>rythubharosa.telangana.gov.in</a> and click 'Check Payment Status' button"
+        },
+        {
+          "step": 2,
+          "title": "Enter Your Details",
+          "description": "Input your Aadhaar number and land reference ID (from Bhu Bharathi or old patta documentation)"
+        },
+        {
+          "step": 3,
+          "title": "View Payment History",
+          "description": "System displays all payments received, pending disbursements, and exact deposit dates into your bank account"
+        },
+        {
+          "step": 4,
+          "title": "Contact if Missing",
+          "description": "If a payment appears missing, verify your bank account is linked to your Aadhaar and contact your village revenue officer or call 1800-425-2374"
+        }
+      ]
+    },
+    {
+      "heading": "Common Issues & Solutions",
+      "icon": "⚠️",
+      "type": "text",
+      "content": [
+        "<h3>Issue: Payment not received despite eligibility</h3><p>Check if your bank account is correctly linked to your Aadhaar in Bhu Bharathi. Mismatches in name spelling (like 'Raj' vs 'Raj Kumar') or date of birth will block automatic transfers.",
+        "Visit your nearest bank branch to verify details, then request a correction in Bhu Bharathi through your village revenue office.</p>",
+        "<h3>Issue: Land records not updated in Bhu Bharathi</h3><p>The new system replaced Dharani in early 2025. If your land is not visible, file an ROR correction application before April 13, 2026 (one-year deadline).",
+        "Visit <a href='https://bhubharati.telangana.gov.in/' target='_blank'>bhubharati.telangana.gov.in</a> or contact your mandal revenue office with original patta documents. Processing typically takes 2-3 weeks.</p>",
+        "<h3>Issue: Land classified as non-cultivable</h3><p>Fallow or reserve forest land is excluded from Rythu Bharosa. If your land was incorrectly classified, file a representation with proof of cultivation (like previous crop insurance or input credit records).",
+        "The revenue department conducts physical verification within 30 days. Present photos of recent harvests or agricultural implements as evidence.</p>",
+        "<h3>Issue: Tenant farmer or share-cropper status</h3><p>The scheme requires registered ownership. Tenant farmers can access <a href='https://indiastack.telangana.gov.in' target='_blank'>agricultural credit schemes</a> or harvest insurance programs instead.",
+        "Some districts offer tenant cultivation certificates—ask at your mandal office if available in your area.</p>"
+      ]
+    },
+    {
+      "heading": "Rythu Bharosa vs Other Schemes",
+      "icon": "📊",
+      "type": "table",
+      "columns": [
+        "Feature",
+        "Rythu Bharosa (Telangana)",
+        "PM Kisan (National)",
+        "KALIA (Odisha)"
+      ],
+      "rows": [
+        [
+          "Annual Amount",
+          "₹12,000/acre",
+          "₹6,000 per holding",
+          "₹10,000 per holding"
+        ],
+        [
+          "Payment Frequency",
+          "2 seasons/year (₹6,000 each)",
+          "3 installments/year",
+          "2 installments/year"
+        ],
+        [
+          "Eligibility Requirement",
+          "Active cultivation only",
+          "All landowners, even fallow",
+          "Agricultural workers & sharecroppers"
+        ],
+        [
+          "Land Limit",
+          "No cap—all sizes eligible",
+          "Up to 2 hectares",
+          "Up to 5 acres"
+        ],
+        [
+          "Portal",
+          "Bhu Bharathi (state)",
+          "PM Kisan portal (national)",
+          "KALIA portal (state)"
+        ],
+        [
+          "Application Process",
+          "Automatic if land in Bhu Bharathi",
+          "Manual registration required",
+          "Separate enrollment needed"
+        ]
+      ]
+    }
+  ],
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Register Land in Bhu Bharathi",
+      "description": "Visit your mandal (block) revenue office with original patta (land deed) and your Aadhaar card. Request your land to be registered in the Bhu Bharathi digital system. This is free and takes 1-2 weeks. If land was previously in Dharani, it automatically migrated, but you should verify the details are correct."
+    },
+    {
+      "step": 2,
+      "title": "Link Aadhaar and Bank Account",
+      "description": "Ensure your Aadhaar number exactly matches the name on your bank passbook. Visit your bank and request Aadhaar-bank linkage if not already done. This is mandatory for Direct Benefit Transfer (DBT). Once linked, provide your bank account details to the revenue office during Bhu Bharathi registration."
+    },
+    {
+      "step": 3,
+      "title": "Verify Cultivation Status",
+      "description": "Your land will be verified through satellite imagery and field surveys to confirm it is actively cultivated. This happens automatically once registered. If there's a discrepancy (like the system shows it as fallow), bring proof of cultivation like crop insurance receipts, input credit records, or agricultural produce market receipts."
+    },
+    {
+      "step": 4,
+      "title": "Automatic Payment Processing",
+      "description": "Once all verification is complete, payments are automatic. You don't need to do anything further. The system deposits ₹6,000 directly into your linked bank account for each season. Payments are released twice yearly—March-April (Kharif) and August-September (Rabi). Check status on the portal anytime."
+    },
+    {
+      "step": 5,
+      "title": "For Payment Issues, Escalate",
+      "description": "If a payment doesn't arrive within 7 days of the announced date, call the toll-free helpline at 1800-425-2374 or visit <a href='https://rythubharosa.telangana.gov.in/contact' target='_blank'>the support page</a>. Provide your Aadhaar, land reference ID, and bank account number. The department investigates and releases payment within 5-10 business days."
+    }
+  ],
+  "important_alert": {
+    "text": "<strong>Deadline Alert:</strong> If you have land disputes or need ROR corrections from the old Dharani system, file them immediately. The one-year correction deadline under Bhu Bharati Act is <strong>April 13, 2026</strong>. After this date, land record errors cannot be easily corrected and may disqualify you from future payments.",
+    "type": "warning"
+  },
+  "important_dates": [
+    {
+      "label": "Kharif 2026 First Installment",
+      "value": "March 22, 2026 (Launch event in Siddipet)",
+      "highlight": true
+    },
+    {
+      "label": "Kharif 2026 Final Payments",
+      "value": "By April 30, 2026",
+      "highlight": true
+    },
+    {
+      "label": "Bhu Bharathi ROR Correction Deadline",
+      "value": "April 13, 2026 (One-year limit from April 14, 2025 Act launch)",
+      "highlight": true
+    },
+    {
+      "label": "Rabi 2025-26 Payments",
+      "value": "January 26, February 5, February 11, 2026 (completed)",
+      "highlight": false
+    },
+    {
+      "label": "Rabi 2026-27 Expected Payment",
+      "value": "August-September 2026",
+      "highlight": false
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the difference between Rythu Bharosa and the old Rythu Bandhu scheme?",
+      "answer": "Rythu Bandhu was the BRS government's scheme providing ₹10,000/acre. The Congress government enhanced it to Rythu Bharosa with ₹12,000/acre (₹6,000 per season). Key difference: Rythu Bharosa only covers actively cultivated land, excluding fallow plots and non-agricultural land, preventing misuse on real estate. The amount increased from ₹5,000 per season to ₹6,000 per season."
+    },
+    {
+      "question": "How much money will I receive per year?",
+      "answer": "You receive ₹12,000 per acre per year, paid in two equal installments of ₹6,000 each. Kharif payment comes in March-April, and Rabi payment comes in August-September. If you own 2 acres, you get ₹24,000 annually. The payment is calculated on the total cultivable land area registered in your name in Bhu Bharathi."
+    },
+    {
+      "question": "Is there a cap on how much land I can register?",
+      "answer": "No cap. Rythu Bharosa pays support on all your cultivable land—whether you own half an acre or 50 acres, all are eligible. However, land must be actively cultivated and registered in Bhu Bharathi. Large landowners and small farmers receive equal per-acre support."
+    },
+    {
+      "question": "My land is registered in Dharani but not yet in Bhu Bharathi. Will I still get payments?",
+      "answer": "Most Dharani records have automatically migrated to Bhu Bharathi. Log into the Bhu Bharathi portal to check. If your land still shows in Dharani only, visit your mandal revenue office immediately to request migration. There's a one-year correction window ending April 13, 2026—after that, old Dharani data may not be valid for new schemes."
+    },
+    {
+      "question": "What happens if my bank account is not linked to my Aadhaar?",
+      "answer": "Payments cannot be processed without Aadhaar-bank linkage. Visit your bank with your Aadhaar card and passbook, and request account linking. The bank will verify your details match (name, date of birth, address). This is free and typically completes in 1-2 weeks. Once linked, inform your revenue office so they can update Bhu Bharathi with the correct account number."
+    },
+    {
+      "question": "I'm a tenant farmer. Am I eligible for Rythu Bharosa?",
+      "answer": "No, Rythu Bharosa requires land ownership. As a tenant, your landlord receives the payment. However, you may be eligible for alternative schemes like the Pradhan Mantri Fasal Bima Yojana (crop insurance) or state-level agricultural credit schemes. Consult your mandal office about agricultural worker support schemes in your district."
+    },
+    {
+      "question": "When exactly will the payment hit my bank account?",
+      "answer": "Payments are announced (like March 22, 2026 for Kharif), but actual deposit takes 2-7 days depending on your bank's processing time. The government transfers funds in batches—first 10 lakh farmers, then next 20 lakh, and so on. Check the official portal after each announcement date. If payment doesn't arrive within 10 days, report to the toll-free line 1800-425-2374."
+    },
+    {
+      "question": "What documents do I need for Rythu Bharosa?",
+      "answer": "You need your Aadhaar card, original patta (land document), and an active bank passbook. A joint Aadhaar-bank account or linked Aadhaar will enable automatic DBT. If you have land disputes or co-owners, bring ownership certificates. Most verification is now automatic through satellite surveys—you mainly need Aadhaar and bank details."
+    }
+  ],
+  "official_portal": {
+    "name": "Rythu Bharosa Official Portal",
+    "url": "https://rythubharosa.telangana.gov.in/"
+  },
+  "related_pages": [
+    {
+      "title": "PM Kisan Scheme",
+      "slug": "pm-kisan",
+      "tag": "national",
+      "url": "/yojana/pm-kisan"
+    }
+  ],
+  "tags": [
+    "telangana",
+    "agriculture",
+    "farmers",
+    "direct-benefit-transfer",
+    "investment-support",
+    "kharif-rabi"
+  ],
+  "ministry": "Department of Agriculture, Government of Telangana",
+  "launch_year": 2025,
+  "image_suggestions": [
+    "Screenshot of Bhu Bharathi portal homepage showing land registration interface",
+    "Step-by-step photos of completing Aadhaar-bank account linkage at a bank counter",
+    "Infographic showing payment calendar (Kharif March-April, Rabi August-September)",
+    "Village revenue office setup showing where farmers register for the scheme",
+    "Mobile phone screen showing payment status check portal with sample payment details",
+    "Comparison table visual showing Rythu Bharosa vs PM Kisan vs KALIA side-by-side",
+    "Photo of farmer receiving payment notification on mobile banking app",
+    "Map of Telangana showing all 33 districts covered by the scheme"
+  ]
+}

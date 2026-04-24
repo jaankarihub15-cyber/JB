@@ -1,0 +1,329 @@
+{
+  "slug": "itr-1-vs-2-vs-3-vs-4",
+  "title": "Which ITR Form to File? ITR-1, ITR-2, ITR-3, ITR-4 Explained",
+  "meta_description": "ITR form guide 2026 — which ITR form for salaried, business, freelancer, capital gains. ITR-1 vs 2 vs 3 vs 4 simple explanation.",
+  "hero": {
+    "one_liner": "Salaried with no capital gains? ITR-1. Have stocks or property sold? ITR-2. Business owner? ITR-3. Small business presumptive? ITR-4.",
+    "icon": "📋",
+    "updated_date": "March 2026",
+    "tags": [
+      "Income Tax",
+      "Filing",
+      "ITR"
+    ],
+    "read_time": "6 min",
+    "stats": [
+      {
+        "label": "Salaried",
+        "value": "ITR-1"
+      },
+      {
+        "label": "Capital Gains",
+        "value": "ITR-2"
+      },
+      {
+        "label": "Business",
+        "value": "ITR-3"
+      },
+      {
+        "label": "Presumptive",
+        "value": "ITR-4"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "heading": "ITR Form Selection Flowchart",
+      "icon": "📊",
+      "type": "table",
+      "columns": [
+        "ITR Form",
+        "Primary User Type",
+        "Income Sources Covered",
+        "Max Income Limit"
+      ],
+      "rows": [
+        [
+          "ITR-1 (Sahaj)",
+          "Salaried individuals, pensioners, depositors",
+          "Salary + HRA + interest income + family pension + one house property rental",
+          "< ₹50 Lakh"
+        ],
+        [
+          "ITR-2",
+          "Salaried with investments, multiple properties, capital gains",
+          "All of ITR-1 + capital gains (stocks, mutual funds, property sale) + foreign income + multiple house properties",
+          "No limit"
+        ],
+        [
+          "ITR-3",
+          "Business owners, professionals, partnerships",
+          "All of ITR-2 + business/professional income (non-presumptive taxation) + income from other sources",
+          "No limit"
+        ],
+        [
+          "ITR-4 (Sugam)",
+          "Small business & freelancers with presumptive income",
+          "Business income under ₹2Cr turnover OR professional income under ₹50L (using Section 44AD/44ADA presumptive taxation)",
+          "₹2Cr (business) / ₹50L (profession)"
+        ]
+      ]
+    },
+    {
+      "heading": "ITR-1 (Sahaj) — For Simple Salaried Income",
+      "icon": "💼",
+      "type": "text",
+      "content": [
+        "ITR-1 is the simplest return form, designed for individuals with straightforward income. If your only sources are salary, interest from savings accounts, and one house property rental (or no property), ITR-1 is your form.",
+        "The form is 2 pages long and takes 15 minutes to fill.",
+        "Eligibility: You're eligible for ITR-1 ONLY if: (1) Your total income is below ₹50 lakh, (2) Your income comes ONLY from salary, HRA, interest, family pension, or one house property, (3) You have NO capital gains (no stock/property sales), (4) You're a resident individual (NRI cannot file ITR-1).",
+        "Who files ITR-1: Most salaried employees (government jobs, corporate jobs), bank employees, pensioners, retired people, interest income earners. Estimated 30% of individual tax filers use ITR-1 — it's the most common form.",
+        "Advantages: (1) Simple 2-page form, (2) Fastest processing by Income Tax department, (3) No need to attach complex schedules, (4) Lower chance of scrutiny (random audit), (5) If error, amendment is easy (Form 139).",
+        "Disadvantages: (1) Cannot claim capital losses (if you sold stocks at loss), (2) Cannot report foreign income, (3) Cannot use if you have rental income from 2+ properties, (4) Cannot claim some deductions (business deductions obviously not applicable).",
+        "Important ITR-1 Rules 2026: Non-residents cannot file ITR-1. If you're planning to migrate abroad, file ITR-2 instead.",
+        "Also, if you're claiming losses to carry forward (e.g., stock market loss), you MUST file ITR-2 — you can't claim carry-forward losses in ITR-1."
+      ]
+    },
+    {
+      "heading": "ITR-2 — For Capital Gains and Multiple Income Sources",
+      "icon": "📈",
+      "type": "text",
+      "content": [
+        "ITR-2 is the 'upgrade' from ITR-1. File ITR-2 the moment you have ANY capital gains (from selling stocks, mutual funds, real estate property, gold) OR multiple house properties OR foreign income.",
+        "ITR-2 is a 4-page form with more detailed schedules.",
+        "Who MUST file ITR-2: (1) Anyone who sold stocks/mutual funds/crypto during the year (even at a loss), (2) Anyone who sold property at a profit, (3) Salaried person with 2+ house properties, (4) Foreign income earners, (5) Anyone with NRI income/foreign assets. These are NOT optional — ITR-1 will be rejected if you have these income sources.",
+        "Real-World ITR-2 Scenario: Raj earns ₹40L salary and sold ₹20L worth of mutual funds that he originally bought for ₹18L (₹2L gain). The ₹2L capital gain makes him ineligible for ITR-1.",
+        "He MUST file ITR-2 to report the ₹2L capital gain. If he files ITR-1, the IT department will auto-reject it.",
+        "Capital Gains Taxation: Short-term capital gains (held < 12 months) = taxed at your slab rate (5%, 20%, 30%). Long-term capital gains (held > 12 months) = 10% tax if > ₹1.25L in a year, zero tax if < ₹1.25L.",
+        "This is why reporting in ITR-2 is critical — missing it = IT notice + penalties.",
+        "Tax Loss Carry-Forward: If you sold stocks at a loss, file ITR-2 to report it. You can carry forward capital loss for 8 years and set off against future gains.",
+        "ITR-1 doesn't have this option — you'll lose the loss benefit.",
+        "Multiple House Property Rules: Own 2 flats? If both are rental (not self-occupied), you MUST file ITR-2 to report both properties separately.",
+        "ITR-1 allows only 1 house property in the 'income from house property' schedule."
+      ]
+    },
+    {
+      "heading": "ITR-3 — For Business and Professional Income",
+      "icon": "🏢",
+      "type": "text",
+      "content": [
+        "ITR-3 is for individuals earning income from business or professional practice (doctors, lawyers, CA, engineers, consultants). It's also for partners in firms and individuals with multiple income sources that don't fit ITR-1 or ITR-2 neatly.",
+        "Who files ITR-3: (1) Business owners (retail, manufacturing, trading, online business under ₹2Cr turnover using normal taxation), (2) Professionals (doctors, lawyers, architects, CA, engineers), (3) Partners in LLP/Partnership firms, (4) Consultants, coaches, freelancers with turnover > ₹2.5L, (5) Anyone mixing business + capital gains + salary.",
+        "Business vs Profession: Business = trading, manufacturing, online venture, content creation with ₹2Cr+ revenue. Profession = expert service (doctor, lawyer, CA) with income < ₹50L for presumptive tax eligibility.",
+        "ITR-3 covers both if you're using normal taxation (not presumptive).",
+        "ITR-3 Complexity: ITR-3 is 8-10 pages with 20+ schedules. You must attach: (1) Balance Sheet (assets, liabilities, equity), (2) Profit & Loss Statement, (3) Cash Flow details, (4) Detailed expense breakdown (rent, salary, materials, depreciation), (5) Schedule of stocks/debtors.",
+        "If you don't maintain books, you MUST file ITR-4 instead (presumptive).",
+        "Audit Requirement: If your business turnover exceeds ₹1 Crore (₹50L for professionals) and you file ITR-3 using normal taxation, you MUST get your books audited by a Chartered Accountant. The audit must be completed and signed off before filing ITR-3.",
+        "Deductions Available: Section 80C (₹1.5L limit), Section 80D (medical insurance), Section 80E (education loan interest), Section 80TTA (savings interest), Section 87A (relief). Business deductions are NOT capped (rent, utilities, salary, materials are 100% deductible).",
+        "Common Mistakes: (1) Mixing personal and business expenses (will invite audit). (2) Not maintaining bills/invoices (notice can demand proof). (3) Under-reporting income because 'cash transactions didn't go in bank' (unreported income triggers Section 56 or 69 scrutiny)."
+      ]
+    },
+    {
+      "heading": "ITR-4 (Sugam) — For Small Business with Presumptive Taxation",
+      "icon": "📝",
+      "type": "text",
+      "content": [
+        "ITR-4 is the 'shortcut' for small business owners and freelancers. Instead of maintaining detailed books and profit & loss, you can assume a fixed profit percentage (8% for business, 50% for professionals) and file a simpler return.",
+        "If your turnover is below the threshold AND you opt for presumptive taxation, ITR-4 is your form.",
+        "Presumptive Taxation Rules (2026): (1) Business turnover < ₹2 Crore: Can assume 8% profit under Section 44AD. (2) Professional income < ₹50 Lakh: Can assume 50% profit under Section 44ADA. (3) IFSC turnover < ₹2 Crore: Can assume 6% profit under Section 44AE.",
+        "Who Benefits from ITR-4: (1) Retail shops (₹30L annual sales = ₹2.4L presumed profit @ 8%). (2) Small online businesses (₹50L sales = ₹4L presumed profit @ 8%). (3) Freelancers/Coaches (₹30L income = ₹15L presumed profit @ 50%). (4) Consultants who don't want to maintain detailed books.",
+        "Huge Advantage: No need to maintain detailed books of accounts, no bills required, no audit needed, no invoice tracking. You just declare turnover and calculate 8%/50% profit.",
+        "Income Tax department mostly accepts this without question (audit rate < 2% for ITR-4).",
+        "Reality Check: If your actual profit is MORE than the presumed rate, you're still legally declaring the LOWER presumed profit. Example: Your online shop makes ₹1Cr turnover with actual ₹30L profit (30% margin).",
+        "Under ITR-4, you declare only ₹8L profit (8%). You save tax on ₹22L income (₹6.6L tax @ 30% slab).",
+        "This is perfectly legal.",
+        "When ITR-4 Backfires: If IT department has evidence (through TDS, GST returns, bank deposits) that your actual income is MUCH higher than 8%/50%, they can reopen the case under Section 147 (best judgment assessment) and add the difference + penalties. So use ITR-4 responsibly — declare actual turnover, let the % do the work.",
+        "ITR-4 vs ITR-3 Decision: Turnover < ₹2Cr and want simplicity? ITR-4.",
+        "Turnover > ₹2Cr or actual profit is >> assumed profit? ITR-3.",
+        "Need deductions beyond 8%/50%? ITR-3 (business deductions can exceed 8% easily)."
+      ]
+    },
+    {
+      "heading": "ITR Form Decision Tree",
+      "icon": "🎯",
+      "type": "table",
+      "columns": [
+        "Question",
+        "Answer",
+        "Next Step"
+      ],
+      "rows": [
+        [
+          "Do you have salary income only?",
+          "Yes",
+          "Go to next question"
+        ],
+        [
+          "Do you have capital gains (stocks/property sold)?",
+          "No",
+          "Go to next question"
+        ],
+        [
+          "Do you have rental income from property?",
+          "No OR Yes (1 property)",
+          "ITR-1 (if income < ₹50L)"
+        ],
+        [
+          "Do you have capital gains OR 2+ rental properties?",
+          "Yes",
+          "ITR-2"
+        ],
+        [
+          "Do you have business or professional income?",
+          "Yes",
+          "Go to next question"
+        ],
+        [
+          "Is your business turnover < ₹2Cr (OR profession income < ₹50L)?",
+          "Yes",
+          "ITR-4 (if using presumptive) OR ITR-3 (if detailed books)"
+        ],
+        [
+          "Is your business turnover > ₹2Cr OR want detailed accounting?",
+          "Yes",
+          "ITR-3"
+        ],
+        [
+          "Are you an NRI?",
+          "Yes",
+          "ITR-2"
+        ]
+      ]
+    },
+    {
+      "heading": "Common Mistakes When Choosing ITR Forms",
+      "icon": "⚠️",
+      "type": "text",
+      "content": [
+        "MISTAKE 1 — Filing ITR-1 with capital gains: The #1 mistake. Salaried person sold ₹5L worth of mutual funds (₹10K gain) and files ITR-1 anyway because 'I'm mainly salaried.' IT department auto-rejects.",
+        "Must file ITR-2. CONSEQUENCE: Return invalid, no refund processed, notice issued, amended return filing required.",
+        "MISTAKE 2 — Freelancers filing ITR-1: Freelance income is professional income (business), NOT salary. Even ₹50K freelance income makes you ineligible for ITR-1.",
+        "Must file ITR-3 or ITR-4. Many salaried professionals unknowingly earn freelance income and miss this.",
+        "CONSEQUENCE: IT notice for misrepresentation of income nature.",
+        "MISTAKE 3 — Not knowing about ITR-4 presumptive benefit: Small business owners file ITR-3 and show profit rates of 15-20%, inviting audits. ITR-4 with 8% presumption goes unnoticed.",
+        "Missed opportunity to reduce effective tax rate by 20-30%.",
+        "MISTAKE 4 — Reporting losses in ITR-1: Sold stocks at loss? Cannot file ITR-1 to claim carry-forward loss.",
+        "Must file ITR-2. If you file ITR-1, the loss is ignored (not carried forward).",
+        "You lose 8 years of loss offset. CONSEQUENCE: Overpayment of tax for 8 years.",
+        "MISTAKE 5 — Business owners mixing personal & business expenses: ITR-3 filers often try to claim personal car fuel, house rent, internet as business expenses (without separating personal use). Auditors spot this immediately.",
+        "CONSEQUENCE: Disallowance of expenses + penalties.",
+        "MISTAKE 6 — Multiple house properties and using ITR-1: You own 2 rental flats. ITR-1 form only allows Schedule 1A (one house property).",
+        "Using ITR-1 means second property is never reported. CONSEQUENCE: IT notice, demand for full tax on both properties + interest + penalties (can be ₹5-10L impact)."
+      ]
+    },
+    {
+      "heading": "ITR Filing Timeline and Penalties (2026)",
+      "icon": "📅",
+      "type": "table",
+      "columns": [
+        "Deadline",
+        "Status",
+        "Penalty"
+      ],
+      "rows": [
+        [
+          "July 31, 2026 (original)",
+          "On-time filing",
+          "None"
+        ],
+        [
+          "August 1 - September 30, 2026",
+          "Late filing",
+          "₹5,000 to ₹25,000 penalty"
+        ],
+        [
+          "October 1 onwards",
+          "Very late filing",
+          "Loss of carry-forward benefits, no refund"
+        ],
+        [
+          "Even after Oct 31",
+          "Ultra-late filing",
+          "Can still file ITR, but interest + penalty accrual continues"
+        ],
+        [
+          "Assessment Year August",
+          "Audit/Scrutiny begins",
+          "Department can demand books, receipts, explanations"
+        ]
+      ]
+    },
+    {
+      "heading": "2026 Changes in ITR Forms",
+      "icon": "🔄",
+      "type": "text",
+      "content": [
+        "ITR Forms Updated: Income Tax department releases revised ITR forms every year. For AY 2026-27 (FY 2025-26 returns), forms are revised for clearer capital gains reporting, cryptocurrency clarity (if applicable), and simplified schedules.",
+        "New Reporting Requirements: Foreign investment earnings now require automatic disclosure (Schedule FA). Digital payments tracking is stricter (no cash transactions above ₹2L without traceability).",
+        "Presumptive Income Changes: Section 44AD (8% business assumption) and 44ADA (50% professional assumption) remain unchanged for 2026. No increase in turnover limits.",
+        "Pre-filled Returns: Income Tax department pre-fills parts of ITR (salary from TDS, interest from banks, mutual fund statements) automatically. You just review and confirm.",
+        "This reduces filing errors significantly."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "I am salaried and sold mutual funds this year. Which ITR should I file?",
+      "answer": "ITR-2 (mandatory). The moment you have capital gains, you graduate from ITR-1 to ITR-2. This is the most common mistake. Many salaried people think 'I'm mainly salaried, I'll file ITR-1,' but the ₹50K or ₹2L capital gain disqualifies them. ITR-1 will be auto-rejected by the system. File ITR-2 to report both salary and capital gains correctly."
+    },
+    {
+      "question": "I have salary + rental income from 2 flats. Should I file ITR-1 or ITR-2?",
+      "answer": "ITR-2 (mandatory). ITR-1 allows only 1 house property rental income. With 2 properties, you MUST use ITR-2. Using ITR-1 will hide the second property from income tax records — leading to a notice later. Filing ITR-2 with both properties is straightforward."
+    },
+    {
+      "question": "I do freelancing on weekends alongside my job. Which form?",
+      "answer": "ITR-3 or ITR-4. Freelance income is professional income, making you ineligible for ITR-1. If your freelance turnover is < ₹50L annually, you can file ITR-4 (assuming 50% presumptive profit = no detailed books needed). If > ₹50L or you want detailed deductions, file ITR-3. Don't attempt ITR-1 — it will be rejected."
+    },
+    {
+      "question": "My business has ₹80L turnover. Should I file ITR-3 or ITR-4?",
+      "answer": "Both are valid options. ITR-4 with 8% presumption = ₹6.4L presumed profit (simpler, no audit needed, lower scrutiny). ITR-3 with actual 15% profit = ₹12L profit (higher tax, but if you truly earn more, you should declare it). Many small businesses opt for ITR-4 for simplicity. Legally, both are correct."
+    },
+    {
+      "question": "I sold stocks at a loss. Must I file ITR-2?",
+      "answer": "Yes. Even if it's a LOSS, you must file ITR-2. The loss can be carried forward for 8 years and set off against future capital gains. If you file ITR-1, the loss is ignored completely — you lose the benefit. ITR-2 preserves this loss benefit for future years."
+    },
+    {
+      "question": "My income is below ₹2.5L tax slab. Do I still need to file ITR?",
+      "answer": "Depends on your income source and reporting obligations. If you're salaried and TDS is deducted, you MUST file ITR to get refund. If you have business turnover > ₹40L (₹10L for profession), you MUST file ITR-3/4 regardless of tax liability. Check incometax.gov.in for mandatory filing criteria each year — they change."
+    }
+  ],
+  "disclaimer": "ITR filing rules, form formats, and deadlines are subject to change annually. This information reflects the 2026 tax year. Verify current details from the official Income Tax Department portal (incometax.gov.in) or consult a Chartered Accountant for personalized advice. Filing the wrong ITR form can result in rejection, notices, and penalties. Always confirm form eligibility before submission.",
+  "related_pages": [
+    {
+      "title": "How to File ITR Online",
+      "slug": "how-to-file-itr",
+      "tag": "Tax Filing",
+      "url": "/paisa/how-to-file-itr"
+    },
+    {
+      "title": "Old vs New Tax Regime",
+      "slug": "old-vs-new-tax-regime",
+      "tag": "Income Tax",
+      "url": "/compare/old-vs-new-tax-regime"
+    },
+    {
+      "title": "Section 80C Deductions Guide",
+      "slug": "section-80c-guide",
+      "tag": "Tax Saving",
+      "url": "/paisa/section-80c-guide"
+    }
+  ],
+  "tags": [
+    "Income Tax",
+    "ITR Forms",
+    "Tax Filing",
+    "ITR-1",
+    "ITR-2",
+    "ITR-3",
+    "ITR-4",
+    "2026"
+  ],
+  "image_suggestions": [
+    "ITR form selection flowchart (Decision tree visual)",
+    "Comparison chart: ITR-1 vs ITR-2 vs ITR-3 vs ITR-4 (side-by-side)",
+    "Income sources by ITR form (Venn diagram showing overlaps)",
+    "Penalty timeline infographic (On-time vs late filing)",
+    "Real-world scenario examples: When to file each ITR",
+    "ITR filing process step-by-step visual"
+  ]
+}

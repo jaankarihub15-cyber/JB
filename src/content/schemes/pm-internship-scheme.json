@@ -1,0 +1,388 @@
+{
+  "slug": "pm-internship-scheme",
+  "title": "PM Internship Scheme (Prime Minister Internship Scheme)",
+  "meta_description": "Paid internships in top 500 companies. ₹5,000/month stipend + ₹6,000 joining allowance. Age 21-24, 12-month internship.",
+  "hero": {
+    "status": "active",
+    "one_liner": "12-month paid internships across India's top 500 companies with government-backed financial support",
+    "icon": "🎓",
+    "updated_date": "March 2026",
+    "stats": [
+      {
+        "label": "Monthly Stipend",
+        "value": "₹5,000"
+      },
+      {
+        "label": "Duration",
+        "value": "12 months"
+      },
+      {
+        "label": "Companies",
+        "value": "Top 500"
+      },
+      {
+        "label": "Sectors",
+        "value": "24 sectors"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "🌐",
+      "label": "Apply Online",
+      "url": "https://pminternship.mca.gov.in"
+    },
+    {
+      "icon": "📋",
+      "label": "Check Eligibility",
+      "url": "https://pminternship.mca.gov.in/eligibility"
+    },
+    {
+      "icon": "📱",
+      "label": "Track Application",
+      "url": "https://pminternship.mca.gov.in/track"
+    }
+  ],
+  "what_is_it": [
+    "The Prime Minister Internship Scheme is a government-backed initiative designed to bridge the gap between academic learning and industry experience. If you're a recent graduate or final-year student aged 21 to 24, this scheme offers you a golden opportunity to work as a paid intern for 12 months in some of India's most reputed companies. Unlike unpaid internships, the government ensures you receive ₹5,000 every month, along with a ₹6,000 one-time joining allowance to help you settle into your internship role.",
+    "This scheme covers 24 diverse sectors spanning information technology, banking, manufacturing, healthcare, energy, automotive, hospitality, and retail. Whether you're interested in coding at a tech giant like TCS, customer service at HDFC Bank, or supply chain management at Reliance Industries, the PM Internship Scheme has opportunities across industries. The program uses AI-powered matching to connect your skills and preferences with suitable companies and roles.",
+    "The financial structure is straightforward: the government contributes ₹4,500 of your monthly stipend through Direct Benefit Transfer (DBT) directly to your bank account, while the participating company adds ₹500 through their Corporate Social Responsibility (CSR) funds. This shared responsibility ensures companies are invested in your growth while the government supports your career development. You also get a hands-on learning experience under industry mentors, making this more than just a paid job—it's a structured learning pathway.",
+    "Think of it as a stepping stone to your career. After 12 months, if you perform well, many companies offer permanent positions or prefer you for future hiring. Even if they don't, you'll have real industry experience, a network of professionals, and the confidence that comes from working in a structured corporate environment. The scheme is particularly valuable for students from low-income households (annual family income up to ₹8 lakh) who might otherwise struggle to afford unpaid internships."
+  ],
+  "eligibility": [
+    {
+      "label": "Age",
+      "value": "21 to 24 years at the time of application",
+      "highlight": true
+    },
+    {
+      "label": "Educational Qualification",
+      "value": "Passed class 12 or holding a diploma, bachelor's, or higher degree",
+      "highlight": false
+    },
+    {
+      "label": "Annual Family Income",
+      "value": "Maximum ₹8 lakh per annum",
+      "highlight": true
+    },
+    {
+      "label": "Nationality",
+      "value": "Indian citizen",
+      "highlight": false
+    },
+    {
+      "label": "Employment Status",
+      "value": "Must not be currently employed in a full-time position",
+      "highlight": false
+    },
+    {
+      "label": "Location",
+      "value": "Can apply from anywhere in India; internship can be based at company office or remote",
+      "highlight": false
+    }
+  ],
+  "eligibility_filters": {
+    "gender": [],
+    "age_min": 21,
+    "age_max": 24,
+    "occupation": [],
+    "income_max": 800000,
+    "category": [],
+    "states": []
+  },
+  "extra_sections": [
+    {
+      "heading": "Stipend Breakdown",
+      "icon": "💰",
+      "type": "table",
+      "columns": [
+        "Component",
+        "Amount",
+        "Paid By",
+        "Payment Method"
+      ],
+      "rows": [
+        [
+          "Monthly Stipend",
+          "₹5,000",
+          "Government (₹4,500) + Company (₹500)",
+          "DBT to bank account"
+        ],
+        [
+          "Joining Allowance",
+          "₹6,000",
+          "Government",
+          "One-time payment upon selection"
+        ],
+        [
+          "Total First Year",
+          "₹66,000",
+          "Government ₹60,000 + Company ₹6,000",
+          "Monthly credits + one-time"
+        ]
+      ]
+    },
+    {
+      "heading": "Sectors and Industries",
+      "icon": "🏢",
+      "type": "text",
+      "content": [
+        "<h3>Where Can You Work?</h3><p>The PM Internship Scheme spans 24 diverse sectors, offering exposure across the Indian economy. You'll find internship opportunities in <strong>Information Technology (IT)</strong>, where companies like TCS, Infosys, and Accenture hire interns for software development, data analysis, and digital marketing roles.",
+        "The <strong>Banking & Financial Services (BFSI)</strong> sector includes major players like HDFC Bank, ICICI Bank, and Axis Bank, offering roles in customer relationship management, accounting, and financial analysis.</p><p>Manufacturing and engineering companies such as Maruti Suzuki, Bharat Petroleum, and Hero MotoCorp provide internships in quality control, production management, and logistics.",
+        "The <strong>Healthcare and FMCG sectors</strong> (like ITC, Nestlé, and Apollo Hospitals) offer exposure to supply chain management, retail operations, and quality assurance.</p><p><h3>Energy and Oil & Gas</h3><p>Companies like NTPC, Indian Oil Corporation, and ONGC offer specialized internships in renewable energy, petroleum operations, and sustainability.",
+        "<strong>Automotive sector</strong> internships focus on vehicle design, manufacturing, and after-sales service, while <strong>hospitality and travel</strong> sectors (ITC Hotels, OYO) provide customer service and operations experience.</p>"
+      ]
+    },
+    {
+      "heading": "Participating Companies (Sample List)",
+      "icon": "⭐",
+      "type": "table",
+      "columns": [
+        "Company",
+        "Sector",
+        "Typical Internship Roles"
+      ],
+      "rows": [
+        [
+          "Tata Consultancy Services (TCS)",
+          "Information Technology",
+          "Software developer, systems engineer, data analyst"
+        ],
+        [
+          "HDFC Bank",
+          "Banking & Finance",
+          "Customer service, operations, retail banking"
+        ],
+        [
+          "Reliance Industries",
+          "Energy & Petrochemicals",
+          "Operations, supply chain, sustainability"
+        ],
+        [
+          "Maruti Suzuki",
+          "Automotive",
+          "Production, quality control, logistics"
+        ],
+        [
+          "ITC Limited",
+          "FMCG & Agribusiness",
+          "Supply chain, sales, product management"
+        ],
+        [
+          "Apollo Hospitals",
+          "Healthcare",
+          "Hospital management, nursing support, IT"
+        ],
+        [
+          "Infosys",
+          "Information Technology",
+          "Software engineering, QA, business analytics"
+        ],
+        [
+          "ONGC",
+          "Oil & Gas",
+          "Engineering, operations, health & safety"
+        ]
+      ]
+    },
+    {
+      "heading": "What Happens After 12 Months?",
+      "icon": "📈",
+      "type": "text",
+      "content": [
+        "<h3>Career Progression Pathways</h3><p>Completing your 12-month internship under the PM Internship Scheme positions you well for multiple career options. If you've performed well and the company finds value in your work, they often offer you a full-time position.",
+        "Many companies have a formal evaluation process in month 10 or 11 to identify high-performing interns for permanent roles.",
+        "The advantage is that they already know your work style, your strengths, and how you fit into their culture.</p><p><h3>If You Don't Get an Offer</h3><p>Even if a permanent position isn't available at your internship company, completing this scheme makes you a more attractive candidate to other employers.",
+        "You now have concrete industry experience, a verifiable work reference, and the confidence of having worked in a professional environment.",
+        "Companies recognize the value of the PM Internship Scheme and prefer candidates with this experience.</p><p><h3>Further Studies or Different Roles</h3><p>Some interns use this 12-month period to explore whether a particular sector or company aligns with their long-term career goals.",
+        "If you decide to pursue postgraduate studies (MBA, specialization courses), the industry exposure and professional network you've built become invaluable.",
+        "You can also use this experience to apply for entry-level positions at other companies, often at a salary level higher than what fresh graduates typically earn.</p><p><h3>Building Your Network</h3><p>Beyond financial benefits, the scheme connects you with senior professionals in your field.",
+        "These mentors and colleagues often become part of your professional network throughout your career. Many interns maintain relationships with their internship companies for future opportunities, freelance work, or consulting engagements.</p>"
+      ]
+    },
+    {
+      "heading": "PM Internship vs Similar Schemes",
+      "icon": "⚖️",
+      "type": "table",
+      "columns": [
+        "Feature",
+        "PM Internship",
+        "PM Sikho Kamao (MP)",
+        "PMKVY"
+      ],
+      "rows": [
+        [
+          "Target Audience",
+          "21-24 years, all states",
+          "Students in Madhya Pradesh",
+          "Unemployed youth, all ages"
+        ],
+        [
+          "Duration",
+          "12 months",
+          "12 months",
+          "3-6 months"
+        ],
+        [
+          "Monthly Stipend",
+          "₹5,000",
+          "₹8,000-₹10,000",
+          "Varies by location"
+        ],
+        [
+          "Job Type",
+          "Internship in companies",
+          "Apprenticeship + studies",
+          "Skill training"
+        ],
+        [
+          "Focus",
+          "Industry experience",
+          "Apprenticeship learning",
+          "Skill certification"
+        ],
+        [
+          "Portal",
+          "pminternship.mca.gov.in",
+          "seekho.gov.in",
+          "pmkvy.gov.in"
+        ]
+      ]
+    }
+  ],
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Check Eligibility",
+      "description": "Verify that you meet all criteria: age 21-24, qualified educationally (class 12 pass or above), family income up to ₹8 lakh annually, and not currently employed in a full-time role."
+    },
+    {
+      "step": 2,
+      "title": "Visit the Official Portal",
+      "description": "Go to <a href=\"https://pminternship.mca.gov.in\" target=\"_blank\">pminternship.mca.gov.in</a> and click on 'Register' or 'Apply Now'. Create an account with your email or phone number."
+    },
+    {
+      "step": 3,
+      "title": "Aadhaar-Based eKYC",
+      "description": "Complete electronic Know Your Customer (eKYC) verification using your Aadhaar number. This is quick and mostly automated. Your Aadhaar data will be verified against government databases."
+    },
+    {
+      "step": 4,
+      "title": "Fill Application Form",
+      "description": "Provide personal details, educational qualification, state/city preferences, and sector preferences. You can choose up to 5 internship opportunities per cycle to apply for. The AI-powered system will match your profile with suitable positions."
+    },
+    {
+      "step": 5,
+      "title": "Select Internships",
+      "description": "Browse the list of available internships and applications. Choose positions that match your skills and career interests. The system will show company name, sector, location, and role details for each opportunity."
+    },
+    {
+      "step": 6,
+      "title": "Wait for Employer Response",
+      "description": "Selected companies will review your application and reach out if they're interested. They may conduct interviews (phone, video, or in-person). Wait for their confirmation of your candidature."
+    },
+    {
+      "step": 7,
+      "title": "Offer Letter and Joining",
+      "description": "Once selected, you'll receive an offer letter with joining date, reporting location, and role details. Complete any pre-joining formalities. Your monthly stipend will be credited from day one."
+    }
+  ],
+  "important_alert": {
+    "text": "<strong>Applications Cycle:</strong> The PM Internship Scheme opens applications in phases throughout the year. The current cycle typically closes by late March 2026. <strong>New cycles open in April.</strong> Keep an eye on the official portal for upcoming batches if you miss the current application window. Aadhaar verification is mandatory—ensure your Aadhaar is linked to your bank account before applying.",
+    "type": "warning"
+  },
+  "important_dates": [
+    {
+      "label": "Current Application Cycle",
+      "value": "Ongoing (closes late March 2026)",
+      "highlight": true
+    },
+    {
+      "label": "Next Cycle Opening",
+      "value": "April 2026",
+      "highlight": true
+    },
+    {
+      "label": "Internship Duration",
+      "value": "12 months from joining date",
+      "highlight": false
+    },
+    {
+      "label": "Stipend Disbursement",
+      "value": "Monthly via DBT (usually by 5th of each month)",
+      "highlight": false
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is there any guarantee of a job after the internship ends?",
+      "answer": "While there's no formal guarantee, high-performing interns are often offered full-time positions by their host companies. The evaluation typically happens in the 10th-11th month. Even if your internship company doesn't offer a permanent role, the experience makes you more attractive to other employers who recognize the value of this scheme."
+    },
+    {
+      "question": "Can I apply if I'm currently pursuing a bachelor's degree?",
+      "answer": "Yes, absolutely. The scheme is open to students in their final year of bachelor's degree or diploma programs. You just need to ensure that you won't have full-time employment commitments during your internship period. Some students take a semester off or complete their internship during their academic break."
+    },
+    {
+      "question": "What if I don't get selected in the first attempt?",
+      "answer": "You can apply again in the next cycle. There's no limit on the number of attempts you can make. Many candidates who weren't selected initially get placed in subsequent cycles. Keep improving your profile—update your resume, gain additional certifications, or develop new skills to make yourself more competitive."
+    },
+    {
+      "question": "Are there any hidden costs or charges to apply?",
+      "answer": "No, the application process is completely free. You don't need to pay any registration fees, exam fees, or processing charges. The scheme is entirely government-funded. Be wary of third-party websites claiming to help you apply—they may charge fees, which is unnecessary."
+    },
+    {
+      "question": "Can I apply if I have some work experience already?",
+      "answer": "Yes, you can apply as long as you're not currently employed in a full-time position. If you've had previous internships, freelance work, or temporary jobs, that won't disqualify you. The scheme is designed to provide structured corporate experience, so prior experience actually strengthens your application."
+    },
+    {
+      "question": "What if the internship location is far from my home?",
+      "answer": "You'll need to arrange accommodation and travel on your own. The ₹6,000 joining allowance can help with initial settling costs, but it's not explicitly for relocation. However, many companies offer remote or hybrid internships, especially post-COVID. You can specify location preferences in your application, and the matching algorithm will consider them."
+    },
+    {
+      "question": "Will the internship certificate be recognized by other companies?",
+      "answer": "Yes, the PM Internship Scheme certificate is widely recognized across Indian companies and industries. It's a government scheme backed by major corporations, so it carries credibility. You'll receive a formal completion certificate mentioning your company, duration, and role, which you can add to your resume and LinkedIn profile."
+    },
+    {
+      "question": "What happens if my selected company cancels or delays my internship?",
+      "answer": "If a company cancels without valid reason, you can report it to the scheme administrators through the portal. The government or the company will need to provide a written explanation. In case of legitimate delays, you'll be informed in advance. You have the option to look for alternative internships in the next cycle if needed."
+    }
+  ],
+  "official_portal": {
+    "name": "PM Internship Scheme Official Portal",
+    "url": "https://pminternship.mca.gov.in"
+  },
+  "related_pages": [
+    {
+      "title": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+      "slug": "pmkvy-skill-india",
+      "tag": "skill-training",
+      "url": "/yojana/pmkvy-skill-india"
+    },
+    {
+      "title": "Jan Samarth Portal",
+      "slug": "jan-samarth",
+      "tag": "government-schemes",
+      "url": "/yojana/jan-samarth"
+    }
+  ],
+  "tags": [
+    "internship",
+    "youth-employment",
+    "skill-development",
+    "stipend",
+    "government-scheme",
+    "career-opportunity"
+  ],
+  "ministry": "Ministry of Corporate Affairs",
+  "launch_year": 2024,
+  "image_suggestions": [
+    "Screenshot of pminternship.mca.gov.in homepage showing application process steps",
+    "Comparison infographic: PM Internship Scheme vs other skill development schemes",
+    "Young professional working on laptop at corporate office desk",
+    "Chart showing salary progression: internship stipend vs entry-level salary after 1 year",
+    "Group photo of diverse interns in corporate office setting",
+    "Step-by-step visual guide to Aadhaar eKYC verification process",
+    "Monthly stipend payment flow diagram (Government ₹4,500 + Company ₹500)",
+    "Icons of different sectors (IT, Banking, Manufacturing, Healthcare, Energy)"
+  ]
+}

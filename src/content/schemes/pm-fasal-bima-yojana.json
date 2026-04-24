@@ -1,0 +1,366 @@
+{
+  "slug": "pm-fasal-bima-yojana",
+  "title": "PM Fasal Bima Yojana",
+  "meta_description": "PM Fasal Bima Yojana 2026 — crop insurance at just 2% premium for kharif, 1.5% for rabi. How to claim, coverage details, eligibility, and how to check.",
+  "hero": {
+    "status": "active",
+    "one_liner": "Crop insurance at minimal premium — 2% for kharif and 1.5% for rabi crops — protecting farmers against natural calamities, pests, and crop diseases",
+    "icon": "🌿",
+    "updated_date": "March 2026",
+    "stats": [
+      {
+        "label": "Kharif Premium",
+        "value": "2% of sum insured"
+      },
+      {
+        "label": "Rabi Premium",
+        "value": "1.5% of sum insured"
+      },
+      {
+        "label": "Claims Paid",
+        "value": "₹1.75+ Lakh Cr"
+      },
+      {
+        "label": "Farmers Covered",
+        "value": "4+ Crore/season"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "📝",
+      "label": "Apply at Bank/CSC",
+      "url": "https://pmfby.gov.in/"
+    },
+    {
+      "icon": "✅",
+      "label": "Check Claim Status",
+      "url": "https://pmfby.gov.in/"
+    },
+    {
+      "icon": "📞",
+      "label": "Helpline: 1800-200-7710",
+      "url": "tel:18002007710"
+    },
+    {
+      "icon": "🔗",
+      "label": "PMFBY Official",
+      "url": "https://pmfby.gov.in/"
+    }
+  ],
+  "what_is_it": [
+    "Pradhan Mantri Fasal Bima Yojana (PMFBY) is a government crop insurance scheme launched on 13 January 2016 to provide financial support to farmers suffering crop loss due to natural calamities, pests, and diseases. The scheme replaced the older National Agricultural Insurance Scheme (NAIS) and Modified NAIS with simpler processes, lower premiums, and faster claim settlement. As of 2026, PMFBY has paid out claims worth over ₹1.75 lakh crore to more than 23 crore farmers, making it the world's largest crop insurance program by coverage.",
+    "Under PMFBY, farmers pay a nominal premium — just 2% of the sum insured for kharif (monsoon) crops and 1.5% for rabi (winter) crops. For commercial and horticultural crops, the premium is 5%. The actual actuarial premium (true cost of insurance) is 15-25% of the sum insured — the government subsidizes the difference, paying 80-85% of the cost. This makes crop insurance affordable even for small and marginal farmers earning minimal cash income.",
+    "PMFBY covers loss of yield due to: non-preventable natural risks (drought, dry spells, flood, inundation, cyclone, typhoon, tempest, hurricane, tornado, earthquake, volcanic eruption, hailstorm), pest and disease attacks (locust, stem borer, root rot), post-harvest losses due to unseasonal rain or cyclone (up to 14 days after harvest), and localized calamities (hailstorm, landslide, inundation affecting individual farms). The scheme does NOT cover losses from wars, riots, strikes, negligence, or self-inflicted damage.",
+    "Since 2020, PMFBY has been made voluntary for all farmers — KCC loanee farmers are automatically enrolled but can opt out, while non-loanee farmers can voluntarily enroll at banks, CSC centers, or through the PMFBY mobile app. The scheme uses satellite imagery, drones, and remote sensing technology for quick crop loss assessment, significantly reducing the time between crop loss and claim payment from 6-9 months to 2-3 months."
+  ],
+  "eligibility": [
+    {
+      "label": "Who can enroll",
+      "value": "All farmers — KCC loanee farmers are auto-enrolled (can opt out), non-loanee farmers enroll voluntarily",
+      "highlight": true
+    },
+    {
+      "label": "Crop coverage",
+      "value": "All food crops (paddy, wheat, maize, pulses), oilseeds, and commercial/horticultural crops notified by government in your district",
+      "highlight": false
+    },
+    {
+      "label": "KCC farmers",
+      "value": "Automatically enrolled from 2020 kharif onwards. Can opt out by submitting written declaration to bank 7 days before enrollment cut-off date.",
+      "highlight": true
+    },
+    {
+      "label": "Non-loanee farmers",
+      "value": "Enroll voluntarily at bank, CSC center, or through PMFBY app/portal. Need land records and crop sowing details only.",
+      "highlight": false
+    },
+    {
+      "label": "Premium (farmer's share)",
+      "value": "Kharif: 2% of sum insured, Rabi: 1.5%, Commercial/Horticultural: 5%. Government pays remaining premium (80-85% of actuarial cost).",
+      "highlight": true
+    },
+    {
+      "label": "Age and land",
+      "value": "Any age can enroll if you're an active farmer. Can be landowner, tenant farmer, or sharecropper. Land records required.",
+      "highlight": false
+    },
+    {
+      "label": "Documents needed",
+      "value": "Aadhaar, bank account details, land records (7/12 extract, pattadar passbook), crop sowing certificate from village officer, optional: recent farm photo for PMFBY app self-declaration",
+      "highlight": false
+    }
+  ],
+  "eligibility_filters": {
+    "gender": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "occupation": [
+      "farmer"
+    ],
+    "income_max": 9999999,
+    "category": [
+      "general",
+      "obc",
+      "sc",
+      "st"
+    ],
+    "states": [
+      "all"
+    ]
+  },
+  "extra_sections": [
+    {
+      "heading": "Premium Calculation — Real World Example",
+      "icon": "💰",
+      "type": "text",
+      "content": [
+        "Let's work through a concrete example so you understand exactly how the premium and claim work.",
+        "Scenario: You grow paddy (kharif crop) on 2 acres in Maharashtra. The government's scale of finance for paddy in your district is ₹50,000 per acre (this varies by state and is updated annually).",
+        "Total sum insured = 2 acres × ₹50,000/acre = ₹1,00,000 (this is the maximum amount you can claim if your crop completely fails)",
+        "Farmer's premium = 2% × ₹1,00,000 = ₹2,000 (you pay this)",
+        "Actual actuarial premium (what insurance really costs) = approximately 20% × ₹1,00,000 = ₹20,000",
+        "Government subsidy = ₹20,000 - ₹2,000 = ₹18,000 (shared between central and state government — usually 50-50)",
+        "Claim scenario: A severe drought hits your district. Your actual paddy yield is 30 quintals per acre, but the expected yield for paddy in your area (based on past 7 years average) is 50 quintals per acre.",
+        "This is a 40% shortfall.",
+        "Your claim = 40% × ₹1,00,000 = ₹40,000 (credited to your bank account within 2-3 months after harvest assessment)",
+        "ROI on insurance: You paid ₹2,000 in premium and received ₹40,000 claim. Return on investment is 20× — one of the best financial products available.",
+        "Even a 10% crop loss would yield ₹10,000 in claims against ₹2,000 premium (5× return).",
+        "Key takeaway: The premium is minimal because the government bears most of the cost. You're not paying full price for insurance — you're paying a small administrative fee while the government covers the risk."
+      ]
+    },
+    {
+      "heading": "Kharif vs Rabi vs Commercial Crops — Premium Differences",
+      "icon": "🌾",
+      "type": "table",
+      "columns": [
+        "Season/Type",
+        "Farmer Premium",
+        "Crops Included",
+        "Examples",
+        "Best Time to Enroll"
+      ],
+      "rows": [
+        [
+          "Kharif (Monsoon)",
+          "2% of sum insured",
+          "Food grains, pulses, oilseeds",
+          "Paddy, maize, pulses, soybean, groundnut",
+          "June 15 – July 31"
+        ],
+        [
+          "Rabi (Winter)",
+          "1.5% of sum insured",
+          "Food grains, pulses, oilseeds",
+          "Wheat, gram, mustard, lentils, barley",
+          "September 15 – December 31"
+        ],
+        [
+          "Commercial/Horticulture",
+          "5% of sum insured",
+          "Cotton, sugarcane, spices, fruits, vegetables",
+          "Cotton, sugarcane, turmeric, mango, apple, onion",
+          "Announced per crop — check PMFBY portal"
+        ],
+        [
+          "Perennial/Plantation",
+          "5% of sum insured",
+          "Long-cycle crops",
+          "Coconut, arecanut, rubber, spices",
+          "Enrollment usually 1-2 months before harvest"
+        ]
+      ]
+    },
+    {
+      "heading": "How to File a Crop Loss Claim — Step by Step",
+      "icon": "📄",
+      "type": "steps",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Report crop loss within 72 hours of damage",
+          "description": "As soon as you notice crop loss (due to hailstorm, flood, pest attack), immediately report to: (a) Your bank branch (if KCC holder), (b) Local agriculture office or block development officer, (c) PMFBY toll-free: 1800-200-7710, (d) PMFBY mobile app — take multiple photos of damaged crop and upload. This 72-hour window is critical — late reporting may result in claim rejection."
+        },
+        {
+          "step": 2,
+          "title": "Get village officer's damage certificate (for localized claims)",
+          "description": "For localized calamities (hailstorm affecting your farm only, landslide, inundation), obtain a damage/loss certificate from your village officer (Gram Panchayat secretary or Patwari). Include: photos of damage, area affected (in hectares), estimated percentage loss, and officer's signature and seal. This is your crucial evidence for insurance company surveyor."
+        },
+        {
+          "step": 3,
+          "title": "Wait for Crop Cutting Experiment (CCE) data or surveyor visit",
+          "description": "For area-based claims (drought, flood affecting entire village/district), the government and insurance company conduct Crop Cutting Experiments (CCEs). They measure actual yield in your area vs expected yield. You don't need to do anything — this is automatic. For individual claims (localized damage), the insurance company sends a surveyor within 10 days. Cooperate with the surveyor and provide all evidence."
+        },
+        {
+          "step": 4,
+          "title": "Submit claim with supporting documents",
+          "description": "Forward to your bank (KCC holders) or insurance company (non-KCC): village officer damage certificate (for localized claims), CCE report (for area-based claims), photos of damage, PMFBY policy number or enrollment confirmation, land records, and bank account details for claim transfer. Processing takes 2-3 weeks for individual claims, 2-3 months for area-based claims (after harvest data compilation)."
+        },
+        {
+          "step": 5,
+          "title": "Claim amount credited to your bank account",
+          "description": "Once approved, the claim amount (₹40,000 in our earlier example) is directly credited to your Aadhaar-linked bank account within the stated timeframe. You can withdraw immediately. If rejected, the insurance company sends written reasons via SMS/email. You can file a grievance on the PMFBY portal or escalate to the District Level Monitoring Committee."
+        }
+      ]
+    },
+    {
+      "heading": "How to Check Your Claim Status Online",
+      "icon": "🔍",
+      "type": "text",
+      "content": [
+        "Method 1 — PMFBY Portal (pmfby.gov.in): Visit pmfby.gov.in → 'Application Status' → enter your application number, policy number, or Aadhaar number → view real-time status including: enrollment confirmation, premium paid status, claim submitted date, assessment stage (CCE in progress, approved, rejected), approved claim amount, and payment status (awaiting disbursement, credited, returned).",
+        "Method 2 — PMFBY Mobile App: Download 'Crop Insurance' app from Google Play Store → login with registered mobile number or Aadhaar → view all details of your enrolled crops, premium payment history, claim status, and notification alerts. The app also has complaint/grievance filing option.",
+        "Method 3 — Contact Insurance Company: Each district has a designated insurance company (LIC, IFFCO Tokio, Bajaj, HDFC ERGO, etc.). Find their contact details on the PMFBY portal under 'District' section.",
+        "Call their office directly with your policy number for claim status update.",
+        "Method 4 — Bank Branch: If you're a KCC loanee farmer, your bank can check claim status for you. Visit the branch where your KCC is held, provide policy number, and ask the loan officer to check PMFBY portal on your behalf.",
+        "Method 5 — PMFBY Call Center: Call toll-free 1800-200-7710 (available in 11 languages). Provide your policy number and phone number linked to enrollment.",
+        "The operator will check and provide real-time status update."
+      ]
+    },
+    {
+      "heading": "What PMFBY Does NOT Cover",
+      "icon": "⚠️",
+      "type": "text",
+      "content": [
+        "PMFBY covers natural calamities and pests, but explicitly excludes: (1) Losses from wars, riots, strikes, or civil unrest, (2) Negligence — if you failed to irrigate despite water availability, didn't apply recommended pesticides, (3) Self-inflicted damage — intentionally setting fire to crop, (4) Crop damage from wild animals or birds — these are excluded, (5) Losses from post-harvest mismanagement — if crop rots in storage due to poor handling, (6) Crops not notified by the government for your district that season, (7) Loss of profit or reduction in income (only physical loss is covered), (8) Crop damage from user negligence like over-fertilization or improper spraying, (9) Loss due to non-availability of water (water stress is covered only if it constitutes 'drought' officially declared by government).",
+        "Important: If your crop fails due to something NOT covered by PMFBY, you cannot claim. This is why it's crucial to understand what's covered before enrolling.",
+        "However, the list of covered natural calamities is quite comprehensive — most crop losses in India fall within covered categories."
+      ]
+    }
+  ],
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "For KCC farmers: You're auto-enrolled (opt-out if not wanted)",
+      "description": "If you have KCC and grow a notified crop, you're automatically enrolled in PMFBY from 2020 kharif onwards. The ₹20 premium (kharif) or ₹15 premium (rabi) is automatically deducted from your KCC account. To opt out: submit written declaration to bank at least 7 days before the enrollment cut-off date (usually July 31 for kharif, December 31 for rabi)."
+    },
+    {
+      "step": 2,
+      "title": "For non-KCC farmers: Enroll voluntarily before deadline",
+      "description": "Visit any bank, CSC center, or enroll online at pmfby.gov.in or PMFBY app before enrollment deadline: Kharif: July 31 (varies by state, check PMFBY portal), Rabi: December 31. You need: Aadhaar, bank passbook, land records (7/12 extract), crop sowing certificate, and enrollment fee (2-5% depending on crop)."
+    },
+    {
+      "step": 3,
+      "title": "Pay premium and get enrollment confirmation",
+      "description": "Premium is deducted from your bank account or collected via CSC operator. You receive: SMS confirmation of enrollment, policy number, and PMFBY card. Save the policy number — you'll need it for claim filing."
+    },
+    {
+      "step": 4,
+      "title": "Keep enrollment documents safe for claim filing",
+      "description": "Save: enrollment confirmation SMS, policy number, land records, sowing certificate. When crop loss happens, you'll submit these with claim documents. If enrollment is online via app, take screenshots of confirmation."
+    }
+  ],
+  "important_alert": {
+    "text": "Report crop loss within 72 hours of damage using PMFBY app, toll-free 1800-200-7710, or at your bank/agriculture office. Late reporting may result in claim rejection. Take clear photos of damaged crop immediately as evidence. For area-based claims (drought, flood), no immediate reporting is needed — the government conducts automatic assessment after harvest.",
+    "type": "warning"
+  },
+  "important_dates": [
+    {
+      "label": "Kharif enrollment deadline",
+      "value": "July 31 every year (varies by state; check state government notification)",
+      "highlight": true
+    },
+    {
+      "label": "Rabi enrollment deadline",
+      "value": "December 31 every year (varies by state)",
+      "highlight": true
+    },
+    {
+      "label": "Kharif coverage period",
+      "value": "June 1 – October 31 (crop loss report deadline: 14 days after harvest or December 31, whichever is earlier)",
+      "highlight": false
+    },
+    {
+      "label": "Rabi coverage period",
+      "value": "December 1 – April 30 (crop loss report deadline: 14 days after harvest or May 31, whichever is earlier)",
+      "highlight": false
+    },
+    {
+      "label": "Commercial crop enrollment",
+      "value": "As notified by government (usually 1 month before sowing); check PMFBY portal for crop-wise deadlines",
+      "highlight": false
+    },
+    {
+      "label": "Claim processing timeline",
+      "value": "Area-based claims: 2-3 months after harvest data compiled; Individual claims: 30-45 days from surveyor assessment",
+      "highlight": false
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is PMFBY still mandatory for KCC holders or voluntary now?",
+      "answer": "PMFBY became voluntary from the 2020 kharif season onwards for all farmers, including KCC holders. Previously, it was mandatory for KCC loanees. Now, KCC holders are auto-enrolled by default, but can submit a written opt-out declaration to their bank at least 7 days before the enrollment cut-off date. However, enrollment is strongly recommended — the premium is minimal and protection is comprehensive."
+    },
+    {
+      "question": "How do I know which crops are covered in my district?",
+      "answer": "Not all crops are notified everywhere. Visit pmfby.gov.in → 'Notification' section → select your state and district → view the list of notified crops for that season. Only notified crops are covered. If your crop isn't listed, it's not insured under PMFBY that season. You can grow it at your own risk, or choose an alternative notified crop. Check the portal in May (for kharif) and September (for rabi) when notifications are updated."
+    },
+    {
+      "question": "My PMFBY claim was rejected. What are my options?",
+      "answer": "First, check the rejection reason on pmfby.gov.in or contact the insurance company. Common rejection reasons: (1) Late enrollment (after cut-off date), (2) Crop not notified in your district, (3) Loss not due to covered risk (e.g., wild animal damage), (4) Insufficient documentation. If you believe the rejection is unjust, file a grievance on pmfby.gov.in or escalate to the District Level Monitoring Committee (DLMC) headed by your District Collector. DLMC review takes 15-30 days."
+    },
+    {
+      "question": "How is the claim amount calculated if my crop loss is 30%?",
+      "answer": "Claim is based on 'area approach' — if the average yield of your crop in your insurance unit (usually a village or group of villages) falls below the threshold yield (calculated from past 7 years' average), compensation is paid. If the shortfall is 30%, you get 30% of your sum insured. Example: Sum insured ₹1 lakh, 30% shortfall = ₹30,000 claim. This isn't 'indemnity' (full loss) insurance but 'parametric' insurance — payout is linked to area-wide yield, not your individual loss."
+    },
+    {
+      "question": "Does PMFBY cover crop damage from wild animals or birds?",
+      "answer": "No. Damage from wild animals, birds, or stray livestock is specifically NOT covered under PMFBY. The scheme covers natural calamities (drought, flood, hail, cyclone), pests (locust, stem borer), and crop diseases. If your crop is damaged by wild boar or peacock, you cannot claim PMFBY. This is a major limitation for farmers in wildlife-prone areas. You may need to invest in farm fencing or seek compensation from state wildlife departments (which have separate schemes)."
+    },
+    {
+      "question": "I'm a tenant farmer growing on leased land. Can I get PMFBY cover?",
+      "answer": "Yes. Tenant farmers and sharecroppers are fully eligible for PMFBY. You need: (1) Lease agreement or Crop Sharing Certificate from landowner, (2) Copy of land records in landowner's name, (3) Aadhaar card, (4) Bank account. Enrollment process is the same as for landowners. The claim (if crop fails) is paid to your bank account."
+    },
+    {
+      "question": "What if the insurance company's crop loss assessment seems wrong?",
+      "answer": "You have the right to file an objection. If you believe the Crop Cutting Experiment (CCE) yield assessment is incorrect: (1) Request a re-CCE within 7 days of CCE completion, (2) File a grievance on pmfby.gov.in with supporting evidence (photo, soil test, expert report), (3) Escalate to DLMC or insurance ombudsman. The re-CCE can increase your approved claim amount if actual loss was underestimated. This process takes 30-45 days."
+    },
+    {
+      "question": "Can I check my claim status if I enrolled online through the PMFBY app?",
+      "answer": "Yes. Login to the PMFBY app with the same mobile number and Aadhaar you used for enrollment. The app shows real-time claim status: claim submitted, under assessment, approved (with amount), rejected (with reason), or awaiting bank transfer. You can also check on pmfby.gov.in portal or call 1800-200-7710."
+    }
+  ],
+  "official_portal": {
+    "name": "PMFBY Official Portal",
+    "url": "https://pmfby.gov.in"
+  },
+  "related_pages": [
+    {
+      "title": "PM Kisan Samman Nidhi",
+      "slug": "pm-kisan",
+      "tag": "Agriculture",
+      "url": "/yojana/pm-kisan"
+    },
+    {
+      "title": "Kisan Credit Card (KCC)",
+      "slug": "pm-kisan-credit-card",
+      "tag": "Agriculture",
+      "url": "/yojana/pm-kisan-credit-card"
+    },
+    {
+      "title": "PM KUSUM Yojana (Solar Pumps)",
+      "slug": "pm-kusum-yojana",
+      "tag": "Solar",
+      "url": "/yojana/pm-kusum-yojana"
+    }
+  ],
+  "tags": [
+    "Agriculture",
+    "Crop Insurance",
+    "Farmer",
+    "Natural Calamity",
+    "Central Government"
+  ],
+  "ministry": "Ministry of Agriculture and Farmers Welfare",
+  "launch_year": 2016,
+  "image_suggestions": [
+    "Farmer in flooded paddy field with PMFBY logo",
+    "Satellite image showing drought-affected area",
+    "Claim approval certificate displayed on mobile app",
+    "CSC center with PMFBY enrollment banner",
+    "Success story: Farmer receiving claim payment",
+    "Comparison table of premiums across crop types"
+  ]
+}

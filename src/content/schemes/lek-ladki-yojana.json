@@ -1,0 +1,464 @@
+{
+  "slug": "lek-ladki-yojana",
+  "title": "Lek Ladki Yojana (Maharashtra)",
+  "meta_description": "₹1,01,000 financial support for girls born after April 1, 2023 in Maharashtra. 5 installments for education and welfare.",
+  "hero": {
+    "status": "active",
+    "one_liner": "₹1,01,000 direct financial support for girls' education and empowerment in Maharashtra",
+    "icon": "👧",
+    "updated_date": "March 2026",
+    "stats": [
+      {
+        "label": "Total Benefit",
+        "value": "₹1,01,000"
+      },
+      {
+        "label": "Installments",
+        "value": "5 stages"
+      },
+      {
+        "label": "Final Amount",
+        "value": "₹75,000 at 18"
+      },
+      {
+        "label": "State",
+        "value": "Maharashtra"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "🌐",
+      "label": "Apply Online",
+      "url": "https://lly.mhicds.com"
+    },
+    {
+      "icon": "📋",
+      "label": "Check Eligibility",
+      "url": "https://ladakibahin.maharashtra.gov.in"
+    },
+    {
+      "icon": "🏢",
+      "label": "Visit Anganwadi",
+      "url": "https://www.anganwadi.gov.in"
+    }
+  ],
+  "what_is_it": [
+    "The Lek Ladki Yojana is Maharashtra's flagship scheme for empowering girls through direct financial support. Launched on April 1, 2023, this scheme reflects the state government's commitment to girl-child welfare and education. 'Lek Ladki' means 'daughter' in Marathi, and the scheme literally puts money into the hands of families with daughters. If you have a daughter or granddaughter born on or after April 1, 2023, in Maharashtra, the government will provide ₹1,01,000 over the course of her childhood and early adulthood.",
+    "The scheme isn't just about handouts—it's strategically designed to support critical milestones in a girl's life. The money is released in five carefully timed installments: ₹5,000 at birth, ₹4,000 when she enters school, ₹6,000 at the transition to middle school, ₹8,000 when she enters high school, and a substantial ₹75,000 lump sum when she turns 18. This structure ensures that funds are available exactly when families face financial pressure (school admissions, uniforms, books, preparation for higher education).",
+    "What makes Lek Ladki Yojana unique is its focus on the girl's future. The ₹75,000 final installment at age 18 is meant to support her pursuit of higher education, vocational training, or even entrepreneurship. It's enough to cover two years of college fees at a decent institution or provide seed capital for starting a small business. This amount empowers young women to make independent choices about their futures rather than being confined by family financial constraints.",
+    "The scheme is open to families holding yellow (BPL—Below Poverty Line) or saffron (APL—Above Poverty Line but economically weak) ration cards, with annual family income capped at ₹1,00,000. The government has integrated this with Aadhaar and digital banking systems, making the application process relatively simple. Beneficiary numbers are increasing rapidly—as of 2026, hundreds of thousands of girls in Maharashtra are covered under this scheme, with more applications being processed regularly."
+  ],
+  "eligibility": [
+    {
+      "label": "Birth Date",
+      "value": "Born on or after April 1, 2023",
+      "highlight": true
+    },
+    {
+      "label": "State of Residence",
+      "value": "Permanent resident of Maharashtra with bank account in Maharashtra",
+      "highlight": true
+    },
+    {
+      "label": "Family Income",
+      "value": "Annual family income should not exceed ₹1,00,000",
+      "highlight": true
+    },
+    {
+      "label": "Ration Card",
+      "value": "Family must hold Yellow (BPL) or Saffron (APL) ration card",
+      "highlight": true
+    },
+    {
+      "label": "Number of Daughters",
+      "value": "Scheme applicable to first and second daughters only",
+      "highlight": false
+    },
+    {
+      "label": "Age Requirement",
+      "value": "Girl must be alive at the time of claiming each installment",
+      "highlight": false
+    },
+    {
+      "label": "Father/Guardian Status",
+      "value": "Father should be alive at birth. If not, mother or legal guardian can apply",
+      "highlight": false
+    }
+  ],
+  "eligibility_filters": {
+    "gender": [
+      "girl"
+    ],
+    "age_min": 0,
+    "age_max": 3,
+    "occupation": [],
+    "income_max": 100000,
+    "category": [],
+    "states": [
+      "Maharashtra"
+    ]
+  },
+  "extra_sections": [
+    {
+      "heading": "Five Installments: Timing and Amount",
+      "icon": "💰",
+      "type": "table",
+      "columns": [
+        "Installment",
+        "Age/Stage",
+        "Amount",
+        "Purpose & Timing"
+      ],
+      "rows": [
+        [
+          "First",
+          "At birth (0 years)",
+          "₹5,000",
+          "Hospital/delivery costs, initial care; claimed from Anganwadi center"
+        ],
+        [
+          "Second",
+          "School admission (5-6 years)",
+          "₹4,000",
+          "School enrollment, uniform, books; claimed with school admission form"
+        ],
+        [
+          "Third",
+          "Class VI admission (10-11 years)",
+          "₹6,000",
+          "Middle school supplies, stationery, transport; ensures girls continue schooling"
+        ],
+        [
+          "Fourth",
+          "Class XI admission (15-16 years)",
+          "₹8,000",
+          "High school preparation, science materials, competitive exam fees"
+        ],
+        [
+          "Fifth",
+          "Age 18 years",
+          "₹75,000",
+          "College admission, professional courses, or starting a business"
+        ]
+      ]
+    },
+    {
+      "heading": "",
+      "type": "svg_block",
+      "svg": "<svg viewBox=\"0 0 700 170\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Lek Ladki Yojana — benefit stages</text><rect x=\"30\" y=\"50\" width=\"120\" height=\"95\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"90\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#145236\">At birth</text><text x=\"90\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"18\" font-weight=\"800\" fill=\"#1B6B4A\">₹5,000</text><text x=\"90\" y=\"118\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#145236\">In bank account</text><rect x=\"165\" y=\"50\" width=\"120\" height=\"95\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"225\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#1E40AF\">Class 1</text><text x=\"225\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"18\" font-weight=\"800\" fill=\"#2563EB\">₹4,000</text><text x=\"225\" y=\"118\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#1E40AF\">School enrollment</text><rect x=\"300\" y=\"50\" width=\"120\" height=\"95\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"360\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#C2410C\">Class 6</text><text x=\"360\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"18\" font-weight=\"800\" fill=\"#EA580C\">₹6,000</text><text x=\"360\" y=\"118\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#C2410C\">Continuation</text><rect x=\"435\" y=\"50\" width=\"120\" height=\"95\" rx=\"10\" fill=\"#F3E8FF\" stroke=\"#7C3AED\" stroke-width=\"2\"/><text x=\"495\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#6B21A8\">Class 11</text><text x=\"495\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"18\" font-weight=\"800\" fill=\"#7C3AED\">₹8,000</text><text x=\"495\" y=\"118\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B21A8\">Higher secondary</text><rect x=\"570\" y=\"50\" width=\"120\" height=\"95\" rx=\"10\" fill=\"#1B6B4A\"/><text x=\"630\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"white\">Age 18</text><text x=\"630\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"18\" font-weight=\"800\" fill=\"white\">₹75,000</text><text x=\"630\" y=\"118\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#DCFCE7\">Lumpsum at 18</text></svg>",
+      "caption": "Total benefit: ₹98,000 per girl child from birth to age 18. The ₹75,000 lumpsum at 18 can be used for higher education, skill training, or marriage expenses."
+    },
+    {
+      "heading": "Lek Ladki vs Similar State Schemes",
+      "icon": "⚖️",
+      "type": "table",
+      "columns": [
+        "Feature",
+        "Lek Ladki (Maharashtra)",
+        "Kanya Sumangala (UP)",
+        "Sukanya Samriddhi Account"
+      ],
+      "rows": [
+        [
+          "Target Age",
+          "Born after April 1, 2023",
+          "Birth to age 18",
+          "Age 0-10 years"
+        ],
+        [
+          "Total Benefit",
+          "₹1,01,000",
+          "₹15,000",
+          "Upto ₹64 lakh (savings scheme)"
+        ],
+        [
+          "Type of Benefit",
+          "Direct cash transfer (DBT)",
+          "Direct benefit transfer",
+          "Savings account with interest"
+        ],
+        [
+          "Income Limit",
+          "₹1,00,000 annual family income",
+          "₹12,00,000 annual family income",
+          "No income limit"
+        ],
+        [
+          "Ration Card Required",
+          "Yes (Yellow or Saffron)",
+          "No",
+          "No (any family can open)"
+        ],
+        [
+          "Number of Children",
+          "First 2 daughters only",
+          "Max 2 daughters",
+          "Only 1 account per girl"
+        ],
+        [
+          "Features",
+          "Cash at milestones",
+          "Cash transfer",
+          "Compulsory saving + interest"
+        ]
+      ]
+    },
+    {
+      "heading": "Documents Required at Each Stage",
+      "icon": "📄",
+      "type": "table",
+      "columns": [
+        "Stage",
+        "When to Apply",
+        "Required Documents",
+        "Where to Submit"
+      ],
+      "rows": [
+        [
+          "Birth Installment (₹5,000)",
+          "Within 2 months of birth",
+          "Birth certificate, Aadhaar (girl), Aadhaar (parents), ration card, bank passbook photocopy",
+          "Anganwadi center or ASHA worker"
+        ],
+        [
+          "School Admission (₹4,000)",
+          "When girl enters Class I (age 5-6)",
+          "Birth certificate, Aadhaar, school admission certificate, voter ID (father if alive)",
+          "Anganwadi center or school"
+        ],
+        [
+          "Class VI Admission (₹6,000)",
+          "When girl enters Class VI (age 10-11)",
+          "Previous school certificate, Class VI admission letter, Aadhaar, school ID",
+          "Anganwadi center or school"
+        ],
+        [
+          "Class XI Admission (₹8,000)",
+          "When girl enters Class XI (age 15-16)",
+          "Class X certificate, Class XI admission letter, school marksheet, Aadhaar",
+          "School authorities or dedicated office"
+        ],
+        [
+          "Age 18 Lump Sum (₹75,000)",
+          "When girl turns 18 years",
+          "Birth certificate, voter ID, marriage certificate (self-declaration of unmarried), college admission letter (if pursuing further education), Aadhaar",
+          "Municipal office, Tahsildar office, or dedicated grievance center"
+        ]
+      ]
+    },
+    {
+      "heading": "How to Claim Each Installment",
+      "icon": "📋",
+      "type": "text",
+      "content": [
+        "<h3>First Installment: Birth Amount (₹5,000)</h3><p>This is usually the simplest to claim. Within 2 months of your daughter's birth, visit your local Anganwadi center with the birth certificate and Aadhaar documents.",
+        "The ASHA worker (Accredited Social Health Activist) or Anganwadi worker helps you fill the application form. No long paperwork or complicated procedures—just present the documents, and the form is processed.",
+        "The amount is transferred directly to your registered bank account within 15-30 days.</p><p><h3>Second Installment: School Entry (₹4,000)</h3><p>When your daughter is 5-6 years old and gets admitted to Class I, take her school admission letter to the Anganwadi center or the school's designated nodal officer. Provide her Aadhaar, school enrollment certificate, and the girl's birth certificate.",
+        "The school may also help with the documentation. This amount supports the initial school expenses like uniform, books, and bag.</p><p><h3>Third Installment: Class VI Transition (₹6,000)</h3><p>This transition from primary to middle school is critical—many girls drop out here.",
+        "The ₹6,000 helps cover supplies for the bigger school and encourages continuation. Collect the Class VI admission letter from the school and visit the Anganwadi center or district ICDS office with the admission documents and Aadhaar.",
+        "Processing typically takes 10-15 days.</p><p><h3>Fourth Installment: Class XI Entry (₹8,000)</h3><p>When your daughter enters Class XI (age 15-16), this is an important juncture for higher studies. Collect the admission letter from Class XI, previous school's Class X passing certificate, and current Aadhaar.",
+        "Contact your taluka's designated office or the municipal corporation education department. This amount helps with higher school materials, particularly if she's choosing science or commerce streams with additional expenses.</p><p><h3>Final Installment: Turning 18 (₹75,000)</h3><p>This is the largest and most significant amount.",
+        "When your daughter turns 18, she'll need several documents: valid voter ID (proof of age), a self-declaration affidavit stating she's unmarried (many states mandate this to encourage girls to delay marriage), birth certificate, and if applicable, college admission letter or vocational course enrollment.",
+        "Visit the Tahsildar's office or the district's dedicated Lek Ladki nodal agency with these documents.",
+        "Processing may take 20-30 days as this is a larger amount. The money can be used for college fees, professional courses (engineering, medicine, nursing), vocational training, or to start a small business.</p>"
+      ]
+    },
+    {
+      "heading": "Application Process and Required Steps",
+      "icon": "✅",
+      "type": "steps",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Check Eligibility",
+          "description": "Verify that your daughter was born on or after April 1, 2023, your family holds a Yellow or Saffron ration card, annual family income doesn't exceed ₹1,00,000, and your bank account is in Maharashtra."
+        },
+        {
+          "step": 2,
+          "title": "Register at Anganwadi Center",
+          "description": "Visit your local Anganwadi center (search 'Anganwadi near me') with birth certificate, Aadhaar (girl), Aadhaar (mother and father), ration card, and bank passbook. The ASHA worker helps with initial registration."
+        },
+        {
+          "step": 3,
+          "title": "Apply Online (ICDS Portal)",
+          "description": "Register on the Maharashtra ICDS portal (lly.mhicds.com) or visit https://ladakibahin.maharashtra.gov.in for online application. Many applicants now apply online, which speeds up processing."
+        },
+        {
+          "step": 4,
+          "title": "Document Verification",
+          "description": "Anganwadi or Tahsildar office verifies your documents. They check income certificate, ration card authenticity, and beneficiary details. This typically takes 7-10 days."
+        },
+        {
+          "step": 5,
+          "title": "Receive First Installment",
+          "description": "Once approved, the first ₹5,000 is transferred to your registered bank account via DBT. You'll receive an SMS from your bank confirming the transfer."
+        },
+        {
+          "step": 6,
+          "title": "Claim Subsequent Installments",
+          "description": "For each subsequent installment, submit relevant documents (school admission letter, Aadhaar, etc.) at the appropriate time to the nodal agency."
+        }
+      ]
+    },
+    {
+      "heading": "Income Verification and Ration Card Requirements",
+      "icon": "🔍",
+      "type": "text",
+      "content": [
+        "<h3>Why the ₹1,00,000 Annual Income Limit?</h3><p>The ₹1,00,000 annual family income cap ensures the scheme reaches economically weaker sections. This income limit includes earnings from all family members—father, mother, and any adult siblings working.",
+        "If your family earns slightly above this, you might not be eligible, but the online portal can help you calculate your exact income situation.</p><p><h3>Ration Card: Gateway Document</h3><p>The ration card is your primary eligibility proof. Yellow ration cards are for BPL (Below Poverty Line) families, and Saffron cards are for APL (Above Poverty Line) families facing economic hardship.",
+        "If your family doesn't have a ration card, you'll need to get one first from the Public Distribution System (PDS) office in your district.",
+        "Many families delay the scheme application because of ration card issues—getting this sorted early is crucial.</p><p><h3>Income Certificate</h3><p>You'll also need an income certificate from the Tahsildar confirming your annual family income doesn't exceed ₹1,00,000.",
+        "Tahsildar offices issue these certificates free of cost. You can apply for an income certificate online through your district's e-governance portal or by visiting the Tahsildar office in person with self-declaration, ration card, and bank statements.</p><p><h3>Bank Account Requirement</h3><p>The beneficiary (girl) must have a bank account in her name in a Maharashtra-based bank.",
+        "Most parents open a savings account for the baby immediately after birth at a nearby bank branch—it's a simple process. If you don't have an account yet, visit any nationalized or private bank branch and open a zero-balance savings account.",
+        "You'll need birth certificate and Aadhaar. This account will receive all installment payments.</p>"
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "heading": "Family income limit",
+      "content": "The scheme is for families with annual income below ₹1 lakh (yellow ration card holders) in Maharashtra. The girl must be born on or after April 1, 2023. Both parents must have Aadhaar, and the girl's birth must be registered. Benefits are transferred directly to the girl's bank account linked to Aadhaar."
+    }
+  ],
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Gather Essential Documents",
+      "description": "Collect your daughter's birth certificate, Aadhaar card (girl), Aadhaar cards of both parents, yellow or saffron ration card photocopy, first page of bank passbook, and income certificate (issued by Tahsildar). Keep digital scans ready if applying online."
+    },
+    {
+      "step": 2,
+      "title": "Locate Your Anganwadi Center",
+      "description": "Find your nearest Anganwadi center using the portal https://www.anganwadi.gov.in or ask your ASHA worker. Anganwadi centers are in every neighborhood and serve as the first point of contact for the scheme."
+    },
+    {
+      "step": 3,
+      "title": "Offline Registration (Most Common)",
+      "description": "Visit the Anganwadi center with documents in hand. The ASHA worker will fill the application form for you (you don't need to write anything). Provide the original documents for verification. The worker scans and submits your application."
+    },
+    {
+      "step": 4,
+      "title": "Online Registration (Alternative)",
+      "description": "Visit the Maharashtra ICDS portal at <a href=\"https://lly.mhicds.com\" target=\"_blank\">lly.mhicds.com</a> or <a href=\"https://ladakibahin.maharashtra.gov.in\" target=\"_blank\">ladakibahin.maharashtra.gov.in</a>. Register using Aadhaar. Upload document scans (birth certificate, ration card, Aadhaar, bank passbook). Online submission is faster—you'll get a registration number immediately."
+    },
+    {
+      "step": 5,
+      "title": "Verification and Approval",
+      "description": "The Tahsildar or district ICDS office verifies your documents. This takes 10-20 days. They check if the ration card is valid, income doesn't exceed the limit, and all documents are genuine. You'll be notified of approval via SMS."
+    },
+    {
+      "step": 6,
+      "title": "Receive Payment Confirmation",
+      "description": "Once approved, the first ₹5,000 installment is transferred to your registered bank account. You'll receive an SMS from your bank. Check your account to confirm receipt."
+    },
+    {
+      "step": 7,
+      "title": "Claim Future Installments",
+      "description": "For school admission stages, collect school admission letters and visit the designated office with updated Aadhaar. The subsequent installments are processed faster because your account is already verified."
+    }
+  ],
+  "important_alert": {
+    "text": "<strong>Deadline for Birth Registration:</strong> Apply within 2 months of birth to avoid delays. <strong>Marriage Before 18:</strong> If your daughter gets married before age 18, the final ₹75,000 installment may be forfeited depending on state guidelines. <strong>Document Updates:</strong> Always keep Aadhaar and bank account details updated. Address changes or new phone numbers should be updated at the Anganwadi center or online portal. <strong>Beware of Fraud:</strong> Never pay anyone for application processing. Government staff don't charge for Lek Ladki applications. <strong>Online Safety:</strong> Use only official portals (lly.mhicds.com or ladakibahin.maharashtra.gov.in). Fraudsters create fake websites claiming faster processing.",
+    "type": "warning"
+  },
+  "important_dates": [
+    {
+      "label": "Scheme Start Date",
+      "value": "April 1, 2023",
+      "highlight": false
+    },
+    {
+      "label": "Eligible Birth Date",
+      "value": "Born on or after April 1, 2023",
+      "highlight": true
+    },
+    {
+      "label": "First Installment Window",
+      "value": "Within 2 months of birth",
+      "highlight": true
+    },
+    {
+      "label": "School Admission Claim",
+      "value": "When girl enters Class I (age 5-6 years)",
+      "highlight": false
+    },
+    {
+      "label": "Final Installment",
+      "value": "When girl turns 18 years old",
+      "highlight": true
+    }
+  ],
+  "faqs": [
+    {
+      "question": "My daughter was born before April 1, 2023. Can she still apply?",
+      "answer": "No, the Lek Ladki Yojana is exclusively for girls born on or after April 1, 2023. This date was chosen to align with the financial year and ensure systematic implementation. If your daughter was born earlier, you may explore other schemes like Sukanya Samriddhi Account (a national scheme with no age restrictions) or Kanya Sumangala Yojana in UP if you're residents of Uttar Pradesh."
+    },
+    {
+      "question": "What if my family income exceeds ₹1,00,000 by a small amount?",
+      "answer": "The income limit is strict at ₹1,00,000 per annum. If your family income exceeds this, your daughter won't be eligible, even if it's only by ₹5,000. However, you can still apply and provide a self-declaration or income certificate showing your actual income. If the Tahsildar's verification confirms income above ₹1,00,000, the application will be rejected. Some families adjust their income declaration based on agricultural or business nature of work—ensure you provide accurate figures."
+    },
+    {
+      "question": "Can I apply if my daughter doesn't have an Aadhaar yet?",
+      "answer": "Technically, Aadhaar is required for the scheme, but you can apply for it simultaneously. Most Anganwadi workers help you apply for Aadhaar through the UIDAI portal if you provide your daughter's birth certificate. However, having Aadhaar before application makes the process smoother. Don't delay the scheme application waiting for Aadhaar—get both done together."
+    },
+    {
+      "question": "What happens if my daughter's father passes away during the scheme?",
+      "description": "My daughter's father is her only legal parent, and I'm concerned what happens if he dies."
+    },
+    {
+      "answer": "If the father passes away, the mother or legal guardian becomes the beneficiary representative. The scheme doesn't require the father to be alive for all future installments—the daughter remains eligible. Notify the Anganwadi center or Tahsildar office of the change, provide a death certificate, and the scheme continues under the mother's guardianship. Similar provisions apply if the mother passes away—the father can continue as the beneficiary representative."
+    },
+    {
+      "question": "Can I withdraw all the money at once instead of in installments?",
+      "answer": "No, the scheme is structured to release money in five specific installments at different life stages. The government designed it this way to ensure funds are used for education-related expenses when needed. You cannot lump-sum withdraw all ₹1,01,000 at once. However, each installment is directly transferred to your bank account, and once it's in your account, you have the freedom to use it as you deem fit."
+    },
+    {
+      "question": "My daughter gets married at age 16. Does she lose the scheme benefits?",
+      "answer": "Child marriage is illegal in India. If a girl is married before age 18, the scheme implementation might be affected depending on state-specific rules. Generally, girls who get married early may not be able to claim the final ₹75,000 installment at age 18, as part of the scheme's purpose is to encourage delayed marriage and girls' education. To avoid this scenario, ensure your daughter completes her education and delays marriage until after age 18. The early installments (₹5,000, ₹4,000, ₹6,000, ₹8,000) would have already been credited by then."
+    },
+    {
+      "question": "Can the scheme funds be used for educational loans or pledged as collateral?",
+      "answer": "Once the money is in your bank account, it's yours to use. Technically, you could pledge it for a loan if needed, though this isn't recommended. Better approach: use the installments when they arrive to cover actual education expenses. If you need a loan for higher education, you can explore education loans from banks—the Lek Ladki benefit can serve as collateral or part-payment. Keep the scheme funds separate for the purpose they were intended: your daughter's education and future."
+    },
+    {
+      "question": "How many daughters can be registered under this scheme?",
+      "answer": "A family can register a maximum of two daughters under the Lek Ladki Yojana. The scheme covers the first two daughters born after April 1, 2023. If you have three daughters, only the first two are eligible. This policy encourages smaller family sizes and focuses resources on families with limited children. Each daughter gets her own ₹1,01,000 benefit separately."
+    }
+  ],
+  "official_portal": {
+    "name": "Maharashtra Lek Ladki Yojana Portal",
+    "url": "https://lly.mhicds.com"
+  },
+  "related_pages": [
+    {
+      "title": "Kanya Sumangala Yojana (Uttar Pradesh)",
+      "slug": "kanya-sumangala-yojana",
+      "tag": "girl-child-welfare",
+      "url": "/yojana/kanya-sumangala-yojana"
+    }
+  ],
+  "tags": [
+    "girl-child",
+    "education",
+    "financial-support",
+    "maharashtra",
+    "direct-benefit-transfer",
+    "women-empowerment"
+  ],
+  "ministry": "Department of Women and Child Development, Maharashtra Government",
+  "launch_year": 2023,
+  "image_suggestions": [
+    "Screenshot of lly.mhicds.com online registration form",
+    "Lek Ladki Yojana five-stage benefit timeline infographic",
+    "Anganwadi center ASHA worker assisting family with application",
+    "Girl child milestones: birth → school → high school → age 18",
+    "Comparison table: Lek Ladki vs other state schemes visual",
+    "Bank account opening for girl child with Aadhaar",
+    "Tahsildar office document verification process",
+    "Ration card (Yellow and Saffron) examples",
+    "Direct Benefit Transfer (DBT) payment notification on mobile",
+    "Girl studying in college with ₹75,000 scholarship support visualization"
+  ]
+}
