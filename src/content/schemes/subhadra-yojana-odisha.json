@@ -207,62 +207,6 @@
       "heading": "Who Is Excluded from Subhadra Yojana"
     },
     {
-      "icon": "📝",
-      "title": "How to Apply on the Subhadra Portal",
-      "type": "steps",
-      "steps": [
-        {
-          "icon": "info",
-          "title": "Go to subhadra.odisha.gov.in on your phone or computer",
-          "description": "",
-          "step": 1
-        },
-        {
-          "icon": "info",
-          "title": "Click on Apply Now or New Registration",
-          "description": "",
-          "step": 2
-        },
-        {
-          "icon": "info",
-          "title": "Enter your Aadhaar number and complete OTP verification on your Aadhaar-linked m",
-          "description": "",
-          "step": 3
-        },
-        {
-          "icon": "info",
-          "title": "Fill in your personal details: name, age, address, bank account number",
-          "description": "",
-          "step": 4
-        },
-        {
-          "icon": "info",
-          "title": "Upload the required documents: Aadhaar copy, bank passbook copy, residence proof",
-          "description": "",
-          "step": 5
-        },
-        {
-          "icon": "info",
-          "title": "Review all entries and submit the application",
-          "description": "",
-          "step": 6
-        },
-        {
-          "icon": "info",
-          "title": "Save or note your application reference number",
-          "description": "Use it to check status later.",
-          "step": 7
-        },
-        {
-          "icon": "info",
-          "title": "You can also apply offline at your nearest Anganwadi centre, Mo Seva Kendra, or ",
-          "description": "",
-          "step": 8
-        }
-      ],
-      "heading": "How to Apply on the Subhadra Portal"
-    },
-    {
       "icon": "🔎",
       "title": "What Each Application Status Means",
       "type": "process_flow",
@@ -532,33 +476,6 @@
       ]
     },
     {
-      "type": "process_flow",
-      "heading": "Three Ways to Apply for Subhadra",
-      "icon": "📝",
-      "steps": [
-        {
-          "icon": "file",
-          "title": "Online portal",
-          "desc": "Apply at subhadra.odisha.gov.in with Aadhaar and OTP."
-        },
-        {
-          "icon": "arrow",
-          "title": "Subhadra mobile app",
-          "desc": "Same paperless route from your phone."
-        },
-        {
-          "icon": "users",
-          "title": "Mo Seva Kendra",
-          "desc": "Operators help you fill and submit offline."
-        },
-        {
-          "icon": "check",
-          "title": "Save reference number",
-          "desc": "Keep it to track your status later."
-        }
-      ]
-    },
-    {
       "type": "text",
       "heading": "Beware of Agents and Fake Status Sites",
       "icon": "🛡️",
@@ -581,42 +498,50 @@
     {
       "icon": "info",
       "title": "Go to subhadra.odisha.gov.in on your phone or computer",
-      "desc": ""
+      "step": 1,
+      "description": ""
     },
     {
       "icon": "info",
       "title": "Click on Apply Now or New Registration",
-      "desc": ""
+      "step": 2,
+      "description": ""
     },
     {
       "icon": "info",
       "title": "Enter your Aadhaar number and complete OTP verification on your Aadhaar-linked m",
-      "desc": ""
+      "step": 3,
+      "description": ""
     },
     {
       "icon": "info",
       "title": "Fill in your personal details: name, age, address, bank account number",
-      "desc": ""
+      "step": 4,
+      "description": ""
     },
     {
       "icon": "info",
       "title": "Upload the required documents: Aadhaar copy, bank passbook copy, residence proof",
-      "desc": ""
+      "step": 5,
+      "description": ""
     },
     {
       "icon": "info",
       "title": "Review all entries and submit the application",
-      "desc": ""
+      "step": 6,
+      "description": ""
     },
     {
       "icon": "info",
       "title": "Save or note your application reference number",
-      "desc": "Use it to check status later."
+      "step": 7,
+      "description": "Use it to check status later."
     },
     {
       "icon": "info",
       "title": "You can also apply offline at your nearest Anganwadi centre, Mo Seva Kendra, or ",
-      "desc": ""
+      "step": 8,
+      "description": ""
     }
   ],
   "important_dates": [],
