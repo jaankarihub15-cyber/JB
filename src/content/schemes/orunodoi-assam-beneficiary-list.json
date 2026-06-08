@@ -111,7 +111,10 @@
         "Households that pay income tax are also not eligible. You must be a permanent resident of Assam with valid address proof in the state.",
         "The annual family income must stay below Rs 2 lakh to qualify. The applicant also needs a valid ration card seeded with Aadhaar, since selection is drawn from the NFSA database.",
         "The woman beneficiary should be a permanent resident of Assam. Eligible age is generally between 16 and 59 years, though unmarried women above 45 are also considered.",
-        "Households where a member is a government employee or pays income tax are excluded. Families owning a four-wheeler or tractor are also kept out of the list."
+        "Households where a member is a government employee or pays income tax are excluded. Families owning a four-wheeler or tractor are also kept out of the list.",
+        "One detail trips up many families. Orunodoi 3.0 eligibility is tied to an active AAY ration card, not a PHH card.",
+        "If you hold a PHH card, you are not automatically covered under 3.0. You would need the household reclassified to AAY through your Circle Office.",
+        "Keeping the AAY card active and Aadhaar-seeded is what keeps payments flowing. A lapse on the ration side is enough to pause Orunodoi."
       ],
       "heading": "Who Qualifies for Orunodoi"
     },
@@ -206,6 +209,18 @@
       "heading": "How to Check the District-Wise Beneficiary List"
     },
     {
+      "type": "text",
+      "heading": "Check Your Name Through the AAY Ration List (RCMS)",
+      "icon": "🔎",
+      "content": [
+        "The Orunodoi beneficiary list is not published as a standalone document. Eligibility follows the Antyodaya (AAY) ration list, so you check that instead.",
+        "Go to rcms.assam.gov.in and open Ration Card Details. Enter the captcha and verify.",
+        "On the report page, select your district, DFSO, TFSO and FPS. Choose AAY as the scheme name to see the Orunodoi-eligible households for that area.",
+        "Type your name in the search box to find and highlight it. If you hold an active AAY card seeded with Aadhaar, you are automatically in the Orunodoi list.",
+        "This also explains many stopped payments. If your AAY card shows as suspended in RCMS, your Orunodoi payment is likely suspended or under review too."
+      ]
+    },
+    {
       "icon": "🔎",
       "title": "What Each Application Status Means",
       "type": "process_flow",
@@ -256,6 +271,17 @@
         "First-time applications go through physical verification before approval. The online portal is used to check the beneficiary list and payment status, not to apply."
       ],
       "heading": "When the Monthly Payment Arrives"
+    },
+    {
+      "type": "text",
+      "heading": "The One-Time Rs 9,000 Payment in March 2026",
+      "icon": "💰",
+      "content": [
+        "On 10 March 2026 the Assam government transferred a one-time Rs 9,000 to nearly 40 lakh Orunodoi women. It went out as a single-day direct bank transfer totalling around Rs 3,600 crore.",
+        "This Rs 9,000 was not a pure bonus. It bundled four months of the regular monthly assistance from January 2026 with an extra amount tied to the Bohag Bihu festival.",
+        "The regular monthly Rs 1,250 continues separately under the normal scheme rules. The one-time payment did not replace or reduce it.",
+        "If you are an active beneficiary and did not see this credit, check that your Aadhaar-linked bank account and AAY ration card were both active in March 2026. A suspended ration card is the most common reason a beneficiary missed the transfer."
+      ]
     },
     {
       "icon": "📝",
@@ -606,6 +632,14 @@
     {
       "question": "Do old Orunodoi 2.0 beneficiaries need to re-register for 3.0?",
       "answer": "No, existing beneficiaries were carried into Orunodoi 3.0 automatically. The monthly amount was raised to Rs 1,250 without any fresh application.<br><br>You only need to act if your name is missing from the updated 3.0 list. In that case, check the reason on the portal and submit a correction at your Circle Office."
+    },
+    {
+      "question": "Did every Orunodoi beneficiary get the Rs 9,000 in March 2026?",
+      "answer": "The Rs 9,000 went to active beneficiaries with a working Aadhaar-linked bank account and an active AAY ration card on the transfer date.<br><br>If yours was suspended or your bank seeding had failed, you may have missed it. Fix the ration or bank issue and the regular monthly payment continues."
+    },
+    {
+      "question": "Why is there no separate Orunodoi list to download?",
+      "answer": "The government does not publish a standalone Orunodoi list. Selection runs off the AAY ration database, so the AAY list on RCMS is the list.<br><br>Check rcms.assam.gov.in under Ration Card Details, pick your area, and choose AAY to see the eligible households."
     }
   ],
   "related_pages": [
