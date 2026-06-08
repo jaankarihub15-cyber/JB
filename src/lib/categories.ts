@@ -35,7 +35,8 @@ export type StateKey =
   | "andhra-pradesh"
   | "karnataka"
   | "odisha"
-  | "chhattisgarh";
+  | "chhattisgarh"
+  | "assam";
 
 export const examCategories: Record<ExamCategoryKey, {
   slug: ExamCategoryKey;
@@ -232,6 +233,7 @@ export const states: Record<StateKey, {
   "karnataka": { slug: "karnataka", label: "Karnataka", short: "KA" },
   "odisha": { slug: "odisha", label: "Odisha", short: "OD" },
   "chhattisgarh": { slug: "chhattisgarh", label: "Chhattisgarh", short: "CG" },
+  "assam": { slug: "assam", label: "Assam", short: "AS" },
 };
 
 // Helper: get all exams in a category from the loaded exam list

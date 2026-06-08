@@ -149,7 +149,7 @@ export function Header() {
               </button>
 
               {openDropdown === "schemes" && (
-                <div className="absolute top-full left-0 mt-2 w-[640px] bg-card border border-border rounded-2xl shadow-lg p-4 grid grid-cols-2 gap-1.5">
+                <div className="absolute top-full right-0 mt-2 w-[640px] bg-card border border-border rounded-2xl shadow-lg p-4 grid grid-cols-2 gap-1.5">
                   {Object.values(schemeCategories).map((cat) => (
                     <Link
                       key={cat.slug}
@@ -178,6 +178,7 @@ export function Header() {
                         { slug: "karnataka", label: "Karnataka" },
                         { slug: "telangana", label: "Telangana" },
                         { slug: "andhra-pradesh", label: "Andhra Pradesh" },
+                        { slug: "assam", label: "Assam" },
                       ].map((s) => (
                         <Link
                           key={s.slug}

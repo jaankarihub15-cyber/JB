@@ -66,7 +66,8 @@
         "Orunodoi 3.0, launched on 7 October 2025, set the monthly amount at Rs 1,250. If you were already a beneficiary, your payment was upgraded automatically.",
         "You did not need to re-apply. Payment comes once a month.",
         "If a month is missed, it does not accumulate as arrears automatically. You need to track each month and follow up separately if something goes wrong."
-      ]
+      ],
+      "heading": "What Orunodoi Is and How Much It Pays"
     },
     {
       "icon": "📊",
@@ -111,7 +112,8 @@
         "The annual family income must stay below Rs 2 lakh to qualify. The applicant also needs a valid ration card seeded with Aadhaar, since selection is drawn from the NFSA database.",
         "The woman beneficiary should be a permanent resident of Assam. Eligible age is generally between 16 and 59 years, though unmarried women above 45 are also considered.",
         "Households where a member is a government employee or pays income tax are excluded. Families owning a four-wheeler or tractor are also kept out of the list."
-      ]
+      ],
+      "heading": "Who Qualifies for Orunodoi"
     },
     {
       "icon": "🚫",
@@ -130,7 +132,8 @@
         "Woman is not the registered head of household",
         "Aadhaar not linked to a bank account",
         "Duplicate application from same household address"
-      ]
+      ],
+      "heading": "Who Does Not Qualify for Orunodoi"
     },
     {
       "icon": "⚠️",
@@ -145,7 +148,8 @@
         "An expired or unlinked ration card is another frequent cause. Since the list is built from NFSA data, a ration card that is not seeded with Aadhaar can leave an otherwise eligible woman off the roll.",
         "Duplicate entries within one household also trigger removal. Only one woman, the registered head, can draw the benefit per family.",
         "If your name was dropped, check the reason shown on the portal first. You can then submit a correction request at your Circle Office with a copy of your bank passbook and Aadhaar."
-      ]
+      ],
+      "heading": "Why Names Get Dropped from the Beneficiary List"
     },
     {
       "icon": "🔔",
@@ -198,7 +202,8 @@
           "title": "If your name is missing, check your individual status using your Aadhaar number ",
           "description": ""
         }
-      ]
+      ],
+      "heading": "How to Check the District-Wise Beneficiary List"
     },
     {
       "icon": "🔎",
@@ -235,7 +240,8 @@
           "title": "Rejected",
           "desc": "Application failed verification. Check the reason shown on the portal, correct it, and re-apply"
         }
-      ]
+      ],
+      "heading": "What Each Application Status Means"
     },
     {
       "icon": "📅",
@@ -248,7 +254,8 @@
         "If the mini statement also shows nothing, then escalate. Do not wait past month-end before raising a complaint.",
         "Applications are accepted offline only at present. You submit the form at your Gaon Panchayat along with Aadhaar, ration card, bank passbook and a recent photo.",
         "First-time applications go through physical verification before approval. The online portal is used to check the beneficiary list and payment status, not to apply."
-      ]
+      ],
+      "heading": "When the Monthly Payment Arrives"
     },
     {
       "icon": "📝",
@@ -285,7 +292,8 @@
           "title": "Contact your local MLA office",
           "sub": "They have direct escalation access to scheme officials"
         }
-      ]
+      ],
+      "heading": "What to Do If Payment Has Not Arrived"
     },
     {
       "icon": "⚖️",
@@ -342,7 +350,8 @@
           "Mobile number",
           "For OTP. Should match Aadhaar-registered number"
         ]
-      ]
+      ],
+      "heading": "Documents Required to Apply"
     },
     {
       "icon": "📅",
@@ -355,7 +364,8 @@
         "For the state's end, the Orunodoi portal at orunodoi.assam.gov.in shows the payment release status month by month. If the portal shows 'released' but your account shows nothing, the issue is at the bank's end.",
         "If the portal shows 'pending', the state has not yet released that month's instalment. Payment may stop for a few reasons: Aadhaar-bank linking broke after a bank account change, the beneficiary moved districts without updating address, the annual verification was missed, or the household income was found to exceed the ceiling during a resurvey.",
         "Address each issue at your nearest Orunodoi Common Service Centre (CSC) or Block Office."
-      ]
+      ],
+      "heading": "Orunodoi Payment Dates and DBT Timeline"
     },
     {
       "icon": "👩",
@@ -398,7 +408,8 @@
           "title": "Assam government also has a dedicated helpline for Orunodoi queries",
           "description": "The number is published at the official portal and at the DC (Deputy Commissioner) office of each district."
         }
-      ]
+      ],
+      "heading": "What to Do If Payment Stopped After Previously Receiving It"
     },
     {
       "icon": "📊",
@@ -426,7 +437,8 @@
         "Assam's geography creates specific challenges for Orunodoi applicants in tea garden districts and hill areas. Tea garden workers in districts like Dibrugarh, Jorhat, Tinsukia, and Sonitpur face specific issues because their residential address is often listed as the garden itself, and their Aadhaar address may differ from the revenue village record.",
         "For tea garden families: get an address certificate from the Garden Manager (also called Burra Sahib or Assistant Manager) along with a local gram panchayat verification. Some blocks in tea garden areas have dedicated Orunodoi enrollment drives coordinated with garden management.",
         "For Bodo Territorial Region (BTR) and hill districts (Karbi Anglong, Dima Hasao, and the hill areas of Cachar): the Orunodoi portal is accessible but connectivity is intermittent. Applications are sometimes submitted in batch by CSC operators when internet is available."
-      ]
+      ],
+      "heading": "Orunodoi in Specific Assam Districts: Tea Garden and Hill Area Applicants"
     },
     {
       "type": "modern_callout",
@@ -629,5 +641,5 @@
   "last_reviewed": "June 2026",
   "disclaimer": "",
   "category": "yojana",
-  "state": "Assam"
+  "state": "assam"
 }
