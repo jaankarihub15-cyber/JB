@@ -1,0 +1,633 @@
+{
+  "slug": "orunodoi-assam-beneficiary-list",
+  "title": "Orunodoi 2026: Rs 1,250 monthly list and status check",
+  "meta_description": "Orunodoi Assam pays Rs 1,250 monthly to women household heads. Check district-wise list, verify status, fix delayed payments.",
+  "hero": {
+    "status": "Active",
+    "one_liner": "My neighbour in Guwahati applied for Orunodoi six months back and had no idea if her name was on the list. Here is exactly how to find your name, read each status, and act if the money has not arrived.",
+    "icon": "🌅",
+    "updated_date": "June 2026",
+    "stats": [
+      {
+        "label": "Monthly Benefit",
+        "value": "Rs 1,250"
+      },
+      {
+        "label": "Payment Mode",
+        "value": "Direct Bank Transfer"
+      },
+      {
+        "label": "Beneficiary",
+        "value": "Woman Head of Household"
+      },
+      {
+        "label": "Application Mode",
+        "value": "Offline at Gaon Panchayat"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "🌐",
+      "label": "Orunodoi Portal",
+      "url": "https://orunodoi.assam.gov.in"
+    },
+    {
+      "icon": "🔍",
+      "label": "Check Status",
+      "url": "https://orunodoi.assam.gov.in"
+    },
+    {
+      "icon": "📋",
+      "label": "District-Wise List",
+      "url": "https://orunodoi.assam.gov.in"
+    },
+    {
+      "icon": "📞",
+      "label": "CM Helpline the Orunodoi helpdesk listed on the official portal",
+      "url": "https://orunodoi.assam.gov.in"
+    }
+  ],
+  "what_is_it": [
+    "Orunodoi is a monthly cash transfer scheme by the Assam government that pays Rs 1,250 to the woman head of an economically weaker household. The money goes directly to her Aadhaar-linked bank account, no middleman involved.",
+    "The name means sunrise in Assamese. The scheme launched in October 2020 to give financial stability to families where women manage the household.",
+    "Orunodoi 3.0, launched on 7 October 2025, set the monthly amount at Rs 1,250. If you were already a beneficiary, your payment was upgraded automatically.",
+    "You did not need to re-apply. Payment comes once a month.",
+    "If a month is missed, it does not accumulate as arrears automatically. You need to track each month and follow up separately if something goes wrong."
+  ],
+  "extra_sections": [
+    {
+      "icon": "ℹ️",
+      "title": "What Orunodoi Is and How Much It Pays",
+      "type": "text",
+      "content": [
+        "Orunodoi is a monthly cash transfer scheme by the Assam government that pays Rs 1,250 to the woman head of an economically weaker household. The money goes directly to her Aadhaar-linked bank account, no middleman involved.",
+        "The name means sunrise in Assamese. The scheme launched in October 2020 to give financial stability to families where women manage the household.",
+        "Orunodoi 3.0, launched on 7 October 2025, set the monthly amount at Rs 1,250. If you were already a beneficiary, your payment was upgraded automatically.",
+        "You did not need to re-apply. Payment comes once a month.",
+        "If a month is missed, it does not accumulate as arrears automatically. You need to track each month and follow up separately if something goes wrong."
+      ]
+    },
+    {
+      "icon": "📊",
+      "title": "Orunodoi: Key Numbers at a Glance",
+      "type": "stat_grid",
+      "items": [
+        {
+          "icon": "wallet",
+          "value": "Rs 1,250",
+          "label": "Monthly payment per beneficiary",
+          "color": "green"
+        },
+        {
+          "icon": "trending",
+          "value": "Rs 15,000",
+          "label": "Annual total benefit",
+          "color": "blue"
+        },
+        {
+          "icon": "users",
+          "value": "38 lakh+",
+          "label": "Women beneficiaries under 3.0",
+          "color": "amber"
+        },
+        {
+          "icon": "shield",
+          "value": "DBT",
+          "label": "To Aadhaar-linked bank account",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "icon": "✅",
+      "title": "Who Qualifies for Orunodoi",
+      "type": "text",
+      "content": [
+        "The woman applying must be the registered head of household in an economically weaker family. The household's annual income must be below the ceiling set by the Assam government.",
+        "She must have an Aadhaar card linked to an active bank account. Without this linkage, the DBT payment cannot reach her.",
+        "Getting Aadhaar linked is the single most important pre-step before applying. Government employees and their family members do not qualify.",
+        "Households that pay income tax are also not eligible. You must be a permanent resident of Assam with valid address proof in the state.",
+        "The annual family income must stay below Rs 2 lakh to qualify. The applicant also needs a valid ration card seeded with Aadhaar, since selection is drawn from the NFSA database.",
+        "The woman beneficiary should be a permanent resident of Assam. Eligible age is generally between 16 and 59 years, though unmarried women above 45 are also considered.",
+        "Households where a member is a government employee or pays income tax are excluded. Families owning a four-wheeler or tractor are also kept out of the list."
+      ]
+    },
+    {
+      "icon": "🚫",
+      "title": "Who Does Not Qualify for Orunodoi",
+      "type": "eligibility_check",
+      "qualify": [
+        "Woman is head of household in economically weaker family",
+        "Annual household income within the specified ceiling",
+        "Valid Aadhaar linked to active bank account",
+        "Permanent Assam resident with valid address proof"
+      ],
+      "disqualify": [
+        "Government employee or family member of one",
+        "Household pays income tax",
+        "Family income above the current threshold",
+        "Woman is not the registered head of household",
+        "Aadhaar not linked to a bank account",
+        "Duplicate application from same household address"
+      ]
+    },
+    {
+      "icon": "⚠️",
+      "title": "Why Names Get Dropped from the Beneficiary List",
+      "type": "text",
+      "content": [
+        "The most common reason is an Aadhaar-bank name mismatch. If the name on your Aadhaar differs even slightly from your bank records, the DBT fails and the application gets flagged.",
+        "The second reason is a duplicate application. Only one woman per household receives Orunodoi.",
+        "A second application from the same address triggers rejection for both. Income documentation errors also cause drops.",
+        "An outdated income certificate, or a figure that does not match the government database, fails verification. During re-verification drives the government rechecks all beneficiaries.",
+        "If your household income has crossed the threshold since you enrolled, you may be removed from the next cycle.",
+        "An expired or unlinked ration card is another frequent cause. Since the list is built from NFSA data, a ration card that is not seeded with Aadhaar can leave an otherwise eligible woman off the roll.",
+        "Duplicate entries within one household also trigger removal. Only one woman, the registered head, can draw the benefit per family.",
+        "If your name was dropped, check the reason shown on the portal first. You can then submit a correction request at your Circle Office with a copy of your bank passbook and Aadhaar."
+      ]
+    },
+    {
+      "icon": "🔔",
+      "title": "Fix These Before Applying",
+      "type": "modern_callout",
+      "content": "Aadhaar not linked to bank account: Link it at any bank branch before submitting the application. Name mismatch between Aadhaar and bank: Visit your bank and request a name correction to exactly match Aadhaar.<br><br>Outdated income certificate: Get a fresh one from your Circle Officer. Mandatory step.<br><br>Duplicate household application: Check if another member already applied from the same address before you submit. Wrong household head declaration: The woman applying must be officially the household head on revenue records, not just in practice."
+    },
+    {
+      "icon": "🔍",
+      "title": "How to Check the District-Wise Beneficiary List",
+      "type": "steps",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Open orunodoi.assam.gov.in on your phone or computer",
+          "description": ""
+        },
+        {
+          "step": 2,
+          "title": "Find the Beneficiary List or District-Wise List option on the home page",
+          "description": ""
+        },
+        {
+          "step": 3,
+          "title": "Select your district from the dropdown",
+          "description": ""
+        },
+        {
+          "step": 4,
+          "title": "Select your block or revenue circle",
+          "description": ""
+        },
+        {
+          "step": 5,
+          "title": "Select your gram panchayat or village",
+          "description": ""
+        },
+        {
+          "step": 6,
+          "title": "The list for your area loads",
+          "description": "Press Ctrl+F on a computer, or scroll on mobile, to find your name."
+        },
+        {
+          "step": 7,
+          "title": "If your name appears, note your application ID for future reference",
+          "description": ""
+        },
+        {
+          "step": 8,
+          "title": "If your name is missing, check your individual status using your Aadhaar number ",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "icon": "🔎",
+      "title": "What Each Application Status Means",
+      "type": "process_flow",
+      "steps": [
+        {
+          "icon": "info",
+          "title": "Application Submitted",
+          "desc": "Form received and in queue. Wait 30 days before following up"
+        },
+        {
+          "icon": "info",
+          "title": "Under Verification",
+          "desc": "Officials are cross-checking documents and income details. Keep paperwork ready in case of physical verification"
+        },
+        {
+          "icon": "info",
+          "title": "Approved",
+          "desc": "Name confirmed on the beneficiary list. Make sure your Aadhaar-linked bank account is active"
+        },
+        {
+          "icon": "info",
+          "title": "Payment Processing",
+          "desc": "Money released for transfer. Check your bank within 3 working days"
+        },
+        {
+          "icon": "info",
+          "title": "Payment Done",
+          "desc": "Rs 1,250 credited to account. Verify via bank passbook or mobile banking app"
+        },
+        {
+          "icon": "info",
+          "title": "Rejected",
+          "desc": "Application failed verification. Check the reason shown on the portal, correct it, and re-apply"
+        }
+      ]
+    },
+    {
+      "icon": "📅",
+      "title": "When the Monthly Payment Arrives",
+      "type": "text",
+      "content": [
+        "Payments are released monthly in district-wise batches. Most beneficiaries see the credit between the 5th and 15th of each month.",
+        "If you have not received payment by the 20th, something has gone wrong. Check your bank account before assuming a portal problem.",
+        "Sometimes the bank credits the amount but the passbook is not updated immediately. Ask your bank for a mini statement to check the actual balance.",
+        "If the mini statement also shows nothing, then escalate. Do not wait past month-end before raising a complaint.",
+        "Applications are accepted offline only at present. You submit the form at your Gaon Panchayat along with Aadhaar, ration card, bank passbook and a recent photo.",
+        "First-time applications go through physical verification before approval. The online portal is used to check the beneficiary list and payment status, not to apply."
+      ]
+    },
+    {
+      "icon": "📝",
+      "title": "What to Do If Payment Has Not Arrived",
+      "type": "icon_list",
+      "items": [
+        {
+          "icon": "file",
+          "title": "Check your bank statement",
+          "sub": "Confirm the amount is genuinely not credited, not just unupdated in the passbook"
+        },
+        {
+          "icon": "info",
+          "title": "Check portal status",
+          "sub": "Go to orunodoi.assam.gov.in and verify your current status. Status says Payment Done but bank is empty: Contact your bank's Aadhaar-linked account desk and request a DBT payment trace"
+        },
+        {
+          "icon": "alert",
+          "title": "Status shows an error",
+          "sub": "Call the Orunodoi helpdesk listed on the official portal with your application ID ready"
+        },
+        {
+          "icon": "arrow",
+          "title": "Visit your Block Development Office (BDO)",
+          "sub": "Bring Aadhaar, bank passbook, and application receipt"
+        },
+        {
+          "icon": "check",
+          "title": "File a grievance on the portal",
+          "sub": "Use the Grievance section with your application ID and the month that is missing"
+        },
+        {
+          "icon": "file",
+          "title": "Contact your local MLA office",
+          "sub": "They have direct escalation access to scheme officials"
+        }
+      ]
+    },
+    {
+      "icon": "⚖️",
+      "title": "Orunodoi: How the Scheme Has Grown",
+      "type": "comparison_card",
+      "heading": "Orunodoi: How the Scheme Has Grown",
+      "win": {
+        "name": "Orunodoi 3.0 (current)",
+        "amount": "Rs 1,250/mo",
+        "sub": "Launched 7 Oct 2025, around 38 lakh women beneficiaries"
+      },
+      "others": [
+        {
+          "name": "Orunodoi 1.0 (2020)",
+          "amount": "Rs 830/mo",
+          "sub": "Around 17 lakh families, enrolment via camps"
+        }
+      ]
+    },
+    {
+      "icon": "📄",
+      "title": "Documents Required to Apply",
+      "type": "table",
+      "columns": [
+        "Document",
+        "Details"
+      ],
+      "rows": [
+        [
+          "Aadhaar card",
+          "Identity and DBT linkage. Must be linked to bank account before applying"
+        ],
+        [
+          "Bank passbook",
+          "Aadhaar-linked active account"
+        ],
+        [
+          "Income certificate",
+          "Proof of household income. Get fresh copy from Circle Officer"
+        ],
+        [
+          "Household head certificate",
+          "Confirms applicant is registered head of household"
+        ],
+        [
+          "Address proof",
+          "Permanent Assam resident. Voter ID, ration card, or utility bill"
+        ],
+        [
+          "Passport photograph",
+          "2 recent copies"
+        ],
+        [
+          "Mobile number",
+          "For OTP. Should match Aadhaar-registered number"
+        ]
+      ]
+    },
+    {
+      "icon": "📅",
+      "title": "Orunodoi Payment Dates and DBT Timeline",
+      "type": "text",
+      "content": [
+        "Orunodoi money is transferred via Direct Benefit Transfer on a fixed monthly cycle. The government targets the 1st to 5th of each month, though actual credit dates vary slightly by bank processing time.",
+        "Beneficiaries with accounts in India Post Payments Bank or rural cooperative banks sometimes see a 2-3 day lag compared to nationalised bank accounts. If you do not see the credit by the 7th of the month, the first step is to check your Aadhaar-linked bank account balance via USSD (*99#) or through the bank's mobile app.",
+        "If balance shows no credit, visit your bank branch with your Aadhaar and Orunodoi acknowledgement number. The bank can raise a DBT query on your behalf.",
+        "For the state's end, the Orunodoi portal at orunodoi.assam.gov.in shows the payment release status month by month. If the portal shows 'released' but your account shows nothing, the issue is at the bank's end.",
+        "If the portal shows 'pending', the state has not yet released that month's instalment. Payment may stop for a few reasons: Aadhaar-bank linking broke after a bank account change, the beneficiary moved districts without updating address, the annual verification was missed, or the household income was found to exceed the ceiling during a resurvey.",
+        "Address each issue at your nearest Orunodoi Common Service Centre (CSC) or Block Office."
+      ]
+    },
+    {
+      "icon": "👩",
+      "title": "Priority Categories: Who Gets Listed First",
+      "type": "modern_callout",
+      "content": "Orunodoi is targeted at adult women (18+) from economically weaker households, but within that, the government gives priority to specific groups during enrollment drives. Widows and single women: Women who have lost their spouse or are unmarried and supporting a household are given priority in the beneficiary list.<br><br>Pregnant and lactating women: Families with a pregnant woman were specifically enrolled in the first Orunodoi wave because Rs 1,250 a month helps cover nutritional and medical expenses. Women from SC/ST communities: Districts with high tribal concentration in Assam's hill and tea garden areas had dedicated enrollment drives.<br><br>Differently-abled women: Women with a disability certificate who head a household or are the primary earner qualify with relaxed income norms. If you belong to any of these categories and were missed in previous enrollment drives, apply at your Block Office under Orunodoi 3.0.<br><br>Orunodoi 3.0 is the expanded version that expanded the benefit from Rs 830 to Rs 1,250 and opened enrollment to previously excluded households."
+    },
+    {
+      "icon": "🔧",
+      "title": "What to Do If Payment Stopped After Previously Receiving It",
+      "type": "steps",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Log in to orunodoi.assam.gov.in and check your beneficiary status",
+          "description": "If your name is showing as 'inactive' or 'suspended', it means the system flagged an issue during the annual verification."
+        },
+        {
+          "step": 2,
+          "title": "Check if your Aadhaar is still linked to the bank account you registered with",
+          "description": "If you changed banks or accounts, the DBT breaks. Visit your new bank and complete Aadhaar seeding immediately."
+        },
+        {
+          "step": 3,
+          "title": "Check if the annual household verification was completed",
+          "description": "Every year, the government conducts a resurvey of beneficiaries. If a field worker visited and your household did not respond, your entry may be flagged. Contact your local CSC or Gram Panchayat."
+        },
+        {
+          "step": 4,
+          "title": "If you changed your residence from one district to another, your Orunodoi enroll",
+          "description": "You need to re-apply from the new district and your old enrollment is cancelled. This is a common cause of payment stops for migrant families."
+        },
+        {
+          "step": 5,
+          "title": "If none of the above applies, submit a grievance through the Orunodoi portal's c",
+          "description": ""
+        },
+        {
+          "step": 6,
+          "title": "Assam government also has a dedicated helpline for Orunodoi queries",
+          "description": "The number is published at the official portal and at the DC (Deputy Commissioner) office of each district."
+        }
+      ]
+    },
+    {
+      "icon": "📊",
+      "title": "Orunodoi: How the Scheme Has Grown",
+      "type": "comparison_card",
+      "heading": "Orunodoi 3.0 vs the Original 2020 Scheme",
+      "win": {
+        "name": "Orunodoi 3.0 today",
+        "amount": "Rs 1,250/mo",
+        "sub": "Launched 7 Oct 2025, around 38 lakh women beneficiaries"
+      },
+      "others": [
+        {
+          "name": "Orunodoi 1.0 (2020)",
+          "amount": "Rs 830/mo",
+          "sub": "Around 17 lakh families, enrolment via camps"
+        }
+      ]
+    },
+    {
+      "icon": "📍",
+      "title": "Orunodoi in Specific Assam Districts: Tea Garden and Hill Area Applicants",
+      "type": "text",
+      "content": [
+        "Assam's geography creates specific challenges for Orunodoi applicants in tea garden districts and hill areas. Tea garden workers in districts like Dibrugarh, Jorhat, Tinsukia, and Sonitpur face specific issues because their residential address is often listed as the garden itself, and their Aadhaar address may differ from the revenue village record.",
+        "For tea garden families: get an address certificate from the Garden Manager (also called Burra Sahib or Assistant Manager) along with a local gram panchayat verification. Some blocks in tea garden areas have dedicated Orunodoi enrollment drives coordinated with garden management.",
+        "For Bodo Territorial Region (BTR) and hill districts (Karbi Anglong, Dima Hasao, and the hill areas of Cachar): the Orunodoi portal is accessible but connectivity is intermittent. Applications are sometimes submitted in batch by CSC operators when internet is available."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "icon": "💡",
+      "title": "Tea garden and hill district applicants",
+      "content": "Workers in tea garden areas like Dibrugarh, Jorhat and Tinsukia sometimes face Aadhaar-bank mismatches that delay payment. Get the bank account seeded with Aadhaar at the branch first.<br><br>Hill and remote blocks see slower list updates. Check at the Circle Office if the portal has not refreshed your status."
+    },
+    {
+      "type": "text",
+      "heading": "Checking the List in Remote Blocks",
+      "icon": "📍",
+      "content": [
+        "If you live in a remote hill area, visit the nearest Block Office and ask for assisted application submission. For char (river island) areas along the Brahmaputra: seasonal flooding disrupts Aadhaar and bank seeding processes.",
+        "The government has made provisions for char area residents to update addresses at the nearest mainland Block Office. Char residents should not be denied Orunodoi due to address issues if they can produce voter ID or BPL card as residency proof.",
+        "In any of these areas, the district Deputy Commissioner's office is the escalation point for Orunodoi enrollment issues when Block Office efforts fail.",
+        "Beneficiaries in remote blocks can also view the printed list at the local Circle Office if the portal is slow. The same district-wise list is displayed at Gaon Panchayat offices each time it is updated."
+      ]
+    }
+  ],
+  "eligibility": [
+    {
+      "label": "Eligible",
+      "value": "Woman is head of household in economically weaker family",
+      "highlight": true
+    },
+    {
+      "label": "Eligible",
+      "value": "Annual household income within the specified ceiling",
+      "highlight": true
+    },
+    {
+      "label": "Eligible",
+      "value": "Valid Aadhaar linked to active bank account",
+      "highlight": true
+    },
+    {
+      "label": "Eligible",
+      "value": "Permanent Assam resident with valid address proof",
+      "highlight": true
+    },
+    {
+      "label": "Not eligible",
+      "value": "Government employee or family member of one",
+      "highlight": false
+    },
+    {
+      "label": "Not eligible",
+      "value": "Household pays income tax",
+      "highlight": false
+    },
+    {
+      "label": "Not eligible",
+      "value": "Family income above the current threshold",
+      "highlight": false
+    },
+    {
+      "label": "Not eligible",
+      "value": "Woman is not the registered head of household",
+      "highlight": false
+    },
+    {
+      "label": "Not eligible",
+      "value": "Aadhaar not linked to a bank account",
+      "highlight": false
+    },
+    {
+      "label": "Not eligible",
+      "value": "Duplicate application from same household address",
+      "highlight": false
+    }
+  ],
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Open orunodoi.assam.gov.in on your phone or computer",
+      "description": ""
+    },
+    {
+      "step": 2,
+      "title": "Find the Beneficiary List or District-Wise List option on the home page",
+      "description": ""
+    },
+    {
+      "step": 3,
+      "title": "Select your district from the dropdown",
+      "description": ""
+    },
+    {
+      "step": 4,
+      "title": "Select your block or revenue circle",
+      "description": ""
+    },
+    {
+      "step": 5,
+      "title": "Select your gram panchayat or village",
+      "description": ""
+    },
+    {
+      "step": 6,
+      "title": "The list for your area loads",
+      "description": "Press Ctrl+F on a computer, or scroll on mobile, to find your name."
+    },
+    {
+      "step": 7,
+      "title": "If your name appears, note your application ID for future reference",
+      "description": ""
+    },
+    {
+      "step": 8,
+      "title": "If your name is missing, check your individual status using your Aadhaar number ",
+      "description": ""
+    }
+  ],
+  "important_dates": [],
+  "faqs": [
+    {
+      "question": "What is the current Orunodoi monthly amount in 2026?",
+      "answer": "Orunodoi 3.0 pays Rs 1,250 per month to eligible women household heads in Assam. The original scheme paid Rs 830 per month from 2020.<br><br>The amount was raised in 2022 and existing beneficiaries were upgraded automatically, with no re-application needed."
+    },
+    {
+      "question": "How do I check if my name is on the Orunodoi district-wise list?",
+      "answer": "Go to orunodoi.assam.gov.in and select the district-wise beneficiary list option. Choose your district, block, and gram panchayat to see the local list.<br><br>You can also enter your Aadhaar number to check your individual application status."
+    },
+    {
+      "question": "My application status shows Rejected. Can I apply again?",
+      "answer": "Yes. First check the rejection reason shown on the portal.<br><br>Common causes are Aadhaar-bank name mismatch, an outdated income certificate, or a duplicate application from the same household. Fix the issue and submit a fresh application."
+    },
+    {
+      "question": "The portal says Payment Done but money has not arrived. What do I do?",
+      "answer": "Get a mini statement from your bank first, as DBT credits can take 2-3 working days to reflect. If still missing, ask your bank to trace the DBT transfer.<br><br>Then call CM Helpline the Orunodoi helpdesk listed on the official portal with your application ID for escalation."
+    },
+    {
+      "question": "Can a mother and her adult daughter in the same household both get Orunodoi?",
+      "answer": "No. Only one woman per household qualifies. She must be the registered head of household.<br><br>A second application from the same address will cause both to be flagged as duplicates and rejected."
+    },
+    {
+      "question": "Is there an income limit for Orunodoi 2026?",
+      "answer": "Yes. The household annual income must be below the threshold set by the Assam government.<br><br>Government employees and households that pay income tax are excluded. Check the exact current ceiling on the portal or at your Block Development Office, as it is subject to revision."
+    },
+    {
+      "question": "How long does a new Orunodoi application take to process?",
+      "answer": "Verification and approval typically take 30 to 60 days. If your status still shows Under Verification after 60 days, visit your Block Development Office in person with your Aadhaar, income certificate, and application receipt."
+    },
+    {
+      "question": "My name was on the list last year but is missing now. Why?",
+      "answer": "Names get removed during re-verification if household income crossed the threshold, if the Aadhaar-bank link became inactive, or if the system identified a duplicate household entry. Visit your BDO office to learn the specific reason and re-apply if still eligible."
+    },
+    {
+      "question": "Does Orunodoi 3.0 require existing beneficiaries to re-apply?",
+      "answer": "No. The upgrade from Rs 830 to Rs 1,250 was applied automatically to all active beneficiaries under Orunodoi 3.0. No new application or document submission was required from those already on the list."
+    },
+    {
+      "question": "What is the fastest way to check status if the portal is not loading?",
+      "answer": "Try the portal before 10 AM when server traffic is lower. You can also call CM Helpline the Orunodoi helpdesk listed on the official portal to check status by phone.<br><br>Your Block Development Office can look up your status manually during office hours if the portal is down."
+    },
+    {
+      "question": "How do I find my name in the Orunodoi district wise list?",
+      "answer": "Open the official portal at orunodoi.assam.gov.in and go to the beneficiary list section. Pick your district, then your block or municipality, then your village or Gaon Panchayat.<br><br>The list for that area opens as a downloadable file. You can also view the same list at your local Gaon Panchayat or Circle Office if the portal is slow."
+    },
+    {
+      "question": "Can I apply for Orunodoi online in 2026?",
+      "answer": "No, Orunodoi applications are accepted offline only at present. You apply at your Gaon Panchayat with the required documents.<br><br>Keep your Aadhaar, ration card, bank passbook and a recent photo ready. The portal is used to check the beneficiary list and status, not to submit a new application."
+    },
+    {
+      "question": "Do old Orunodoi 2.0 beneficiaries need to re-register for 3.0?",
+      "answer": "No, existing beneficiaries were carried into Orunodoi 3.0 automatically. The monthly amount was raised to Rs 1,250 without any fresh application.<br><br>You only need to act if your name is missing from the updated 3.0 list. In that case, check the reason on the portal and submit a correction at your Circle Office."
+    }
+  ],
+  "related_pages": [
+    {
+      "title": "PM Ujjwala Free LPG for Women",
+      "slug": "pm-ujjwala-yojana",
+      "tag": ""
+    },
+    {
+      "title": "Widow Pension Application Guide",
+      "slug": "apply-widow-pension",
+      "tag": ""
+    },
+    {
+      "title": "Zero Balance Jan Dhan Account",
+      "slug": "zero-balance-account",
+      "tag": ""
+    },
+    {
+      "title": "Link Aadhaar to Bank Account",
+      "slug": "link-aadhaar-bank",
+      "tag": ""
+    }
+  ],
+  "tags": [
+    "orunodoi list 2026 Assam",
+    "orunodoi district wise beneficiary list",
+    "orunodoi beneficiary status check",
+    "orunodoi Rs 1250 monthly payment",
+    "orunodoi 3.0 assam women scheme",
+    "orunodoi application rejected fix"
+  ],
+  "last_reviewed": "June 2026",
+  "disclaimer": "",
+  "category": "yojana",
+  "state": "Assam"
+}
