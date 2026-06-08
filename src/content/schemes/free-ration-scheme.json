@@ -1,0 +1,437 @@
+{
+ "slug": "free-ration-scheme",
+ "title": "PMGKAY Free Ration 2026: 5kg/Person, 81 Cr Beneficiaries",
+ "meta_description": "PMGKAY provides 5kg free foodgrains per person per month to 81.35 crore beneficiaries. Extended to Dec 2028. Eligibility, ration card, NFSA priority list.",
+ "ministry": "Ministry of Consumer Affairs, Food & Public Distribution",
+ "launch_year": 2020,
+ "last_reviewed": "May 2026",
+ "tags": [
+ "PMGKAY",
+ "free ration",
+ "NFSA",
+ "PDS",
+ "food security",
+ "AAY",
+ "PHH"
+ ],
+ "image_suggestions": [
+ "Fair Price Shop",
+ "free ration grains",
+ "ration card"
+ ],
+ "hero": {
+ "status": "active",
+ "one_liner": "5kg free food grains every month per NFSA-eligible person, through Fair Price Shops - extended for 5 years till December 2028",
+ "icon": "🌾",
+ "updated_date": "May 2026",
+ "stats": [
+ {
+ "label": "Free Grains / Month",
+ "value": "5 kg per person"
+ },
+ {
+ "label": "Beneficiaries",
+ "value": "81.35 Crore"
+ },
+ {
+ "label": "Scheme Duration",
+ "value": "Till Dec 2028"
+ },
+ {
+ "label": "Total 5-yr Budget",
+ "value": "₹11.8 Lakh Cr"
+ }
+ ]
+ },
+ "quick_actions": [
+ {
+ "icon": "🏪",
+ "label": "Find Fair Price Shop",
+ "url": "https://nfsa.gov.in/"
+ },
+ {
+ "icon": "📋",
+ "label": "Check Ration Card",
+ "url": "https://nfsa.gov.in/"
+ },
+ {
+ "icon": "📞",
+ "label": "Helpline: 1967",
+ "url": "tel:1967"
+ }
+ ],
+ "what_is_it": [
+ "The Free Ration Scheme is the popular name for the Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY) - a national food security programme that gives 5 kg of free food grains (rice or wheat) every month to every person covered under the National Food Security Act (NFSA), 2013.",
+ "PMGKAY was launched in April 2020 to support poor families during the COVID-19 lockdown. In January 2023, the scheme was merged with NFSA, making all NFSA food grains free of cost (earlier they cost ₹2–3 per kg). In November 2023, the Union Cabinet approved a 5-year extension from 1 January 2024, taking the scheme through December 2028 at a total budget of ₹11.8 lakh crore.",
+ "The scheme covers approximately 81.35 crore people - about 75% of India's rural population and 50% of urban population. There are two main beneficiary categories: Antyodaya Anna Yojana (AAY), which is for the poorest of poor families, and Priority Household (PHH), which covers other NFSA-eligible families."
+ ],
+ "eligibility": [
+ {
+ "label": "Card Holder",
+ "value": "Must have a valid NFSA ration card - AAY or PHH category",
+ "highlight": true
+ },
+ {
+ "label": "Income / Status",
+ "value": "Family must qualify under National Food Security Act 2013 criteria - varies by state",
+ "highlight": true
+ },
+ {
+ "label": "AAY Category",
+ "value": "Poorest families: landless labourers, marginal farmers, destitute, disabled persons, single-women-headed households, primitive tribal groups",
+ "highlight": false
+ },
+ {
+ "label": "PHH Category",
+ "value": "Other priority households below NFSA income threshold, identified by state government",
+ "highlight": false
+ },
+ {
+ "label": "Documents",
+ "value": "Aadhaar of all family members, ration card linked to family ID",
+ "highlight": false
+ },
+ {
+ "label": "State Rules Apply",
+ "value": "Each state government identifies its NFSA beneficiaries within central guidelines",
+ "highlight": false
+ }
+ ],
+ "eligibility_filters": {
+ "gender": [
+ "any"
+ ],
+ "age_min": 0,
+ "age_max": 120,
+ "occupation": [
+ "any"
+ ],
+ "income_max": 200000,
+ "category": [
+ "general",
+ "obc",
+ "sc",
+ "st"
+ ],
+ "states": [
+ "all"
+ ]
+ },
+ "extra_sections": [
+ {
+ "type": "stat_grid",
+ "heading": "Free Ration Scheme At a Glance",
+ "items": [
+ {
+ "icon": "wallet",
+ "value": "5 kg",
+ "label": "Free grains / person / month",
+ "color": "green"
+ },
+ {
+ "icon": "users",
+ "value": "81.35 Cr",
+ "label": "Total beneficiaries",
+ "color": "blue"
+ },
+ {
+ "icon": "calendar",
+ "value": "Dec 2028",
+ "label": "Scheme valid till",
+ "color": "amber"
+ },
+ {
+ "icon": "trending",
+ "value": "₹11.8 L Cr",
+ "label": "5-year total budget",
+ "color": "purple"
+ }
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "AAY vs PHH - What's the Difference?",
+ "icon": "📋",
+ "content": [
+ "Under the National Food Security Act, ration card holders are classified into two main categories. Both get free food grains, but the quantity and entitlement differ.",
+ "Antyodaya Anna Yojana (AAY) is for the poorest of poor households - landless agricultural labourers, marginal farmers, destitute persons, disabled persons, primitive tribal groups, and single-woman-headed households. AAY families receive 35 kg of free food grains per family per month, regardless of family size.",
+ "Priority Household (PHH) covers other families below the NFSA income threshold, as identified by each state government. PHH beneficiaries receive 5 kg of free food grains per person per month - so a family of five gets 25 kg total.",
+ "Until January 2023, both categories paid heavily subsidised rates: ₹3 per kg for rice, ₹2 per kg for wheat, ₹1 per kg for coarse grains. After the PMGKAY-NFSA merger, all of this became fully free."
+ ]
+ },
+ {
+ "type": "comparison_card",
+ "heading": "Quantity by Beneficiary Type",
+ "win": {
+ "name": "AAY (POOREST)",
+ "amount": "35 kg",
+ "sub": "free / family / month"
+ },
+ "others": [
+ {
+ "name": "PHH (PRIORITY)",
+ "amount": "5 kg",
+ "sub": "free / person / month"
+ },
+ {
+ "name": "PHH FAMILY OF 5",
+ "amount": "25 kg",
+ "sub": "free / month"
+ },
+ {
+ "name": "EARLIER (PRE-2023)",
+ "amount": "₹3/kg",
+ "sub": "rice was subsidised"
+ }
+ ]
+ },
+ {
+ "type": "eligibility_check",
+ "heading": "Do You Qualify for Free Ration?",
+ "qualify": [
+ "You have an AAY or PHH ration card under NFSA",
+ "Family income within your state's NFSA threshold",
+ "All family members' Aadhaar linked to ration card",
+ "Active ration card (not blocked or cancelled)",
+ "Resident of the state where card is issued (or use One Nation One Ration Card)",
+ "No duplicate ration cards across states"
+ ],
+ "disqualify": [
+ "You hold only an APL (Above Poverty Line) card - most states do not include APL in free ration",
+ "Family is a government employee or income tax payer in many states",
+ "Family owns more than 5 acres of land (varies by state)",
+ "Family owns a four-wheeler (state-dependent)",
+ "Ration card was cancelled due to non-use or Aadhaar mismatch",
+ "Did not respond to recent eKYC drive - card may be inactive"
+ ]
+ },
+ {
+ "type": "process_flow",
+ "heading": "How to Get Your Free Ration",
+ "steps": [
+ {
+ "icon": "file",
+ "title": "Valid Ration Card",
+ "desc": "AAY or PHH, Aadhaar-linked"
+ },
+ {
+ "icon": "shield",
+ "title": "Visit Fair Price Shop",
+ "desc": "Locate via nfsa.gov.in"
+ },
+ {
+ "icon": "users",
+ "title": "Biometric Verification",
+ "desc": "ePOS Aadhaar check"
+ },
+ {
+ "icon": "wallet",
+ "title": "Collect Grains",
+ "desc": "Receive your monthly free quota"
+ }
+ ]
+ },
+ {
+ "type": "modern_callout",
+ "variant": "info",
+ "title": "One Nation One Ration Card (ONORC) - collect anywhere in India",
+ "content": "Under ONORC, you can collect your free ration at any Fair Price Shop across India using the same ration card. So a migrant worker from Bihar can collect grains in Mumbai or Bengaluru without changing the card. Check the ONORC portal at impds.nic.in for portability details."
+ },
+ {
+ "type": "icon_list",
+ "heading": "Documents to Carry to FPS",
+ "items": [
+ {
+ "icon": "file",
+ "title": "Original Ration Card",
+ "sub": "AAY or PHH category"
+ },
+ {
+ "icon": "shield",
+ "title": "Aadhaar Card",
+ "sub": "of the person collecting"
+ },
+ {
+ "icon": "users",
+ "title": "Family Members Aadhaar",
+ "sub": "linked to ration card"
+ },
+ {
+ "icon": "trending",
+ "title": "Family ID (if applicable)",
+ "sub": "state-issued ID like Samagra in MP"
+ }
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "What to Do If You Are Denied Free Ration",
+ "icon": "⚠️",
+ "content": [
+ "Despite being eligible, some beneficiaries are denied free ration at Fair Price Shops. The most common reasons are biometric failure, ePOS machine issues, or shop dealer claims that stock is unavailable.",
+ "If denied, ask the FPS dealer for a written denial slip stating the reason. Without this, your complaint will be difficult to file. By law, every FPS dealer must issue this slip when refusing service.",
+ "File a complaint by calling the national PDS helpline 1967 (toll-free), or your state's PDS helpline. You can also file an online grievance at the state PDS portal (every state has one) or visit your District Supply Officer.",
+ "If your biometric is failing repeatedly, ask the dealer to use the manual override (OTP-based authentication). If your ration card is showing 'inactive', visit the nearest Common Service Centre (CSC) or Mee Seva centre to update your eKYC."
+ ]
+ },
+ {
+ "type": "timeline",
+ "heading": "PMGKAY - Key Milestones",
+ "items": [
+ {
+ "date": "APRIL 2020",
+ "event": "PMGKAY launched",
+ "desc": "During COVID-19 lockdown - initially 3 months, extended multiple times"
+ },
+ {
+ "date": "JANUARY 2023",
+ "event": "Merged with NFSA",
+ "desc": "All NFSA grains became free - subsidy of ₹2-3/kg removed"
+ },
+ {
+ "date": "NOVEMBER 2023",
+ "event": "5-year extension approved",
+ "desc": "Union Cabinet extends PMGKAY from Jan 2024 to Dec 2028"
+ },
+ {
+ "date": "DECEMBER 2028",
+ "event": "Current end date",
+ "desc": "₹11.8 lakh crore total budget allocated for this period"
+ }
+ ]
+ },
+ {
+ "type": "number_highlight",
+ "big": "₹11.8 L Cr",
+ "title": "Total 5-year budget allocation",
+ "desc": "From 1 January 2024 to 31 December 2028 - making PMGKAY one of the world's largest food security programmes. Average ₹2.36 lakh crore per year, fully borne by the central government."
+ },
+ {
+ "type": "text",
+ "heading": "How to Apply for an NFSA Ration Card",
+ "icon": "📝",
+ "content": [
+ "You cannot directly apply for PMGKAY - it is automatic for all NFSA cardholders. To benefit, you must first hold a valid AAY or PHH ration card. New ration cards are issued by your state government, not the central government.",
+ "The process varies slightly by state, but generally involves: applying online on your state PDS / food department portal (or offline at the nearest Tehsil / Mandal office), submitting Aadhaar of all family members, address proof, income certificate, and a passport-sized photo of the head of household, and waiting for verification by the local revenue / supply officer.",
+ "Common state portals: AePDS (Andhra Pradesh) at epos.ap.gov.in, FCS (Uttar Pradesh) at fcs.up.gov.in, e-Sampark (Bihar), Annapurna (Maharashtra). Search your state name + 'ration card apply' to find the right portal.",
+ "After approval, your card category (AAY or PHH) is decided by your reported income, family size, and state-specific criteria. If you believe you should be AAY (poorest category) but were placed in PHH, you can appeal at the District Supply Officer."
+ ]
+ },
+ {
+ "type": "modern_callout",
+ "variant": "warning",
+ "title": "Do not pay anyone to get a ration card or to receive your free ration",
+ "content": "Ration cards are issued free by the state government. Free grains under PMGKAY are fully free at every Fair Price Shop in India. If anyone - agent, dealer, or middleman - asks for money in cash to issue a card, register you, or release your monthly grains, it is a scam. Report it on helpline 1967 immediately."
+ }
+ ],
+ "how_to_apply": [
+ {
+ "step": 1,
+ "title": "Get a valid NFSA ration card",
+ "description": "Apply at your state PDS portal or Tehsil office. You need Aadhaar of all family members, address proof, and an income certificate. State officials decide your AAY or PHH category based on income and family details."
+ },
+ {
+ "step": 2,
+ "title": "Link Aadhaar of every family member to the ration card",
+ "description": "All members listed on the card must have their Aadhaar seeded. Visit your nearest Fair Price Shop or Common Service Centre with everyone's Aadhaar for linking. Complete eKYC if asked."
+ },
+ {
+ "step": 3,
+ "title": "Locate your Fair Price Shop",
+ "description": "Visit nfsa.gov.in and use the FPS locator. Your card is tagged to a specific shop, but under ONORC you can collect from any FPS in India if travelling or migrant."
+ },
+ {
+ "step": 4,
+ "title": "Collect your monthly free ration",
+ "description": "Visit the FPS during the open window (usually first 15 days of the month). Biometric authentication is done on the ePOS machine. Receive 5 kg per person (PHH) or 35 kg per family (AAY) free."
+ }
+ ],
+ "important_alert": {
+ "text": "PMGKAY (Free Ration Scheme) has been extended to 31 December 2028. All NFSA grains are free of cost - no payment is required at any Fair Price Shop. If denied, call helpline 1967.",
+ "type": "info"
+ },
+ "important_dates": [
+ {
+ "label": "Scheme Launched",
+ "value": "April 2020 (COVID-19 response)",
+ "highlight": false
+ },
+ {
+ "label": "Merged with NFSA",
+ "value": "January 2023 - all NFSA grains became free",
+ "highlight": false
+ },
+ {
+ "label": "Current Extension Start",
+ "value": "1 January 2024",
+ "highlight": true
+ },
+ {
+ "label": "Current End Date",
+ "value": "31 December 2028 (5-year extension)",
+ "highlight": true
+ },
+ {
+ "label": "Distribution Window",
+ "value": "Usually first 15 days of each month at FPS",
+ "highlight": false
+ }
+ ],
+ "faqs": [
+ {
+ "question": "Is the free ration scheme still active in 2026?",
+ "answer": "Yes. PMGKAY (the Free Ration Scheme) is active and has been extended for five years from 1 January 2024 to 31 December 2028, with a total budget of ₹11.8 lakh crore. All ~81 crore NFSA beneficiaries continue to receive their monthly grains entirely free of cost at Fair Price Shops."
+ },
+ {
+ "question": "How much free ration do I get under PMGKAY?",
+ "answer": "It depends on your category. AAY (Antyodaya Anna Yojana - poorest of poor) families receive 35 kg of free grains per family per month, regardless of family size. PHH (Priority Household) beneficiaries receive 5 kg per person per month - so a family of five gets 25 kg per month free. Both categories pay nothing."
+ },
+ {
+ "question": "Do I have to pay anything for the free ration now?",
+ "answer": "No, you pay nothing. Earlier (pre-January 2023), NFSA grains cost ₹3 per kg for rice, ₹2 per kg for wheat, and ₹1 per kg for coarse grains. Since the PMGKAY-NFSA merger in January 2023, all grains are fully free. If any FPS dealer asks for payment, refuse and report on helpline 1967."
+ },
+ {
+ "question": "What is the difference between AAY and PHH ration cards?",
+ "answer": "AAY (Antyodaya Anna Yojana) is for the poorest families - landless labourers, marginal farmers, destitute persons, disabled persons, primitive tribal groups, single-woman-headed households. AAY families get 35 kg per family per month. PHH (Priority Household) is for other NFSA-eligible families below the state income threshold, and gets 5 kg per person per month. Both are free."
+ },
+ {
+ "question": "I have an APL card - am I eligible for free ration?",
+ "answer": "Generally no. APL (Above Poverty Line) cardholders are not part of NFSA, so they are not eligible for the free PMGKAY grains. A few states run their own state-funded schemes for APL families, but the central PMGKAY does not cover APL. If you believe your family qualifies for AAY or PHH but only has an APL card, apply for re-categorisation at your District Supply Office."
+ },
+ {
+ "question": "Can I collect my free ration anywhere in India?",
+ "answer": "Yes, under One Nation One Ration Card (ONORC). You can collect your monthly free ration at any Fair Price Shop across India using the same ration card. This is especially helpful for migrant workers. Visit impds.nic.in or use the Mera Ration mobile app to find ONORC-enabled FPS shops near you."
+ },
+ {
+ "question": "What should I do if the FPS dealer denies me free ration?",
+ "answer": "First, ask the dealer for a written denial slip stating the reason - by law they must provide it. Then call the national PDS helpline 1967 (toll-free) or your state PDS helpline to register a complaint. You can also file an online grievance on your state's food department portal. If biometric is failing, ask for manual OTP override; if your card is shown inactive, update eKYC at your nearest Common Service Centre."
+ },
+ {
+ "question": "When will PMGKAY end and what comes after?",
+ "answer": "The current extension runs until 31 December 2028. The government has not yet announced what happens after that date - past pattern suggests the scheme will likely be extended again before expiry. Until December 2028, all 81 crore NFSA beneficiaries continue to receive 5 kg free grains per person per month."
+ }
+ ],
+ "official_portal": {
+ "name": "NFSA Portal - nfsa.gov.in",
+ "url": "https://nfsa.gov.in/"
+ },
+ "related_pages": [
+ {
+ "title": "PM Kisan Yojana",
+ "slug": "pm-kisan",
+ "tag": "Central Scheme"
+ },
+ {
+ "title": "Ayushman Bharat",
+ "slug": "ayushman-bharat",
+ "tag": "Health Scheme"
+ },
+ {
+ "title": "Sukanya Samriddhi Yojana",
+ "slug": "sukanya-samriddhi-yojana",
+ "tag": "Girl Child Savings"
+ }
+ ],
+ "category": "food-subsidy",
+ "isCentral": true
+}

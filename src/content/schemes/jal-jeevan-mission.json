@@ -1,0 +1,441 @@
+{
+ "slug": "jal-jeevan-mission",
+ "title": "Jal Jeevan Mission 2026: Free Tap Water Connection (Har Ghar Jal)",
+ "meta_description": "Free piped tap water connection for every rural household. 15.80 Cr (81.6%) covered as of May 2026. Mission extended to Dec 2028. Apply via Gram Panchayat.",
+ "ministry": "Ministry of Jal Shakti (Department of Drinking Water & Sanitation)",
+ "launch_year": 2019,
+ "last_reviewed": "May 2026",
+ "tags": [
+ "jal jeevan mission",
+ "har ghar jal",
+ "tap water",
+ "FHTC",
+ "rural water",
+ "drinking water"
+ ],
+ "image_suggestions": [
+ "Har Ghar Jal tap",
+ "rural water connection",
+ "village water supply"
+ ],
+ "hero": {
+ "status": "active",
+ "one_liner": "India's largest rural water supply mission - free piped tap water connection (FHTC) for every rural household, 55 litres per person per day, target extended to December 2028",
+ "icon": "💧",
+ "updated_date": "May 2026",
+ "stats": [
+ {
+ "label": "Households Covered",
+ "value": "15.80 Crore"
+ },
+ {
+ "label": "Coverage %",
+ "value": "81.6%"
+ },
+ {
+ "label": "Per Person / Day",
+ "value": "55 Litres"
+ },
+ {
+ "label": "Central Outlay",
+ "value": "₹2.08 L Cr"
+ }
+ ]
+ },
+ "quick_actions": [
+ {
+ "icon": "🏛️",
+ "label": "Gram Panchayat Office",
+ "url": "https://ejalshakti.gov.in/"
+ },
+ {
+ "icon": "📊",
+ "label": "JJM Dashboard",
+ "url": "https://ejalshakti.gov.in/jjmreport/"
+ },
+ {
+ "icon": "📞",
+ "label": "Ministry of Jal Shakti",
+ "url": "https://jaljeevanmission.gov.in/"
+ }
+ ],
+ "what_is_it": [
+ "Jal Jeevan Mission (JJM), launched by Prime Minister Narendra Modi on 15 August 2019, is the Government of India's flagship water supply scheme. Its tagline, \"Har Ghar Jal\" - meaning \"Water in Every Home\" - captures the goal: a Functional Household Tap Connection (FHTC) delivering safe, regular, piped drinking water to every rural household in India.",
+ "When the mission was launched, only 3.23 crore rural households (about 17%) had tap water connections. As of May 2026, the Mission has provided tap connections to over 15.80 crore households - covering 81.6% of all rural India. More than 2.7 lakh villages have been certified as \"Har Ghar Jal\" villages, meaning every household and public institution in those villages has a working tap connection.",
+ "The original target was 100% coverage by 2024, but the Union Cabinet has extended the Mission until December 2028 to achieve full saturation. The central outlay is ₹2.08 lakh crore, with additional state contributions under a cost-sharing partnership (typically 50:50 for most states, 90:10 for North-Eastern and Himalayan states, 100% for Union Territories)."
+ ],
+ "eligibility": [
+ {
+ "label": "Resident",
+ "value": "Every household in a designated rural area (Gram Panchayat) of India",
+ "highlight": true
+ },
+ {
+ "label": "Income / Caste",
+ "value": "No income limit, no caste-based filter - universal coverage",
+ "highlight": true
+ },
+ {
+ "label": "Land Ownership",
+ "value": "Not required - landless households are equally eligible",
+ "highlight": false
+ },
+ {
+ "label": "Card Type",
+ "value": "BPL and APL families both covered",
+ "highlight": false
+ },
+ {
+ "label": "Disability",
+ "value": "Households with people with disabilities get priority for connection",
+ "highlight": false
+ },
+ {
+ "label": "Documents",
+ "value": "Aadhaar (recommended) and address/residence proof - verified by Gram Panchayat",
+ "highlight": false
+ }
+ ],
+ "eligibility_filters": {
+ "gender": [
+ "any"
+ ],
+ "age_min": 0,
+ "age_max": 120,
+ "occupation": [
+ "any"
+ ],
+ "income_max": 9999999,
+ "category": [
+ "general",
+ "obc",
+ "sc",
+ "st"
+ ],
+ "states": [
+ "all"
+ ]
+ },
+ "extra_sections": [
+ {
+ "type": "stat_grid",
+ "heading": "Jal Jeevan Mission At a Glance",
+ "items": [
+ {
+ "icon": "wallet",
+ "value": "Free",
+ "label": "Tap connection cost",
+ "color": "green"
+ },
+ {
+ "icon": "users",
+ "value": "15.80 Cr",
+ "label": "Households connected",
+ "color": "blue"
+ },
+ {
+ "icon": "trending",
+ "value": "55 L",
+ "label": "Per person per day",
+ "color": "amber"
+ },
+ {
+ "icon": "calendar",
+ "value": "Dec 2028",
+ "label": "Mission target",
+ "color": "purple"
+ }
+ ]
+ },
+ {
+ "type": "modern_callout",
+ "variant": "info",
+ "title": "Tap connection is free - there is no application fee",
+ "content": "Under Jal Jeevan Mission, the household tap connection itself is provided free of cost to every rural household. Capital cost is borne by JJM funds and state share. After installation, the Village Water and Sanitation Committee (VWSC) may set a small monthly water tariff (typically ₹30–₹100/month) for operation and maintenance - decided by the local committee, not the central government."
+ },
+ {
+ "type": "text",
+ "heading": "What JJM Actually Delivers",
+ "icon": "💧",
+ "content": [
+ "JJM is not just about installing a tap - it is built around a service delivery standard. Every rural household covered under the Mission is entitled to:",
+ "55 litres of safe drinking water per person per day - based on Bureau of Indian Standards (BIS) IS 10500 norms for potable water. The water must meet quality standards for arsenic, fluoride, iron, and bacterial contamination.",
+ "Regular supply, on demand - not just one tap installation. Water should flow reliably through the year, including in summer months when rural sources typically dry up.",
+ "Last-mile delivery into the home - piped to the household, not just to a community standpost. This is what distinguishes Functional Household Tap Connection (FHTC) from earlier schemes.",
+ "Water source sustainability and quality testing - local sources (groundwater, surface water) must be protected and treated. Water Quality Monitoring & Surveillance is mandatory at the village level."
+ ]
+ },
+ {
+ "type": "process_flow",
+ "heading": "How to Get a Tap Connection",
+ "steps": [
+ {
+ "icon": "users",
+ "title": "Visit Gram Panchayat",
+ "desc": "Or your Village Water and Sanitation Committee (VWSC)"
+ },
+ {
+ "icon": "file",
+ "title": "Request Application",
+ "desc": "Provide Aadhaar + address proof"
+ },
+ {
+ "icon": "shield",
+ "title": "Site Survey",
+ "desc": "VWSC team visits, verifies, plans the connection"
+ },
+ {
+ "icon": "wallet",
+ "title": "Free Installation",
+ "desc": "Tap is installed at no cost to you"
+ }
+ ]
+ },
+ {
+ "type": "eligibility_check",
+ "heading": "Is Your Village Covered Yet?",
+ "qualify": [
+ "Your village is in a designated rural Gram Panchayat",
+ "The state has approved JJM works for your village",
+ "Water source (groundwater / surface) is available in your area",
+ "Village Water and Sanitation Committee (VWSC) is formed",
+ "Pipeline infrastructure has been laid in your village",
+ "Source sustainability and water quality testing in place"
+ ],
+ "disqualify": [
+ "You live in an urban area or municipal limits (JJM is rural only - urban areas are under AMRUT)",
+ "Your village has been deferred to a later phase",
+ "Your area has source-availability issues being resolved",
+ "Pipeline laying has not yet begun in your village",
+ "Your house is in an unrecognised colony or encroachment"
+ ]
+ },
+ {
+ "type": "icon_list",
+ "heading": "Documents Helpful for Connection Request",
+ "items": [
+ {
+ "icon": "shield",
+ "title": "Aadhaar Card",
+ "sub": "Recommended for household head"
+ },
+ {
+ "icon": "file",
+ "title": "Address / Residence Proof",
+ "sub": "Voter ID, ration card, electricity bill"
+ },
+ {
+ "icon": "users",
+ "title": "Family Details",
+ "sub": "Number of members for water quantity calculation"
+ },
+ {
+ "icon": "file",
+ "title": "Property / House Number",
+ "sub": "Verified by Gram Panchayat records"
+ }
+ ]
+ },
+ {
+ "type": "number_highlight",
+ "big": "₹2.08 L Cr",
+ "title": "Total central outlay for Jal Jeevan Mission",
+ "desc": "Plus state share under cost-sharing partnership: 50:50 for most states, 90:10 for North-Eastern and Himalayan states, 100% centrally funded for Union Territories. State contributions are additional to this central figure."
+ },
+ {
+ "type": "comparison_card",
+ "heading": "States that Achieved 100% Coverage First",
+ "win": {
+ "name": "GOA & TELANGANA",
+ "amount": "100%",
+ "sub": "First major states to saturate"
+ },
+ "others": [
+ {
+ "name": "HARYANA, GUJARAT",
+ "amount": "100%",
+ "sub": "Achieved by 2023"
+ },
+ {
+ "name": "PUNJAB, HP, MIZORAM",
+ "amount": "100%",
+ "sub": "Achieved by 2024"
+ },
+ {
+ "name": "REST OF INDIA",
+ "amount": "81.6%",
+ "sub": "national avg, May 2026"
+ }
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "Coverage vs. Functionality - The Real Gap",
+ "icon": "📊",
+ "content": [
+ "While JJM's coverage numbers are remarkable, a 2024 government-commissioned survey revealed an important distinction: even when nearly all rural households have a tap installed, only about three-fourths actually receive regular, safe, and adequate water through it.",
+ "This is the difference between <em>coverage</em> (tap is installed) and <em>functionality</em> (water actually flows, on time, safely). The 2026 phase of JJM is focused specifically on closing this gap - ensuring source sustainability, regular maintenance, and continuous water quality testing.",
+ "If you have a tap but water does not flow regularly or quality is poor, raise the issue with your Gram Panchayat's VWSC. You can also escalate to the District Water and Sanitation Mission (DWSM) or report on the official JJM dashboard at ejalshakti.gov.in."
+ ]
+ },
+ {
+ "type": "timeline",
+ "heading": "Jal Jeevan Mission - Key Milestones",
+ "items": [
+ {
+ "date": "15 AUG 2019",
+ "event": "Mission launched",
+ "desc": "PM Modi announces Har Ghar Jal from Red Fort, Independence Day speech"
+ },
+ {
+ "date": "2019 BASELINE",
+ "event": "3.23 crore households",
+ "desc": "Only 17% of rural India had tap water at launch"
+ },
+ {
+ "date": "JULY 2024",
+ "event": "15 crore milestone",
+ "desc": "Original deadline year - coverage crossed 15 crore households"
+ },
+ {
+ "date": "OCT 2025",
+ "event": "15.71 crore connected",
+ "desc": "80% national coverage achieved"
+ },
+ {
+ "date": "2026",
+ "event": "Extended to Dec 2028",
+ "desc": "Union Cabinet approves extension for 100% saturation"
+ },
+ {
+ "date": "MAY 2026",
+ "event": "15.80 crore households",
+ "desc": "81.6% coverage - current status"
+ }
+ ]
+ },
+ {
+ "type": "modern_callout",
+ "variant": "warning",
+ "title": "Do not pay anyone for a JJM tap connection",
+ "content": "There are no agents, brokers, or middlemen authorised to give JJM connections. Connection is free at every Gram Panchayat in India. If anyone - contractor, dealer, or official - asks for cash to install your tap, report it to your District Collector or use the grievance system at ejalshakti.gov.in. The only legitimate cost is the small monthly tariff (₹30–₹100) set by your Village Water Committee for ongoing maintenance."
+ },
+ {
+ "type": "text",
+ "heading": "Who Should Get JJM Connection First (Priority Households)",
+ "icon": "📋",
+ "content": [
+ "Under JJM, certain categories are given priority within each village's rollout sequence:",
+ "Households with persons with disabilities - they receive earliest connection, since fetching water from distant sources is especially difficult for them.",
+ "SC/ST hamlets and tribal villages - earlier phases focused on these communities, which have historically had the poorest water access.",
+ "Schools, Anganwadi centres, health sub-centres - all public institutions in a village are connected before \"Har Ghar Jal\" certification can be given. This supports the PM POSHAN meal programme and Anganwadi nutrition activities.",
+ "Drought-prone and water-stressed areas - districts identified under aspirational districts, water-stressed blocks, and JE/AES-affected areas are prioritised."
+ ]
+ }
+ ],
+ "how_to_apply": [
+ {
+ "step": 1,
+ "title": "Check if JJM has reached your village",
+ "description": "Visit ejalshakti.gov.in or your Gram Panchayat office. The dashboard shows whether tap connection works have started in your village. If not yet started, your village is on a future phase - works typically begin within 1-2 years of project approval."
+ },
+ {
+ "step": 2,
+ "title": "Approach your Gram Panchayat or VWSC",
+ "description": "All applications are handled at the local level by the Gram Panchayat and the Village Water and Sanitation Committee (VWSC). There is no centralised online application form - this is intentional to keep accountability local."
+ },
+ {
+ "step": 3,
+ "title": "Submit identity and address details",
+ "description": "Aadhaar (recommended), an address proof (voter ID, ration card, electricity bill), and your house number / property identifier. The VWSC verifies your household against village records."
+ },
+ {
+ "step": 4,
+ "title": "Get the tap connection installed (free)",
+ "description": "VWSC site team visits, plans the connection, and installs the tap free of cost. Once installed, monthly water tariff (₹30-₹100, decided by your VWSC) covers ongoing operation and maintenance - there is no upfront connection fee."
+ }
+ ],
+ "important_alert": {
+ "text": "Jal Jeevan Mission has been extended to December 2028. Tap connection is free for every rural household. Apply only through your Gram Panchayat / Village Water Committee - there are no agents or middlemen authorised by the government.",
+ "type": "info"
+ },
+ "important_dates": [
+ {
+ "label": "Mission Launched",
+ "value": "15 August 2019 (PM Modi, from Red Fort)",
+ "highlight": true
+ },
+ {
+ "label": "Original Target",
+ "value": "2024 (extended)",
+ "highlight": false
+ },
+ {
+ "label": "Current Target",
+ "value": "31 December 2028 (Union Cabinet 2026 extension)",
+ "highlight": true
+ },
+ {
+ "label": "Latest Coverage Report",
+ "value": "May 2026 - 15.80 crore households, 81.6%",
+ "highlight": false
+ }
+ ],
+ "faqs": [
+ {
+ "question": "Is Jal Jeevan Mission tap connection free?",
+ "answer": "Yes. Under Jal Jeevan Mission, the household tap connection is provided free of cost to every rural household. Capital cost is borne by JJM funds and the state government's share. After installation, a small monthly water tariff (typically ₹30 to ₹100 per month) may be charged for operation and maintenance - this is set by your local Village Water and Sanitation Committee (VWSC), not the central government."
+ },
+ {
+ "question": "How can I apply for Har Ghar Jal in my village?",
+ "answer": "Applications for JJM are handled at the local level. Visit your Gram Panchayat office or your Village Water and Sanitation Committee (VWSC) and request a tap connection. Carry your Aadhaar and an address proof (voter ID, ration card, or electricity bill). There is no centralised online application form - the process is deliberately local to keep accountability with the village committee."
+ },
+ {
+ "question": "Is Jal Jeevan Mission only for BPL families?",
+ "answer": "No. JJM is universal - every rural household is eligible regardless of income, caste, or land ownership. BPL and APL families are both covered, with no income limit or scrutiny. Households with persons with disabilities and SC/ST hamlets get priority within the village rollout sequence, but everyone in a rural Gram Panchayat is eligible."
+ },
+ {
+ "question": "What is the current coverage of Jal Jeevan Mission?",
+ "answer": "As of May 2026, 15.80 crore rural households have received tap water connections under JJM - covering 81.6% of rural India. The mission started with only 3.23 crore households (17%) in 2019. States like Goa, Telangana, Haryana, Gujarat, Punjab, Himachal Pradesh, Mizoram, and Arunachal Pradesh have already achieved 100% coverage."
+ },
+ {
+ "question": "Can I get JJM connection if I live in a city?",
+ "answer": "No. Jal Jeevan Mission is exclusively for rural areas (Gram Panchayats). Urban water supply is covered under a different programme called AMRUT 2.0 (Atal Mission for Rejuvenation and Urban Transformation), run by the Ministry of Housing and Urban Affairs. Check with your municipal corporation for urban water connections."
+ },
+ {
+ "question": "I have a tap but water does not come regularly. What can I do?",
+ "answer": "Functional Household Tap Connection (FHTC) means the tap should deliver 55 litres of safe water per person per day, regularly. If your tap exists but water does not flow consistently or quality is poor, this is a functionality gap. Raise the issue with your VWSC or Gram Panchayat first. If unresolved, escalate to the District Water and Sanitation Mission (DWSM) or file a grievance at ejalshakti.gov.in."
+ },
+ {
+ "question": "What about Jal Jeevan Mission Urban?",
+ "answer": "There is no separate \"Jal Jeevan Mission Urban\" scheme. Urban water supply is handled under AMRUT 2.0 (Atal Mission for Rejuvenation and Urban Transformation), which targets piped water and sewerage in cities. JJM is rural-only and focused on Gram Panchayats."
+ },
+ {
+ "question": "What happens after JJM ends in December 2028?",
+ "answer": "The mission has been extended once already - from the original 2024 deadline to December 2028. The current focus is achieving 100% saturation by then. Post-2028, the priority is expected to shift from new connections to ensuring functionality, source sustainability, and water quality. The government has not announced what specific programme will succeed JJM, but operation and maintenance of the existing network will continue through Village Water Committees."
+ }
+ ],
+ "official_portal": {
+ "name": "Jal Jeevan Mission - jaljeevanmission.gov.in",
+ "url": "https://jaljeevanmission.gov.in/"
+ },
+ "related_pages": [
+ {
+ "title": "PM Kisan Yojana",
+ "slug": "pm-kisan",
+ "tag": "Central Scheme"
+ },
+ {
+ "title": "Ayushman Bharat",
+ "slug": "ayushman-bharat",
+ "tag": "Health Scheme"
+ },
+ {
+ "title": "Free Ration Scheme (PMGKAY)",
+ "slug": "free-ration-scheme",
+ "tag": "Welfare"
+ }
+ ],
+ "category": "other-central",
+ "isCentral": true
+}

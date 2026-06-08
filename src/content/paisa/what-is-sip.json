@@ -1,0 +1,509 @@
+{
+ "slug": "what-is-sip",
+ "title": "What is SIP?",
+ "meta_description": "SIP (Systematic Investment Plan) lets you invest as little as ₹500/month in mutual funds. Learn how SIP works, its benefits, risks, and how to start today.",
+ "hero": {
+ "one_liner": "Invest a small fixed amount every month in mutual funds - and let compounding build your wealth over time",
+ "icon": "📈",
+ "updated_date": "May 2026",
+ "tags": [
+ "Investing Basics",
+ "Mutual Funds"
+ ],
+ "read_time": "6 min",
+ "stats": [
+ {
+ "label": "Min. Investment",
+ "value": "₹500/mo"
+ },
+ {
+ "label": "Avg. Returns",
+ "value": "10–15% p.a."
+ },
+ {
+ "label": "Lock-in",
+ "value": "None*"
+ }
+ ]
+ },
+ "sections": [
+ {
+ "heading": "What is SIP in Simple Words?",
+ "icon": "💡",
+ "type": "text",
+ "content": [
+ "SIP stands for Systematic Investment Plan. It is a method of investing in <a href=\"/paisa/what-is-mutual-fund\" style=\"text-decoration:underline;color:inherit\">mutual</a> funds where you put a fixed amount of money every month (or week/quarter) automatically.",
+ "Think of it like a recurring deposit (RD) in a bank - except instead of going to a <a href=\"/paisa/what-is-elss\" style=\"text-decoration:underline;color:inherit\">saving</a>s account, your money goes into a mutual fund that invests it in the stock market, bonds, or both.",
+ "SIP is not a product or a scheme. It's simply a way to invest.",
+ "You choose a mutual fund, set an amount (minimum ₹500/month on most apps), pick a date, and the money gets deducted from your bank account automatically every month. You can stop, pause, or change the amount anytime with zero penalty.",
+ "Why is SIP popular? Because it removes the biggest problem with investing - timing.",
+ "Instead of trying to guess whether the market is high or low, you invest the same amount every month regardless. When the market drops, your ₹500 buys more units.",
+ "When it rises, your existing units become more valuable. Over years, this averages out your cost and reduces risk.",
+ "This is called rupee cost averaging."
+ ]
+ },
+ {
+ "heading": "",
+ "type": "svg_block",
+ "svg": "<svg viewBox=\"0 0 700 180\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">SIP how Rs 5,000/month becomes Rs 1 cror</text><rect x=\"50\" y=\"50\" width=\"180\" height=\"100\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"140\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#145236\">10 years</text><text x=\"140\" y=\"105\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"20\" font-weight=\"800\" fill=\"#1B6B4A\">Rs 11.6L</text><text x=\"140\" y=\"128\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#145236\">Invested: Rs 6L</text><rect x=\"260\" y=\"50\" width=\"180\" height=\"100\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"350\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1E40AF\">20 years</text><text x=\"350\" y=\"105\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"20\" font-weight=\"800\" fill=\"#2563EB\">Rs 49.9L</text><text x=\"350\" y=\"128\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#1E40AF\">Invested: Rs 12L</text><rect x=\"470\" y=\"50\" width=\"180\" height=\"100\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"560\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#C2410C\">30 years</text><text x=\"560\" y=\"105\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"20\" font-weight=\"800\" fill=\"#EA580C\">Rs 1.76Cr</text><text x=\"560\" y=\"128\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#C2410C\">Invested: Rs 18L</text></svg>",
+ "caption": "At 12% annual return, Rs 5,000/month SIP becomes Rs 1.76 crore in 30 years. You invest only Rs 18 lakh - compounding adds Rs 1.58 crore. Start early, stay invested."
+ },
+ {
+ "heading": "How Does SIP Work?",
+ "icon": "⚙️",
+ "type": "steps",
+ "steps": [
+ {
+ "step": 1,
+ "title": "Pick a mutual fund",
+ "description": "Choose a fund based on your goal. For beginners, a Nifty 50 Index Fund is the simplest starting point - it tracks the top 50 Indian companies. If you want less risk, pick a balanced/hybrid fund. Apps like Groww, Zerodha Coin, and Paytm Money let you browse and compare funds easily."
+ },
+ {
+ "step": 2,
+ "title": "Set your SIP amount and date",
+ "description": "Decide how much you want to invest each month. ₹500 is the minimum on most platforms. Pick a date (say, the 5th of every month) when the amount will be auto-debited from your bank account."
+ },
+ {
+ "step": 3,
+ "title": "Money gets invested automatically",
+ "description": "Every month on your chosen date, the amount is deducted from your bank account and used to buy 'units' of the mutual fund at that day's price (called NAV - Net Asset Value). If the NAV is ₹100 and you invest ₹1,000, you get 10 units."
+ },
+ {
+ "step": 4,
+ "title": "Your units accumulate over time",
+ "description": "Month after month, you keep buying units. Some months the price is high (you get fewer units), some months it's low (you get more units). Over time, your total units grow and the value of each unit also grows, creating wealth through compounding."
+ },
+ {
+ "step": 5,
+ "title": "Redeem whenever you want",
+ "description": "You can sell (redeem) your units anytime and get the money back in your bank account within 1-3 working days. There's no lock-in for most funds (except ELSS which has a 3-year lock-in). No exit penalty after 1 year for equity funds."
+ }
+ ]
+ },
+ {
+ "heading": "The Power of Compounding - Real Numbers",
+ "icon": "💰",
+ "type": "text",
+ "content": [
+ "Here's what makes SIP powerful - the longer you stay, the more compounding works in your favor. These numbers assume a 12% annual return, which is roughly what large-cap equity funds have delivered over 15-20 year periods historically:",
+ "₹1,000/month for 10 years = You invest ₹1.2 lakh, it grows to approximately ₹2.3 lakh. That's nearly 2× your <a href=\"/paisa/sip-vs-fd-vs-ppf\" style=\"text-decoration:underline;color:inherit\">investment</a>.",
+ "₹3,000/month for 15 years = You invest ₹5.4 lakh, it grows to approximately ₹15.2 lakh. That's nearly 3× your money.",
+ "₹5,000/month for 20 years = You invest ₹12 lakh, it grows to approximately ₹50 lakh. That's over 4× your <a href=\"/compare/ppf-vs-elss\" style=\"text-decoration:underline;color:inherit\">investment</a>.",
+ "₹10,000/month for 25 years = You invest ₹30 lakh, it grows to approximately ₹1.9 crore. This is the magic of long-term compounding.",
+ "Important: These are estimates based on historical returns. Actual returns will vary based on market performance.",
+ "Past performance does not guarantee future results."
+ ]
+ },
+ {
+ "heading": "Benefits of SIP",
+ "icon": "✅",
+ "type": "info_rows",
+ "rows": [
+ {
+ "label": "Start very small",
+ "value": "₹500/month is enough to begin. No large lump sum needed.",
+ "highlight": true
+ },
+ {
+ "label": "Rupee cost averaging",
+ "value": "Automatically buys more units when market is low, fewer when high. Reduces your average cost.",
+ "highlight": false
+ },
+ {
+ "label": "Power of compounding",
+ "value": "Returns earn returns. ₹5,000/month at 12% for 20 years = ~₹50 lakh from just ₹12 lakh invested.",
+ "highlight": true
+ },
+ {
+ "label": "No timing needed",
+ "value": "You don't need to track the market daily. SIP invests regularly regardless of market conditions.",
+ "highlight": false
+ },
+ {
+ "label": "Completely flexible",
+ "value": "Pause, stop, increase, or decrease your SIP anytime. No penalty, no lock-in (except ELSS).",
+ "highlight": false
+ },
+ {
+ "label": "Tax savings possible",
+ "value": "ELSS (Equity Linked Savings Scheme) SIPs give tax deduction under Section 80C up to ₹1.5 lakh/year.",
+ "highlight": true
+ },
+ {
+ "label": "Beats inflation",
+ "value": "FD gives 6-7%. Inflation is 5-6%. Your real return is almost zero. Equity SIP at 12% actually grows your purchasing power.",
+ "highlight": false
+ }
+ ]
+ },
+ {
+ "heading": "Risks of SIP - Be Honest With Yourself",
+ "icon": "⚠️",
+ "type": "text",
+ "content": [
+ "SIP is not risk-free. Your money goes into mutual funds which invest in the stock market.",
+ "Markets go up and down. In the short term (1-3 years), you can see negative returns - meaning your investment value may drop below what you put in.",
+ "However, historically, equity mutual funds in India have not given negative returns over any 7+ year period. The risk reduces dramatically the longer you stay invested.",
+ "This is why SIP works best as a long-term tool (5-10+ years), not for short-term goals like buying a phone next year.",
+ "Another risk: choosing the wrong fund. A poorly managed fund can underperform the market consistently.",
+ "Stick to well-known fund houses (SBI, HDFC, ICICI Prudential, Axis, Mirae Asset) and prefer index funds if you're a beginner - they simply track the market and have lower fees."
+ ]
+ },
+ {
+ "heading": "SIP vs FD vs PPF vs RD",
+ "icon": "⚖️",
+ "type": "comparison_table",
+ "columns": [
+ "Feature",
+ "SIP (Mutual Fund)",
+ "Fixed Deposit",
+ "PPF",
+ "Recurring Deposit"
+ ],
+ "rows": [
+ [
+ "Returns (approx)",
+ "10–15% p.a.",
+ "6–7.5% p.a.",
+ "7.1% p.a.",
+ "6–7% p.a."
+ ],
+ [
+ "Risk Level",
+ "Market-linked (medium-high)",
+ "Very low (guaranteed)",
+ "Zero (govt-backed)",
+ "Very low (guaranteed)"
+ ],
+ [
+ "Lock-in Period",
+ "None (3 years for ELSS)",
+ "7 days to 10 years",
+ "15 years",
+ "1-10 years"
+ ],
+ [
+ "Minimum Amount",
+ "₹500/month",
+ "₹1,000 one-time",
+ "₹500/year",
+ "₹100/month"
+ ],
+ [
+ "Tax Benefit",
+ "ELSS: Sec 80C",
+ "5-year FD: Sec 80C",
+ "Full (EEE status)",
+ "None"
+ ],
+ [
+ "Liquidity",
+ "High (redeem in 1-3 days)",
+ "Penalty for early withdrawal",
+ "Partial after 7 years",
+ "Penalty for early closure"
+ ],
+ [
+ "Best For",
+ "Long-term wealth creation",
+ "Short-term safe parking",
+ "Ultra-safe long-term saving",
+ "Disciplined short-term saving"
+ ],
+ [
+ "Beats Inflation?",
+ "Yes, historically",
+ "Barely",
+ "Barely",
+ "No"
+ ]
+ ],
+ "footnote": "*ELSS mutual funds have a mandatory 3-year lock-in period. All other equity/debt fund SIPs have no lock-in."
+ },
+ {
+ "heading": "How to Start a SIP Today",
+ "icon": "🚀",
+ "type": "steps",
+ "steps": [
+ {
+ "step": 1,
+ "title": "Complete your KYC (one-time)",
+ "description": "Download any mutual fund app - Groww, Zerodha Coin, Paytm Money, or Kuvera. Sign up and complete KYC using your PAN card and Aadhaar. This is a one-time process that takes 5-10 minutes. You'll need to do a short video verification."
+ },
+ {
+ "step": 2,
+ "title": "Choose your first fund",
+ "description": "For beginners, start with a Nifty 50 Index Fund (like UTI Nifty 50 Index Fund or HDFC Nifty 50 Index Fund). It's the simplest option - low fees, diversified across top 50 Indian companies, no fund manager risk. You can always add more funds later."
+ },
+ {
+ "step": 3,
+ "title": "Set your SIP",
+ "description": "Select the fund, choose your monthly amount (start with whatever you're comfortable with - even ₹500 is fine), pick a date, and enable auto-debit from your bank account. That's it. The SIP will run automatically every month."
+ },
+ {
+ "step": 4,
+ "title": "Forget and let it grow",
+ "description": "The best SIP strategy is to not check it daily. Set it and forget it for at least 3-5 years. Increase the amount by 10% every year when your salary grows (this is called a Step-Up SIP). Review once a year to make sure the fund is performing in line with its benchmark."
+ }
+ ]
+ },
+ {
+ "type": "svg_block",
+ "heading": "Visual: What is SIP? Key Numbers",
+ "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">₹500/mo</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Min. Investment</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">10–15% p.a.</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Avg. Returns</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">None*</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Lock-in</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
+ "caption": "Key numbers for What is SIP?",
+ "description": "Quick overview of the most important numbers and facts."
+ },
+ {
+ "type": "text",
+ "heading": "How to start your first SIP - step by step",
+ "icon": "🚀",
+ "content": [
+ "Step 1: Open a free account on Groww, Zerodha Coin, or Kuvera - takes 10 minutes with Aadhaar + PAN. Always choose 'Direct' plans, not 'Regular'. Direct plans have 0.5-1.5% lower fees which compounds to 15-25% more wealth over 20 years.",
+ "Step 2: Choose a Nifty 50 Index Fund for your first SIP. Don't overthink fund selection - index funds give market returns at the lowest cost. Popular options: UTI Nifty 50 Index Fund Direct, HDFC Nifty 50 Index Fund Direct. Expense ratio should be below 0.20%.",
+ "Step 3: Set up auto-debit for the SIP date right after your salary credit (5th-7th of the month). Start with whatever you can afford - even Rs 500/month. The habit matters more than the amount. Increase by 10% every year as your salary grows (step-up SIP).",
+ "Step 4: Don't check your portfolio daily. SIP is designed to work over 7+ years.",
+ "In the short term, your portfolio will go up and down - this is normal. The worst thing you can do is stop SIP during a market crash.",
+ "Crashes are when SIP gives you the best long-term results because you buy more units at lower prices."
+ ]
+ },
+ {
+ "type": "svg_block",
+ "heading": "What is SIP? Facts",
+ "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">What is SIP? Facts</text><rect x=\"102\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"179\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">₹500/mo</text><text x=\"179\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Min. Investment</text><rect x=\"272\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"349\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">10–15% p.a.</text><text x=\"349\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Avg. Returns</text><rect x=\"442\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"519\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#92400E\">None*</text><text x=\"519\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Lock-in</text></svg>",
+ "caption": "Quick reference facts",
+ "description": "Key facts and numbers at a glance"
+ },
+ {
+ "type": "callout",
+ "heading": "Official Sources & References",
+ "icon": "📖",
+ "variant": "info",
+ "content": "Source: SEBI (Securities and Exchange Board of India) Mutual Fund Regulations. All information on this page has been verified against official government notifications and regulatory circulars. For the latest updates, always check the official portal."
+ },
+ {
+ "type": "callout",
+ "variant": "warning",
+ "heading": "The biggest SIP mistake",
+ "content": "Stopping SIP during market crashes. When Nifty dropped 35% in March 2020, lakhs of investors stopped their SIPs. Those who continued saw 90%+ returns within 18 months. SIP is designed to BUY MORE when prices are low - stopping defeats the entire purpose. Set it, forget it, check after 5 years."
+ },
+ {
+ "type": "callout",
+ "variant": "tip",
+ "heading": "SIP vs FD - the 20-year truth",
+ "content": "Rs 10,000/month in SIP at 12% for 20 years = Rs 1 crore. Same Rs 10,000/month in FD at 7% (post-tax 4.9%) for 20 years = Rs 40 lakh. SIP creates 2.5x more wealth. Yes, SIP has short-term risk. But over 10+ years, no equity SIP in India has ever given negative returns."
+ },
+ {
+ "type": "pullquote",
+ "text": "You don't need Rs 1 lakh to start investing. Rs 500/month in a Nifty 50 index fund, started at age 22, becomes Rs 35 lakh by age 52. That's Rs 1.8 lakh invested turning into Rs 35 lakh - 19x growth from compounding alone."
+ },
+ {
+ "type": "svg_block",
+ "heading": "Power of SIP Compounding",
+ "icon": "📈",
+ "svg": "<svg viewBox=\"0 0 700 110\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">₹5000 SIP at 12% Annual Returns</text><rect x=\"30\" y=\"50\" width=\"150\" height=\"40\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"105\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">5yr → ₹4.12L</text><rect x=\"200\" y=\"50\" width=\"150\" height=\"40\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"275\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">10yr → ₹11.6L</text><rect x=\"370\" y=\"50\" width=\"150\" height=\"40\" rx=\"8\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"445\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#92400E\">20yr → ₹49.9L</text><rect x=\"540\" y=\"50\" width=\"130\" height=\"40\" rx=\"8\" fill=\"#F3E8FF\" stroke=\"#7C3AED\" stroke-width=\"2\"/><text x=\"605\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#5B21B6\">30yr → ₹1.76Cr</text></svg>",
+ "caption": "₹5000 monthly SIP becomes ₹1.76 crore in 30 years at 12% returns",
+ "description": "The magic of compounding works best with time, start early even if the amount is small."
+ },
+ {
+ "type": "text",
+ "heading": "What is SIP - explained simply",
+ "icon": "📊",
+ "content": [
+ "SIP (Systematic Investment Plan) invests a fixed amount in a mutual fund every month - auto-deducted from your bank. Rs 500 or Rs 50,000, same date every month, regardless of market conditions. Think of SIP as a monthly EMI for wealth creation - instead of paying a bank, youre paying your future self.",
+ "Rupee cost averaging: When markets fall, your Rs 5,000 buys MORE units cheaply. When markets rise, it buys fewer units expensively. Over time, average cost is lower than average market price. You automatically buy MORE when cheap, LESS when expensive - without making any decision.",
+ "SIP is NOT a product - its a METHOD. You SIP into a mutual fund. The fund determines returns and risk. Saying I invest in SIP is like saying I travel by monthly - specify the vehicle (which fund).",
+ "Minimum: Rs 100-500/month at most funds. Nippon Small Cap (Rs 100), SBI Blue Chip (Rs 500), UTI Nifty 50 (Rs 500). Start with less than the cost of a pizza."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "SIP returns - real numbers",
+ "icon": "📈",
+ "content": [
+ "Rs 5,000/month at 12%: 5 years = Rs 4.1 lakh. 10 years = Rs 11.6 lakh. 15 years = Rs 25.2 lakh. 20 years = Rs 49.6 lakh. 25 years = Rs 94.9 lakh. Corpus DOUBLES every 5 years in later stages - compounding at work.",
+ "Rs 10,000/month: 10 years = Rs 23.2 lakh. 20 years = Rs 99.2 lakh (nearly Rs 1 crore). 25 years = Rs 1.9 crore. Rs 10,000 SIP started at 25 makes you a crorepati by 45 - with just Rs 24 lakh of your own money.",
+ "Step-up SIP: Increase by 10% yearly. Rs 5,000 with 10% step-up for 25 years = Rs 1.81 crore vs Rs 94.9 lakh flat. Simply matching salary growth DOUBLES the corpus."
+ ]
+ },
+ {
+ "type": "svg_block",
+ "heading": "Visual: Process Steps",
+ "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><defs><marker id=\"af\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><polygon points=\"0 0, 10 3, 0 6\" fill=\"#1E40AF\"/></marker></defs><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Process Steps</text><rect x=\"16\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"71\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Pick a mutual fund</text><line x1=\"126\" y1=\"65\" x2=\"142\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"152\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"207\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Set your SIP amoun</text><line x1=\"262\" y1=\"65\" x2=\"278\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"288\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"343\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Money gets investe</text><line x1=\"398\" y1=\"65\" x2=\"414\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"424\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"479\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Your units accumul</text><line x1=\"534\" y1=\"65\" x2=\"550\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"560\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"615\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">Redeem whenever yo</text></svg>",
+ "caption": "Steps to follow",
+ "description": "Visual guide to the process."
+ },
+ {
+ "type": "text",
+ "heading": "How to start - 5 minutes",
+ "icon": "📝",
+ "content": [
+ "Step 1: KYC at kra.ndml.in - PAN + Aadhaar + video verification (30 seconds). One-time, valid for life.",
+ "Step 2: Platform - Groww (best for beginners), Kuvera (advanced features), Zerodha Coin (if you have demat). All offer direct plans.",
+ "Step 3: Fund - beginners: UTI or HDFC Nifty 50 Index Fund. Lowest cost (0.1-0.2%), tracks top 50 companies, no fund manager risk. After 6 months: add flexi-cap.",
+ "Step 4: Set amount (min Rs 100-500), date (any 1st-28th), auto-debit. Runs automatically - zero manual effort.",
+ "Step 5: Increase 10% yearly (step-up SIP feature). Check QUARTERLY, not daily. Stay invested 7-10 years minimum."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "SIP myths busted",
+ "icon": "🚫",
+ "content": [
+ "Need Rs 1 lakh to start: WRONG - SIP starts at Rs 100. Rs 500/month at 12% for 25 years = Rs 9.5 lakh. Zero if you never start.",
+ "Stock market is gambling: WRONG - you own Reliance, TCS, HDFC Bank through index funds. Real companies with real profits. Indian market has returned 12-15% over every rolling 15-year period.",
+ "Wait for market crash: WRONG - nobody predicts crashes. SIP solves timing completely. Time in market beats timing the market - always.",
+ "Stop SIP when market falls: WRONG - opposite of what works. Crashes are when SIP buys cheap. Stopping = missing the recovery rally. Investors who kept SIPs during 2008 and 2020 saw 50-100% gains within 2 years."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "SIP vs FD vs PPF",
+ "icon": "⚖️",
+ "content": [
+ "Rs 10,000/month for 15 years: SIP at 12% → Rs 50.5 lakh. PPF at 7.1% → Rs 27.1 lakh (tax-free). FD at 4.9% after tax → Rs 23.3 lakh. SIP gives Rs 23+ lakh MORE than FD.",
+ "But SIP has risk: In 1-year period, can lose 20-30%. In 7-year period, loss chance near zero. In 15-year period, NO SIP in India has given negative returns. Risk DECREASES with time.",
+ "Optimal allocation: SIP for goals 7+ years (retirement, education). PPF for safety + tax-free (fills 80C). FD for emergency and goals under 3 years. All three together = financial planning."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "SIP taxation and goals",
+ "icon": "💰",
+ "content": [
+ "Equity SIP > 1 year: LTCG above Rs 1.25 lakh at 12.5%. Below Rs 1.25 lakh = TAX-FREE. Most small portfolios pay zero tax. < 1 year: STCG at 20%. Debt SIP: slab rate regardless of period.",
+ "SIP for first car (3 years): Rs 8,000/month in balanced advantage fund at 10% = Rs 3.3 lakh.",
+ "SIP for child education (15 years): Rs 10,000/month in flexi-cap at 12% = Rs 50 lakh. Shift to debt in years 12-15.",
+ "SIP for retirement (25 years): Rs 15,000/month with 10% step-up at 12% = Rs 2.7 crore. Rs 2.7 crore at 6% withdrawal = Rs 1.35 lakh/month retirement income.",
+ "SIP calculator: knowledgekendra.com/calculator/sip-calculator. KYC: kra.ndml.in. Platforms: groww.in, kuvera.in. Fund comparison: valueresearchonline.com. SEBI helpline: 1800-266-7575."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "Types of mutual funds for SIP",
+ "icon": "📊",
+ "content": [
+ "Equity funds (stocks): Large-cap (top 100 companies - safest equity), mid-cap (101-250 - moderate risk, higher growth), small-cap (251+ - highest risk and potential), flexi-cap (all sizes - manager decides). For beginners: large-cap or Nifty 50 index fund.",
+ "Debt funds (bonds): Liquid fund (overnight-1 month - parking cash), short-duration (1-3 years - FD alternative), corporate bond (slightly higher than FD). Returns 6-8%. For emergency fund and short-term goals.",
+ "Hybrid funds: Balanced advantage (30-80% equity based on markets - auto-adjusts), aggressive hybrid (65-80% equity). Returns 8-12%. For investors wanting equity exposure without full volatility.",
+ "Index funds: Track Nifty 50 or Sensex without active management. Lowest expense (0.1-0.3%). Historically beat 70% of actively managed large-cap funds over 10 years. For 80% of investors, Nifty 50 Index Fund is all you need. Boring, cheap, and effective."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "SIP for different life goals",
+ "icon": "🎯",
+ "content": [
+ "First car (3 years): Rs 8,000/month in balanced advantage at 10% → Rs 3.3 lakh for down payment. Switch to liquid 3 months before purchase.",
+ "Dream vacation (2 years): Rs 5,000/month in short-duration debt at 7% → Rs 1.3 lakh. Dont use equity for 2-year goals.",
+ "Childs education (15 years): Rs 10,000/month in flexi-cap at 12% → Rs 50 lakh. Start at childs birth. Shift to debt in years 12-15.",
+ "Retirement (25 years): Rs 15,000/month with 10% annual step-up at 12% → Rs 2.7 crore. Gives Rs 1.35 lakh/month retirement income at 6% withdrawal rate. Achievable on Rs 50-60K salary.",
+ "The step-up superpower: Rs 5,000 flat for 25 years = Rs 94.9 lakh. With 10% annual step-up = Rs 1.81 crore. The step-up barely feels noticeable year to year but DOUBLES the final corpus."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "SIP taxation simplified",
+ "icon": "💰",
+ "content": [
+ "Equity SIP (> 1 year per installment): LTCG above Rs 1.25 lakh/year at 12.5%. Below Rs 1.25 lakh = ZERO tax. Each installment has its OWN clock - January SIP becomes long-term in January next year.",
+ "Equity SIP (< 1 year): STCG at 20%. Avoid redeeming within 1 year of purchase.",
+ "Debt SIP: All gains at slab rate regardless of period (changed April 2023). No special LTCG benefit anymore.",
+ "Tax harvesting: After 1+ year, redeem units with gains up to Rs 1.25 lakh/year (tax-free) and reinvest to reset cost basis. Over 10 years saves Rs 50K-2L in LTCG. Most platforms show per-lot gains for easy harvesting.",
+ "Always choose GROWTH option - dividends taxed at slab rate (up to 30%). Growth lets money compound without tax drag. When you need money, redeem units - LTCG at 12.5% is much lower than dividend tax at 30%.",
+ "SIP calculator: knowledgekendra.com/calculator/sip-calculator. KYC: kra.ndml.in. Platforms: groww.in, kuvera.in, coin.zerodha.com. SEBI helpline: 1800-266-7575. AMFI: amfiindia.com."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "SIP - the bottom line",
+ "icon": "✅",
+ "content": [
+ "SIP is the most powerful wealth creation tool available to ordinary Indians. Rs 5,000/month - less than many peoples mobile bill - compounds to Rs 94.9 lakh in 25 years at 12%. With 10% annual step-up: Rs 1.81 crore. No real estate down payment, no business capital, no lottery - just Rs 5,000/month invested consistently in Indias economy through a simple index fund.",
+ "The Indian stock market has never given negative returns over any 15-year rolling period. NEVER. Every Rs 5,000 you invest today in a Nifty 50 index fund buys you a piece of Reliance, TCS, HDFC Bank, Infosys, and ITC - the largest, most profitable companies in India. These companies grow, earn profits, pay dividends, and create value year after year. Your SIP gives you permanent ownership in Indias growth story.",
+ "The biggest regret of every investor is not starting earlier. At 30, people wish they started at 25. At 40, they wish they started at 30. The math is relentless: every year of delay costs Rs 8-10 lakh in final corpus on a Rs 5,000 SIP. Dont be 40 wishing you started at 25. Start TODAY.",
+ "How to start RIGHT NOW: Visit groww.in or kuvera.in on your phone. Complete KYC with Aadhaar (5 minutes). Search UTI Nifty 50 Index Fund. Set SIP Rs 500/month on the 5th of each month. Enable auto-debit. Done. Your wealth creation machine is now running. Increase to Rs 5,000 when comfortable. Add 10% step-up each year. Check quarterly. Stay invested for decades. Retire wealthy. Its that simple.",
+ "SIP success stories from real India: A schoolteacher who started Rs 3,000/month SIP at 28 in HDFC Flexi Cap Fund - her corpus crossed Rs 50 lakh at 48. A government clerk who ran Rs 5,000/month in SBI Blue Chip for 20 years - retired with Rs 95 lakh purely from SIP alongside his pension. An auto driver who committed Rs 1,000/month in Nifty Index - built Rs 5 lakh in 15 years for his daughters education. These arent exceptional stories - theyre the mathematical certainty of consistent investing over long periods.",
+ "The most important SIP advice: DONT STOP. Markets will crash. Media will panic. Friends will say sell everything. Ignore all of it. Your SIP running through 2008, 2020, and every future crash is what creates wealth. The investors who stopped during crashes and restarted during rallies earned half of what those who never stopped earned. Consistency beats timing. Discipline beats intelligence. Rs 500/month for 25 years beats Rs 50,000 one-time every single time. Start. Stay. Win.",
+ "Final reminder: SIP is not about the stock market - its about YOUR future. Every month you invest, you are choosing your 60-year-old selfs comfort over your 25-year-old selfs temporary spending. Your future self will either thank you for starting early or regret not starting at all. There is no middle ground. The math is non-negotiable: Rs 5,000 today either compounds for 25 years into Rs 94.9 lakh or sits in a savings account earning 2.7% (Rs 12,000 total interest in 25 years). The difference between these two outcomes is one 5-minute SIP registration. Make the 5-minute choice that creates the Rs 94 lakh outcome. Start at groww.in or kuvera.in right now."
+ ]
+ }
+ ],
+ "faqs": [
+ {
+ "question": "Can I lose all my money in SIP?",
+ "answer": "Extremely unlikely. SIP invests in mutual funds which hold dozens or hundreds of stocks/bonds. For you to lose everything, every single company in the fund would have to go bankrupt simultaneously. That has never happened in Indian market history. However, short-term losses of 10-30% are normal and expected during market downturns."
+ },
+ {
+ "question": "Is SIP better than FD?",
+ "answer": "For long-term goals (5+ years), yes - SIP has historically given much higher returns than FD. For short-term goals (under 3 years) or emergency funds, FD is safer because it guarantees your principal. Ideally, have both: FD for emergency fund, SIP for long-term goals."
+ },
+ {
+ "question": "Can I stop my SIP anytime?",
+ "answer": "Yes. You can stop, pause, or cancel your SIP anytime through your mutual fund app. There is absolutely no penalty or charge for stopping. Your existing investment stays in the fund and continues to grow - only the monthly auto-debit stops."
+ },
+ {
+ "question": "Do I need a Demat account for SIP?",
+ "answer": "No. Demat account is needed for buying stocks directly. For mutual fund SIP, you only need a bank account and completed KYC. Apps like Groww, Kuvera, and Paytm Money let you invest directly without any Demat account."
+ },
+ {
+ "question": "How much tax do I pay on SIP returns?",
+ "answer": "For equity mutual funds: If you sell after 1 year, gains above ₹1.25 lakh in a financial year are taxed at 12.5% (Long Term Capital Gains). If you sell before 1 year, gains are taxed at 20% (Short Term Capital Gains). For debt mutual funds: All gains are taxed at your income tax slab rate regardless of holding period."
+ },
+ {
+ "question": "What is the best SIP amount to start with?",
+ "answer": "Start with whatever you can comfortably afford without affecting your monthly expenses. Even ₹500 is a great start. A common guideline: invest at least 20% of your monthly income. So if you earn ₹25,000/month, try to SIP at least ₹5,000. Increase it by 10% every year."
+ },
+ {
+ "question": "What is the minimum SIP amount?",
+ "answer": "Most mutual funds accept SIP starting at Rs 500/month. Some funds (like Parag Parikh Flexi Cap) start at Rs 1,000. There's no maximum limit. Start with whatever you're comfortable with and increase annually via step-up SIP."
+ },
+ {
+ "question": "Can I lose money in SIP?",
+ "answer": "In the short term, yes - your portfolio value can drop 20-30% during market corrections. But over 7+ years, equity SIPs in India have always given positive returns historically. The key is not to panic-sell during drops. SIP's rupee cost averaging means temporary drops actually help you buy more units cheaply."
+ },
+ {
+ "question": "Which is the best mutual fund for SIP beginners?",
+ "answer": "Start with a Nifty 50 Index Fund (Direct plan). It automatically invests in India's 50 largest companies with the lowest fees (0.10-0.20% expense ratio). No fund manager risk, no complex analysis needed. Once comfortable after 1-2 years, add a Nifty Midcap 150 Index Fund for growth."
+ },
+ {
+ "question": "Is SIP tax-free?",
+ "answer": "SIP itself isn't taxed - tax applies only when you redeem (sell) units. Equity fund SIP held over 12 months: LTCG at 12.5% on gains above Rs 1.25 lakh/year. Under 12 months: STCG at 20%. Strategy: hold for 12+ months and redeem up to Rs 1.25L gains per year tax-free."
+ }
+ ],
+ "disclaimer": "This article is for educational purposes only. Mutual fund investments are subject to market risks. Read all scheme-related documents carefully before investing. Past performance does not guarantee future results. Please consult a SEBI-registered financial advisor before making investment decisions.",
+ "related_pages": [
+ {
+ "title": "What is Mutual Fund?",
+ "slug": "what-is-mutual-fund",
+ "tag": "Basics",
+ "url": "/paisa/what-is-mutual-fund"
+ },
+ {
+ "title": "PPF - Complete Guide",
+ "slug": "ppf-guide",
+ "tag": "Savings",
+ "url": "/paisa/ppf-guide"
+ },
+ {
+ "title": "SIP vs FD vs PPF - Which is Best?",
+ "slug": "sip-vs-fd-vs-ppf",
+ "tag": "Compare",
+ "url": "/paisa/sip-vs-fd-vs-ppf"
+ },
+ {
+ "title": "What is ELSS? Tax Saving Mutual Fund",
+ "slug": "what-is-elss",
+ "tag": "Tax Saving",
+ "url": "/paisa/what-is-elss"
+ }
+ ],
+ "tags": [
+ "Investing Basics",
+ "SIP",
+ "Mutual Funds",
+ "Beginner",
+ "Wealth Creation"
+ ],
+ "last_reviewed": "May 2026"
+}

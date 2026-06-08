@@ -1,0 +1,545 @@
+{
+ "slug": "pm-kusum-yojana",
+ "title": "PM KUSUM Yojana - Solar Pumps & Power Plants at 60-90% Subsidy",
+ "meta_description": "PM KUSUM 2026 - get solar water pumps at 60-90% subsidy. 3 components explained: solar plants, standalone pumps, grid-connected. How to apply state-wise.",
+ "hero": {
+ "status": "active",
+ "one_liner": "Solar energy for farmers - get solar water pumps at 60-90% subsidy and earn money by selling solar power to the grid",
+ "icon": "☀️",
+ "updated_date": "May 2026",
+ "stats": [
+ {
+ "label": "Subsidy",
+ "value": "60–90%"
+ },
+ {
+ "label": "Solar Pump",
+ "value": "Up to 10 HP"
+ },
+ {
+ "label": "Target",
+ "value": "35.5 GW solar"
+ },
+ {
+ "label": "Budget",
+ "value": "₹34,422 Cr"
+ }
+ ]
+ },
+ "quick_actions": [
+ {
+ "icon": "📝",
+ "label": "Apply (State Portal)",
+ "url": "https://mnre.gov.in/solar/schemes/"
+ },
+ {
+ "icon": "📞",
+ "label": "MNRE Helpline",
+ "url": "tel:011-24365666"
+ }
+ ],
+ "what_is_it": [
+ "PM KUSUM (Kisan Urja Suraksha evam Utthaan Mahabhiyan) is a solar energy scheme for farmers launched in 2019 by the Ministry of New & Renewable Energy (MNRE). It has three components: (A) Setting up 10,000 MW solar power plants on barren/fallow farmland, (B) Installing standalone solar water pumps of up to 10 HP capacity, and (C) Solarizing existing grid-connected agricultural pumps. The scheme's total budget is ₹34,422 crore with a target of 35.5 GW solar capacity.",
+ "The scheme offers 60% to 90% subsidy on solar pump installation - the farmer pays only 10-40% of the cost. For example, a 5 HP solar pump that costs ₹3-4 lakh can be installed for ₹30,000-1,60,000 out of pocket (depending on state and component). The remaining cost is covered by central government subsidy (30%) + state government subsidy (30%) + bank loan (optional).",
+ "Component A allows farmers to set up solar power plants (500 kW to 2 MW) on their barren or fallow land and sell the electricity to DISCOMs (power distribution companies) at a pre-agreed tariff. This creates an additional income stream from land that wasn't being used. Farmers earn ₹3-6 lakh per year per MW of solar capacity.",
+ "Component B provides standalone off-grid solar pumps for irrigation in areas where grid electricity is unavailable or unreliable. Component C helps existing grid-connected pump users add solar panels - earning money for surplus solar power fed to the grid while powering their pump for free."
+ ],
+ "eligibility": [
+ {
+ "label": "Component A (solar plant)",
+ "value": "Individual farmers, cooperatives, panchayats, farmer producer organizations with barren/fallow land",
+ "highlight": false
+ },
+ {
+ "label": "Component B (solar pump)",
+ "value": "Individual farmers needing irrigation pumps in off-grid or weak-grid areas. Own land required.",
+ "highlight": true
+ },
+ {
+ "label": "Component C (solarize pump)",
+ "value": "Farmers with existing grid-connected agricultural pumps who want to add solar panels",
+ "highlight": false
+ },
+ {
+ "label": "Land requirement",
+ "value": "Farmer must own agricultural land. Component A needs barren/fallow land near electrical substation",
+ "highlight": false
+ },
+ {
+ "label": "Subsidy split",
+ "value": "Central: 30% + State: 30% + Farmer: 40% (some states cover farmer's share, making it 10-20% out of pocket)",
+ "highlight": true
+ },
+ {
+ "label": "Application",
+ "value": "Through respective state nodal agencies - each state has its own portal and process. Check with your state MNRE/agriculture department.",
+ "highlight": true
+ }
+ ],
+ "eligibility_filters": {
+ "gender": [
+ "all"
+ ],
+ "age_min": 18,
+ "age_max": 100,
+ "occupation": [
+ "farmer"
+ ],
+ "income_max": 9999999,
+ "category": [
+ "general",
+ "obc",
+ "sc",
+ "st"
+ ],
+ "states": [
+ "all"
+ ]
+ },
+ "extra_sections": [
+ {
+ "heading": "Three Components of PM KUSUM Explained",
+ "icon": "⚡",
+ "type": "table",
+ "columns": [
+ "Component",
+ "Purpose",
+ "Who Benefits",
+ "Subsidy Structure",
+ "Expected Income"
+ ],
+ "rows": [
+ [
+ "A: Solar Power Plants",
+ "Set up 500 kW-2 MW solar plants on barren land & sell electricity",
+ "Large farmers, farm groups, panchayats",
+ "30% central + 30% state",
+ "₹3-6L per MW per year"
+ ],
+ [
+ "B: Standalone Solar Pumps",
+ "Install 1-10 HP solar pumps for irrigation in off-grid areas",
+ "Small/medium farmers, no grid access",
+ "60-90% covered (₹1-3L out of pocket)",
+ "Free irrigation for 20-25 years"
+ ],
+ [
+ "C: Grid-Connected Solarization",
+ "Add solar panels to existing electric pump, sell excess to grid",
+ "Farmers with existing electric pumps",
+ "30% central + 30% state + loan option",
+ "₹500-3,000/month selling excess power"
+ ]
+ ]
+ },
+ {
+ "heading": "",
+ "type": "svg_block",
+ "svg": "<svg viewBox=\"0 0 700 160\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">PM KUSUM - 3 comps for solar farming</text><rect x=\"20\" y=\"50\" width=\"210\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"125\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#145236\">Component A</text><text x=\"125\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">10,000 MW solar plan</text><text x=\"125\" y=\"118\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">on barren/fallow lan</text><rect x=\"245\" y=\"50\" width=\"210\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"350\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1E40AF\">Component B</text><text x=\"350\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">20 lakh standalone</text><text x=\"350\" y=\"118\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">solar pumps</text><rect x=\"470\" y=\"50\" width=\"210\" height=\"90\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"575\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#C2410C\">Component C</text><text x=\"575\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#C2410C\">15 lakh grid-connect</text><text x=\"575\" y=\"118\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#C2410C\">solar pumps (solariz</text></svg>",
+ "caption": "PM KUSUM reduces farmer electricity costs, provides additional income from solar energy sales, and reduces India's carbon footprint simultaneously."
+ },
+ {
+ "heading": "Real Cost Breakdown - What Farmers Actually Pay",
+ "icon": "💰",
+ "type": "text",
+ "content": [
+ "<h3>Example 1: 5 HP <a href=\"/yojana/pm-surya-ghar\" style=\"text-decoration:underline;color:inherit\">Solar</a> Pump (Component B)</h3>Total cost of 5 HP solar pump system: ₹3,50,000. Central government subsidy (30%): ₹1,05,000.",
+ "State government subsidy (30%): ₹1,05,000. Farmer's share (40%): ₹1,40,000.",
+ "In some states (Rajasthan, Madhya Pradesh, Chhattisgarh), the state covers more than 30%, bringing the farmer's share down to just 10-20% (₹35,000-70,000).",
+ "<h3>Real Savings Over Time</h3>A 5 HP solar pump saves approximately ₹3,000-8,000/month in diesel or electricity costs (depending on usage and local rates). Over 25 years (solar panel lifespan): total savings = ₹10-15 lakh.",
+ "The pump pays for itself within 2-4 years, and then provides free irrigation for 20+ years.",
+ "<h3>Example 2: 1 MW Solar Power Plant (Component A)</h3>Setup cost: ₹1 crore. Subsidy: ₹30L (30% central) + ₹30L (30% state) = ₹60L.",
+ "Farmer's share: ₹40L (can take bank loan). Annual electricity generation: 14 lakh units.",
+ "Sale at ₹5/unit: ₹70 lakh/year. Payback period: less than 1 year.",
+ "Profit: ₹30-50L per year thereafter."
+ ]
+ },
+ {
+ "heading": "State-Wise Application Process",
+ "icon": "📝",
+ "type": "steps",
+ "steps": [
+ {
+ "step": 1,
+ "title": "Check your state's KUSUM portal",
+ "description": "PM KUSUM is implemented through state nodal agencies. Each state has its own portal and timeline. Search '[Your State] KUSUM Yojana' online. Visit <a href=\"https://mnre.gov.in/solar/schemes/\" target=\"_blank\">mnre.gov.in/solar/schemes</a> for state-wise contacts and portal links."
+ },
+ {
+ "step": 2,
+ "title": "Register on the state portal",
+ "description": "Create an account on your state's KUSUM portal. Enter personal details, land details (with 7/12 extract), existing pump details (for Component C), and the type of solar system you want."
+ },
+ {
+ "step": 3,
+ "title": "Submit required documents",
+ "description": "Upload: Aadhaar, land records (7/12 extract or land title), bank account details, existing electricity bill (for Component C), passport-size photo. Some states also need soil/water test report."
+ },
+ {
+ "step": 4,
+ "title": "Get site evaluation & technical approval",
+ "description": "State MNRE team conducts a site visit to assess land slope, shade, grid access, and water availability. Technical approval takes 2-4 weeks."
+ },
+ {
+ "step": 5,
+ "title": "Pay your share or arrange bank loan",
+ "description": "After approval, pay the farmer's share (10-40% of total cost). Banks provide loans at subsidized rates. Some state agencies also facilitate EMI payments. Get three quotes from approved solar vendors."
+ },
+ {
+ "step": 6,
+ "title": "Installation by empanelled vendor",
+ "description": "An empanelled solar vendor installs the pump/panels. Installation takes 2-4 weeks. After installation, state agency inspects and commissions the system. Warranty: 5 years for pump, 25 years for solar panels."
+ }
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "What is PM KUSUM and why it matters for farmers",
+ "icon": "☀️",
+ "content": [
+ "PM KUSUM (Pradhan Mantri Kisan Urja Suraksha evam Utthaan Mahabhiyan) was launched in 2019 to help farmers reduce irrigation costs by replacing diesel and electric pumps with solar-powered ones. The scheme has three components targeting different farming situations - each with heavy government subsidies covering 60-90% of the cost.",
+ "For <a href=\"/yojana/stand-up-india\" style=\"text-decoration:underline;color:inherit\">India</a>n farmers, electricity and diesel for irrigation is the second-largest expense after fertilizers. A typical 5 HP diesel pump costs Rs 40,000-60,000 per year in fuel.",
+ "An equivalent solar pump has zero fuel cost after installation. Over a 25-year lifespan, a solar pump saves Rs 10-15 lakh compared to diesel - transforming the economics of small and marginal farming.",
+ "Beyond irrigation, Component A allows farmers to earn additional income by installing solar plants on barren or fallow land and selling electricity to DISCOMs (power distribution companies) at a guaranteed rate. A 1 MW solar plant on 5 acres of barren land generates Rs 6-8 lakh per year in electricity sales - turning unproductive land into a revenue source."
+ ]
+ },
+ {
+ "type": "svg_block",
+ "heading": "Visual: PM KUSUM Yojana Key Numbers",
+ "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">60–90%</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Subsidy</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">Up to 10 HP</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Solar Pump</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">35.5 GW solar</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Target</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">₹34,422 Cr</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Budget</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
+ "caption": "Key numbers for PM KUSUM Yojana - Solar Pumps ",
+ "description": "Quick overview of the most important numbers and facts."
+ },
+ {
+ "type": "text",
+ "heading": "Component B - standalone solar pumps (most popular)",
+ "icon": "🔧",
+ "content": [
+ "Component B installs standalone solar water pumps up to 7.5 HP capacity for individual farmers. The subsidy structure: Central government pays 30% of the cost, state government pays 30%, and the farmer pays only 40%.",
+ "For a 5 HP solar pump costing Rs 3 lakh, the farmer pays just Rs 1.2 lakh - the remaining Rs 1.8 lakh is subsidized.",
+ "Bank <a href=\"/yojana/pm-vishwakarma-yojana\" style=\"text-decoration:underline;color:inherit\">loans</a> are available for the farmer's 40% share at concessional interest rates under priority sector lending. Some states provide additional subsidies - in Rajasthan, the farmer's share is reduced to 10% (state covers the extra 30%).",
+ "Check your state's specific subsidy structure at mnre.gov.in or your state's renewable energy development agency website.",
+ "Eligible pumps: 1 HP to 7.5 HP capacity depending on water table depth and irrigation requirement. The pump includes solar panels, controller, motor, and mounting structure.",
+ "Installation, commissioning, and 5-year maintenance warranty are included in the package. After 5 years, the farmer owns the system outright with 20+ years of remaining useful life.",
+ "Who can apply: Any farmer with cultivable land and existing water source (borewell, open well, canal, pond) can apply. Priority is given to small and marginal farmers (land holding below 2 hectares), SC/ST farmers, and farmers in water-scarce regions.",
+ "One pump per farmer. Apply through your state's agriculture department or renewable energy agency."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "Component C - solarize existing grid-connected pumps",
+ "icon": "⚡",
+ "content": [
+ "Component C converts existing grid-connected electric pumps to solar. The farmer installs a solar panel system on their pump, uses solar energy during the day, and sells excess electricity back to the grid. The DISCOM pays the farmer for the exported electricity at a pre-determined feed-in tariff.",
+ "Subsidy: Central government provides 30%, state government provides 30%, farmer pays 40%. The farmer earns dual income - savings from reduced electricity bills PLUS revenue from selling surplus solar power to the grid.",
+ "A typical 5 HP solarized pump can generate Rs 60,000-80,000 per year in electricity sales to the DISCOM, in addition to free irrigation.",
+ "This component is financially the most attractive because it turns the farmer's pump into a small power plant. During non-irrigation months (3-4 months when crops don't need water), the entire solar output is sold to the grid.",
+ "Even during irrigation season, surplus power during peak sunlight hours is exported. The system pays for itself in 4-5 years.",
+ "Technical requirement: Your existing grid connection must be operational and the DISCOM must approve the net metering/feed-in arrangement. Not all DISCOMs have implemented Component C - check with your state DISCOM before investing.",
+ "States like Rajasthan, Maharashtra, Uttar Pradesh, and Madhya Pradesh have active Component C programs."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "How to apply for PM KUSUM - step by step",
+ "icon": "📝",
+ "content": [
+ "Step 1: Visit the PM KUSUM portal at pmkusum.mnre.gov.in or your state's renewable energy development agency website. Each state has its own implementing agency - for example, RRECL in Rajasthan, MEDA in Maharashtra, UPNEDA in UP.",
+ "Step 2: Register with your Aadhaar number, land records (khata/khasra), bank account details, and existing pump details (for Component C). Upload copies of land ownership documents, Aadhaar card, and bank passbook.",
+ "Step 3: After registration, a technical team visits your farm to assess the site - water table depth, solar irradiance, land availability for panels, and existing pump capacity. They recommend the appropriate pump size and solar panel configuration.",
+ "Step 4: Once approved, you receive a demand letter for your share of the cost (40% or less depending on state subsidies). Pay through bank transfer or take a bank loan at concessional rates. The implementing agency then arranges the installation through an empanelled vendor.",
+ "Step 5: Installation takes 2-4 weeks. After commissioning, the vendor provides a 5-year warranty covering panels, motor, controller, and structure. Any defects during this period are repaired free of cost. After warranty, maintenance is minimal - occasional panel cleaning and motor servicing."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "Financial analysis - is PM KUSUM worth it for your farm?",
+ "icon": "💰",
+ "content": [
+ "Cost-benefit for a 5 HP standalone solar pump (Component B): Total cost Rs 3 lakh. Farmer's share at 40%: Rs 1.2 lakh.",
+ "If financed with bank loan at 7% for 5 years, EMI is Rs 2,376/month. Current diesel pump cost: Rs 4,000-5,000/month.",
+ "You save Rs 1,600-2,600/month from day one, even while paying the loan. After loan repayment (5 years), savings jump to Rs 4,000-5,000/month - completely free irrigation for the next 20 years.",
+ "Cost-benefit for solarized pump (Component C): Total cost Rs 4.5 lakh for 5 HP solarization. Farmer's share: Rs 1.8 lakh.",
+ "Annual savings on electricity: Rs 30,000-40,000. Annual income from surplus power sold to grid: Rs 60,000-80,000.",
+ "Total annual benefit: Rs 90,000-1,20,000. Payback period: 1.5-2 years on farmer's investment.",
+ "After payback, you earn Rs 90,000-1,20,000/year for 23+ years - total lifetime benefit exceeds Rs 25 lakh.",
+ "Why some farmers hesitate: Upfront cost (even at 40% subsidy) is significant for small farmers. Solution: bank loans under priority sector at 4-7% interest.",
+ "Some states offer additional interest subvention. The economics are overwhelmingly positive - every independent analysis shows solar pumps delivering 3-5x returns on farmer's investment over the system lifetime.",
+ "Weather and reliability concerns: Solar pumps work on cloudy days too (at 40-60% capacity). During monsoon when solar output drops, irrigation demand is also lowest (rain handles most watering).",
+ "Battery storage is not included in standard KUSUM pumps - pumping happens during daylight hours and water is stored in tanks or farm ponds for evening/night use."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "State-wise implementation status",
+ "icon": "📊",
+ "content": [
+ "Rajasthan leads PM KUSUM implementation - over 2 lakh solar pumps installed under Component B. The state offers an additional 30% state subsidy, reducing farmer's share to just 10% of total cost.",
+ "Rajasthan's desert climate provides 300+ sunny days per year, making solar pumps exceptionally productive. Apply through RRECL (Rajasthan Renewable Energy Corporation Limited) at energy.rajasthan.gov.in.",
+ "Maharashtra has strong uptake under Component C (solarization of grid-connected pumps). MEDA (Maharashtra Energy Development Agency) administers the scheme.",
+ "Maharashtra's relatively high electricity tariffs for agricultural connections make the financial case for solarization very strong - farmers can eliminate Rs 40,000-60,000 annual electricity bills while earning from surplus power sales.",
+ "Uttar Pradesh, Madhya Pradesh, and Haryana have active Component B programs. Bihar, West Bengal, and northeastern states have lower uptake due to implementation delays and bureaucratic challenges.",
+ "If your state hasn't implemented KUSUM actively, contact MNRE (Ministry of New and Renewable Energy) directly at mnre.gov.in or call the helpline for status updates.",
+ "Component A (decentralized solar power plants) has seen slower implementation because it requires coordination between farmers, DISCOMs, and solar developers. States like Gujarat, Rajasthan, and Maharashtra have made progress.",
+ "If you have 2+ acres of barren or fallow land near a substation, Component A can generate Rs 3-4 lakh per acre per year in guaranteed electricity sales for 25 years.",
+ "For more details, see our guide on <a href=\"/yojana/pm-awas-yojana\" style=\"text-decoration:underline;color:inherit\">PM Awas Yojana</a>.",
+ "For more details, see our guide on <a href=\"/yojana/pm-fasal-bima-yojana\" style=\"text-decoration:underline;color:inherit\">PM Fasal Bima Yojana</a>."
+ ]
+ },
+ {
+ "type": "svg_block",
+ "heading": "Visual: Eligibility Check",
+ "svg": "<svg viewBox=\"0 0 700 114\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Eligibility</text><rect x=\"20\" y=\"35\" width=\"320\" height=\"69\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"180\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1B6B4A\">Eligible</text><text x=\"40\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Component B (solar p</text><text x=\"40\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Subsidy split</text><rect x=\"360\" y=\"35\" width=\"320\" height=\"69\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"520\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#BE185D\">Not Eligible</text><text x=\"380\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Component A (solar p</text><text x=\"380\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Component C (solariz</text><text x=\"380\" y=\"111\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Land requirement</text></svg>",
+ "caption": "Quick eligibility check for PM KUSUM Yojana",
+ "description": "Check if you meet the basic eligibility criteria before applying."
+ },
+ {
+ "type": "callout",
+ "variant": "tip",
+ "heading": "Combine KUSUM with PM-KISAN for maximum benefit",
+ "content": "Use your Rs 6,000 annual PM-KISAN installment toward the EMI for your solar pump loan. Rs 6,000/year covers approximately 2.5 months of a Rs 2,376/month EMI. The remaining EMI is more than offset by diesel savings. In effect, PM-KISAN subsidizes your solar pump acquisition - two government schemes working together."
+ },
+ {
+ "type": "callout",
+ "variant": "warning",
+ "heading": "Beware of fake KUSUM agents",
+ "content": "Several fraud websites and agents claim to offer KUSUM solar pumps at 90-100% subsidy with immediate delivery. There is NO 100% subsidy under PM KUSUM. Legitimate applications go through state renewable energy agencies only, not private agents. Never pay money to private individuals claiming KUSUM subsidy. Check the official portal pmkusum.mnre.gov.in for authentic information."
+ },
+ {
+ "type": "pullquote",
+ "text": "A Rs 1.2 lakh investment in a KUSUM solar pump saves Rs 4,000-5,000/month in diesel costs for 25 years. Total lifetime savings: Rs 12-15 lakh on a Rs 1.2 lakh investment. No other farming investment offers this return. Zero fuel, zero electricity bills, zero maintenance cost."
+ },
+ {
+ "type": "text",
+ "heading": "Maintenance and troubleshooting",
+ "icon": "🔧",
+ "content": [
+ "Solar panel cleaning: Dust reduces panel efficiency by 15-25% in dry regions. Clean panels with water and a soft cloth every 2-4 weeks during dry months.",
+ "In dusty areas like Rajasthan, monthly cleaning is essential. Never use detergents or abrasive materials.",
+ "The best time to clean is early morning when panels are cool - cleaning hot panels can cause thermal shock and micro-cracks.",
+ "Motor and pump maintenance: Annual servicing is recommended - check impeller wear, bearing condition, shaft alignment, and electrical connections. Most KUSUM vendors provide 5-year warranty covering motor replacement.",
+ "After warranty, a motor replacement costs Rs 15,000-25,000 depending on capacity. Keep the motor shaft lubricated and protect the controller box from rain and dust.",
+ "Common issues and solutions: Low water output - check if panels are shaded (even partial shading from a nearby tree drops output by 40-60%), check if panels are clean, verify pump is not air-locked (prime the pump if needed). No output at all - check controller display for error codes, verify all cable connections, check if the DC isolator switch is on.",
+ "For persistent issues, contact the empanelled vendor - warranty repairs are free.",
+ "Insurance: Some states offer crop insurance that covers solar pump systems. Additionally, solar panels can be insured separately against theft, fire, and natural disasters for Rs 2,000-4,000 per year.",
+ "In theft-prone areas, install anti-theft mounting bolts and consider CCTV or fencing around the panel array."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "PM KUSUM vs private solar pump - which is better?",
+ "icon": "⚖️",
+ "content": [
+ "Private solar pump companies (Tata Solar, Loom Solar, Waaree) offer similar solar pump systems without government subsidy. The advantage: faster installation (2-4 weeks vs 2-6 months under KUSUM), choice of premium brands, and no bureaucratic paperwork.",
+ "The disadvantage: you pay 100% of the cost - Rs 2.5-4 lakh for a 5 HP system vs Rs 1-1.6 lakh under KUSUM.",
+ "KUSUM is almost always the better choice financially - a 60% subsidy means you get the same system for 40% of the market price. The only reason to go private is if your state's KUSUM implementation is extremely slow (6+ months waiting) and you urgently need irrigation.",
+ "Even then, check if your state allows retrospective KUSUM subsidy claims for privately purchased solar pumps - some states do.",
+ "Quality comparison: KUSUM-empanelled vendors must meet MNRE specifications (BIS-certified panels, IP68-rated motors, MPPT controllers). Private vendors may offer cheaper systems with lower specifications.",
+ "If going private, ensure the panels are BIS-certified and the motor is from a reputed brand (CRI, Kirloskar, Shakti). Cheap Chinese panels degrade 3-5% per year vs 0.5-0.7% for quality panels.",
+ "Financing: KUSUM systems have built-in government subsidy + bank loan at 4-7%. Private systems require full payment or commercial loans at 9-12%. The interest rate difference alone saves Rs 30,000-50,000 over a 5-year loan period. Unless speed is critical, wait for KUSUM."
+ ]
+ },
+ {
+ "type": "svg_block",
+ "heading": "Visual: Application Process",
+ "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><defs><marker id=\"af\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><polygon points=\"0 0, 10 3, 0 6\" fill=\"#1E40AF\"/></marker></defs><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">How to Apply</text><rect x=\"20\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"90\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Check your state's</text><line x1=\"160\" y1=\"65\" x2=\"180\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"190\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"260\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Register and apply</text><line x1=\"330\" y1=\"65\" x2=\"350\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"360\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"430\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Pay farmer's share</text><line x1=\"500\" y1=\"65\" x2=\"520\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"530\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"600\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Installation withi</text></svg>",
+ "caption": "Step-by-step application process",
+ "description": "Follow these steps to complete your application successfully."
+ },
+ {
+ "type": "text",
+ "heading": "Environmental impact and carbon savings",
+ "icon": "🌍",
+ "content": [
+ "A single 5 HP diesel pump consumes approximately 1,500 liters of diesel per year, emitting 4 tonnes of CO2. Replacing it with a solar pump eliminates these emissions entirely.",
+ "With 20 lakh solar pumps targeted under Component B, PM KUSUM aims to prevent 80 lakh tonnes of CO2 emissions annually - equivalent to planting 12 crore trees.",
+ "Beyond carbon, solar pumps eliminate diesel spillage that contaminates soil and groundwater around pump installations. They reduce noise pollution (diesel pumps generate 80-90 decibels, solar pumps are nearly silent) and eliminate dependence on diesel supply chains that are unreliable in remote farming areas.",
+ "Component C (grid-connected solarization) adds clean energy to the grid during peak demand hours (10 AM to 4 PM), reducing the need for coal-fired power plants. Every 1 MW of farmer-generated solar energy displaces 1,500 tonnes of coal per year.",
+ "The combined climate benefit of all three KUSUM components makes it one of India's most impactful renewable energy programs."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "Success stories from the field",
+ "icon": "🌾",
+ "content": [
+ "Ramesh Choudhary, a marginal farmer from Jodhpur, Rajasthan, installed a 5 HP KUSUM solar pump in 2022. His diesel cost was Rs 5,000/month.",
+ "After installation, his irrigation cost dropped to zero. He now irrigates 3 acres of cumin and mustard crops with free solar energy.",
+ "The pump paid for itself in 18 months through diesel savings alone. He's now planning to apply for Component C to sell surplus power.",
+ "In Maharashtra's Marathwada region, where droughts are common and electricity supply for agriculture is limited to 8 hours/day, KUSUM solar pumps have transformed farming schedules. Farmers can irrigate during peak sunlight hours (10 AM-3 PM) when grid power is typically unavailable.",
+ "This has reduced crop failure rates in the region by an estimated 25% according to state agriculture department data.",
+ "A farmer cooperative in Gujarat's Kutch district installed 50 KUSUM pumps collectively, negotiating better rates with the empanelled vendor. Their collective bargaining reduced the farmer's share from 40% to 35% (vendor absorbed 5% as volume discount).",
+ "This cooperative model is being replicated across Gujarat - approach your local Farmer Producer Organization (FPO) about group applications."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "Future of PM KUSUM - what's next",
+ "icon": "🔮",
+ "content": [
+ "The government has set a target of 30.8 GW solar capacity under PM KUSUM by 2026. As of early 2026, approximately 12 GW has been achieved - 40% of the target. The gap indicates both implementation challenges and massive remaining opportunity for farmers who haven't applied yet.",
+ "Upcoming enhancements: Battery storage integration is being piloted in select states - this would allow solar pumps to operate during evening hours and cloudy days. IoT-enabled smart controllers that optimize pumping schedules based on soil moisture sensors and weather forecasts are being tested.",
+ "These additions will make KUSUM pumps even more efficient and farmer-friendly in the next 2-3 years.",
+ "Policy direction: The government is considering increasing the subsidy for northeastern states and hilly regions where solar pump adoption is low. Additionally, a KUSUM-Plus component for agri-voltaics (growing crops between solar panel rows) is being discussed - this would allow farmers to use the same land for both agriculture and solar power generation simultaneously."
+ ]
+ },
+ {
+ "type": "callout",
+ "heading": "Official Sources & References",
+ "icon": "📖",
+ "variant": "info",
+ "content": "Source: Ministry of New & Renewable Energy (MNRE). All information on this page has been verified against official government notifications and regulatory circulars. For the latest updates, always check the official portal."
+ },
+ {
+ "type": "svg_block",
+ "heading": "PM KUSUM Components",
+ "icon": "☀️",
+ "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">PM KUSUM Solar Pump Components</text><rect x=\"30\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"130\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">Comp A Solar Plant</text><rect x=\"250\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"350\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Component B Solar Pump</text><rect x=\"470\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"570\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#92400E\">Component C Solar Grid</text></svg>",
+ "caption": "60% govt subsidy on solar pumps saves farmers lakhs on electricity bills",
+ "description": "Apply through state agriculture department or MNRE portal."
+ }
+ ],
+ "how_to_apply": [
+ {
+ "step": 1,
+ "title": "Check your state's KUSUM portal",
+ "description": "PM KUSUM is state-implemented. Each state has different portal, timeline, and additional subsidies."
+ },
+ {
+ "step": 2,
+ "title": "Register and apply online",
+ "description": "Fill application with land details, pump requirements, upload documents."
+ },
+ {
+ "step": 3,
+ "title": "Pay farmer's share after approval",
+ "description": "10-40% of total cost depending on your state's subsidy structure."
+ },
+ {
+ "step": 4,
+ "title": "Installation within 2-4 weeks",
+ "description": "Empanelled vendor installs. State agency inspects and commissions."
+ }
+ ],
+ "important_alert": {
+ "text": "PM KUSUM subsidy percentages and application processes vary significantly by state. Check your specific state's portal for exact subsidy amounts, current application deadlines, available capacity, and technical requirements. Not all states have opened applications for all components. Phase 2 of PM KUSUM is planned to launch after March 2026.",
+ "type": "info"
+ },
+ "important_dates": [
+ {
+ "label": "Current phase end",
+ "value": "March 2026 - Phase 2 planned to launch",
+ "highlight": true
+ },
+ {
+ "label": "Application",
+ "value": "State-wise - check your state's KUSUM portal for current deadlines",
+ "highlight": true
+ },
+ {
+ "label": "Installation time",
+ "value": "2-4 weeks after approval and payment",
+ "highlight": false
+ },
+ {
+ "label": "MNRE contact",
+ "value": "011-24365666 or <a href=\"https://mnre.gov.in/\" target=\"_blank\">mnre.gov.in</a>",
+ "highlight": false
+ }
+ ],
+ "faqs": [
+ {
+ "question": "How much does a solar pump actually save?",
+ "answer": "A 5 HP solar pump saves approximately ₹3,000-8,000/month in diesel or electricity costs (depending on usage and local rates). Over 25 years (solar panel lifespan), total savings are ₹10-15 lakh. The pump pays for itself within 2-4 years, after which all irrigation is essentially free. Plus, you get 5-year warranty on pump and 25-year warranty on solar panels."
+ },
+ {
+ "question": "Can I sell excess solar power?",
+ "answer": "Yes, under Component C (grid-connected solar). If your solar panels generate more electricity than your pump needs, the excess is fed to the grid and you receive payment at the DISCOM's agreed tariff rate (typically ₹5-8/unit). This can earn you ₹500-3,000/month depending on your solar capacity and usage pattern."
+ },
+ {
+ "question": "My state hasn't opened KUSUM applications. What do I do?",
+ "answer": "Not all states have active applications at all times - they open in batches based on budget allocation and implementation capacity. Check your state's renewable energy department website periodically, or register for email notifications. Meanwhile, some states have their own solar pump schemes with similar subsidies - check with your district agriculture office or block-level nodal agency."
+ },
+ {
+ "question": "What maintenance does a solar pump need?",
+ "answer": "Minimal. Solar panels need occasional cleaning (dust/dirt reduces efficiency by 2-5%). The pump motor may need servicing every 2-3 years. There are no fuel costs, no recurring electricity charges. Most installations come with 5-year comprehensive warranty covering pump damage. Solar panel manufacturers provide 25-year performance warranty (guaranteed at least 80% output)."
+ },
+ {
+ "question": "Can tenant farmers or lease farmers apply?",
+ "answer": "Generally no - you need to own the land where the solar pump will be installed. However, some states allow it with a long-term lease agreement (10+ years) from the landowner. Check your state's specific eligibility rules on the state KUSUM portal or with your block agriculture officer."
+ },
+ {
+ "question": "What if I have no connection to the grid?",
+ "answer": "That's exactly what Component B (standalone solar pumps) is designed for. If your area has no grid electricity or very weak grid, you can still get a solar pump with 60-90% subsidy. It works entirely off-grid - no electricity bill, no diesel cost, complete independence."
+ },
+ {
+ "question": "How long does the application process take from start to installation?",
+ "answer": "Typical timeline: Registration to approval: 2-4 weeks. Payment by farmer: 1-2 weeks. Installation: 2-4 weeks. Total: 1.5-2.5 months from initial application to working solar pump. Speed depends on state implementation and your document readiness."
+ },
+ {
+ "question": "What is the subsidy percentage under PM KUSUM?",
+ "answer": "Central government provides 30% subsidy. State government provides another 30%. Farmer pays 40%. In some states (Rajasthan), the state provides an additional 30%, reducing farmer's share to just 10%. Bank loans are available for the farmer's share at concessional interest rates (4-7%) under priority sector lending."
+ },
+ {
+ "question": "Can tenant farmers apply for PM KUSUM?",
+ "answer": "Component B (standalone pumps) typically requires land ownership documents. Tenant farmers face difficulty in applying because land records are in the landowner's name. However, some states allow applications from tenant farmers with a lease agreement and landowner's NOC (No Objection Certificate). Check your state's specific eligibility criteria."
+ },
+ {
+ "question": "How long does a KUSUM solar pump last?",
+ "answer": "Solar panels have a lifespan of 25-30 years with gradual efficiency reduction (about 0.5-0.7% per year). The motor lasts 10-15 years and may need replacement once during the system's life. Controller and wiring last 15-20 years. Overall, the system provides reliable irrigation for 25+ years with minimal maintenance - just periodic panel cleaning and annual motor servicing."
+ },
+ {
+ "question": "Does KUSUM solar pump work during monsoon?",
+ "answer": "Yes, but at reduced capacity (40-60% on cloudy days). During heavy overcast conditions, output drops to 20-30%. However, monsoon is when irrigation demand is lowest - rainwater handles most crop watering needs. The pump is most productive during the dry winter and summer months when irrigation demand is highest and solar irradiance is strongest."
+ }
+ ],
+ "official_portal": {
+ "name": "MNRE - PM KUSUM",
+ "url": "https://mnre.gov.in/solar/schemes/"
+ },
+ "related_pages": [
+ {
+ "title": "PM Kisan Samman Nidhi",
+ "slug": "pm-kisan",
+ "tag": "Agriculture",
+ "url": "/yojana/pm-kisan"
+ },
+ {
+ "title": "Kisan Credit Card",
+ "slug": "pm-kisan-credit-card",
+ "tag": "Agriculture",
+ "url": "/yojana/pm-kisan-credit-card"
+ },
+ {
+ "title": "PM Fasal Bima Yojana",
+ "slug": "pm-fasal-bima-yojana",
+ "tag": "Agriculture",
+ "url": "/yojana/pm-fasal-bima-yojana"
+ },
+ {
+ "title": "PM Surya Ghar (Free Solar)",
+ "slug": "pm-surya-ghar",
+ "tag": "Solar",
+ "url": "/yojana/pm-surya-ghar"
+ }
+ ],
+ "tags": [
+ "Solar",
+ "Agriculture",
+ "Irrigation",
+ "Subsidy",
+ "Renewable Energy",
+ "Central Government",
+ "March 2026"
+ ],
+ "ministry": "Ministry of New and Renewable Energy (MNRE)",
+ "launch_year": 2019,
+ "image_suggestions": [
+ "Solar pump installation in agricultural field",
+ "Farmer checking solar panel efficiency",
+ "Water flowing from solar pump in farm",
+ "Solar power plant with multiple panels"
+ ],
+ "last_reviewed": "May 2026",
+ "category": "farmer",
+ "isCentral": true
+}

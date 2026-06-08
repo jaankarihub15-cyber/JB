@@ -1,0 +1,87 @@
+{
+  "slug": "ssc-cgl",
+  "exam_name": "SSC CGL",
+  "title": "Best Books for SSC CGL 2026: Subject-Wise Tier 1 & 2",
+  "meta_description": "Best books for SSC CGL 2026, subject-wise. Quant by Rakesh Yadav, reasoning by RS Aggarwal, English by SP Bakshi, Lucent GK. With buying tips and PYQ advice.",
+  "hero": {
+    "one_liner": "A focused, subject-wise SSC CGL booklist for Tier 1 and Tier 2. One concept book plus one practice book per section is enough.",
+    "icon": "📊",
+    "updated_date": "June 2026",
+    "stats": [
+      { "label": "Core books", "value": "8-10" },
+      { "label": "Sections", "value": "4" },
+      { "label": "Budget", "value": "₹3,500-5,000" }
+    ]
+  },
+  "intro": [
+    "SSC CGL has four sections: Quantitative Aptitude, Reasoning, English, and General Awareness. You need one main book and one practice book per section, not a shelf full.",
+    "For SSC, less is more. Finish a tight booklist in four to five months, then spend the rest on previous year papers and full mocks.",
+    "That single discipline, sticking to a few books and revising, puts you ahead of most aspirants who keep buying new material."
+  ],
+  "reading_order": [
+    { "step": 1, "title": "Concept books", "description": "One main book per section to learn the fundamentals and shortcuts." },
+    { "step": 2, "title": "Practice books", "description": "Kiran or Rakesh Yadav chapter-wise previous year questions for each section." },
+    { "step": 3, "title": "PYQs + mocks", "description": "Ten years of SSC CGL papers and full-length mocks on the TCS-style interface." }
+  ],
+  "subjects": [
+    {
+      "id": "quant",
+      "name": "Quantitative Aptitude",
+      "icon": "🔢",
+      "intro": "The highest-scoring but most time-consuming section. Focus on speed, accuracy, and shortcuts.",
+      "books": [
+        { "title": "NCERT Mathematics (Class 6-10)", "author": "NCERT", "price_approx": "Free PDF", "tier": "ncert", "priority": "recommended", "beginner_friendly": true, "why": "Use the geometry chapters of Class 9 and 10 if your basics are weak. Skip if your foundation is solid." },
+        { "title": "SSC Mathematics (7300+ Chapter-wise PYQs)", "author": "Rakesh Yadav", "publisher": "Rakesh Yadav Publication", "price_approx": "₹400", "tier": "standard", "priority": "must", "beginner_friendly": true, "why": "Essential for practicing previous year questions with shortcut methods. The most recommended SSC quant book." },
+        { "title": "Quantitative Aptitude for Competitive Examinations", "author": "RS Aggarwal", "publisher": "S Chand", "price_approx": "₹700", "tier": "standard", "priority": "optional", "why": "A comprehensive backup for a very weak base. Skip if your basics are already sound." }
+      ]
+    },
+    {
+      "id": "reasoning",
+      "name": "Reasoning",
+      "icon": "🧩",
+      "intro": "Tests logical thinking. Reasoning in 2026 has tougher puzzles and seating arrangements.",
+      "books": [
+        { "title": "A Modern Approach to Verbal & Non-Verbal Reasoning", "author": "RS Aggarwal", "publisher": "S Chand", "price_approx": "₹600", "tier": "standard", "priority": "must", "beginner_friendly": true, "why": "Theory and example coverage are unmatched for SSC reasoning. The standard choice." },
+        { "title": "A New Approach to Reasoning", "author": "BS & Indu Sijwali", "publisher": "Arihant", "price_approx": "₹450", "tier": "standard", "priority": "recommended", "why": "Strong practice for the harder puzzle and arrangement questions now common in SSC." }
+      ]
+    },
+    {
+      "id": "english",
+      "name": "English",
+      "icon": "📝",
+      "intro": "Medium to challenging. The 2026 trend shifts toward complex reading comprehension and cloze tests.",
+      "books": [
+        { "title": "Objective General English", "author": "SP Bakshi", "publisher": "Arihant", "price_approx": "₹400", "tier": "standard", "priority": "must", "beginner_friendly": true, "why": "Covers all grammar topics with clear explanations and plenty of practice. The SSC standard." },
+        { "title": "Word Power Made Easy", "author": "Norman Lewis", "publisher": "Penguin", "price_approx": "₹250", "tier": "standard", "priority": "recommended", "why": "The best resource for systematic vocabulary building through root words." }
+      ]
+    },
+    {
+      "id": "ga",
+      "name": "General Awareness",
+      "icon": "🌐",
+      "intro": "Static GK plus current affairs. Lucent is the base, supplement with a monthly magazine.",
+      "books": [
+        { "title": "General Knowledge", "author": "Lucent", "publisher": "Lucent Publication", "price_approx": "₹250", "tier": "standard", "priority": "must", "beginner_friendly": true, "why": "The best single book for static GK. Revise it four or more times; many toppers did six to seven passes." }
+      ]
+    }
+  ],
+  "buying_tips": [
+    "Buy print for the main concept books you revise often: Rakesh Yadav, Lucent, SP Bakshi, Norman Lewis.",
+    "Use free PDFs for previous year papers, NCERTs, and monthly current affairs.",
+    "A complete SSC CGL bookshelf for 2026 costs ₹3,500 to ₹5,000. Beyond that is hoarding."
+  ],
+  "faqs": [
+    { "question": "Which is the best book for SSC CGL maths?", "answer": "Rakesh Yadav's SSC Mathematics with 7300+ chapter-wise PYQs is the most recommended.<br><br>For a weak base, RS Aggarwal's Quantitative Aptitude is a comprehensive backup." },
+    { "question": "Is Lucent GK enough for SSC CGL?", "answer": "Lucent is the best base for static GK, but it is not enough alone.<br><br>Supplement it with a monthly current affairs magazine like Pratiyogita Darpan and regular quizzes." },
+    { "question": "How much does an SSC CGL book set cost?", "answer": "A complete set costs roughly ₹3,500 to ₹5,000 for 2026.<br><br>That covers subject books, previous year papers, and current affairs material for the whole prep." },
+    { "question": "Should I buy SSC books in Hindi or English?", "answer": "Choose the language you are most comfortable in for both reading and answering. Most books come in both.<br><br>Since SSC has an English section, keep at least the English book in English." },
+    { "question": "Are Tier 1 and Tier 2 books different?", "answer": "Tier 2 needs more advanced maths and English. Tier 1 books cover basics.<br><br>For Tier 2 quant, Rakesh Yadav's advanced maths and Abhinay Sharma are commonly used." },
+    { "question": "Do NCERTs help for SSC CGL?", "answer": "Yes, especially Class 6 to 10 maths for a weak quant base and the science and history NCERTs for GA.<br><br>They are free PDFs, so they cost nothing to use." },
+    { "question": "How many books per section should I buy?", "answer": "One main concept book and one practice book per section is enough.<br><br>Quality of revision beats quantity of books. Finish the list, then move to mocks." },
+    { "question": "Are previous year papers important for SSC CGL?", "answer": "Yes, they are among the most useful resources. Solve at least ten years of papers.<br><br>They reveal the exact pattern, difficulty, and frequently repeated question types." }
+  ],
+  "disclaimer": "Book prices and editions are approximate and last checked in June 2026. Confirm the latest edition before buying. This is an independent guide and not affiliated with SSC or any publisher.",
+  "related_exam_slug": "ssc-cgl",
+  "tags": ["SSC CGL", "Books", "Quant", "Reasoning", "English", "GK"],
+  "last_reviewed": "June 2026"
+}

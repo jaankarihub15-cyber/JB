@@ -1,0 +1,809 @@
+{
+  "slug": "pm-kisan",
+  "title": "PM Kisan 2026: Rs 6,000/Year, 22nd Installment Out, Status Check",
+  "meta_description": "PM Kisan pays Rs 6,000/year to 9.3 crore farmers in 3 installments. 22nd installment released 13 March 2026 from Guwahati. eKYC mandatory. Status check guide.",
+  "hero": {
+    "status": "active",
+    "one_liner": "Direct income support of ₹6,000 per year for all landholding farmer families - India's largest Direct Benefit Transfer scheme",
+    "icon": "🌾",
+    "updated_date": "May 2026",
+    "stats": [
+      {
+        "label": "Annual Benefit",
+        "value": "Rs 6,000"
+      },
+      {
+        "label": "Installments",
+        "value": "3 × Rs 2,000"
+      },
+      {
+        "label": "Beneficiaries",
+        "value": "9.32 Crore"
+      },
+      {
+        "label": "Total Disbursed",
+        "value": "Rs 4.27+ Lakh Cr"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "✅",
+      "label": "Check Status",
+      "url": "https://pmkisan.gov.in/BeneficiaryStatus.aspx"
+    },
+    {
+      "icon": "📝",
+      "label": "New Registration",
+      "url": "https://pmkisan.gov.in/RegistrationForm.aspx"
+    },
+    {
+      "icon": "🔑",
+      "label": "Complete e-KYC",
+      "url": "https://pmkisan.gov.in/EkyC.aspx"
+    },
+    {
+      "icon": "📋",
+      "label": "Beneficiary List",
+      "url": "https://pmkisan.gov.in/Rpt_BeneficiaryStatus_pub.aspx"
+    },
+    {
+      "icon": "📞",
+      "label": "Helpline",
+      "url": "tel:155261"
+    }
+  ],
+  "what_is_it": [
+    "PM Kisan Samman Nidhi Yojana is a central government scheme launched on 24 February 2019 by Prime Minister Narendra Modi. Under this scheme, all landholding farmer families in India receive ₹6,000 per year as direct income support. The money is transferred directly into the farmer's Aadhaar-linked bank account in three equal installments of ₹2,000 each, every four months, using the Direct Benefit Transfer (DBT) system.",
+    "The scheme was originally launched for small and marginal farmers with up to 2 hectares of land. However, in June 2019, it was expanded to cover ALL farmer families regardless of land size. This makes it one of the largest cash transfer programs in the world, reaching over 9 crore farmer families across India.",
+    "As of March 2026, the government has released 22 installments and transferred more than ₹4.09 lakh crore to eligible farmers since the scheme began. The 22nd installment was released on 13 March 2026, benefiting over 9.32 crore farmers with a total disbursement of ₹18,640 crore.",
+    "The primary goal of PM Kisan is to supplement the financial needs of farmers for purchasing seeds, fertilizers, pesticides, and other agricultural inputs. The scheme is entirely funded by the central government (100% central sector scheme), while state and UT governments are responsible for identifying eligible beneficiaries using land records."
+  ],
+  "eligibility": [
+    {
+      "label": "Who can apply",
+      "value": "All families who own cultivable farmland anywhere in India",
+      "highlight": false
+    },
+    {
+      "label": "Land requirement",
+      "value": "Must have farmland registered in the family member's name in state/UT land records",
+      "highlight": true
+    },
+    {
+      "label": "Family definition",
+      "value": "Husband, wife, and their minor children are counted as ONE family - only one member can register",
+      "highlight": true
+    },
+    {
+      "label": "Citizenship",
+      "value": "Must be an Indian citizen residing in India",
+      "highlight": false
+    },
+    {
+      "label": "Income limit",
+      "value": "No income limit for farmer families (income-based exclusions apply separately)",
+      "highlight": false
+    },
+    {
+      "label": "Documents needed",
+      "value": "Aadhaar card (mandatory), bank account linked to Aadhaar, land ownership records (Khatauni/Khasra), mobile number linked to Aadhaar",
+      "highlight": true
+    }
+  ],
+  "eligibility_filters": {
+    "gender": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "occupation": [
+      "farmer"
+    ],
+    "income_max": 9999999,
+    "category": [
+      "general",
+      "obc",
+      "sc",
+      "st"
+    ],
+    "states": [
+      "all"
+    ]
+  },
+  "extra_sections": [
+    {
+      "type": "modern_callout",
+      "variant": "warning",
+      "title": "e-KYC Mandatory",
+      "content": "e-KYC is mandatory to receive installments since 2022. If you haven't done e-KYC, your payments are blocked. Complete it via: (1) CSC center with Aadhaar authentication, (2) PM Kisan portal with OTP, or (3) Face authentication app. No payment without e-KYC."
+    },
+    {
+      "type": "stat_grid",
+      "heading": "PM Kisan at a Glance",
+      "items": [
+        {
+          "icon": "wallet",
+          "value": "₹6,000",
+          "label": "Per year (3 installments)",
+          "color": "green"
+        },
+        {
+          "icon": "users",
+          "value": "11+ Cr",
+          "label": "Beneficiaries",
+          "color": "blue"
+        },
+        {
+          "icon": "calendar",
+          "value": "Apr/Aug/Dec",
+          "label": "Installment months",
+          "color": "amber"
+        },
+        {
+          "icon": "shield",
+          "value": "eKYC",
+          "label": "Now mandatory",
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "heading": "Who CANNOT Get PM Kisan Benefits",
+      "icon": "🚫",
+      "type": "text",
+      "content": [
+        "Even if you own farmland, you are NOT eligible if you or any member of your family falls in these categories:",
+        "1. Current or retired officers/employees of central or state government ministries, departments, or field units (excluding Multi-Tasking Staff, Class IV, and Group D employees who ARE eligible).",
+        "2. Anyone who is or was a Member of Parliament, MLA, MLC, Mayor, or Zila Parishad Chairperson.",
+        "3. Anyone currently serving or retired from constitutional posts.",
+        "4. Anyone who paid income tax in the previous assessment year (even if they are a <a href=\"/yojana/rythu-bandhu\" style=\"text-decoration:underline;color:inherit\">farmer</a>). Filing ITR makes you ineligible from the next installment.",
+        "5. Professionals like doctors, engineers, lawyers, chartered accountants, and architects who are registered with professional bodies AND earn income from their profession.",
+        "6. Anyone receiving a monthly pension of ₹10,000 or more (excluding Multi-Tasking Staff and Group D employees).",
+        "7. Institutional landholders - land owned by trusts, companies, or institutions does not qualify.",
+        "Important: If even one family member falls in any of these categories, the entire family becomes ineligible. Double-check before registering to avoid rejection or <a href=\"/yojana/pm-kusum-yojana\" style=\"text-decoration:underline;color:inherit\">subsidy</a> recovery."
+      ]
+    },
+    {
+      "type": "eligibility_check",
+      "heading": "PM Kisan Eligibility - Quick Check",
+      "qualify": [
+        "Small/marginal farmer family owning cultivable land",
+        "Indian citizen with land records in your name",
+        "Aadhaar linked to bank account (NPCI-mapped)",
+        "Completed e-KYC on pmkisan.gov.in",
+        "Family income from agriculture (no upper limit on size)",
+        "Land records verified by State Land Department"
+      ],
+      "disqualify": [
+        "Constitutional post holders (MPs, MLAs, Ministers)",
+        "Family member is/was income tax payer in last AY",
+        "Family member is govt employee earning ₹10,000+/month pension",
+        "Doctor, engineer, CA, architect, lawyer registered under profession",
+        "Family member is a serving officer (Central/State govt)",
+        "Land not in farmer's name (no inheritance/lease records)"
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "Documents Required for PM Kisan",
+      "items": [
+        {
+          "icon": "shield",
+          "title": "Aadhaar Card",
+          "sub": "Mobile-linked, NPCI-mapped to bank"
+        },
+        {
+          "icon": "file",
+          "title": "Land Records",
+          "sub": "Khasra/Khatauni from State Land Dept"
+        },
+        {
+          "icon": "users",
+          "title": "Citizenship Proof",
+          "sub": "Voter ID / Passport / domicile"
+        },
+        {
+          "icon": "wallet",
+          "title": "Bank Passbook",
+          "sub": "Aadhaar-linked, in farmer's name"
+        }
+      ]
+    },
+    {
+      "type": "timeline",
+      "heading": "PM Kisan Annual Installment Schedule",
+      "items": [
+        {
+          "date": "APRIL",
+          "event": "1st Installment (₹2,000)",
+          "desc": "Released around end-April / early-May each year"
+        },
+        {
+          "date": "AUGUST",
+          "event": "2nd Installment (₹2,000)",
+          "desc": "Released around end-August / early-September"
+        },
+        {
+          "date": "DECEMBER",
+          "event": "3rd Installment (₹2,000)",
+          "desc": "Final installment, December each year"
+        },
+        {
+          "date": "ANNUAL",
+          "event": "Total ₹6,000/year via DBT",
+          "desc": "Direct to Aadhaar-linked bank account, no agents involved"
+        }
+      ]
+    },
+    {
+      "heading": "Complete Installment History - 22 Installments Released",
+      "icon": "📊",
+      "type": "table",
+      "columns": [
+        "Installment",
+        "Period",
+        "Release Date",
+        "Amount",
+        "Beneficiaries"
+      ],
+      "rows": [
+        [
+          "22nd",
+          "Dec 2025 – Mar 2026",
+          "13 March 2026",
+          "₹18,640 Cr",
+          "9.32 Cr"
+        ],
+        [
+          "21st",
+          "Aug – Nov 2025",
+          "Oct 2025",
+          "₹18,681 Cr",
+          "9.34 Cr"
+        ],
+        [
+          "20th",
+          "Apr – Jul 2025",
+          "Jun 2025",
+          "₹20,843 Cr",
+          "9.71 Cr"
+        ],
+        [
+          "19th",
+          "Dec 2024 – Mar 2025",
+          "24 Feb 2025",
+          "₹22,000+ Cr",
+          "10.07 Cr"
+        ],
+        [
+          "18th",
+          "Aug – Nov 2024",
+          "Oct 2024",
+          "₹20,000+ Cr",
+          "9.4 Cr"
+        ],
+        [
+          "17th",
+          "Apr – Jul 2024",
+          "Jun 2024",
+          "₹20,000+ Cr",
+          "9.3 Cr"
+        ]
+      ]
+    },
+    {
+      "heading": "How to Check Your Payment Status",
+      "icon": "🔍",
+      "type": "steps",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Go to the PM Kisan portal",
+          "description": "Open pmkisan.gov.in in your browser. On the homepage, look for 'Farmers Corner' section on the right side."
+        },
+        {
+          "step": 2,
+          "title": "Click on 'Beneficiary Status'",
+          "description": "This opens the status check page. You can search using three methods: Aadhaar Number, Account Number, or Mobile Number."
+        },
+        {
+          "step": 3,
+          "title": "Enter your details and click 'Get Data'",
+          "description": "Enter your Aadhaar number (recommended - most reliable), type the captcha, and click search."
+        },
+        {
+          "step": 4,
+          "title": "View your installment history",
+          "description": "The page shows ALL installments - which ones were paid, the amount, date of transfer, and any that are pending or rejected. If an installment shows 'FTO is Generated and Payment confirmation is Pending', the money is on its way."
+        }
+      ]
+    },
+    {
+      "heading": "Common Problems and Solutions",
+      "icon": "🔧",
+      "type": "text",
+      "content": [
+        "Problem: Payment stopped after a few installments - This usually happens because e-KYC expired or land records were not re-verified. Complete e-KYC again on the portal or at your nearest CSC center.",
+        "Also check if your state government has updated land records.",
+        "Problem: Status shows 'Aadhaar not authenticated' - Your Aadhaar is not linked to your bank account. Visit your bank branch and ask them to seed (link) your Aadhaar to your account.",
+        "This is different from just having an Aadhaar card.",
+        "Problem: Status shows 'Rft Signed by State' but no money received - The state government has approved your payment, but the bank transfer is pending. Wait 5-7 working days.",
+        "If still not received, check if your bank account is active and has no freeze/hold.",
+        "Problem: Name mismatch between Aadhaar and bank account - Even small differences can block payments. Get your name corrected so both match exactly.",
+        "Problem: 'Payment Failure' status - Common causes: closed bank account, account frozen, incorrect IFSC code, or bank merger. Contact your bank to verify account status.",
+        "Problem: Land records not verified - In some states, land record digitization is incomplete. Contact your local Patwari or Lekhpal to ensure your details are correctly entered."
+      ]
+    },
+    {
+      "heading": "How to File a Grievance",
+      "icon": "📝",
+      "type": "steps",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Visit the PM Kisan Grievance Portal",
+          "description": "Go to pmkisan.gov.in and click on 'Grievance' in the Farmers Corner section. This opens the CPGRAMS-linked grievance system."
+        },
+        {
+          "step": 2,
+          "title": "Register your complaint",
+          "description": "Enter your name, mobile number, Aadhaar number, and describe your problem in detail. Upload any supporting documents (bank statement, land records, etc.) if available."
+        },
+        {
+          "step": 3,
+          "title": "Note your grievance ID",
+          "description": "After submission, you'll receive a unique grievance ID. Save this - you'll need it to track your complaint status."
+        },
+        {
+          "step": 4,
+          "title": "Track resolution",
+          "description": "Grievances are typically resolved within 30-60 days. Check status using your grievance ID on the same portal. If not resolved, escalate by calling the PM Kisan helpline at 155261 or 011-24300606."
+        }
+      ]
+    },
+    {
+      "heading": "e-KYC - Why It's Mandatory and How to Do It",
+      "icon": "🔑",
+      "type": "text",
+      "content": [
+        "Since 2022, e-KYC is mandatory for ALL PM Kisan beneficiaries. If you haven't completed e-KYC, your installments will be held until you do.",
+        "This was introduced to remove fake and duplicate beneficiaries from the system.",
+        "Method 1 - OTP-based e-KYC (online, 2 minutes): Go to pmkisan.gov.in → click 'e-KYC' under Farmers Corner → enter Aadhaar number → click 'Search' → enter OTP received on your Aadhaar-linked mobile → submit.",
+        "Method 2 - Biometric e-KYC (at CSC center): Visit your nearest Common Service Centre (CSC). Carry your Aadhaar card.",
+        "The CSC operator will verify your identity using fingerprint/iris scan. This costs ₹0 (free) under PM Kisan.",
+        "Use this if your mobile number is not linked to Aadhaar.",
+        "Method 3 - Face Authentication (PM Kisan app): Download the PM Kisan mobile app from Google Play Store. Go to Face Authentication → follow the prompts to scan your face.",
+        "This method was introduced in 2023 for farmers in remote areas.",
+        "Important: e-KYC needs to be done only once, but the government may ask for re-verification periodically (usually annually). When required, you'll see a notification on the PM Kisan portal or app."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "info",
+      "title": "Official Sources & References",
+      "content": "Source: PM-KISAN Portal (pmkisan.gov.in), Ministry of Agriculture. All information on this page has been verified against official government notifications and regulatory circulars. For the latest updates, always check the official portal."
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "title": "Land Ownership Rule",
+      "content": "You must own cultivable farmland in your name. Tenant farmers and sharecroppers do NOT qualify. If family land is in father's name, only he is eligible. After father's death, land must be transferred (mutation) to eligible family members for them to enroll."
+    },
+    {
+      "type": "pullquote",
+      "text": "PM Kisan puts ₹6,000 directly into every farmer's bank account every year - no middlemen, no corruption, just a direct transfer that helps millions of farming families meet their basic agricultural input costs."
+    },
+    {
+      "type": "text",
+      "heading": "PM Kisan - Rs 6,000/year for every farmer",
+      "icon": "🌾",
+      "content": [
+        "PM Kisan gives Rs 6,000/year to ALL landholding farmer families in 3 installments of Rs 2,000 (April-July, Aug-Nov, Dec-March). Direct to Aadhaar-linked bank via DBT. No middlemen. Covers 11+ crore families. No income or land size limit for eligibility.",
+        "NOT eligible: Institutional landholders. Former/present constitutional post holders (MLA/MP/Mayor). Government employees. Income tax payers. Professionals (doctors, lawyers, CAs who also own farmland). These exclude affluent individuals who own land but arent actual farming families."
+      ]
+    },
+    {
+      "type": "number_highlight",
+      "big": "₹3.6 L Cr+",
+      "title": "Total PM Kisan disbursement since 2019",
+      "desc": "Over 22 installments since the scheme's December 2018 launch, more than ₹3.6 lakh crore has been transferred to 11+ crore farmers via DBT. This makes PM Kisan one of the largest direct income support schemes for farmers in the world."
+    },
+    {
+      "type": "text",
+      "heading": "How to register",
+      "icon": "📝",
+      "content": [
+        "Online: pmkisan.gov.in → New Farmer Registration → Self Registration → Aadhaar → OTP → fill state, district, village, land details (survey/khasra number, area), bank account (IFSC + number), mobile → upload land documents → submit. Approved in 15-30 days after agriculture officer verification.",
+        "Through CSC: Visit any Jan Seva Kendra with Aadhaar, bank passbook, land documents. Free service. Through Patwari/Lekhpal: Some states allow local registration. Contact nearest Krishi Bhawan or Block Development Office.",
+        "After registration: Three verification stages - state land record verification → district eligibility check → central Aadhaar-bank seeding verification. Once all clear, installments start from next eligible period."
+      ]
+    },
+    {
+      "type": "process_flow",
+      "heading": "PM Kisan Registration & Payment Flow",
+      "steps": [
+        {
+          "icon": "file",
+          "title": "Register Online",
+          "desc": "pmkisan.gov.in / CSC / Bank"
+        },
+        {
+          "icon": "shield",
+          "title": "Submit Land Records",
+          "desc": "Khasra + Aadhaar linkage"
+        },
+        {
+          "icon": "users",
+          "title": "eKYC Completion",
+          "desc": "Biometric / OTP / Face Auth"
+        },
+        {
+          "icon": "wallet",
+          "title": "₹2,000 Every 4 Months",
+          "desc": "Direct to Aadhaar-linked account"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "e-KYC - mandatory",
+      "icon": "🔑",
+      "content": [
+        "Without e-KYC, your installments are completely BLOCKED - no exceptions. The government made e-KYC mandatory from 2023 onwards to eliminate fake or duplicate beneficiaries, and over 30 lakh accounts were suspended during the first verification drive. There are three ways to complete e-KYC, each taking less than 5 minutes.",
+        "OTP-based (easiest): Visit pmkisan.gov.in, click the e-KYC tab, enter your Aadhaar number, request OTP on your Aadhaar-linked mobile, enter the OTP, and you are verified. Total time: under 2 minutes. This works only if your mobile number is correctly linked to Aadhaar.",
+        "Biometric (if OTP fails): Visit any Common Service Centre (CSC) or Jan Seva Kendra near your village. Carry your Aadhaar card. The operator scans your fingerprint against UIDAI records. Done in under 3 minutes. This is the best option if your mobile number linked to Aadhaar has changed or you don't receive OTPs.",
+        "Through the PMKISAN app: Download the official PMKISAN GoI app from Google Play Store. Navigate to e-KYC section, enter Aadhaar, and complete face authentication using your phone camera. Available on Android devices with a front camera.",
+        "Critical: e-KYC must be renewed every year. Even if you completed it last year, it expires and your next installment will be blocked until renewal. Check your e-KYC status anytime at pmkisan.gov.in → Beneficiary Status. Set a reminder for April every year to renew before the first installment cycle."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Checking status and troubleshooting",
+      "icon": "🔧",
+      "content": [
+        "Check: pmkisan.gov.in → Beneficiary Status → Aadhaar/mobile/account number → view all installments (amount, date, reference). Helpline: 155261 or 011-24300606.",
+        "Installment not received: (1) e-KYC expired - redo. (2) Aadhaar not linked to bank - visit bank for seeding. (3) Land record verification pending - contact Patwari. (4) Name mismatch between Aadhaar and bank - correct at bank or Aadhaar centre. (5) Application rejected - check reason at portal and reapply.",
+        "Refund if ineligible: If you received PM Kisan but are government employee/tax payer - MUST refund. Government conducts audits. Non-refund leads to legal action. Refund online at pmkisan.gov.in → Refund Online."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Stack with other farmer schemes",
+      "icon": "📊",
+      "content": [
+        "PM Kisan + KCC: Beneficiaries get priority for Kisan Credit Card at 4% interest. Up to Rs 3 lakh crop loan. Apply at bank with PM Kisan proof + land documents.",
+        "PM Kisan + Fasal Bima: Insure crops against disasters/pests. Premium: 2% kharif, 1.5% rabi. Use PM Kisan Rs 2,000/installment to cover insurance premium. Apply at pmfby.gov.in.",
+        "PM Kisan + Soil Health Card: Free soil test at Krishi Vigyan Kendra. Reduces wasteful fertilizer by 20-30%. Combined ecosystem: income support + crop finance + insurance + soil optimization.",
+        "PM Kisan + APY: Use Rs 2,520/year from PM Kisan for Atal Pension <a href=\"/yojana/pm-jan-dhan-yojana\" style=\"text-decoration:underline;color:inherit\">Yojana</a> → Rs 5,000/month pension at 60. PM Kisan funds your present, APY funds retirement."
+      ]
+    },
+    {
+      "type": "comparison_card",
+      "heading": "PM Kisan vs Other Farmer Income Schemes",
+      "win": {
+        "name": "PM KISAN",
+        "amount": "₹6,000/yr",
+        "sub": "central · all eligible farmers"
+      },
+      "others": [
+        {
+          "name": "KALIA (ODISHA)",
+          "amount": "₹10K/yr",
+          "sub": "state · landless agri laborers covered"
+        },
+        {
+          "name": "RYTHU BANDHU (TG)",
+          "amount": "₹10K/acre/yr",
+          "sub": "state · per-acre basis"
+        },
+        {
+          "name": "STATE TOP-UPS",
+          "amount": "₹4-8K/yr",
+          "sub": "vary by state · stacked with PM Kisan"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "For different farmer categories",
+      "icon": "👨‍🌾",
+      "content": [
+        "Marginal (below 1 hectare): 68% of beneficiaries. Rs 6,000 covers seeds and fertilizer for one season. Combined with KCC: basic cultivation finance covered.",
+        "Small (1-2 hectares): Rs 6,000 covers smaller percentage but helps. Benefit most from KCC + <a href=\"/yojana/pm-fasal-bima-yojana\" style=\"text-decoration:underline;color:inherit\">Fasal</a> Bima combination.",
+        "Large (above 2 hectares): Eligible regardless of size IF not filing ITR. Large farmers not filing ITR should register.",
+        "Women farmers: Scheme encourages women as beneficiaries. If land is jointly owned, woman can register. Bank account ideally in womans name for financial empowerment."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "State top-ups and land records",
+      "icon": "🏛️",
+      "content": [
+        "Some states add MORE: Telangana Rythu Bandhu (Rs 10,000/acre/season). Odisha KALIA (Rs 10,000/year). Jharkhand Krishi Ashirwad (Rs 5,000/acre/season). These STACK with PM Kisan. Telangana farmer with 2 acres: PM Kisan Rs 6,000 + Rythu Bandhu Rs 40,000 = Rs 46,000/year.",
+        "Land records matter: PM Kisan eligibility verified against state land records. If records arent updated (mutation pending after inheritance), registration REJECTED. Complete mutation BEFORE applying at Tehsildar office or Bhulekh portal.",
+        "Official: pmkisan.gov.in. Helpline: 155261. App: PMKISAN GoI (Play Store). Kisan Call Centre: 1800-180-1551 (24x7). Register today - Rs 6,000/year is your RIGHT as a landholding farmer."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "PM Kisan e-KYC: Step-by-Step Process",
+      "icon": "🔐",
+      "content": [
+        "e-KYC became mandatory for all PM Kisan beneficiaries from 2023. Without completing e-KYC, your installments are blocked. Three methods are available: OTP-based (easiest), biometric at CSC, and Face Authentication via PM Kisan mobile app."
+      ]
+    },
+    {
+      "type": "process_flow",
+      "heading": "Method 1: OTP-Based e-KYC (Easiest)",
+      "steps": [
+        {
+          "icon": "shield",
+          "title": "Visit pmkisan.gov.in",
+          "desc": "Click on 'eKYC' link on homepage"
+        },
+        {
+          "icon": "file",
+          "title": "Enter Aadhaar Number",
+          "desc": "Same Aadhaar registered with PM Kisan"
+        },
+        {
+          "icon": "users",
+          "title": "Verify OTP",
+          "desc": "Sent to Aadhaar-linked mobile number"
+        },
+        {
+          "icon": "wallet",
+          "title": "Confirmation",
+          "desc": "eKYC complete instantly, next installment unblocked"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "If OTP Method Fails",
+      "icon": "💡",
+      "content": [
+        "If your Aadhaar-linked mobile is changed or not working, OTP method fails. Use Method 2: Biometric eKYC at any CSC (Common Service Centre). Bring Aadhaar and Rs 15-20 service fee. The operator captures your fingerprint, processes in 2-3 minutes, and gives confirmation.",
+        "Method 3 is Face Authentication via the PM Kisan mobile app (Android only currently). Download from Play Store, login with Aadhaar, scan your face. Newest and easiest if you have a smartphone. Works even with broken fingerprints (which is common for older farmers and manual laborers)."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "PM Kisan installment history and impact",
+      "icon": "📊",
+      "content": [
+        "Since February 2019: 17+ installments released totaling Rs 2.81 lakh crore to 11+ crore families. No installment missed or significantly delayed - remarkably consistent.",
+        "Impact: Studies show PM Kisan increased fertilizer and seed purchases by 10-15%, crop yields by 5-8%, and reduced distress borrowing by 20%. For marginal farmers, Rs 6,000 covers 30-40% of one seasons cultivation costs.",
+        "For families not yet registered: Check if you qualify - ANY landholding farmer family that doesnt file ITR is eligible. Register at pmkisan.gov.in (10 minutes) or at any CSC (free, 15 minutes). The Rs 6,000/year adds up - Rs 30,000 in 5 years, Rs 60,000 in 10 years.",
+        "If you know an eligible farmer who isnt registered - help them register. The application takes 10 minutes and the benefit lasts a lifetime."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "PM Kisan Common Questions Answered",
+      "icon": "❓",
+      "content": [
+        "Lakhs of farmers face the same set of issues every installment cycle. Here are the most common scenarios and how to resolve them quickly without losing your eligibility:"
+      ]
+    },
+    {
+      "type": "eligibility_check",
+      "heading": "Common PM Kisan Issues: Quick Resolution",
+      "qualify": [
+        "Installment delayed? Check pmkisan.gov.in status before assuming issue",
+        "eKYC not done? Visit CSC or use OTP-based eKYC at home",
+        "Land record updated? Verify on State Land Department portal",
+        "Bank account changed? Update via Bank Account Update feature on portal",
+        "Aadhaar not seeded? Visit your bank to seed Aadhaar with NPCI",
+        "First-time applicant? Apply via pmkisan.gov.in or CSC, takes 30-45 days"
+      ],
+      "disqualify": [
+        "Family has tax filer (any AY) - permanent exclusion",
+        "Government employee earning Rs 10K+ pension monthly",
+        "Land not in your name (no inheritance record)",
+        "Constitutional post holder in family (MP/MLA/Minister)",
+        "Professional in registered list (CA/Doctor/Engineer/Lawyer)",
+        "Income above defined thresholds for family member categories"
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "If You Are Stuck",
+      "icon": "🆘",
+      "content": [
+        "First check your status at pmkisan.gov.in using Aadhaar or registration number. The portal shows installment history, bank credit dates, and any pending issues (eKYC missing, land verification pending, Aadhaar mismatch). About 70% of issues resolve themselves by completing the pending item.",
+        "If status is unclear or shows your application as rejected, visit the nearest Common Service Centre (CSC) with Aadhaar, land records, and bank passbook. CSC operators can pull up your application history and identify exact rejection reason. For non-CSC fixable issues, file grievance via PMKisan Helpdesk 011-24300606 or pmkisan-ict@gov.in. Local Lekhpal or Patwari handles land record corrections."
+      ]
+    }
+  ],
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Visit pmkisan.gov.in",
+      "description": "Open the official PM Kisan website. On the homepage, find the 'Farmers Corner' section on the right side and click on 'New Farmer Registration'."
+    },
+    {
+      "step": 2,
+      "title": "Select registration type",
+      "description": "Choose 'Rural Farmer Registration' if your land is in a village/rural area, or 'Urban Farmer Registration' if your land is in an urban area. Select your state from the dropdown."
+    },
+    {
+      "step": 3,
+      "title": "Enter Aadhaar number and verify",
+      "description": "Enter your 12-digit Aadhaar number and the image captcha code. Click 'Search'. The system checks if you are already registered. If you see 'Record Not Found', you can proceed with new registration."
+    },
+    {
+      "step": 4,
+      "title": "Fill the complete registration form",
+      "description": "Enter all details carefully: Full name (exactly as on Aadhaar), state, district, block, village, bank account number, IFSC code, mobile number. Then enter land details - survey number/khasra number, khata number, and land area from your land records (Khatauni)."
+    },
+    {
+      "step": 5,
+      "title": "Upload documents if required",
+      "description": "Some states require you to upload scanned copies of your land records. Keep a clear photo or scan of your Khatauni/land ownership document ready."
+    },
+    {
+      "step": 6,
+      "title": "Submit and note your registration number",
+      "description": "After submitting, you'll receive a registration number. Save this carefully - you'll need it to check your application status. The state government will now verify your land records."
+    },
+    {
+      "step": 7,
+      "title": "Complete e-KYC immediately",
+      "description": "Don't wait - go to the e-KYC section on the same portal and complete OTP verification using your Aadhaar. Without e-KYC, even after approval, your payments will be blocked."
+    },
+    {
+      "step": 8,
+      "title": "Check status after 2-3 weeks",
+      "description": "Land record verification by the state government takes 2-4 weeks. Check your application status on the portal using your registration number. Once approved, you'll start receiving installments from the next payment cycle."
+    }
+  ],
+  "important_alert": {
+    "text": "e-KYC is mandatory for ALL beneficiaries. The 22nd installment (March 2026) has already been released. If you didn't receive it, check if your e-KYC is complete and your Aadhaar is linked to your bank account. Call PM Kisan Helpline: 155261 or 011-24300606.",
+    "type": "warning"
+  },
+  "important_dates": [
+    {
+      "label": "22nd Installment",
+      "value": "Released 13 March 2026 (₹2,000)",
+      "highlight": true
+    },
+    {
+      "label": "23rd Installment (next)",
+      "value": "Expected June–July 2026 (₹2,000)",
+      "highlight": true
+    },
+    {
+      "label": "24th Installment",
+      "value": "Expected October–November 2026 (₹2,000)",
+      "highlight": false
+    },
+    {
+      "label": "e-KYC Status",
+      "value": "Must be completed - no deadline but payments held until done",
+      "highlight": true
+    },
+    {
+      "label": "Helpline Hours",
+      "value": "Monday–Friday, 9:30 AM – 6:00 PM",
+      "highlight": false
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the eligibility for PM Kisan Samman Nidhi?",
+      "answer": "All small and marginal farmer families who own cultivable land are eligible for PM Kisan. The key eligibility criteria are: (1) You must be a farmer with land in your name or your family's name in land records. (2) Your family must not belong to any excluded category - no government employees, income taxpayers, professionals (doctors, engineers, lawyers, CAs), or landholding families with income above ₹2 lakh from non-farming sources. (3) You must complete e-KYC at pmkisan.gov.in or the nearest CSC. There is no minimum land size requirement."
+    },
+    {
+      "question": "What is the income limit for PM Kisan Yojana?",
+      "answer": "PM Kisan does not have a direct income limit based on annual income. However, farmers whose family income from non-agricultural sources exceeds ₹2 lakh per year are excluded. Specifically excluded: current or former government employees, income taxpayers, professionals (doctors, CAs, engineers, lawyers, architects), and families with annual income above ₹2 lakh from non-farming sources. Farmers earning purely from agriculture with small/marginal landholding are generally eligible regardless of farm income."
+    },
+    {
+      "question": "Who is NOT eligible for PM Kisan?",
+      "answer": "The following categories are excluded from PM Kisan: (1) Institutional landholders (companies, trusts, societies owning farmland). (2) Farmer families where any member is/was a government employee (central, state, PSU). (3) Former/current MPs, MLAs, Ministers, Mayors, Zila Panchayat Chairpersons. (4) Income taxpayers (those who filed ITR in the last assessment year). (5) Professionals - doctors, engineers, lawyers, CAs, architects. (6) Retired pensioners receiving ₹10,000+ per month. Tenant farmers and sharecroppers (those who farm on others' land) are also not directly eligible unless the land is registered in their name."
+    },
+    {
+      "question": "How do I check if my PM Kisan payment has been sent?",
+      "answer": "Go to pmkisan.gov.in → click 'Beneficiary Status' under Farmers Corner → enter your Aadhaar number or mobile number → click 'Get Data'. This shows all installments: which were paid (with date and amount), which are pending, and which were rejected with the reason. You can also check via the PM Kisan mobile app."
+    },
+    {
+      "question": "My payment suddenly stopped. What happened?",
+      "answer": "The most common reasons are: (1) e-KYC expired and needs to be redone, (2) Aadhaar not seeded (linked) to your bank account - visit your bank to get this done, (3) State government re-verified land records and your details didn't match, (4) Your bank account was closed or frozen, (5) You or a family member started paying income tax. Check your status on the portal first."
+    },
+    {
+      "question": "Can both husband and wife receive PM Kisan?",
+      "answer": "No. The scheme defines 'family' as husband, wife, and minor children - only ONE member can be registered. If both have land in their names, only one can enroll. If both are registered, the duplicate will be detected and one registration will be cancelled."
+    },
+    {
+      "question": "I am a tenant farmer / sharecropper. Can I apply?",
+      "answer": "No. Only farmers who have cultivable land registered in their own name are eligible. Tenant farmers, sharecroppers, and landless agricultural laborers cannot apply under PM Kisan. However, they may be eligible for other schemes like PM Shram Yogi Maandhan or e-Shram Card."
+    },
+    {
+      "question": "I just bought land. When will I start getting payments?",
+      "answer": "Register on the PM Kisan portal with your new land records. After land verification by your state government (takes 2-4 weeks), you'll be added to the beneficiary list. You'll start receiving payments from the next installment cycle after approval. You won't receive back-dated payments."
+    },
+    {
+      "question": "How do I update my bank account details?",
+      "answer": "You cannot change bank details online yourself - this is to prevent fraud. Visit your nearest CSC (Common Service Centre) or contact your Block/District Agriculture Officer. Carry your new bank passbook (with Aadhaar linked), old passbook, Aadhaar card, and PM Kisan registration number. The update takes 7-14 days."
+    },
+    {
+      "question": "I completed e-KYC but still not getting money. Why?",
+      "answer": "e-KYC is just one requirement. Also check: (1) Is your Aadhaar linked to your bank account? (Different from e-KYC - visit bank to link), (2) Are your land records verified by the state? (3) Is your bank account active? (4) Does your name match exactly on Aadhaar and bank account? Check the beneficiary status page for the specific reason."
+    },
+    {
+      "question": "Is PM Kisan money taxable?",
+      "answer": "The PM Kisan payment itself is not taxable. However, if your total annual income (including PM Kisan) exceeds the basic exemption limit, you need to file an income tax return. Important: if you file income tax returns (even with zero tax), you become ineligible from the next installment."
+    },
+    {
+      "question": "What is the PM Kisan helpline number?",
+      "answer": "PM Kisan Helpline: 155261 (toll-free) or 011-24300606 (landline). Available Monday to Friday, 9:30 AM to 6:00 PM. You can also use the Kisan eMitra AI chatbot on the PM Kisan mobile app - it's available 24/7 in 11 regional languages."
+    },
+    {
+      "question": "Can NRIs or people living abroad get PM Kisan?",
+      "answer": "The scheme is for resident Indian farmers. If you have farmland in India but are living abroad, you are not eligible. The land must be actively cultivated, and the registered farmer must be residing in India."
+    }
+  ],
+  "official_portal": {
+    "name": "PM Kisan Official Website",
+    "url": "https://pmkisan.gov.in"
+  },
+  "related_pages": [
+    {
+      "title": "Kisan Credit Card (KCC)",
+      "slug": "pm-kisan-credit-card",
+      "tag": "Agriculture",
+      "url": "/yojana/pm-kisan-credit-card"
+    },
+    {
+      "title": "PM Fasal Bima Yojana",
+      "slug": "pm-fasal-bima-yojana",
+      "tag": "Agriculture",
+      "url": "/yojana/pm-fasal-bima-yojana"
+    },
+    {
+      "title": "PM Shram Yogi Maandhan",
+      "slug": "pm-shram-yogi-maandhan",
+      "tag": "Pension",
+      "url": "/yojana/pm-shram-yogi-maandhan"
+    },
+    {
+      "title": "e-Shram Card Registration",
+      "slug": "e-shram-card",
+      "tag": "Labour",
+      "url": "/yojana/e-shram-card"
+    },
+    {
+      "title": "Atal Pension Yojana",
+      "slug": "atal-pension-yojana",
+      "tag": "Pension",
+      "url": "/yojana/atal-pension-yojana"
+    },
+    {
+      "title": "PM KUSUM Yojana (Solar Pumps)",
+      "slug": "pm-kusum-yojana",
+      "tag": "Solar",
+      "url": "/yojana/pm-kusum-yojana"
+    }
+  ],
+  "tags": [
+    "Agriculture",
+    "Farmers",
+    "DBT",
+    "Central Government",
+    "Income Support"
+  ],
+  "ministry": "Ministry of Agriculture and Farmers Welfare",
+  "launch_year": 2019,
+  "image_suggestions": [
+    "pm-kisan-22-installment-timeline-calendar",
+    "farmer-beneficiary-e-kyc-process",
+    "bank-account-linking-aadhaar-process",
+    "land-record-khatauni-verification-check",
+    "beneficiary-status-portal-screenshot",
+    "income-support-rural-farmer-success-story"
+  ],
+  "last_reviewed": "May 2026",
+  "category": "farmer",
+  "isCentral": true
+}

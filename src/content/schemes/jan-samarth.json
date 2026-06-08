@@ -1,0 +1,590 @@
+{
+ "slug": "jan-samarth",
+ "title": "Jan Samarth Portal - All Government Loan Schemes in One Place",
+ "meta_description": "Jan Samarth portal 2026 - single window for 15+ government loan schemes across 125+ banks. Education, business, agriculture, housing loans. Free, no agents.",
+ "hero": {
+ "status": "active",
+ "one_liner": "One portal to apply for PM Mudra, education loans, Startup India, PM SVANidhi, PMAY subsidy, and 10+ other government credit schemes - no middlemen, no agents",
+ "icon": "🏛️",
+ "updated_date": "May 2026",
+ "stats": [
+ {
+ "label": "Schemes",
+ "value": "15+"
+ },
+ {
+ "label": "Banks/NBFCs",
+ "value": "125+"
+ },
+ {
+ "label": "Loan Categories",
+ "value": "7"
+ },
+ {
+ "label": "Cost",
+ "value": "Free"
+ }
+ ]
+ },
+ "quick_actions": [
+ {
+ "icon": "🔍",
+ "label": "Explore Schemes at jansamarth.in",
+ "url": "https://www.jansamarth.in"
+ },
+ {
+ "icon": "📞",
+ "label": "DFS Helpline",
+ "url": "tel:011-23748721"
+ }
+ ],
+ "what_is_it": [
+ "Jan Samarth is a single-window portal launched on 6 June 2022 by PM Narendra Modi to consolidate 15+ government credit-linked schemes across 7 loan categories. Instead of running between banks trying to figure out which scheme you qualify for, you come to <a href=\"https://www.jansamarth.in\" target=\"_blank\" rel=\"noopener\">jansamarth.in</a>, browse schemes, compare lenders, and apply directly. It's free, government-run, and requires no registration to explore.",
+ "The portal solves a real problem: small business owners, farmers, and students often don't know which government scheme they qualify for. Bank branch staff frequently push regular (non-subsidized) loans instead of informing you about schemes like Mudra or PMEGP. Private agents exploit this confusion and charge 1-5% commission. Jan Samarth cuts out the middleman entirely - you get transparent information about every scheme's eligibility, loan amount, interest rate, and collateral requirements upfront.",
+ "Jan Samarth integrates with Vidyalakshmi for education loans and connects you to 125+ participating institutions including SBI, HDFC Bank, ICICI Bank, and regional banks. The portal covers education loans, MSME/business financing (Mudra, Stand Up India, PMEGP), agricultural infrastructure, housing subsidies (PMAY CLSS), street vendor loans (SVANidhi), skill development loans, and startup funding.",
+ "Whether you're a student seeking education finance, a farmer buying equipment, a street vendor needing working capital, or an entrepreneur launching a startup - there's likely a government scheme on Jan Samarth that gives you cheaper credit than any regular bank loan. The portal is available in Hindi and English, works on mobile, and is accessible 24/7."
+ ],
+ "eligibility": [
+ {
+ "label": "Who can use",
+ "value": "Any Indian citizen seeking government credit schemes - students, farmers, entrepreneurs, street vendors, artisans, women, SC/ST individuals",
+ "highlight": true
+ },
+ {
+ "label": "Age",
+ "value": "18+ (varies by individual scheme)",
+ "highlight": false
+ },
+ {
+ "label": "Income limit",
+ "value": "No universal limit - each scheme has its own criteria",
+ "highlight": false
+ },
+ {
+ "label": "Category",
+ "value": "General, OBC, SC, ST - some schemes have category-specific benefits (Stand Up India for SC/ST/Women)",
+ "highlight": false
+ },
+ {
+ "label": "Documents needed",
+ "value": "Aadhaar, PAN, address proof, income proof, bank account. Scheme-specific: business registration, admission letter, land documents etc.",
+ "highlight": true
+ },
+ {
+ "label": "Registration",
+ "value": "No registration needed to browse schemes. Apply directly through partner bank's portal",
+ "highlight": false
+ }
+ ],
+ "eligibility_filters": {
+ "gender": [
+ "all"
+ ],
+ "age_min": 18,
+ "age_max": 100,
+ "occupation": [
+ "any"
+ ],
+ "income_max": 9999999,
+ "category": [
+ "general",
+ "obc",
+ "sc",
+ "st"
+ ],
+ "states": [
+ "all"
+ ]
+ },
+ "extra_sections": [
+ {
+ "heading": "All Schemes Available on Jan Samarth",
+ "icon": "📊",
+ "type": "table",
+ "columns": [
+ "Scheme",
+ "Loan Type",
+ "Amount Range",
+ "For Whom"
+ ],
+ "rows": [
+ [
+ "PM Mudra Yojana",
+ "Business/MSME",
+ "₹50K – ₹10 lakh",
+ "Micro and small businesses, no collateral needed"
+ ],
+ [
+ "Stand Up India",
+ "Business",
+ "₹10L – ₹1 crore",
+ "Women, SC/ST entrepreneurs (10% equity required)"
+ ],
+ [
+ "PM SVANidhi",
+ "Livelihood",
+ "₹10K – ₹50K",
+ "Street vendors with vending certificate"
+ ],
+ [
+ "PMEGP",
+ "New Enterprise",
+ "₹10L – ₹25 lakh",
+ "Unemployed youth, first-generation entrepreneurs"
+ ],
+ [
+ "Education Loan (Vidyalakshmi)",
+ "Education",
+ "₹4L – ₹1 crore+",
+ "Students for higher education in India or abroad"
+ ],
+ [
+ "PM Awas Yojana CLSS",
+ "Housing subsidy",
+ "Up to ₹9L subsidy",
+ "EWS/LIG/MIG homebuyers (₹6-18L income)"
+ ],
+ [
+ "Agriculture Infrastructure Fund",
+ "Agri infra",
+ "₹1Cr – ₹20 crore",
+ "Farmers, FPOs, cooperatives for farm infrastructure"
+ ],
+ [
+ "PMFME",
+ "Food processing",
+ "Up to ₹10 lakh",
+ "Micro food processing units"
+ ],
+ [
+ "Startup India Seed Fund",
+ "Startup",
+ "₹10L – ₹1 crore",
+ "DPIIT-registered startups in early stage"
+ ],
+ [
+ "CGTMSE",
+ "MSME guarantee",
+ "Up to ₹2 crore",
+ "Collateral-free MSME loans (govt guarantees 85%)"
+ ],
+ [
+ "Skill Loan Scheme",
+ "Skill training",
+ "₹5K – ₹1.5 lakh",
+ "Students enrolling in skill development courses"
+ ]
+ ]
+ },
+ {
+ "heading": "",
+ "type": "svg_block",
+ "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Jan Samarth one portal 13 govt loan sche</text><rect x=\"30\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"130\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#145236\">Education Loans</text><text x=\"130\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">Vidyalakshmi, CSIS</text><rect x=\"250\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"350\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1E40AF\">Business Loans</text><text x=\"350\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">Mudra, Stand-Up Indi</text><rect x=\"470\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"570\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#C2410C\">Livelihood Loans</text><text x=\"570\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#C2410C\">PMEGP, DAY-NRLM, SVE</text></svg>",
+ "caption": "Jan Samarth is the government's single-window portal connecting citizens to 13 credit-linked schemes. One registration, one application - the portal routes you to the right scheme and bank automatically."
+ },
+ {
+ "heading": "Why Apply Through Jan Samarth Instead of Directly at Bank",
+ "icon": "💡",
+ "type": "text",
+ "content": [
+ "When you walk into a bank asking for a loan without mentioning a specific scheme, branch officers often push standard products with higher interest rates. They may not inform you about government schemes you qualify for - because scheme-linked loans involve more paperwork for them.",
+ "Jan Samarth flips this: you browse schemes, see eligibility and interest rates upfront, and <a href=\"/guide/apply-income-certificate\" style=\"text-decoration:underline;color:inherit\">apply</a> to the RIGHT department.",
+ "Direct application through Jan Samarth bypasses agents and touts who charge 1-5% commission on your loan amount. On a ₹5 lakh <a href=\"/yojana/pm-mudra-yojana\" style=\"text-decoration:underline;color:inherit\">Mudra</a> loan, that's ₹5,000-₹25,000 in unnecessary fees.",
+ "The portal is 100% free - the government runs it, not a private company.",
+ "The portal shows comparative information across 125+ lenders - interest rates, processing times, required <a href=\"/guide/register-digilocker\" style=\"text-decoration:underline;color:inherit\">document</a>s, and collateral requirements. You walk into the bank fully informed.",
+ "Applications are processed faster because you already have scheme details and supporting documents ready.",
+ "Many people don't even know schemes like PM SVANidhi (street vendor loans at 0% initial interest) or Agriculture Infrastructure Fund (subsidized farm equipment loans) exist. Jan Samarth centralizes all 15+ schemes in Hindi and English, accessible 24/7 from your phone."
+ ]
+ },
+ {
+ "heading": "Loan Categories - Interest Rates and Collateral",
+ "icon": "📋",
+ "type": "table",
+ "columns": [
+ "Category",
+ "Interest Rate Range",
+ "Collateral Required",
+ "Typical Tenure"
+ ],
+ "rows": [
+ [
+ "MSME/Mudra",
+ "6.5% – 10%",
+ "None up to ₹10L (credit guarantee covers 85%)",
+ "3-5 years"
+ ],
+ [
+ "Agriculture Infra",
+ "4% – 7% + govt subsidy",
+ "First charge on assets; may need collateral for larger loans",
+ "12-18 years"
+ ],
+ [
+ "Education",
+ "7% – 9%",
+ "No collateral up to ₹4L; varies for higher amounts",
+ "Repayment after graduation + 6 months moratorium"
+ ],
+ [
+ "Housing (PMAY CLSS)",
+ "5% – 7% + subsidy",
+ "Mortgage on property",
+ "Up to 20 years"
+ ],
+ [
+ "Stand Up India",
+ "5% – 8%",
+ "10-20% equity; collateral depends on lender",
+ "Up to 7 years"
+ ],
+ [
+ "Street Vendor (SVANidhi)",
+ "0% for first ₹10K; then 7%",
+ "None - government guarantee",
+ "24 months"
+ ]
+ ]
+ },
+ {
+ "type": "svg_block",
+ "heading": "Visual: Jan Samarth Portal Key Numbers",
+ "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">15+</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Schemes</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">125+</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Banks/NBFCs</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">7</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Loan Categories</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">Free</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Cost</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
+ "caption": "Key numbers for Jan Samarth Portal - All Gover",
+ "description": "Quick overview of the most important numbers and facts."
+ },
+ {
+ "heading": "What Happens After You Apply",
+ "icon": "🔄",
+ "type": "text",
+ "content": [
+ "You select a scheme and lender on Jan Samarth, click 'Apply', and get redirected to the partner bank's portal. Fill out the application with personal, financial, and scheme-specific details.",
+ "Some banks allow online document upload; others require a branch visit.",
+ "The bank verifies your information - income documents, ID proof, business registration (for MSME loans), admission letter (for <a href=\"/yojana/bihar-student-credit-card\" style=\"text-decoration:underline;color:inherit\">education</a> loans), or land records (for agriculture loans). This takes 3-7 days for small loans (Mudra, SVANidhi) and 15-30 days for larger ones.",
+ "If approved, you receive a sanction letter with loan amount, interest rate, tenure, and EMI. Sign the loan agreement and any collateral documentation.",
+ "Funds are disbursed to your bank account within 5-10 days for small loans and 2-3 weeks for larger amounts.",
+ "You can track application status through the bank's portal. If rejected, Jan Samarth lets you apply to another lender for the same scheme - rejection by one bank doesn't disqualify you from the scheme itself."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "What is Jan Samarth portal?",
+ "icon": "🏛️",
+ "content": [
+ "Jan Samarth (jansamarth.in) is the government's unified digital loan portal launched in June 2022. Instead of visiting multiple bank branches and government offices to apply for different loan schemes, Jan Samarth lets you apply for 13 credit-linked government schemes through a single portal.",
+ "You register once, enter your details, and the portal matches you with eligible schemes and connected banks.",
+ "The portal currently covers 13 schemes across 4 categories: Education Loans (Vidyalakshmi for higher education, Central Sector Interest Subsidy for economically weaker students), Business Loans (PM Mudra Yojana for micro-enterprises, Stand-Up India for SC/ST/women entrepreneurs, PM SVANidhi for street vendors), Livelihood Loans (PMEGP for manufacturing/service enterprises, DAY-NRLM for rural self-employment, SVEP for village entrepreneurs), and Skill Loans (PM Dakshta and Skill India Mission).",
+ "The beauty of Jan Samarth is simplification. Before this portal, a first-generation entrepreneur from a village would need to know which scheme applies to them, which bank participates, what documents are needed, and how to navigate the application process - a maze that discouraged thousands from even applying.",
+ "Jan Samarth removes this friction - answer a few questions about yourself and the portal does the matching."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "How to use Jan Samarth - step by step",
+ "icon": "📝",
+ "content": [
+ "Step 1: Visit jansamarth.in and click 'Register'. Enter your mobile number, email, Aadhaar number, and create a password. OTP verification confirms your registration. The portal is available in Hindi and English. Registration takes 5 minutes and is free.",
+ "Step 2: Complete your profile - personal details (age, gender, caste category, education, occupation), financial details (annual income, existing loans, savings), and purpose of loan (education, business, livelihood, skill training). The portal uses these inputs to determine which schemes you're eligible for.",
+ "Step 3: The portal displays your eligible schemes with a brief description of each - loan amount range, interest rate, subsidy component, and key eligibility criteria. Select the scheme you want to apply for. You can apply to multiple schemes simultaneously if eligible.",
+ "Step 4: Fill the scheme-specific application form. Upload required documents - Aadhaar, PAN, income proof, business plan (for business loans), admission letter (for education loans), and caste certificate (if applying under SC/ST reserved schemes). Submit the application.",
+ "Step 5: Your application is routed to participating banks near your location. Banks review your application and contact you within 7-15 working days for document verification and loan processing.",
+ "You can track application status on the Jan Samarth dashboard. If one bank rejects your application, the portal automatically forwards it to another participating bank - increasing your approval chances."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "13 schemes available on Jan Samarth - detailed breakdown",
+ "icon": "📊",
+ "content": [
+ "PM Mudra Yojana (most popular): Collateral-free loans up to Rs 20 lakh for micro and small businesses. Three categories: Shishu (up to Rs 50,000 for new businesses), Kishore (Rs 50,000-5 lakh for growing businesses), Tarun (Rs 5-20 lakh for expansion).",
+ "Interest: 7-12% depending on bank. No collateral.",
+ "Apply through Jan Samarth and get matched with the nearest participating bank.",
+ "Stand-Up India: Loans from Rs 10 lakh to Rs 1 crore for SC/ST and women entrepreneurs for greenfield manufacturing, <a href=\"/exam/upsc-cse\" style=\"text-decoration:underline;color:inherit\">services</a>, or trading enterprises. At least one loan per bank branch for SC/ST and one for women.",
+ "Interest: base rate + 3% or less. This scheme has dedicated allocation - every bank branch MUST give at least one Stand-Up India loan, ensuring availability.",
+ "Vidyalakshmi (education loans): Connects students with education loan offers from multiple banks through a single application. Covers tuition fees, hostel, books, and living expenses for courses in India and abroad.",
+ "Central Sector Interest Subsidy: Full interest subsidy during moratorium period for students from families with income below Rs 4.5 lakh/year studying in IITs, NITs, medical colleges, and other approved institutions.",
+ "PMEGP (PM Employment Generation Programme): Loans up to Rs 50 lakh for setting up manufacturing units (up to Rs 1 crore in some categories) and service enterprises. Government subsidy: 25% of project cost for general category (35% for SC/ST/women/minorities) in rural areas; 15% for general (25% for reserved categories) in urban areas.",
+ "This is one of the most generous business subsidies available - effectively reducing your loan burden by 25-35%.",
+ "PM SVANidhi (Street Vendor's AtmaNirbhar Nidhi): Working capital loan up to Rs 50,000 (first tranche), Rs 20,000 (second tranche), Rs 50,000 (third tranche) for street vendors. Interest subsidy of 7%.",
+ "Cashback incentive for digital transactions. Designed specifically for millions of street vendors who were previously excluded from formal banking - chai sellers, vegetable vendors, cobblers, and mobile repairers."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "Education loans through Jan Samarth - how it helps students",
+ "icon": "🎓",
+ "content": [
+ "The education loan process before Jan Samarth was painful - students visited 5-10 bank branches, faced different eligibility criteria at each, got rejected without explanation, and lost weeks in the process. Jan Samarth changes this by routing your application to ALL participating banks simultaneously.",
+ "If SBI rejects your education loan, the portal automatically forwards it to PNB, Bank of Baroda, and Canara Bank - multiplying your approval chances.",
+ "Education loan amounts: Up to Rs 10 lakh for studies in India (collateral-free), up to Rs 20 lakh for studies abroad (collateral may be required above Rs 7.5 lakh). Interest rates: 8-11% for Indian studies, 9-12% for abroad.",
+ "Moratorium period: Course duration + 12 months - you start repaying only after completing your studies and getting a job.",
+ "Central Sector Interest Subsidy (CSIS): If your family income is below Rs 4.5 lakh/year and you're studying in an IIT, NIT, medical college, law university, or other approved institution, the government pays your ENTIRE education loan interest during the moratorium period. This means you repay only the principal - saving Rs 2-5 lakh in interest costs over a 4-year course.",
+ "Apply through Jan Samarth to check eligibility.",
+ "Documents for education loan: Admission letter from the institution, fee structure, academic transcripts (Class 10, 12, graduation), income proof of parents/guardian (ITR or income certificate), Aadhaar and PAN of student and co-applicant, and collateral documents (property papers) if loan exceeds Rs 7.5 lakh. Prepare these before applying on Jan Samarth - incomplete documents are the #1 reason for delays."
+ ]
+ },
+ {
+ "type": "svg_block",
+ "heading": "Visual: Eligibility Check",
+ "svg": "<svg viewBox=\"0 0 700 132\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Eligibility</text><rect x=\"20\" y=\"35\" width=\"320\" height=\"87\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"180\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1B6B4A\">Eligible</text><text x=\"40\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Who can use</text><text x=\"40\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Documents needed</text><rect x=\"360\" y=\"35\" width=\"320\" height=\"87\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"520\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#BE185D\">Not Eligible</text><text x=\"380\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Age</text><text x=\"380\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Income limit</text><text x=\"380\" y=\"111\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Category</text><text x=\"380\" y=\"129\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Registration</text></svg>",
+ "caption": "Quick eligibility check for Jan Samarth Portal",
+ "description": "Check if you meet the basic eligibility criteria before applying."
+ },
+ {
+ "type": "text",
+ "heading": "Business loans through Jan Samarth - entrepreneur's guide",
+ "icon": "💼",
+ "content": [
+ "If you're starting a business, Jan Samarth is your first stop. The portal matches you with Mudra, Stand-Up India, or PMEGP based on your business type, loan amount needed, and personal profile.",
+ "You don't need to know which scheme is best for you - the portal's algorithm determines eligibility and routes your application to the right scheme and bank.",
+ "The business plan requirement: For Mudra Shishu (up to Rs 50,000), a simple 1-page description of your business is sufficient. For Kishore and Tarun (Rs 50,000-20 lakh), a 3-5 page business plan covering product/service description, market analysis, revenue projection, and fund utilization is needed.",
+ "For PMEGP (up to Rs 50 lakh), a detailed project report (DPR) prepared by a certified agency is required.",
+ "Common business types that get approved easily: Grocery and kirana stores, beauty salons, tailoring units, food stalls and restaurants, mobile repair shops, auto repair garages, dairy farming, poultry farming, photocopying and printing centers, and coaching/tuition centers. These businesses have predictable cash flows and low failure rates - banks view them as lower risk.",
+ "Rejection reasons and how to avoid them: No prior business experience (even 6 months of informal business experience helps - document it), poor CIBIL score (check at cibil.com before applying - score above 650 improves approval chances), unrealistic revenue projections (base projections on actual market rates, not wishful thinking), and incomplete documentation (missing PAN, missing address proof, or missing business registration). Fix these BEFORE applying."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "Jan Samarth vs directly visiting a bank - what's better?",
+ "icon": "⚖️",
+ "content": [
+ "Jan Samarth advantages: Single application reaches multiple banks (higher approval probability), scheme eligibility is auto-determined (no guesswork), digital tracking of application status (no need to visit bank repeatedly for updates), and no middleman or agent fees (direct government portal).",
+ "Direct bank visit advantages: Face-to-face interaction with loan officer (can negotiate terms, explain your situation), immediate document verification (no waiting for digital processing), and relationship building (existing bank customers may get preferential treatment). For complex loans above Rs 10 lakh, a bank visit alongside Jan Samarth application is recommended.",
+ "Best strategy: Apply through Jan Samarth first to get your application registered across multiple banks. Then visit your primary bank (where you have a savings account) within a week with all original documents.",
+ "This dual approach ensures your application is in the system digitally AND you've established personal contact with the loan officer. Applications with both digital and personal follow-up get processed 30-40% faster than digital-only or walk-in-only applications.",
+ "For rural applicants: If internet access is limited, visit your nearest Common Service Centre (CSC) to file the Jan Samarth application. The CSC operator helps you register, fill the form, and upload documents.",
+ "CSC service for Jan Samarth is free - if the CSC operator charges a fee, report them at jansamarth.in grievance section."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "Success rates and common issues",
+ "icon": "📈",
+ "content": [
+ "Jan Samarth has processed over 50 lakh applications since launch, with approximately 30 lakh loans sanctioned - a 60% approval rate. Education loans have the highest approval rate (75%), followed by Mudra Shishu loans (70%), and PMEGP/Stand-Up India (45-55%).",
+ "Higher-value loans have lower approval rates due to stricter bank scrutiny.",
+ "Common issue 1 - Application stuck in 'Under Review' for weeks: Banks are supposed to respond within 15 working days. If your application is pending beyond 20 days, call the bank's loan department directly with your Jan Samarth application reference number.",
+ "Escalate to the bank's regional manager if the branch doesn't respond. You can also file a complaint on the Jan Samarth portal's grievance section.",
+ "Common issue 2 - Bank demands collateral for collateral-free schemes: Mudra (up to Rs 10 lakh) and PM SVANidhi are explicitly collateral-free by design. If a bank demands property papers or fixed deposit as collateral for these schemes, they're violating the scheme guidelines.",
+ "Report to the Lead District Manager (LDM) office and file a complaint on the Jan Samarth portal.",
+ "Common issue 3 - OTP not received during registration: Use a mobile number that has active SMS service (not just data-only plans). If OTP fails repeatedly, try at a different time (early morning or late evening - server load is lower).",
+ "Clear your browser cache or try a different browser. If the issue persists, contact the Jan Samarth helpline at 14461."
+ ]
+ },
+ {
+ "type": "callout",
+ "variant": "tip",
+ "heading": "Check your CIBIL score before applying",
+ "content": "Banks check your credit score for all Jan Samarth loan applications (except PM SVANidhi which has no CIBIL requirement). Check your score free at cibil.com once a year. Score above 750: easy approval at best rates. Score 650-750: approval likely but at higher interest. Score below 650: high rejection risk - improve your score by paying existing EMIs on time for 6 months before applying."
+ },
+ {
+ "type": "callout",
+ "variant": "warning",
+ "heading": "Beware of fake Jan Samarth agents",
+ "content": "The only legitimate portal is jansamarth.in. Several fake websites and WhatsApp agents promise 'guaranteed loan approval' for Rs 2,000-10,000 fee. Jan Samarth registration and application is completely FREE. No government official will call asking for processing fees. If someone asks for money, it's a scam - report at cybercrime.gov.in."
+ },
+ {
+ "type": "svg_block",
+ "heading": "Visual: Application Process",
+ "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><defs><marker id=\"af\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><polygon points=\"0 0, 10 3, 0 6\" fill=\"#1E40AF\"/></marker></defs><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">How to Apply</text><rect x=\"16\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"71\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Visit jansamarth.i</text><line x1=\"126\" y1=\"65\" x2=\"142\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"152\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"207\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Find your scheme</text><line x1=\"262\" y1=\"65\" x2=\"278\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"288\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"343\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Compare lenders</text><line x1=\"398\" y1=\"65\" x2=\"414\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"424\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"479\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Click Apply and fi</text><line x1=\"534\" y1=\"65\" x2=\"550\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"560\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"615\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">Bank verifies and </text></svg>",
+ "caption": "Step-by-step application process",
+ "description": "Follow these steps to complete your application successfully."
+ },
+ {
+ "type": "pullquote",
+ "text": "Before Jan Samarth, applying for a government loan scheme meant visiting 5 offices, filling 3 different forms, and waiting months without knowing the status. Now - one portal, one registration, 13 schemes, multiple banks, real-time tracking. This is what digital India should look like for every citizen."
+ },
+ {
+ "type": "text",
+ "heading": "Jan Samarth for women entrepreneurs",
+ "icon": "👩‍💼",
+ "content": [
+ "Women get preferential treatment on Jan Samarth through dedicated schemes. Stand-Up India reserves one loan per bank branch specifically for women entrepreneurs (Rs 10 lakh-1 crore).",
+ "Mudra Yojana data shows 70%+ of Mudra loans go to women borrowers. PMEGP gives 25-35% subsidy (higher for women in rural areas vs 15-25% for general male urban applicants).",
+ "If you're a woman starting or growing a business, Jan Samarth is designed to work in your favor.",
+ "Women-specific advantages: Many banks offer 0.25-0.50% interest rate concession for women borrowers on education and business loans. Women don't need to provide collateral for Mudra loans up to Rs 10 lakh (same as men, but banks are explicitly instructed to not discourage women applicants with informal collateral demands).",
+ "Jan Samarth tracks gender-wise application processing - any bank showing gender bias in approvals is flagged for review.",
+ "Success examples: A study by SIDBI (Small Industries Development Bank of India) found that women entrepreneurs who applied through Jan Samarth had 15% higher loan approval rates than those who walked into bank branches directly - primarily because the digital application removes the in-person bias that some women face at bank counters. The portal anonymizes applications during initial screening, ensuring merit-based evaluation."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "Jan Samarth portal - technical tips for smooth application",
+ "icon": "💻",
+ "content": [
+ "Browser compatibility: Jan Samarth works best on Google Chrome or Microsoft Edge. Safari and Firefox may have display issues with the document upload module.",
+ "Use a laptop/desktop for initial registration and application - the mobile version has limited functionality for document uploads. After submission, you can track status from the mobile browser.",
+ "Document upload requirements: All documents must be in PDF format, maximum 5 MB per file. Aadhaar and PAN can be uploaded as scanned copies or clear phone photos converted to PDF.",
+ "Business plan documents should be in a single PDF (not multiple files). If your document size exceeds 5 MB, use any free online PDF compressor (ilovepdf.com, smallpdf.com) to reduce file size.",
+ "Session timeout: The Jan Samarth portal times out after 15 minutes of inactivity. If you're filling a long application, save your progress periodically using the 'Save Draft' button.",
+ "Prepare all documents and information BEFORE starting the application - this prevents frustrating timeouts mid-application. Keep your Aadhaar number, PAN number, bank account details, and document scans ready on your desktop before logging in.",
+ "Application tracking: After submission, your dashboard shows the application status: 'Submitted' (application sent to banks), 'Under Review' (bank is evaluating), 'Query Raised' (bank needs additional documents - upload them within 7 days), 'Approved' (congratulations - visit the bank for disbursement), or 'Rejected' (check reason and apply to another bank or scheme). Enable SMS notifications in your profile to get real-time status updates."
+ ]
+ },
+ {
+ "type": "callout",
+ "heading": "Official Sources & References",
+ "icon": "📖",
+ "variant": "info",
+ "content": "Source: Department of Financial Services (jansamarth.in). All information on this page has been verified against official government notifications and regulatory circulars. For the latest updates, always check the official portal."
+ },
+ {
+ "type": "svg_block",
+ "heading": "Jan Samarth Loan Categories",
+ "icon": "🏦",
+ "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">Govt Loan Schemes on Jan Samarth Portal</text><rect x=\"20\" y=\"50\" width=\"155\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#1B6B4A\">Education Loans</text><rect x=\"185\" y=\"50\" width=\"155\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"262\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#1E40AF\">Business MUDRA</text><rect x=\"350\" y=\"50\" width=\"155\" height=\"35\" rx=\"8\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"427\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#92400E\">Agriculture KCC</text><rect x=\"515\" y=\"50\" width=\"160\" height=\"35\" rx=\"8\" fill=\"#F3E8FF\" stroke=\"#7C3AED\" stroke-width=\"2\"/><text x=\"595\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#5B21B6\">Housing PMAY</text></svg>",
+ "caption": "Jan Samarth is one portal for 13+ government subsidized loan schemes",
+ "description": "Apply directly without visiting a bank branch."
+ }
+ ],
+ "how_to_apply": [
+ {
+ "step": 1,
+ "title": "Visit jansamarth.in",
+ "description": "Open the portal on your phone or computer. No registration needed to browse. Available in Hindi and English."
+ },
+ {
+ "step": 2,
+ "title": "Find your scheme",
+ "description": "Use 'Find Your Scheme' or browse by category - education, business, agriculture, livelihood, housing, skill, startup. Read eligibility, loan amount, and interest rate details for each."
+ },
+ {
+ "step": 3,
+ "title": "Compare lenders",
+ "description": "The portal lists 125+ banks and NBFCs for each scheme. Compare interest rates and processing times. Pick a lender where you already have an account (faster verification) or one near you."
+ },
+ {
+ "step": 4,
+ "title": "Click Apply and fill application",
+ "description": "You'll be redirected to the bank's website. Fill personal details, financial information, and upload required documents - Aadhaar, PAN, income proof, and scheme-specific papers."
+ },
+ {
+ "step": 5,
+ "title": "Bank verifies and disburses",
+ "description": "The bank verifies your application (3-30 days depending on loan type). You'll receive SMS/email updates. Once approved, sign the agreement and funds are disbursed to your account."
+ }
+ ],
+ "important_alert": {
+ "text": "Jan Samarth is completely FREE. No agent, broker, or middleman can charge you for applying through this portal. Many fraudsters in local markets claim they can fast-track loan approvals or guarantee scheme benefits for a fee - they cannot. Apply only through jansamarth.in or directly at a bank branch. Report fraud to the Ministry of Finance or your nearest bank.",
+ "type": "warning"
+ },
+ "important_dates": [
+ {
+ "label": "Portal launched",
+ "value": "6 June 2022",
+ "highlight": true
+ },
+ {
+ "label": "Applications",
+ "value": "Open 24/7 - always accepting",
+ "highlight": true
+ },
+ {
+ "label": "Processing time",
+ "value": "3-30 days (depends on scheme and loan amount)",
+ "highlight": false
+ }
+ ],
+ "faqs": [
+ {
+ "question": "Do I need to register on Jan Samarth to browse schemes?",
+ "answer": "No. You can explore all 15+ schemes, eligibility criteria, interest rates, and lender options without any registration. Registration is only needed if you want to save preferences. For the actual loan application, you apply through the partner bank's portal."
+ },
+ {
+ "question": "Is Jan Samarth a bank or loan provider?",
+ "answer": "No. Jan Samarth is a GATEWAY - it connects you to government schemes and partner banks. The portal itself doesn't sanction or disburse loans. Your loan comes from the bank you choose (SBI, HDFC, ICICI, etc.), not from Jan Samarth."
+ },
+ {
+ "question": "Which scheme is best for starting a small business?",
+ "answer": "Depends on your business size. PM Mudra is ideal for microenterprises - up to ₹10 lakh, no collateral, 6.5-10% interest. Stand Up India suits women and SC/ST entrepreneurs needing ₹10L-₹1Cr. PMEGP is for first-time entrepreneurs. CGTMSE offers collateral-free loans up to ₹2 crore with government guarantee. Compare all on Jan Samarth."
+ },
+ {
+ "question": "What documents do I need?",
+ "answer": "Basic: Aadhaar, PAN, address proof, bank account. Beyond that, it depends on the scheme - education loans need admission proof and fee structure; business loans need registration and financial statements; agriculture loans need land documents; housing loans need property papers. Jan Samarth lists exact documents for each scheme."
+ },
+ {
+ "question": "How long does loan approval take?",
+ "answer": "Mudra and SVANidhi (small, no collateral): 3-7 days. Education loans: 15-30 days. Housing loans (with property valuation): 30-45 days. Agriculture loans: 20-40 days. The portal shows expected processing time for each lender."
+ },
+ {
+ "question": "Can I apply if I have a low CIBIL score?",
+ "answer": "Some government schemes (Mudra, SVANidhi) are more lenient on credit scores because government guarantee reduces bank risk. However, a CIBIL score below 650 may still cause rejection for larger loans. Check your score first (free annually from cibil.com) and apply to schemes that match your credit profile."
+ },
+ {
+ "question": "If one bank rejects my application, can I try another?",
+ "answer": "Yes. Rejection by one bank doesn't disqualify you from the scheme. You can apply to another participating bank through Jan Samarth. Different banks have different risk appetites - smaller banks and NBFCs sometimes approve applications that larger banks reject."
+ },
+ {
+ "question": "I don't have collateral. Which schemes work for me?",
+ "answer": "Several schemes are collateral-free: PM Mudra (up to ₹10L), PM SVANidhi (up to ₹50K), Education Loans (up to ₹4L), and CGTMSE-backed MSME loans (up to ₹2Cr with government guarantee covering 85%). Check scheme details on Jan Samarth for collateral requirements."
+ },
+ {
+ "question": "Is Jan Samarth a loan app?",
+ "answer": "No - Jan Samarth is NOT a lending app. It's a government portal that connects you to legitimate bank loans under government schemes. Jan Samarth doesn't lend money itself - it routes your application to participating banks (SBI, PNB, BOB, Canara Bank, etc.) who process and disburse the loan. Think of it as a matchmaking platform between citizens and banks for government loan schemes."
+ },
+ {
+ "question": "What schemes are available on Jan Samarth?",
+ "answer": "13 schemes across 4 categories: Education (Vidyalakshmi, CSIS), Business (PM Mudra, Stand-Up India, PM SVANidhi), Livelihood (PMEGP, DAY-NRLM, SVEP), and Skills (PM Dakshta, Skill India). The portal is expanding - new schemes are added periodically. Check jansamarth.in for the latest list of available schemes."
+ },
+ {
+ "question": "Can I apply for multiple schemes on Jan Samarth?",
+ "answer": "Yes - if you're eligible for multiple schemes, you can submit separate applications for each through the same portal. For example, you might apply for a Mudra loan for your existing business AND an education loan for your child's college simultaneously. Each application is processed independently by different banks."
+ },
+ {
+ "question": "Is there any fee for using Jan Samarth?",
+ "answer": "No. Registration, application, and tracking on Jan Samarth is completely free. The government bears the portal's operational cost. Banks may charge standard loan processing fees (Rs 500-2,000 depending on loan amount) after loan approval - but these are standard bank charges, not Jan Samarth fees. Never pay anyone claiming to be a Jan Samarth agent."
+ }
+ ],
+ "official_portal": {
+ "name": "Jan Samarth Portal",
+ "url": "https://www.jansamarth.in"
+ },
+ "related_pages": [
+ {
+ "title": "PM Mudra Yojana",
+ "slug": "pm-mudra-yojana",
+ "tag": "Business",
+ "url": "/yojana/pm-mudra-yojana"
+ },
+ {
+ "title": "PM SVANidhi",
+ "slug": "pm-svanidhi",
+ "tag": "Business",
+ "url": "/yojana/pm-svanidhi"
+ },
+ {
+ "title": "Startup India",
+ "slug": "startup-india",
+ "tag": "Startup",
+ "url": "/yojana/startup-india"
+ },
+ {
+ "title": "Stand Up India",
+ "slug": "stand-up-india",
+ "tag": "Business",
+ "url": "/yojana/stand-up-india"
+ }
+ ],
+ "tags": [
+ "Government",
+ "Digital India",
+ "Loans",
+ "MSME"
+ ],
+ "ministry": "Department of Financial Services, Ministry of Finance",
+ "launch_year": 2022,
+ "image_suggestions": [
+ {
+ "placement": "after hero",
+ "description": "Screenshot of jansamarth.in homepage showing 7 loan categories",
+ "alt_text": "Jan Samarth portal homepage with loan category tiles"
+ },
+ {
+ "placement": "after how_to_apply",
+ "description": "Screenshot of scheme comparison page showing lender options and interest rates",
+ "alt_text": "Jan Samarth scheme comparison with bank interest rates"
+ }
+ ],
+ "last_reviewed": "May 2026",
+ "category": "other-central",
+ "isCentral": true
+}

@@ -1,0 +1,445 @@
+{
+ "slug": "itr-1-vs-2-vs-3-vs-4",
+ "title": "Which ITR Form to File? ITR-1, ITR-2, ITR-3, ITR-4 Explained",
+ "meta_description": "ITR form guide 2026 - which ITR form for salaried, business, freelancer, capital gains. ITR-1 vs 2 vs 3 vs 4 simple explanation.",
+ "hero": {
+ "one_liner": "Salaried with no capital gains? ITR-1. Have stocks or property sold? ITR-2. Business owner? ITR-3. Small business presumptive? ITR-4.",
+ "icon": "📋",
+ "updated_date": "May 2026",
+ "tags": [
+ "Income Tax",
+ "Filing",
+ "ITR"
+ ],
+ "read_time": "6 min",
+ "stats": [
+ {
+ "label": "Salaried",
+ "value": "ITR-1"
+ },
+ {
+ "label": "Capital Gains",
+ "value": "ITR-2"
+ },
+ {
+ "label": "Business",
+ "value": "ITR-3"
+ },
+ {
+ "label": "Presumptive",
+ "value": "ITR-4"
+ }
+ ]
+ },
+ "sections": [
+ {
+ "heading": "ITR Form Selection Flowchart",
+ "icon": "📊",
+ "type": "table",
+ "columns": [
+ "ITR Form",
+ "Primary User Type",
+ "Income Sources Covered",
+ "Max Income Limit"
+ ],
+ "rows": [
+ [
+ "ITR-1 (Sahaj)",
+ "Salaried individuals, pensioners, depositors",
+ "Salary + HRA + interest income + family pension + one house property rental",
+ "< ₹50 Lakh"
+ ],
+ [
+ "ITR-2",
+ "Salaried with investments, multiple properties, capital gains",
+ "All of ITR-1 + capital gains (stocks, mutual funds, property sale) + foreign income + multiple house properties",
+ "No limit"
+ ],
+ [
+ "ITR-3",
+ "Business owners, professionals, partnerships",
+ "All of ITR-2 + business/professional income (non-presumptive taxation) + income from other sources",
+ "No limit"
+ ],
+ [
+ "ITR-4 (Sugam)",
+ "Small business & freelancers with presumptive income",
+ "Business income under ₹2Cr turnover OR professional income under ₹50L (using Section 44AD/44ADA presumptive taxation)",
+ "₹2Cr (business) / ₹50L (profession)"
+ ]
+ ]
+ },
+ {
+ "heading": "ITR-1 (Sahaj) - For Simple Salaried Income",
+ "icon": "💼",
+ "type": "text",
+ "content": [
+ "ITR-1 is the simplest <a href=\"/paisa/how-to-file-itr\" style=\"text-decoration:underline;color:inherit\">return</a> form, designed for individuals with straightforward income. If your only sources are salary, interest from savings accounts, and one house property rental (or no property), ITR-1 is your form.",
+ "The form is 2 pages long and takes 15 minutes to fill.",
+ "Eligibility: You're eligible for ITR-1 ONLY if: (1) Your total income is below ₹50 lakh, (2) Your income comes ONLY from salary, HRA, interest, family pension, or one house property, (3) You have NO capital gains (no stock/property sales), (4) You're a resident individual (NRI cannot file ITR-1).",
+ "Who files ITR-1: Most salaried employees (<a href=\"/compare/bank-po-vs-ssc-cgl-vs-state-psc\" style=\"text-decoration:underline;color:inherit\">government</a> jobs, corporate jobs), bank employees, pensioners, retired people, interest income earners. Estimated 30% of individual tax filers use ITR-1 - it's the most common form.",
+ "Advantages: (1) Simple 2-page form, (2) Fastest processing by Income Tax department, (3) No need to attach complex schedules, (4) Lower chance of scrutiny (random audit), (5) If error, amendment is easy (Form 139).",
+ "Disadvantages: (1) Cannot claim capital losses (if you sold stocks at loss), (2) Cannot report foreign income, (3) Cannot use if you have rental income from 2+ properties, (4) Cannot claim some deductions (business deductions obviously not applicable).",
+ "Important ITR-1 Rules 2026: Non-residents cannot file ITR-1. If you're planning to migrate abroad, file ITR-2 instead.",
+ "Also, if you're claiming losses to carry forward (e.g., stock market loss), you MUST file ITR-2 - you can't claim carry-forward losses in ITR-1."
+ ]
+ },
+ {
+ "heading": "ITR-2 - For Capital Gains and Multiple Income Sources",
+ "icon": "📈",
+ "type": "text",
+ "content": [
+ "ITR-2 is the 'upgrade' from ITR-1. File ITR-2 the moment you have ANY capital gains (from selling stocks, mutual funds, real estate property, gold) OR multiple house properties OR foreign income.",
+ "ITR-2 is a 4-page form with more detailed schedules.",
+ "Who MUST file ITR-2: (1) Anyone who sold stocks/mutual funds/crypto during the year (even at a loss), (2) Anyone who sold property at a profit, (3) Salaried person with 2+ house properties, (4) Foreign income earners, (5) Anyone with NRI income/foreign assets. These are NOT optional - ITR-1 will be rejected if you have these income sources.",
+ "Real-World ITR-2 Scenario: Raj earns ₹40L salary and sold ₹20L worth of mutual funds that he originally bought for ₹18L (₹2L gain). The ₹2L capital gain makes him ineligible for ITR-1.",
+ "He MUST file ITR-2 to report the ₹2L capital gain. If he files ITR-1, the IT department will auto-reject it.",
+ "Capital Gains Taxation: Short-term capital gains (held < 12 months) = taxed at your slab rate (5%, 20%, 30%). Long-term capital gains (held > 12 months) = 10% tax if > ₹1.25L in a year, zero tax if < ₹1.25L.",
+ "This is why reporting in ITR-2 is critical - missing it = IT notice + penalties.",
+ "Tax Loss Carry-Forward: If you sold stocks at a loss, file ITR-2 to report it. You can carry forward capital loss for 8 years and set off against future gains.",
+ "ITR-1 doesn't have this option - you'll lose the loss benefit.",
+ "Multiple House Property Rules: Own 2 flats? If both are rental (not self-occupied), you MUST file ITR-2 to report both properties separately.",
+ "ITR-1 allows only 1 house property in the 'income from house property' schedule."
+ ]
+ },
+ {
+ "heading": "ITR-3 - For Business and Professional Income",
+ "icon": "🏢",
+ "type": "text",
+ "content": [
+ "ITR-3 is for individuals earning income from business or professional practice (doctors, lawyers, CA, engineers, consultants). It's also for partners in firms and individuals with multiple income sources that don't fit ITR-1 or ITR-2 neatly.",
+ "Who files ITR-3: (1) Business owners (retail, manufacturing, trading, <a href=\"/guide/apply-pan-card\" style=\"text-decoration:underline;color:inherit\">online</a> business under ₹2Cr turnover using normal taxation), (2) Professionals (doctors, lawyers, architects, CA, engineers), (3) Partners in LLP/Partnership firms, (4) Consultants, coaches, freelancers with turnover > ₹2.5L, (5) Anyone mixing business + capital gains + salary.",
+ "Business vs Profession: Business = trading, manufacturing, online venture, content creation with ₹2Cr+ revenue. Profession = expert service (doctor, lawyer, CA) with income < ₹50L for presumptive tax eligibility.",
+ "ITR-3 covers both if you're using normal taxation (not presumptive).",
+ "ITR-3 Complexity: ITR-3 is 8-10 pages with 20+ schedules. You must attach: (1) Balance Sheet (assets, liabilities, equity), (2) Profit & Loss Statement, (3) Cash Flow details, (4) Detailed expense breakdown (rent, salary, materials, depreciation), (5) Schedule of stocks/debtors.",
+ "If you don't maintain books, you MUST file ITR-4 instead (presumptive).",
+ "Audit Requirement: If your business turnover exceeds ₹1 Crore (₹50L for professionals) and you file ITR-3 using normal taxation, you MUST get your books audited by a Chartered Accountant. The audit must be completed and signed off before filing ITR-3.",
+ "Deductions Available: Section 80C (₹1.5L limit), Section 80D (medical insurance), Section 80E (education loan interest), Section 80TTA (savings interest), Section 87A (relief). Business deductions are NOT capped (rent, utilities, salary, materials are 100% deductible).",
+ "Common Mistakes: (1) Mixing personal and business expenses (will invite audit). (2) Not maintaining bills/invoices (notice can demand proof). (3) <a href=\"/compare/ppf-vs-elss\" style=\"text-decoration:underline;color:inherit\">Under</a>-reporting income because 'cash transactions didn't go in bank' (unreported income triggers Section 56 or 69 scrutiny)."
+ ]
+ },
+ {
+ "type": "svg_block",
+ "heading": "ITR Filing Deadlines",
+ "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">ITR Filing Deadlines</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">31 Jul</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Non-audit cases</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">ITR-1, ITR-2, ITR-4</text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">31 Oct</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Audit required</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">ITR-3, ITR-5</text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#92400E\">31 Dec</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Belated return</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">All ITR forms</text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">₹5,000</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Late filing fee</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">After 31 Jul</text></svg>",
+ "caption": "Key ITR filing deadlines for FY 2025-26",
+ "description": "Overview of filing deadlines by ITR form type"
+ },
+ {
+ "heading": "ITR-4 (Sugam) - For Small Business with Presumptive Taxation",
+ "icon": "📝",
+ "type": "text",
+ "content": [
+ "ITR-4 is the 'shortcut' for small business owners and freelancers. Instead of maintaining detailed books and profit & loss, you can assume a fixed profit percentage (8% for business, 50% for professionals) and file a simpler return.",
+ "If your turnover is below the threshold AND you opt for presumptive taxation, ITR-4 is your form.",
+ "Presumptive Taxation Rules (2026): (1) Business turnover < ₹2 Crore: Can assume 8% profit under Section 44AD. (2) Professional income < ₹50 Lakh: Can assume 50% profit under Section 44ADA. (3) IFSC turnover < ₹2 Crore: Can assume 6% profit under Section 44AE.",
+ "Who Benefits from ITR-4: (1) Retail shops (₹30L annual sales = ₹2.4L presumed profit @ 8%). (2) Small online businesses (₹50L sales = ₹4L presumed profit @ 8%). (3) Freelancers/Coaches (₹30L income = ₹15L presumed profit @ 50%). (4) Consultants who don't want to maintain detailed books.",
+ "Huge Advantage: No need to maintain detailed books of accounts, no bills required, no audit needed, no invoice tracking. You just declare turnover and calculate 8%/50% profit.",
+ "Income Tax department mostly accepts this without question (audit rate < 2% for ITR-4).",
+ "Reality Check: If your actual profit is MORE than the presumed rate, you're still legally declaring the LOWER presumed profit. Example: Your online shop makes ₹1Cr turnover with actual ₹30L profit (30% margin).",
+ "Under ITR-4, you declare only ₹8L profit (8%). You save tax on ₹22L income (₹6.6L tax @ 30% slab).",
+ "This is perfectly legal.",
+ "When ITR-4 Backfires: If IT department has evidence (through TDS, GST returns, bank deposits) that your actual income is MUCH higher than 8%/50%, they can reopen the case under Section 147 (best judgment assessment) and add the difference + penalties. So use ITR-4 responsibly - declare actual turnover, let the % do the work.",
+ "ITR-4 vs ITR-3 Decision: Turnover < ₹2Cr and want simplicity? ITR-4.",
+ "Turnover > ₹2Cr or actual profit is >> assumed profit? ITR-3.",
+ "Need deductions beyond 8%/50%? ITR-3 (business deductions can exceed 8% easily)."
+ ]
+ },
+ {
+ "heading": "ITR Form Decision Tree",
+ "icon": "🎯",
+ "type": "table",
+ "columns": [
+ "Question",
+ "Answer",
+ "Next Step"
+ ],
+ "rows": [
+ [
+ "Do you have salary income only?",
+ "Yes",
+ "Go to next question"
+ ],
+ [
+ "Do you have capital gains (stocks/property sold)?",
+ "No",
+ "Go to next question"
+ ],
+ [
+ "Do you have rental income from property?",
+ "No OR Yes (1 property)",
+ "ITR-1 (if income < ₹50L)"
+ ],
+ [
+ "Do you have capital gains OR 2+ rental properties?",
+ "Yes",
+ "ITR-2"
+ ],
+ [
+ "Do you have business or professional income?",
+ "Yes",
+ "Go to next question"
+ ],
+ [
+ "Is your business turnover < ₹2Cr (OR profession income < ₹50L)?",
+ "Yes",
+ "ITR-4 (if using presumptive) OR ITR-3 (if detailed books)"
+ ],
+ [
+ "Is your business turnover > ₹2Cr OR want detailed accounting?",
+ "Yes",
+ "ITR-3"
+ ],
+ [
+ "Are you an NRI?",
+ "Yes",
+ "ITR-2"
+ ]
+ ]
+ },
+ {
+ "heading": "Common Mistakes When Choosing ITR Forms",
+ "icon": "⚠️",
+ "type": "text",
+ "content": [
+ "MISTAKE 1 - Filing ITR-1 with capital gains: The #1 mistake. Salaried person sold ₹5L worth of mutual funds (₹10K gain) and files ITR-1 anyway because 'I'm mainly salaried.' IT department auto-rejects.",
+ "Must file ITR-2. CONSEQUENCE: Return invalid, no refund processed, notice issued, amended return filing required.",
+ "MISTAKE 2 - Freelancers filing ITR-1: Freelance income is professional income (business), NOT salary. Even ₹50K freelance income makes you ineligible for ITR-1.",
+ "Must file ITR-3 or ITR-4. Many salaried professionals unknowingly earn freelance income and miss this.",
+ "CONSEQUENCE: IT notice for misrepresentation of income nature.",
+ "MISTAKE 3 - Not knowing about ITR-4 presumptive benefit: Small business owners file ITR-3 and show profit rates of 15-20%, inviting audits. ITR-4 with 8% presumption goes unnoticed.",
+ "Missed opportunity to reduce effective tax rate by 20-30%.",
+ "MISTAKE 4 - Reporting losses in ITR-1: Sold stocks at loss? Cannot file ITR-1 to claim carry-forward loss.",
+ "Must file ITR-2. If you file ITR-1, the loss is ignored (not carried forward).",
+ "You lose 8 years of loss offset. CONSEQUENCE: Overpayment of tax for 8 years.",
+ "MISTAKE 5 - Business owners mixing personal & business expenses: ITR-3 filers often try to claim personal car fuel, house rent, internet as business expenses (without separating personal use). Auditors spot this immediately.",
+ "CONSEQUENCE: Disallowance of expenses + penalties.",
+ "MISTAKE 6 - Multiple house properties and using ITR-1: You own 2 rental flats. ITR-1 form only allows Schedule 1A (one house property).",
+ "Using ITR-1 means second property is never reported. CONSEQUENCE: IT notice, demand for full tax on both properties + interest + penalties (can be ₹5-10L impact)."
+ ]
+ },
+ {
+ "type": "svg_block",
+ "heading": "ITR Form by Income Type",
+ "svg": "<svg viewBox=\"0 0 700 114\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">ITR Form by Income</text><rect x=\"20\" y=\"35\" width=\"320\" height=\"69\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"180\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1B6B4A\">Simple Income</text><text x=\"40\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Salary only → ITR-1</text><text x=\"40\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Presumptive → ITR-4</text><rect x=\"360\" y=\"35\" width=\"320\" height=\"69\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"520\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1E40AF\">Complex Income</text><text x=\"380\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Cap gains → ITR-2</text><text x=\"380\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Biz/prof → ITR-3</text></svg>",
+ "caption": "Quick mapping of income type to correct ITR form",
+ "description": "Which ITR form to use based on your income source"
+ },
+ {
+ "heading": "ITR Filing Timeline and Penalties (2026)",
+ "icon": "📅",
+ "type": "table",
+ "columns": [
+ "Deadline",
+ "Status",
+ "Penalty"
+ ],
+ "rows": [
+ [
+ "July 31, 2026 (original)",
+ "On-time filing",
+ "None"
+ ],
+ [
+ "August 1 - September 30, 2026",
+ "Late filing",
+ "₹5,000 to ₹25,000 penalty"
+ ],
+ [
+ "October 1 onwards",
+ "Very late filing",
+ "Loss of carry-forward benefits, no refund"
+ ],
+ [
+ "Even after Oct 31",
+ "Ultra-late filing",
+ "Can still file ITR, but interest + penalty accrual continues"
+ ],
+ [
+ "Assessment Year August",
+ "Audit/Scrutiny begins",
+ "Department can demand books, receipts, explanations"
+ ]
+ ]
+ },
+ {
+ "type": "svg_block",
+ "heading": "Visual: Which ITR Form to File Key Numbers",
+ "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">ITR-1</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Salaried</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">ITR-2</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Capital Gains</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">ITR-3</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Business</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">ITR-4</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Presumptive</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
+ "caption": "Key numbers for Which ITR Form to File? ITR-1,",
+ "description": "Quick overview of the most important numbers and facts."
+ },
+ {
+ "heading": "2026 Changes in ITR Forms",
+ "icon": "🔄",
+ "type": "text",
+ "content": [
+ "ITR Forms Updated: Income Tax department releases revised ITR forms every year. For AY 2026-27 (FY 2025-26 returns), forms are revised for clearer capital gains reporting, cryptocurrency clarity (if applicable), and simplified schedules.",
+ "New Reporting Requirements: Foreign investment earnings now require automatic disclosure (Schedule FA). Digital payments tracking is stricter (no cash transactions above ₹2L without traceability).",
+ "Presumptive Income Changes: Section 44AD (8% business assumption) and 44ADA (50% professional assumption) remain unchanged for 2026. No increase in turnover limits.",
+ "Pre-filled Returns: Income Tax department pre-fills parts of ITR (salary from TDS, interest from banks, mutual fund statements) automatically. You just review and confirm.",
+ "This reduces filing errors significantly."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "Consequences of filing the wrong ITR form",
+ "icon": "⚠️",
+ "content": [
+ "Filing the wrong ITR form is one of the most common mistakes Indian taxpayers make - and it has real consequences. If you file ITR-1 when you should have filed ITR-2 (because you have capital gains), the CPC sends a 'Defective Return' notice under Section 139(9).",
+ "You get 15 days to re-file with the correct form. If you don't respond within 15 days, your return is treated as if you never filed - losing refunds, carry-forward of losses, and potentially attracting late filing penalties.",
+ "Common wrong-form scenarios: Filed ITR-1 but sold mutual funds during the year (need ITR-2 for capital gains). Filed ITR-1 but have income from more than one house property (need ITR-2).",
+ "Filed ITR-4 (presumptive) but turnover exceeds Rs 2 crore (need ITR-3 with full books of accounts). Filed ITR-2 but have freelance income (need ITR-3 for business/professional income).",
+ "How to fix: If you realize the mistake BEFORE the defective notice, file a revised return with the correct form at incometax.gov.in → 'File Income Tax Return' → select 'Revised Return.' If you already received a defective notice, respond within 15 days by filing the corrected form. The revised/corrected return replaces the original - no penalty if done within the deadline.",
+ "Prevention: Before filing, verify your income sources: Do I have capital gains (stock sales, mutual fund redemptions, property sales)? → Need ITR-2 or higher. Do I have business/freelance income? → Need ITR-3 or ITR-4.",
+ "Do I have income from more than one house property? → Need ITR-2. Do I have foreign assets or income? → Need ITR-2.",
+ "If ALL income is salary + one house property + interest/other sources (and total income < Rs 50 lakh) → ITR-1 is fine."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "ITR-4 Sugam - the freelancer's best friend",
+ "icon": "💼",
+ "content": [
+ "ITR-4 is designed for small businesses and professionals who want to file taxes without maintaining detailed books of accounts. Under presumptive taxation (Section 44AD for business, Section 44ADA for professionals), you declare a minimum profit percentage on your gross receipts - and that declared profit is your taxable income.",
+ "No need to maintain ledgers, vouchers, or get accounts audited.",
+ "Section 44AD (business): Declare minimum 6% profit on digital receipts or 8% on cash receipts. Turnover limit: Rs 3 crore (if digital receipts > 95% of total) or Rs 2 crore (otherwise).",
+ "Example: your online business receives Rs 20 lakh digitally. Minimum declared profit: 6% × Rs 20 lakh = Rs 1.2 lakh.",
+ "Pay tax only on Rs 1.2 lakh (after standard deductions). If your actual profit is higher, declare the higher amount.",
+ "Section 44ADA (professionals - doctors, lawyers, CAs, architects, engineers, interior designers): Declare minimum 50% profit on gross receipts. Limit: Rs 75 lakh.",
+ "Example: a freelance designer receives Rs 12 lakh. Minimum declared profit: 50% × Rs 12 lakh = Rs 6 lakh.",
+ "Pay tax on Rs 6 lakh. If actual expenses exceed 50% (say you spend Rs 8 lakh on equipment and office), you'd need ITR-3 with books of accounts to claim the actual lower profit.",
+ "When ITR-4 DOESN'T work: Turnover exceeds the limit (Rs 2-3 crore). You want to declare profit LOWER than the presumptive percentage (need ITR-3 with audited books).",
+ "You have capital gains or foreign income alongside business income (need ITR-3). You have income from more than one house property (ITR-4 allows only one).",
+ "If you have losses from business that you want to carry forward - ITR-4 doesn't allow loss carry-forward; use ITR-3."
+ ]
+ },
+ {
+ "type": "svg_block",
+ "heading": "ITR Filing Process",
+ "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><defs><marker id=\"af\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><polygon points=\"0 0, 10 3, 0 6\" fill=\"#1E40AF\"/></marker></defs><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">ITR Filing Steps</text><rect x=\"20\" y=\"45\" width=\"120\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"80\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Collect Form 16</text><line x1=\"140\" y1=\"65\" x2=\"160\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"168\" y=\"45\" width=\"120\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"228\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Pick ITR form</text><line x1=\"288\" y1=\"65\" x2=\"308\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"316\" y=\"45\" width=\"120\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"376\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Fill on portal</text><line x1=\"436\" y1=\"65\" x2=\"456\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"464\" y=\"45\" width=\"120\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"524\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">e-Verify return</text></svg>",
+ "caption": "Step-by-step ITR filing process on the income tax portal",
+ "description": "4-step flow for filing your income tax return online"
+ },
+ {
+ "type": "text",
+ "heading": "ITR form selection flowchart - find yours in 30 seconds",
+ "icon": "🎯",
+ "content": [
+ "Question 1: Do you have business or professional income? YES → Go to Q4. NO → Go to Q2.",
+ "Question 2: Do you have capital gains (sold stocks, mutual funds, property, or crypto)? YES → ITR-2. NO → Go to Q3.",
+ "Question 3: Is your total income above Rs 50 lakh, OR do you have more than one house property, OR do you have foreign assets/income, OR agricultural income above Rs 5,000? YES → ITR-2. NO → ITR-1 (Sahaj).",
+ "Question 4: Is your business turnover below Rs 2-3 crore AND you want presumptive taxation (no books of accounts)? YES → ITR-4 (Sugam). NO → ITR-3.",
+ "Quick summary: Pure salaried + FD interest → ITR-1. Salaried + stock trading → ITR-2.",
+ "Freelancer/business below Rs 2Cr → ITR-4. Freelancer/business above Rs 2Cr or with losses → ITR-3.",
+ "When in doubt, file ITR-2 or ITR-3 - these forms accommodate ALL income types. Filing a higher-numbered form when a lower one suffices is NOT a problem.",
+ "Filing a lower form when a higher one is required IS a problem."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "ITR for special situations",
+ "icon": "📋",
+ "content": [
+ "NRIs (Non-Resident Indians): Must file ITR-2 or ITR-3 (ITR-1 is NOT available for NRIs). NRIs have specific tax provisions - income earned in India is taxable (rental income, capital gains on Indian property/stocks, interest on NRO accounts), but salary earned abroad is not taxable in India.",
+ "DTAA (Double Taxation Avoidance Agreement) provisions may apply - consult a CA if you have income in both India and another country.",
+ "Hindu Undivided Family (HUF): HUFs file ITR-2 (if no business income) or ITR-3 (if business income). HUF is a separate tax entity with its own PAN, deductions, and tax slabs - essentially doubling the family's tax-free limits.",
+ "Creating an HUF is legal tax planning (not avoidance) and is recommended for families with significant assets.",
+ "Deceased person's ITR: The legal heir must file the deceased's ITR for the year of death (income earned from April 1 to date of death). File as ITR-2 or appropriate form with a note indicating it's filed by the legal heir.",
+ "The legal heir's PAN is used for filing, with the deceased's PAN referenced in the return. Any refund is credited to the legal heir's bank account.",
+ "Crypto and virtual digital assets: Income from crypto trading MUST be reported in ITR-2 or ITR-3. Crypto gains are taxed at flat 30% (no deductions except cost of acquisition).",
+ "TDS at 1% is deducted by exchanges on crypto sales above Rs 50,000. Many crypto traders incorrectly file ITR-1 - this triggers defective return notices.",
+ "If you traded crypto even once during the year, you need ITR-2 at minimum.",
+ "Multiple income sources: If you're salaried + freelancer + stock trader + landlord, you need ITR-3 (the most comprehensive form for individuals). ITR-3 accommodates ALL income types - salary, business, capital gains, house property, and other sources.",
+ "When in doubt about <a href=\"/compare/old-vs-new-tax-regime\" style=\"text-decoration:underline;color:inherit\">which</a> form to use, ITR-3 is the safest catch-all choice."
+ ]
+ },
+ {
+ "type": "svg_block",
+ "heading": "Visual: Which ITR Form Do You Need?",
+ "icon": "📋",
+ "svg": "<svg viewBox=\"0 0 700 320\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\">\n <text x=\"350\" y=\"25\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Choose Your ITR Form Decision Flowchart</text>\n <rect x=\"250\" y=\"45\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#111827\"/>\n <text x=\"350\" y=\"67\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"white\">What is your income so</text>\n <line x1=\"250\" y1=\"80\" x2=\"100\" y2=\"110\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n <line x1=\"350\" y1=\"80\" x2=\"350\" y2=\"110\" stroke=\"#16A34A\" stroke-width=\"2\"/>\n <line x1=\"450\" y1=\"80\" x2=\"600\" y2=\"110\" stroke=\"#D97706\" stroke-width=\"2\"/>\n <rect x=\"20\" y=\"110\" width=\"160\" height=\"65\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n <text x=\"100\" y=\"130\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#1E40AF\">ITR-1 (Sahaj)</text>\n <text x=\"100\" y=\"148\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#1E40AF\">Salary + 1 house + i</text>\n <text x=\"100\" y=\"163\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#1E40AF\">Income ≤ ₹50L Simple</text>\n <rect x=\"270\" y=\"110\" width=\"160\" height=\"65\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#16A34A\" stroke-width=\"2\"/>\n <text x=\"350\" y=\"130\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#145236\">ITR-2</text>\n <text x=\"350\" y=\"148\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#145236\">Salary + capital gai</text>\n <text x=\"350\" y=\"163\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#145236\">multiple houses + fo</text>\n <rect x=\"520\" y=\"110\" width=\"160\" height=\"65\" rx=\"8\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/>\n <text x=\"600\" y=\"130\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#92400E\">ITR-3</text>\n <text x=\"600\" y=\"148\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#92400E\">Business/profession </text>\n <text x=\"600\" y=\"163\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#92400E\">+ all other sources</text>\n <rect x=\"270\" y=\"210\" width=\"160\" height=\"65\" rx=\"8\" fill=\"#F3E8FF\" stroke=\"#7C3AED\" stroke-width=\"2\"/>\n <text x=\"350\" y=\"230\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#5B21B6\">ITR-4 (Sugam)</text>\n <text x=\"350\" y=\"248\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#5B21B6\">Presumptive business</text>\n <text x=\"350\" y=\"263\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#5B21B6\">44AD/44ADA Turnover </text>\n <text x=\"350\" y=\"300\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B7280\">Most salaried indivi</text>\n</svg>"
+ },
+ {
+ "type": "svg_block",
+ "heading": "Visual: ITR Form Quick Reference",
+ "icon": "✅",
+ "svg": "<svg viewBox=\"0 0 700 200\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\">\n <text x=\"350\" y=\"25\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Who Files Which ITR Form?</text>\n <rect x=\"30\" y=\"50\" width=\"150\" height=\"130\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n <text x=\"105\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1E40AF\">ITR-1</text>\n <text x=\"105\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#1E40AF\">Salaried employee</text>\n <text x=\"105\" y=\"108\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#1E40AF\">Pensioner</text>\n <text x=\"105\" y=\"124\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#1E40AF\">FD/savings interest</text>\n <text x=\"105\" y=\"140\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#1E40AF\">1 house property</text>\n <text x=\"105\" y=\"156\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#1E40AF\">Income ≤ ₹50L</text>\n <rect x=\"200\" y=\"50\" width=\"150\" height=\"130\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#16A34A\" stroke-width=\"2\"/>\n <text x=\"275\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#145236\">ITR-2</text>\n <text x=\"275\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#145236\">Stock/MF trader</text>\n <text x=\"275\" y=\"108\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#145236\">NRI</text>\n <text x=\"275\" y=\"124\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#145236\">Multiple houses</text>\n <text x=\"275\" y=\"140\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#145236\">Foreign assets</text>\n <text x=\"275\" y=\"156\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#145236\">Capital gains</text>\n <rect x=\"370\" y=\"50\" width=\"150\" height=\"130\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/>\n <text x=\"445\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#92400E\">ITR-3</text>\n <text x=\"445\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#92400E\">Business owner</text>\n <text x=\"445\" y=\"108\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#92400E\">Freelancer (books)</text>\n <text x=\"445\" y=\"124\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#92400E\">Doctor/CA/Lawyer</text>\n <text x=\"445\" y=\"140\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#92400E\">Partner in firm</text>\n <text x=\"445\" y=\"156\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#92400E\">Turnover > ₹2Cr</text>\n <rect x=\"540\" y=\"50\" width=\"150\" height=\"130\" rx=\"10\" fill=\"#F3E8FF\" stroke=\"#7C3AED\" stroke-width=\"2\"/>\n <text x=\"615\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#5B21B6\">ITR-4</text>\n <text x=\"615\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#5B21B6\">Small business</text>\n <text x=\"615\" y=\"108\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#5B21B6\">Freelancer (simple)</text>\n <text x=\"615\" y=\"124\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#5B21B6\">Presumptive tax</text>\n <text x=\"615\" y=\"140\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#5B21B6\">44AD / 44ADA</text>\n <text x=\"615\" y=\"156\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#5B21B6\">Turnover ≤ ₹2Cr</text>\n</svg>"
+ },
+ {
+ "type": "callout",
+ "heading": "Filing the Wrong ITR Form",
+ "content": "If you file the wrong ITR form, the Income Tax Department may send a defective return notice under Section 139(9). You then get 15 days to file a revised return with the correct form. Filing the wrong form does not attract a penalty by itself, but it delays processing and can hold up your refund. When in doubt, use the ITR form selector tool on the Income Tax e-filing portal."
+ },
+ {
+ "type": "pullquote",
+ "text": "80% of individual taxpayers in India need either ITR-1 or ITR-4. If you earn only salary, pension, or interest income below Rs 50 lakh - ITR-1 is your form. If you run a small business under presumptive taxation - ITR-4 is yours."
+ }
+ ],
+ "faqs": [
+ {
+ "question": "I am salaried and sold mutual funds this year. Which ITR should I file?",
+ "answer": "ITR-2 (mandatory). The moment you have capital gains, you graduate from ITR-1 to ITR-2. This is the most common mistake. Many salaried people think 'I'm mainly salaried, I'll file ITR-1,' but the ₹50K or ₹2L capital gain disqualifies them. ITR-1 will be auto-rejected by the system. File ITR-2 to report both salary and capital gains correctly."
+ },
+ {
+ "question": "I have salary + rental income from 2 flats. Should I file ITR-1 or ITR-2?",
+ "answer": "ITR-2 (mandatory). ITR-1 allows only 1 house property rental income. With 2 properties, you MUST use ITR-2. Using ITR-1 will hide the second property from income tax records - leading to a notice later. Filing ITR-2 with both properties is straightforward."
+ },
+ {
+ "question": "I do freelancing on weekends alongside my job. Which form?",
+ "answer": "ITR-3 or ITR-4. Freelance income is professional income, making you ineligible for ITR-1. If your freelance turnover is < ₹50L annually, you can file ITR-4 (assuming 50% presumptive profit = no detailed books needed). If > ₹50L or you want detailed deductions, file ITR-3. Don't attempt ITR-1 - it will be rejected."
+ },
+ {
+ "question": "My business has ₹80L turnover. Should I file ITR-3 or ITR-4?",
+ "answer": "Both are valid options. ITR-4 with 8% presumption = ₹6.4L presumed profit (simpler, no audit needed, lower scrutiny). ITR-3 with actual 15% profit = ₹12L profit (higher tax, but if you truly earn more, you should declare it). Many small businesses opt for ITR-4 for simplicity. Legally, both are correct."
+ },
+ {
+ "question": "I sold stocks at a loss. Must I file ITR-2?",
+ "answer": "Yes. Even if it's a LOSS, you must file ITR-2. The loss can be carried forward for 8 years and set off against future capital gains. If you file ITR-1, the loss is ignored completely - you lose the benefit. ITR-2 preserves this loss benefit for future years."
+ },
+ {
+ "question": "My income is below ₹2.5L tax slab. Do I still need to file ITR?",
+ "answer": "Depends on your income source and reporting obligations. If you're salaried and TDS is deducted, you MUST file ITR to get refund. If you have business turnover > ₹40L (₹10L for profession), you MUST file ITR-3/4 regardless of tax liability. Check incometax.gov.in for mandatory filing criteria each year - they change."
+ }
+ ],
+ "disclaimer": "ITR filing rules, form formats, and deadlines are subject to change annually. This information reflects the 2026 tax year. Verify current details from the official Income Tax Department portal (incometax.gov.in) or consult a Chartered Accountant for personalized advice. Filing the wrong ITR form can result in rejection, notices, and penalties. Always confirm form eligibility before submission.",
+ "related_pages": [
+ {
+ "title": "How to File ITR Online",
+ "slug": "how-to-file-itr",
+ "tag": "Tax Filing",
+ "url": "/paisa/how-to-file-itr"
+ },
+ {
+ "title": "Old vs New Tax Regime",
+ "slug": "old-vs-new-tax-regime",
+ "tag": "Income Tax",
+ "url": "/compare/old-vs-new-tax-regime"
+ },
+ {
+ "title": "Section 80C Deductions Guide",
+ "slug": "section-80c-guide",
+ "tag": "Tax Saving",
+ "url": "/paisa/section-80c-guide"
+ }
+ ],
+ "tags": [
+ "Income Tax",
+ "ITR Forms",
+ "Tax Filing",
+ "ITR-1",
+ "ITR-2",
+ "ITR-3",
+ "ITR-4",
+ "2026"
+ ],
+ "image_suggestions": [
+ "ITR form selection flowchart (Decision tree visual)",
+ "Comparison chart: ITR-1 vs ITR-2 vs ITR-3 vs ITR-4 (side-by-side)",
+ "Income sources by ITR form (Venn diagram showing overlaps)",
+ "Penalty timeline infographic (On-time vs late filing)",
+ "Real-world scenario examples: When to file each ITR",
+ "ITR filing process step-by-step visual"
+ ],
+ "last_reviewed": "May 2026"
+}

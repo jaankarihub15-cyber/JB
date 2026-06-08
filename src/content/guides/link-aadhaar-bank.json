@@ -1,0 +1,612 @@
+{
+ "slug": "link-aadhaar-bank",
+ "title": "How to Link Aadhaar with Bank Account - 4 Methods 2026",
+ "meta_description": "Link Aadhaar with bank account online 2026 - net banking, ATM, SMS, branch visit. Required for DBT, subsidies, tax refunds, and government payments.",
+ "hero": {
+ "one_liner": "Link Aadhaar with your bank account to receive government payments (PM Kisan, LPG subsidy, scholarships, tax refunds). 4 easy methods, 2-15 minutes.",
+ "icon": "🔗",
+ "updated_date": "May 2026",
+ "tags": [
+ "Aadhaar",
+ "Banking",
+ "DBT"
+ ],
+ "read_time": "8 min",
+ "stats": [
+ {
+ "label": "Net Banking",
+ "value": "2 min"
+ },
+ {
+ "label": "ATM",
+ "value": "5 min"
+ },
+ {
+ "label": "Branch Visit",
+ "value": "15 min"
+ },
+ {
+ "label": "SMS",
+ "value": "Bank-specific"
+ }
+ ]
+ },
+ "sections": [
+ {
+ "heading": "Why Linking Aadhaar with Bank Account is Critical",
+ "icon": "⚠️",
+ "type": "text",
+ "content": [
+ "All government Direct Benefit Transfer (DBT) payments - PM Kisan (₹6,000/year agriculture subsidy), LPG subsidy (₹300-400/cylinder), NREGA wages, scholarship amounts, state welfare schemes, income tax refunds - are routed through NPCI (National Payments Corporation of India) to your <a href=\"/guide/link-aadhaar-pan\" style=\"text-decoration:underline;color:inherit\">Aadhaar</a>-linked bank account.",
+ "If your <a href=\"/guide/aadhaar-update\" style=\"text-decoration:underline;color:inherit\">Aadhaar</a> is not linked to any bank account, or linked to a wrong account, government payments fail to reach you.",
+ "Example: Your Aadhaar is linked to Bank A, but you're expecting tax refund to Bank B. The refund automatically goes to Bank A.",
+ "If Bank A <a href=\"/guide/activate-uan\" style=\"text-decoration:underline;color:inherit\">account</a> has been closed, the refund bounces back to government.",
+ "Additional benefits: (1) Easier KYC completion (banks accept Aadhaar-linked accounts), (2) Faster account opening (no need for separate address proofs), (3) Subsidies are linked to your Aadhaar - any account you link gets the subsidy, (4) Better financial tracking across multiple accounts."
+ ]
+ },
+ {
+ "heading": "",
+ "type": "svg_block",
+ "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Aadhaar-Bank Linking - 3 methods</text><rect x=\"30\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"130\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#145236\">Net Banking</text><text x=\"130\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">5 min from home</text><rect x=\"250\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"350\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1E40AF\">ATM</text><text x=\"350\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">2 min at any ATM</text><rect x=\"470\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"570\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#C2410C\">Bank Branch</text><text x=\"570\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#C2410C\">Fill form at counter</text></svg>",
+ "caption": "Link your Aadhaar to your bank account to receive government benefits (DBT), LPG subsidy, PM-KISAN, scholarships, and pension payments. Without linking, DBT fails and your money goes unclaimed."
+ },
+ {
+ "heading": "",
+ "type": "svg_block",
+ "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Link Aadhaar to Bank - 3 methods</text><rect x=\"50\" y=\"50\" width=\"190\" height=\"75\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"145\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#145236\">Net Banking</text><text x=\"145\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">Login → Profile → Li</text><rect x=\"260\" y=\"50\" width=\"190\" height=\"75\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"355\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1E40AF\">ATM</text><text x=\"355\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">Insert card → Servic</text><rect x=\"470\" y=\"50\" width=\"190\" height=\"75\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"565\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#C2410C\">Branch Visit</text><text x=\"565\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#C2410C\">Form + Aadhaar copy</text></svg>",
+ "caption": "Aadhaar-bank linking is mandatory for receiving government subsidies (LPG, PM-KISAN, PMJDY, NREGA wages) via DBT. Without linking, your subsidy goes nowhere. Link in 5 minutes through net banking."
+ },
+ {
+ "heading": "How DBT Payments Work - Key to Understanding",
+ "icon": "💰",
+ "type": "text",
+ "content": [
+ "Process: Government identifies eligible beneficiaries via Aadhaar. At payment time, NPCI <a href=\"/guide/check-epf-balance\" style=\"text-decoration:underline;color:inherit\">check</a>s: 'Which bank account is linked to this Aadhaar?' It credits that account.",
+ "The account holder receives the payment via bank.",
+ "Critical fact: Only ONE bank account can be the primary 'DBT account' for your Aadhaar at any time. If you link Aadhaar to Bank A, then later link it to Bank B, all future DBT payments go to Bank B.",
+ "Previous payments in Bank A remain there, but new payments go to Bank B only.",
+ "Example: March 2024: You link Aadhaar to SBI. PM Kisan payment in April 2024 goes to SBI.",
+ "October 2024: You change job, link Aadhaar to HDFC Bank. PM Kisan payment in December 2024 goes to HDFC, not SBI.",
+ "The April payment in SBI is not transferred - it stays in SBI forever. You need to manage multiple accounts if you switched banks."
+ ]
+ },
+ {
+ "heading": "4 Methods to Link Aadhaar with Bank Account",
+ "icon": "📋",
+ "type": "steps",
+ "steps": [
+ {
+ "step": 1,
+ "title": "Method 1: Net Banking (Fastest - 2 minutes)",
+ "description": "Login to your bank's internet banking portal (e.g., SBI: onlinesbi.sbi, HDFC: netbanking.hdfcbank.com, ICICI: iMobile). Navigate to: Settings/Profile → Aadhaar Registration or Link Aadhaar. Enter your 12-digit Aadhaar number. OTP sent to your Aadhaar-registered mobile. Enter OTP. Confirmation message appears: 'Aadhaar linked successfully.' Done in 2 minutes."
+ },
+ {
+ "step": 2,
+ "title": "Method 2: ATM (5 minutes, no internet needed)",
+ "description": "Visit your bank's ATM. Insert your debit card → enter PIN. Look for option: 'Aadhaar Registration' or 'Link Aadhaar' (may be under 'Other Services' or 'My Account'). Select it. Enter 12-digit Aadhaar. System confirms linking → receipt printed showing confirmation. Not all ATMs have this option - may need to try multiple ATMs or visit a newer ATM."
+ },
+ {
+ "step": 3,
+ "title": "Method 3: Mobile Banking App (3 minutes)",
+ "description": "Open your bank's app (YONO for SBI, iMobile for ICICI, BFL for HDFC, etc.). Login → Profile or Settings → 'Link Aadhaar' or 'Aadhaar Registration'. Enter 12-digit Aadhaar number. OTP on registered mobile → enter it → linked instantly. Most modern apps have this feature."
+ },
+ {
+ "step": 4,
+ "title": "Method 4: Bank Branch Visit (15 minutes, paper-based)",
+ "description": "Visit any branch of your bank with: debit card, Aadhaar card, passport. At the counter, ask for 'Aadhaar Seeding Form' (also called 'Aadhaar Registration Form'). Fill: account number, Aadhaar number, name. Photocopy your Aadhaar. Submit to bank staff. They process it. Takes 24-48 hours to reflect in system. Confirm via SMS when linked."
+ }
+ ]
+ },
+ {
+ "heading": "Bank-Specific Aadhaar Linking Instructions",
+ "icon": "🏦",
+ "type": "table",
+ "columns": [
+ "Bank",
+ "Net Banking Portal",
+ "Mobile App",
+ "ATM Option",
+ "Support"
+ ],
+ "rows": [
+ [
+ "SBI",
+ "onlinesbi.sbi → Profile → Aadhaar",
+ "YONO → Profile → Link Aadhaar",
+ "Available at most SBI ATMs",
+ "Customer Service: 1800-180-1111"
+ ],
+ [
+ "HDFC Bank",
+ "netbanking.hdfcbank.com → Settings → Aadhaar",
+ "HBL App → Accounts → Aadhaar Link",
+ "Available at select ATMs",
+ "Helpline: 1800-180-2000"
+ ],
+ [
+ "ICICI Bank",
+ "iMobile.icicibank.com → Profile → Aadhaar",
+ "iMobile App → Profile → Aadhaar",
+ "Available at newer ICICI ATMs",
+ "Support: 1800-102-2424"
+ ],
+ [
+ "Axis Bank",
+ "axisbank.com → netbanking → Link Aadhaar",
+ "Axis Mobile → Profile → Link Aadhaar",
+ "Available",
+ "Customer Service: 1800-180-5555"
+ ],
+ [
+ "PNB",
+ "pnbinternetbanking.com → Settings → Aadhaar",
+ "PNB Mobile → Profile → Aadhaar",
+ "Some ATMs available",
+ "Toll-free: 18002669090"
+ ],
+ [
+ "Bank of India",
+ "bionline.boi.com → Aadhaar Registration",
+ "BOI Mobile App",
+ "Available",
+ "Customer Care: 1800-220-5555"
+ ],
+ [
+ "Other Regional Banks",
+ "Check bank's website or visit branch",
+ "Check app",
+ "Inquire at branch",
+ "Bank-specific helpline"
+ ]
+ ]
+ },
+ {
+ "heading": "What Happens After Linking - Timeline & Confirmation",
+ "icon": "✅",
+ "type": "text",
+ "content": [
+ "Immediate (1 minute): If linking via net banking/app/ATM, you get instant confirmation. Message shows: 'Aadhaar Seeding Successful' or 'Aadhaar Linked with [Account Number]'.",
+ "This confirmation is your proof.",
+ "Within 24-48 hours: If linked via bank branch, you receive SMS confirmation from NPCI (National Payments Corporation India) saying: 'Aadhaar [XXXX] successfully seeded with account [account last 4 digits]. Ref: [reference number].'",
+ "Verification method: You can verify linking at: (1) NPCI's Aadhaar Mapper website (if available in your region), (2) Your bank's net banking portal (check Profile → Aadhaar field), (3) Call bank customer care and ask 'Is my Aadhaar linked?'",
+ "When will DBT payments arrive? After Aadhaar-bank linking is confirmed, the next government DBT payment cycle will include your account. Government schemes typically process payments monthly (e.g., PM Kisan in April, November), so you may need to wait until next payment cycle to receive money."
+ ]
+ },
+ {
+ "heading": "Troubleshooting Common Issues",
+ "icon": "⚠️",
+ "type": "table",
+ "columns": [
+ "Issue",
+ "Cause",
+ "Solution"
+ ],
+ "rows": [
+ [
+ "'Aadhaar already linked to another account'",
+ "Your Aadhaar is already linked to Bank A. You're trying to link to Bank B",
+ "You can re-link. New bank account becomes primary DBT account. Old bank keeps previous payments. Or contact bank to understand dual-linking option."
+ ],
+ [
+ "'Name mismatch between Aadhaar and Bank'",
+ "Your name on Aadhaar is 'Rajesh Kumar' but bank shows 'Raj Kumar' or 'Rajesh' only",
+ "Update either Aadhaar name (₹50 at UIDAI) or bank name (₹50-100 at bank). Names must match exactly for DBT routing."
+ ],
+ [
+ "'Mobile not registered with Aadhaar'",
+ "You didn't receive OTP during linking",
+ "Go to aadhar.uidai.gov.in → Update Aadhaar → Link your current mobile with Aadhaar. Takes 30 minutes. Then retry bank linking."
+ ],
+ [
+ "'ATM has no Aadhaar option'",
+ "ATM is old or doesn't have seeding feature",
+ "Use net banking or mobile app instead (faster anyway). Or visit a different, newer ATM."
+ ],
+ [
+ "'Branch staff says they cannot link Aadhaar'",
+ "Rare occurrence - staff may be unaware or branch system may have glitch",
+ "Ask to speak to manager. Aadhaar linking is a standard service all banks must provide. If branch refuses, escalate to bank's customer service or write to regional office."
+ ]
+ ]
+ },
+ {
+ "heading": "Managing Multiple Bank Accounts & Aadhaar",
+ "icon": "📊",
+ "type": "text",
+ "content": [
+ "Scenario: I have 2 bank accounts (SBI and HDFC). Which one should I link with Aadhaar? Link the account where you primarily receive salary/income.",
+ "For DBT purposes, link the account where you want government payments. You can only have ONE primary Aadhaar-linked account for DBT at a time.",
+ "You can link Aadhaar to both accounts for their internal KYC/convenience, but only one will be the DBT account.",
+ "Scenario: I changed banks. What happens to my old DBT payments? Payments made to your old bank account stay in that account forever.",
+ "You won't be able to transfer them to your new bank. Only future payments (after re-linking Aadhaar to new bank) go to the new account.",
+ "If you need payments to continue, link Aadhaar to your new bank immediately.",
+ "Scenario: Can I have Aadhaar linked to multiple banks simultaneously? Yes, technically you can. Each bank can seed your Aadhaar in their system for their internal records/KYC.",
+ "But NPCI recognizes only ONE primary account for DBT payment routing. If linked to Bank A and Bank B, NPCI will route payment to the LAST bank you linked (or the most recent linking).",
+ "Best practice: Link Aadhaar to only one bank for DBT purposes to avoid confusion."
+ ]
+ },
+ {
+ "heading": "External Links & Resources",
+ "icon": "🔗",
+ "type": "text",
+ "content": [
+ "<h3>NPCI (National Payments Corporation):</h3>",
+ "<a href='https://www.npci.org.in' target='_blank'>NPCI Official Website (npci.org.in)</a> - Information on Aadhaar seeding and DBT.",
+ "<h3>Government Payment Schemes:</h3>",
+ "<a href='https://pmkisan.gov.in' target='_blank'>PM Kisan Samman Nidhi (pmkisan.gov.in)</a> - Check Aadhaar-bank linking status for agriculture subsidy.",
+ "<a href='https://www.undp.org' target='_blank'>NREGA Portal - NREGA wages</a>",
+ "<h3>UIDAI (Aadhaar):</h3>",
+ "<a href='https://aadhar.uidai.gov.in' target='_blank'>Aadhaar Update Portal (myaadhaar.uidai.gov.in)</a> - Update mobile linked with Aadhaar."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "Why Aadhaar-bank linking is essential",
+ "icon": "🏦",
+ "content": [
+ "Every government subsidy and benefit - LPG subsidy, PM-KISAN Rs 6,000/year, NREGA wages, scholarship payments, pension disbursements, and all DBT (Direct Benefit Transfer) payments - requires your bank account to be linked with Aadhaar. If not linked, the money is sent but bounces back to the government.",
+ "Crores of rupees in legitimate subsidies go unclaimed every year because beneficiaries haven't completed this simple linking.",
+ "Aadhaar-bank linking also enables AEPS (Aadhaar Enabled Payment System) - allowing you to withdraw cash, check balance, and transfer money using just your Aadhaar number and fingerprint at any banking correspondent or micro-ATM. This is especially valuable in rural areas where bank branches are 10-20 km away but a banking correspondent with a micro-ATM is in the village.",
+ "The linking is free and takes 5 minutes through net banking, 3 minutes at an ATM, or 10 minutes at a bank branch. Yet an estimated 15-20% of bank accounts remain unlinked - their holders losing subsidies, scholarship money, and government benefits month after month.",
+ "Check your linking status NOW and fix it today."
+ ]
+ },
+ {
+ "type": "svg_block",
+ "heading": "Visual: How to Link Aadhaar wi Key Numbers",
+ "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">2 min</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Net Banking</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">5 min</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">ATM</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">15 min</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Branch Visit</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">Bank-specific</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">SMS</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
+ "caption": "Key numbers for How to Link Aadhaar with Bank ",
+ "description": "Quick overview of the most important numbers and facts."
+ },
+ {
+ "type": "text",
+ "heading": "Method 1 - Link through net banking (fastest)",
+ "icon": "💻",
+ "content": [
+ "SBI: Login at onlinesbi.sbi → My Accounts → Update Aadhaar Number → enter 12-digit Aadhaar → OTP verification on Aadhaar-<a href=\"/guide/register-digilocker\" style=\"text-decoration:underline;color:inherit\">register</a>ed mobile → linked instantly. PNB: Login at netbanking.pnb.co.in → Services → Aadhaar Seeding → enter Aadhaar → confirm.",
+ "HDFC: Login at netbanking.hdfcbank.com → Requests → Link Aadhaar → enter Aadhaar + OTP.",
+ "The process is nearly identical across all banks: login to net banking → find 'Aadhaar linking' or 'Aadhaar seeding' in the services/profile section → enter your 12-digit Aadhaar number → verify with OTP sent to your Aadhaar-registered mobile → linking confirmation appears within 24-48 hours. This is the fastest method - no branch visit, no waiting in queue.",
+ "If net banking is not activated: First activate net banking (most banks allow instant activation through debit card OTP at their website). Then link Aadhaar. Alternatively, many banks now offer Aadhaar linking through their mobile banking app - even simpler than net banking."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "Method 2 - Link at ATM",
+ "icon": "🏧",
+ "content": [
+ "SBI ATM: Insert debit card → Enter PIN → Select 'Services' or 'Registration' → 'Aadhaar Registration' → Enter 12-digit Aadhaar → Confirm → Linking request submitted. Processing: 24-48 hours. Not all ATMs support this - SBI's newer ATMs (green-screen) have this option; older ones may not.",
+ "Other bank ATMs: PNB, BOB, Canara Bank, and Union Bank ATMs support Aadhaar linking. The navigation varies: look under 'Services,' 'Registration,' or 'Aadhaar' in the ATM menu after inserting your card and entering PIN.",
+ "If your bank's ATM doesn't show an Aadhaar option, use net banking or visit the branch.",
+ "ATM method limitation: Works only if your mobile number registered with the bank matches the one on your Aadhaar. If they're different, the ATM linking may fail silently. In that case, visit the branch with both your Aadhaar and bank passbook to update the mobile number and link simultaneously."
+ ]
+ },
+ {
+ "type": "svg_block",
+ "heading": "Quick Facts",
+ "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Quick Facts</text><rect x=\"17\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"94\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">2 min</text><text x=\"94\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Net Banking</text><rect x=\"187\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"264\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">5 min</text><text x=\"264\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">ATM</text><rect x=\"357\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"434\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#92400E\">15 min</text><text x=\"434\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Branch Visit</text><rect x=\"527\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"604\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">Bank-specific</text><text x=\"604\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">SMS</text></svg>",
+ "caption": "Quick reference facts",
+ "description": "Key facts and numbers at a glance"
+ },
+ {
+ "type": "text",
+ "heading": "Method 3 - Link at bank branch",
+ "icon": "🏛️",
+ "content": [
+ "Visit your bank branch with: Aadhaar card (original + 1 photocopy) and bank passbook or debit card. Fill the Aadhaar seeding form (available at the branch - a simple 1-page form with your account number, Aadhaar number, and signature).",
+ "Submit the form and Aadhaar photocopy at the counter. The bank staff updates your account with Aadhaar details within 24-48 hours.",
+ "This is the most reliable method: the bank staff verifies your identity in person, resolves any name/mobile mismatches on the spot, and confirms the linking before you leave. For elderly account holders who are uncomfortable with net banking or ATMs, the branch visit is the recommended approach.",
+ "Some banks offer 'Aadhaar linking camps' at village panchayats and local markets - especially in rural areas ahead of government subsidy distribution dates (PM-KISAN installment, NREGA wage disbursement). Watch for announcements at your local bank branch or panchayat office.",
+ "For Jan Dhan accounts: If your account is a PM Jan Dhan Yojana account, Aadhaar linking is especially critical - the Rs 10,000 overdraft facility, accidental insurance, and LPG subsidy transfer ALL require Aadhaar seeding. Visit the branch and link in one trip."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "How to check if Aadhaar is already linked to your bank",
+ "icon": "🔍",
+ "content": [
+ "Method 1 - UIDAI website: Visit resident.uidai.gov.in → 'Check Aadhaar & Bank Linking Status' → enter Aadhaar number and OTP. The portal shows whether your Aadhaar is linked to any bank account and the bank name (last 4 digits of account number are shown for privacy).",
+ "Method 2 - NPCI mapper: Send an SMS from your Aadhaar-registered mobile: AADHAAR MAPPER to 7738299899 (for State Bank) or check through your bank's mobile app. The response shows whether your Aadhaar is mapped to a bank account and which bank.",
+ "Method 3 - Ask at bank branch: Visit with Aadhaar card and passbook. The bank staff can check your account's Aadhaar seeding status in 30 seconds. If not linked, they can initiate the process immediately - you don't need to come back.",
+ "If Aadhaar is linked to the WRONG bank account: This happens when you have multiple accounts and the Aadhaar is mapped to an old/dormant account instead of your active one. To fix: visit the bank where you want the Aadhaar linked, submit a fresh Aadhaar seeding request.",
+ "The new bank's linking overrides the old bank's mapping within 48 hours. Only ONE bank account can be the primary Aadhaar-linked account for DBT at a time."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "Common issues and troubleshooting",
+ "icon": "🔧",
+ "content": [
+ "Issue: Name mismatch between Aadhaar and bank account. The bank's KYC has your name as 'Rajesh Kumar' but Aadhaar says 'Rajesh Kumar Singh.' Solution: Update the bank account name to match Aadhaar (submit a name correction form at the branch with Aadhaar as proof).",
+ "Or update Aadhaar name to match bank records at myaadhaar.uidai.gov.in. Names must match exactly for successful seeding.",
+ "Issue: OTP not received during net banking/ATM linking. Your mobile number registered with the bank must be the same as the one on Aadhaar.",
+ "If different, the OTP goes to the Aadhaar mobile (not the bank mobile). Fix: update your mobile number at the bank to match Aadhaar, OR update Aadhaar mobile to match bank.",
+ "Having the same mobile for both simplifies ALL Aadhaar-related transactions.",
+ "Issue: DBT subsidy not received despite linking. Check at pfms.nic.in (Public Financial Management System) → 'Know Your Payment Status' → enter your bank account number or Aadhaar.",
+ "The portal shows whether DBT payments were attempted and whether they succeeded or failed. Common failure reasons: account dormant (reactivate by making a transaction), IFSC changed (branch merged - update at the department paying the subsidy), or beneficiary status inactive in the scheme database.",
+ "Issue: Aadhaar linked but AEPS transactions failing. AEPS requires biometric (fingerprint/iris) authentication.",
+ "If your fingerprints are worn (common among manual laborers, elderly), AEPS fails. Solution: use iris (eye) authentication instead at the banking correspondent point.",
+ "Or try different fingers - the UIDAI database stores all 10 fingerprints, and some fingers authenticate better than others."
+ ]
+ },
+ {
+ "type": "callout",
+ "variant": "tip",
+ "heading": "Use ONE mobile number for Aadhaar, bank, and all government accounts",
+ "content": "The simplest way to avoid linking issues: use the SAME mobile number for your Aadhaar, bank account, PM-KISAN, e-Shram, and all government scheme registrations. When they all share one number, OTP verification works seamlessly across all platforms. If you've used different numbers, update all to your current active number - start with Aadhaar (myaadhaar.uidai.gov.in), then bank, then scheme portals."
+ },
+ {
+ "type": "callout",
+ "variant": "warning",
+ "heading": "Link Aadhaar to your ACTIVE account - not a dormant one",
+ "content": "If you have 3 bank accounts and Aadhaar is linked to a dormant one, your DBT subsidies fail because the bank can't credit a dormant account. Check which account is Aadhaar-linked at resident.uidai.gov.in. If it's the wrong account, visit the correct bank and submit a fresh seeding request. Only 1 account can be the primary Aadhaar-linked account at a time - make sure it's the one you actively use."
+ },
+ {
+ "type": "pullquote",
+ "text": "The government transfers Rs 6.8 lakh crore annually through DBT - PM-KISAN, LPG subsidy, NREGA wages, scholarships, pensions. Every rupee reaches you through ONE channel: your Aadhaar-linked bank account. If that link is broken - wrong account, dormant account, or not linked at all - the money bounces back. A 5-minute Aadhaar-bank linking protects lakhs of rupees in lifetime government benefits."
+ },
+ {
+ "type": "text",
+ "heading": "Aadhaar-bank linking for Jan Dhan accounts",
+ "icon": "🏦",
+ "content": [
+ "PM Jan Dhan Yojana accounts are the most critical accounts for Aadhaar linking - these are the primary vehicles for government subsidy delivery to BPL families. Jan Dhan accounts receive PM-KISAN (Rs 6,000/year), LPG subsidy, NREGA wages, and various state scheme payments.",
+ "If your Jan Dhan account is not Aadhaar-linked, ALL these payments fail.",
+ "Jan Dhan accounts also offer Rs 10,000 overdraft facility (for linked accounts with good transaction history) and Rs 2 lakh accidental death insurance through the RuPay card. These benefits are activated ONLY when Aadhaar is linked.",
+ "Without linking, you have a zero-balance account that receives nothing - with linking, you unlock subsidy + overdraft + insurance. The same account, dramatically different value.",
+ "How to link Jan Dhan to Aadhaar: Visit the bank branch where you opened Jan Dhan (usually the nearest nationalized bank branch or banking correspondent). Carry Aadhaar and Jan Dhan passbook.",
+ "The staff links in 5 minutes. Many banks conduct special camps for Jan Dhan Aadhaar linking - ask your local banking correspondent or Gram Panchayat about upcoming camps."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "Aadhaar linking for joint accounts and minor accounts",
+ "icon": "👥",
+ "content": [
+ "Joint accounts: Both account holders should link their Aadhaar separately. For DBT purposes, the primary account holder's Aadhaar is used.",
+ "If only the secondary holder's Aadhaar is linked, DBT payments to the primary holder may fail. Both holders should visit the branch together and link individually.",
+ "Minor accounts: A minor's bank account should be linked with the MINOR's Aadhaar (not the guardian's). Many parents mistakenly link their own Aadhaar to the child's account - this creates DBT confusion where the parent's subsidy gets credited to the child's account.",
+ "Each person's Aadhaar should be linked only to their own account. For children under 5 who don't have Aadhaar, apply for child Aadhaar at the enrollment center first.",
+ "NRI accounts: NRE/NRO accounts can be linked with Aadhaar if the NRI has an Indian Aadhaar. Linking is useful for receiving rental income, dividends, or other Indian-source income directly.",
+ "However, DBT schemes (PM-KISAN, LPG subsidy) are not available to NRIs - linking NRI accounts is mainly for KYC compliance and ease of banking transactions during India visits."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "Aadhaar linking deadline and consequences",
+ "icon": "📅",
+ "content": [
+ "RBI has periodically set deadlines for Aadhaar-bank linking - the latest deadline should be checked at rbi.org.in. Banks can freeze accounts that are not Aadhaar-linked beyond the deadline - meaning you can't withdraw, deposit, or transfer money until linking is completed.",
+ "Frozen accounts are NOT closed - your balance is safe, but inaccessible until you link Aadhaar.",
+ "The freeze typically applies to accounts opened after the Aadhaar mandate date (September 2019 for most banks). Accounts opened before may have extended timelines.",
+ "If your account gets frozen, visit the branch with Aadhaar and passbook - the unfreezing is immediate after linking. Don't ignore bank SMS reminders about Aadhaar linking - they're genuine warnings, not spam.",
+ "Bulk SMS and email reminders from banks about Aadhaar linking are legitimate - but verify by calling the bank's official helpline before clicking any links. Phishing scams impersonate banks with fake 'Aadhaar linking' messages containing malicious links.",
+ "Never enter your Aadhaar number or bank details on links received via SMS/email. Always type the bank's official URL directly in your browser."
+ ]
+ },
+ {
+ "type": "svg_block",
+ "heading": "Visual: Process Steps",
+ "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><defs><marker id=\"af\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><polygon points=\"0 0, 10 3, 0 6\" fill=\"#1E40AF\"/></marker></defs><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Process Steps</text><rect x=\"20\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"90\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Method 1: Net Bank</text><line x1=\"160\" y1=\"65\" x2=\"180\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"190\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"260\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Method 2: ATM (5 m</text><line x1=\"330\" y1=\"65\" x2=\"350\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"360\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"430\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Method 3: Mobile B</text><line x1=\"500\" y1=\"65\" x2=\"520\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"530\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"600\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Method 4: Bank Bra</text></svg>",
+ "caption": "Steps to follow",
+ "description": "Visual guide to the process."
+ },
+ {
+ "type": "text",
+ "heading": "Why Aadhaar-bank linking is essential - not optional",
+ "icon": "📋",
+ "content": [
+ "Every government benefit payment - PM-KISAN (Rs 6,000/year), LPG subsidy (Rs 200/cylinder), MGNREGA wages, scholarships, pensions, Ladli Behna (Rs 1,250/month), and 100+ other DBT schemes - is routed through your Aadhaar-linked bank account. If your bank account is not linked to Aadhaar, the DBT payment fails silently - the money is sent back to the government without reaching you.",
+ "You may not even know you missed a payment.",
+ "RBI mandates Aadhaar-bank linking for opening new bank accounts since 2017. For existing accounts, linking was strongly recommended (not mandatory for all - but mandatory for receiving DBT).",
+ "Practically, not linking means: no government benefit payments, no LPG subsidy, no scholarship credit, and difficulty in some banking transactions that require Aadhaar verification (like large cash withdrawals above Rs 50,000).",
+ "The linking is a one-time process - takes 2-5 minutes and doesn't need annual renewal. Once linked, all DBT payments are automatically routed to your account through the Aadhaar Payment Bridge System (APBS).",
+ "Your Aadhaar acts as a financial address - the government sends money to your Aadhaar number, and NPCI routes it to your linked bank account."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "Method 1 - Link through net banking (fastest) - Alternative Approach",
+ "icon": "💻",
+ "content": [
+ "Step 1: Log in to your bank's net banking portal (SBI: onlinesbi.sbi, HDFC: netbanking.hdfcbank.com, ICICI: infinity.icicibank.com, PNB: netpnb.com). Navigate to: Profile → Aadhaar Linking or Service Requests → Aadhaar Seeding. The exact menu path varies by bank.",
+ "Step 2: Enter your 12-digit Aadhaar number. The system verifies the Aadhaar with UIDAI in real-time.",
+ "If your name and DOB match between bank records and Aadhaar, linking is approved instantly. If there's a minor name mismatch, the system may ask for OTP verification on your Aadhaar-registered mobile.",
+ "Step 3: After successful linking, you receive an SMS confirmation from the bank. Verify at your bank's net banking portal - your profile should show 'Aadhaar Linked: Yes.' The entire process takes 2-5 minutes from your phone or laptop. No branch visit needed."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "Method 2 - Link through ATM",
+ "icon": "🏧",
+ "content": [
+ "Step 1: Visit any ATM of your bank. Insert your debit card and enter your PIN. Select 'Services' or 'Registration' from the main menu. Look for 'Aadhaar Registration' or 'Aadhaar Linking' option.",
+ "Step 2: Enter your 12-digit Aadhaar number using the ATM keypad. Confirm the number (re-enter for verification). The ATM processes the linking request. You receive a confirmation slip from the ATM printer.",
+ "Step 3: SMS confirmation follows within 24-48 hours. The ATM method is available for SBI, PNB, BOB, Canara Bank, and most public sector banks. Some private bank ATMs don't have this option - use net banking or branch visit instead. Total time: 2 minutes at the ATM."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "Method 3 - Link at bank branch - Alternative Approach",
+ "icon": "🏛️",
+ "content": [
+ "Step 1: Visit your bank branch. Carry: Aadhaar card (original), bank passbook or debit card, and a photocopy of Aadhaar. Ask the counter staff for the Aadhaar seeding/linking form.",
+ "Step 2: Fill the form - your name (as in bank records), account number, Aadhaar number, and mobile number. Submit with the Aadhaar photocopy. The bank staff processes the linking and provides an acknowledgment receipt.",
+ "Step 3: Linking is processed within 3-7 working days. SMS confirmation is sent to your registered mobile. This method is best for people who don't use net banking or ATMs - especially senior citizens and rural account holders. The branch staff assists with the entire process.",
+ "For Jan Dhan account holders: If you opened a Jan Dhan account without Aadhaar (some early Jan Dhan accounts didn't require Aadhaar), visit the branch with your Aadhaar for linking. This is critical - all DBT payments to Jan Dhan accounts require Aadhaar linkage.",
+ "Without linking, your PM-KISAN, LPG subsidy, and other benefits fail."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "How to check if Aadhaar is linked to your bank account",
+ "icon": "🔍",
+ "content": [
+ "Method 1 - NPCI mapper: Visit resident.uidai.gov.in/bank-mapper → enter your Aadhaar number → OTP verification → the portal shows which bank account is currently mapped to your Aadhaar. This is the most reliable check because it queries the actual NPCI Aadhaar Payment Bridge database used for DBT routing.",
+ "Method 2 - Ask your bank: Call your bank's customer care or visit the branch. Ask 'Is my account number [your number] linked with Aadhaar [your number]?' The bank's CRM can verify the linking status instantly. Some banks show Aadhaar linking status in net banking → Profile section.",
+ "Method 3 - Check DBT credit: If you receive any government benefit (PM-KISAN, LPG subsidy, scholarship), your Aadhaar-bank linking is working. The successful DBT credit is the best proof of active linkage. Check your passbook for recent DBT credits.",
+ "Common issue - Aadhaar linked to wrong bank account: If you have multiple bank accounts and linked Aadhaar to the wrong one, your DBT goes to the wrong account. Fix: visit the CORRECT bank branch and re-link Aadhaar.",
+ "The new linking overrides the old one. The last-linked account becomes the active DBT destination.",
+ "Allow 7 days for the update to reflect in the NPCI mapper."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "Multiple bank accounts - which one gets linked?",
+ "icon": "🏦",
+ "content": [
+ "You can have only ONE bank account linked to Aadhaar for DBT at a time. If you have accounts in SBI, HDFC, and PNB, only ONE receives government payments.",
+ "The most recently linked account becomes the active DBT destination. Choose the account you use most frequently - ideally the one where your savings are and which you check regularly.",
+ "Linking process for switching: Simply link Aadhaar to the new bank account (any method - net banking, ATM, or branch). The new linking automatically delinks the old account from Aadhaar DBT routing.",
+ "No need to formally 'delink' from the old bank - the system handles it. The switch takes 3-7 days to reflect.",
+ "Salary account vs savings account: If you have a company salary account and a personal savings account, link Aadhaar to your PERSONAL savings account. Salary accounts may be closed when you leave the company - if your Aadhaar is linked to a closed account, all DBT payments fail.",
+ "Personal savings accounts are permanent and under your control.",
+ "Joint accounts: Aadhaar can be linked to a joint account, but the Aadhaar holder must be either the first or second account holder. DBT payments are credited regardless of whether the account is single or joint. However, for clarity and control, linking to a single-holder account is recommended."
+ ]
+ },
+ {
+ "type": "text",
+ "heading": "Troubleshooting - common linking failures",
+ "icon": "🔧",
+ "content": [
+ "Name mismatch: Your name in bank records says 'Rajesh Kumar' but Aadhaar says 'Rajesh Kumar Singh.' The system rejects the linking. Fix: update the shorter name to match - either update bank name (easier - submit KYC form with Aadhaar as name proof) or update Aadhaar name (takes 7-15 days at myaadhaar.uidai.gov.in).",
+ "After name correction, retry linking.",
+ "Mobile number not registered with Aadhaar: Net banking and ATM methods may require OTP on Aadhaar-registered mobile. If your mobile isn't linked to Aadhaar, use the branch method (no OTP needed - physical Aadhaar verification by bank staff).",
+ "Or update your Aadhaar mobile first at the nearest enrollment center.",
+ "Bank account inactive/dormant: If your bank account has been inactive for 24+ months, the bank classifies it as dormant. Aadhaar linking may fail or DBT routing is blocked for dormant accounts.",
+ "Fix: visit the branch, make a small transaction (Rs 100 deposit) to reactivate, then retry Aadhaar linking. Keep making at least 1 transaction every 3 months to prevent re-dormancy.",
+ "Technical failure - retry after 24 hours: Sometimes the UIDAI server is overloaded and linking requests fail with a technical error. Don't panic - wait 24 hours and retry.",
+ "If it fails repeatedly for 3+ days, visit the branch for manual linking. The branch method doesn't depend on real-time UIDAI verification - it's processed in batch mode and handles server issues gracefully."
+ ]
+ },
+ {
+ "type": "callout",
+ "heading": "Official Sources & References",
+ "icon": "📖",
+ "variant": "info",
+ "content": "Source: UIDAI (Unique Identification Authority of India). All information on this page has been verified against official government notifications and regulatory circulars. For the latest updates, always check the official portal."
+ },
+ {
+ "type": "callout",
+ "variant": "tip",
+ "heading": "Check your Aadhaar-bank mapping at resident.uidai.gov.in",
+ "content": "Many people THINK their Aadhaar is linked to their bank account but it's actually linked to a different account (or not linked at all). Verify at resident.uidai.gov.in/bank-mapper → enter Aadhaar → OTP → see which bank account is currently mapped. If it shows the wrong account or 'No bank linked,' fix it immediately - every failed DBT payment is money lost."
+ },
+ {
+ "type": "callout",
+ "variant": "warning",
+ "heading": "Link to your personal account - NOT salary account",
+ "content": "If you link Aadhaar to your company salary account, all government benefits (PM-KISAN, LPG subsidy, scholarships) go there. When you leave the company, the salary account may be closed - and all your DBT payments start failing. Always link Aadhaar to your personal savings account that you control permanently, regardless of employment status."
+ },
+ {
+ "type": "pullquote",
+ "text": "Rs 6.3 lakh crore in government benefits are routed through Aadhaar-linked bank accounts annually - PM-KISAN, MGNREGA wages, LPG subsidy, scholarships, pensions, and 300+ schemes. If your bank account isn't linked to Aadhaar, you're invisible to this entire payment system. A 2-minute linking process connects you to Rs 6.3 lakh crore worth of government transfers. Do it today."
+ }
+ ],
+ "faqs": [
+ {
+ "question": "I linked Aadhaar with my ICICI account in January. Can I link the same Aadhaar with my SBI account in March?",
+ "answer": "Yes, you can link the same Aadhaar to multiple banks. However, for NPCI/DBT purposes, SBI will become your PRIMARY account from March onwards. All future DBT payments go to SBI. Previous payments received in ICICI remain in ICICI account. The January payment in ICICI won't move to SBI."
+ },
+ {
+ "question": "My Aadhaar-bank linking shows successful in net banking, but I'm still not receiving government payments. Why?",
+ "answer": "Possible reasons: (1) Bank linking is confirmed, but government's database still has you mapped to an old bank account - wait 5-10 days for systems to sync. (2) You're not actually eligible for the scheme (check eligibility criteria). (3) Your name in Aadhaar doesn't match government's records (name mismatch). (4) Your Aadhaar account is not seeded correctly on NPCI's end - contact bank to re-seed. (5) Government payment for that month hasn't been processed yet (e.g., PM Kisan is usually April and November). Call your bank's customer service for specific guidance."
+ },
+ {
+ "question": "I received a government payment in Bank A, but I linked Aadhaar to Bank B. Will future payments come to Bank B?",
+ "answer": "Yes. The payment received in Bank A was before your Aadhaar-Bank B linking. Future DBT payments will go to Bank B (your current linked account). The past payment in Bank A remains there. You now have that money in Bank A and future money in Bank B. This is why it's important to link Aadhaar to the same bank account and not switch."
+ },
+ {
+ "question": "Can I verify if my Aadhaar is linked to my bank account before any DBT payment comes?",
+ "answer": "Yes, you can verify: (1) Login to your bank's net banking and check Profile/Aadhaar section - if Aadhaar is shown, it's linked. (2) Call your bank's customer service and ask 'Is my Aadhaar linked to account [account number]?' (3) Check at NPCI's Aadhaar Mapper (if available in your region/state). (4) Wait for next government payment cycle - if it lands in your account, linking worked."
+ },
+ {
+ "question": "Bank's ATM doesn't show 'Aadhaar Registration' option. Is my bank outdated?",
+ "answer": "Not necessarily. Some banks have the feature only at newer ATMs. Alternatively, some banks may have it under different menu names. Try: (1) Different ATM of the same bank, (2) Net banking (fastest method anyway), (3) Mobile app, (4) Visit branch for manual linking. Most banks have at least one of these methods."
+ },
+ {
+ "question": "I got SMS saying 'Aadhaar seeded successfully' but my bank's net banking doesn't show Aadhaar number. Is it linked?",
+ "answer": "Yes, it's linked. SMS from NPCI is the official confirmation. Some bank portals don't display the Aadhaar number in Profile (for privacy reasons), even though it's linked. The linking is confirmed by NPCI's SMS. Your bank account will now receive DBT payments to your Aadhaar."
+ },
+ {
+ "question": "My spouse has a separate bank account. Do they need to link Aadhaar separately?",
+ "answer": "Yes, absolutely. Each person has their own Aadhaar and should link it to their own bank account. Your spouse's Aadhaar is separate from yours. They should link their Aadhaar to their account for government payments under their name (e.g., if wife is eligible for scheme, her Aadhaar → her bank account)."
+ },
+ {
+ "question": "How to link Aadhaar to bank account online?",
+ "answer": "Login to your bank's net banking portal → find 'Aadhaar Linking' or 'Aadhaar Seeding' in services/profile → enter 12-digit Aadhaar → verify with OTP on Aadhaar-registered mobile → linked within 24-48 hours. Works for SBI, PNB, HDFC, ICICI, Axis, BOB, Canara, and most scheduled banks. If net banking isn't activated, use the bank's mobile app or visit the branch."
+ },
+ {
+ "question": "Is Aadhaar-bank linking mandatory?",
+ "answer": "Mandatory for receiving any government subsidy or DBT payment. Also required for opening new bank accounts under RBI KYC norms. If your account was opened before Aadhaar became mandatory, you must link subsequently - the bank may freeze your account if not linked within the deadline specified by your bank. Link proactively to avoid any disruption."
+ },
+ {
+ "question": "Can I link Aadhaar to multiple bank accounts?",
+ "answer": "You can seed Aadhaar in multiple bank accounts for KYC purposes. However, only ONE account is designated as the 'primary' account for DBT (Direct Benefit Transfer) through the NPCI mapper. Government subsidies are credited only to this primary account. To change the primary account, submit a fresh Aadhaar seeding request at the desired bank - it overrides the previous mapping."
+ },
+ {
+ "question": "How long does Aadhaar-bank linking take?",
+ "answer": "Net banking/mobile app: 24-48 hours for activation after submission. ATM: 24-48 hours. Branch visit: 24-48 hours (sometimes instant if the branch processes immediately). You can verify the status after 48 hours at resident.uidai.gov.in or by asking at your bank branch."
+ },
+ {
+ "question": "How to link Aadhaar with bank account online?",
+ "answer": "Log in to your bank's net banking → Profile/Service Requests → Aadhaar Linking → enter your 12-digit Aadhaar number → verify with OTP → done. Takes 2-5 minutes. Available for all major banks. For banks without online linking: visit the branch with Aadhaar original + photocopy."
+ },
+ {
+ "question": "Is Aadhaar-bank linking mandatory?",
+ "answer": "Mandatory for receiving any DBT (Direct Benefit Transfer) payment from the government - PM-KISAN, LPG subsidy, MGNREGA, scholarships, pensions. Not strictly mandatory for regular banking transactions, but RBI strongly recommends it. Practically, without linking, you miss out on all government benefit payments."
+ },
+ {
+ "question": "Can I link Aadhaar to multiple bank accounts?",
+ "answer": "Yes - you can link Aadhaar to multiple accounts for KYC purposes. But for DBT routing (government payments), only ONE account is the active destination at a time - the most recently linked one. If you link Aadhaar to a new bank, it becomes the primary DBT account automatically."
+ },
+ {
+ "question": "How long does Aadhaar-bank linking take?",
+ "answer": "Net banking: Instant (2-5 minutes). ATM: 24-48 hours for confirmation. Bank branch: 3-7 working days. The linking is a one-time process - no renewal needed. After linking, verify at resident.uidai.gov.in/bank-mapper to confirm the correct account is mapped."
+ }
+ ],
+ "disclaimer": "Aadhaar-bank linking procedures may vary by bank and are subject to NPCI regulations. This guide reflects procedures as of March 2026. Always verify with your bank for latest process.",
+ "related_pages": [
+ {
+ "title": "How to Update Aadhaar Card",
+ "slug": "aadhaar-update",
+ "tag": "Aadhaar",
+ "url": "/guide/aadhaar-update"
+ },
+ {
+ "title": "Link Aadhaar with PAN",
+ "slug": "link-aadhaar-pan",
+ "tag": "Aadhaar",
+ "url": "/guide/link-aadhaar-pan"
+ },
+ {
+ "title": "PM Kisan Samman Nidhi",
+ "slug": "pm-kisan",
+ "tag": "Agriculture",
+ "url": "/yojana/pm-kisan"
+ },
+ {
+ "title": "PM Jan Dhan Yojana",
+ "slug": "pm-jan-dhan-yojana",
+ "tag": "Banking",
+ "url": "/yojana/pm-jan-dhan-yojana"
+ }
+ ],
+ "tags": [
+ "Aadhaar",
+ "Bank Linking",
+ "DBT",
+ "Government Payments",
+ "Net Banking",
+ "NPCI"
+ ],
+ "image_suggestions": [
+ "Net banking screenshot showing 'Link Aadhaar' option",
+ "Mobile app interface with Aadhaar linking feature",
+ "ATM screen showing 'Aadhaar Registration' menu",
+ "Bank branch form (Aadhaar Seeding Form) example",
+ "NPCI confirmation SMS example",
+ "DBT payment flow diagram showing Aadhaar → Bank → Account",
+ "Comparison of 4 linking methods (speed, ease, requirements)"
+ ],
+ "last_reviewed": "May 2026"
+}

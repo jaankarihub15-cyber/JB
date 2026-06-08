@@ -1,0 +1,108 @@
+{
+  "slug": "upsc",
+  "exam_name": "UPSC Civil Services",
+  "title": "Best Books for UPSC 2026: Subject-Wise Prelims & Mains",
+  "meta_description": "Best books for UPSC 2026, subject-wise. NCERT foundation then standard books: Laxmikanth, Spectrum, GC Leong, Ramesh Singh, Shankar IAS. Neutral, no coaching pitch.",
+  "hero": {
+    "one_liner": "A neutral, subject-wise UPSC booklist. Start with NCERTs, then move to standard books. We explain what each book covers and where it fits.",
+    "icon": "🏛️",
+    "updated_date": "June 2026",
+    "stats": [
+      { "label": "Core books", "value": "12-15" },
+      { "label": "Approach", "value": "NCERT first" },
+      { "label": "Editions", "value": "2026" }
+    ]
+  },
+  "intro": [
+    "There are more UPSC booklists online than questions UPSC has ever asked. The honest truth is you need about 12 to 15 core books, not fifty.",
+    "This list is neutral. We do not sell a test series, so there is no hidden agenda to push you toward paid material.",
+    "The rule every topper repeats: read NCERTs first to build the base, then one standard book per subject, and revise each two to three times. Depth beats breadth."
+  ],
+  "reading_order": [
+    { "step": 1, "title": "NCERTs (Class 6-12)", "description": "Build the foundation in History, Geography, Polity, Economy, and Science. Free PDFs on the NCERT site." },
+    { "step": 2, "title": "Standard books", "description": "One per subject: Laxmikanth, Spectrum, GC Leong, Ramesh Singh, Shankar IAS." },
+    { "step": 3, "title": "Current affairs + PYQs", "description": "A newspaper, a monthly compilation, and 10-12 years of previous year questions." }
+  ],
+  "subjects": [
+    {
+      "id": "polity",
+      "name": "Polity",
+      "icon": "⚖️",
+      "intro": "Polity is the most scoring GS subject in Prelims, with 15 to 18 questions, most of them factual.",
+      "books": [
+        { "title": "NCERT Political Science (Class 9-12)", "author": "NCERT", "price_approx": "Free PDF", "tier": "ncert", "priority": "must", "beginner_friendly": true, "why": "Builds the base on the Constitution and political system before you touch Laxmikanth. Skipping this makes the standard book confusing." },
+        { "title": "Indian Polity", "author": "M. Laxmikanth", "publisher": "McGraw Hill", "price_approx": "₹750", "tier": "standard", "priority": "must", "beginner_friendly": true, "why": "The single most recommended UPSC book. Covers around 80% of Prelims and GS-2 polity questions. Read it three to four times." },
+        { "title": "Introduction to the Constitution of India", "author": "DD Basu", "publisher": "LexisNexis", "price_approx": "₹650", "tier": "standard", "priority": "optional", "why": "Deeper and more legal than Laxmikanth. Best as a supplement for the Political Science optional, not a starting point for beginners." }
+      ]
+    },
+    {
+      "id": "history",
+      "name": "History",
+      "icon": "📜",
+      "intro": "History spans ancient, medieval, modern, and art and culture. Modern history and culture carry the most Prelims weight.",
+      "books": [
+        { "title": "NCERT History (Class 6-12)", "author": "NCERT", "price_approx": "Free PDF", "tier": "ncert", "priority": "must", "beginner_friendly": true, "why": "Ancient to modern foundation. The Class 11 and 12 books are especially important for modern history." },
+        { "title": "A Brief History of Modern India", "author": "Rajiv Ahir (Spectrum)", "publisher": "Spectrum", "price_approx": "₹450", "tier": "standard", "priority": "must", "beginner_friendly": true, "why": "The standard for modern history and the freedom struggle. Spectrum plus NCERT is sufficient for Prelims." },
+        { "title": "Indian Art and Culture", "author": "Nitin Singhania", "publisher": "McGraw Hill", "price_approx": "₹550", "tier": "standard", "priority": "must", "why": "The universally used reference for the art and culture portion of both Prelims and Mains." }
+      ]
+    },
+    {
+      "id": "geography",
+      "name": "Geography",
+      "icon": "🌍",
+      "intro": "Geography covers physical, Indian, and world geography. Always read it with an atlas open.",
+      "books": [
+        { "title": "NCERT Geography (Class 6-12)", "author": "NCERT", "price_approx": "Free PDF", "tier": "ncert", "priority": "must", "beginner_friendly": true, "why": "Physical and Indian geography base. Build conceptual clarity here before the standard text." },
+        { "title": "Certificate Physical and Human Geography", "author": "GC Leong", "publisher": "Oxford", "price_approx": "₹350", "tier": "standard", "priority": "must", "beginner_friendly": true, "why": "The standard physical geography reference for UPSC. Clear and exam-oriented." },
+        { "title": "Oxford Student Atlas for India", "author": "Oxford", "publisher": "Oxford", "price_approx": "₹400", "tier": "standard", "priority": "recommended", "why": "Essential for map practice. Locate every physical feature as you read about it, ten minutes daily." }
+      ]
+    },
+    {
+      "id": "economy",
+      "name": "Economy",
+      "icon": "💰",
+      "intro": "Economy matters for Prelims and GS-3 Mains. NCERT builds basics, the standard book adds applied depth.",
+      "books": [
+        { "title": "NCERT Indian Economic Development (Class 11)", "author": "NCERT", "price_approx": "Free PDF", "tier": "ncert", "priority": "must", "beginner_friendly": true, "why": "Builds core economic concepts before the heavier standard text." },
+        { "title": "Indian Economy", "author": "Ramesh Singh", "publisher": "McGraw Hill", "price_approx": "₹800", "tier": "standard", "priority": "must", "why": "The most common choice, bulky but complete. Sanjiv Verma is a leaner alternative if you find it heavy." }
+      ]
+    },
+    {
+      "id": "environment",
+      "name": "Environment",
+      "icon": "🌱",
+      "intro": "Environment has gained importance in recent Prelims. One book covers most of it.",
+      "books": [
+        { "title": "Environment", "author": "Shankar IAS", "publisher": "Shankar IAS Academy", "price_approx": "₹500", "tier": "standard", "priority": "must", "beginner_friendly": true, "why": "The single most-read Prelims-specific environment book. Pair it with the ecology chapters of NCERT Class 12 Biology." }
+      ]
+    },
+    {
+      "id": "ethics",
+      "name": "Ethics (GS-4)",
+      "icon": "🧭",
+      "intro": "Ethics is a Mains-only paper (GS-4). A reference book plus case study practice is the formula.",
+      "books": [
+        { "title": "Ethics, Integrity and Aptitude", "author": "Lexicon (Niraj Kumar)", "publisher": "Lexicon", "price_approx": "₹500", "tier": "standard", "priority": "must", "why": "A widely used GS-4 reference. Subba Rao's Ethics is a common alternative. Practice three case studies a week alongside." }
+      ]
+    }
+  ],
+  "buying_tips": [
+    "Buy print for the main concept books you will revise five times, like Laxmikanth, Spectrum, and Ramesh Singh. Print is faster to revise.",
+    "Use free PDFs for NCERTs, current affairs, and previous year papers. There is no need to buy these.",
+    "A complete UPSC bookshelf for 2026 costs roughly ₹4,000 to ₹6,000. Anything beyond that is usually hoarding, not preparing."
+  ],
+  "faqs": [
+    { "question": "Is Laxmikanth alone enough for Polity?", "answer": "For Prelims, yes, if you read it three to four times. It covers around 80% of polity questions.<br><br>Add DD Basu only if you take Political Science as your optional." },
+    { "question": "Do I need both NCERT and the standard book for each subject?", "answer": "Yes. NCERT builds the conceptual base and the standard book adds the depth UPSC tests.<br><br>Jumping straight to Laxmikanth or Ramesh Singh without NCERT leaves gaps that hurt later." },
+    { "question": "How many books do I actually need for UPSC Prelims?", "answer": "About 12 to 15 core books plus current affairs and previous year papers.<br><br>Buying 50 books is the most expensive form of procrastination. Stick to one per subject and revise." },
+    { "question": "Which book is best for UPSC modern history?", "answer": "A Brief History of Modern India by Rajiv Ahir, commonly called Spectrum, is the standard.<br><br>Spectrum plus NCERT is sufficient for the Prelims modern history portion." },
+    { "question": "Are NCERTs available free?", "answer": "Yes, all NCERT books are free as PDFs on the official NCERT website.<br><br>Many aspirants still buy print NCERTs for easier revision, which is a personal choice." },
+    { "question": "Should I buy books in Hindi or English?", "answer": "Choose the language you are most comfortable reading and answering in. Most standard books are available in both.<br><br>Your medium does not affect your chances; comfort and revision do." },
+    { "question": "Is GC Leong enough for Geography?", "answer": "For physical geography, GC Leong plus NCERT is enough for Prelims. Always read it with an atlas open.<br><br>For Indian and world geography depth in Mains, supplement with the NCERTs and an atlas." },
+    { "question": "How many times should I revise each book?", "answer": "Two to three times minimum for most books, and more for high-yield ones like Laxmikanth.<br><br>UPSC rewards revision, not the number of books you own." }
+  ],
+  "disclaimer": "Book prices and editions are approximate and last checked in June 2026. Confirm the latest edition before buying. This is an independent guide and not affiliated with UPSC or any publisher.",
+  "related_exam_slug": "upsc",
+  "tags": ["UPSC", "Books", "Civil Services", "Prelims", "Mains"],
+  "last_reviewed": "June 2026"
+}
