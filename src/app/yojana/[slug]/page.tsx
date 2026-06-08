@@ -290,7 +290,8 @@ export default async function SchemeDetailPage({ params }: Props) {
     "bihar-student-credit-card": { src: "/infographics/bihar-student-credit-card.png", alt: "Bihar Student Credit Card 2026: Rs 4 lakh education loan, DRCC apply infographic", width: 1600, height: 3210 },
     "kanya-sumangala-yojana": { src: "/infographics/kanya-sumangala-yojana.png", alt: "Kanya Sumangala Yojana MKSY 2026: Rs 25,000 in 6 installments infographic", width: 1600, height: 3464 },
     "amma-vodi": { src: "/infographics/amma-vodi.png", alt: "Amma Vodi Thalliki Vandanam 2026: Rs 15,000 annual benefit infographic", width: 1600, height: 3374 },
-    "gruha-lakshmi": { src: "/infographics/gruha-lakshmi.jpg", alt: "Gruha Lakshmi Karnataka 2026: Rs 2,000 monthly cash transfer for women heads of household, eligibility, documents, apply via Seva Sindhu, vs other state schemes infographic", width: 2714, height: 16000 }
+    "gruha-lakshmi": { src: "/infographics/gruha-lakshmi.jpg", alt: "Gruha Lakshmi Karnataka 2026: Rs 2,000 monthly cash transfer for women heads of household, eligibility, documents, apply via Seva Sindhu, vs other state schemes infographic", width: 2714, height: 16000 },
+    "orunodoi-assam-beneficiary-list": { src: "/infographics/orunodoi-assam-beneficiary-list.png", alt: "Orunodoi Assam 3.0 2026: Rs 1,250 monthly cash transfer for 38 lakh women, eligibility, beneficiary list and status check infographic", width: 1319, height: 8000 },
   };
         const info = infographicMap[slug];
         if (!info) return null;
