@@ -1,8 +1,7 @@
 import type { Metadata } from "next";
-import { CalcHero } from "@/components/calc-hero";
 import { PhotoResizer } from "@/components/tools/photo-resizer";
 import { JsonLd, faqSchema, breadcrumbSchema } from "@/components/json-ld";
-import { Breadcrumb, SectionHeading, FAQ } from "@/components/ui";
+import { Breadcrumb, SectionHeading, FAQ, Card } from "@/components/ui";
 
 export const metadata: Metadata = {
   title: "Photo & Signature Resizer - Resize to 50KB, 20KB Online Free",
@@ -35,13 +34,28 @@ export default function PhotoResizerPage() {
       />
       <Breadcrumb items={[{ label: "Home", href: "/" }, { label: "Tools", href: "/tools" }, { label: "Photo Resizer" }]} />
 
-      <CalcHero
-        icon="🖼️"
-        title="Photo & Signature Resizer"
-        tagline="Resize any photo or signature to 50KB, 20KB, or any size you need for exam and job forms. Free, instant, and private."
-        chips={["50KB photo", "20KB signature", "Works on mobile", "Never uploaded"]}
-        updated="June 2026"
-      />
+      <div className="mt-4 mb-6 bg-accent-light border border-accent/20 rounded-3xl p-6">
+        <div className="flex items-center gap-4 mb-3">
+          <div className="w-14 h-14 rounded-2xl bg-white flex items-center justify-center text-3xl shrink-0 border border-accent/10">
+            🖼️
+          </div>
+          <div>
+            <h1 className="text-2xl font-extrabold tracking-tight text-text">Photo &amp; Signature Resizer</h1>
+            <p className="text-xs text-text-muted mt-1">Updated: June 2026 · By Ash K.</p>
+          </div>
+        </div>
+        <p className="text-sm text-text-secondary mb-4 leading-relaxed">
+          Resize any photo or signature to 50KB, 20KB, or any size you need for exam and job forms.
+          Free, instant, and private.
+        </p>
+        <div className="flex flex-wrap gap-2">
+          {["50KB photo", "20KB signature", "Works on mobile", "Never uploaded"].map((c) => (
+            <span key={c} className="text-xs font-semibold px-3 py-1.5 rounded-full bg-white text-accent-dark border border-accent/10">
+              {c}
+            </span>
+          ))}
+        </div>
+      </div>
 
       <PhotoResizer />
 
@@ -66,11 +80,11 @@ export default function PhotoResizerPage() {
 
       <div className="mt-8" id="faqs">
         <SectionHeading icon="❓">Frequently Asked Questions</SectionHeading>
-        <div className="card">
+        <Card>
           {faqs.map((f) => (
             <FAQ key={f.question} question={f.question} answer={f.answer} />
           ))}
-        </div>
+        </Card>
       </div>
 
       <p className="mt-6 text-xs text-text-muted leading-relaxed text-center">
