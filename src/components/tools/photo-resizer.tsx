@@ -17,6 +17,43 @@ const PRESETS: Record<Mode, { label: string; w: number; h: number; kb: number; n
   ],
 };
 
+function applyUnsharpMask(
+  ctx: CanvasRenderingContext2D,
+  w: number,
+  h: number,
+  amount: number
+) {
+  const src = ctx.getImageData(0, 0, w, h);
+  const s = src.data;
+  const out = ctx.createImageData(w, h);
+  const o = out.data;
+  // 3x3 gaussian-ish blur, then sharpen = original + amount*(original - blurred)
+  const k = [1, 2, 1, 2, 4, 2, 1, 2, 1];
+  const kSum = 16;
+  for (let y = 0; y < h; y++) {
+    for (let x = 0; x < w; x++) {
+      const idx = (y * w + x) * 4;
+      for (let c = 0; c < 3; c++) {
+        let acc = 0;
+        let ki = 0;
+        for (let dy = -1; dy <= 1; dy++) {
+          for (let dx = -1; dx <= 1; dx++) {
+            const px = Math.min(w - 1, Math.max(0, x + dx));
+            const py = Math.min(h - 1, Math.max(0, y + dy));
+            acc += s[(py * w + px) * 4 + c] * k[ki++];
+          }
+        }
+        const blurred = acc / kSum;
+        const orig = s[idx + c];
+        const val = orig + amount * (orig - blurred);
+        o[idx + c] = val < 0 ? 0 : val > 255 ? 255 : val;
+      }
+      o[idx + 3] = s[idx + 3];
+    }
+  }
+  ctx.putImageData(out, 0, 0);
+}
+
 function bytesToKb(b: number) {
   return Math.round((b / 1024) * 10) / 10;
 }
@@ -30,6 +67,7 @@ export function PhotoResizer() {
   const [targetH, setTargetH] = useState(230);
   const [targetKb, setTargetKb] = useState(50);
   const [format, setFormat] = useState<"jpeg" | "png">("jpeg");
+  const [sharpen, setSharpen] = useState(true);
   const [outUrl, setOutUrl] = useState<string>("");
   const [outKb, setOutKb] = useState<number>(0);
   const [outW, setOutW] = useState<number>(0);
@@ -85,6 +123,41 @@ export function PhotoResizer() {
 
     await new Promise((r) => setTimeout(r, 30));
 
+    // Step-down resize: halve repeatedly toward target to preserve detail,
+    // instead of one large jump which softens the image.
+    const scale = Math.max(targetW / img.width, targetH / img.height);
+    const finalDw = Math.round(img.width * scale);
+    const finalDh = Math.round(img.height * scale);
+
+    let cur = document.createElement("canvas");
+    cur.width = img.width;
+    cur.height = img.height;
+    let cctx = cur.getContext("2d");
+    if (!cctx) {
+      setWarn("Your browser could not process the image.");
+      setWorking(false);
+      return;
+    }
+    cctx.drawImage(img, 0, 0);
+
+    let curW = img.width;
+    let curH = img.height;
+    while (curW * 0.5 > finalDw && curH * 0.5 > finalDh) {
+      const nW = Math.round(curW * 0.5);
+      const nH = Math.round(curH * 0.5);
+      const next = document.createElement("canvas");
+      next.width = nW;
+      next.height = nH;
+      const nctx = next.getContext("2d");
+      if (!nctx) break;
+      nctx.imageSmoothingEnabled = true;
+      nctx.imageSmoothingQuality = "high";
+      nctx.drawImage(cur, 0, 0, nW, nH);
+      cur = next;
+      curW = nW;
+      curH = nH;
+    }
+
     const canvas = document.createElement("canvas");
     canvas.width = targetW;
     canvas.height = targetH;
@@ -98,14 +171,20 @@ export function PhotoResizer() {
       ctx.fillStyle = "#ffffff";
       ctx.fillRect(0, 0, targetW, targetH);
     }
-
-    const scale = Math.max(targetW / img.width, targetH / img.height);
-    const dw = img.width * scale;
-    const dh = img.height * scale;
-    const dx = (targetW - dw) / 2;
-    const dy = (targetH - dh) / 2;
+    const dx = (targetW - finalDw) / 2;
+    const dy = (targetH - finalDh) / 2;
+    ctx.imageSmoothingEnabled = true;
     ctx.imageSmoothingQuality = "high";
-    ctx.drawImage(img, dx, dy, dw, dh);
+    ctx.drawImage(cur, dx, dy, finalDw, finalDh);
+
+    // Light unsharp mask to counteract downscale softening (toggle-controlled).
+    if (sharpen) {
+      try {
+        applyUnsharpMask(ctx, targetW, targetH, 0.6);
+      } catch {
+        // if pixel access fails for any reason, skip sharpening silently
+      }
+    }
 
     const targetBytes = targetKb * 1024;
     const mime = format === "jpeg" ? "image/jpeg" : "image/png";
@@ -118,13 +197,15 @@ export function PhotoResizer() {
     if (format === "png") {
       finalBlob = await blobAt(1);
     } else {
+      // Find the HIGHEST quality that still fits under the target size.
       let lo = 0.1;
       let hi = 0.95;
       let best: Blob | null = await blobAt(hi);
       if (best && best.size <= targetBytes) {
         finalBlob = best;
       } else {
-        for (let i = 0; i < 8; i++) {
+        best = null;
+        for (let i = 0; i < 9; i++) {
           const mid = (lo + hi) / 2;
           const b = await blobAt(mid);
           if (!b) break;
@@ -159,7 +240,7 @@ export function PhotoResizer() {
     setOutW(targetW);
     setOutH(targetH);
     setWorking(false);
-  }, [targetW, targetH, targetKb, format]);
+  }, [targetW, targetH, targetKb, format, sharpen]);
 
   const download = () => {
     if (!outUrl) return;
@@ -286,6 +367,19 @@ export function PhotoResizer() {
           {format === "jpeg" ? "Best for photos, smaller files" : "Best for signatures, no compression"}
         </span>
       </div>
+
+      <label className="flex items-center gap-2.5 mb-4 cursor-pointer select-none">
+        <input
+          type="checkbox"
+          checked={sharpen}
+          onChange={(e) => setSharpen(e.target.checked)}
+          className="w-4 h-4 accent-[var(--color-accent,#1B6B4A)]"
+        />
+        <span className="text-sm text-text">
+          Sharpen after resize
+          <span className="text-xs text-text-muted ml-1">(keeps small photos crisp, recommended)</span>
+        </span>
+      </label>
 
       <button
         onClick={resize}
