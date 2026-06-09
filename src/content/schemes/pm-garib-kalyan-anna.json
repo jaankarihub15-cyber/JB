@@ -1,610 +1,608 @@
 {
- "slug": "pm-garib-kalyan-anna",
- "title": "PM Garib Kalyan Anna Yojana: Free Food Grains for 81 Crore People",
- "meta_description": "Get free rations under PM Garib Kalyan Anna Yojana: 5kg rice/wheat + 1kg dal monthly. Eligibility, portability & how to apply.",
- "hero": {
- "status": "active",
- "one_liner": "Free monthly rations for 81 crore poor families across India till December 2028",
- "icon": "🌾",
- "updated_date": "May 2026",
- "stats": [
- {
- "label": "Beneficiaries",
- "value": "81.35 crore"
- },
- {
- "label": "Free Rations Till",
- "value": "December 2028"
- },
- {
- "label": "Allocation",
- "value": "₹2,03,000 crore (2025-26)"
- }
- ]
- },
- "quick_actions": [
- {
- "icon": "🏪",
- "label": "Find Fair Price Shop",
- "url": "https://nfsa.gov.in/"
- },
- {
- "icon": "🆔",
- "label": "Check Your ONORC Status",
- "url": "https://nfsa.gov.in/"
- },
- {
- "icon": "📞",
- "label": "Report Issues",
- "url": "https://nfsa.gov.in/"
- }
- ],
- "what_is_it": [
- "The PM Garib Kalyan Anna Yojana (PMGKAY) is the world's largest free food program. The government gives every poor family in India free rice or wheat and lentils every month. As long as you hold a ration card and your name is on it, you can walk to your nearest fair price shop and collect free grains worth ₹200-300 per month. This continues until December 2028. No payment, no conditions, just food.",
- "The scheme covers 81.35 crore people - that's more than half of India's population. It includes both Antyodaya Anna Yojana (AAY) households (the poorest) who get 35 kg per month, and Priority Households (PHH) who get 5 kg per person per month, plus 1 kg dal for the whole family. In practical terms, a family of four gets 20 kg rice/wheat and 1 kg dal monthly for zero cost.",
- "This scheme started during COVID-19 in 2020 as an emergency measure, but it was so successful that the government extended it indefinitely. The government has allocated ₹2,03,000 crore in the 2025-26 budget just for this scheme. It's designed to eliminate hunger and give every poor family guaranteed access to basic food.",
- "One of the smartest features is portability under ONORC (One Nation One Ration Card). You don't have to collect rations only from your home state. If you migrate to another state for work, you can carry your ration card and collect the same free grains from fair price shops anywhere in India. This breaks the old system where migrant workers lost their ration card benefits."
- ],
- "eligibility": [
- {
- "label": "Ration Card",
- "value": "Must possess a valid ration card (NFSA beneficiary)",
- "highlight": true
- },
- {
- "label": "Card Type",
- "value": "AAY (Antyodaya) or PHH (Priority Household) eligible",
- "highlight": true
- },
- {
- "label": "Age Requirement",
- "value": "Any age (families with children, elderly, adults all covered)",
- "highlight": false
- },
- {
- "label": "Family Income",
- "value": "Below poverty line or low-income eligible under NFSA criteria",
- "highlight": true
- },
- {
- "label": "Indian Citizen",
- "value": "Must be Indian citizen with valid state residency",
- "highlight": true
- },
- {
- "label": "No Income Limit Upper Bound",
- "value": "If on ration card, you're eligible regardless of other income sources",
- "highlight": false
- }
- ],
- "eligibility_filters": {
- "gender": [
- "Any"
- ],
- "age_min": 0,
- "age_max": 150,
- "occupation": [
- "Any"
- ],
- "income_max": 300000,
- "category": [
- "AAY",
- "PHH",
- "General"
- ],
- "states": [
- "All Indian States"
- ]
- },
- "extra_sections": [
- {
- "heading": "What You Get Every Month",
- "icon": "🛍️",
- "type": "table",
- "columns": [
- "Category",
- "Grain Type",
- "Quantity Per Person",
- "Dal Quantity",
- "Frequency"
- ],
- "rows": [
- [
- "AAY (Antyodaya)",
- "Rice or Wheat",
- "Not per person - 35 kg per household",
- "1 kg for entire household",
- "Monthly"
- ],
- [
- "PHH (Priority Household)",
- "Rice or Wheat",
- "5 kg per family member",
- "1 kg for entire household",
- "Monthly"
- ],
- [
- "Example: 4-member AAY family",
- "Rice or Wheat",
- "35 kg total",
- "1 kg",
- "Once every month"
- ],
- [
- "Example: 4-member PHH family",
- "Rice or Wheat",
- "20 kg total (5 per person)",
- "1 kg",
- "Once every month"
- ]
- ]
- },
- {
- "heading": "",
- "type": "svg_block",
- "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">PM-GKAY free ration</text><rect x=\"50\" y=\"50\" width=\"190\" height=\"75\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"145\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#145236\">Per Person/Month</text><text x=\"145\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"800\" fill=\"#1B6B4A\">5 kg free grain</text><rect x=\"260\" y=\"50\" width=\"190\" height=\"75\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"355\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#1E40AF\">Beneficiaries</text><text x=\"355\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"800\" fill=\"#2563EB\">81 crore</text><rect x=\"470\" y=\"50\" width=\"190\" height=\"75\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"565\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#C2410C\">Cost to You</text><text x=\"565\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"800\" fill=\"#EA580C\">Rs 0</text></svg>",
- "caption": "PM-GKAY merged with NFSA in January 2024. Every ration card holder under NFSA now gets 5 kg free foodgrain per person per month - rice, wheat, or coarse grains. No charge whatsoever."
- },
- {
- "heading": "ONORC: Get Rations Anywhere in India",
- "icon": "🇮🇳",
- "type": "steps",
- "steps": [
- {
- "step": 1,
- "title": "Understand What ONORC Means",
- "description": "One Nation One Ration Card means your ration card works in any state. If your family is from Bihar but you work in Mumbai, you can use your Bihar ration card to get free rations in Mumbai. This is a game-changer for migrant workers and families separated by work."
- },
- {
- "step": 2,
- "title": "Check if Your State is ONORC-Enabled",
- "description": "Most states now have ONORC implemented. Check on the NFSA website or your state's food and public distribution department website to confirm. If your state isn't listed yet, it should be soon as this is a nationwide rollout."
- },
- {
- "step": 3,
- "title": "Get Your Ration Card Linked to Aadhaar",
- "description": "ONORC portability works best when your ration card and Aadhaar are linked. Visit your local ration shop or food office and request Aadhaar-ration card seeding. This is free and takes a few minutes. Your cardholders' names and Aadhaar numbers must match."
- },
- {
- "step": 4,
- "title": "Locate a Fair Price Shop in Your New State",
- "description": "Go to nfsa.gov.in and search for fair price shops in your new location (enter district and block). You'll see a list with shop names and addresses. Note down the closest one."
- },
- {
- "step": 5,
- "title": "Visit the Fair Price Shop with Your Ration Card",
- "description": "Bring your ration card and Aadhaar. Show them to the shop owner. They'll verify your details in their system. If everything matches, you'll get your monthly free rations on the spot."
- },
- {
- "step": 6,
- "title": "Check Your Record if There's a Problem",
- "description": "If the shopkeeper says your card isn't in the system, ask them to check using your Aadhaar number. Sometimes records take time to sync across states. If it's been days and still not showing, contact the food and public distribution office of your new state."
- }
- ]
- },
- {
- "heading": "Common Problems at Fair Price Shops and Solutions",
- "icon": "⚠️",
- "type": "text",
- "content": [
- "<h3>Shop Says 'Card Not in System' or 'Not Our District'</h3>This is common because records take time to sync across states. First, ask the shop to <a href=\"/guide/check-ration-card\" style=\"text-decoration:underline;color:inherit\">check</a> again using your Aadhaar number instead of card number.",
- "If still not found, contact the district food office and ask them to sync your card to the new state's system. This is their responsibility and is usually free.",
- "Don't give up - it's a technical issue, not a permanent problem.",
- "<h3>Getting Less Grain Than Entitled</h3>Some corrupt shopkeepers give less grain and pocket the difference. You're entitled to the full amount.",
- "Count the grain in front of the shopkeeper and weigh it if possible. If short, tell the shopkeeper immediately.",
- "If they refuse to add more, go to the district food office and file a complaint with the date and amount short. This will be investigated.",
- "<h3>Shop Refuses to Give Free Rations and Asks for Money</h3>PMGKAY rations are completely free. If a shopkeeper demands money or says you must buy at regular price, report this immediately to the district food office.",
- "Get the shop's name and owner's name. This is illegal and the government takes it seriously.",
- "<h3>Your Ration Card Has Wrong Name or Number of Family Members</h3>If the card shows 3 family members but you have 4, you get less ration. Visit the ration office (food and supplies office) with all family members' Aadhaar cards and request a correction.",
- "Don't delay - every month you lose your share.",
- "<h3>Grain Quality is Bad (Stones, Worms, or Moldy)</h3>Poor quality grain is grounds for complaint. Don't accept it.",
- "Tell the shopkeeper you want fresh stock and report it to the district food office. If the shopkeeper refuses, write a letter to the Block Development Officer (BDO) and the District Magistrate.",
- "Include the date, grain type, and details. Government has to investigate quality complaints.",
- "<h3>Shop's Opening Hours Don't Work for Your Job</h3>Fair price shops usually open fixed hours. If you can't collect during those times, ask if the shopkeeper can give you an alternate date.",
- "If refused, contact the food office. Some shops have flexibility, especially for working people.",
- "Alternatively, check if a different shop near your workplace is available."
- ]
- },
- {
- "heading": "PMGKAY vs Old NFSA Pricing",
- "icon": "📊",
- "type": "table",
- "columns": [
- "Aspect",
- "Before PMGKAY (Old NFSA)",
- "PMGKAY (Current, since Jan 2024)"
- ],
- "rows": [
- [
- "Price of Rice/Wheat",
- "₹3 per kg for AAY, ₹2 per kg for APL",
- "Completely FREE (₹0)"
- ],
- [
- "Price of Dal",
- "Available at subsidized rates; not always free",
- "Completely FREE (₹0)"
- ],
- [
- "Monthly Cost to Poor Family",
- "₹60-100 per month for a family",
- "₹0 per month"
- ],
- [
- "Annual Savings for Family",
- "₹720-1,200 per year",
- "₹2,400-3,000+ per year (depends on ration size)"
- ],
- [
- "Impact on Food Insecurity",
- "Reduced but families still struggled during crises",
- "Virtually eliminates hunger; enough for basic meals"
- ],
- [
- "Portability (ONORC)",
- "Partially available; some states didn't cooperate",
- "Fully functional across all states"
- ]
- ]
- },
- {
- "type": "svg_block",
- "heading": "Visual: PM Garib Kalyan Anna Y Key Numbers",
- "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">81.35 crore</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Beneficiaries</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">December 2028</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Free Rations Till</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">₹2,03,000 crore (2</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Allocation</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
- "caption": "Key numbers for PM Garib Kalyan Anna Yojana: F",
- "description": "Quick overview of the most important numbers and facts."
- },
- {
- "heading": "Government's Commitment and Budget",
- "icon": "💰",
- "type": "text",
- "content": [
- "The government has allocated ₹2,03,000 crore for the PM Garib Kalyan Anna <a href=\"/yojana/pm-vishwakarma-yojana\" style=\"text-decoration:underline;color:inherit\">Yojana</a> in the 2025-26 budget. This is a massive commitment - more than many state budgets.",
- "The scheme is guaranteed to continue till December 2028, and there are strong indications it will continue beyond that.",
- "To put this in perspective: ₹2,03,000 crore divided among 81.35 crore beneficiaries works out to roughly ₹2,500 per person per year, or about ₹200+ per person per month. That's real, tangible food support for over half of <a href=\"/yojana/pmkvy-skill-india\" style=\"text-decoration:underline;color:inherit\">India</a>'s population.",
- "No other food welfare program in the world reaches this scale.",
- "The scheme is funded from central taxes and budgetary allocations. Every Indian taxpayer effectively contributes to feeding poor <a href=\"/yojana/kanya-vivah-yojana\" style=\"text-decoration:underline;color:inherit\">families</a>.",
- "The government views this as an investment in nutrition, health, and social stability."
- ]
- },
- {
- "type": "text",
- "heading": "What is PM-GKAY and how it became permanent",
- "icon": "🌾",
- "content": [
- "PM Garib Kalyan Anna Yojana (PM-GKAY) was launched in March 2020 as an emergency food security response during the COVID-19 lockdown. Initially planned for 3 months, it provided 5 kg free foodgrain per person per month OVER AND ABOVE the existing NFSA (National Food Security Act) entitlement.",
- "The scheme was extended repeatedly - 9 times across 3 years - costing the government Rs 3.91 lakh crore.",
- "In January 2024, PM-GKAY was merged into NFSA and made permanent for 5 years (until December 2028). The combined benefit is now simple: every NFSA beneficiary gets 5 kg free foodgrain per person per month at zero cost.",
- "No Rs 1/kg for coarse grains, no Rs 2/kg for wheat, no Rs 3/kg for rice - everything is completely free. This replaced the earlier subsidized pricing under NFSA.",
- "The scale is staggering: 81 crore Indians (approximately 60% of the population) are covered. The annual cost to the government is Rs 2+ lakh crore.",
- "This makes PM-GKAY/NFSA the world's largest food distribution program - bigger than the food stamp program of the USA and the food subsidy programs of China combined."
- ]
- },
- {
- "type": "text",
- "heading": "Who gets free ration and how much",
- "icon": "📊",
- "content": [
- "Priority <a href=\"/yojana/gruha-lakshmi\" style=\"text-decoration:underline;color:inherit\">Household</a> (PHH) cardholders: 5 kg per person per month. A family of 5 with PHH ration card gets 25 kg free grain per month.",
- "PHH cards are issued to families meeting state-specific poverty criteria - typically BPL families, agricultural laborers, casual workers, artisans, and similar low-income households. Each state sets its own PHH criteria.",
- "Antyodaya Anna Yojana (AAY) cardholders: 35 kg per household per month (fixed regardless of family size). AAY cards are for the poorest of the poor - destitute, widows, disabled, elderly without support, primitive tribal groups, and families with no regular income.",
- "AAY is a subset of NFSA with higher entitlement because these families face the most severe food insecurity.",
- "What you get: Rice (in rice-consuming states like Bihar, Bengal, Odisha, southern states), Wheat (in wheat-consuming states like UP, MP, Rajasthan, Punjab, Haryana), or Coarse Grains (millets, maize - in tribal and hilly areas). The type of grain depends on your state's allocation from FCI (Food Corporation of India).",
- "Some states offer choice between rice and wheat.",
- "One Nation One Ration Card (ONORC): You can collect your free ration from ANY fair price shop in India - not just the one near your registered address. This is a game-changer for migrant workers.",
- "A Bihar construction worker in Mumbai can collect free ration from a Mumbai ration shop using their Bihar ration card. The Aadhaar-enabled POS machine at the shop verifies your entitlement instantly."
- ]
- },
- {
- "type": "text",
- "heading": "How to check if you're eligible and get a ration card",
- "icon": "📝",
- "content": [
- "Step 1: Check if your family already has a ration card at nfsa.gov.in → 'Find Your Ration Card Details' → Enter your state and district → Search by name or ration card number. If your family is listed, you're already covered. If not, apply for a new ration card.",
- "Step 2: Apply for new ration card. Most states accept online applications - UP: fcs.up.gov.in, Bihar: sfc.bihar.gov.in, MP: samagra.gov.in, Rajasthan: food.rajasthan.gov.in, Delhi: edistrict.delhigovt.nic.in.",
- "Fill form with family details, income proof, address proof, and photos. Some states also accept offline applications at the Tehsildar or Block Development Office.",
- "Step 3: After submission, the supply inspector visits your home for verification - confirming family size, income level, and address. The inspector's report determines whether you get PHH or AAY card.",
- "Verification takes 15-30 days. After approval, the ration card is issued and you can start collecting free grain from your nearest fair price shop.",
- "Step 4: Collect ration monthly. Visit your designated FPS (Fair Price Shop) between the 1st and 15th of each month (schedule varies by state).",
- "Carry your ration card and Aadhaar. The FPS dealer verifies your identity using the Aadhaar-enabled POS machine (fingerprint or iris scan).",
- "Once verified, you receive your monthly quota and the transaction is recorded digitally."
- ]
- },
- {
- "type": "text",
- "heading": "Problems with the PDS system and how to solve them",
- "icon": "⚠️",
- "content": [
- "Problem 1: FPS dealer gives less grain than entitled. You're entitled to 5 kg per person but the dealer weighs only 4 kg.",
- "Solution: Every FPS must have a weighing machine visible to beneficiaries. Watch the weighing process.",
- "If short, complain on the state food helpline or the FPS grievance portal. The digital POS system records each transaction - you can verify your distribution history on the NFSA app.",
- "Problem 2: FPS dealer says 'no stock.' Some dealers divert grain to the black market and claim stock-out. Solution: Check stock availability on your state's FPS stock portal before visiting.",
- "Report 'no stock' complaints on the national food helpline 1967 or your state's food department helpline. FPS dealers who repeatedly show no stock face license cancellation.",
- "Problem 3: Aadhaar authentication failure at POS machine. Fingerprints don't match (common among manual laborers with worn fingerprints).",
- "Solution: Ask for iris (eye) scan authentication instead of fingerprint. If both fail, the FPS dealer can use exception handling - manual override with your ration card number.",
- "Some states allow OTP-based authentication as backup.",
- "Problem 4: Name not on ration card despite being eligible. Solution: Apply for inclusion through your state's food portal.",
- "If your family recently had a new member (birth, marriage), apply for addition to the existing ration card. Processing takes 15-30 days.",
- "In the interim, you cannot collect ration for the unlisted member."
- ]
- },
- {
- "type": "svg_block",
- "heading": "Visual: Eligibility Check",
- "svg": "<svg viewBox=\"0 0 700 132\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Eligibility</text><rect x=\"20\" y=\"35\" width=\"320\" height=\"87\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"180\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1B6B4A\">Eligible</text><text x=\"40\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Ration Card</text><text x=\"40\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Card Type</text><text x=\"40\" y=\"111\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Family Income</text><text x=\"40\" y=\"129\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Indian Citizen</text><rect x=\"360\" y=\"35\" width=\"320\" height=\"87\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"520\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#BE185D\">Not Eligible</text><text x=\"380\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Age Requirement</text><text x=\"380\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ No Income Limit Uppe</text></svg>",
- "caption": "Quick eligibility check for PM Garib Kalyan Anna Y",
- "description": "Check if you meet the basic eligibility criteria before applying."
- },
- {
- "type": "text",
- "heading": "NFSA ration card vs Antyodaya vs APL - understanding categories",
- "icon": "📋",
- "content": [
- "NFSA/PHH (Priority Household): For families below the poverty line or meeting state-specific income criteria. 5 kg per person per month free grain. This is the standard ration card for most low-income families. Approximately 70 crore Indians hold PHH cards.",
- "AAY (Antyodaya Anna Yojana): For the poorest of the poor. 35 kg per household per month - fixed regardless of family size. AAY cards are for families with no regular income, destitute households, elderly without support, and primitive tribal groups.",
- "Approximately 11 crore Indians are AAY cardholders. If you're PHH but your family is extremely poor, apply for AAY upgrade through the Block Development Office.",
- "APL (Above Poverty Line): Families above the poverty line. APL cards were part of the pre-NFSA system and provided subsidized (not free) grain.",
- "Under the current NFSA framework, APL families are NOT entitled to free grain. Some states continue issuing APL cards for identity/address proof purposes but they don't carry free grain entitlement.",
- "Which card should you have? If your family income is below Rs 1-1.5 lakh/year (varies by state), you should have a PHH card.",
- "If your family is destitute (no regular income source, homeless, or severely disadvantaged), you should have an AAY card. If your family income is above the PHH threshold, you'll get an APL card - which doesn't entitle you to free grain but serves as an identity document."
- ]
- },
- {
- "type": "text",
- "heading": "One Nation One Ration Card - ration portability for migrants",
- "icon": "🚂",
- "content": [
- "ONORC (One Nation One Ration Card) allows you to collect free ration from ANY fair price shop in India using your existing ration card. No transfer of ration card needed.",
- "No new registration at your work location. Just walk into any FPS, authenticate with Aadhaar, and collect your monthly quota.",
- "The system automatically deducts from your home state allocation.",
- "How it works: The ration card is linked to Aadhaar. When you authenticate at an FPS in another state, the central server (Integrated Management of PDS - IM-PDS) verifies your entitlement and authorizes the FPS dealer to distribute grain.",
- "Your home state's allocation is adjusted automatically. You can split your monthly quota - collect some at home, some at work location.",
- "ONORC coverage: Active in all 36 states and UTs. Over 80 crore portability transactions have been recorded since launch.",
- "Bihar, UP, and Jharkhand migrants working in Delhi, Maharashtra, and Tamil Nadu are the biggest beneficiaries. If you're a migrant worker, test ONORC at a nearby FPS in your work city - carry your ration card and Aadhaar.",
- "ONORC for intra-state portability: Even within the same state, ONORC lets you collect ration from any FPS - not just your designated one. If you've moved to a different area within your city or district, collect from the nearest FPS without transferring your card.",
- "This is especially useful in cities where people move frequently between neighborhoods."
- ]
- },
- {
- "type": "callout",
- "variant": "tip",
- "heading": "81 crore people are eligible - check if your family is covered",
- "content": "Visit nfsa.gov.in → Find Your Ration Card Details → Enter state, district, and search by name. If your family is listed, you're already eligible for 5 kg free grain per person per month. If not, apply for a ration card through your state's food department portal. Many eligible families don't have ration cards simply because they never applied - especially migrants and newly formed households."
- },
- {
- "type": "callout",
- "variant": "warning",
- "heading": "Report FPS dealers who cheat on quantity",
- "content": "If your fair price shop dealer gives less grain than your entitlement, or mixes poor-quality grain, or demands money for 'service charge,' report on the national food helpline 1967 or your state food department's complaint portal. The digital POS system records every transaction - the government can verify exactly how much grain you received. Corrupt FPS dealers face license cancellation and criminal prosecution."
- },
- {
- "type": "pullquote",
- "text": "81 crore Indians get 5 kg free foodgrain every month - no payment, no paperwork beyond a ration card and Aadhaar. The annual cost is Rs 2 lakh crore. Critics call it populism. But for a daily wage laborer feeding 5 mouths, 25 kg of free rice per month is the difference between hunger and survival. India chose to feed its poorest at scale - and the scale is unprecedented in human history."
- },
- {
- "type": "svg_block",
- "heading": "Visual: Application Process",
- "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><defs><marker id=\"af\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><polygon points=\"0 0, 10 3, 0 6\" fill=\"#1E40AF\"/></marker></defs><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">How to Apply</text><rect x=\"16\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"71\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Check if You're Al</text><line x1=\"126\" y1=\"65\" x2=\"142\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"152\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"207\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Apply for a Ration</text><line x1=\"262\" y1=\"65\" x2=\"278\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"288\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"343\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Get Your Documents</text><line x1=\"398\" y1=\"65\" x2=\"414\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"424\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"479\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Receive Your Ratio</text><line x1=\"534\" y1=\"65\" x2=\"550\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"560\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"615\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">Link Your Ration C</text></svg>",
- "caption": "Step-by-step application process",
- "description": "Follow these steps to complete your application successfully."
- },
- {
- "type": "text",
- "heading": "Quality of PDS grain - what you should expect",
- "icon": "🌾",
- "content": [
- "FCI-grade grain: The foodgrain distributed through PDS comes from FCI (Food Corporation of India) godowns. FCI grades: FAQ (Fair Average Quality) for rice and wheat.",
- "The grain should be clean, free from stones, insects, and foreign matter. If the grain you receive is visibly dirty, insect-infested, or has a foul smell, you have the right to reject it and demand replacement.",
- "Fortified rice: Since 2024, the government mandates fortified rice distribution through PDS across all states. Fortified Rice Kernels (FRKs) are blended with regular rice - adding iron, folic acid, and Vitamin B12.",
- "The fortified grains look slightly different (pinkish or off-white) - this is normal and intentional. Fortification addresses the widespread anemia and malnutrition in India's poorest households.",
- "State-specific additions: Some states provide additional items beyond central NFSA entitlement. Tamil Nadu: 1 kg dal free, sugar at Rs 1/kg.",
- "Kerala: additional rice for festivals. Chhattisgarh: Rs 1/kg rice (even lower than central norm) and additional pulses.",
- "Check your state's PDS policy - you may be entitled to more than just the central 5 kg grain."
- ]
- },
- {
- "type": "text",
- "heading": "PM-GKAY and food security - the bigger picture",
- "icon": "🌍",
- "content": [
- "India's food security architecture has three pillars: NFSA/PM-GKAY (free grain for 81 crore people), Mid-Day Meal Scheme (free hot meals for 12 crore school children daily), and ICDS (Integrated Child Development Services - nutrition supplements for 8 crore pregnant women and children under 6). Combined, these programs spend Rs 3+ lakh crore annually on food security.",
- "The Global Hunger Index ranks India at 111 out of 125 countries (2023) - a ranking that seems contradictory given PM-GKAY's massive scale. The discrepancy exists because GHI measures malnutrition (dietary diversity, protein, micronutrients), not just calorie availability.",
- "Free rice and wheat provide calories but not complete nutrition. The government's response - rice fortification, PM POSHAN (hot cooked meals with eggs, pulses, vegetables), and convergence with Ayushman Bharat - aims to close this nutrition gap.",
- "Political economy: Free ration has become a political consensus - no government, regardless of party, can withdraw PM-GKAY without severe electoral consequences. The scheme has been extended until 2028 by the current government, and state governments across party lines add their own food subsidies on top.",
- "For the 81 crore beneficiaries, this means food security is essentially guaranteed for the foreseeable future.",
- "Fiscal sustainability: Rs 2 lakh crore annually for PM-GKAY is approximately 0.7% of India's GDP. The government funds it through food subsidy allocations and borrowing.",
- "Economists debate whether this level of food subsidy is sustainable long-term - but the political and humanitarian consensus is that feeding 81 crore people at 0.7% of GDP is a cost worth bearing. India can afford to feed its poorest - the question is always about will, not resources."
- ]
- },
- {
- "type": "text",
- "heading": "Official portals and helplines",
- "icon": "📞",
- "content": [
- "National Food Security portal: nfsa.gov.in - check ration card details, find FPS locations, view distribution records, and file complaints. National food helpline: 1967 (toll-free, available in Hindi and English). State food department portals vary - UP: fcs.up.gov.in, Bihar: sfc.bihar.gov.in, MP: food.mp.gov.in, Rajasthan: food.rajasthan.gov.in, Tamil Nadu: tnpds.gov.in.",
- "For ONORC issues: IM-PDS portal at impds.nic.in tracks portability transactions. If your ONORC transaction failed at an out-of-state FPS, the portal shows the error reason - usually Aadhaar authentication failure or ration card not seeded with Aadhaar. Visit your home state's food office to fix Aadhaar-ration card linkage issues."
- ]
- },
- {
- "type": "callout",
- "heading": "Official Sources & References",
- "icon": "📖",
- "variant": "info",
- "content": "Source: Department of Food & Public Distribution, Ministry of Consumer Affairs. All information on this page has been verified against official government notifications and regulatory circulars. For the latest updates, always check the official portal."
- },
- {
- "type": "svg_block",
- "heading": "PMGKAY Free Ration Entitlement",
- "icon": "🍚",
- "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">Free Ration Under PM Garib Kalyan Anna Y</text><rect x=\"50\" y=\"50\" width=\"280\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"190\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">5 kg wheat/rice /perso</text><rect x=\"370\" y=\"50\" width=\"280\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"510\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">80 crore+ beneficrs co</text></svg>",
- "caption": "Free foodgrain to 80 crore Indians through ration shops nationwide",
- "description": "Link Aadhaar to ration card for portability across any state."
- }
- ],
- "how_to_apply": [
- {
- "step": 1,
- "title": "Check if You're Already a NFSA Beneficiary",
- "description": "You don't need to apply for PMGKAY separately. If you already have a ration card (NFSA beneficiary), you're automatically eligible. Just walk to your nearest fair price shop with your ration card. However, if you don't have a ration card, you must first get one."
- },
- {
- "step": 2,
- "title": "Apply for a Ration Card if You Don't Have One",
- "description": "Visit your district's food and public distribution office (called Ration Office, Food & Supplies Department, or Civil Supplies office - names vary by state). Fill out the NFSA beneficiary application form. You'll need: Aadhaar, proof of residence (electricity bill or lease agreement), and income proof (not required in some states)."
- },
- {
- "step": 3,
- "title": "Get Your Documents Verified",
- "description": "The food office will verify your information and possibly visit your home to check. This is to ensure the ration card goes to someone genuinely poor. Verification usually takes 15-30 days."
- },
- {
- "step": 4,
- "title": "Receive Your Ration Card",
- "description": "Once approved, you'll get a ration card. This card has your family members' names, your card type (AAY or PHH), and your card number. The card is valid for several years."
- },
- {
- "step": 5,
- "title": "Link Your Ration Card with Aadhaar (Strongly Recommended)",
- "description": "Go to your local ration shop with the card and all family members' Aadhaar cards. Ask the shopkeeper to seed (link) your Aadhaar to your ration card. This makes portability easier and prevents fraud. It's free and takes 5-10 minutes."
- },
- {
- "step": 6,
- "title": "Find Your Assigned Fair Price Shop",
- "description": "Your ration card will mention which fair price shop serves your area. Locate it - usually within 1-2 km of your home. Or search on nfsa.gov.in by entering your state, district, and block."
- },
- {
- "step": 7,
- "title": "Collect Your First Month's Rations",
- "description": "Visit the fair price shop with your ration card. Tell the shopkeeper it's your first time. Show your card. They'll verify your details in the system and give you your monthly rations. From then on, just show up on collection days."
- },
- {
- "step": 8,
- "title": "Plan to Collect Every Month",
- "description": "Fair price shops usually collect rations on fixed days (e.g., 1st to 10th of every month). Don't delay - grain sometimes runs out if you come too late. Mark the collection dates on your calendar so you don't miss them."
- }
- ],
- "important_alert": {
- "text": "This Scheme is Completely Free: You do not pay anything for PMGKAY rations. Not even a rupee. If anyone - shopkeeper, official, or broker - asks for money, it is illegal. Report them immediately to the district food office or the civil supplies department. Keep the shopkeeper's name and shop details. Free rations are your right till December 2028.",
- "type": "warning"
- },
- "important_dates": [
- {
- "label": "Scheme Validity",
- "value": "January 2024 - December 2028",
- "highlight": true
- },
- {
- "label": "2025-26 Budget Allocation",
- "value": "₹2,03,000 crore approved",
- "highlight": false
- },
- {
- "label": "Beneficiaries Covered",
- "value": "81.35 crore people (56.81% of India's population)",
- "highlight": true
- },
- {
- "label": "Collection Frequency",
- "value": "Monthly (dates vary by state and shop)",
- "highlight": false
- },
- {
- "label": "ONORC Rollout Status",
- "value": "Live in most states, expanding nationwide",
- "highlight": true
- }
- ],
- "faqs": [
- {
- "question": "Will this scheme really continue till 2028 or beyond?",
- "answer": "The government has officially committed to December 2028. The Union Budget 2025-26 shows ₹2,03,000 crore allocation just for this scheme, which signals serious commitment. After 2028, the government will likely review and extend it again. It's too popular to discontinue, especially since it eliminates the single biggest cause of poverty - hunger."
- },
- {
- "question": "What if my family has a job and earns ₹30,000-50,000 per month?",
- "answer": "If you're already on an NFSA ration card, income from employment doesn't disqualify you. The scheme doesn't perform continuous income checks. However, if you become wealthy enough to owe income tax, you should voluntarily withdraw from the scheme and let someone genuinely poor use that slot. But there's no government mechanism to force this."
- },
- {
- "question": "If I migrate to another state for work, do I lose my rations?",
- "answer": "Not with ONORC. Carry your ration card to your new state, find a fair price shop in your new location, and you can collect the same free rations. Your card works nationwide. This is one of the biggest benefits for migrant workers. Make sure your ration card and Aadhaar are linked for smooth portability."
- },
- {
- "question": "My shop always gives me poor quality grain. What can I do?",
- "answer": "This is illegal. Don't accept bad grain. Complain immediately to the district food office in writing. Include the shop's name, date, grain type, and details of the problem (stones, worms, mold, etc.). The government investigates such complaints and can replace the shopkeeper or supply better grain. You deserve good quality, not leftovers."
- },
- {
- "question": "If someone in my family becomes a government employee, do I lose PMGKAY benefits?",
- "answer": "Not immediately. However, if you're a high-earning government employee, you should ethically withdraw and let someone poorer take your place. The government doesn't have active checks, but if discovered during an audit, there could be complications. It's best to inform the food office if your circumstances improve significantly."
- },
- {
- "question": "How is the ration calculated if my family size changes?",
- "answer": "You need to update your ration card when family size changes (newborn, marriage, or death). Visit the food office and inform them. For PHH, you get 5 kg per person, so more family members = more rations. For AAY, you get fixed 35 kg per household. Update cards to avoid losing out on entitlements."
- },
- {
- "question": "Why doesn't PMGKAY include protein foods like eggs, milk, or fish?",
- "answer": "PMGKAY focuses on staple grains that provide calories and basic nutrition. Adding perishables like eggs or milk would be logistically complex for fair price shops. Instead, the government runs separate nutrition programs for children (mid-day meals) and pregnant women (supplementary nutrition). The combination covers basic nutritional needs."
- },
- {
- "question": "Can I sell my free rations instead of eating them?",
- "answer": "Legally, no. Rations are meant for personal consumption. However, many poor families do sell some rations to meet other urgent needs (medicine, schooling costs). The government doesn't police this heavily, but it's technically against the scheme rules. The intent is that you eat the grain, not that you go hungry while selling them."
- },
- {
- "question": "Is PM-GKAY still available in 2026?",
- "answer": "Yes - PM-GKAY was merged with NFSA in January 2024 and made permanent until December 2028. The benefit (5 kg free foodgrain per person per month) continues for all NFSA ration card holders. You don't need to apply separately for PM-GKAY - it's automatically included in your NFSA entitlement."
- },
- {
- "question": "How much free ration does each person get?",
- "answer": "PHH card holders: 5 kg per person per month (rice or wheat depending on state). AAY card holders: 35 kg per household per month (fixed regardless of family size). The grain is 100% free - no charge at all. Collect from your designated fair price shop between the 1st and 15th of each month."
- },
- {
- "question": "Can I get free ration in a different state?",
- "answer": "Yes - through ONORC (One Nation One Ration Card). Carry your ration card and Aadhaar to any fair price shop in any state. Authenticate with fingerprint or iris scan. Collect your monthly quota. The system automatically verifies your entitlement and adjusts your home state allocation. Active in all 36 states and UTs."
- },
- {
- "question": "How to apply for ration card online?",
- "answer": "Visit your state's food department portal: UP - fcs.up.gov.in, Bihar - sfc.bihar.gov.in, Delhi - edistrict.delhigovt.nic.in, MP - samagra.gov.in. Fill the online form with family details, income proof, and Aadhaar. Some states also accept applications at the Tehsildar or Block Development Office. Processing takes 15-30 days including home verification."
- }
- ],
- "official_portal": {
- "name": "National Food Security Act (NFSA) Official Website",
- "url": "https://nfsa.gov.in/"
- },
- "related_pages": [
- {
- "title": "Gruha Lakshmi Scheme",
- "slug": "gruha-lakshmi",
- "tag": "Direct Benefit Transfer",
- "url": "/yojana/gruha-lakshmi"
- },
- {
- "title": "Kanya Vivah Yojana",
- "slug": "kanya-vivah-yojana",
- "tag": "Women Welfare",
- "url": "/yojana/kanya-vivah-yojana"
- }
- ],
- "tags": [
- "Food Security",
- "Free Rations",
- "Poverty Alleviation",
- "NFSA",
- "ONORC Portability",
- "National Welfare"
- ],
- "ministry": "Department of Food and Public Distribution, Ministry of Consumer Affairs, Food and Public Distribution",
- "launch_year": 2020,
- "image_suggestions": [
- "Fair price shop entrance with signboard showing PMGKAY rates",
- "Woman collecting free grains at fair price shop counter",
- "Bags of rice and wheat stacked at fair price shop",
- "Close-up of ration card showing beneficiary details",
- "NFSA portal website showing fair price shop locator",
- "Comparison chart: old NFSA pricing vs free PMGKAY rations",
- "ONORC portability workflow diagram showing inter-state ration collection",
- "Line of families waiting to collect rations on collection day",
- "Aadhaar-ration card linking process at food office",
- "Shopkeeper weighing grain for beneficiary at counter"
- ],
- "last_reviewed": "May 2026",
- "category": "food-subsidy",
- "isCentral": true
+  "slug": "pm-garib-kalyan-anna",
+  "title": "PM Garib Kalyan Anna Yojana: Free Food Grains for 81 Crore People",
+  "meta_description": "Get free rations under PM Garib Kalyan Anna Yojana: 5kg rice/wheat + 1kg dal monthly. Eligibility, portability & how to apply.",
+  "hero": {
+    "status": "active",
+    "one_liner": "Free monthly rations for 81 crore poor families across India till December 2028",
+    "icon": "🌾",
+    "updated_date": "May 2026",
+    "stats": [
+      {
+        "label": "Beneficiaries",
+        "value": "81.35 crore"
+      },
+      {
+        "label": "Free Rations Till",
+        "value": "December 2028"
+      },
+      {
+        "label": "Allocation",
+        "value": "₹2,03,000 crore (2025-26)"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "🏪",
+      "label": "Find Fair Price Shop",
+      "url": "https://nfsa.gov.in/"
+    },
+    {
+      "icon": "🆔",
+      "label": "Check Your ONORC Status",
+      "url": "https://nfsa.gov.in/"
+    },
+    {
+      "icon": "📞",
+      "label": "Report Issues",
+      "url": "https://nfsa.gov.in/"
+    }
+  ],
+  "what_is_it": [
+    "The PM Garib Kalyan Anna Yojana (PMGKAY) is the world's largest free food program. The government gives every poor family in India free rice or wheat and lentils every month. As long as you hold a ration card and your name is on it, you can walk to your nearest fair price shop and collect free grains worth ₹200-300 per month. This continues until December 2028. No payment, no conditions, just food.",
+    "The scheme covers 81.35 crore people - that's more than half of India's population. It includes both Antyodaya Anna Yojana (AAY) households (the poorest) who get 35 kg per month, and Priority Households (PHH) who get 5 kg per person per month, plus 1 kg dal for the whole family. In practical terms, a family of four gets 20 kg rice/wheat and 1 kg dal monthly for zero cost.",
+    "This scheme started during COVID-19 in 2020 as an emergency measure, but it was so successful that the government extended it indefinitely. The government has allocated ₹2,03,000 crore in the 2025-26 budget just for this scheme. It's designed to eliminate hunger and give every poor family guaranteed access to basic food.",
+    "One of the smartest features is portability under ONORC (One Nation One Ration Card). You don't have to collect rations only from your home state. If you migrate to another state for work, you can carry your ration card and collect the same free grains from fair price shops anywhere in India. This breaks the old system where migrant workers lost their ration card benefits."
+  ],
+  "eligibility": [
+    {
+      "label": "Ration Card",
+      "value": "Must possess a valid ration card (NFSA beneficiary)",
+      "highlight": true
+    },
+    {
+      "label": "Card Type",
+      "value": "AAY (Antyodaya) or PHH (Priority Household) eligible",
+      "highlight": true
+    },
+    {
+      "label": "Age Requirement",
+      "value": "Any age (families with children, elderly, adults all covered)",
+      "highlight": false
+    },
+    {
+      "label": "Family Income",
+      "value": "Below poverty line or low-income eligible under NFSA criteria",
+      "highlight": true
+    },
+    {
+      "label": "Indian Citizen",
+      "value": "Must be Indian citizen with valid state residency",
+      "highlight": true
+    },
+    {
+      "label": "No Income Limit Upper Bound",
+      "value": "If on ration card, you're eligible regardless of other income sources",
+      "highlight": false
+    }
+  ],
+  "eligibility_filters": {
+    "gender": [
+      "all"
+    ],
+    "age_min": 0,
+    "age_max": 100,
+    "occupation": [
+      "any"
+    ],
+    "income_max": 200000,
+    "category": [
+      "all"
+    ],
+    "states": [
+      "central"
+    ]
+  },
+  "extra_sections": [
+    {
+      "heading": "What You Get Every Month",
+      "icon": "🛍️",
+      "type": "table",
+      "columns": [
+        "Category",
+        "Grain Type",
+        "Quantity Per Person",
+        "Dal Quantity",
+        "Frequency"
+      ],
+      "rows": [
+        [
+          "AAY (Antyodaya)",
+          "Rice or Wheat",
+          "Not per person - 35 kg per household",
+          "1 kg for entire household",
+          "Monthly"
+        ],
+        [
+          "PHH (Priority Household)",
+          "Rice or Wheat",
+          "5 kg per family member",
+          "1 kg for entire household",
+          "Monthly"
+        ],
+        [
+          "Example: 4-member AAY family",
+          "Rice or Wheat",
+          "35 kg total",
+          "1 kg",
+          "Once every month"
+        ],
+        [
+          "Example: 4-member PHH family",
+          "Rice or Wheat",
+          "20 kg total (5 per person)",
+          "1 kg",
+          "Once every month"
+        ]
+      ]
+    },
+    {
+      "heading": "",
+      "type": "svg_block",
+      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">PM-GKAY free ration</text><rect x=\"50\" y=\"50\" width=\"190\" height=\"75\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"145\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#145236\">Per Person/Month</text><text x=\"145\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"800\" fill=\"#1B6B4A\">5 kg free grain</text><rect x=\"260\" y=\"50\" width=\"190\" height=\"75\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"355\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#1E40AF\">Beneficiaries</text><text x=\"355\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"800\" fill=\"#2563EB\">81 crore</text><rect x=\"470\" y=\"50\" width=\"190\" height=\"75\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"565\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#C2410C\">Cost to You</text><text x=\"565\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"800\" fill=\"#EA580C\">Rs 0</text></svg>",
+      "caption": "PM-GKAY merged with NFSA in January 2024. Every ration card holder under NFSA now gets 5 kg free foodgrain per person per month - rice, wheat, or coarse grains. No charge whatsoever."
+    },
+    {
+      "heading": "ONORC: Get Rations Anywhere in India",
+      "icon": "🇮🇳",
+      "type": "steps",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Understand What ONORC Means",
+          "description": "One Nation One Ration Card means your ration card works in any state. If your family is from Bihar but you work in Mumbai, you can use your Bihar ration card to get free rations in Mumbai. This is a game-changer for migrant workers and families separated by work."
+        },
+        {
+          "step": 2,
+          "title": "Check if Your State is ONORC-Enabled",
+          "description": "Most states now have ONORC implemented. Check on the NFSA website or your state's food and public distribution department website to confirm. If your state isn't listed yet, it should be soon as this is a nationwide rollout."
+        },
+        {
+          "step": 3,
+          "title": "Get Your Ration Card Linked to Aadhaar",
+          "description": "ONORC portability works best when your ration card and Aadhaar are linked. Visit your local ration shop or food office and request Aadhaar-ration card seeding. This is free and takes a few minutes. Your cardholders' names and Aadhaar numbers must match."
+        },
+        {
+          "step": 4,
+          "title": "Locate a Fair Price Shop in Your New State",
+          "description": "Go to nfsa.gov.in and search for fair price shops in your new location (enter district and block). You'll see a list with shop names and addresses. Note down the closest one."
+        },
+        {
+          "step": 5,
+          "title": "Visit the Fair Price Shop with Your Ration Card",
+          "description": "Bring your ration card and Aadhaar. Show them to the shop owner. They'll verify your details in their system. If everything matches, you'll get your monthly free rations on the spot."
+        },
+        {
+          "step": 6,
+          "title": "Check Your Record if There's a Problem",
+          "description": "If the shopkeeper says your card isn't in the system, ask them to check using your Aadhaar number. Sometimes records take time to sync across states. If it's been days and still not showing, contact the food and public distribution office of your new state."
+        }
+      ]
+    },
+    {
+      "heading": "Common Problems at Fair Price Shops and Solutions",
+      "icon": "⚠️",
+      "type": "text",
+      "content": [
+        "<h3>Shop Says 'Card Not in System' or 'Not Our District'</h3>This is common because records take time to sync across states. First, ask the shop to <a href=\"/guide/check-ration-card\" style=\"text-decoration:underline;color:inherit\">check</a> again using your Aadhaar number instead of card number.",
+        "If still not found, contact the district food office and ask them to sync your card to the new state's system. This is their responsibility and is usually free.",
+        "Don't give up - it's a technical issue, not a permanent problem.",
+        "<h3>Getting Less Grain Than Entitled</h3>Some corrupt shopkeepers give less grain and pocket the difference. You're entitled to the full amount.",
+        "Count the grain in front of the shopkeeper and weigh it if possible. If short, tell the shopkeeper immediately.",
+        "If they refuse to add more, go to the district food office and file a complaint with the date and amount short. This will be investigated.",
+        "<h3>Shop Refuses to Give Free Rations and Asks for Money</h3>PMGKAY rations are completely free. If a shopkeeper demands money or says you must buy at regular price, report this immediately to the district food office.",
+        "Get the shop's name and owner's name. This is illegal and the government takes it seriously.",
+        "<h3>Your Ration Card Has Wrong Name or Number of Family Members</h3>If the card shows 3 family members but you have 4, you get less ration. Visit the ration office (food and supplies office) with all family members' Aadhaar cards and request a correction.",
+        "Don't delay - every month you lose your share.",
+        "<h3>Grain Quality is Bad (Stones, Worms, or Moldy)</h3>Poor quality grain is grounds for complaint. Don't accept it.",
+        "Tell the shopkeeper you want fresh stock and report it to the district food office. If the shopkeeper refuses, write a letter to the Block Development Officer (BDO) and the District Magistrate.",
+        "Include the date, grain type, and details. Government has to investigate quality complaints.",
+        "<h3>Shop's Opening Hours Don't Work for Your Job</h3>Fair price shops usually open fixed hours. If you can't collect during those times, ask if the shopkeeper can give you an alternate date.",
+        "If refused, contact the food office. Some shops have flexibility, especially for working people.",
+        "Alternatively, check if a different shop near your workplace is available."
+      ]
+    },
+    {
+      "heading": "PMGKAY vs Old NFSA Pricing",
+      "icon": "📊",
+      "type": "table",
+      "columns": [
+        "Aspect",
+        "Before PMGKAY (Old NFSA)",
+        "PMGKAY (Current, since Jan 2024)"
+      ],
+      "rows": [
+        [
+          "Price of Rice/Wheat",
+          "₹3 per kg for AAY, ₹2 per kg for APL",
+          "Completely FREE (₹0)"
+        ],
+        [
+          "Price of Dal",
+          "Available at subsidized rates; not always free",
+          "Completely FREE (₹0)"
+        ],
+        [
+          "Monthly Cost to Poor Family",
+          "₹60-100 per month for a family",
+          "₹0 per month"
+        ],
+        [
+          "Annual Savings for Family",
+          "₹720-1,200 per year",
+          "₹2,400-3,000+ per year (depends on ration size)"
+        ],
+        [
+          "Impact on Food Insecurity",
+          "Reduced but families still struggled during crises",
+          "Virtually eliminates hunger; enough for basic meals"
+        ],
+        [
+          "Portability (ONORC)",
+          "Partially available; some states didn't cooperate",
+          "Fully functional across all states"
+        ]
+      ]
+    },
+    {
+      "type": "svg_block",
+      "heading": "Visual: PM Garib Kalyan Anna Y Key Numbers",
+      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">81.35 crore</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Beneficiaries</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">December 2028</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Free Rations Till</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">₹2,03,000 crore (2</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Allocation</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
+      "caption": "Key numbers for PM Garib Kalyan Anna Yojana: F",
+      "description": "Quick overview of the most important numbers and facts."
+    },
+    {
+      "heading": "Government's Commitment and Budget",
+      "icon": "💰",
+      "type": "text",
+      "content": [
+        "The government has allocated ₹2,03,000 crore for the PM Garib Kalyan Anna <a href=\"/yojana/pm-vishwakarma-yojana\" style=\"text-decoration:underline;color:inherit\">Yojana</a> in the 2025-26 budget. This is a massive commitment - more than many state budgets.",
+        "The scheme is guaranteed to continue till December 2028, and there are strong indications it will continue beyond that.",
+        "To put this in perspective: ₹2,03,000 crore divided among 81.35 crore beneficiaries works out to roughly ₹2,500 per person per year, or about ₹200+ per person per month. That's real, tangible food support for over half of <a href=\"/yojana/pmkvy-skill-india\" style=\"text-decoration:underline;color:inherit\">India</a>'s population.",
+        "No other food welfare program in the world reaches this scale.",
+        "The scheme is funded from central taxes and budgetary allocations. Every Indian taxpayer effectively contributes to feeding poor <a href=\"/yojana/kanya-vivah-yojana\" style=\"text-decoration:underline;color:inherit\">families</a>.",
+        "The government views this as an investment in nutrition, health, and social stability."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "What is PM-GKAY and how it became permanent",
+      "icon": "🌾",
+      "content": [
+        "PM Garib Kalyan Anna Yojana (PM-GKAY) was launched in March 2020 as an emergency food security response during the COVID-19 lockdown. Initially planned for 3 months, it provided 5 kg free foodgrain per person per month OVER AND ABOVE the existing NFSA (National Food Security Act) entitlement.",
+        "The scheme was extended repeatedly - 9 times across 3 years - costing the government Rs 3.91 lakh crore.",
+        "In January 2024, PM-GKAY was merged into NFSA and made permanent for 5 years (until December 2028). The combined benefit is now simple: every NFSA beneficiary gets 5 kg free foodgrain per person per month at zero cost.",
+        "No Rs 1/kg for coarse grains, no Rs 2/kg for wheat, no Rs 3/kg for rice - everything is completely free. This replaced the earlier subsidized pricing under NFSA.",
+        "The scale is staggering: 81 crore Indians (approximately 60% of the population) are covered. The annual cost to the government is Rs 2+ lakh crore.",
+        "This makes PM-GKAY/NFSA the world's largest food distribution program - bigger than the food stamp program of the USA and the food subsidy programs of China combined."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Who gets free ration and how much",
+      "icon": "📊",
+      "content": [
+        "Priority <a href=\"/yojana/gruha-lakshmi\" style=\"text-decoration:underline;color:inherit\">Household</a> (PHH) cardholders: 5 kg per person per month. A family of 5 with PHH ration card gets 25 kg free grain per month.",
+        "PHH cards are issued to families meeting state-specific poverty criteria - typically BPL families, agricultural laborers, casual workers, artisans, and similar low-income households. Each state sets its own PHH criteria.",
+        "Antyodaya Anna Yojana (AAY) cardholders: 35 kg per household per month (fixed regardless of family size). AAY cards are for the poorest of the poor - destitute, widows, disabled, elderly without support, primitive tribal groups, and families with no regular income.",
+        "AAY is a subset of NFSA with higher entitlement because these families face the most severe food insecurity.",
+        "What you get: Rice (in rice-consuming states like Bihar, Bengal, Odisha, southern states), Wheat (in wheat-consuming states like UP, MP, Rajasthan, Punjab, Haryana), or Coarse Grains (millets, maize - in tribal and hilly areas). The type of grain depends on your state's allocation from FCI (Food Corporation of India).",
+        "Some states offer choice between rice and wheat.",
+        "One Nation One Ration Card (ONORC): You can collect your free ration from ANY fair price shop in India - not just the one near your registered address. This is a game-changer for migrant workers.",
+        "A Bihar construction worker in Mumbai can collect free ration from a Mumbai ration shop using their Bihar ration card. The Aadhaar-enabled POS machine at the shop verifies your entitlement instantly."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "How to check if you're eligible and get a ration card",
+      "icon": "📝",
+      "content": [
+        "Step 1: Check if your family already has a ration card at nfsa.gov.in → 'Find Your Ration Card Details' → Enter your state and district → Search by name or ration card number. If your family is listed, you're already covered. If not, apply for a new ration card.",
+        "Step 2: Apply for new ration card. Most states accept online applications - UP: fcs.up.gov.in, Bihar: sfc.bihar.gov.in, MP: samagra.gov.in, Rajasthan: food.rajasthan.gov.in, Delhi: edistrict.delhigovt.nic.in.",
+        "Fill form with family details, income proof, address proof, and photos. Some states also accept offline applications at the Tehsildar or Block Development Office.",
+        "Step 3: After submission, the supply inspector visits your home for verification - confirming family size, income level, and address. The inspector's report determines whether you get PHH or AAY card.",
+        "Verification takes 15-30 days. After approval, the ration card is issued and you can start collecting free grain from your nearest fair price shop.",
+        "Step 4: Collect ration monthly. Visit your designated FPS (Fair Price Shop) between the 1st and 15th of each month (schedule varies by state).",
+        "Carry your ration card and Aadhaar. The FPS dealer verifies your identity using the Aadhaar-enabled POS machine (fingerprint or iris scan).",
+        "Once verified, you receive your monthly quota and the transaction is recorded digitally."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Problems with the PDS system and how to solve them",
+      "icon": "⚠️",
+      "content": [
+        "Problem 1: FPS dealer gives less grain than entitled. You're entitled to 5 kg per person but the dealer weighs only 4 kg.",
+        "Solution: Every FPS must have a weighing machine visible to beneficiaries. Watch the weighing process.",
+        "If short, complain on the state food helpline or the FPS grievance portal. The digital POS system records each transaction - you can verify your distribution history on the NFSA app.",
+        "Problem 2: FPS dealer says 'no stock.' Some dealers divert grain to the black market and claim stock-out. Solution: Check stock availability on your state's FPS stock portal before visiting.",
+        "Report 'no stock' complaints on the national food helpline 1967 or your state's food department helpline. FPS dealers who repeatedly show no stock face license cancellation.",
+        "Problem 3: Aadhaar authentication failure at POS machine. Fingerprints don't match (common among manual laborers with worn fingerprints).",
+        "Solution: Ask for iris (eye) scan authentication instead of fingerprint. If both fail, the FPS dealer can use exception handling - manual override with your ration card number.",
+        "Some states allow OTP-based authentication as backup.",
+        "Problem 4: Name not on ration card despite being eligible. Solution: Apply for inclusion through your state's food portal.",
+        "If your family recently had a new member (birth, marriage), apply for addition to the existing ration card. Processing takes 15-30 days.",
+        "In the interim, you cannot collect ration for the unlisted member."
+      ]
+    },
+    {
+      "type": "svg_block",
+      "heading": "Visual: Eligibility Check",
+      "svg": "<svg viewBox=\"0 0 700 132\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Eligibility</text><rect x=\"20\" y=\"35\" width=\"320\" height=\"87\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"180\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1B6B4A\">Eligible</text><text x=\"40\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Ration Card</text><text x=\"40\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Card Type</text><text x=\"40\" y=\"111\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Family Income</text><text x=\"40\" y=\"129\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Indian Citizen</text><rect x=\"360\" y=\"35\" width=\"320\" height=\"87\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"520\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#BE185D\">Not Eligible</text><text x=\"380\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Age Requirement</text><text x=\"380\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ No Income Limit Uppe</text></svg>",
+      "caption": "Quick eligibility check for PM Garib Kalyan Anna Y",
+      "description": "Check if you meet the basic eligibility criteria before applying."
+    },
+    {
+      "type": "text",
+      "heading": "NFSA ration card vs Antyodaya vs APL - understanding categories",
+      "icon": "📋",
+      "content": [
+        "NFSA/PHH (Priority Household): For families below the poverty line or meeting state-specific income criteria. 5 kg per person per month free grain. This is the standard ration card for most low-income families. Approximately 70 crore Indians hold PHH cards.",
+        "AAY (Antyodaya Anna Yojana): For the poorest of the poor. 35 kg per household per month - fixed regardless of family size. AAY cards are for families with no regular income, destitute households, elderly without support, and primitive tribal groups.",
+        "Approximately 11 crore Indians are AAY cardholders. If you're PHH but your family is extremely poor, apply for AAY upgrade through the Block Development Office.",
+        "APL (Above Poverty Line): Families above the poverty line. APL cards were part of the pre-NFSA system and provided subsidized (not free) grain.",
+        "Under the current NFSA framework, APL families are NOT entitled to free grain. Some states continue issuing APL cards for identity/address proof purposes but they don't carry free grain entitlement.",
+        "Which card should you have? If your family income is below Rs 1-1.5 lakh/year (varies by state), you should have a PHH card.",
+        "If your family is destitute (no regular income source, homeless, or severely disadvantaged), you should have an AAY card. If your family income is above the PHH threshold, you'll get an APL card - which doesn't entitle you to free grain but serves as an identity document."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "One Nation One Ration Card - ration portability for migrants",
+      "icon": "🚂",
+      "content": [
+        "ONORC (One Nation One Ration Card) allows you to collect free ration from ANY fair price shop in India using your existing ration card. No transfer of ration card needed.",
+        "No new registration at your work location. Just walk into any FPS, authenticate with Aadhaar, and collect your monthly quota.",
+        "The system automatically deducts from your home state allocation.",
+        "How it works: The ration card is linked to Aadhaar. When you authenticate at an FPS in another state, the central server (Integrated Management of PDS - IM-PDS) verifies your entitlement and authorizes the FPS dealer to distribute grain.",
+        "Your home state's allocation is adjusted automatically. You can split your monthly quota - collect some at home, some at work location.",
+        "ONORC coverage: Active in all 36 states and UTs. Over 80 crore portability transactions have been recorded since launch.",
+        "Bihar, UP, and Jharkhand migrants working in Delhi, Maharashtra, and Tamil Nadu are the biggest beneficiaries. If you're a migrant worker, test ONORC at a nearby FPS in your work city - carry your ration card and Aadhaar.",
+        "ONORC for intra-state portability: Even within the same state, ONORC lets you collect ration from any FPS - not just your designated one. If you've moved to a different area within your city or district, collect from the nearest FPS without transferring your card.",
+        "This is especially useful in cities where people move frequently between neighborhoods."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "heading": "81 crore people are eligible - check if your family is covered",
+      "content": "Visit nfsa.gov.in → Find Your Ration Card Details → Enter state, district, and search by name. If your family is listed, you're already eligible for 5 kg free grain per person per month. If not, apply for a ration card through your state's food department portal. Many eligible families don't have ration cards simply because they never applied - especially migrants and newly formed households."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "heading": "Report FPS dealers who cheat on quantity",
+      "content": "If your fair price shop dealer gives less grain than your entitlement, or mixes poor-quality grain, or demands money for 'service charge,' report on the national food helpline 1967 or your state food department's complaint portal. The digital POS system records every transaction - the government can verify exactly how much grain you received. Corrupt FPS dealers face license cancellation and criminal prosecution."
+    },
+    {
+      "type": "pullquote",
+      "text": "81 crore Indians get 5 kg free foodgrain every month - no payment, no paperwork beyond a ration card and Aadhaar. The annual cost is Rs 2 lakh crore. Critics call it populism. But for a daily wage laborer feeding 5 mouths, 25 kg of free rice per month is the difference between hunger and survival. India chose to feed its poorest at scale - and the scale is unprecedented in human history."
+    },
+    {
+      "type": "svg_block",
+      "heading": "Visual: Application Process",
+      "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><defs><marker id=\"af\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><polygon points=\"0 0, 10 3, 0 6\" fill=\"#1E40AF\"/></marker></defs><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">How to Apply</text><rect x=\"16\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"71\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Check if You're Al</text><line x1=\"126\" y1=\"65\" x2=\"142\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"152\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"207\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Apply for a Ration</text><line x1=\"262\" y1=\"65\" x2=\"278\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"288\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"343\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Get Your Documents</text><line x1=\"398\" y1=\"65\" x2=\"414\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"424\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"479\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Receive Your Ratio</text><line x1=\"534\" y1=\"65\" x2=\"550\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"560\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"615\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">Link Your Ration C</text></svg>",
+      "caption": "Step-by-step application process",
+      "description": "Follow these steps to complete your application successfully."
+    },
+    {
+      "type": "text",
+      "heading": "Quality of PDS grain - what you should expect",
+      "icon": "🌾",
+      "content": [
+        "FCI-grade grain: The foodgrain distributed through PDS comes from FCI (Food Corporation of India) godowns. FCI grades: FAQ (Fair Average Quality) for rice and wheat.",
+        "The grain should be clean, free from stones, insects, and foreign matter. If the grain you receive is visibly dirty, insect-infested, or has a foul smell, you have the right to reject it and demand replacement.",
+        "Fortified rice: Since 2024, the government mandates fortified rice distribution through PDS across all states. Fortified Rice Kernels (FRKs) are blended with regular rice - adding iron, folic acid, and Vitamin B12.",
+        "The fortified grains look slightly different (pinkish or off-white) - this is normal and intentional. Fortification addresses the widespread anemia and malnutrition in India's poorest households.",
+        "State-specific additions: Some states provide additional items beyond central NFSA entitlement. Tamil Nadu: 1 kg dal free, sugar at Rs 1/kg.",
+        "Kerala: additional rice for festivals. Chhattisgarh: Rs 1/kg rice (even lower than central norm) and additional pulses.",
+        "Check your state's PDS policy - you may be entitled to more than just the central 5 kg grain."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "PM-GKAY and food security - the bigger picture",
+      "icon": "🌍",
+      "content": [
+        "India's food security architecture has three pillars: NFSA/PM-GKAY (free grain for 81 crore people), Mid-Day Meal Scheme (free hot meals for 12 crore school children daily), and ICDS (Integrated Child Development Services - nutrition supplements for 8 crore pregnant women and children under 6). Combined, these programs spend Rs 3+ lakh crore annually on food security.",
+        "The Global Hunger Index ranks India at 111 out of 125 countries (2023) - a ranking that seems contradictory given PM-GKAY's massive scale. The discrepancy exists because GHI measures malnutrition (dietary diversity, protein, micronutrients), not just calorie availability.",
+        "Free rice and wheat provide calories but not complete nutrition. The government's response - rice fortification, PM POSHAN (hot cooked meals with eggs, pulses, vegetables), and convergence with Ayushman Bharat - aims to close this nutrition gap.",
+        "Political economy: Free ration has become a political consensus - no government, regardless of party, can withdraw PM-GKAY without severe electoral consequences. The scheme has been extended until 2028 by the current government, and state governments across party lines add their own food subsidies on top.",
+        "For the 81 crore beneficiaries, this means food security is essentially guaranteed for the foreseeable future.",
+        "Fiscal sustainability: Rs 2 lakh crore annually for PM-GKAY is approximately 0.7% of India's GDP. The government funds it through food subsidy allocations and borrowing.",
+        "Economists debate whether this level of food subsidy is sustainable long-term - but the political and humanitarian consensus is that feeding 81 crore people at 0.7% of GDP is a cost worth bearing. India can afford to feed its poorest - the question is always about will, not resources."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Official portals and helplines",
+      "icon": "📞",
+      "content": [
+        "National Food Security portal: nfsa.gov.in - check ration card details, find FPS locations, view distribution records, and file complaints. National food helpline: 1967 (toll-free, available in Hindi and English). State food department portals vary - UP: fcs.up.gov.in, Bihar: sfc.bihar.gov.in, MP: food.mp.gov.in, Rajasthan: food.rajasthan.gov.in, Tamil Nadu: tnpds.gov.in.",
+        "For ONORC issues: IM-PDS portal at impds.nic.in tracks portability transactions. If your ONORC transaction failed at an out-of-state FPS, the portal shows the error reason - usually Aadhaar authentication failure or ration card not seeded with Aadhaar. Visit your home state's food office to fix Aadhaar-ration card linkage issues."
+      ]
+    },
+    {
+      "type": "callout",
+      "heading": "Official Sources & References",
+      "icon": "📖",
+      "variant": "info",
+      "content": "Source: Department of Food & Public Distribution, Ministry of Consumer Affairs. All information on this page has been verified against official government notifications and regulatory circulars. For the latest updates, always check the official portal."
+    },
+    {
+      "type": "svg_block",
+      "heading": "PMGKAY Free Ration Entitlement",
+      "icon": "🍚",
+      "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">Free Ration Under PM Garib Kalyan Anna Y</text><rect x=\"50\" y=\"50\" width=\"280\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"190\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">5 kg wheat/rice /perso</text><rect x=\"370\" y=\"50\" width=\"280\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"510\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">80 crore+ beneficrs co</text></svg>",
+      "caption": "Free foodgrain to 80 crore Indians through ration shops nationwide",
+      "description": "Link Aadhaar to ration card for portability across any state."
+    }
+  ],
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Check if You're Already a NFSA Beneficiary",
+      "description": "You don't need to apply for PMGKAY separately. If you already have a ration card (NFSA beneficiary), you're automatically eligible. Just walk to your nearest fair price shop with your ration card. However, if you don't have a ration card, you must first get one."
+    },
+    {
+      "step": 2,
+      "title": "Apply for a Ration Card if You Don't Have One",
+      "description": "Visit your district's food and public distribution office (called Ration Office, Food & Supplies Department, or Civil Supplies office - names vary by state). Fill out the NFSA beneficiary application form. You'll need: Aadhaar, proof of residence (electricity bill or lease agreement), and income proof (not required in some states)."
+    },
+    {
+      "step": 3,
+      "title": "Get Your Documents Verified",
+      "description": "The food office will verify your information and possibly visit your home to check. This is to ensure the ration card goes to someone genuinely poor. Verification usually takes 15-30 days."
+    },
+    {
+      "step": 4,
+      "title": "Receive Your Ration Card",
+      "description": "Once approved, you'll get a ration card. This card has your family members' names, your card type (AAY or PHH), and your card number. The card is valid for several years."
+    },
+    {
+      "step": 5,
+      "title": "Link Your Ration Card with Aadhaar (Strongly Recommended)",
+      "description": "Go to your local ration shop with the card and all family members' Aadhaar cards. Ask the shopkeeper to seed (link) your Aadhaar to your ration card. This makes portability easier and prevents fraud. It's free and takes 5-10 minutes."
+    },
+    {
+      "step": 6,
+      "title": "Find Your Assigned Fair Price Shop",
+      "description": "Your ration card will mention which fair price shop serves your area. Locate it - usually within 1-2 km of your home. Or search on nfsa.gov.in by entering your state, district, and block."
+    },
+    {
+      "step": 7,
+      "title": "Collect Your First Month's Rations",
+      "description": "Visit the fair price shop with your ration card. Tell the shopkeeper it's your first time. Show your card. They'll verify your details in the system and give you your monthly rations. From then on, just show up on collection days."
+    },
+    {
+      "step": 8,
+      "title": "Plan to Collect Every Month",
+      "description": "Fair price shops usually collect rations on fixed days (e.g., 1st to 10th of every month). Don't delay - grain sometimes runs out if you come too late. Mark the collection dates on your calendar so you don't miss them."
+    }
+  ],
+  "important_alert": {
+    "text": "This Scheme is Completely Free: You do not pay anything for PMGKAY rations. Not even a rupee. If anyone - shopkeeper, official, or broker - asks for money, it is illegal. Report them immediately to the district food office or the civil supplies department. Keep the shopkeeper's name and shop details. Free rations are your right till December 2028.",
+    "type": "warning"
+  },
+  "important_dates": [
+    {
+      "label": "Scheme Validity",
+      "value": "January 2024 - December 2028",
+      "highlight": true
+    },
+    {
+      "label": "2025-26 Budget Allocation",
+      "value": "₹2,03,000 crore approved",
+      "highlight": false
+    },
+    {
+      "label": "Beneficiaries Covered",
+      "value": "81.35 crore people (56.81% of India's population)",
+      "highlight": true
+    },
+    {
+      "label": "Collection Frequency",
+      "value": "Monthly (dates vary by state and shop)",
+      "highlight": false
+    },
+    {
+      "label": "ONORC Rollout Status",
+      "value": "Live in most states, expanding nationwide",
+      "highlight": true
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Will this scheme really continue till 2028 or beyond?",
+      "answer": "The government has officially committed to December 2028. The Union Budget 2025-26 shows ₹2,03,000 crore allocation just for this scheme, which signals serious commitment. After 2028, the government will likely review and extend it again. It's too popular to discontinue, especially since it eliminates the single biggest cause of poverty - hunger."
+    },
+    {
+      "question": "What if my family has a job and earns ₹30,000-50,000 per month?",
+      "answer": "If you're already on an NFSA ration card, income from employment doesn't disqualify you. The scheme doesn't perform continuous income checks. However, if you become wealthy enough to owe income tax, you should voluntarily withdraw from the scheme and let someone genuinely poor use that slot. But there's no government mechanism to force this."
+    },
+    {
+      "question": "If I migrate to another state for work, do I lose my rations?",
+      "answer": "Not with ONORC. Carry your ration card to your new state, find a fair price shop in your new location, and you can collect the same free rations. Your card works nationwide. This is one of the biggest benefits for migrant workers. Make sure your ration card and Aadhaar are linked for smooth portability."
+    },
+    {
+      "question": "My shop always gives me poor quality grain. What can I do?",
+      "answer": "This is illegal. Don't accept bad grain. Complain immediately to the district food office in writing. Include the shop's name, date, grain type, and details of the problem (stones, worms, mold, etc.). The government investigates such complaints and can replace the shopkeeper or supply better grain. You deserve good quality, not leftovers."
+    },
+    {
+      "question": "If someone in my family becomes a government employee, do I lose PMGKAY benefits?",
+      "answer": "Not immediately. However, if you're a high-earning government employee, you should ethically withdraw and let someone poorer take your place. The government doesn't have active checks, but if discovered during an audit, there could be complications. It's best to inform the food office if your circumstances improve significantly."
+    },
+    {
+      "question": "How is the ration calculated if my family size changes?",
+      "answer": "You need to update your ration card when family size changes (newborn, marriage, or death). Visit the food office and inform them. For PHH, you get 5 kg per person, so more family members = more rations. For AAY, you get fixed 35 kg per household. Update cards to avoid losing out on entitlements."
+    },
+    {
+      "question": "Why doesn't PMGKAY include protein foods like eggs, milk, or fish?",
+      "answer": "PMGKAY focuses on staple grains that provide calories and basic nutrition. Adding perishables like eggs or milk would be logistically complex for fair price shops. Instead, the government runs separate nutrition programs for children (mid-day meals) and pregnant women (supplementary nutrition). The combination covers basic nutritional needs."
+    },
+    {
+      "question": "Can I sell my free rations instead of eating them?",
+      "answer": "Legally, no. Rations are meant for personal consumption. However, many poor families do sell some rations to meet other urgent needs (medicine, schooling costs). The government doesn't police this heavily, but it's technically against the scheme rules. The intent is that you eat the grain, not that you go hungry while selling them."
+    },
+    {
+      "question": "Is PM-GKAY still available in 2026?",
+      "answer": "Yes - PM-GKAY was merged with NFSA in January 2024 and made permanent until December 2028. The benefit (5 kg free foodgrain per person per month) continues for all NFSA ration card holders. You don't need to apply separately for PM-GKAY - it's automatically included in your NFSA entitlement."
+    },
+    {
+      "question": "How much free ration does each person get?",
+      "answer": "PHH card holders: 5 kg per person per month (rice or wheat depending on state). AAY card holders: 35 kg per household per month (fixed regardless of family size). The grain is 100% free - no charge at all. Collect from your designated fair price shop between the 1st and 15th of each month."
+    },
+    {
+      "question": "Can I get free ration in a different state?",
+      "answer": "Yes - through ONORC (One Nation One Ration Card). Carry your ration card and Aadhaar to any fair price shop in any state. Authenticate with fingerprint or iris scan. Collect your monthly quota. The system automatically verifies your entitlement and adjusts your home state allocation. Active in all 36 states and UTs."
+    },
+    {
+      "question": "How to apply for ration card online?",
+      "answer": "Visit your state's food department portal: UP - fcs.up.gov.in, Bihar - sfc.bihar.gov.in, Delhi - edistrict.delhigovt.nic.in, MP - samagra.gov.in. Fill the online form with family details, income proof, and Aadhaar. Some states also accept applications at the Tehsildar or Block Development Office. Processing takes 15-30 days including home verification."
+    }
+  ],
+  "official_portal": {
+    "name": "National Food Security Act (NFSA) Official Website",
+    "url": "https://nfsa.gov.in/"
+  },
+  "related_pages": [
+    {
+      "title": "Gruha Lakshmi Scheme",
+      "slug": "gruha-lakshmi",
+      "tag": "Direct Benefit Transfer",
+      "url": "/yojana/gruha-lakshmi"
+    },
+    {
+      "title": "Kanya Vivah Yojana",
+      "slug": "kanya-vivah-yojana",
+      "tag": "Women Welfare",
+      "url": "/yojana/kanya-vivah-yojana"
+    }
+  ],
+  "tags": [
+    "Food Security",
+    "Free Rations",
+    "Poverty Alleviation",
+    "NFSA",
+    "ONORC Portability",
+    "National Welfare"
+  ],
+  "ministry": "Department of Food and Public Distribution, Ministry of Consumer Affairs, Food and Public Distribution",
+  "launch_year": 2020,
+  "image_suggestions": [
+    "Fair price shop entrance with signboard showing PMGKAY rates",
+    "Woman collecting free grains at fair price shop counter",
+    "Bags of rice and wheat stacked at fair price shop",
+    "Close-up of ration card showing beneficiary details",
+    "NFSA portal website showing fair price shop locator",
+    "Comparison chart: old NFSA pricing vs free PMGKAY rations",
+    "ONORC portability workflow diagram showing inter-state ration collection",
+    "Line of families waiting to collect rations on collection day",
+    "Aadhaar-ration card linking process at food office",
+    "Shopkeeper weighing grain for beneficiary at counter"
+  ],
+  "last_reviewed": "May 2026",
+  "category": "food-subsidy",
+  "isCentral": true
 }

@@ -59,13 +59,21 @@
     }
   ],
   "eligibility_filters": {
-    "gender": [],
+    "gender": [
+      "all"
+    ],
     "age_min": 0,
     "age_max": 100,
-    "occupation": [],
-    "income_max": 0,
-    "category": [],
-    "states": []
+    "occupation": [
+      "any"
+    ],
+    "income_max": 9999999,
+    "category": [
+      "all"
+    ],
+    "states": [
+      "central"
+    ]
   },
   "extra_sections": [
     {

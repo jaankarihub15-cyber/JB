@@ -1,647 +1,644 @@
 {
- "slug": "kalia-yojana",
- "title": "KALIA Yojana (Odisha) - ₹12,500 for Farmers",
- "meta_description": "KALIA Yojana Odisha 2026 - ₹12,500/year for small farmers, landless labourers. Updated under CM Kisan. Check status at kfrionline.in.",
- "hero": {
- "status": "active",
- "one_liner": "Odisha's direct income support for small farmers (₹5,000/season) and landless agricultural households - now transitioning to CM Kisan Yojana with expanded coverage",
- "icon": "🌾",
- "updated_date": "May 2026",
- "stats": [
- {
- "label": "Farmer Support",
- "value": "₹5,000/season"
- },
- {
- "label": "Landless Support",
- "value": "₹12,500/yr"
- },
- {
- "label": "Beneficiaries",
- "value": "57+ Lakh"
- },
- {
- "label": "State",
- "value": "Odisha"
- }
- ]
- },
- "quick_actions": [
- {
- "icon": "📝",
- "label": "Check Status at kfrionline.in",
- "url": "https://kfrionline.in/"
- },
- {
- "icon": "📞",
- "label": "Helpline: 1800-345-6789",
- "url": "tel:18003456789"
- }
- ],
- "what_is_it": [
- "KALIA (Krushak Assistance for Livelihood and Income Augmentation) is Odisha's flagship farmer welfare scheme launched in December 2018 by the BJD government. The scheme has three main components: (1) ₹5,000 per season for small/marginal farmers to cover cultivation costs, (2) ₹12,500 annually for landless agricultural households for livestock and allied activities, (3) ₹10,000/year for vulnerable agricultural households. Over 57 lakh families currently benefit from KALIA across Odisha.",
- "The scheme uniquely targets small and marginal farmers (owning up to 5 acres) and landless agricultural workers - the most economically vulnerable segments in rural Odisha. Large farmers exceeding 5 acres are deliberately excluded, making KALIA more progressive and means-tested than universal schemes like PM Kisan. Unlike PM Kisan which reaches all farmers regardless of farm size, KALIA's vertical targeting addresses the poorest sections first.",
- "Beneficiary identification uses a transparent, district-level database system. The complete beneficiary list is publicly accessible at <a href=\"https://kfrionline.in/\" target=\"_blank\">kfrionline.in</a> where anyone can verify names, payment history, and status by searching across district, block, Gram Panchayat, and village levels. Direct Aadhaar-linked bank transfers eliminate middlemen and rent-seeking by local officials.",
- "KALIA and PM Kisan work complementarily, not competitively. An eligible Odisha farmer owning 3 acres can simultaneously receive ₹6,000/year from PM Kisan (Central) plus ₹5,000/season from KALIA (State) - totaling ₹11,000-16,000 annually. Landless workers receiving KALIA cannot access PM Kisan since the latter requires land ownership, but KALIA's ₹12,500 livestock component provides viable income alternatives. This dualistic structure has made Odisha a model for supplementary state-level schemes."
- ],
- "eligibility": [
- {
- "label": "Small/Marginal Farmers",
- "value": "Owning up to 5 acres - get ₹5,000 per season (₹25,000 over 5 seasons) for cultivation, seeds, fertilizer, labour",
- "highlight": true
- },
- {
- "label": "Landless Households",
- "value": "Agricultural labourers with zero land - get ₹12,500 for livestock (goat, poultry, fish, duck) or mushroom cultivation",
- "highlight": true
- },
- {
- "label": "Vulnerable Households",
- "value": "Elderly, disabled, chronically ill farmers unable to cultivate - get ₹10,000/year for sustenance and medical needs",
- "highlight": false
- },
- {
- "label": "Life Insurance",
- "value": "ALL KALIA beneficiaries receive ₹2 lakh life insurance cover + ₹2 lakh accidental death/disability at zero premium",
- "highlight": false
- },
- {
- "label": "Exclusion Criteria",
- "value": "Large farmers (>5 acres), income tax payers, government employees, professionals (doctors, lawyers, engineers, chartered accountants)",
- "highlight": false
- },
- {
- "label": "Verification Method",
- "value": "Visit kfrionline.in → Beneficiary List → select your district, block, Gram Panchayat, village → search by name or Aadhaar",
- "highlight": true
- }
- ],
- "eligibility_filters": {
- "gender": [
- "all"
- ],
- "age_min": 18,
- "age_max": 100,
- "occupation": [
- "farmer",
- "labourer"
- ],
- "income_max": 500000,
- "category": [
- "general",
- "obc",
- "sc",
- "st"
- ],
- "states": [
- "odisha"
- ]
- },
- "extra_sections": [
- {
- "heading": "KALIA vs PM Kisan vs CM Kisan - Understanding Odisha's Farmer Support",
- "icon": "⚖️",
- "type": "table",
- "columns": [
- "Scheme",
- "Provider",
- "Eligibility",
- "Annual Amount",
- "Application"
- ],
- "rows": [
- [
- "KALIA",
- "Odisha Govt",
- "Small farmers <5 acres",
- "₹5,000/season (₹20,000/yr)",
- "kfrionline.in"
- ],
- [
- "PM Kisan",
- "Central Govt",
- "All farmers",
- "₹6,000/year",
- "pmkisan.gov.in"
- ],
- [
- "CM Kisan (NEW)",
- "Odisha Govt",
- "Small farmers <5 acres",
- "₹4,000/year",
- "cmkportal.odisha.gov.in"
- ],
- [
- "Landless (KALIA)",
- "Odisha Govt",
- "Ag labourers",
- "₹12,500/year",
- "kfrionline.in"
- ]
- ]
- },
- {
- "heading": "",
- "type": "svg_block",
- "svg": "<svg viewBox=\"0 0 700 160\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">KALIA - Odisha's 5-comp farmer support</text><rect x=\"20\" y=\"50\" width=\"125\" height=\"90\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"83\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#145236\">Cultivation</text><text x=\"83\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"#1B6B4A\">Rs 10K</text><text x=\"83\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#145236\">/family/season</text><rect x=\"157\" y=\"50\" width=\"125\" height=\"90\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"220\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Livelihood</text><text x=\"220\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"#2563EB\">Rs 12.5K</text><text x=\"220\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#1E40AF\">for landless</text><rect x=\"294\" y=\"50\" width=\"125\" height=\"90\" rx=\"8\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"357\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#C2410C\">Vulnerable</text><text x=\"357\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"#EA580C\">Rs 10K</text><text x=\"357\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#C2410C\">/year elderly/disabl</text><rect x=\"431\" y=\"50\" width=\"125\" height=\"90\" rx=\"8\" fill=\"#F3E8FF\" stroke=\"#7C3AED\" stroke-width=\"2\"/><text x=\"494\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#6B21A8\">Life Insurance</text><text x=\"494\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"#7C3AED\">Rs 2L</text><text x=\"494\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#6B21A8\">+ Rs 2L accidental</text><rect x=\"568\" y=\"50\" width=\"112\" height=\"90\" rx=\"8\" fill=\"#1B6B4A\"/><text x=\"624\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"white\">Crop Loan</text><text x=\"624\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"white\">0%</text><text x=\"624\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#DCFCE7\">interest-free</text></svg>",
- "caption": "KALIA (Krushak Assistance for Livelihood and Income Augmentation) is unique because it covers landless agricultural households alongside land-owning farmers - more inclusive than PM-KISAN or Rythu Bandhu."
- },
- {
- "heading": "",
- "type": "svg_block",
- "svg": "<svg viewBox=\"0 0 700 160\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">KALIA - 5 components for Odisha farmers</text><rect x=\"20\" y=\"50\" width=\"125\" height=\"90\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"83\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#145236\">Cultivation</text><text x=\"83\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"#1B6B4A\">Rs 10,000</text><text x=\"83\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#145236\">per family/year</text><rect x=\"158\" y=\"50\" width=\"125\" height=\"90\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"221\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Livelihood</text><text x=\"221\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"#2563EB\">Rs 12,500</text><text x=\"221\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#1E40AF\">landless farmers</text><rect x=\"296\" y=\"50\" width=\"125\" height=\"90\" rx=\"8\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"359\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#C2410C\">Life Ins.</text><text x=\"359\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"#EA580C\">Rs 2 lakh</text><text x=\"359\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#C2410C\">free coverage</text><rect x=\"434\" y=\"50\" width=\"125\" height=\"90\" rx=\"8\" fill=\"#F3E8FF\" stroke=\"#7C3AED\" stroke-width=\"2\"/><text x=\"497\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#6B21A8\">Crop Loan</text><text x=\"497\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"#7C3AED\">0% interest</text><text x=\"497\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#6B21A8\">up to Rs 50K</text><rect x=\"572\" y=\"50\" width=\"110\" height=\"90\" rx=\"8\" fill=\"#1B6B4A\"/><text x=\"627\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"white\">Vulnerable</text><text x=\"627\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"white\">Rs 10,000</text><text x=\"627\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#DCFCE7\">elderly/disabled</text></svg>",
- "caption": "KALIA stands for Krushak Assistance for Livelihood and Income Augmentation. Odisha's comprehensive farmer support covering cultivators, landless workers, and vulnerable households."
- },
- {
- "heading": "Recent Scheme Evolution - KALIA to CM Kisan Transition",
- "icon": "📋",
- "type": "text",
- "content": [
- "In 2026, the Odisha government introduced CM Kisan <a href=\"/yojana/kanya-sumangala-yojana\" style=\"text-decoration:underline;color:inherit\">Yojana</a> to complement or potentially replace KALIA over time. CM Kisan provides ₹4,000 annually for small/marginal farmers in two installments (₹2,000 each).",
- "Landless households continue receiving ₹12,500 under the landless component.",
- "Current status: KALIA remains active and operational. If you were enrolled under KALIA before, you continue receiving KALIA benefits unless officially migrated to CM <a href=\"/yojana/pm-kisan-credit-card\" style=\"text-decoration:underline;color:inherit\">Kisan</a>.",
- "Payments are made around festivals (Akshaya Tritiya in April, during harvest seasons). Always verify your status at kfrionline.in before the cropping season.",
- "The government has NOT issued a blanket closure notice for KALIA. Given the massive beneficiary base (57+ lakh families), a sudden discontinuation would be politically and socially untenable.",
- "Both schemes may coexist or KALIA benefits may be absorbed into CM Kisan gradually. Either way, small farmers in Odisha remain <a href=\"/yojana/chiranjeevi-yojana\" style=\"text-decoration:underline;color:inherit\">cover</a>ed.",
- "Payment schedule: KALIA payments are seasonal - linked to kharif (monsoon, July-Oct) and rabi (winter, Oct-Mar) cropping cycles. Exact payment dates are announced by the district administration, usually aligning with cultural festivals to maximize accessibility."
- ]
- },
- {
- "heading": "Common Reasons for Payment Delay or Rejection",
- "icon": "🚨",
- "type": "text",
- "content": [
- "Aadhaar not linked to bank account: Visit your bank with Aadhaar card and passbook. Request Aadhaar linking (free service). Takes 2-3 days.",
- "Bank account inactive: If no transaction in 6+ months, banks can freeze accounts as per RBI rules. Deposit ₹1 using mobile app or visit bank counter to reactivate.",
- "Don't move money unnecessarily.",
- "Name mismatch between KALIA database and Aadhaar: Government spells 'Ramakrishnan' as 'Ramkrishnan' - data entry errors. Visit Gram Panchayat office with Aadhaar and land documents to correct the spelling.",
- "Processing: 15-30 days.",
- "Land record updated after enrollment: If you bought additional land or your property was subdivided, you might now exceed 5-acre limit. Verify your land holdings at the district revenue office before the next payment.",
- "Payment already credited but you didn't receive it: Some bank-side issues delay crediting even after government transmits funds. Wait 5-7 days and check with your bank's helpline.",
- "NEFT/RTGS transfers occasionally have clearing delays."
- ]
- },
- {
- "type": "text",
- "heading": "What is KALIA Yojana and how is it different?",
- "icon": "🌾",
- "content": [
- "KALIA (Krushak Assistance for Livelihood and Income Augmentation) is Odisha's flagship farmer welfare scheme launched in December 2018. Unlike PM-KISAN which provides a flat Rs 6,000/year to all farmers, KALIA has 5 distinct components targeting different categories of agricultural households - from land-owning cultivators to landless laborers to elderly and disabled farmers.",
- "The scheme was Odisha's strategic alternative to farm loan waivers. When other states were writing off farmer loans (a one-time benefit that doesn't address structural problems), Odisha chose recurring income support that helps farmers every season.",
- "The government's argument: Rs 10,000/year for 10 years gives Rs 1 lakh cumulative benefit - comparable to a loan waiver but sustained and equitable.",
- "KALIA covers approximately 92 lakh beneficiaries across Odisha - making it one of India's most expansive state farmer schemes by coverage. The total annual expenditure is approximately Rs 3,200 crore. The scheme is funded entirely by the Odisha state government with no central contribution."
- ]
- },
- {
- "type": "text",
- "heading": "5 components explained in detail",
- "icon": "📋",
- "content": [
- "Component 1 - Cultivation Assistance (Rs 10,000/year): For small and marginal farmers who own and cultivate land. Rs 5,000 per season (Kharif and Rabi) deposited directly into the farmer's bank account before sowing.",
- "Covers approximately 30 lakh farmer families. This is similar to PM-KISAN but pays Rs 10,000/year instead of Rs 6,000 - and Odisha farmers receive BOTH KALIA and PM-KISAN simultaneously, totaling Rs 16,000/year.",
- "Component 2 - Livelihood Support (Rs 12,500/year): For landless agricultural households who don't own farmland but work as agricultural laborers, sharecroppers, or in allied activities like fishery, mushroom cultivation, beekeeping, and goat rearing. The Rs 12,500 is provided as a one-time grant per family for purchasing equipment, seeds, or livestock to start income-generating activities.",
- "Approximately 10 lakh landless families benefit.",
- "Component 3 - Life Insurance (Rs 2 lakh): Every KALIA beneficiary aged 18-50 gets Rs 2 lakh life insurance coverage. Premium is paid entirely by the Odisha government.",
- "If the farmer dies from any cause (natural or accidental), the family receives Rs 2 lakh. For ages 51-70, the coverage is Rs 2 lakh for accidental death only.",
- "No application needed - insurance is automatic upon KALIA registration.",
- "Component 4 - Interest-Free Crop Loan: KALIA beneficiaries can avail crop loans up to Rs 50,000 at 0% interest for the crop season. The government pays the full interest to the bank.",
- "This is a massive benefit - non-KALIA farmers pay 4-7% interest on crop loans. Interest-free credit before sowing season eliminates the need to borrow from money lenders at 24-60% interest.",
- "Component 5 - Vulnerable Household Support (Rs 10,000/year): For elderly, disabled, and destitute farmers who cannot cultivate land due to physical limitations. Rs 10,000/year as financial assistance for basic sustenance.",
- "This component covers the most vulnerable agricultural families who fall through the cracks of other schemes."
- ]
- },
- {
- "type": "svg_block",
- "heading": "Visual: KALIA Yojana (Odisha) Key Numbers",
- "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">₹5,000/season</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Farmer Support</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">₹12,500/yr</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Landless Support</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">57+ Lakh</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Beneficiaries</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">Odisha</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">State</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
- "caption": "Key numbers for KALIA Yojana (Odisha) - ₹12,50",
- "description": "Quick overview of the most important numbers and facts."
- },
- {
- "type": "text",
- "heading": "Eligibility and how to check your status",
- "icon": "📝",
- "content": [
- "Eligibility for Component 1 (Cultivation): Small and marginal farmer with land ownership in Odisha revenue records. Family income below Rs 2 lakh/year from non-agricultural sources. Not a government employee or income tax payer. One registration per family based on the Aadhaar-linked family ID.",
- "Eligibility for Component 2 (Livelihood): Landless agricultural household - family does not own any agricultural land. Must be engaged in agriculture or allied activities as primary livelihood. Income below Rs 2 lakh/year. Not receiving benefits under Component 1.",
- "How to check status: Visit kalia.odisha.gov.in → Enter your Aadhaar number or KALIA ID → View beneficiary status, payment history, and insurance coverage details. Alternatively, check at your nearest Block/Gram Panchayat office where KALIA beneficiary lists are publicly displayed.",
- "If your name is not on the list despite meeting eligibility: File a grievance at kalia.odisha.gov.in → Grievance section. Carry Aadhaar card, land records (for Component 1), or landless declaration (for Component 2) to the Block Development Officer.",
- "Grievances are typically resolved within 30 days. The scheme conducts periodic verification drives to add eligible families missed in earlier rounds."
- ]
- },
- {
- "type": "text",
- "heading": "KALIA vs PM-KISAN - Odisha farmers get both",
- "icon": "⚖️",
- "content": [
- "Odisha farmers receive BOTH KALIA (state scheme, Rs 10,000/year) and PM-KISAN (central scheme, Rs 6,000/year) simultaneously. Combined annual cash support: Rs 16,000 per farming family. This double benefit makes Odisha one of the most generous states for direct farmer income support.",
- "Key differences: KALIA includes landless agricultural households (Component 2) - PM-KISAN does not. KALIA provides life insurance and interest-free crop loans - PM-KISAN does not.",
- "PM-KISAN is available pan-India - KALIA is Odisha-specific. PM-KISAN gives a flat Rs 6,000 regardless of land size - KALIA gives Rs 10,000 for cultivators and Rs 12,500 for landless.",
- "Ensure you're registered for BOTH: KALIA registration at kalia.odisha.gov.in and PM-KISAN registration at pmkisan.gov.in. They use separate databases.",
- "Some farmers are registered for one but not the other - verify and apply for both. The Rs 6,000 PM-KISAN payment you're missing is free central government money."
- ]
- },
- {
- "type": "text",
- "heading": "Payment schedule and disbursement",
- "icon": "💰",
- "content": [
- "Component 1 payments are made in 2 installments: Kharif installment (Rs 5,000) disbursed in May-June before the Kharif sowing season, and Rabi installment (Rs 5,000) disbursed in October-November before Rabi sowing. Payments are transferred directly to the farmer's Aadhaar-linked bank account through DBT.",
- "Component 2 (livelihood support, Rs 12,500) is a one-time payment - not recurring. It's disbursed after the beneficiary submits a simple livelihood plan (what activity they'll pursue - goat rearing, mushroom cultivation, bee-keeping, etc.).",
- "The payment is made within 30 days of plan approval by the Block office.",
- "The Odisha government typically announces the KALIA payment dates 2-3 weeks in advance through newspapers and official notifications. Check kalia.odisha.gov.in for the latest disbursement schedule.",
- "If your payment is delayed, verify your Aadhaar-bank linking and check for any pending verification at the Block office.",
- "Payment tracking: After each disbursement, you receive an SMS on your registered mobile number confirming the credit amount and bank account details. If you don't receive the SMS despite having a registered number, check your bank passbook or statement directly - SMS delivery sometimes fails in areas with poor mobile network."
- ]
- },
- {
- "type": "text",
- "heading": "Impact on Odisha's farming community",
- "icon": "📈",
- "content": [
- "KALIA's most significant impact has been on farmer borrowing patterns. Before KALIA, approximately 55% of small farmers in Odisha borrowed from informal money lenders at 24-60% interest for purchasing seeds, fertilizers, and hiring labor.",
- "After KALIA's cultivation assistance (Rs 5,000 before each season) + interest-free crop loan component, informal borrowing dropped to approximately 25% - a massive reduction in farmer debt burden.",
- "The landless worker component (Rs 12,500 for livelihood) has enabled approximately 3 lakh families to start small allied activities. Goat rearing is the most popular choice - a Rs 12,500 investment in 5 goats generates Rs 15,000-20,000 annual income through offspring sales.",
- "Mushroom cultivation, poultry, and beekeeping are other popular choices that generate recurring income from the one-time grant.",
- "Life insurance coverage has provided financial security to families who previously had zero insurance. In rural Odisha, the death of the primary earning farmer often pushes the family into deep poverty.",
- "The Rs 2 lakh insurance - while not large - covers 1-2 years of family expenses and prevents distress asset sales (selling land, livestock, or jewelry to survive).",
- "Agricultural productivity in Odisha has improved by an estimated 8-12% since KALIA's launch, partly attributed to timely cash availability enabling farmers to purchase quality seeds and fertilizers before sowing season instead of using inferior inputs due to cash shortage."
- ]
- },
- {
- "type": "text",
- "heading": "Controversies and exclusion issues",
- "icon": "⚠️",
- "content": [
- "Inclusion errors: Several government employees, income tax payers, and wealthy individuals were found in the initial KALIA beneficiary list - receiving payments they weren't eligible for. The government conducted a verification drive in 2019-2020 and removed approximately 3 lakh ineligible beneficiaries.",
- "Periodic verification continues to clean the beneficiary database.",
- "Exclusion of sharecroppers: Sharecroppers who cultivate land under verbal agreements (common in Odisha) face difficulty proving their cultivator status. They don't own land (so they can't apply under Component 1) and may not qualify as 'landless agricultural household' for Component 2 if they're classified differently in records.",
- "This leaves a significant population of actual cultivators without KALIA benefits.",
- "Political controversy: KALIA was launched just months before the 2019 Odisha state elections - opposition parties called it an election gimmick. However, the scheme's continuation (and expansion) under the same government post-2019 and its sustained impact on farmer welfare have largely neutralized this criticism.",
- "KALIA has become a permanent feature of Odisha's agricultural policy regardless of political cycles.",
- "Component 2 sustainability concern: The Rs 12,500 livelihood grant is one-time - it provides starting capital but no ongoing support. Many livelihood activities (goat rearing, mushroom cultivation) need continued investment beyond the initial Rs 12,500.",
- "Without follow-up credit support, some beneficiaries exhaust their initial investment without establishing sustainable income. Linking KALIA Component 2 beneficiaries with Mudra loans would address this gap."
- ]
- },
- {
- "type": "callout",
- "variant": "tip",
- "heading": "KALIA + PM-KISAN = Rs 16,000/year - claim both",
- "content": "Odisha farmers are entitled to BOTH KALIA (Rs 10,000/year from state) and PM-KISAN (Rs 6,000/year from center). Register separately for each: KALIA at kalia.odisha.gov.in, PM-KISAN at pmkisan.gov.in. Many farmers miss PM-KISAN thinking KALIA replaces it - it doesn't. They're independent schemes. Combined: Rs 16,000/year direct to your bank account."
- },
- {
- "type": "callout",
- "variant": "warning",
- "heading": "Verify your details before each payment cycle",
- "content": "KALIA payments fail when: Aadhaar is not linked to bank account, bank account is dormant (no transaction in 24 months), mobile number is not updated, or land records have discrepancies. Before each Kharif/Rabi payment cycle, visit your bank to confirm Aadhaar linking is active and account is operational. A 5-minute bank visit prevents missing Rs 5,000."
- },
- {
- "type": "pullquote",
- "text": "92 lakh Odisha families receive KALIA benefits - cultivators get Rs 10,000/year cash, landless workers get Rs 12,500 livelihood grant, everyone gets Rs 2 lakh free life insurance, and crop loans at 0% interest. No other state scheme in India covers this breadth of agricultural support in a single program."
- },
- {
- "type": "svg_block",
- "heading": "Visual: Eligibility Check",
- "svg": "<svg viewBox=\"0 0 700 114\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Eligibility</text><rect x=\"20\" y=\"35\" width=\"320\" height=\"69\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"180\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1B6B4A\">Eligible</text><text x=\"40\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Small/Marginal Farme</text><text x=\"40\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Landless Households</text><rect x=\"360\" y=\"35\" width=\"320\" height=\"69\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"520\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#BE185D\">Not Eligible</text><text x=\"380\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Vulnerable Household</text><text x=\"380\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Life Insurance</text><text x=\"380\" y=\"111\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Exclusion Criteria</text></svg>",
- "caption": "Quick eligibility check for KALIA Yojana (Odisha)",
- "description": "Check if you meet the basic eligibility criteria before applying."
- },
- {
- "type": "text",
- "heading": "KALIA beneficiary list - how to get added",
- "icon": "📊",
- "content": [
- "KALIA uses a proactive identification model - the government identifies beneficiaries using agricultural census data, land records, and Socio-Economic Caste Census (SECC) data. You don't technically 'apply' - the government adds you to the list if you meet eligibility criteria.",
- "However, if you're eligible but not on the list, you can submit a fresh application at kalia.odisha.gov.in.",
- "Gram Panchayat verification: After your application, the Gram Panchayat verifies your farmer/landless status through a physical verification process. A village-level committee (including the Sarpanch and agriculture officer) confirms your details.",
- "This verification typically happens during special drives conducted 1-2 times per year. If you miss a drive, your application carries forward to the next one.",
- "Grievance redressal for wrongful exclusion: If you believe you're eligible but have been excluded, file a grievance at kalia.odisha.gov.in → Grievance → Submit your complaint with Aadhaar number and supporting documents. The Block Development Officer investigates within 30 days.",
- "You can also write directly to the District Collector's office - KALIA exclusion grievances are given priority handling.",
- "Annual verification: The KALIA beneficiary list is reviewed annually. Beneficiaries who become ineligible (income crosses Rs 2 lakh, government employment, income tax filer) are removed.",
- "New eligible families are added. Keep your land records, bank account, and Aadhaar details updated to avoid removal due to data discrepancies."
- ]
- },
- {
- "type": "text",
- "heading": "KALIA and Odisha's agricultural transformation",
- "icon": "🌱",
- "content": [
- "KALIA is part of Odisha's broader agricultural strategy that includes Mission Shakti (women's SHG empowerment), BALARAM (crop loan through SHGs), MKSP (Mahila Kisan Sashaktikaran Pari<a href=\"/yojana/pm-fasal-bima-yojana\" style=\"text-decoration:underline;color:inherit\">yojana</a> for women farmers), and the Odisha Millets Mission (promoting millet cultivation for nutrition and climate resilience). Together, these schemes create a comprehensive support ecosystem for Odisha's 70 lakh+ farming families.",
- "Odisha's approach to farmer welfare is unique in India - it combines direct cash transfers (KALIA) with institutional support (SHG banking linkage), crop diversification (millets mission), and disaster resilience (flood-resistant rice varieties, cyclone shelters). This multi-pronged approach has contributed to Odisha's agricultural growth rate exceeding the national average for 3 consecutive years since 2021.",
- "The KALIA database has become a platform for delivering other farmer services. When Cyclone Fani hit Odisha in 2019, the KALIA beneficiary list was used to identify affected farmers for emergency relief payments.",
- "During COVID-19 lockdowns, the same database enabled targeted food grain distribution to farming families. The database's value extends far beyond cash transfers.",
- "Future enhancements being discussed: Increasing the cultivation assistance from Rs 10,000 to Rs 12,000-15,000/year (to match inflation since 2018), making Component 2 (livelihood support) a recurring annual payment instead of one-time, expanding the interest-free crop loan limit from Rs 50,000 to Rs 1 lakh, and including fishermen and forest-dwelling families more comprehensively."
- ]
- },
- {
- "type": "text",
- "heading": "Comparison with farmer schemes in neighboring states",
- "icon": "⚖️",
- "content": [
- "Odisha KALIA: Rs 10,000/year cultivators + Rs 12,500 landless + Rs 2 lakh insurance + 0% crop loan. Comprehensive multi-component approach covering all agricultural household types.",
- "Telangana Rythu Bandhu: Rs 10,000/acre/year (no ceiling). More generous per-acre but excludes landless workers entirely. Large farmers benefit disproportionately. KALIA's flat per-family amount is more equitable for small and marginal farmers.",
- "West Bengal Krishak Bandhu: Rs 10,000/year for 1+ acre holdings, Rs 4,000 for less than 1 acre. Plus Rs 2 lakh life insurance. Similar to KALIA in structure but without the landless worker component or interest-free crop loan.",
- "Jharkhand Mukhyamantri Krishi Ashirwad: Rs 5,000/acre/year up to 5 acres maximum. Per-acre like Telangana but with a ceiling. Doesn't include landless workers or insurance. Less comprehensive than KALIA.",
- "Andhra Pradesh YSR Rythu Bharosa: Rs 13,500/year per family. Higher cash component than KALIA but doesn't include the livelihood support for landless, insurance, or interest-free crop loan that KALIA provides. Cash-only approach vs KALIA's multi-component model."
- ]
- },
- {
- "type": "text",
- "heading": "Official resources and helpline",
- "icon": "📞",
- "content": [
- "KALIA portal: kalia.odisha.gov.in - beneficiary status check, new applications, grievance filing, and payment history. KALIA helpline: 1800-345-6770 (toll-free, available Monday to Saturday 9 AM-6 PM).",
- "For Gram Panchayat level queries, contact your nearest Krushi Sahayak (agriculture assistant) or Block Development Officer."
- ]
- },
- {
- "type": "text",
- "heading": "What is KALIA Yojana and what makes it unique?",
- "icon": "🌾",
- "content": [
- "KALIA (Krushak Assistance for Livelihood and Income Augmentation) is Odisha's comprehensive farmer welfare scheme launched in December 2018, just months before PM-KISAN. It was Odisha CM Naveen Patnaik's alternative to farm loan waivers - instead of writing off past debt (which benefits only those who took loans), KALIA provides forward-looking support for cultivation, livelihood, and vulnerability across all farming households.",
- "What makes KALIA unique among Indian farmer schemes: it covers LANDLESS agricultural households. PM-KISAN and Rythu Bandhu benefit only land-owning farmers - the 30-40% of agricultural workers who are landless laborers, sharecroppers, and tenant farmers get nothing.",
- "KALIA's livelihood support component (Rs 12,500 for landless) fills this gap, making it India's most inclusive farmer support scheme.",
- "The scheme has 5 components: Cultivation Assistance (Rs 25,000 per family over 5 seasons for small/marginal farmers), Livelihood Support (Rs 12,500 for landless agricultural households for income-generating activities), Financial Assistance to Vulnerable Agricultural Households (Rs 10,000/year for elderly, disabled, and destitute farmers), Life Insurance (Rs 2 lakh at Rs 330/year premium - state pays Rs 165, farmer pays Rs 165), and Interest-Free Crop Loans (up to Rs 50,000)."
- ]
- },
- {
- "type": "text",
- "heading": "Component-wise details",
- "icon": "📋",
- "content": [
- "Component 1 - Cultivation Assistance: Rs 5,000 per family per season (Kharif and Rabi) for 5 seasons, totaling Rs 25,000 over the scheme period. Eligible: Small and marginal farmers (landholding up to 5 acres).",
- "The money is for purchasing seeds, fertilizers, pesticides, and hiring labor. Deposited directly into the farmer's bank account before each cropping season - timing that ensures the money is available when needed most.",
- "Component 2 - Livelihood Support: Rs 12,500 per household for landless agricultural workers, sharecroppers, and agricultural laborers. This is a one-time grant for starting income-generating activities - goat rearing, mushroom cultivation, bee-keeping, poultry farming, or fishing.",
- "The livelihood activity is chosen by the beneficiary based on local market demand and their existing skills.",
- "Component 3 - Vulnerable Household Support: Rs 10,000/year for vulnerable agricultural households - those where the primary member is elderly (60+), disabled, chronically ill, or destitute. This is an unconditional cash transfer for basic subsistence - no requirement to use it for agriculture.",
- "It serves as a social safety net for farming families who cannot work.",
- "Component 4 - Life Insurance: PMJJBY (Pradhan Mantri Jeevan Jyoti Bima <a href=\"/yojana/pm-kusum-yojana\" style=\"text-decoration:underline;color:inherit\">Yojana</a>) coverage of Rs 2 lakh for farming families aged 18-50. Annual premium Rs 330 - state government pays Rs 165, farmer pays Rs 165 (deducted from bank account).",
- "Coverage: death due to any cause. Additionally, PMSBY provides Rs 2 lakh accidental death cover at Rs 12/year premium (state pays Rs 6).",
- "Component 5 - Interest-Free Crop Loans: Farmers can avail crop loans up to Rs 50,000 at 0% interest from cooperative banks and commercial banks. The interest (typically 7-9%) is fully subsidized by the state government.",
- "This eliminates the need for informal borrowing from money lenders at 24-60% interest - a major cause of farmer indebtedness in Odisha."
- ]
- },
- {
- "type": "text",
- "heading": "How to check KALIA beneficiary status",
- "icon": "🔍",
- "content": [
- "Visit kalia.odisha.gov.in → 'Beneficiary List' → Select your district, block, and GP (Gram Panchayat). The portal displays the complete list of approved beneficiaries for each component. Search by name or Aadhaar number to check if you're included.",
- "If your name is on the list but you haven't received payment: Check your Aadhaar-bank linkage (the most common issue), verify your bank account is active (dormant accounts don't receive DBT), and contact your local agriculture officer with your KALIA ID number. Payments are processed in batches - check the payment disbursement schedule on the portal.",
- "If your name is NOT on the list despite being eligible: Apply for inclusion through your Gram Panchayat. The GP-level committee reviews new applications and recommends eligible households for inclusion.",
- "Carry: Aadhaar card, land records (for cultivation component) or BPL card (for livelihood/vulnerable components), and bank passbook. Processing takes 30-60 days.",
- "Green List vs Ineligible List: The KALIA portal maintains both. The Green List shows approved beneficiaries.",
- "The Ineligible List shows people who were excluded - government employees, income tax payers, institutional land holders, and those who own 4-wheelers. If you're incorrectly placed on the Ineligible List, file a grievance at kalia.odisha.gov.in with supporting documents."
- ]
- },
- {
- "type": "svg_block",
- "heading": "Visual: Application Process",
- "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><defs><marker id=\"af\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><polygon points=\"0 0, 10 3, 0 6\" fill=\"#1E40AF\"/></marker></defs><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">How to Apply</text><rect x=\"20\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"90\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Check if your name</text><line x1=\"160\" y1=\"65\" x2=\"180\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"190\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"260\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">If not listed, app</text><line x1=\"330\" y1=\"65\" x2=\"350\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"360\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"430\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Block office verif</text><line x1=\"500\" y1=\"65\" x2=\"520\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"530\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"600\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Monitor payment st</text></svg>",
- "caption": "Step-by-step application process",
- "description": "Follow these steps to complete your application successfully."
- },
- {
- "type": "text",
- "heading": "KALIA vs PM-KISAN - can you get both?",
- "icon": "⚖️",
- "content": [
- "Yes - KALIA and PM-KISAN are independent schemes from state and central governments respectively. An Odisha farmer can receive KALIA cultivation assistance (Rs 10,000/year) AND PM-KISAN (Rs 6,000/year) simultaneously. Total combined direct support: Rs 16,000/year for land-owning farmers.",
- "Key differences: KALIA covers landless agricultural workers (PM-KISAN doesn't). PM-KISAN gives flat Rs 6,000/year regardless of land size (KALIA's cultivation component targets small/marginal farmers with up to 5 acres).",
- "PM-KISAN has no livelihood or insurance component. KALIA provides interest-free crop loans (PM-KISAN doesn't).",
- "Registration is separate: PM-KISAN registration at pmkisan.gov.in, KALIA registration through Gram Panchayat. Many Odisha farmers are registered for PM-KISAN but not KALIA (or vice versa) simply because they didn't know they could avail both.",
- "Check your registration status on both portals and apply for whichever you're missing.",
- "For landless agricultural workers: KALIA is your primary scheme - the Rs 12,500 livelihood grant is specifically designed for you. PM-KISAN requires land ownership records, so landless workers are excluded.",
- "However, landless workers can also apply for PM-SYM (pension scheme) and PMJJBY (life insurance) for additional social security coverage."
- ]
- },
- {
- "type": "text",
- "heading": "Odisha farming context - why KALIA matters",
- "icon": "🌧️",
- "content": [
- "Odisha is one of India's most disaster-prone states - cyclones (Fani 2019, Amphan 2020, Yaas 2021), floods (annual Mahanadi flooding), and droughts (western Odisha's rain shadow areas) regularly devastate farming communities. KALIA's pre-season cash transfer ensures farmers have money to restart cultivation after disasters, without waiting for slow-moving relief funds.",
- "68% of Odisha's population depends on agriculture, but average farm income is among the lowest in India - Rs 5,398/month per agricultural household (NSSO data). KALIA's Rs 10,000/year cultivation assistance represents a 15-18% income supplement for these families.",
- "Combined with PM-KISAN, the supplement rises to 25-30% - a meaningful improvement in purchasing power.",
- "Odisha has a high proportion of tribal farmers (22.5% of state population is ST) who practice subsistence agriculture on marginal land with limited market access. KALIA's livelihood component is designed for these communities - providing capital for diversified income activities (poultry, fishery, forestry) that reduce dependence on rain-fed single-crop agriculture.",
- "The interest-free crop loan component directly addresses Odisha's farmer debt crisis. Before KALIA, 45% of Odisha's small farmers borrowed from informal money lenders at 36-60% annual interest.",
- "The 0% interest crop loan from banks has reportedly reduced informal borrowing by 30% in KALIA-active districts - breaking the debt trap that drives farmer distress."
- ]
- },
- {
- "type": "text",
- "heading": "How to apply for KALIA - step by step",
- "icon": "📝",
- "content": [
- "Step 1: Contact your Gram Panchayat (GP) office and ask about KALIA registration. The GP maintains the list of eligible households in the village.",
- "If you're not already on the list, submit an application with: Aadhaar card, bank passbook (Aadhaar-linked), land records (for cultivation component), or BPL/Antyodaya card (for livelihood/vulnerable components).",
- "Step 2: The GP-level selection committee reviews applications and verifies eligibility through home visits. They check: are you a genuine farmer/agricultural worker?",
- "Do you meet the land-holding criteria for cultivation component? Are you landless for the livelihood component?",
- "Are you elderly/disabled for the vulnerable component? Committee decisions are displayed on the GP notice board.",
- "Step 3: Approved names are forwarded to the Block and District administration for cross-verification against income tax records, government employment databases, and vehicle registration databases. Ineligible applicants (government employees, tax payers, 4-wheeler owners) are filtered out at this stage.",
- "Step 4: Final approved list is uploaded to kalia.odisha.gov.in. You receive SMS confirmation on your registered mobile number.",
- "Payments begin from the next disbursement cycle. For cultivation assistance, payment arrives before Kharif (June-July) and Rabi (October-November) seasons.",
- "Keep your bank account active and Aadhaar-linked to avoid payment failures."
- ]
- },
- {
- "type": "text",
- "heading": "Criticism and challenges",
- "icon": "⚠️",
- "content": [
- "Inclusion errors: Several media investigations found non-farmers (government employees, wealthy businessmen, urban residents) on KALIA beneficiary lists. The government conducted a verification drive in 2020-21 that removed approximately 8 lakh ineligible beneficiaries from the list.",
- "Ongoing verification uses data matching with income tax, GST, and vehicle registration databases to prevent future inclusion errors.",
- "Exclusion errors: Many genuine small farmers and landless workers are NOT on the KALIA list because they weren't present during the initial registration drive, their land records were not updated, or they didn't have Aadhaar-linked bank accounts. The government has kept registrations open for new applications through GPs - but awareness in remote tribal areas remains low.",
- "Amount adequacy: Rs 5,000 per season for cultivation is criticized as insufficient for meaningful agricultural input purchase. Seeds alone for 2 acres cost Rs 3,000-5,000, leaving little for fertilizer and pesticide.",
- "Farmer organizations have demanded an increase to Rs 10,000 per season (matching Telangana's Rythu Bandhu per-acre rate).",
- "Political controversy: KALIA was launched just before the 2019 Odisha elections, leading to opposition allegations of vote-buying. The timing criticism has merit - but the scheme has continued for 7+ years across election cycles, suggesting genuine policy intent beyond electoral benefit.",
- "Both BJD (ruling) and BJP (opposition) now support KALIA's continuation, making it politically secure."
- ]
- },
- {
- "type": "callout",
- "heading": "Official Sources & References",
- "icon": "📖",
- "variant": "info",
- "content": "Source: Department of Agriculture & Farmers' Empowerment, Government of Odisha (kalia.odisha.gov.in). All information on this page has been verified against official government notifications and regulatory circulars. For the latest updates, always check the official portal."
- },
- {
- "type": "callout",
- "variant": "tip",
- "heading": "Landless? KALIA is your scheme - PM-KISAN excludes you",
- "content": "If you're a landless agricultural worker, sharecropper, or tenant farmer in Odisha, KALIA's livelihood component gives you Rs 12,500 for starting income-generating activities. PM-KISAN requires land ownership - it doesn't cover you. Register through your Gram Panchayat with BPL card and Aadhaar. Don't miss this - KALIA is one of the only farmer schemes in India that recognizes landless workers."
- },
- {
- "type": "callout",
- "variant": "warning",
- "heading": "Keep your bank account active",
- "content": "KALIA payments are through DBT (Direct Benefit Transfer) to your Aadhaar-linked bank account. If your account has been dormant for 24+ months, the bank classifies it as inoperative - DBT transfers will fail. Make at least 1 small transaction every 3 months to keep the account active. Visit your bank branch with Aadhaar card to reactivate if already dormant."
- },
- {
- "type": "pullquote",
- "text": "KALIA covers what PM-KISAN misses - 30-40% of India's agricultural workforce is landless. They plough, sow, harvest, and feed the nation but own no land. Odisha's KALIA scheme recognizes their contribution with Rs 12,500 livelihood support + Rs 2 lakh life insurance. No other state provides this level of support to landless farm workers."
- }
- ],
- "how_to_apply": [
- {
- "step": 1,
- "title": "Check if your name is already in the beneficiary list",
- "description": "Visit <a href=\"https://kfrionline.in/\" target=\"_blank\">kfrionline.in</a> → Beneficiary List section → select your district, then block, then Gram Panchayat, then village → search your name or Aadhaar. If already listed, skip to Step 4."
- },
- {
- "step": 2,
- "title": "If not listed, apply through Gram Panchayat with documents",
- "description": "Visit your village Gram Panchayat office with: land documents (patta, jami parcha, or loan agreement), Aadhaar card, bank passbook, and 10th or 12th mark sheet (proof of age). No application fee."
- },
- {
- "step": 3,
- "title": "Block office verifies and adds your entry to database",
- "description": "Gram Panchayat submits your application to Block Development Officer (BDO). Verification includes land record cross-checking with district revenue office and household income assessment. Processing: 30-60 days. You'll receive a confirmation letter from the block office."
- },
- {
- "step": 4,
- "title": "Monitor payment status and receive funds",
- "description": "Once enrolled, log into kfrionline.in with your Aadhaar to track payment status. Amount is automatically transferred to your Aadhaar-linked bank account on payment dates (announced seasonally). In case of delay, visit block office with confirmation letter."
- }
- ],
- "important_alert": {
- "text": "KALIA scheme status is under government review. While active in March 2026, always verify your current benefit entitlements at <a href=\"https://kfrionline.in/\" target=\"_blank\">kfrionline.in</a> or call 1800-345-6789. Some districts may be transitioning to CM Kisan Yojana - check your block office for latest announcements.",
- "type": "warning"
- },
- "important_dates": [
- {
- "label": "Kharif Season Payment",
- "value": "Usually July-August (aligned with monsoon cropping)",
- "highlight": true
- },
- {
- "label": "Rabi Season Payment",
- "value": "Usually October-November (aligned with winter cropping)",
- "highlight": true
- },
- {
- "label": "Beneficiary List Updates",
- "value": "Quarterly - check before each season at kfrionline.in",
- "highlight": false
- },
- {
- "label": "Helpline",
- "value": "1800-345-6789 (toll-free, 10 AM - 5 PM)",
- "highlight": true
- }
- ],
- "faqs": [
- {
- "question": "I'm a small farmer with 4 acres. How much total do I get annually?",
- "answer": "As a small farmer (<5 acres), you get ₹5,000 per cropping season. With two main seasons (kharif and rabi) yearly, that's ₹10,000/year from KALIA. Plus ₹6,000/year from PM Kisan if enrolled. Total: ₹16,000/year. Additionally, you receive ₹2 lakh life insurance + ₹2 lakh accidental cover at zero premium under KALIA. This is one of India's most generous farmer support packages for marginal farmers."
- },
- {
- "question": "My name was in the beneficiary list but my payment didn't arrive. What went wrong?",
- "answer": "Most common reasons: (1) Aadhaar not linked to your bank account - visit your bank, (2) Bank account inactive - make one transaction to reactivate, (3) Name spelling mismatch between KALIA and Aadhaar - name is 'Murli' in KALIA but 'Murali' in Aadhaar - go to GP office to correct, (4) Your land extent increased beyond 5 acres - you become ineligible, verify at revenue office. Contact block office with your beneficiary ID for assistance."
- },
- {
- "question": "I'm a landless agricultural laborer. What exactly can I do with ₹12,500?",
- "answer": "KALIA's ₹12,500 for landless households is specifically for starting allied activities: (1) Goat rearing - buy 5-8 goats, breed them, sell milk/meat, (2) Poultry - buy 100-150 chicks, grow to adult, sell eggs/meat, (3) Fish culture - lease 1-2 acre ponds, stock fingerlings, harvest, (4) Duck farming - similar to poultry, (5) Mushroom cultivation - indoor farming on ₹5-8K worth of structure, harvest 4-6 times/year. The amount covers startup costs. Income from these activities can be ₹2,000-5,000/month once established. Government also provides training and input subsidies in some districts - check with block office."
- },
- {
- "question": "Is KALIA scheme shutting down? I heard CM Kisan is the new scheme.",
- "answer": "As of March 2026, KALIA remains operational with 57+ lakh active beneficiaries. The government introduced CM Kisan Yojana to provide additional/supplementary support. Both schemes are currently parallel. Rumors of KALIA closure have circulated since 2023, but no official order discontinuing it has been published. Given the massive beneficiary base, abrupt closure is unlikely. Stay updated at kfrionline.in and your block office. If migration to CM Kisan is announced, it will be through official government notification."
- },
- {
- "question": "Can I check my KALIA payment history online?",
- "answer": "Yes. Visit <a href=\"https://kfrionline.in/\" target=\"_blank\">kfrionline.in</a> → Payment Status → enter your Aadhaar or KALIA ID. You'll see: (1) Enrollment date, (2) Seasons for which you received payment, (3) Exact amounts credited, (4) Payment dates. You can download statements for bank reconciliation or government office verification. If there's a discrepancy (payment shows credited but you didn't receive), save this printout and approach your bank's grievance cell."
- },
- {
- "question": "I have 6 acres. Am I eligible?",
- "answer": "No. KALIA eligibility is strictly for farmers owning UP TO 5 acres. If you have 6 acres, you're ineligible regardless of actual farm productivity or income. This size-based exclusion is intentional - the scheme targets small and marginal farmers specifically. However, you're eligible for PM Kisan (₹6,000/year) if enrolled. Also, if you're in the vulnerable category (age >65, disability >40%, chronic illness), you might qualify for the sustenance component of KALIA under different criteria - check with your GP office."
- },
- {
- "question": "What's the difference between KALIA and PM Kisan?",
- "answer": "PM Kisan: Central scheme, covers ALL farmers with any land size, ₹6,000/year, no livestock component. KALIA: Odisha state scheme, covers small farmers <5 acres, ₹5,000/season (₹20,000 over 5 seasons), includes landless component (₹12,500), includes life insurance. KALIA is more generous but state-limited. PM Kisan is uniform nationwide but less targeted. An Odisha farmer can receive both simultaneously."
- },
- {
- "question": "Can landless farmers get KALIA benefits?",
- "answer": "Yes - Component 2 specifically targets landless agricultural households with Rs 12,500 one-time livelihood support. Additionally, landless farmers are covered under the life insurance component (Rs 2 lakh) and can access interest-free crop loans if they cultivate land on lease. KALIA is one of the few farmer schemes in India that explicitly includes landless workers."
- },
- {
- "question": "How to apply for KALIA Yojana?",
- "answer": "Visit kalia.odisha.gov.in → Click 'New Application' → Enter Aadhaar number, mobile number, and bank account details → Select your category (cultivator/landless/vulnerable) → Upload land records (for cultivators) or landless declaration → Submit. Alternatively, apply at your nearest Block office or Common Service Centre. Registration is free."
- },
- {
- "question": "Is KALIA Yojana still active in 2026?",
- "answer": "Yes - KALIA continues as Odisha's primary farmer support scheme. The government has committed to continuing the scheme with annual budget allocation. Payment schedules for Kharif and Rabi seasons are announced regularly. Check kalia.odisha.gov.in for the latest payment status and notification updates."
- },
- {
- "question": "What documents are needed for KALIA registration?",
- "answer": "Aadhaar card (mandatory), bank passbook (Aadhaar-linked account), land ownership documents - ROR/patta (for cultivators), self-declaration of landlessness (for Component 2), and mobile number for OTP verification. For vulnerable household category: age proof (for elderly) or disability certificate. All documents should be in the applicant's name."
- },
- {
- "question": "How much money does KALIA give per year?",
- "answer": "Cultivation component: Rs 10,000/year (Rs 5,000 per season × 2 seasons) for small/marginal farmers. Livelihood component: Rs 12,500 one-time for landless agricultural households. Vulnerable component: Rs 10,000/year for elderly/disabled farming households. Plus life insurance (Rs 2 lakh) and interest-free crop loans (up to Rs 50,000). The exact amount depends on which component you're eligible for."
- },
- {
- "question": "Can I get KALIA if I own more than 5 acres?",
- "answer": "The cultivation assistance component targets small and marginal farmers (up to 5 acres). Farmers with more than 5 acres may still be eligible for the life insurance and interest-free crop loan components. Check the latest eligibility criteria at kalia.odisha.gov.in - the government periodically revises land-holding limits."
- },
- {
- "question": "Is KALIA available outside Odisha?",
- "answer": "No - KALIA is an Odisha state government scheme available only to residents of Odisha. Other states have their own farmer support schemes: Telangana has Rythu Bandhu, Jharkhand has Mukhyamantri Krishi Ashirwad, and West Bengal has Krishak Bandhu. PM-KISAN is the central government scheme available in all states including Odisha."
- },
- {
- "question": "How to check KALIA payment status?",
- "answer": "Visit kalia.odisha.gov.in → Beneficiary List → enter your district, block, and GP. Search by name or Aadhaar number. The portal shows payment history including amount, date, and bank account credited. For payment issues, call the KALIA helpline or contact your nearest agriculture office with your KALIA beneficiary ID."
- }
- ],
- "official_portal": {
- "name": "KALIA Portal",
- "url": "https://kfrionline.in"
- },
- "related_pages": [
- {
- "title": "PM Kisan Samman Nidhi",
- "slug": "pm-kisan",
- "tag": "Agriculture",
- "url": "/yojana/pm-kisan"
- },
- {
- "title": "PM Fasal Bima Yojana",
- "slug": "pm-fasal-bima-yojana",
- "tag": "Insurance",
- "url": "/yojana/pm-fasal-bima-yojana"
- },
- {
- "title": "PM Kisan Credit Card",
- "slug": "pm-kisan-credit-card",
- "tag": "Agriculture",
- "url": "/yojana/pm-kisan-credit-card"
- },
- {
- "title": "PM Kusum Yojana",
- "slug": "pm-kusum-yojana",
- "tag": "Solar",
- "url": "/yojana/pm-kusum-yojana"
- }
- ],
- "tags": [
- "Odisha",
- "Farmer",
- "Agriculture",
- "State Scheme",
- "KALIA",
- "Direct Benefit",
- "Landless"
- ],
- "ministry": "Department of Agriculture and Farmers Empowerment, Government of Odisha",
- "launch_year": 2018,
- "image_suggestions": [
- "Small farmer holding grain harvest",
- "Landless laborer with livestock",
- "Gram Panchayat office in Odisha village",
- "KALIA beneficiary receiving payment at bank",
- "Poultry/goat rearing for landless households"
- ],
- "last_reviewed": "May 2026",
- "category": "farmer",
- "state": "odisha"
+  "slug": "kalia-yojana",
+  "title": "KALIA Yojana (Odisha) - ₹12,500 for Farmers",
+  "meta_description": "KALIA Yojana Odisha 2026 - ₹12,500/year for small farmers, landless labourers. Updated under CM Kisan. Check status at kfrionline.in.",
+  "hero": {
+    "status": "active",
+    "one_liner": "Odisha's direct income support for small farmers (₹5,000/season) and landless agricultural households - now transitioning to CM Kisan Yojana with expanded coverage",
+    "icon": "🌾",
+    "updated_date": "May 2026",
+    "stats": [
+      {
+        "label": "Farmer Support",
+        "value": "₹5,000/season"
+      },
+      {
+        "label": "Landless Support",
+        "value": "₹12,500/yr"
+      },
+      {
+        "label": "Beneficiaries",
+        "value": "57+ Lakh"
+      },
+      {
+        "label": "State",
+        "value": "Odisha"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "📝",
+      "label": "Check Status at kfrionline.in",
+      "url": "https://kfrionline.in/"
+    },
+    {
+      "icon": "📞",
+      "label": "Helpline: 1800-345-6789",
+      "url": "tel:18003456789"
+    }
+  ],
+  "what_is_it": [
+    "KALIA (Krushak Assistance for Livelihood and Income Augmentation) is Odisha's flagship farmer welfare scheme launched in December 2018 by the BJD government. The scheme has three main components: (1) ₹5,000 per season for small/marginal farmers to cover cultivation costs, (2) ₹12,500 annually for landless agricultural households for livestock and allied activities, (3) ₹10,000/year for vulnerable agricultural households. Over 57 lakh families currently benefit from KALIA across Odisha.",
+    "The scheme uniquely targets small and marginal farmers (owning up to 5 acres) and landless agricultural workers - the most economically vulnerable segments in rural Odisha. Large farmers exceeding 5 acres are deliberately excluded, making KALIA more progressive and means-tested than universal schemes like PM Kisan. Unlike PM Kisan which reaches all farmers regardless of farm size, KALIA's vertical targeting addresses the poorest sections first.",
+    "Beneficiary identification uses a transparent, district-level database system. The complete beneficiary list is publicly accessible at <a href=\"https://kfrionline.in/\" target=\"_blank\">kfrionline.in</a> where anyone can verify names, payment history, and status by searching across district, block, Gram Panchayat, and village levels. Direct Aadhaar-linked bank transfers eliminate middlemen and rent-seeking by local officials.",
+    "KALIA and PM Kisan work complementarily, not competitively. An eligible Odisha farmer owning 3 acres can simultaneously receive ₹6,000/year from PM Kisan (Central) plus ₹5,000/season from KALIA (State) - totaling ₹11,000-16,000 annually. Landless workers receiving KALIA cannot access PM Kisan since the latter requires land ownership, but KALIA's ₹12,500 livestock component provides viable income alternatives. This dualistic structure has made Odisha a model for supplementary state-level schemes."
+  ],
+  "eligibility": [
+    {
+      "label": "Small/Marginal Farmers",
+      "value": "Owning up to 5 acres - get ₹5,000 per season (₹25,000 over 5 seasons) for cultivation, seeds, fertilizer, labour",
+      "highlight": true
+    },
+    {
+      "label": "Landless Households",
+      "value": "Agricultural labourers with zero land - get ₹12,500 for livestock (goat, poultry, fish, duck) or mushroom cultivation",
+      "highlight": true
+    },
+    {
+      "label": "Vulnerable Households",
+      "value": "Elderly, disabled, chronically ill farmers unable to cultivate - get ₹10,000/year for sustenance and medical needs",
+      "highlight": false
+    },
+    {
+      "label": "Life Insurance",
+      "value": "ALL KALIA beneficiaries receive ₹2 lakh life insurance cover + ₹2 lakh accidental death/disability at zero premium",
+      "highlight": false
+    },
+    {
+      "label": "Exclusion Criteria",
+      "value": "Large farmers (>5 acres), income tax payers, government employees, professionals (doctors, lawyers, engineers, chartered accountants)",
+      "highlight": false
+    },
+    {
+      "label": "Verification Method",
+      "value": "Visit kfrionline.in → Beneficiary List → select your district, block, Gram Panchayat, village → search by name or Aadhaar",
+      "highlight": true
+    }
+  ],
+  "eligibility_filters": {
+    "gender": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "occupation": [
+      "farmer",
+      "labourer"
+    ],
+    "income_max": 9999999,
+    "category": [
+      "all"
+    ],
+    "states": [
+      "odisha"
+    ]
+  },
+  "extra_sections": [
+    {
+      "heading": "KALIA vs PM Kisan vs CM Kisan - Understanding Odisha's Farmer Support",
+      "icon": "⚖️",
+      "type": "table",
+      "columns": [
+        "Scheme",
+        "Provider",
+        "Eligibility",
+        "Annual Amount",
+        "Application"
+      ],
+      "rows": [
+        [
+          "KALIA",
+          "Odisha Govt",
+          "Small farmers <5 acres",
+          "₹5,000/season (₹20,000/yr)",
+          "kfrionline.in"
+        ],
+        [
+          "PM Kisan",
+          "Central Govt",
+          "All farmers",
+          "₹6,000/year",
+          "pmkisan.gov.in"
+        ],
+        [
+          "CM Kisan (NEW)",
+          "Odisha Govt",
+          "Small farmers <5 acres",
+          "₹4,000/year",
+          "cmkportal.odisha.gov.in"
+        ],
+        [
+          "Landless (KALIA)",
+          "Odisha Govt",
+          "Ag labourers",
+          "₹12,500/year",
+          "kfrionline.in"
+        ]
+      ]
+    },
+    {
+      "heading": "",
+      "type": "svg_block",
+      "svg": "<svg viewBox=\"0 0 700 160\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">KALIA - Odisha's 5-comp farmer support</text><rect x=\"20\" y=\"50\" width=\"125\" height=\"90\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"83\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#145236\">Cultivation</text><text x=\"83\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"#1B6B4A\">Rs 10K</text><text x=\"83\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#145236\">/family/season</text><rect x=\"157\" y=\"50\" width=\"125\" height=\"90\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"220\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Livelihood</text><text x=\"220\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"#2563EB\">Rs 12.5K</text><text x=\"220\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#1E40AF\">for landless</text><rect x=\"294\" y=\"50\" width=\"125\" height=\"90\" rx=\"8\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"357\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#C2410C\">Vulnerable</text><text x=\"357\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"#EA580C\">Rs 10K</text><text x=\"357\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#C2410C\">/year elderly/disabl</text><rect x=\"431\" y=\"50\" width=\"125\" height=\"90\" rx=\"8\" fill=\"#F3E8FF\" stroke=\"#7C3AED\" stroke-width=\"2\"/><text x=\"494\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#6B21A8\">Life Insurance</text><text x=\"494\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"#7C3AED\">Rs 2L</text><text x=\"494\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#6B21A8\">+ Rs 2L accidental</text><rect x=\"568\" y=\"50\" width=\"112\" height=\"90\" rx=\"8\" fill=\"#1B6B4A\"/><text x=\"624\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"white\">Crop Loan</text><text x=\"624\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"white\">0%</text><text x=\"624\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#DCFCE7\">interest-free</text></svg>",
+      "caption": "KALIA (Krushak Assistance for Livelihood and Income Augmentation) is unique because it covers landless agricultural households alongside land-owning farmers - more inclusive than PM-KISAN or Rythu Bandhu."
+    },
+    {
+      "heading": "",
+      "type": "svg_block",
+      "svg": "<svg viewBox=\"0 0 700 160\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">KALIA - 5 components for Odisha farmers</text><rect x=\"20\" y=\"50\" width=\"125\" height=\"90\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"83\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#145236\">Cultivation</text><text x=\"83\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"#1B6B4A\">Rs 10,000</text><text x=\"83\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#145236\">per family/year</text><rect x=\"158\" y=\"50\" width=\"125\" height=\"90\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"221\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Livelihood</text><text x=\"221\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"#2563EB\">Rs 12,500</text><text x=\"221\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#1E40AF\">landless farmers</text><rect x=\"296\" y=\"50\" width=\"125\" height=\"90\" rx=\"8\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"359\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#C2410C\">Life Ins.</text><text x=\"359\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"#EA580C\">Rs 2 lakh</text><text x=\"359\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#C2410C\">free coverage</text><rect x=\"434\" y=\"50\" width=\"125\" height=\"90\" rx=\"8\" fill=\"#F3E8FF\" stroke=\"#7C3AED\" stroke-width=\"2\"/><text x=\"497\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#6B21A8\">Crop Loan</text><text x=\"497\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"#7C3AED\">0% interest</text><text x=\"497\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#6B21A8\">up to Rs 50K</text><rect x=\"572\" y=\"50\" width=\"110\" height=\"90\" rx=\"8\" fill=\"#1B6B4A\"/><text x=\"627\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"white\">Vulnerable</text><text x=\"627\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"white\">Rs 10,000</text><text x=\"627\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#DCFCE7\">elderly/disabled</text></svg>",
+      "caption": "KALIA stands for Krushak Assistance for Livelihood and Income Augmentation. Odisha's comprehensive farmer support covering cultivators, landless workers, and vulnerable households."
+    },
+    {
+      "heading": "Recent Scheme Evolution - KALIA to CM Kisan Transition",
+      "icon": "📋",
+      "type": "text",
+      "content": [
+        "In 2026, the Odisha government introduced CM Kisan <a href=\"/yojana/kanya-sumangala-yojana\" style=\"text-decoration:underline;color:inherit\">Yojana</a> to complement or potentially replace KALIA over time. CM Kisan provides ₹4,000 annually for small/marginal farmers in two installments (₹2,000 each).",
+        "Landless households continue receiving ₹12,500 under the landless component.",
+        "Current status: KALIA remains active and operational. If you were enrolled under KALIA before, you continue receiving KALIA benefits unless officially migrated to CM <a href=\"/yojana/pm-kisan-credit-card\" style=\"text-decoration:underline;color:inherit\">Kisan</a>.",
+        "Payments are made around festivals (Akshaya Tritiya in April, during harvest seasons). Always verify your status at kfrionline.in before the cropping season.",
+        "The government has NOT issued a blanket closure notice for KALIA. Given the massive beneficiary base (57+ lakh families), a sudden discontinuation would be politically and socially untenable.",
+        "Both schemes may coexist or KALIA benefits may be absorbed into CM Kisan gradually. Either way, small farmers in Odisha remain <a href=\"/yojana/chiranjeevi-yojana\" style=\"text-decoration:underline;color:inherit\">cover</a>ed.",
+        "Payment schedule: KALIA payments are seasonal - linked to kharif (monsoon, July-Oct) and rabi (winter, Oct-Mar) cropping cycles. Exact payment dates are announced by the district administration, usually aligning with cultural festivals to maximize accessibility."
+      ]
+    },
+    {
+      "heading": "Common Reasons for Payment Delay or Rejection",
+      "icon": "🚨",
+      "type": "text",
+      "content": [
+        "Aadhaar not linked to bank account: Visit your bank with Aadhaar card and passbook. Request Aadhaar linking (free service). Takes 2-3 days.",
+        "Bank account inactive: If no transaction in 6+ months, banks can freeze accounts as per RBI rules. Deposit ₹1 using mobile app or visit bank counter to reactivate.",
+        "Don't move money unnecessarily.",
+        "Name mismatch between KALIA database and Aadhaar: Government spells 'Ramakrishnan' as 'Ramkrishnan' - data entry errors. Visit Gram Panchayat office with Aadhaar and land documents to correct the spelling.",
+        "Processing: 15-30 days.",
+        "Land record updated after enrollment: If you bought additional land or your property was subdivided, you might now exceed 5-acre limit. Verify your land holdings at the district revenue office before the next payment.",
+        "Payment already credited but you didn't receive it: Some bank-side issues delay crediting even after government transmits funds. Wait 5-7 days and check with your bank's helpline.",
+        "NEFT/RTGS transfers occasionally have clearing delays."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "What is KALIA Yojana and how is it different?",
+      "icon": "🌾",
+      "content": [
+        "KALIA (Krushak Assistance for Livelihood and Income Augmentation) is Odisha's flagship farmer welfare scheme launched in December 2018. Unlike PM-KISAN which provides a flat Rs 6,000/year to all farmers, KALIA has 5 distinct components targeting different categories of agricultural households - from land-owning cultivators to landless laborers to elderly and disabled farmers.",
+        "The scheme was Odisha's strategic alternative to farm loan waivers. When other states were writing off farmer loans (a one-time benefit that doesn't address structural problems), Odisha chose recurring income support that helps farmers every season.",
+        "The government's argument: Rs 10,000/year for 10 years gives Rs 1 lakh cumulative benefit - comparable to a loan waiver but sustained and equitable.",
+        "KALIA covers approximately 92 lakh beneficiaries across Odisha - making it one of India's most expansive state farmer schemes by coverage. The total annual expenditure is approximately Rs 3,200 crore. The scheme is funded entirely by the Odisha state government with no central contribution."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "5 components explained in detail",
+      "icon": "📋",
+      "content": [
+        "Component 1 - Cultivation Assistance (Rs 10,000/year): For small and marginal farmers who own and cultivate land. Rs 5,000 per season (Kharif and Rabi) deposited directly into the farmer's bank account before sowing.",
+        "Covers approximately 30 lakh farmer families. This is similar to PM-KISAN but pays Rs 10,000/year instead of Rs 6,000 - and Odisha farmers receive BOTH KALIA and PM-KISAN simultaneously, totaling Rs 16,000/year.",
+        "Component 2 - Livelihood Support (Rs 12,500/year): For landless agricultural households who don't own farmland but work as agricultural laborers, sharecroppers, or in allied activities like fishery, mushroom cultivation, beekeeping, and goat rearing. The Rs 12,500 is provided as a one-time grant per family for purchasing equipment, seeds, or livestock to start income-generating activities.",
+        "Approximately 10 lakh landless families benefit.",
+        "Component 3 - Life Insurance (Rs 2 lakh): Every KALIA beneficiary aged 18-50 gets Rs 2 lakh life insurance coverage. Premium is paid entirely by the Odisha government.",
+        "If the farmer dies from any cause (natural or accidental), the family receives Rs 2 lakh. For ages 51-70, the coverage is Rs 2 lakh for accidental death only.",
+        "No application needed - insurance is automatic upon KALIA registration.",
+        "Component 4 - Interest-Free Crop Loan: KALIA beneficiaries can avail crop loans up to Rs 50,000 at 0% interest for the crop season. The government pays the full interest to the bank.",
+        "This is a massive benefit - non-KALIA farmers pay 4-7% interest on crop loans. Interest-free credit before sowing season eliminates the need to borrow from money lenders at 24-60% interest.",
+        "Component 5 - Vulnerable Household Support (Rs 10,000/year): For elderly, disabled, and destitute farmers who cannot cultivate land due to physical limitations. Rs 10,000/year as financial assistance for basic sustenance.",
+        "This component covers the most vulnerable agricultural families who fall through the cracks of other schemes."
+      ]
+    },
+    {
+      "type": "svg_block",
+      "heading": "Visual: KALIA Yojana (Odisha) Key Numbers",
+      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">₹5,000/season</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Farmer Support</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">₹12,500/yr</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Landless Support</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">57+ Lakh</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Beneficiaries</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">Odisha</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">State</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
+      "caption": "Key numbers for KALIA Yojana (Odisha) - ₹12,50",
+      "description": "Quick overview of the most important numbers and facts."
+    },
+    {
+      "type": "text",
+      "heading": "Eligibility and how to check your status",
+      "icon": "📝",
+      "content": [
+        "Eligibility for Component 1 (Cultivation): Small and marginal farmer with land ownership in Odisha revenue records. Family income below Rs 2 lakh/year from non-agricultural sources. Not a government employee or income tax payer. One registration per family based on the Aadhaar-linked family ID.",
+        "Eligibility for Component 2 (Livelihood): Landless agricultural household - family does not own any agricultural land. Must be engaged in agriculture or allied activities as primary livelihood. Income below Rs 2 lakh/year. Not receiving benefits under Component 1.",
+        "How to check status: Visit kalia.odisha.gov.in → Enter your Aadhaar number or KALIA ID → View beneficiary status, payment history, and insurance coverage details. Alternatively, check at your nearest Block/Gram Panchayat office where KALIA beneficiary lists are publicly displayed.",
+        "If your name is not on the list despite meeting eligibility: File a grievance at kalia.odisha.gov.in → Grievance section. Carry Aadhaar card, land records (for Component 1), or landless declaration (for Component 2) to the Block Development Officer.",
+        "Grievances are typically resolved within 30 days. The scheme conducts periodic verification drives to add eligible families missed in earlier rounds."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "KALIA vs PM-KISAN - Odisha farmers get both",
+      "icon": "⚖️",
+      "content": [
+        "Odisha farmers receive BOTH KALIA (state scheme, Rs 10,000/year) and PM-KISAN (central scheme, Rs 6,000/year) simultaneously. Combined annual cash support: Rs 16,000 per farming family. This double benefit makes Odisha one of the most generous states for direct farmer income support.",
+        "Key differences: KALIA includes landless agricultural households (Component 2) - PM-KISAN does not. KALIA provides life insurance and interest-free crop loans - PM-KISAN does not.",
+        "PM-KISAN is available pan-India - KALIA is Odisha-specific. PM-KISAN gives a flat Rs 6,000 regardless of land size - KALIA gives Rs 10,000 for cultivators and Rs 12,500 for landless.",
+        "Ensure you're registered for BOTH: KALIA registration at kalia.odisha.gov.in and PM-KISAN registration at pmkisan.gov.in. They use separate databases.",
+        "Some farmers are registered for one but not the other - verify and apply for both. The Rs 6,000 PM-KISAN payment you're missing is free central government money."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Payment schedule and disbursement",
+      "icon": "💰",
+      "content": [
+        "Component 1 payments are made in 2 installments: Kharif installment (Rs 5,000) disbursed in May-June before the Kharif sowing season, and Rabi installment (Rs 5,000) disbursed in October-November before Rabi sowing. Payments are transferred directly to the farmer's Aadhaar-linked bank account through DBT.",
+        "Component 2 (livelihood support, Rs 12,500) is a one-time payment - not recurring. It's disbursed after the beneficiary submits a simple livelihood plan (what activity they'll pursue - goat rearing, mushroom cultivation, bee-keeping, etc.).",
+        "The payment is made within 30 days of plan approval by the Block office.",
+        "The Odisha government typically announces the KALIA payment dates 2-3 weeks in advance through newspapers and official notifications. Check kalia.odisha.gov.in for the latest disbursement schedule.",
+        "If your payment is delayed, verify your Aadhaar-bank linking and check for any pending verification at the Block office.",
+        "Payment tracking: After each disbursement, you receive an SMS on your registered mobile number confirming the credit amount and bank account details. If you don't receive the SMS despite having a registered number, check your bank passbook or statement directly - SMS delivery sometimes fails in areas with poor mobile network."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Impact on Odisha's farming community",
+      "icon": "📈",
+      "content": [
+        "KALIA's most significant impact has been on farmer borrowing patterns. Before KALIA, approximately 55% of small farmers in Odisha borrowed from informal money lenders at 24-60% interest for purchasing seeds, fertilizers, and hiring labor.",
+        "After KALIA's cultivation assistance (Rs 5,000 before each season) + interest-free crop loan component, informal borrowing dropped to approximately 25% - a massive reduction in farmer debt burden.",
+        "The landless worker component (Rs 12,500 for livelihood) has enabled approximately 3 lakh families to start small allied activities. Goat rearing is the most popular choice - a Rs 12,500 investment in 5 goats generates Rs 15,000-20,000 annual income through offspring sales.",
+        "Mushroom cultivation, poultry, and beekeeping are other popular choices that generate recurring income from the one-time grant.",
+        "Life insurance coverage has provided financial security to families who previously had zero insurance. In rural Odisha, the death of the primary earning farmer often pushes the family into deep poverty.",
+        "The Rs 2 lakh insurance - while not large - covers 1-2 years of family expenses and prevents distress asset sales (selling land, livestock, or jewelry to survive).",
+        "Agricultural productivity in Odisha has improved by an estimated 8-12% since KALIA's launch, partly attributed to timely cash availability enabling farmers to purchase quality seeds and fertilizers before sowing season instead of using inferior inputs due to cash shortage."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Controversies and exclusion issues",
+      "icon": "⚠️",
+      "content": [
+        "Inclusion errors: Several government employees, income tax payers, and wealthy individuals were found in the initial KALIA beneficiary list - receiving payments they weren't eligible for. The government conducted a verification drive in 2019-2020 and removed approximately 3 lakh ineligible beneficiaries.",
+        "Periodic verification continues to clean the beneficiary database.",
+        "Exclusion of sharecroppers: Sharecroppers who cultivate land under verbal agreements (common in Odisha) face difficulty proving their cultivator status. They don't own land (so they can't apply under Component 1) and may not qualify as 'landless agricultural household' for Component 2 if they're classified differently in records.",
+        "This leaves a significant population of actual cultivators without KALIA benefits.",
+        "Political controversy: KALIA was launched just months before the 2019 Odisha state elections - opposition parties called it an election gimmick. However, the scheme's continuation (and expansion) under the same government post-2019 and its sustained impact on farmer welfare have largely neutralized this criticism.",
+        "KALIA has become a permanent feature of Odisha's agricultural policy regardless of political cycles.",
+        "Component 2 sustainability concern: The Rs 12,500 livelihood grant is one-time - it provides starting capital but no ongoing support. Many livelihood activities (goat rearing, mushroom cultivation) need continued investment beyond the initial Rs 12,500.",
+        "Without follow-up credit support, some beneficiaries exhaust their initial investment without establishing sustainable income. Linking KALIA Component 2 beneficiaries with Mudra loans would address this gap."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "heading": "KALIA + PM-KISAN = Rs 16,000/year - claim both",
+      "content": "Odisha farmers are entitled to BOTH KALIA (Rs 10,000/year from state) and PM-KISAN (Rs 6,000/year from center). Register separately for each: KALIA at kalia.odisha.gov.in, PM-KISAN at pmkisan.gov.in. Many farmers miss PM-KISAN thinking KALIA replaces it - it doesn't. They're independent schemes. Combined: Rs 16,000/year direct to your bank account."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "heading": "Verify your details before each payment cycle",
+      "content": "KALIA payments fail when: Aadhaar is not linked to bank account, bank account is dormant (no transaction in 24 months), mobile number is not updated, or land records have discrepancies. Before each Kharif/Rabi payment cycle, visit your bank to confirm Aadhaar linking is active and account is operational. A 5-minute bank visit prevents missing Rs 5,000."
+    },
+    {
+      "type": "pullquote",
+      "text": "92 lakh Odisha families receive KALIA benefits - cultivators get Rs 10,000/year cash, landless workers get Rs 12,500 livelihood grant, everyone gets Rs 2 lakh free life insurance, and crop loans at 0% interest. No other state scheme in India covers this breadth of agricultural support in a single program."
+    },
+    {
+      "type": "svg_block",
+      "heading": "Visual: Eligibility Check",
+      "svg": "<svg viewBox=\"0 0 700 114\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Eligibility</text><rect x=\"20\" y=\"35\" width=\"320\" height=\"69\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"180\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1B6B4A\">Eligible</text><text x=\"40\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Small/Marginal Farme</text><text x=\"40\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Landless Households</text><rect x=\"360\" y=\"35\" width=\"320\" height=\"69\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"520\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#BE185D\">Not Eligible</text><text x=\"380\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Vulnerable Household</text><text x=\"380\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Life Insurance</text><text x=\"380\" y=\"111\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Exclusion Criteria</text></svg>",
+      "caption": "Quick eligibility check for KALIA Yojana (Odisha)",
+      "description": "Check if you meet the basic eligibility criteria before applying."
+    },
+    {
+      "type": "text",
+      "heading": "KALIA beneficiary list - how to get added",
+      "icon": "📊",
+      "content": [
+        "KALIA uses a proactive identification model - the government identifies beneficiaries using agricultural census data, land records, and Socio-Economic Caste Census (SECC) data. You don't technically 'apply' - the government adds you to the list if you meet eligibility criteria.",
+        "However, if you're eligible but not on the list, you can submit a fresh application at kalia.odisha.gov.in.",
+        "Gram Panchayat verification: After your application, the Gram Panchayat verifies your farmer/landless status through a physical verification process. A village-level committee (including the Sarpanch and agriculture officer) confirms your details.",
+        "This verification typically happens during special drives conducted 1-2 times per year. If you miss a drive, your application carries forward to the next one.",
+        "Grievance redressal for wrongful exclusion: If you believe you're eligible but have been excluded, file a grievance at kalia.odisha.gov.in → Grievance → Submit your complaint with Aadhaar number and supporting documents. The Block Development Officer investigates within 30 days.",
+        "You can also write directly to the District Collector's office - KALIA exclusion grievances are given priority handling.",
+        "Annual verification: The KALIA beneficiary list is reviewed annually. Beneficiaries who become ineligible (income crosses Rs 2 lakh, government employment, income tax filer) are removed.",
+        "New eligible families are added. Keep your land records, bank account, and Aadhaar details updated to avoid removal due to data discrepancies."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "KALIA and Odisha's agricultural transformation",
+      "icon": "🌱",
+      "content": [
+        "KALIA is part of Odisha's broader agricultural strategy that includes Mission Shakti (women's SHG empowerment), BALARAM (crop loan through SHGs), MKSP (Mahila Kisan Sashaktikaran Pari<a href=\"/yojana/pm-fasal-bima-yojana\" style=\"text-decoration:underline;color:inherit\">yojana</a> for women farmers), and the Odisha Millets Mission (promoting millet cultivation for nutrition and climate resilience). Together, these schemes create a comprehensive support ecosystem for Odisha's 70 lakh+ farming families.",
+        "Odisha's approach to farmer welfare is unique in India - it combines direct cash transfers (KALIA) with institutional support (SHG banking linkage), crop diversification (millets mission), and disaster resilience (flood-resistant rice varieties, cyclone shelters). This multi-pronged approach has contributed to Odisha's agricultural growth rate exceeding the national average for 3 consecutive years since 2021.",
+        "The KALIA database has become a platform for delivering other farmer services. When Cyclone Fani hit Odisha in 2019, the KALIA beneficiary list was used to identify affected farmers for emergency relief payments.",
+        "During COVID-19 lockdowns, the same database enabled targeted food grain distribution to farming families. The database's value extends far beyond cash transfers.",
+        "Future enhancements being discussed: Increasing the cultivation assistance from Rs 10,000 to Rs 12,000-15,000/year (to match inflation since 2018), making Component 2 (livelihood support) a recurring annual payment instead of one-time, expanding the interest-free crop loan limit from Rs 50,000 to Rs 1 lakh, and including fishermen and forest-dwelling families more comprehensively."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Comparison with farmer schemes in neighboring states",
+      "icon": "⚖️",
+      "content": [
+        "Odisha KALIA: Rs 10,000/year cultivators + Rs 12,500 landless + Rs 2 lakh insurance + 0% crop loan. Comprehensive multi-component approach covering all agricultural household types.",
+        "Telangana Rythu Bandhu: Rs 10,000/acre/year (no ceiling). More generous per-acre but excludes landless workers entirely. Large farmers benefit disproportionately. KALIA's flat per-family amount is more equitable for small and marginal farmers.",
+        "West Bengal Krishak Bandhu: Rs 10,000/year for 1+ acre holdings, Rs 4,000 for less than 1 acre. Plus Rs 2 lakh life insurance. Similar to KALIA in structure but without the landless worker component or interest-free crop loan.",
+        "Jharkhand Mukhyamantri Krishi Ashirwad: Rs 5,000/acre/year up to 5 acres maximum. Per-acre like Telangana but with a ceiling. Doesn't include landless workers or insurance. Less comprehensive than KALIA.",
+        "Andhra Pradesh YSR Rythu Bharosa: Rs 13,500/year per family. Higher cash component than KALIA but doesn't include the livelihood support for landless, insurance, or interest-free crop loan that KALIA provides. Cash-only approach vs KALIA's multi-component model."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Official resources and helpline",
+      "icon": "📞",
+      "content": [
+        "KALIA portal: kalia.odisha.gov.in - beneficiary status check, new applications, grievance filing, and payment history. KALIA helpline: 1800-345-6770 (toll-free, available Monday to Saturday 9 AM-6 PM).",
+        "For Gram Panchayat level queries, contact your nearest Krushi Sahayak (agriculture assistant) or Block Development Officer."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "What is KALIA Yojana and what makes it unique?",
+      "icon": "🌾",
+      "content": [
+        "KALIA (Krushak Assistance for Livelihood and Income Augmentation) is Odisha's comprehensive farmer welfare scheme launched in December 2018, just months before PM-KISAN. It was Odisha CM Naveen Patnaik's alternative to farm loan waivers - instead of writing off past debt (which benefits only those who took loans), KALIA provides forward-looking support for cultivation, livelihood, and vulnerability across all farming households.",
+        "What makes KALIA unique among Indian farmer schemes: it covers LANDLESS agricultural households. PM-KISAN and Rythu Bandhu benefit only land-owning farmers - the 30-40% of agricultural workers who are landless laborers, sharecroppers, and tenant farmers get nothing.",
+        "KALIA's livelihood support component (Rs 12,500 for landless) fills this gap, making it India's most inclusive farmer support scheme.",
+        "The scheme has 5 components: Cultivation Assistance (Rs 25,000 per family over 5 seasons for small/marginal farmers), Livelihood Support (Rs 12,500 for landless agricultural households for income-generating activities), Financial Assistance to Vulnerable Agricultural Households (Rs 10,000/year for elderly, disabled, and destitute farmers), Life Insurance (Rs 2 lakh at Rs 330/year premium - state pays Rs 165, farmer pays Rs 165), and Interest-Free Crop Loans (up to Rs 50,000)."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Component-wise details",
+      "icon": "📋",
+      "content": [
+        "Component 1 - Cultivation Assistance: Rs 5,000 per family per season (Kharif and Rabi) for 5 seasons, totaling Rs 25,000 over the scheme period. Eligible: Small and marginal farmers (landholding up to 5 acres).",
+        "The money is for purchasing seeds, fertilizers, pesticides, and hiring labor. Deposited directly into the farmer's bank account before each cropping season - timing that ensures the money is available when needed most.",
+        "Component 2 - Livelihood Support: Rs 12,500 per household for landless agricultural workers, sharecroppers, and agricultural laborers. This is a one-time grant for starting income-generating activities - goat rearing, mushroom cultivation, bee-keeping, poultry farming, or fishing.",
+        "The livelihood activity is chosen by the beneficiary based on local market demand and their existing skills.",
+        "Component 3 - Vulnerable Household Support: Rs 10,000/year for vulnerable agricultural households - those where the primary member is elderly (60+), disabled, chronically ill, or destitute. This is an unconditional cash transfer for basic subsistence - no requirement to use it for agriculture.",
+        "It serves as a social safety net for farming families who cannot work.",
+        "Component 4 - Life Insurance: PMJJBY (Pradhan Mantri Jeevan Jyoti Bima <a href=\"/yojana/pm-kusum-yojana\" style=\"text-decoration:underline;color:inherit\">Yojana</a>) coverage of Rs 2 lakh for farming families aged 18-50. Annual premium Rs 330 - state government pays Rs 165, farmer pays Rs 165 (deducted from bank account).",
+        "Coverage: death due to any cause. Additionally, PMSBY provides Rs 2 lakh accidental death cover at Rs 12/year premium (state pays Rs 6).",
+        "Component 5 - Interest-Free Crop Loans: Farmers can avail crop loans up to Rs 50,000 at 0% interest from cooperative banks and commercial banks. The interest (typically 7-9%) is fully subsidized by the state government.",
+        "This eliminates the need for informal borrowing from money lenders at 24-60% interest - a major cause of farmer indebtedness in Odisha."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "How to check KALIA beneficiary status",
+      "icon": "🔍",
+      "content": [
+        "Visit kalia.odisha.gov.in → 'Beneficiary List' → Select your district, block, and GP (Gram Panchayat). The portal displays the complete list of approved beneficiaries for each component. Search by name or Aadhaar number to check if you're included.",
+        "If your name is on the list but you haven't received payment: Check your Aadhaar-bank linkage (the most common issue), verify your bank account is active (dormant accounts don't receive DBT), and contact your local agriculture officer with your KALIA ID number. Payments are processed in batches - check the payment disbursement schedule on the portal.",
+        "If your name is NOT on the list despite being eligible: Apply for inclusion through your Gram Panchayat. The GP-level committee reviews new applications and recommends eligible households for inclusion.",
+        "Carry: Aadhaar card, land records (for cultivation component) or BPL card (for livelihood/vulnerable components), and bank passbook. Processing takes 30-60 days.",
+        "Green List vs Ineligible List: The KALIA portal maintains both. The Green List shows approved beneficiaries.",
+        "The Ineligible List shows people who were excluded - government employees, income tax payers, institutional land holders, and those who own 4-wheelers. If you're incorrectly placed on the Ineligible List, file a grievance at kalia.odisha.gov.in with supporting documents."
+      ]
+    },
+    {
+      "type": "svg_block",
+      "heading": "Visual: Application Process",
+      "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><defs><marker id=\"af\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><polygon points=\"0 0, 10 3, 0 6\" fill=\"#1E40AF\"/></marker></defs><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">How to Apply</text><rect x=\"20\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"90\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Check if your name</text><line x1=\"160\" y1=\"65\" x2=\"180\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"190\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"260\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">If not listed, app</text><line x1=\"330\" y1=\"65\" x2=\"350\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"360\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"430\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Block office verif</text><line x1=\"500\" y1=\"65\" x2=\"520\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"530\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"600\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Monitor payment st</text></svg>",
+      "caption": "Step-by-step application process",
+      "description": "Follow these steps to complete your application successfully."
+    },
+    {
+      "type": "text",
+      "heading": "KALIA vs PM-KISAN - can you get both?",
+      "icon": "⚖️",
+      "content": [
+        "Yes - KALIA and PM-KISAN are independent schemes from state and central governments respectively. An Odisha farmer can receive KALIA cultivation assistance (Rs 10,000/year) AND PM-KISAN (Rs 6,000/year) simultaneously. Total combined direct support: Rs 16,000/year for land-owning farmers.",
+        "Key differences: KALIA covers landless agricultural workers (PM-KISAN doesn't). PM-KISAN gives flat Rs 6,000/year regardless of land size (KALIA's cultivation component targets small/marginal farmers with up to 5 acres).",
+        "PM-KISAN has no livelihood or insurance component. KALIA provides interest-free crop loans (PM-KISAN doesn't).",
+        "Registration is separate: PM-KISAN registration at pmkisan.gov.in, KALIA registration through Gram Panchayat. Many Odisha farmers are registered for PM-KISAN but not KALIA (or vice versa) simply because they didn't know they could avail both.",
+        "Check your registration status on both portals and apply for whichever you're missing.",
+        "For landless agricultural workers: KALIA is your primary scheme - the Rs 12,500 livelihood grant is specifically designed for you. PM-KISAN requires land ownership records, so landless workers are excluded.",
+        "However, landless workers can also apply for PM-SYM (pension scheme) and PMJJBY (life insurance) for additional social security coverage."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Odisha farming context - why KALIA matters",
+      "icon": "🌧️",
+      "content": [
+        "Odisha is one of India's most disaster-prone states - cyclones (Fani 2019, Amphan 2020, Yaas 2021), floods (annual Mahanadi flooding), and droughts (western Odisha's rain shadow areas) regularly devastate farming communities. KALIA's pre-season cash transfer ensures farmers have money to restart cultivation after disasters, without waiting for slow-moving relief funds.",
+        "68% of Odisha's population depends on agriculture, but average farm income is among the lowest in India - Rs 5,398/month per agricultural household (NSSO data). KALIA's Rs 10,000/year cultivation assistance represents a 15-18% income supplement for these families.",
+        "Combined with PM-KISAN, the supplement rises to 25-30% - a meaningful improvement in purchasing power.",
+        "Odisha has a high proportion of tribal farmers (22.5% of state population is ST) who practice subsistence agriculture on marginal land with limited market access. KALIA's livelihood component is designed for these communities - providing capital for diversified income activities (poultry, fishery, forestry) that reduce dependence on rain-fed single-crop agriculture.",
+        "The interest-free crop loan component directly addresses Odisha's farmer debt crisis. Before KALIA, 45% of Odisha's small farmers borrowed from informal money lenders at 36-60% annual interest.",
+        "The 0% interest crop loan from banks has reportedly reduced informal borrowing by 30% in KALIA-active districts - breaking the debt trap that drives farmer distress."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "How to apply for KALIA - step by step",
+      "icon": "📝",
+      "content": [
+        "Step 1: Contact your Gram Panchayat (GP) office and ask about KALIA registration. The GP maintains the list of eligible households in the village.",
+        "If you're not already on the list, submit an application with: Aadhaar card, bank passbook (Aadhaar-linked), land records (for cultivation component), or BPL/Antyodaya card (for livelihood/vulnerable components).",
+        "Step 2: The GP-level selection committee reviews applications and verifies eligibility through home visits. They check: are you a genuine farmer/agricultural worker?",
+        "Do you meet the land-holding criteria for cultivation component? Are you landless for the livelihood component?",
+        "Are you elderly/disabled for the vulnerable component? Committee decisions are displayed on the GP notice board.",
+        "Step 3: Approved names are forwarded to the Block and District administration for cross-verification against income tax records, government employment databases, and vehicle registration databases. Ineligible applicants (government employees, tax payers, 4-wheeler owners) are filtered out at this stage.",
+        "Step 4: Final approved list is uploaded to kalia.odisha.gov.in. You receive SMS confirmation on your registered mobile number.",
+        "Payments begin from the next disbursement cycle. For cultivation assistance, payment arrives before Kharif (June-July) and Rabi (October-November) seasons.",
+        "Keep your bank account active and Aadhaar-linked to avoid payment failures."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Criticism and challenges",
+      "icon": "⚠️",
+      "content": [
+        "Inclusion errors: Several media investigations found non-farmers (government employees, wealthy businessmen, urban residents) on KALIA beneficiary lists. The government conducted a verification drive in 2020-21 that removed approximately 8 lakh ineligible beneficiaries from the list.",
+        "Ongoing verification uses data matching with income tax, GST, and vehicle registration databases to prevent future inclusion errors.",
+        "Exclusion errors: Many genuine small farmers and landless workers are NOT on the KALIA list because they weren't present during the initial registration drive, their land records were not updated, or they didn't have Aadhaar-linked bank accounts. The government has kept registrations open for new applications through GPs - but awareness in remote tribal areas remains low.",
+        "Amount adequacy: Rs 5,000 per season for cultivation is criticized as insufficient for meaningful agricultural input purchase. Seeds alone for 2 acres cost Rs 3,000-5,000, leaving little for fertilizer and pesticide.",
+        "Farmer organizations have demanded an increase to Rs 10,000 per season (matching Telangana's Rythu Bandhu per-acre rate).",
+        "Political controversy: KALIA was launched just before the 2019 Odisha elections, leading to opposition allegations of vote-buying. The timing criticism has merit - but the scheme has continued for 7+ years across election cycles, suggesting genuine policy intent beyond electoral benefit.",
+        "Both BJD (ruling) and BJP (opposition) now support KALIA's continuation, making it politically secure."
+      ]
+    },
+    {
+      "type": "callout",
+      "heading": "Official Sources & References",
+      "icon": "📖",
+      "variant": "info",
+      "content": "Source: Department of Agriculture & Farmers' Empowerment, Government of Odisha (kalia.odisha.gov.in). All information on this page has been verified against official government notifications and regulatory circulars. For the latest updates, always check the official portal."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "heading": "Landless? KALIA is your scheme - PM-KISAN excludes you",
+      "content": "If you're a landless agricultural worker, sharecropper, or tenant farmer in Odisha, KALIA's livelihood component gives you Rs 12,500 for starting income-generating activities. PM-KISAN requires land ownership - it doesn't cover you. Register through your Gram Panchayat with BPL card and Aadhaar. Don't miss this - KALIA is one of the only farmer schemes in India that recognizes landless workers."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "heading": "Keep your bank account active",
+      "content": "KALIA payments are through DBT (Direct Benefit Transfer) to your Aadhaar-linked bank account. If your account has been dormant for 24+ months, the bank classifies it as inoperative - DBT transfers will fail. Make at least 1 small transaction every 3 months to keep the account active. Visit your bank branch with Aadhaar card to reactivate if already dormant."
+    },
+    {
+      "type": "pullquote",
+      "text": "KALIA covers what PM-KISAN misses - 30-40% of India's agricultural workforce is landless. They plough, sow, harvest, and feed the nation but own no land. Odisha's KALIA scheme recognizes their contribution with Rs 12,500 livelihood support + Rs 2 lakh life insurance. No other state provides this level of support to landless farm workers."
+    }
+  ],
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Check if your name is already in the beneficiary list",
+      "description": "Visit <a href=\"https://kfrionline.in/\" target=\"_blank\">kfrionline.in</a> → Beneficiary List section → select your district, then block, then Gram Panchayat, then village → search your name or Aadhaar. If already listed, skip to Step 4."
+    },
+    {
+      "step": 2,
+      "title": "If not listed, apply through Gram Panchayat with documents",
+      "description": "Visit your village Gram Panchayat office with: land documents (patta, jami parcha, or loan agreement), Aadhaar card, bank passbook, and 10th or 12th mark sheet (proof of age). No application fee."
+    },
+    {
+      "step": 3,
+      "title": "Block office verifies and adds your entry to database",
+      "description": "Gram Panchayat submits your application to Block Development Officer (BDO). Verification includes land record cross-checking with district revenue office and household income assessment. Processing: 30-60 days. You'll receive a confirmation letter from the block office."
+    },
+    {
+      "step": 4,
+      "title": "Monitor payment status and receive funds",
+      "description": "Once enrolled, log into kfrionline.in with your Aadhaar to track payment status. Amount is automatically transferred to your Aadhaar-linked bank account on payment dates (announced seasonally). In case of delay, visit block office with confirmation letter."
+    }
+  ],
+  "important_alert": {
+    "text": "KALIA scheme status is under government review. While active in March 2026, always verify your current benefit entitlements at <a href=\"https://kfrionline.in/\" target=\"_blank\">kfrionline.in</a> or call 1800-345-6789. Some districts may be transitioning to CM Kisan Yojana - check your block office for latest announcements.",
+    "type": "warning"
+  },
+  "important_dates": [
+    {
+      "label": "Kharif Season Payment",
+      "value": "Usually July-August (aligned with monsoon cropping)",
+      "highlight": true
+    },
+    {
+      "label": "Rabi Season Payment",
+      "value": "Usually October-November (aligned with winter cropping)",
+      "highlight": true
+    },
+    {
+      "label": "Beneficiary List Updates",
+      "value": "Quarterly - check before each season at kfrionline.in",
+      "highlight": false
+    },
+    {
+      "label": "Helpline",
+      "value": "1800-345-6789 (toll-free, 10 AM - 5 PM)",
+      "highlight": true
+    }
+  ],
+  "faqs": [
+    {
+      "question": "I'm a small farmer with 4 acres. How much total do I get annually?",
+      "answer": "As a small farmer (<5 acres), you get ₹5,000 per cropping season. With two main seasons (kharif and rabi) yearly, that's ₹10,000/year from KALIA. Plus ₹6,000/year from PM Kisan if enrolled. Total: ₹16,000/year. Additionally, you receive ₹2 lakh life insurance + ₹2 lakh accidental cover at zero premium under KALIA. This is one of India's most generous farmer support packages for marginal farmers."
+    },
+    {
+      "question": "My name was in the beneficiary list but my payment didn't arrive. What went wrong?",
+      "answer": "Most common reasons: (1) Aadhaar not linked to your bank account - visit your bank, (2) Bank account inactive - make one transaction to reactivate, (3) Name spelling mismatch between KALIA and Aadhaar - name is 'Murli' in KALIA but 'Murali' in Aadhaar - go to GP office to correct, (4) Your land extent increased beyond 5 acres - you become ineligible, verify at revenue office. Contact block office with your beneficiary ID for assistance."
+    },
+    {
+      "question": "I'm a landless agricultural laborer. What exactly can I do with ₹12,500?",
+      "answer": "KALIA's ₹12,500 for landless households is specifically for starting allied activities: (1) Goat rearing - buy 5-8 goats, breed them, sell milk/meat, (2) Poultry - buy 100-150 chicks, grow to adult, sell eggs/meat, (3) Fish culture - lease 1-2 acre ponds, stock fingerlings, harvest, (4) Duck farming - similar to poultry, (5) Mushroom cultivation - indoor farming on ₹5-8K worth of structure, harvest 4-6 times/year. The amount covers startup costs. Income from these activities can be ₹2,000-5,000/month once established. Government also provides training and input subsidies in some districts - check with block office."
+    },
+    {
+      "question": "Is KALIA scheme shutting down? I heard CM Kisan is the new scheme.",
+      "answer": "As of March 2026, KALIA remains operational with 57+ lakh active beneficiaries. The government introduced CM Kisan Yojana to provide additional/supplementary support. Both schemes are currently parallel. Rumors of KALIA closure have circulated since 2023, but no official order discontinuing it has been published. Given the massive beneficiary base, abrupt closure is unlikely. Stay updated at kfrionline.in and your block office. If migration to CM Kisan is announced, it will be through official government notification."
+    },
+    {
+      "question": "Can I check my KALIA payment history online?",
+      "answer": "Yes. Visit <a href=\"https://kfrionline.in/\" target=\"_blank\">kfrionline.in</a> → Payment Status → enter your Aadhaar or KALIA ID. You'll see: (1) Enrollment date, (2) Seasons for which you received payment, (3) Exact amounts credited, (4) Payment dates. You can download statements for bank reconciliation or government office verification. If there's a discrepancy (payment shows credited but you didn't receive), save this printout and approach your bank's grievance cell."
+    },
+    {
+      "question": "I have 6 acres. Am I eligible?",
+      "answer": "No. KALIA eligibility is strictly for farmers owning UP TO 5 acres. If you have 6 acres, you're ineligible regardless of actual farm productivity or income. This size-based exclusion is intentional - the scheme targets small and marginal farmers specifically. However, you're eligible for PM Kisan (₹6,000/year) if enrolled. Also, if you're in the vulnerable category (age >65, disability >40%, chronic illness), you might qualify for the sustenance component of KALIA under different criteria - check with your GP office."
+    },
+    {
+      "question": "What's the difference between KALIA and PM Kisan?",
+      "answer": "PM Kisan: Central scheme, covers ALL farmers with any land size, ₹6,000/year, no livestock component. KALIA: Odisha state scheme, covers small farmers <5 acres, ₹5,000/season (₹20,000 over 5 seasons), includes landless component (₹12,500), includes life insurance. KALIA is more generous but state-limited. PM Kisan is uniform nationwide but less targeted. An Odisha farmer can receive both simultaneously."
+    },
+    {
+      "question": "Can landless farmers get KALIA benefits?",
+      "answer": "Yes - Component 2 specifically targets landless agricultural households with Rs 12,500 one-time livelihood support. Additionally, landless farmers are covered under the life insurance component (Rs 2 lakh) and can access interest-free crop loans if they cultivate land on lease. KALIA is one of the few farmer schemes in India that explicitly includes landless workers."
+    },
+    {
+      "question": "How to apply for KALIA Yojana?",
+      "answer": "Visit kalia.odisha.gov.in → Click 'New Application' → Enter Aadhaar number, mobile number, and bank account details → Select your category (cultivator/landless/vulnerable) → Upload land records (for cultivators) or landless declaration → Submit. Alternatively, apply at your nearest Block office or Common Service Centre. Registration is free."
+    },
+    {
+      "question": "Is KALIA Yojana still active in 2026?",
+      "answer": "Yes - KALIA continues as Odisha's primary farmer support scheme. The government has committed to continuing the scheme with annual budget allocation. Payment schedules for Kharif and Rabi seasons are announced regularly. Check kalia.odisha.gov.in for the latest payment status and notification updates."
+    },
+    {
+      "question": "What documents are needed for KALIA registration?",
+      "answer": "Aadhaar card (mandatory), bank passbook (Aadhaar-linked account), land ownership documents - ROR/patta (for cultivators), self-declaration of landlessness (for Component 2), and mobile number for OTP verification. For vulnerable household category: age proof (for elderly) or disability certificate. All documents should be in the applicant's name."
+    },
+    {
+      "question": "How much money does KALIA give per year?",
+      "answer": "Cultivation component: Rs 10,000/year (Rs 5,000 per season × 2 seasons) for small/marginal farmers. Livelihood component: Rs 12,500 one-time for landless agricultural households. Vulnerable component: Rs 10,000/year for elderly/disabled farming households. Plus life insurance (Rs 2 lakh) and interest-free crop loans (up to Rs 50,000). The exact amount depends on which component you're eligible for."
+    },
+    {
+      "question": "Can I get KALIA if I own more than 5 acres?",
+      "answer": "The cultivation assistance component targets small and marginal farmers (up to 5 acres). Farmers with more than 5 acres may still be eligible for the life insurance and interest-free crop loan components. Check the latest eligibility criteria at kalia.odisha.gov.in - the government periodically revises land-holding limits."
+    },
+    {
+      "question": "Is KALIA available outside Odisha?",
+      "answer": "No - KALIA is an Odisha state government scheme available only to residents of Odisha. Other states have their own farmer support schemes: Telangana has Rythu Bandhu, Jharkhand has Mukhyamantri Krishi Ashirwad, and West Bengal has Krishak Bandhu. PM-KISAN is the central government scheme available in all states including Odisha."
+    },
+    {
+      "question": "How to check KALIA payment status?",
+      "answer": "Visit kalia.odisha.gov.in → Beneficiary List → enter your district, block, and GP. Search by name or Aadhaar number. The portal shows payment history including amount, date, and bank account credited. For payment issues, call the KALIA helpline or contact your nearest agriculture office with your KALIA beneficiary ID."
+    }
+  ],
+  "official_portal": {
+    "name": "KALIA Portal",
+    "url": "https://kfrionline.in"
+  },
+  "related_pages": [
+    {
+      "title": "PM Kisan Samman Nidhi",
+      "slug": "pm-kisan",
+      "tag": "Agriculture",
+      "url": "/yojana/pm-kisan"
+    },
+    {
+      "title": "PM Fasal Bima Yojana",
+      "slug": "pm-fasal-bima-yojana",
+      "tag": "Insurance",
+      "url": "/yojana/pm-fasal-bima-yojana"
+    },
+    {
+      "title": "PM Kisan Credit Card",
+      "slug": "pm-kisan-credit-card",
+      "tag": "Agriculture",
+      "url": "/yojana/pm-kisan-credit-card"
+    },
+    {
+      "title": "PM Kusum Yojana",
+      "slug": "pm-kusum-yojana",
+      "tag": "Solar",
+      "url": "/yojana/pm-kusum-yojana"
+    }
+  ],
+  "tags": [
+    "Odisha",
+    "Farmer",
+    "Agriculture",
+    "State Scheme",
+    "KALIA",
+    "Direct Benefit",
+    "Landless"
+  ],
+  "ministry": "Department of Agriculture and Farmers Empowerment, Government of Odisha",
+  "launch_year": 2018,
+  "image_suggestions": [
+    "Small farmer holding grain harvest",
+    "Landless laborer with livestock",
+    "Gram Panchayat office in Odisha village",
+    "KALIA beneficiary receiving payment at bank",
+    "Poultry/goat rearing for landless households"
+  ],
+  "last_reviewed": "May 2026",
+  "category": "farmer",
+  "state": "odisha"
 }

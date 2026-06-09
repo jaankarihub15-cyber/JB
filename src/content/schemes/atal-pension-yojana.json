@@ -1,553 +1,550 @@
 {
- "slug": "atal-pension-yojana",
- "title": "Atal Pension Yojana",
- "meta_description": "Atal Pension Yojana 2026 - guaranteed monthly pension of ₹1,000 to ₹5,000 after age 60. Check contribution chart, eligibility, how to enroll through banks.",
- "hero": {
- "status": "active",
- "one_liner": "Guaranteed monthly pension of ₹1,000 to ₹5,000 after age 60 - India's most affordable pension scheme for workers in the unorganized sector",
- "icon": "👴",
- "updated_date": "May 2026",
- "stats": [
- {
- "label": "Pension Range",
- "value": "₹1,000–5,000/mo"
- },
- {
- "label": "Enrollment Age",
- "value": "18–40 years"
- },
- {
- "label": "Subscribers",
- "value": "6+ Crore"
- },
- {
- "label": "Min. Contribution",
- "value": "₹42/mo"
- }
- ]
- },
- "quick_actions": [
- {
- "icon": "📝",
- "label": "Enroll at Bank",
- "url": "https://www.npscra.nsdl.co.in/nsdl/scheme-details/APY.html"
- },
- {
- "icon": "📊",
- "label": "Contribution Calculator",
- "url": "https://www.npscra.nsdl.co.in/nsdl/scheme-details/APY.html"
- },
- {
- "icon": "📞",
- "label": "NPS Helpline: 1800-889-1030",
- "url": "tel:18008891030"
- }
- ],
- "what_is_it": [
- "Atal Pension Yojana (APY) is a government-backed pension scheme launched on 9 May 2015, primarily designed for workers in the unorganized sector - daily wage earners, self-employed individuals, domestic workers, drivers, street vendors, and anyone who doesn't have a formal employer-provided pension. The scheme is administered by the Pension Fund Regulatory and Development Authority (PFRDA) through the National Pension System architecture.",
- "The core promise is simple: contribute a small monthly amount (starting as low as ₹42/month if you join at age 18) and receive a guaranteed fixed monthly pension of ₹1,000 to ₹5,000 for life after turning 60. After the subscriber's death, the same pension continues for the spouse. After both pass away, the accumulated pension corpus is returned to the nominee.",
- "APY is one of the most affordable pension products available in India. A person joining at age 18 with a monthly contribution of just ₹210/month will receive ₹5,000 guaranteed pension every month from age 60 onwards - that's ₹60,000 per year for life. The government also provides co-contribution for eligible subscribers who are not income tax payers and not covered by any other social security scheme.",
- "As of March 2026, over 6 crore Indians have enrolled in APY. The scheme has been particularly popular in states like Uttar Pradesh, Bihar, Maharashtra, and Tamil Nadu. Any Indian citizen between 18-40 years with a savings bank account can enroll at any bank branch."
- ],
- "eligibility": [
- {
- "label": "Age",
- "value": "18 to 40 years at the time of enrollment (pension starts at 60)",
- "highlight": true
- },
- {
- "label": "Bank account",
- "value": "Must have a savings bank account in any bank with Aadhaar-linked mobile number",
- "highlight": false
- },
- {
- "label": "Aadhaar",
- "value": "Mandatory - Aadhaar number must be provided during enrollment",
- "highlight": false
- },
- {
- "label": "Existing pension",
- "value": "Should NOT be a member of any other statutory social security scheme (EPF, NPS-Govt) - NPS-Private is allowed",
- "highlight": false
- },
- {
- "label": "Income tax",
- "value": "Income tax payers are allowed to join since October 2022 but won't get govt co-contribution",
- "highlight": false
- },
- {
- "label": "Citizenship",
- "value": "Indian citizens only - NRIs are not eligible",
- "highlight": false
- },
- {
- "label": "How to enroll",
- "value": "Visit any bank branch where you have a savings account, or enroll online through net banking (SBI, PNB, BOB)",
- "highlight": true
- }
- ],
- "eligibility_filters": {
- "gender": [
- "all"
- ],
- "age_min": 18,
- "age_max": 40,
- "occupation": [
- "any"
- ],
- "income_max": 9999999,
- "category": [
- "general",
- "obc",
- "sc",
- "st"
- ],
- "states": [
- "all"
- ]
- },
- "extra_sections": [
- {
- "type": "text",
- "heading": "How APY Works - The Complete Mechanism",
- "icon": "⚙️",
- "content": [
- "Atal Pension Yojana works on a defined contribution model managed by PFRDA (Pension Fund Regulatory and Development Authority). When you enroll, you choose a monthly pension amount - ₹1,000, ₹2,000, <a href=\"/yojana/pm-shram-yogi-maandhan\" style=\"text-decoration:underline;color:inherit\">₹3,000</a>, ₹4,000, or ₹5,000 - that you want to receive after turning 60. Based on your current age and chosen pension amount, a fixed monthly contribution is calculated that you pay until age 60.",
- "Your contributions are invested in a mix of government bonds, corporate bonds, and equity through professional <a href=\"/compare/atal-pension-vs-nps\" style=\"text-decoration:underline;color:inherit\">pension</a> fund managers appointed by PFRDA (currently LIC Pension Fund, SBI Pension Fund, and UTI Retirement Solutions). The returns generated on these investments, combined with your contributions, build up a corpus that is sufficient to pay your chosen pension for life.",
- "At age 60, the accumulated corpus is used to purchase an annuity from LIC, which pays you the guaranteed monthly <a href=\"/yojana/national-pension-scheme\" style=\"text-decoration:underline;color:inherit\">pension</a>. If you die after 60, your spouse continues to receive the same pension amount for their lifetime. After both spouse and subscriber die, the accumulated corpus (approximately ₹1.7 lakh to ₹8.5 lakh depending on pension level) is returned to the nominee.",
- "The government also provides a co-contribution of 50% of the subscriber's contribution (maximum ₹1,000 per year) for 5 years to those who joined between June 2015 and March 2016 and are not covered under any statutory social security scheme. This co-contribution effectively doubled the returns for early enrollees."
- ]
- },
- {
- "type": "text",
- "heading": "APY Contribution Chart - Monthly Payment by Age",
- "icon": "📊",
- "content": [
- "The monthly contribution depends on two factors - your age at enrollment and the pension amount you choose. Here is the complete contribution chart:",
- "FOR ₹5,000 MONTHLY PENSION (maximum):\n- Age 18: ₹210/month (total contribution over 42 years: ₹1,05,840)\n- Age 20: ₹248/month (total: ₹1,19,040)\n- Age 25: ₹376/month (total: ₹1,57,920)\n- Age 30: ₹577/month (total: ₹2,07,720)\n- Age 35: ₹902/month (total: ₹2,70,600)\n- Age 40: ₹1,454/month (total: ₹3,48,960)",
- "FOR ₹1,000 MONTHLY PENSION (minimum):\n- Age 18: ₹42/month (cheapest entry point)\n- Age 25: ₹76/month\n- Age 30: ₹116/month\n- Age 35: ₹181/month\n- Age 40: ₹291/month",
- "KEY INSIGHT: Joining at 18 costs just ₹210/month for the maximum ₹5,000 pension. Waiting until 40 costs ₹1,454/month - nearly 7 times more - for the same pension. The message is clear: enroll as early as possible. Even if you can only afford the ₹1,000 pension at ₹42/month, start now and upgrade later."
- ]
- },
- {
- "type": "text",
- "heading": "APY Tax Benefits and Returns Analysis",
- "icon": "💰",
- "content": [
- "APY contributions qualify for tax deduction under Section 80CCD(1) of the Income Tax Act, which falls within the overall Section 80C limit of ₹1.5 lakh per year. For most APY subscribers with modest contributions (₹210-₹1,454 per month), this deduction is a small but welcome addition to their tax savings.",
- "In terms of returns, APY provides an implicit return of approximately 8-9% per annum on your contributions. This is calculated by comparing the total contributions paid over your working life against the total pension received over your post-retirement life (assuming average life expectancy of 80 years). For someone joining at age 18, the effective return is even higher because of the longer compounding period.",
- "How does this compare to other investment options? PPF gives 7.1% guaranteed. Bank FD gives 6.5-7.5%. APY's 8-9% implicit return is competitive, plus it provides a GUARANTEED pension - no market risk, no chance of corpus depletion, and pension continues for life regardless of how long you live. This longevity protection is the unique value proposition of APY that no other retail investment product offers.",
- "IMPORTANT TAX NOTE: The pension received after age 60 is taxable as income. If your total income in retirement (pension + other sources) falls below the basic exemption limit (currently ₹3 lakh under old regime, ₹7 lakh effectively under new regime), no tax is payable. Most APY subscribers in the unorganized sector will likely fall below this threshold."
- ]
- },
- {
- "type": "text",
- "heading": "How to Enroll in Atal Pension Yojana",
- "icon": "📝",
- "content": [
- "Enrollment in APY is simple and can be done through multiple channels:",
- "THROUGH YOUR BANK: Visit any bank branch where you have a savings account. Fill the APY <a href=\"/yojana/e-shram-card\" style=\"text-decoration:underline;color:inherit\">registration</a> form (available at the bank or downloadable from npscra.nsdl.co.in). Submit it with a photocopy of your Aadhaar card. The bank will set up auto-debit from your savings account for the monthly contribution. Most nationalized banks, private banks, and even regional rural banks offer APY enrollment.",
- "THROUGH NET BANKING: If your bank offers APY enrollment through net banking (SBI, PNB, BoB, and several other banks do), you can enroll entirely online. Log in to net banking, navigate to the 'APY' or 'Social Security Schemes' section, fill in the details, and confirm. The auto-debit is set up automatically.",
- "THROUGH ATAL PENSION YOJANA APP: Download the 'APY & NPS Lite' app from Google Play Store. Register with your Aadhaar-linked mobile number, select your bank account, choose the pension amount, and complete enrollment. The app also allows you to check your contribution history and account balance.",
- "ELIGIBILITY REQUIREMENTS: Age 18-40 years. Must have a savings bank account. Must have a valid Aadhaar number. Must have an active mobile number linked to the bank account (for OTP verification). Must not be a member of any statutory social security scheme (EPF, ESIC, etc.) - though this condition was relaxed for income tax payers and later restored.",
- "After enrollment, ensure that your savings account always has sufficient balance on the auto-debit date. If the debit fails, a penalty of ₹1-10 per month is charged depending on the contribution amount. Continuous default for 6 months leads to account freeze, and 12 months of default leads to account closure."
- ]
- },
- {
- "type": "text",
- "heading": "APY vs NPS vs EPF - Which Pension Scheme Is For You?",
- "icon": "🔄",
- "content": [
- "India has three major pension schemes, and understanding which one suits you best is important:",
- "APY: Best for unorganized sector workers, self-employed individuals, and those who want a simple, guaranteed pension. Fixed contribution, fixed pension output. Maximum pension ₹5,000/month. No market risk. Available only for ages 18-40.",
- "NPS (National Pension System): Best for salaried professionals and self-employed individuals who want higher pension amounts and are comfortable with market-linked returns. Flexible contributions (minimum ₹500/month). Pension amount depends on corpus accumulated and market performance. Additional tax benefit of ₹50,000 under Section 80CCD(1B). Can be opened at any age up to 70.",
- "EPF (Employees' Provident Fund): Mandatory for salaried employees in organizations with 20+ employees. 12% of basic salary contributed by employee, matched by employer. Currently earns 8.25% interest (2023-24). Provides lump sum at retirement plus pension through EPS (Employee Pension Scheme).",
- "CAN YOU HAVE MULTIPLE SCHEMES? Yes. You can have APY + NPS simultaneously. If you are salaried with EPF, you can also open an NPS account for additional retirement savings and the extra ₹50,000 tax deduction. APY serves as a base pension floor, NPS provides growth-oriented savings, and EPF provides employer-matched savings - together, they create a robust retirement strategy."
- ]
- },
- {
- "type": "svg_block",
- "heading": "Visual: Atal Pension Yojana Key Numbers",
- "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">₹1,000–5,000/mo</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Pension Range</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">18–40 years</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Enrollment Age</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">6+ Crore</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Subscribers</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">₹42/mo</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Min. Contribution</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
- "caption": "Key numbers for Atal Pension Yojana",
- "description": "Quick overview of the most important numbers and facts."
- },
- {
- "type": "text",
- "heading": "Premature Exit, Death, and Spouse Benefits in APY",
- "icon": "📋",
- "content": [
- "PREMATURE EXIT (before age 60): If you voluntarily exit APY before 60, you receive only the accumulated contributions plus actual investment returns (minus government co-contribution and returns on it). Premature exit is generally not recommended as you lose the guaranteed pension benefit and may receive less than your total contributions if investment returns were poor.",
- "DEATH BEFORE 60: If the subscriber dies before age 60, the spouse has two options - (a) continue the APY account, pay the remaining contributions, and receive the full guaranteed pension at age 60, or (b) exit the scheme and receive the accumulated corpus. Option (a) is strongly recommended as it preserves the pension benefit.",
- "DEATH AFTER 60: When the subscriber dies after 60, the spouse automatically starts receiving the same pension amount for their lifetime. The spouse does not need to apply separately - the pension simply continues in their name after updating KYC at the bank. After both subscriber and spouse die, the nominee receives the accumulated corpus as a lump sum.",
- "DISABILITY/INCAPACITATION: If the subscriber becomes permanently incapacitated before 60 and cannot continue contributions, they can exit APY and receive the accumulated corpus. Alternatively, the spouse can continue the account on behalf of the subscriber.",
- "NOMINATION: You must nominate a person (spouse is default if married) at the time of enrollment. The nominee receives the corpus after both subscriber and spouse die. Update your nominee details if your family situation changes - this can be done at your bank branch.",
- "For more details, see our guide on <a href=\"/yojana/pm-awas-yojana\" style=\"text-decoration:underline;color:inherit\">PM Awas Yojana</a>."
- ]
- },
- {
- "type": "text",
- "heading": "APY Account Management - Upgrades, Downgrades, and Changes",
- "icon": "🔧",
- "content": [
- "APY offers flexibility to modify your account after enrollment. You can upgrade your pension amount - for example, move from ₹1,000 to ₹3,000 or ₹5,000 - at any time by submitting a modification request at your bank. The monthly contribution will be recalculated based on your current age and the new pension amount. This is useful if your income increases over time and you can afford higher contributions.",
- "You can also downgrade your pension amount if you are facing financial difficulties. Downgrading reduces your monthly contribution and makes it easier to maintain regular payments. It is better to downgrade than to default on payments, which attracts penalties and can eventually close your account.",
- "To switch the bank account linked to APY, visit your current bank and submit a transfer request. The bank will process the transfer to your new account within 15-30 days. Ensure the new bank account has auto-debit facility enabled for APY contributions.",
- "You can change your nominee at any time by visiting the bank branch with the nominee's Aadhaar details. If you get married after enrollment, it is important to update your spouse as the default beneficiary since the spouse pension benefit only applies to legally recognized spouses."
- ]
- },
- {
- "type": "text",
- "heading": "Common APY Mistakes to Avoid",
- "icon": "⚠️",
- "content": [
- "MISTAKE 1 - CHOOSING MINIMUM PENSION WITHOUT THINKING: Many people enroll for ₹1,000/month pension because it seems like free money at ₹42/month contribution. But ₹1,000/month in today's money will be worth roughly ₹250-300 in purchasing power by 2060 due to inflation. If you can afford it, always choose the ₹5,000 pension or at least ₹3,000.",
- "MISTAKE 2 - INSUFFICIENT BANK BALANCE ON DEBIT DATE: This is the most common operational issue. If the auto-debit fails because your account balance is low, you are charged a penalty of ₹1 per month for ₹100 contribution, ₹2 for ₹101-500, ₹5 for ₹501-1,000, and ₹10 for contributions above ₹1,000. Set a reminder to ensure sufficient balance 2-3 days before the debit date.",
- "MISTAKE 3 - NOT LINKING AADHAAR AND MOBILE: APY accounts without Aadhaar linkage may face issues during pension disbursement. Ensure your Aadhaar is linked to both your bank account and APY account. Also keep your mobile number updated for receiving transaction alerts and OTPs.",
- "MISTAKE 4 - TREATING APY AS COMPLETE RETIREMENT PLAN: The maximum APY pension is ₹5,000/month, which is insufficient for comfortable retirement even in rural India. Use APY as one component of your retirement strategy alongside NPS, PPF, mutual funds, or other investments. APY provides the floor - the guaranteed minimum pension - while other investments provide the growth.",
- "MISTAKE 5 - IGNORING THE SCHEME BECAUSE OF LOW PENSION: ₹5,000/month may seem low, but the guaranteed nature of APY is its superpower. Unlike market-linked instruments where your corpus can deplete or returns can be poor, APY pays a fixed pension for life. Even wealthy individuals should consider APY as a risk-free pension floor for ₹210-1,454 per month - it is the cheapest longevity insurance available in India."
- ]
- },
- {
- "heading": "Who Is This For?",
- "icon": "👴",
- "type": "callout",
- "variant": "info",
- "content": "APY is for unorganized sector workers aged 18-40 - daily wage earners, small business owners, domestic workers. Minimum age 18, maximum 40 to start. You pay for 20-42 years depending on entry age. After 60, guaranteed monthly pension of ₹1,000-5,000."
- },
- {
- "heading": "Monthly Contribution Chart - How Much to Pay",
- "icon": "📊",
- "type": "text",
- "content": [
- "Your monthly contribution depends on TWO factors: (1) the pension amount you choose (₹1,000/₹2,000/₹3,000/₹4,000/₹5,000 per month), and (2) your age at the time of enrollment. The younger you join, the less you pay per month.",
- "For ₹1,000/month pension: Age 18 = ₹42/mo, Age 20 = ₹50/mo, Age 25 = ₹76/mo, Age 30 = ₹116/mo, Age 35 = ₹181/mo, Age 40 = ₹291/mo.",
- "For ₹3,000/month pension: Age 18 = ₹126/mo, Age 20 = ₹150/mo, Age 25 = ₹226/mo, Age 30 = ₹347/mo, Age 35 = ₹543/mo, Age 40 = ₹873/mo.",
- "For ₹5,000/month pension: Age 18 = ₹210/mo, Age 20 = ₹248/mo, Age 25 = ₹376/mo, Age 30 = ₹577/mo, Age 35 = ₹902/mo, Age 40 = ₹1,454/mo.",
- "Key insight: If you join at 18, you pay ₹210/month for 42 years to get ₹5,000/month pension for life. Total paid in = ₹1,05,840.",
- "If you live until 80, total pension received = ₹12,00,000. That's 11× your investment.",
- "The earlier you start, the better the deal."
- ]
- },
- {
- "type": "svg_block",
- "heading": "Visual: Eligibility Check",
- "svg": "<svg viewBox=\"0 0 700 150\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Eligibility</text><rect x=\"20\" y=\"35\" width=\"320\" height=\"105\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"180\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1B6B4A\">Eligible</text><text x=\"40\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Age</text><rect x=\"360\" y=\"35\" width=\"320\" height=\"105\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"520\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#BE185D\">Not Eligible</text><text x=\"380\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Bank account</text><text x=\"380\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Aadhaar</text><text x=\"380\" y=\"111\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Existing pension</text><text x=\"380\" y=\"129\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Income tax</text><text x=\"380\" y=\"147\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Citizenship</text></svg>",
- "caption": "Quick eligibility check for Atal Pension Yojana",
- "description": "Check if you meet the basic eligibility criteria before applying."
- },
- {
- "heading": "Visual: Contribution vs Pension Received",
- "icon": "📊",
- "type": "svg_block",
- "svg": "<svg viewBox=\"0 0 700 320\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\">\n <text x=\"350\" y=\"25\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">APY Contribution → Guaranteed Monthly Pe</text>\n <!-- Axes -->\n <line x1=\"80\" y1=\"260\" x2=\"640\" y2=\"260\" stroke=\"#4B5563\" stroke-width=\"1\"/>\n <line x1=\"80\" y1=\"70\" x2=\"80\" y2=\"260\" stroke=\"#4B5563\" stroke-width=\"1\"/>\n <!-- Y labels -->\n <text x=\"70\" y=\"263\" text-anchor=\"end\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B7280\">₹0</text>\n <text x=\"70\" y=\"223\" text-anchor=\"end\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B7280\">₹1K</text>\n <text x=\"70\" y=\"183\" text-anchor=\"end\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B7280\">₹2K</text>\n <text x=\"70\" y=\"143\" text-anchor=\"end\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B7280\">₹3K</text>\n <text x=\"70\" y=\"103\" text-anchor=\"end\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B7280\">₹4K</text>\n <text x=\"70\" y=\"75\" text-anchor=\"end\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B7280\">₹5K</text>\n <!-- Bars: 5 pension tiers, each pair (monthly contribution vs pension received) -->\n <g>\n <!-- ₹1000 pension -->\n <rect x=\"110\" y=\"250\" width=\"40\" height=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1\"/>\n <rect x=\"155\" y=\"220\" width=\"40\" height=\"40\" fill=\"#2563EB\"/>\n <text x=\"155\" y=\"285\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">₹1K</text>\n <text x=\"155\" y=\"298\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#6B7280\">(₹42/mo)</text>\n <!-- ₹2000 pension -->\n <rect x=\"220\" y=\"245\" width=\"40\" height=\"15\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1\"/>\n <rect x=\"265\" y=\"180\" width=\"40\" height=\"80\" fill=\"#2563EB\"/>\n <text x=\"265\" y=\"285\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">₹2K</text>\n <text x=\"265\" y=\"298\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#6B7280\">(₹84/mo)</text>\n <!-- ₹3000 pension -->\n <rect x=\"330\" y=\"242\" width=\"40\" height=\"18\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1\"/>\n <rect x=\"375\" y=\"140\" width=\"40\" height=\"120\" fill=\"#2563EB\"/>\n <text x=\"375\" y=\"285\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">₹3K</text>\n <text x=\"375\" y=\"298\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#6B7280\">(₹126/mo)</text>\n <!-- ₹4000 pension -->\n <rect x=\"440\" y=\"239\" width=\"40\" height=\"21\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1\"/>\n <rect x=\"485\" y=\"100\" width=\"40\" height=\"160\" fill=\"#2563EB\"/>\n <text x=\"485\" y=\"285\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">₹4K</text>\n <text x=\"485\" y=\"298\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#6B7280\">(₹168/mo)</text>\n <!-- ₹5000 pension -->\n <rect x=\"550\" y=\"236\" width=\"40\" height=\"24\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1\"/>\n <rect x=\"595\" y=\"60\" width=\"40\" height=\"200\" fill=\"#2563EB\"/>\n <text x=\"595\" y=\"285\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">₹5K</text>\n <text x=\"595\" y=\"298\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#6B7280\">(₹210/mo)</text>\n </g>\n <!-- Legend -->\n <rect x=\"120\" y=\"40\" width=\"12\" height=\"12\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1\"/>\n <text x=\"140\" y=\"50\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Monthly contribution</text>\n <rect x=\"400\" y=\"40\" width=\"12\" height=\"12\" fill=\"#2563EB\"/>\n <text x=\"420\" y=\"50\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Pension received aft</text>\n</svg>",
- "caption": "Start at age 20 → get ₹5,000/month pension by paying just ₹210/month",
- "description": "Starting earlier means smaller monthly contributions. At age 20, you pay 42 years × ₹210 = ₹1.06 lakh total and receive pension for 20+ years - total payout ~₹12+ lakh."
- },
- {
- "heading": "APY Contribution and Benefits Table",
- "icon": "💰",
- "type": "table",
- "columns": [
- "Age at Entry",
- "₹1,000 Pension",
- "₹2,000 Pension",
- "₹3,000 Pension",
- "₹5,000 Pension"
- ],
- "rows": [
- [
- "18",
- "₹42",
- "₹84",
- "₹126",
- "₹210"
- ],
- [
- "20",
- "₹50",
- "₹100",
- "₹150",
- "₹248"
- ],
- [
- "25",
- "₹76",
- "₹151",
- "₹226",
- "₹376"
- ],
- [
- "30",
- "₹116",
- "₹231",
- "₹347",
- "₹577"
- ],
- [
- "35",
- "₹181",
- "₹362",
- "₹543",
- "₹902"
- ],
- [
- "40",
- "₹291",
- "₹582",
- "₹873",
- "₹1,454"
- ]
- ]
- },
- {
- "heading": "What Happens After You Turn 60",
- "icon": "🎂",
- "type": "text",
- "content": [
- "On your 60th birthday, your contributions stop and the guaranteed monthly pension begins. Here's the complete lifecycle:",
- "While you're alive (after 60): You receive the chosen pension amount (₹1,000/₹2,000/₹3,000/₹4,000/₹5,000) every month, credited directly to your bank account. This continues for your entire lifetime - even if you live to 100.",
- "After your death: Your spouse receives the SAME pension amount for their lifetime. This is automatic - the spouse doesn't need to apply for a separate pension.",
- "They just need to inform the bank with a death certificate.",
- "After both subscriber and spouse pass away: The accumulated pension corpus (approximately ₹1.7 lakh for ₹1,000 plan to ₹8.5 lakh for ₹5,000 plan) is returned to the nominee as a lump sum.",
- "Early exit (before 60): If you want to exit before 60 due to terminal illness or death, the accumulated corpus is returned. If you exit voluntarily, you only get back your contributions with actual returns earned (not guaranteed)."
- ]
- },
- {
- "heading": "Tax Benefit",
- "icon": "💡",
- "type": "callout",
- "variant": "tip",
- "content": "APY contributions qualify for Section 80CCD(1B) - additional ₹50,000 deduction over and above the ₹1.5 lakh Section 80C limit. This is the ONLY way to get tax deduction beyond ₹1.5 lakh via investment. APY tops up NPS benefits perfectly."
- },
- {
- "heading": "How to Enroll - Step by Step",
- "icon": "📝",
- "type": "steps",
- "steps": [
- {
- "step": 1,
- "title": "Visit your bank branch",
- "description": "Go to any bank where you have a savings account. APY enrollment is available at all nationalized banks, major private banks, regional rural banks, and India Post payments bank. Carry your Aadhaar card and bank passbook."
- },
- {
- "step": 2,
- "title": "Fill the APY registration form",
- "description": "Ask for the APY enrollment form. Fill in: name, date of birth, mobile number (linked to Aadhaar), email, nominee details (spouse recommended), and choose your pension amount (₹1,000 to ₹5,000)."
- },
- {
- "step": 3,
- "title": "Set up auto-debit",
- "description": "Your monthly contribution will be auto-debited from your savings account. You'll need to sign a mandate for auto-debit. Ensure your account has sufficient balance on the debit date every month."
- },
- {
- "step": 4,
- "title": "Receive confirmation",
- "description": "You'll get an SMS confirmation with your PRAN (Permanent Retirement Account Number). Save this number - it's your unique APY account identifier. You can check your account status anytime using this PRAN."
- }
- ]
- },
- {
- "type": "svg_block",
- "heading": "Visual: Application Process",
- "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><defs><marker id=\"af\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><polygon points=\"0 0, 10 3, 0 6\" fill=\"#1E40AF\"/></marker></defs><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">How to Apply</text><rect x=\"20\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"90\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Ensure you have a </text><line x1=\"160\" y1=\"65\" x2=\"180\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"190\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"260\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Visit bank or enro</text><line x1=\"330\" y1=\"65\" x2=\"350\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"360\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"430\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Choose pension amo</text><line x1=\"500\" y1=\"65\" x2=\"520\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"530\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"600\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Authorize auto-deb</text></svg>",
- "caption": "Step-by-step application process",
- "description": "Follow these steps to complete your application successfully."
- },
- {
- "heading": "Important Rules and Penalties",
- "icon": "⚠️",
- "type": "text",
- "content": [
- "Auto-debit failures: If your bank account doesn't have enough balance on the debit date, the contribution is missed. A penalty of ₹1/month for every ₹100 of contribution is charged.",
- "For example, if your monthly contribution is ₹210 and you miss one month, penalty = ₹2.10.",
- "Account freezing: If you miss contributions for 6 consecutive months, your account is frozen. After 12 months of non-payment, the account is deactivated.",
- "After 24 months, the account is closed and you get back only your contributions with actual returns (no government co-contribution).",
- "To avoid problems: Set up auto-debit on a date when your account usually has money (like salary date + 2 days). Keep a buffer of 2-3 months' contributions.",
- "You can change the debit date by contacting your bank.",
- "Tax benefit: Contributions to APY qualify for tax deduction under Section 80CCD(1) within the overall ₹1.5 lakh limit. However, this benefit is only under the Old Tax Regime, not the New Tax Regime."
- ]
- },
- {
- "type": "callout",
- "heading": "Official Sources & References",
- "icon": "📖",
- "variant": "info",
- "content": "Source: PFRDA (Pension Fund Regulatory & Development Authority). All information on this page has been verified against official government notifications and regulatory circulars. For the latest updates, always check the official portal."
- },
- {
- "heading": "Early Exit Penalty",
- "icon": "⚠️",
- "type": "callout",
- "variant": "warning",
- "content": "If you exit before 60 (except death/terminal illness), you only get your contribution back + interest - no government co-contribution bonus. You miss out on decades of compounding. Treat APY as locked for retirement only."
- },
- {
- "type": "pullquote",
- "text": "Atal Pension Yojana is the only government scheme that guarantees a fixed monthly pension for life - starting at just ₹42 per month contribution, it ensures that no Indian worker retires without income security."
- },
- {
- "type": "svg_block",
- "heading": "APY Monthly Contribution by Age",
- "icon": "📊",
- "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">APY Monthly Payment for ₹5000 Pension</text><rect x=\"30\" y=\"50\" width=\"150\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"105\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">Age 18 ₹210/mo</text><rect x=\"200\" y=\"50\" width=\"150\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"275\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Age 25 ₹376/mo</text><rect x=\"370\" y=\"50\" width=\"150\" height=\"35\" rx=\"8\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"445\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#92400E\">Age 30 ₹577/mo</text><rect x=\"540\" y=\"50\" width=\"130\" height=\"35\" rx=\"8\" fill=\"#F3E8FF\" stroke=\"#7C3AED\" stroke-width=\"2\"/><text x=\"605\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#5B21B6\">Age 35 ₹902/mo</text></svg>",
- "caption": "Starting at 18 costs just ₹210/month for a guaranteed ₹5000 lifetime pension",
- "description": "The earlier you join, the less you pay for the same pension amount."
- }
- ],
- "how_to_apply": [
- {
- "step": 1,
- "title": "Ensure you have a savings bank account with Aadhaar linked",
- "description": "APY enrollment requires an active savings account with Aadhaar and mobile number linked. If not linked, visit your bank first."
- },
- {
- "step": 2,
- "title": "Visit bank or enroll online",
- "description": "Physical: Visit any bank branch with Aadhaar + passbook. Online: Many banks (SBI, PNB, BOB) allow APY enrollment through net banking."
- },
- {
- "step": 3,
- "title": "Choose pension amount and fill form",
- "description": "Select ₹1,000/₹2,000/₹3,000/₹4,000/₹5,000 per month pension. Your age determines the monthly contribution. Nominate your spouse (recommended)."
- },
- {
- "step": 4,
- "title": "Authorize auto-debit and start contributing",
- "description": "Sign the auto-debit mandate. First contribution is debited within a month. You'll receive PRAN via SMS. Track at enps.nsdl.com."
- }
- ],
- "important_alert": {
- "text": "Ensure your bank account has sufficient balance on the auto-debit date every month. Missing 6+ months of payments can freeze your account. Missing 24+ months closes the account permanently. Set up alerts with your bank.",
- "type": "warning"
- },
- "important_dates": [
- {
- "label": "Enrollment",
- "value": "Open throughout the year at all banks",
- "highlight": true
- },
- {
- "label": "Pension starts",
- "value": "At age 60 (auto-maturity)",
- "highlight": true
- },
- {
- "label": "Contribution period",
- "value": "From enrollment date until age 60",
- "highlight": false
- },
- {
- "label": "Auto-debit",
- "value": "Monthly - date chosen during enrollment",
- "highlight": false
- },
- {
- "label": "Helpline",
- "value": "1800-889-1030 (NPS/APY toll-free)",
- "highlight": true
- }
- ],
- "faqs": [
- {
- "question": "What if I already have EPF? Can I join APY?",
- "answer": "If you are a member of EPF through your employer, you technically cannot get government co-contribution in APY, but you CAN still enroll and contribute. Since EPF already provides retirement benefits, evaluate whether you need additional pension coverage."
- },
- {
- "question": "Can I change my pension amount after enrolling?",
- "answer": "Yes. You can increase or decrease your pension amount once per year. Visit your bank and request an upgrade/downgrade. Your monthly contribution will be recalculated. The change takes effect from the next contribution month."
- },
- {
- "question": "What happens if I die before 60?",
- "answer": "If the subscriber dies before 60, the spouse has two options: (1) Continue the APY account by making remaining contributions until the subscriber would have turned 60, then receive pension for life. (2) Exit the scheme and receive the accumulated corpus as a lump sum."
- },
- {
- "question": "Is APY pension taxable?",
- "answer": "Yes. The monthly pension after 60 is treated as income and taxable. For most APY subscribers, the pension (₹12,000-60,000/year) falls well below the basic tax exemption limit, so effectively no tax is paid."
- },
- {
- "question": "Can I have both APY and NPS?",
- "answer": "Yes. APY and NPS-Private are separate schemes. You can contribute to both. APY gives a guaranteed pension, while NPS gives market-linked returns (potentially higher but not guaranteed)."
- },
- {
- "question": "What is the government co-contribution?",
- "answer": "For subscribers who joined between June 2015 and March 2016, the government contributed 50% of the subscriber's contribution (up to ₹1,000/year) for 5 years. This has ended for new subscribers."
- },
- {
- "question": "Can I withdraw money from APY before 60?",
- "answer": "Premature exit is allowed only due to death or terminal illness. Voluntary premature exit returns your contributions with actual investment returns (not guaranteed amounts). It's strongly discouraged."
- },
- {
- "question": "How is APY different from NPS?",
- "answer": "APY gives a GUARANTEED fixed pension (₹1,000-5,000/month). NPS gives MARKET-LINKED returns (potentially 8-12%). APY has a max pension of ₹5,000/month. NPS has no upper limit. For unorganized sector workers, APY's simplicity and guarantee make it better."
- },
- {
- "question": "Can I change my pension amount in APY?",
- "answer": "Yes, but only between ₹1,000-5,000. Change request must be submitted in April of any year via your bank. Contribution will adjust based on new target amount and your remaining years. You can also switch from monthly to quarterly/half-yearly payment mode via the same process."
- },
- {
- "question": "What is the difference between APY and NPS?",
- "answer": "APY guarantees a FIXED monthly pension (₹1,000-5,000) after 60. NPS is market-linked - no guarantee. NPS requires minimum ₹1,000/year but can go up to lakhs. APY is for unorganized sector (small amounts, govt co-contribution earlier). NPS is for organized sector (salaried, higher amounts, better returns). You can have BOTH - APY for guaranteed floor, NPS for growth."
- },
- {
- "question": "What happens if I miss APY payments?",
- "answer": "Penalties for missed contributions: ₹1 for payments up to ₹100, ₹2 for up to ₹500, ₹5 for up to ₹1000, ₹10 for over ₹1000. If you miss for 12+ months, account becomes dormant. After 24 months of non-payment, account is closed and contributions refunded. Always maintain enough balance in linked bank account."
- }
- ],
- "official_portal": {
- "name": "APY - National Pension System Trust",
- "url": "https://www.npscra.nsdl.co.in/nsdl/scheme-details/APY.html"
- },
- "related_pages": [
- {
- "title": "National Pension System (NPS)",
- "slug": "national-pension-scheme",
- "tag": "Pension",
- "url": "/yojana/national-pension-scheme"
- },
- {
- "title": "PM Shram Yogi Maandhan",
- "slug": "pm-shram-yogi-maandhan",
- "tag": "Pension",
- "url": "/yojana/pm-shram-yogi-maandhan"
- },
- {
- "title": "e-Shram Card",
- "slug": "e-shram-card",
- "tag": "Labour",
- "url": "/yojana/e-shram-card"
- },
- {
- "title": "EPF Withdrawal Guide",
- "slug": "epf-withdrawal",
- "tag": "Employment",
- "url": "/paisa/epf-withdrawal"
- },
- {
- "title": "Sukanya Samriddhi Yojana",
- "slug": "sukanya-samriddhi-yojana",
- "tag": "Girl Child",
- "url": "/yojana/sukanya-samriddhi-yojana"
- }
- ],
- "tags": [
- "Pension",
- "Retirement",
- "Unorganized Sector",
- "PFRDA",
- "Central Government"
- ],
- "ministry": "Ministry of Finance",
- "launch_year": 2015,
- "image_suggestions": [
- "apy-contribution-chart-age-wise",
- "pension-calculation-example-chart",
- "apy-retirement-income-timeline",
- "auto-debit-setup-bank-process",
- "apy-spouse-pension-benefit-illustration",
- "unorganized-sector-worker-apy-success-story"
- ],
- "last_reviewed": "May 2026",
- "category": "pension",
- "isCentral": true
+  "slug": "atal-pension-yojana",
+  "title": "Atal Pension Yojana",
+  "meta_description": "Atal Pension Yojana 2026 - guaranteed monthly pension of ₹1,000 to ₹5,000 after age 60. Check contribution chart, eligibility, how to enroll through banks.",
+  "hero": {
+    "status": "active",
+    "one_liner": "Guaranteed monthly pension of ₹1,000 to ₹5,000 after age 60 - India's most affordable pension scheme for workers in the unorganized sector",
+    "icon": "👴",
+    "updated_date": "May 2026",
+    "stats": [
+      {
+        "label": "Pension Range",
+        "value": "₹1,000–5,000/mo"
+      },
+      {
+        "label": "Enrollment Age",
+        "value": "18–40 years"
+      },
+      {
+        "label": "Subscribers",
+        "value": "6+ Crore"
+      },
+      {
+        "label": "Min. Contribution",
+        "value": "₹42/mo"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "📝",
+      "label": "Enroll at Bank",
+      "url": "https://www.npscra.nsdl.co.in/nsdl/scheme-details/APY.html"
+    },
+    {
+      "icon": "📊",
+      "label": "Contribution Calculator",
+      "url": "https://www.npscra.nsdl.co.in/nsdl/scheme-details/APY.html"
+    },
+    {
+      "icon": "📞",
+      "label": "NPS Helpline: 1800-889-1030",
+      "url": "tel:18008891030"
+    }
+  ],
+  "what_is_it": [
+    "Atal Pension Yojana (APY) is a government-backed pension scheme launched on 9 May 2015, primarily designed for workers in the unorganized sector - daily wage earners, self-employed individuals, domestic workers, drivers, street vendors, and anyone who doesn't have a formal employer-provided pension. The scheme is administered by the Pension Fund Regulatory and Development Authority (PFRDA) through the National Pension System architecture.",
+    "The core promise is simple: contribute a small monthly amount (starting as low as ₹42/month if you join at age 18) and receive a guaranteed fixed monthly pension of ₹1,000 to ₹5,000 for life after turning 60. After the subscriber's death, the same pension continues for the spouse. After both pass away, the accumulated pension corpus is returned to the nominee.",
+    "APY is one of the most affordable pension products available in India. A person joining at age 18 with a monthly contribution of just ₹210/month will receive ₹5,000 guaranteed pension every month from age 60 onwards - that's ₹60,000 per year for life. The government also provides co-contribution for eligible subscribers who are not income tax payers and not covered by any other social security scheme.",
+    "As of March 2026, over 6 crore Indians have enrolled in APY. The scheme has been particularly popular in states like Uttar Pradesh, Bihar, Maharashtra, and Tamil Nadu. Any Indian citizen between 18-40 years with a savings bank account can enroll at any bank branch."
+  ],
+  "eligibility": [
+    {
+      "label": "Age",
+      "value": "18 to 40 years at the time of enrollment (pension starts at 60)",
+      "highlight": true
+    },
+    {
+      "label": "Bank account",
+      "value": "Must have a savings bank account in any bank with Aadhaar-linked mobile number",
+      "highlight": false
+    },
+    {
+      "label": "Aadhaar",
+      "value": "Mandatory - Aadhaar number must be provided during enrollment",
+      "highlight": false
+    },
+    {
+      "label": "Existing pension",
+      "value": "Should NOT be a member of any other statutory social security scheme (EPF, NPS-Govt) - NPS-Private is allowed",
+      "highlight": false
+    },
+    {
+      "label": "Income tax",
+      "value": "Income tax payers are allowed to join since October 2022 but won't get govt co-contribution",
+      "highlight": false
+    },
+    {
+      "label": "Citizenship",
+      "value": "Indian citizens only - NRIs are not eligible",
+      "highlight": false
+    },
+    {
+      "label": "How to enroll",
+      "value": "Visit any bank branch where you have a savings account, or enroll online through net banking (SBI, PNB, BOB)",
+      "highlight": true
+    }
+  ],
+  "eligibility_filters": {
+    "gender": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 40,
+    "occupation": [
+      "any"
+    ],
+    "income_max": 9999999,
+    "category": [
+      "all"
+    ],
+    "states": [
+      "central"
+    ]
+  },
+  "extra_sections": [
+    {
+      "type": "text",
+      "heading": "How APY Works - The Complete Mechanism",
+      "icon": "⚙️",
+      "content": [
+        "Atal Pension Yojana works on a defined contribution model managed by PFRDA (Pension Fund Regulatory and Development Authority). When you enroll, you choose a monthly pension amount - ₹1,000, ₹2,000, <a href=\"/yojana/pm-shram-yogi-maandhan\" style=\"text-decoration:underline;color:inherit\">₹3,000</a>, ₹4,000, or ₹5,000 - that you want to receive after turning 60. Based on your current age and chosen pension amount, a fixed monthly contribution is calculated that you pay until age 60.",
+        "Your contributions are invested in a mix of government bonds, corporate bonds, and equity through professional <a href=\"/compare/atal-pension-vs-nps\" style=\"text-decoration:underline;color:inherit\">pension</a> fund managers appointed by PFRDA (currently LIC Pension Fund, SBI Pension Fund, and UTI Retirement Solutions). The returns generated on these investments, combined with your contributions, build up a corpus that is sufficient to pay your chosen pension for life.",
+        "At age 60, the accumulated corpus is used to purchase an annuity from LIC, which pays you the guaranteed monthly <a href=\"/yojana/national-pension-scheme\" style=\"text-decoration:underline;color:inherit\">pension</a>. If you die after 60, your spouse continues to receive the same pension amount for their lifetime. After both spouse and subscriber die, the accumulated corpus (approximately ₹1.7 lakh to ₹8.5 lakh depending on pension level) is returned to the nominee.",
+        "The government also provides a co-contribution of 50% of the subscriber's contribution (maximum ₹1,000 per year) for 5 years to those who joined between June 2015 and March 2016 and are not covered under any statutory social security scheme. This co-contribution effectively doubled the returns for early enrollees."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "APY Contribution Chart - Monthly Payment by Age",
+      "icon": "📊",
+      "content": [
+        "The monthly contribution depends on two factors - your age at enrollment and the pension amount you choose. Here is the complete contribution chart:",
+        "FOR ₹5,000 MONTHLY PENSION (maximum):\n- Age 18: ₹210/month (total contribution over 42 years: ₹1,05,840)\n- Age 20: ₹248/month (total: ₹1,19,040)\n- Age 25: ₹376/month (total: ₹1,57,920)\n- Age 30: ₹577/month (total: ₹2,07,720)\n- Age 35: ₹902/month (total: ₹2,70,600)\n- Age 40: ₹1,454/month (total: ₹3,48,960)",
+        "FOR ₹1,000 MONTHLY PENSION (minimum):\n- Age 18: ₹42/month (cheapest entry point)\n- Age 25: ₹76/month\n- Age 30: ₹116/month\n- Age 35: ₹181/month\n- Age 40: ₹291/month",
+        "KEY INSIGHT: Joining at 18 costs just ₹210/month for the maximum ₹5,000 pension. Waiting until 40 costs ₹1,454/month - nearly 7 times more - for the same pension. The message is clear: enroll as early as possible. Even if you can only afford the ₹1,000 pension at ₹42/month, start now and upgrade later."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "APY Tax Benefits and Returns Analysis",
+      "icon": "💰",
+      "content": [
+        "APY contributions qualify for tax deduction under Section 80CCD(1) of the Income Tax Act, which falls within the overall Section 80C limit of ₹1.5 lakh per year. For most APY subscribers with modest contributions (₹210-₹1,454 per month), this deduction is a small but welcome addition to their tax savings.",
+        "In terms of returns, APY provides an implicit return of approximately 8-9% per annum on your contributions. This is calculated by comparing the total contributions paid over your working life against the total pension received over your post-retirement life (assuming average life expectancy of 80 years). For someone joining at age 18, the effective return is even higher because of the longer compounding period.",
+        "How does this compare to other investment options? PPF gives 7.1% guaranteed. Bank FD gives 6.5-7.5%. APY's 8-9% implicit return is competitive, plus it provides a GUARANTEED pension - no market risk, no chance of corpus depletion, and pension continues for life regardless of how long you live. This longevity protection is the unique value proposition of APY that no other retail investment product offers.",
+        "IMPORTANT TAX NOTE: The pension received after age 60 is taxable as income. If your total income in retirement (pension + other sources) falls below the basic exemption limit (currently ₹3 lakh under old regime, ₹7 lakh effectively under new regime), no tax is payable. Most APY subscribers in the unorganized sector will likely fall below this threshold."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "How to Enroll in Atal Pension Yojana",
+      "icon": "📝",
+      "content": [
+        "Enrollment in APY is simple and can be done through multiple channels:",
+        "THROUGH YOUR BANK: Visit any bank branch where you have a savings account. Fill the APY <a href=\"/yojana/e-shram-card\" style=\"text-decoration:underline;color:inherit\">registration</a> form (available at the bank or downloadable from npscra.nsdl.co.in). Submit it with a photocopy of your Aadhaar card. The bank will set up auto-debit from your savings account for the monthly contribution. Most nationalized banks, private banks, and even regional rural banks offer APY enrollment.",
+        "THROUGH NET BANKING: If your bank offers APY enrollment through net banking (SBI, PNB, BoB, and several other banks do), you can enroll entirely online. Log in to net banking, navigate to the 'APY' or 'Social Security Schemes' section, fill in the details, and confirm. The auto-debit is set up automatically.",
+        "THROUGH ATAL PENSION YOJANA APP: Download the 'APY & NPS Lite' app from Google Play Store. Register with your Aadhaar-linked mobile number, select your bank account, choose the pension amount, and complete enrollment. The app also allows you to check your contribution history and account balance.",
+        "ELIGIBILITY REQUIREMENTS: Age 18-40 years. Must have a savings bank account. Must have a valid Aadhaar number. Must have an active mobile number linked to the bank account (for OTP verification). Must not be a member of any statutory social security scheme (EPF, ESIC, etc.) - though this condition was relaxed for income tax payers and later restored.",
+        "After enrollment, ensure that your savings account always has sufficient balance on the auto-debit date. If the debit fails, a penalty of ₹1-10 per month is charged depending on the contribution amount. Continuous default for 6 months leads to account freeze, and 12 months of default leads to account closure."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "APY vs NPS vs EPF - Which Pension Scheme Is For You?",
+      "icon": "🔄",
+      "content": [
+        "India has three major pension schemes, and understanding which one suits you best is important:",
+        "APY: Best for unorganized sector workers, self-employed individuals, and those who want a simple, guaranteed pension. Fixed contribution, fixed pension output. Maximum pension ₹5,000/month. No market risk. Available only for ages 18-40.",
+        "NPS (National Pension System): Best for salaried professionals and self-employed individuals who want higher pension amounts and are comfortable with market-linked returns. Flexible contributions (minimum ₹500/month). Pension amount depends on corpus accumulated and market performance. Additional tax benefit of ₹50,000 under Section 80CCD(1B). Can be opened at any age up to 70.",
+        "EPF (Employees' Provident Fund): Mandatory for salaried employees in organizations with 20+ employees. 12% of basic salary contributed by employee, matched by employer. Currently earns 8.25% interest (2023-24). Provides lump sum at retirement plus pension through EPS (Employee Pension Scheme).",
+        "CAN YOU HAVE MULTIPLE SCHEMES? Yes. You can have APY + NPS simultaneously. If you are salaried with EPF, you can also open an NPS account for additional retirement savings and the extra ₹50,000 tax deduction. APY serves as a base pension floor, NPS provides growth-oriented savings, and EPF provides employer-matched savings - together, they create a robust retirement strategy."
+      ]
+    },
+    {
+      "type": "svg_block",
+      "heading": "Visual: Atal Pension Yojana Key Numbers",
+      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">₹1,000–5,000/mo</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Pension Range</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">18–40 years</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Enrollment Age</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">6+ Crore</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Subscribers</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">₹42/mo</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Min. Contribution</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
+      "caption": "Key numbers for Atal Pension Yojana",
+      "description": "Quick overview of the most important numbers and facts."
+    },
+    {
+      "type": "text",
+      "heading": "Premature Exit, Death, and Spouse Benefits in APY",
+      "icon": "📋",
+      "content": [
+        "PREMATURE EXIT (before age 60): If you voluntarily exit APY before 60, you receive only the accumulated contributions plus actual investment returns (minus government co-contribution and returns on it). Premature exit is generally not recommended as you lose the guaranteed pension benefit and may receive less than your total contributions if investment returns were poor.",
+        "DEATH BEFORE 60: If the subscriber dies before age 60, the spouse has two options - (a) continue the APY account, pay the remaining contributions, and receive the full guaranteed pension at age 60, or (b) exit the scheme and receive the accumulated corpus. Option (a) is strongly recommended as it preserves the pension benefit.",
+        "DEATH AFTER 60: When the subscriber dies after 60, the spouse automatically starts receiving the same pension amount for their lifetime. The spouse does not need to apply separately - the pension simply continues in their name after updating KYC at the bank. After both subscriber and spouse die, the nominee receives the accumulated corpus as a lump sum.",
+        "DISABILITY/INCAPACITATION: If the subscriber becomes permanently incapacitated before 60 and cannot continue contributions, they can exit APY and receive the accumulated corpus. Alternatively, the spouse can continue the account on behalf of the subscriber.",
+        "NOMINATION: You must nominate a person (spouse is default if married) at the time of enrollment. The nominee receives the corpus after both subscriber and spouse die. Update your nominee details if your family situation changes - this can be done at your bank branch.",
+        "For more details, see our guide on <a href=\"/yojana/pm-awas-yojana\" style=\"text-decoration:underline;color:inherit\">PM Awas Yojana</a>."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "APY Account Management - Upgrades, Downgrades, and Changes",
+      "icon": "🔧",
+      "content": [
+        "APY offers flexibility to modify your account after enrollment. You can upgrade your pension amount - for example, move from ₹1,000 to ₹3,000 or ₹5,000 - at any time by submitting a modification request at your bank. The monthly contribution will be recalculated based on your current age and the new pension amount. This is useful if your income increases over time and you can afford higher contributions.",
+        "You can also downgrade your pension amount if you are facing financial difficulties. Downgrading reduces your monthly contribution and makes it easier to maintain regular payments. It is better to downgrade than to default on payments, which attracts penalties and can eventually close your account.",
+        "To switch the bank account linked to APY, visit your current bank and submit a transfer request. The bank will process the transfer to your new account within 15-30 days. Ensure the new bank account has auto-debit facility enabled for APY contributions.",
+        "You can change your nominee at any time by visiting the bank branch with the nominee's Aadhaar details. If you get married after enrollment, it is important to update your spouse as the default beneficiary since the spouse pension benefit only applies to legally recognized spouses."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Common APY Mistakes to Avoid",
+      "icon": "⚠️",
+      "content": [
+        "MISTAKE 1 - CHOOSING MINIMUM PENSION WITHOUT THINKING: Many people enroll for ₹1,000/month pension because it seems like free money at ₹42/month contribution. But ₹1,000/month in today's money will be worth roughly ₹250-300 in purchasing power by 2060 due to inflation. If you can afford it, always choose the ₹5,000 pension or at least ₹3,000.",
+        "MISTAKE 2 - INSUFFICIENT BANK BALANCE ON DEBIT DATE: This is the most common operational issue. If the auto-debit fails because your account balance is low, you are charged a penalty of ₹1 per month for ₹100 contribution, ₹2 for ₹101-500, ₹5 for ₹501-1,000, and ₹10 for contributions above ₹1,000. Set a reminder to ensure sufficient balance 2-3 days before the debit date.",
+        "MISTAKE 3 - NOT LINKING AADHAAR AND MOBILE: APY accounts without Aadhaar linkage may face issues during pension disbursement. Ensure your Aadhaar is linked to both your bank account and APY account. Also keep your mobile number updated for receiving transaction alerts and OTPs.",
+        "MISTAKE 4 - TREATING APY AS COMPLETE RETIREMENT PLAN: The maximum APY pension is ₹5,000/month, which is insufficient for comfortable retirement even in rural India. Use APY as one component of your retirement strategy alongside NPS, PPF, mutual funds, or other investments. APY provides the floor - the guaranteed minimum pension - while other investments provide the growth.",
+        "MISTAKE 5 - IGNORING THE SCHEME BECAUSE OF LOW PENSION: ₹5,000/month may seem low, but the guaranteed nature of APY is its superpower. Unlike market-linked instruments where your corpus can deplete or returns can be poor, APY pays a fixed pension for life. Even wealthy individuals should consider APY as a risk-free pension floor for ₹210-1,454 per month - it is the cheapest longevity insurance available in India."
+      ]
+    },
+    {
+      "heading": "Who Is This For?",
+      "icon": "👴",
+      "type": "callout",
+      "variant": "info",
+      "content": "APY is for unorganized sector workers aged 18-40 - daily wage earners, small business owners, domestic workers. Minimum age 18, maximum 40 to start. You pay for 20-42 years depending on entry age. After 60, guaranteed monthly pension of ₹1,000-5,000."
+    },
+    {
+      "heading": "Monthly Contribution Chart - How Much to Pay",
+      "icon": "📊",
+      "type": "text",
+      "content": [
+        "Your monthly contribution depends on TWO factors: (1) the pension amount you choose (₹1,000/₹2,000/₹3,000/₹4,000/₹5,000 per month), and (2) your age at the time of enrollment. The younger you join, the less you pay per month.",
+        "For ₹1,000/month pension: Age 18 = ₹42/mo, Age 20 = ₹50/mo, Age 25 = ₹76/mo, Age 30 = ₹116/mo, Age 35 = ₹181/mo, Age 40 = ₹291/mo.",
+        "For ₹3,000/month pension: Age 18 = ₹126/mo, Age 20 = ₹150/mo, Age 25 = ₹226/mo, Age 30 = ₹347/mo, Age 35 = ₹543/mo, Age 40 = ₹873/mo.",
+        "For ₹5,000/month pension: Age 18 = ₹210/mo, Age 20 = ₹248/mo, Age 25 = ₹376/mo, Age 30 = ₹577/mo, Age 35 = ₹902/mo, Age 40 = ₹1,454/mo.",
+        "Key insight: If you join at 18, you pay ₹210/month for 42 years to get ₹5,000/month pension for life. Total paid in = ₹1,05,840.",
+        "If you live until 80, total pension received = ₹12,00,000. That's 11× your investment.",
+        "The earlier you start, the better the deal."
+      ]
+    },
+    {
+      "type": "svg_block",
+      "heading": "Visual: Eligibility Check",
+      "svg": "<svg viewBox=\"0 0 700 150\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Eligibility</text><rect x=\"20\" y=\"35\" width=\"320\" height=\"105\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"180\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1B6B4A\">Eligible</text><text x=\"40\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Age</text><rect x=\"360\" y=\"35\" width=\"320\" height=\"105\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"520\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#BE185D\">Not Eligible</text><text x=\"380\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Bank account</text><text x=\"380\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Aadhaar</text><text x=\"380\" y=\"111\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Existing pension</text><text x=\"380\" y=\"129\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Income tax</text><text x=\"380\" y=\"147\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Citizenship</text></svg>",
+      "caption": "Quick eligibility check for Atal Pension Yojana",
+      "description": "Check if you meet the basic eligibility criteria before applying."
+    },
+    {
+      "heading": "Visual: Contribution vs Pension Received",
+      "icon": "📊",
+      "type": "svg_block",
+      "svg": "<svg viewBox=\"0 0 700 320\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\">\n <text x=\"350\" y=\"25\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">APY Contribution → Guaranteed Monthly Pe</text>\n <!-- Axes -->\n <line x1=\"80\" y1=\"260\" x2=\"640\" y2=\"260\" stroke=\"#4B5563\" stroke-width=\"1\"/>\n <line x1=\"80\" y1=\"70\" x2=\"80\" y2=\"260\" stroke=\"#4B5563\" stroke-width=\"1\"/>\n <!-- Y labels -->\n <text x=\"70\" y=\"263\" text-anchor=\"end\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B7280\">₹0</text>\n <text x=\"70\" y=\"223\" text-anchor=\"end\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B7280\">₹1K</text>\n <text x=\"70\" y=\"183\" text-anchor=\"end\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B7280\">₹2K</text>\n <text x=\"70\" y=\"143\" text-anchor=\"end\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B7280\">₹3K</text>\n <text x=\"70\" y=\"103\" text-anchor=\"end\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B7280\">₹4K</text>\n <text x=\"70\" y=\"75\" text-anchor=\"end\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B7280\">₹5K</text>\n <!-- Bars: 5 pension tiers, each pair (monthly contribution vs pension received) -->\n <g>\n <!-- ₹1000 pension -->\n <rect x=\"110\" y=\"250\" width=\"40\" height=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1\"/>\n <rect x=\"155\" y=\"220\" width=\"40\" height=\"40\" fill=\"#2563EB\"/>\n <text x=\"155\" y=\"285\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">₹1K</text>\n <text x=\"155\" y=\"298\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#6B7280\">(₹42/mo)</text>\n <!-- ₹2000 pension -->\n <rect x=\"220\" y=\"245\" width=\"40\" height=\"15\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1\"/>\n <rect x=\"265\" y=\"180\" width=\"40\" height=\"80\" fill=\"#2563EB\"/>\n <text x=\"265\" y=\"285\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">₹2K</text>\n <text x=\"265\" y=\"298\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#6B7280\">(₹84/mo)</text>\n <!-- ₹3000 pension -->\n <rect x=\"330\" y=\"242\" width=\"40\" height=\"18\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1\"/>\n <rect x=\"375\" y=\"140\" width=\"40\" height=\"120\" fill=\"#2563EB\"/>\n <text x=\"375\" y=\"285\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">₹3K</text>\n <text x=\"375\" y=\"298\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#6B7280\">(₹126/mo)</text>\n <!-- ₹4000 pension -->\n <rect x=\"440\" y=\"239\" width=\"40\" height=\"21\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1\"/>\n <rect x=\"485\" y=\"100\" width=\"40\" height=\"160\" fill=\"#2563EB\"/>\n <text x=\"485\" y=\"285\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">₹4K</text>\n <text x=\"485\" y=\"298\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#6B7280\">(₹168/mo)</text>\n <!-- ₹5000 pension -->\n <rect x=\"550\" y=\"236\" width=\"40\" height=\"24\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1\"/>\n <rect x=\"595\" y=\"60\" width=\"40\" height=\"200\" fill=\"#2563EB\"/>\n <text x=\"595\" y=\"285\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">₹5K</text>\n <text x=\"595\" y=\"298\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#6B7280\">(₹210/mo)</text>\n </g>\n <!-- Legend -->\n <rect x=\"120\" y=\"40\" width=\"12\" height=\"12\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"1\"/>\n <text x=\"140\" y=\"50\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Monthly contribution</text>\n <rect x=\"400\" y=\"40\" width=\"12\" height=\"12\" fill=\"#2563EB\"/>\n <text x=\"420\" y=\"50\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Pension received aft</text>\n</svg>",
+      "caption": "Start at age 20 → get ₹5,000/month pension by paying just ₹210/month",
+      "description": "Starting earlier means smaller monthly contributions. At age 20, you pay 42 years × ₹210 = ₹1.06 lakh total and receive pension for 20+ years - total payout ~₹12+ lakh."
+    },
+    {
+      "heading": "APY Contribution and Benefits Table",
+      "icon": "💰",
+      "type": "table",
+      "columns": [
+        "Age at Entry",
+        "₹1,000 Pension",
+        "₹2,000 Pension",
+        "₹3,000 Pension",
+        "₹5,000 Pension"
+      ],
+      "rows": [
+        [
+          "18",
+          "₹42",
+          "₹84",
+          "₹126",
+          "₹210"
+        ],
+        [
+          "20",
+          "₹50",
+          "₹100",
+          "₹150",
+          "₹248"
+        ],
+        [
+          "25",
+          "₹76",
+          "₹151",
+          "₹226",
+          "₹376"
+        ],
+        [
+          "30",
+          "₹116",
+          "₹231",
+          "₹347",
+          "₹577"
+        ],
+        [
+          "35",
+          "₹181",
+          "₹362",
+          "₹543",
+          "₹902"
+        ],
+        [
+          "40",
+          "₹291",
+          "₹582",
+          "₹873",
+          "₹1,454"
+        ]
+      ]
+    },
+    {
+      "heading": "What Happens After You Turn 60",
+      "icon": "🎂",
+      "type": "text",
+      "content": [
+        "On your 60th birthday, your contributions stop and the guaranteed monthly pension begins. Here's the complete lifecycle:",
+        "While you're alive (after 60): You receive the chosen pension amount (₹1,000/₹2,000/₹3,000/₹4,000/₹5,000) every month, credited directly to your bank account. This continues for your entire lifetime - even if you live to 100.",
+        "After your death: Your spouse receives the SAME pension amount for their lifetime. This is automatic - the spouse doesn't need to apply for a separate pension.",
+        "They just need to inform the bank with a death certificate.",
+        "After both subscriber and spouse pass away: The accumulated pension corpus (approximately ₹1.7 lakh for ₹1,000 plan to ₹8.5 lakh for ₹5,000 plan) is returned to the nominee as a lump sum.",
+        "Early exit (before 60): If you want to exit before 60 due to terminal illness or death, the accumulated corpus is returned. If you exit voluntarily, you only get back your contributions with actual returns earned (not guaranteed)."
+      ]
+    },
+    {
+      "heading": "Tax Benefit",
+      "icon": "💡",
+      "type": "callout",
+      "variant": "tip",
+      "content": "APY contributions qualify for Section 80CCD(1B) - additional ₹50,000 deduction over and above the ₹1.5 lakh Section 80C limit. This is the ONLY way to get tax deduction beyond ₹1.5 lakh via investment. APY tops up NPS benefits perfectly."
+    },
+    {
+      "heading": "How to Enroll - Step by Step",
+      "icon": "📝",
+      "type": "steps",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Visit your bank branch",
+          "description": "Go to any bank where you have a savings account. APY enrollment is available at all nationalized banks, major private banks, regional rural banks, and India Post payments bank. Carry your Aadhaar card and bank passbook."
+        },
+        {
+          "step": 2,
+          "title": "Fill the APY registration form",
+          "description": "Ask for the APY enrollment form. Fill in: name, date of birth, mobile number (linked to Aadhaar), email, nominee details (spouse recommended), and choose your pension amount (₹1,000 to ₹5,000)."
+        },
+        {
+          "step": 3,
+          "title": "Set up auto-debit",
+          "description": "Your monthly contribution will be auto-debited from your savings account. You'll need to sign a mandate for auto-debit. Ensure your account has sufficient balance on the debit date every month."
+        },
+        {
+          "step": 4,
+          "title": "Receive confirmation",
+          "description": "You'll get an SMS confirmation with your PRAN (Permanent Retirement Account Number). Save this number - it's your unique APY account identifier. You can check your account status anytime using this PRAN."
+        }
+      ]
+    },
+    {
+      "type": "svg_block",
+      "heading": "Visual: Application Process",
+      "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><defs><marker id=\"af\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><polygon points=\"0 0, 10 3, 0 6\" fill=\"#1E40AF\"/></marker></defs><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">How to Apply</text><rect x=\"20\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"90\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Ensure you have a </text><line x1=\"160\" y1=\"65\" x2=\"180\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"190\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"260\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Visit bank or enro</text><line x1=\"330\" y1=\"65\" x2=\"350\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"360\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"430\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Choose pension amo</text><line x1=\"500\" y1=\"65\" x2=\"520\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"530\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"600\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Authorize auto-deb</text></svg>",
+      "caption": "Step-by-step application process",
+      "description": "Follow these steps to complete your application successfully."
+    },
+    {
+      "heading": "Important Rules and Penalties",
+      "icon": "⚠️",
+      "type": "text",
+      "content": [
+        "Auto-debit failures: If your bank account doesn't have enough balance on the debit date, the contribution is missed. A penalty of ₹1/month for every ₹100 of contribution is charged.",
+        "For example, if your monthly contribution is ₹210 and you miss one month, penalty = ₹2.10.",
+        "Account freezing: If you miss contributions for 6 consecutive months, your account is frozen. After 12 months of non-payment, the account is deactivated.",
+        "After 24 months, the account is closed and you get back only your contributions with actual returns (no government co-contribution).",
+        "To avoid problems: Set up auto-debit on a date when your account usually has money (like salary date + 2 days). Keep a buffer of 2-3 months' contributions.",
+        "You can change the debit date by contacting your bank.",
+        "Tax benefit: Contributions to APY qualify for tax deduction under Section 80CCD(1) within the overall ₹1.5 lakh limit. However, this benefit is only under the Old Tax Regime, not the New Tax Regime."
+      ]
+    },
+    {
+      "type": "callout",
+      "heading": "Official Sources & References",
+      "icon": "📖",
+      "variant": "info",
+      "content": "Source: PFRDA (Pension Fund Regulatory & Development Authority). All information on this page has been verified against official government notifications and regulatory circulars. For the latest updates, always check the official portal."
+    },
+    {
+      "heading": "Early Exit Penalty",
+      "icon": "⚠️",
+      "type": "callout",
+      "variant": "warning",
+      "content": "If you exit before 60 (except death/terminal illness), you only get your contribution back + interest - no government co-contribution bonus. You miss out on decades of compounding. Treat APY as locked for retirement only."
+    },
+    {
+      "type": "pullquote",
+      "text": "Atal Pension Yojana is the only government scheme that guarantees a fixed monthly pension for life - starting at just ₹42 per month contribution, it ensures that no Indian worker retires without income security."
+    },
+    {
+      "type": "svg_block",
+      "heading": "APY Monthly Contribution by Age",
+      "icon": "📊",
+      "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">APY Monthly Payment for ₹5000 Pension</text><rect x=\"30\" y=\"50\" width=\"150\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"105\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">Age 18 ₹210/mo</text><rect x=\"200\" y=\"50\" width=\"150\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"275\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Age 25 ₹376/mo</text><rect x=\"370\" y=\"50\" width=\"150\" height=\"35\" rx=\"8\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"445\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#92400E\">Age 30 ₹577/mo</text><rect x=\"540\" y=\"50\" width=\"130\" height=\"35\" rx=\"8\" fill=\"#F3E8FF\" stroke=\"#7C3AED\" stroke-width=\"2\"/><text x=\"605\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#5B21B6\">Age 35 ₹902/mo</text></svg>",
+      "caption": "Starting at 18 costs just ₹210/month for a guaranteed ₹5000 lifetime pension",
+      "description": "The earlier you join, the less you pay for the same pension amount."
+    }
+  ],
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Ensure you have a savings bank account with Aadhaar linked",
+      "description": "APY enrollment requires an active savings account with Aadhaar and mobile number linked. If not linked, visit your bank first."
+    },
+    {
+      "step": 2,
+      "title": "Visit bank or enroll online",
+      "description": "Physical: Visit any bank branch with Aadhaar + passbook. Online: Many banks (SBI, PNB, BOB) allow APY enrollment through net banking."
+    },
+    {
+      "step": 3,
+      "title": "Choose pension amount and fill form",
+      "description": "Select ₹1,000/₹2,000/₹3,000/₹4,000/₹5,000 per month pension. Your age determines the monthly contribution. Nominate your spouse (recommended)."
+    },
+    {
+      "step": 4,
+      "title": "Authorize auto-debit and start contributing",
+      "description": "Sign the auto-debit mandate. First contribution is debited within a month. You'll receive PRAN via SMS. Track at enps.nsdl.com."
+    }
+  ],
+  "important_alert": {
+    "text": "Ensure your bank account has sufficient balance on the auto-debit date every month. Missing 6+ months of payments can freeze your account. Missing 24+ months closes the account permanently. Set up alerts with your bank.",
+    "type": "warning"
+  },
+  "important_dates": [
+    {
+      "label": "Enrollment",
+      "value": "Open throughout the year at all banks",
+      "highlight": true
+    },
+    {
+      "label": "Pension starts",
+      "value": "At age 60 (auto-maturity)",
+      "highlight": true
+    },
+    {
+      "label": "Contribution period",
+      "value": "From enrollment date until age 60",
+      "highlight": false
+    },
+    {
+      "label": "Auto-debit",
+      "value": "Monthly - date chosen during enrollment",
+      "highlight": false
+    },
+    {
+      "label": "Helpline",
+      "value": "1800-889-1030 (NPS/APY toll-free)",
+      "highlight": true
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What if I already have EPF? Can I join APY?",
+      "answer": "If you are a member of EPF through your employer, you technically cannot get government co-contribution in APY, but you CAN still enroll and contribute. Since EPF already provides retirement benefits, evaluate whether you need additional pension coverage."
+    },
+    {
+      "question": "Can I change my pension amount after enrolling?",
+      "answer": "Yes. You can increase or decrease your pension amount once per year. Visit your bank and request an upgrade/downgrade. Your monthly contribution will be recalculated. The change takes effect from the next contribution month."
+    },
+    {
+      "question": "What happens if I die before 60?",
+      "answer": "If the subscriber dies before 60, the spouse has two options: (1) Continue the APY account by making remaining contributions until the subscriber would have turned 60, then receive pension for life. (2) Exit the scheme and receive the accumulated corpus as a lump sum."
+    },
+    {
+      "question": "Is APY pension taxable?",
+      "answer": "Yes. The monthly pension after 60 is treated as income and taxable. For most APY subscribers, the pension (₹12,000-60,000/year) falls well below the basic tax exemption limit, so effectively no tax is paid."
+    },
+    {
+      "question": "Can I have both APY and NPS?",
+      "answer": "Yes. APY and NPS-Private are separate schemes. You can contribute to both. APY gives a guaranteed pension, while NPS gives market-linked returns (potentially higher but not guaranteed)."
+    },
+    {
+      "question": "What is the government co-contribution?",
+      "answer": "For subscribers who joined between June 2015 and March 2016, the government contributed 50% of the subscriber's contribution (up to ₹1,000/year) for 5 years. This has ended for new subscribers."
+    },
+    {
+      "question": "Can I withdraw money from APY before 60?",
+      "answer": "Premature exit is allowed only due to death or terminal illness. Voluntary premature exit returns your contributions with actual investment returns (not guaranteed amounts). It's strongly discouraged."
+    },
+    {
+      "question": "How is APY different from NPS?",
+      "answer": "APY gives a GUARANTEED fixed pension (₹1,000-5,000/month). NPS gives MARKET-LINKED returns (potentially 8-12%). APY has a max pension of ₹5,000/month. NPS has no upper limit. For unorganized sector workers, APY's simplicity and guarantee make it better."
+    },
+    {
+      "question": "Can I change my pension amount in APY?",
+      "answer": "Yes, but only between ₹1,000-5,000. Change request must be submitted in April of any year via your bank. Contribution will adjust based on new target amount and your remaining years. You can also switch from monthly to quarterly/half-yearly payment mode via the same process."
+    },
+    {
+      "question": "What is the difference between APY and NPS?",
+      "answer": "APY guarantees a FIXED monthly pension (₹1,000-5,000) after 60. NPS is market-linked - no guarantee. NPS requires minimum ₹1,000/year but can go up to lakhs. APY is for unorganized sector (small amounts, govt co-contribution earlier). NPS is for organized sector (salaried, higher amounts, better returns). You can have BOTH - APY for guaranteed floor, NPS for growth."
+    },
+    {
+      "question": "What happens if I miss APY payments?",
+      "answer": "Penalties for missed contributions: ₹1 for payments up to ₹100, ₹2 for up to ₹500, ₹5 for up to ₹1000, ₹10 for over ₹1000. If you miss for 12+ months, account becomes dormant. After 24 months of non-payment, account is closed and contributions refunded. Always maintain enough balance in linked bank account."
+    }
+  ],
+  "official_portal": {
+    "name": "APY - National Pension System Trust",
+    "url": "https://www.npscra.nsdl.co.in/nsdl/scheme-details/APY.html"
+  },
+  "related_pages": [
+    {
+      "title": "National Pension System (NPS)",
+      "slug": "national-pension-scheme",
+      "tag": "Pension",
+      "url": "/yojana/national-pension-scheme"
+    },
+    {
+      "title": "PM Shram Yogi Maandhan",
+      "slug": "pm-shram-yogi-maandhan",
+      "tag": "Pension",
+      "url": "/yojana/pm-shram-yogi-maandhan"
+    },
+    {
+      "title": "e-Shram Card",
+      "slug": "e-shram-card",
+      "tag": "Labour",
+      "url": "/yojana/e-shram-card"
+    },
+    {
+      "title": "EPF Withdrawal Guide",
+      "slug": "epf-withdrawal",
+      "tag": "Employment",
+      "url": "/paisa/epf-withdrawal"
+    },
+    {
+      "title": "Sukanya Samriddhi Yojana",
+      "slug": "sukanya-samriddhi-yojana",
+      "tag": "Girl Child",
+      "url": "/yojana/sukanya-samriddhi-yojana"
+    }
+  ],
+  "tags": [
+    "Pension",
+    "Retirement",
+    "Unorganized Sector",
+    "PFRDA",
+    "Central Government"
+  ],
+  "ministry": "Ministry of Finance",
+  "launch_year": 2015,
+  "image_suggestions": [
+    "apy-contribution-chart-age-wise",
+    "pension-calculation-example-chart",
+    "apy-retirement-income-timeline",
+    "auto-debit-setup-bank-process",
+    "apy-spouse-pension-benefit-illustration",
+    "unorganized-sector-worker-apy-success-story"
+  ],
+  "last_reviewed": "May 2026",
+  "category": "pension",
+  "isCentral": true
 }

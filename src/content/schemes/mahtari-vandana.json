@@ -1,577 +1,574 @@
 {
- "slug": "mahtari-vandana",
- "title": "Mahtari Vandana Yojana (Chhattisgarh) - ₹1,000/Month for Women",
- "meta_description": "Mahtari Vandana Yojana CG 2026 - ₹1,000/month for 70+ lakh married women in Chhattisgarh. Eligibility, documents, apply online, payment status.",
- "hero": {
- "status": "active",
- "one_liner": "₹1,000 monthly direct cash transfer to married, widowed, divorced, and separated women aged 23-60 in Chhattisgarh - 70+ lakh women already enrolled",
- "icon": "👩",
- "updated_date": "May 2026",
- "stats": [
- {
- "label": "Monthly",
- "value": "₹1,000"
- },
- {
- "label": "Annual",
- "value": "₹12,000"
- },
- {
- "label": "Beneficiaries",
- "value": "70+ Lakh"
- },
- {
- "label": "State",
- "value": "Chhattisgarh"
- }
- ]
- },
- "quick_actions": [
- {
- "icon": "📝",
- "label": "Apply at mahtarivandan.cgstate.gov.in",
- "url": "https://mahtarivandan.cgstate.gov.in"
- },
- {
- "icon": "💳",
- "label": "Check Payment Status",
- "url": "https://mahtarivandan.cgstate.gov.in"
- }
- ],
- "what_is_it": [
- "Mahtari Vandana Yojana is a direct cash transfer scheme launched on 1 March 2024 by the Chhattisgarh government under CM Vishnu Deo Sai. The state transfers ₹1,000 every month (₹12,000/year) directly into the bank accounts of eligible women. Over 70 lakh women across the state are already enrolled and receiving payments via <a href=\"https://mahtarivandan.cgstate.gov.in\" target=\"_blank\" rel=\"noopener\">Direct Benefit Transfer (DBT)</a>.",
- "The scheme covers married, widowed, divorced, and separated women aged 23-60 who are permanent residents of Chhattisgarh with family income below ₹2.5 lakh/year. Your name must appear in Panchayat records or the BPL list. The money goes straight to your Aadhaar-linked bank account - no middleman, no office visits to collect it.",
- "As of December 2024, the government has successfully transferred 10 monthly installments. Payments typically land between the 15th and 25th of each month. This is a recurring benefit - not a one-time payment. As long as you remain eligible, you continue receiving ₹1,000 every month.",
- "Mahtari Vandana is part of a nationwide trend of state-level women cash transfer schemes. Madhya Pradesh's Ladli Behna gives ₹1,250/month, Maharashtra's Majhi Ladki Bahin gives ₹1,500/month, and Karnataka's Gruha Lakshmi gives ₹2,000/month. These are different state schemes - you can only apply in the state where you're a permanent resident."
- ],
- "eligibility": [
- {
- "label": "Age",
- "value": "23-60 years",
- "highlight": true
- },
- {
- "label": "Marital status",
- "value": "Married, widowed, divorced, or separated",
- "highlight": true
- },
- {
- "label": "Residency",
- "value": "Permanent resident of Chhattisgarh",
- "highlight": false
- },
- {
- "label": "Family income",
- "value": "Annual income must not exceed ₹2.5 lakh",
- "highlight": true
- },
- {
- "label": "Panchayat records",
- "value": "Name must appear in Panchayat records or BPL list",
- "highlight": false
- },
- {
- "label": "Bank account",
- "value": "Must have bank account linked with Aadhaar for DBT",
- "highlight": false
- },
- {
- "label": "Government job exclusion",
- "value": "No family member (spouse, children, parents) should hold a government job",
- "highlight": true
- },
- {
- "label": "No duplicate benefits",
- "value": "Cannot receive similar cash transfer from other central/state scheme",
- "highlight": false
- }
- ],
- "eligibility_filters": {
- "gender": [
- "female"
- ],
- "age_min": 23,
- "age_max": 60,
- "occupation": [
- "any"
- ],
- "income_max": 250000,
- "category": [
- "general",
- "obc",
- "sc",
- "st"
- ],
- "states": [
- "chhattisgarh"
- ]
- },
- "extra_sections": [
- {
- "heading": "Comparison With Similar Schemes in Other States",
- "icon": "📊",
- "type": "table",
- "columns": [
- "Scheme",
- "State",
- "Monthly Amount",
- "Age Group",
- "Income Limit"
- ],
- "rows": [
- [
- "Mahtari Vandana",
- "Chhattisgarh",
- "₹1,000",
- "23-60 years",
- "₹2.5L/year"
- ],
- [
- "Ladli Behna",
- "Madhya Pradesh",
- "₹1,250",
- "21-60 years",
- "₹2.5L/year"
- ],
- [
- "Majhi Ladki Bahin",
- "Maharashtra",
- "₹1,500",
- "21-65 years",
- "₹2.5L/year"
- ],
- [
- "Gruha Lakshmi",
- "Karnataka",
- "₹2,000",
- "18+ (head of family)",
- "BPL/Antyodaya"
- ]
- ]
- },
- {
- "heading": "",
- "type": "svg_block",
- "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Mahtari Vandana Rs 1,000/month married w</text><rect x=\"100\" y=\"45\" width=\"220\" height=\"60\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"210\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"#1B6B4A\">Rs 1,000/month</text><text x=\"210\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">direct bank account</text><rect x=\"380\" y=\"45\" width=\"220\" height=\"60\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"490\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"#2563EB\">Rs 12,000/year</text><text x=\"490\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">for every eligible m</text></svg>",
- "caption": "Mahtari Vandana provides Rs 12,000 per year to married women in Chhattisgarh through monthly direct transfers. Launched in February 2024 by the new BJP government."
- },
- {
- "heading": "Who Cannot Apply - Exclusions",
- "icon": "❌",
- "type": "text",
- "content": [
- "You are NOT eligible for Mahtari Vandana if any of these apply:",
- "<h3>Government employment</h3> Any immediate family member (spouse, children, parents) holds a government job - central, state, or local body. This includes contractual government positions in some cases.",
- "<h3>Duplicate scheme benefits</h3> You're already receiving a similar cash transfer benefit from any other central or state scheme. You must choose one - you cannot claim both.",
- "<h3>Income above limit</h3> Your family's total annual income from all sources exceeds ₹2.5 lakh. Income is verified through the income certificate issued by Gram Panchayat or Tehsildar.",
- "<h3>Not in Panchayat records</h3> Your name does not appear in either Panchayat village records or the official BPL list. If missing, contact your Gram Panchayat to get included first.",
- "<h3>Non-resident</h3> You are not a permanent resident of Chhattisgarh. Temporary residents or migrants from other states are not eligible.",
- "<h3>Age outside range</h3> You are below 23 years or above 60 years of age as per your Aadhaar card."
- ]
- },
- {
- "heading": "Documents Required",
- "icon": "📄",
- "type": "table",
- "columns": [
- "Document",
- "Purpose",
- "Notes"
- ],
- "rows": [
- [
- "Aadhaar Card",
- "Identity verification + DBT linking",
- "Must be linked with your bank account"
- ],
- [
- "Income Certificate",
- "Verify family income ≤₹2.5L",
- "Issued by Gram Panchayat or Tehsildar. Valid for 1 year"
- ],
- [
- "Bank Passbook",
- "Account details for payment",
- "First page with account number. Account must be in your name"
- ],
- [
- "Ration Card",
- "Residency proof",
- "BPL card preferred, APL also accepted"
- ],
- [
- "Marriage Certificate",
- "Marital status proof",
- "From Gram Panchayat or municipal corporation"
- ],
- [
- "Divorce Decree / Death Certificate",
- "For divorced/widowed women",
- "Court-issued divorce decree or spouse's death certificate"
- ],
- [
- "Passport-Size Photo",
- "Application processing",
- "Recent color photo, not older than 6 months"
- ]
- ]
- },
- {
- "heading": "Payment Schedule and How to Check Status",
- "icon": "💰",
- "type": "text",
- "content": [
- "Payments are credited between the 15th and 25th of each month via Direct Benefit Transfer (DBT) to your Aadhaar-linked bank account. As of December 2024, 10 installments have been successfully transferred to 70+ lakh <a href=\"/yojana/ladli-behna-yojana\" style=\"text-decoration:underline;color:inherit\">women</a> across Chhattisgarh.",
- "<h3>How to check payment status</h3> Visit <a href=\"https://mahtarivandan.cgstate.gov.in\" target=\"_blank\" rel=\"noopener\">mahtarivandan.cgstate.gov.in</a> and log in with your Aadhaar number to view all successful transfers, pending payments, and any rejection reasons. You can also check your bank passbook or mobile banking app for deposits.",
- "<h3>Payment delayed?</h3> Common reasons: Aadhaar-bank account mismatch, incomplete KYC, or income certificate expired. Contact your nearest Anganwadi center or the District <a href=\"/yojana/gruha-lakshmi\" style=\"text-decoration:underline;color:inherit\">Women</a> and Child Development office.",
- "Ensure your Aadhaar is properly linked to your bank account - this is the #1 reason for payment failures."
- ]
- },
- {
- "type": "svg_block",
- "heading": "Visual: Mahtari Vandana Yojana Key Numbers",
- "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">₹1,000</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Monthly</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">₹12,000</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Annual</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">70+ Lakh</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Beneficiaries</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">Chhattisgarh</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">State</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
- "caption": "Key numbers for Mahtari Vandana Yojana (Chhatt",
- "description": "Quick overview of the most important numbers and facts."
- },
- {
- "type": "text",
- "heading": "What is Mahtari Vandana Yojana?",
- "icon": "👩",
- "content": [
- "Mahtari Vandana <a href=\"/yojana/pm-ujjwala-yojana\" style=\"text-decoration:underline;color:inherit\">Yojana</a> is Chhattisgarh's flagship women welfare scheme launched on February 10, 2024 by the BJP government after winning the 2023 state elections. It was a key election promise - Rs 1,000 per month deposited directly into the bank accounts of all married women in the state, regardless of income level.",
- "The scheme is modeled after Madhya Pradesh's Ladli Behna <a href=\"/yojana/pm-jan-dhan-yojana\" style=\"text-decoration:underline;color:inherit\">Yojana</a> (Rs 1,250/month) and aims to provide financial independence to women who may not have their own income source. The monthly transfer gives women direct control over money for personal expenses, children's needs, health costs, or savings - reducing their dependence on husband or in-laws for household expenditure.",
- "As of 2026, approximately 70 lakh married women in Chhattisgarh receive Mahtari Vandana benefits. The state spends roughly Rs 8,400 crore annually on this scheme - making it one of the largest state-level women welfare programs in <a href=\"/yojana/stand-up-india\" style=\"text-decoration:underline;color:inherit\">India</a> after MP's Ladli Behna."
- ]
- },
- {
- "type": "text",
- "heading": "Eligibility criteria - who qualifies",
- "icon": "📋",
- "content": [
- "Age: 21-60 years. Must be a married woman - unmarried, divorced, and widowed women are NOT eligible under the original scheme guidelines (this has been criticized - see controversies section). Must be a permanent resident of Chhattisgarh with Aadhaar card and bank account.",
- "Income limit: Family annual income must be below Rs 2.5 lakh per year. This income ceiling excludes upper-middle-class and wealthy families.",
- "Income is verified through self-declaration during registration - no formal income certificate is required, but the government cross-checks with income tax records.",
- "Exclusions: Women whose husbands are income tax payers, women who are current or former elected representatives (MP, MLA, sarpanch), women employed in government or semi-government organizations, and women who are pensioners of any government pension scheme (except widow pension). These exclusions target the scheme toward genuinely economically weaker women.",
- "One registration per family: Only one woman per household can register - typically the wife of the head of household. If a joint family has multiple married women (daughter-in-law, mother-in-law), each can register separately IF they have separate ration cards indicating different households."
- ]
- },
- {
- "type": "text",
- "heading": "How to apply - step by step",
- "icon": "📝",
- "content": [
- "Step 1: Visit the nearest Anganwadi center, Gram Panchayat office, or designated registration camp. Registration can also be done online at mahtarivandan.cgstate.gov.in.",
- "Carry Aadhaar card, marriage certificate (or marriage registration proof), bank passbook showing Aadhaar-linked account, ration card, and passport-sized photo.",
- "Step 2: The Anganwadi worker or registration officer fills your application form, verifies documents, and captures your photo. Your application is submitted online and given a registration number. Keep this number for tracking your application status.",
- "Step 3: Application is verified at the block and district level against Aadhaar data, ration card records, and income tax databases. Verification typically takes 15-30 days. If approved, you receive a confirmation SMS on your registered mobile number.",
- "Step 4: First payment is credited to your Aadhaar-linked bank account on the designated monthly payment date (usually 1st-5th of each month). Subsequent payments are automatic - no need to apply again each month. Check payment status at mahtarivandan.cgstate.gov.in using your registration number."
- ]
- },
- {
- "type": "text",
- "heading": "Impact on women's lives in Chhattisgarh",
- "icon": "💡",
- "content": [
- "Financial independence: For many rural women in Chhattisgarh who have never had their own income, Rs 1,000/month in their own bank account is transformative. Surveys by local NGOs report that women use the money primarily for children's education (35%), household nutrition (25%), personal health needs (20%), and savings (20%).",
- "The pattern shows women prioritize family welfare over personal consumption.",
- "Increased bank usage: Mahtari Vandana has driven a significant increase in women's bank account activity in Chhattisgarh. Many women opened their first-ever bank account specifically for this scheme.",
- "Regular monthly deposits have familiarized rural women with ATMs, passbook updates, and basic banking - creating financial literacy alongside financial inclusion.",
- "SHG amplification: Women already part of Self-Help Groups (SHGs) are using Mahtari Vandana payments as additional SHG savings. Some SHGs in Bastar and Surguja divisions pool members' Mahtari Vandana payments to create group corpus for micro-enterprise loans.",
- "This multiplies the scheme's impact - Rs 1,000 individual payment becomes Rs 10,000-15,000 group investment.",
- "Household dynamics: Research from PRADAN (a rural livelihood NGO active in Chhattisgarh) suggests that women receiving direct cash transfers report increased participation in household financial decisions. When women control money, they negotiate better for children's schooling, healthcare visits, and nutrition purchases.",
- "The Rs 1,000/month is not just cash - it's a tool for shifting household power dynamics."
- ]
- },
- {
- "type": "text",
- "heading": "Mahtari Vandana vs Ladli Behna vs Ladli Laxmi - comparison",
- "icon": "⚖️",
- "content": [
- "Chhattisgarh Mahtari Vandana: Rs 1,000/month (Rs 12,000/year) for married women aged 21-60 with family income below Rs 2.5 lakh. Monthly DBT to bank account. Covers approximately 70 lakh women. State budget: Rs 8,400 crore/year.",
- "Madhya Pradesh Ladli Behna: Rs 1,250/month (Rs 15,000/year) for married, widowed, divorced, and abandoned women aged 21-60 with family income below Rs 2.5 lakh. More inclusive than Mahtari Vandana because it covers widowed and divorced women.",
- "State budget: Rs 18,000 crore/year. Largest state women cash transfer in India.",
- "Maharashtra Ladki Bahin: Rs 1,500/month (Rs 18,000/year) for women aged 21-65 with family income below Rs 2.5 lakh. Highest monthly amount among similar schemes. Includes widowed, divorced, and abandoned women. State budget: Rs 46,000 crore/year (highest absolute spending).",
- "Jharkhand Mukhyamantri Maiyan Samman Yojana: Rs 1,000/month for women aged 18-50 from BPL families. Lower age threshold (18 vs 21) makes it accessible to younger women. Tamil Nadu does not have a direct equivalent but provides targeted benefits through SHG ecosystem.",
- "Common criticism across all schemes: These are consumption transfers, not productive investments. Critics argue the money should be spent on women's skill training, entrepreneurship support, and employment generation rather than unconditional cash transfers.",
- "Supporters counter that cash transfers respect women's agency - they know best how to spend money for their family's benefit."
- ]
- },
- {
- "type": "svg_block",
- "heading": "Visual: Eligibility Check",
- "svg": "<svg viewBox=\"0 0 700 132\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Eligibility</text><rect x=\"20\" y=\"35\" width=\"320\" height=\"87\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"180\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1B6B4A\">Eligible</text><text x=\"40\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Age</text><text x=\"40\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Marital status</text><text x=\"40\" y=\"111\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Family income</text><rect x=\"360\" y=\"35\" width=\"320\" height=\"87\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"520\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#BE185D\">Not Eligible</text><text x=\"380\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Residency</text><text x=\"380\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Panchayat records</text><text x=\"380\" y=\"111\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Bank account</text><text x=\"380\" y=\"129\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ No duplicate benefit</text></svg>",
- "caption": "Quick eligibility check for Mahtari Vandana Yojana",
- "description": "Check if you meet the basic eligibility criteria before applying."
- },
- {
- "type": "text",
- "heading": "Controversies and criticism",
- "icon": "⚠️",
- "content": [
- "Exclusion of unmarried, widowed, and divorced women: The most significant criticism. Women who are widowed, divorced, separated, or abandoned often face the worst financial vulnerability - yet they're excluded from Mahtari Vandana.",
- "MP's Ladli Behna includes these categories. Advocacy groups have demanded Chhattisgarh expand eligibility to all women regardless of marital status.",
- "Income ceiling verification challenges: The Rs 2.5 lakh family income limit is based on self-declaration without rigorous verification in rural areas. This creates two problems - deserving women above the threshold due to temporary income spikes are excluded, while some ineligible families with undisclosed income receive benefits.",
- "Better verification systems are needed.",
- "Fiscal sustainability: Rs 8,400 crore/year is approximately 8% of Chhattisgarh's total state budget. As the scheme matures and more women register, costs will increase.",
- "Opposition parties question whether the state can sustain this expenditure alongside infrastructure and development spending. The government argues the economic multiplier effect (women spending in local economy) justifies the cost.",
- "Political motivation: Critics allege Mahtari Vandana was a direct response to the success of MP's Ladli Behna in helping BJP win the 2023 MP elections. Similar schemes are now being announced by multiple state governments before elections - raising concerns about competitive populism where parties outbid each other with cash transfer promises without long-term fiscal planning."
- ]
- },
- {
- "type": "text",
- "heading": "Common issues and resolution",
- "icon": "🔧",
- "content": [
- "Payment not received: Check status at mahtarivandan.cgstate.gov.in. Common reasons: Aadhaar not linked to bank account (visit bank to link), bank account frozen due to inactivity (visit bank to reactivate), application still under verification (wait 30 days, then contact block office), or rejected due to incorrect information (resubmit with correct documents).",
- "Application rejected: Common rejection reasons include income above Rs 2.5 lakh (husband is a taxpayer), incomplete documents, Aadhaar mismatch with bank records, or duplicate application from the same household. If rejected unfairly, file a grievance at the district Women and Child Development office with supporting documents.",
- "Name mismatch between Aadhaar and bank account: This blocks DBT transfers. Visit your bank branch with Aadhaar card to update the name in bank records (or vice versa). Ensure the spelling matches exactly - even a single letter difference can block the transfer.",
- "Change of bank account: If you want to switch the receiving bank account, visit the nearest registration center or block office with the new bank passbook. The update takes 15-30 days.",
- "Continue maintaining the old account until the new one is confirmed - payments during transition go to the old account."
- ]
- },
- {
- "type": "callout",
- "variant": "tip",
- "heading": "Combine with PM-KISAN and Ujjwala for maximum benefit",
- "content": "Mahtari Vandana (Rs 12,000/year) + PM-KISAN if farming family (Rs 6,000/year) + Ujjwala LPG subsidy (Rs 2,400-3,600/year) = Rs 20,000-22,000/year in direct cash transfers to the household. Ensure all schemes are registered with different Aadhaar-linked accounts or the same account - both work fine. Each scheme operates independently."
- },
- {
- "type": "callout",
- "variant": "warning",
- "heading": "Beware of fake registration agents",
- "content": "Several unauthorized individuals and websites charge Rs 500-2,000 for Mahtari Vandana registration. Registration is FREE - no government agency charges any fee. Apply only through official channels: Anganwadi centers, Gram Panchayat offices, or mahtarivandan.cgstate.gov.in. Never share your Aadhaar OTP with unknown callers claiming to register you."
- },
- {
- "type": "pullquote",
- "text": "70 lakh women in Chhattisgarh receive Rs 1,000 every month directly in their bank accounts. For many, it's the first time they've had money that's truly theirs - not their husband's, not their in-laws', but theirs to save, spend, or invest as they choose."
- },
- {
- "type": "svg_block",
- "heading": "Visual: Application Process",
- "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><defs><marker id=\"af\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><polygon points=\"0 0, 10 3, 0 6\" fill=\"#1E40AF\"/></marker></defs><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">How to Apply</text><rect x=\"16\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"71\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Check your eligibi</text><line x1=\"126\" y1=\"65\" x2=\"142\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"152\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"207\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Gather documents</text><line x1=\"262\" y1=\"65\" x2=\"278\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"288\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"343\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Apply online or at</text><line x1=\"398\" y1=\"65\" x2=\"414\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"424\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"479\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Track application</text><line x1=\"534\" y1=\"65\" x2=\"550\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"560\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"615\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">Receive monthly pa</text></svg>",
- "caption": "Step-by-step application process",
- "description": "Follow these steps to complete your application successfully."
- },
- {
- "type": "text",
- "heading": "How women are using Mahtari Vandana money",
- "icon": "💰",
- "content": [
- "A survey by the Chhattisgarh Women's Commission covering 5,000 beneficiaries across 15 districts found clear spending patterns. Children's education leads at 35% - women use the money for school fees, uniforms, books, and tuition classes.",
- "In tribal districts like Bastar and Dantewada, where girls' school dropout rates are highest, mothers reported the monthly Rs 1,000 specifically helped keep daughters in school.",
- "Household nutrition accounts for 25% of spending - women buy milk, fruits, eggs, and vegetables that were previously considered 'luxury items' in low-income households. A study by UNICEF's Chhattisgarh office noted a measurable improvement in children's nutritional indicators in Mahtari Vandana beneficiary households compared to non-beneficiary households in neighboring districts.",
- "Health expenses at 20% - women use the money for gynecological check-ups, medicines for chronic conditions, and children's vaccinations at private clinics (when government facilities are distant or overcrowded). In rural Chhattisgarh where the nearest PHC can be 15-20 km away, having Rs 1,000 for transport and private consultation reduces treatment delays.",
- "Savings at 20% - many women deposit part of the Mahtari Vandana payment into recurring deposits or SHG savings. At Rs 500/month saved, a woman accumulates Rs 6,000/year plus interest.",
- "After 5 years, she has Rs 35,000-40,000 - enough for a small business investment, gold purchase, or emergency fund. This savings behavior is building long-term financial resilience."
- ]
- },
- {
- "type": "text",
- "heading": "Mahtari Vandana and women's political participation",
- "icon": "🗳️",
- "content": [
- "Direct cash transfers to women have had an unexpected political consequence - increased women's voter turnout and political awareness. In the 2024 Chhattisgarh Panchayat elections, women's voter turnout in Mahtari Vandana beneficiary blocks was 4-6% higher than in non-beneficiary blocks (where registration was pending).",
- "Financial independence appears to correlate with political engagement.",
- "Women beneficiaries report feeling 'stakeholders in governance' - they have a tangible, measurable connection with the state government through monthly payments. This makes them more likely to vote, attend gram sabha meetings, and demand accountability from elected representatives.",
- "The scheme has inadvertently strengthened grassroots democracy.",
- "Political parties across India have noticed this effect. Similar women cash transfer schemes are now announced in election manifestos of all major parties - Congress, BJP, AAP, TMC, DMK.",
- "The competitive pressure means women's financial support has become a permanent feature of Indian state governance, regardless of which party is in power."
- ]
- },
- {
- "type": "text",
- "heading": "Future outlook - will the amount increase?",
- "icon": "🔮",
- "content": [
- "The Chhattisgarh government has indicated that the Mahtari Vandana amount may be increased to Rs 1,500/month (matching Maharashtra's Ladki Bahin) in the next state budget, pending fiscal feasibility. Any increase would add Rs 4,200 crore to the annual expenditure - a significant additional burden on state finances.",
- "Comparison with other states suggests upward pressure: MP increased Ladli Behna from Rs 1,000 to Rs 1,250/month within a year of launch. Maharashtra started at Rs 1,500/month.",
- "If Chhattisgarh doesn't increase, it becomes politically uncompetitive relative to neighboring states offering more. The race-to-the-top dynamic among state governments benefits women but creates fiscal challenges.",
- "Long-term sustainability depends on Chhattisgarh's revenue growth. If the state's GST collection and mining royalties grow at 12-15% annually (current trend), the scheme is sustainable without cutting other developmental spending.",
- "If revenue growth slows, the government faces a difficult choice between maintaining Mahtari Vandana payments and funding infrastructure, education, and healthcare investments."
- ]
- },
- {
- "type": "text",
- "heading": "Documents checklist for Mahtari Vandana",
- "icon": "📄",
- "content": [
- "Mandatory documents: Aadhaar card of the applicant (must be linked to bank account for DBT), marriage certificate or proof of marriage (marriage registration certificate from Nagar Nigam/Panchayat, or affidavit on stamp paper if formal certificate is unavailable), bank passbook (first page showing account number, IFSC code, and name), ration card (Chhattisgarh state ration card showing the applicant as a member), and 2 passport-sized photographs.",
- "Supporting documents: Domicile/residence certificate (if Aadhaar address is outside Chhattisgarh), self-declaration of family income below Rs 2.5 lakh/year (standard format available at registration centers), caste certificate for SC/ST/OBC (for priority processing in some districts), and disability certificate if applicable (PwD women get priority registration).",
- "Digital copies: Keep scanned copies of all documents on your phone - some registration centers accept digital uploads. The Aadhaar number is verified online during registration through biometric or OTP authentication. If your Aadhaar biometric fails (common with agricultural workers whose fingerprints are worn), use OTP-based authentication via registered mobile number.",
- "Missing marriage certificate: Many rural women married through traditional ceremonies don't have formal marriage certificates. In such cases, an affidavit on Rs 10 stamp paper signed by two witnesses and attested by a notary or gazetted officer serves as marriage proof. Gram Panchayat can also issue a marriage verification letter. Apply for formal marriage registration simultaneously at your district Sub-Registrar office - it costs Rs 10-100 depending on the state fee structure."
- ]
- },
- {
- "type": "callout",
- "heading": "Official Sources & References",
- "icon": "📖",
- "variant": "info",
- "content": "Source: Department of Women & Child Development, Chhattisgarh. All information on this page has been verified against official government notifications and regulatory circulars. For the latest updates, always check the official portal."
- },
- {
- "type": "svg_block",
- "heading": "Mahtari Vandana Benefits",
- "icon": "👩",
- "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">Chhattisgarh Mahtari Vandana Yojana</text><rect x=\"50\" y=\"50\" width=\"280\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"190\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">₹1,000/month married w</text><rect x=\"370\" y=\"50\" width=\"280\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"510\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">₹12,000/year DBT bank</text></svg>",
- "caption": "Monthly financial support to all married women in Chhattisgarh",
- "description": "Widows, divorced, and separated women are also eligible."
- }
- ],
- "how_to_apply": [
- {
- "step": 1,
- "title": "Check your eligibility",
- "description": "Verify: age 23-60, married/widowed/divorced, CG permanent resident, family income ≤₹2.5L, no government job in family, name in Panchayat/BPL records."
- },
- {
- "step": 2,
- "title": "Gather documents",
- "description": "Aadhaar card, income certificate, bank passbook, ration card, marriage/divorce/death certificate (as applicable), passport photo. Ensure Aadhaar is linked with your bank account."
- },
- {
- "step": 3,
- "title": "Apply online or at Anganwadi center",
- "description": "Online: Visit mahtarivandan.cgstate.gov.in → click 'Apply' → fill form → upload documents → submit. Offline: Visit your nearest Anganwadi center with all documents - the worker will fill and submit the form for you."
- },
- {
- "step": 4,
- "title": "Track application",
- "description": "You'll receive a reference number via SMS. Use it to track status on the portal. Processing takes 15-30 days. If documents need verification, Gram Panchayat or Anganwadi worker will contact you."
- },
- {
- "step": 5,
- "title": "Receive monthly payments",
- "description": "Once approved, ₹1,000 is credited to your bank account every month starting the next payment cycle (15th-25th). Check your bank balance or the portal to confirm receipt."
- }
- ],
- "important_alert": {
- "text": "The only official website is mahtarivandan.cgstate.gov.in. Beware of fake websites and agents claiming to help you get faster approvals. The government will NEVER ask for money upfront. Do not share your Aadhaar, bank details, or OTP with anyone except through the official portal or at your Anganwadi center.",
- "type": "warning"
- },
- "important_dates": [
- {
- "label": "Scheme launched",
- "value": "1 March 2024",
- "highlight": true
- },
- {
- "label": "10th installment",
- "value": "December 2024",
- "highlight": false
- },
- {
- "label": "Monthly payment window",
- "value": "15th – 25th of each month",
- "highlight": true
- },
- {
- "label": "Applications",
- "value": "Open year-round",
- "highlight": false
- }
- ],
- "faqs": [
- {
- "question": "Is this the same as Ladli Behna?",
- "answer": "Same concept, different state. Mahtari Vandana is Chhattisgarh (₹1,000/mo). Ladli Behna is Madhya Pradesh (₹1,250/mo). Majhi Ladki Bahin is Maharashtra (₹1,500/mo). You can only apply in the state where you're a permanent resident."
- },
- {
- "question": "My husband has a government job. Can I apply?",
- "answer": "No. The scheme disqualifies women whose family members (spouse, children, parents) hold government jobs at any level - central, state, or local body."
- },
- {
- "question": "I'm a widow. What extra documents do I need?",
- "answer": "You need your deceased spouse's death certificate issued by the municipal corporation or Gram Panchayat, in addition to all standard documents (Aadhaar, income certificate, bank passbook, ration card, photo)."
- },
- {
- "question": "What if my name is not in Panchayat records?",
- "answer": "Contact your Gram Panchayat office to get your name included. This typically takes a few weeks. You can also qualify if your name appears in the BPL list instead. Apply only after your name appears in one of these records."
- },
- {
- "question": "Can I get this along with other government benefits?",
- "answer": "You cannot receive Mahtari Vandana if you're already getting a similar direct cash transfer from another scheme. However, non-cash benefits (ration card, Ayushman Bharat health insurance, LPG subsidy) do not disqualify you."
- },
- {
- "question": "How do I check if my payment was credited?",
- "answer": "Three ways: (1) Log into mahtarivandan.cgstate.gov.in with your Aadhaar number. (2) Check your bank passbook or mobile banking app for deposits between 15th-25th. (3) Ask at your Anganwadi center with your reference number."
- },
- {
- "question": "What if my payment is delayed?",
- "answer": "Usually caused by Aadhaar-bank account mismatch, expired income certificate, or incomplete KYC. Visit your Anganwadi center or district WCD office to identify and fix the issue. Ensure your Aadhaar is linked to the correct bank account."
- },
- {
- "question": "Can I reapply if rejected?",
- "answer": "Yes. Fix the reason for rejection (usually incomplete documents or name not in records) and resubmit. There's no limit on reapplications. The portal tells you why you were rejected."
- },
- {
- "question": "Can widows apply for Mahtari Vandana?",
- "answer": "Under the original scheme guidelines, widowed women are NOT eligible - only currently married women qualify. This is a major criticism. Widows can apply for central government's Widow Pension scheme (Rs 500-1,500/month depending on state) and Chhattisgarh state widow pension as alternatives. Advocacy groups are pushing for Mahtari Vandana to include widows."
- },
- {
- "question": "What is the last date to apply for Mahtari Vandana?",
- "answer": "There is no last date - registration is ongoing and open throughout the year. New registrations are processed monthly. However, the payment starts from the month following your approved registration, not retroactively. Apply as early as possible to maximize total payments received."
- },
- {
- "question": "Can women from other states living in Chhattisgarh apply?",
- "answer": "You need to be a permanent resident of Chhattisgarh - Chhattisgarh domicile or ration card is required. Women who migrated to Chhattisgarh after marriage can apply if they have a Chhattisgarh ration card. Temporary residents, migrant workers, and non-domicile holders are not eligible."
- },
- {
- "question": "Is Mahtari Vandana taxable?",
- "answer": "The Rs 12,000/year income from Mahtari Vandana is technically taxable income. However, since the scheme targets women with family income below Rs 2.5 lakh, their total income is well below the basic exemption limit (Rs 3 lakh under new regime). Practically, no tax is payable on Mahtari Vandana payments for eligible beneficiaries."
- }
- ],
- "official_portal": {
- "name": "Mahtari Vandana Yojana",
- "url": "https://mahtarivandan.cgstate.gov.in"
- },
- "related_pages": [
- {
- "title": "Ladli Behna Yojana (MP)",
- "slug": "ladli-behna-yojana",
- "tag": "Women",
- "url": "/yojana/ladli-behna-yojana"
- },
- {
- "title": "Majhi Ladki Bahin (MH)",
- "slug": "majhi-ladki-bahin",
- "tag": "Women",
- "url": "/yojana/majhi-ladki-bahin"
- },
- {
- "title": "Gruha Lakshmi (KA)",
- "slug": "gruha-lakshmi",
- "tag": "Women",
- "url": "/yojana/gruha-lakshmi"
- },
- {
- "title": "Lek Ladki Yojana (MH)",
- "slug": "lek-ladki-yojana",
- "tag": "Women",
- "url": "/yojana/lek-ladki-yojana"
- }
- ],
- "tags": [
- "Chhattisgarh",
- "Women",
- "Cash Transfer",
- "DBT"
- ],
- "ministry": "Govt of Chhattisgarh",
- "launch_year": 2024,
- "image_suggestions": [
- {
- "placement": "after hero",
- "description": "Screenshot of mahtarivandan.cgstate.gov.in application page",
- "alt_text": "Mahtari Vandana Yojana official portal application form"
- },
- {
- "placement": "after payment section",
- "description": "Screenshot of payment status check page showing installment history",
- "alt_text": "Mahtari Vandana payment status check portal"
- }
- ],
- "last_reviewed": "May 2026",
- "category": "women",
- "state": "chhattisgarh"
+  "slug": "mahtari-vandana",
+  "title": "Mahtari Vandana Yojana (Chhattisgarh) - ₹1,000/Month for Women",
+  "meta_description": "Mahtari Vandana Yojana CG 2026 - ₹1,000/month for 70+ lakh married women in Chhattisgarh. Eligibility, documents, apply online, payment status.",
+  "hero": {
+    "status": "active",
+    "one_liner": "₹1,000 monthly direct cash transfer to married, widowed, divorced, and separated women aged 23-60 in Chhattisgarh - 70+ lakh women already enrolled",
+    "icon": "👩",
+    "updated_date": "May 2026",
+    "stats": [
+      {
+        "label": "Monthly",
+        "value": "₹1,000"
+      },
+      {
+        "label": "Annual",
+        "value": "₹12,000"
+      },
+      {
+        "label": "Beneficiaries",
+        "value": "70+ Lakh"
+      },
+      {
+        "label": "State",
+        "value": "Chhattisgarh"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "📝",
+      "label": "Apply at mahtarivandan.cgstate.gov.in",
+      "url": "https://mahtarivandan.cgstate.gov.in"
+    },
+    {
+      "icon": "💳",
+      "label": "Check Payment Status",
+      "url": "https://mahtarivandan.cgstate.gov.in"
+    }
+  ],
+  "what_is_it": [
+    "Mahtari Vandana Yojana is a direct cash transfer scheme launched on 1 March 2024 by the Chhattisgarh government under CM Vishnu Deo Sai. The state transfers ₹1,000 every month (₹12,000/year) directly into the bank accounts of eligible women. Over 70 lakh women across the state are already enrolled and receiving payments via <a href=\"https://mahtarivandan.cgstate.gov.in\" target=\"_blank\" rel=\"noopener\">Direct Benefit Transfer (DBT)</a>.",
+    "The scheme covers married, widowed, divorced, and separated women aged 23-60 who are permanent residents of Chhattisgarh with family income below ₹2.5 lakh/year. Your name must appear in Panchayat records or the BPL list. The money goes straight to your Aadhaar-linked bank account - no middleman, no office visits to collect it.",
+    "As of December 2024, the government has successfully transferred 10 monthly installments. Payments typically land between the 15th and 25th of each month. This is a recurring benefit - not a one-time payment. As long as you remain eligible, you continue receiving ₹1,000 every month.",
+    "Mahtari Vandana is part of a nationwide trend of state-level women cash transfer schemes. Madhya Pradesh's Ladli Behna gives ₹1,250/month, Maharashtra's Majhi Ladki Bahin gives ₹1,500/month, and Karnataka's Gruha Lakshmi gives ₹2,000/month. These are different state schemes - you can only apply in the state where you're a permanent resident."
+  ],
+  "eligibility": [
+    {
+      "label": "Age",
+      "value": "23-60 years",
+      "highlight": true
+    },
+    {
+      "label": "Marital status",
+      "value": "Married, widowed, divorced, or separated",
+      "highlight": true
+    },
+    {
+      "label": "Residency",
+      "value": "Permanent resident of Chhattisgarh",
+      "highlight": false
+    },
+    {
+      "label": "Family income",
+      "value": "Annual income must not exceed ₹2.5 lakh",
+      "highlight": true
+    },
+    {
+      "label": "Panchayat records",
+      "value": "Name must appear in Panchayat records or BPL list",
+      "highlight": false
+    },
+    {
+      "label": "Bank account",
+      "value": "Must have bank account linked with Aadhaar for DBT",
+      "highlight": false
+    },
+    {
+      "label": "Government job exclusion",
+      "value": "No family member (spouse, children, parents) should hold a government job",
+      "highlight": true
+    },
+    {
+      "label": "No duplicate benefits",
+      "value": "Cannot receive similar cash transfer from other central/state scheme",
+      "highlight": false
+    }
+  ],
+  "eligibility_filters": {
+    "gender": [
+      "female"
+    ],
+    "age_min": 23,
+    "age_max": 60,
+    "occupation": [
+      "any"
+    ],
+    "income_max": 250000,
+    "category": [
+      "all"
+    ],
+    "states": [
+      "chhattisgarh"
+    ]
+  },
+  "extra_sections": [
+    {
+      "heading": "Comparison With Similar Schemes in Other States",
+      "icon": "📊",
+      "type": "table",
+      "columns": [
+        "Scheme",
+        "State",
+        "Monthly Amount",
+        "Age Group",
+        "Income Limit"
+      ],
+      "rows": [
+        [
+          "Mahtari Vandana",
+          "Chhattisgarh",
+          "₹1,000",
+          "23-60 years",
+          "₹2.5L/year"
+        ],
+        [
+          "Ladli Behna",
+          "Madhya Pradesh",
+          "₹1,250",
+          "21-60 years",
+          "₹2.5L/year"
+        ],
+        [
+          "Majhi Ladki Bahin",
+          "Maharashtra",
+          "₹1,500",
+          "21-65 years",
+          "₹2.5L/year"
+        ],
+        [
+          "Gruha Lakshmi",
+          "Karnataka",
+          "₹2,000",
+          "18+ (head of family)",
+          "BPL/Antyodaya"
+        ]
+      ]
+    },
+    {
+      "heading": "",
+      "type": "svg_block",
+      "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Mahtari Vandana Rs 1,000/month married w</text><rect x=\"100\" y=\"45\" width=\"220\" height=\"60\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"210\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"#1B6B4A\">Rs 1,000/month</text><text x=\"210\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">direct bank account</text><rect x=\"380\" y=\"45\" width=\"220\" height=\"60\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"490\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"#2563EB\">Rs 12,000/year</text><text x=\"490\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">for every eligible m</text></svg>",
+      "caption": "Mahtari Vandana provides Rs 12,000 per year to married women in Chhattisgarh through monthly direct transfers. Launched in February 2024 by the new BJP government."
+    },
+    {
+      "heading": "Who Cannot Apply - Exclusions",
+      "icon": "❌",
+      "type": "text",
+      "content": [
+        "You are NOT eligible for Mahtari Vandana if any of these apply:",
+        "<h3>Government employment</h3> Any immediate family member (spouse, children, parents) holds a government job - central, state, or local body. This includes contractual government positions in some cases.",
+        "<h3>Duplicate scheme benefits</h3> You're already receiving a similar cash transfer benefit from any other central or state scheme. You must choose one - you cannot claim both.",
+        "<h3>Income above limit</h3> Your family's total annual income from all sources exceeds ₹2.5 lakh. Income is verified through the income certificate issued by Gram Panchayat or Tehsildar.",
+        "<h3>Not in Panchayat records</h3> Your name does not appear in either Panchayat village records or the official BPL list. If missing, contact your Gram Panchayat to get included first.",
+        "<h3>Non-resident</h3> You are not a permanent resident of Chhattisgarh. Temporary residents or migrants from other states are not eligible.",
+        "<h3>Age outside range</h3> You are below 23 years or above 60 years of age as per your Aadhaar card."
+      ]
+    },
+    {
+      "heading": "Documents Required",
+      "icon": "📄",
+      "type": "table",
+      "columns": [
+        "Document",
+        "Purpose",
+        "Notes"
+      ],
+      "rows": [
+        [
+          "Aadhaar Card",
+          "Identity verification + DBT linking",
+          "Must be linked with your bank account"
+        ],
+        [
+          "Income Certificate",
+          "Verify family income ≤₹2.5L",
+          "Issued by Gram Panchayat or Tehsildar. Valid for 1 year"
+        ],
+        [
+          "Bank Passbook",
+          "Account details for payment",
+          "First page with account number. Account must be in your name"
+        ],
+        [
+          "Ration Card",
+          "Residency proof",
+          "BPL card preferred, APL also accepted"
+        ],
+        [
+          "Marriage Certificate",
+          "Marital status proof",
+          "From Gram Panchayat or municipal corporation"
+        ],
+        [
+          "Divorce Decree / Death Certificate",
+          "For divorced/widowed women",
+          "Court-issued divorce decree or spouse's death certificate"
+        ],
+        [
+          "Passport-Size Photo",
+          "Application processing",
+          "Recent color photo, not older than 6 months"
+        ]
+      ]
+    },
+    {
+      "heading": "Payment Schedule and How to Check Status",
+      "icon": "💰",
+      "type": "text",
+      "content": [
+        "Payments are credited between the 15th and 25th of each month via Direct Benefit Transfer (DBT) to your Aadhaar-linked bank account. As of December 2024, 10 installments have been successfully transferred to 70+ lakh <a href=\"/yojana/ladli-behna-yojana\" style=\"text-decoration:underline;color:inherit\">women</a> across Chhattisgarh.",
+        "<h3>How to check payment status</h3> Visit <a href=\"https://mahtarivandan.cgstate.gov.in\" target=\"_blank\" rel=\"noopener\">mahtarivandan.cgstate.gov.in</a> and log in with your Aadhaar number to view all successful transfers, pending payments, and any rejection reasons. You can also check your bank passbook or mobile banking app for deposits.",
+        "<h3>Payment delayed?</h3> Common reasons: Aadhaar-bank account mismatch, incomplete KYC, or income certificate expired. Contact your nearest Anganwadi center or the District <a href=\"/yojana/gruha-lakshmi\" style=\"text-decoration:underline;color:inherit\">Women</a> and Child Development office.",
+        "Ensure your Aadhaar is properly linked to your bank account - this is the #1 reason for payment failures."
+      ]
+    },
+    {
+      "type": "svg_block",
+      "heading": "Visual: Mahtari Vandana Yojana Key Numbers",
+      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">₹1,000</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Monthly</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">₹12,000</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Annual</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">70+ Lakh</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Beneficiaries</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">Chhattisgarh</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">State</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
+      "caption": "Key numbers for Mahtari Vandana Yojana (Chhatt",
+      "description": "Quick overview of the most important numbers and facts."
+    },
+    {
+      "type": "text",
+      "heading": "What is Mahtari Vandana Yojana?",
+      "icon": "👩",
+      "content": [
+        "Mahtari Vandana <a href=\"/yojana/pm-ujjwala-yojana\" style=\"text-decoration:underline;color:inherit\">Yojana</a> is Chhattisgarh's flagship women welfare scheme launched on February 10, 2024 by the BJP government after winning the 2023 state elections. It was a key election promise - Rs 1,000 per month deposited directly into the bank accounts of all married women in the state, regardless of income level.",
+        "The scheme is modeled after Madhya Pradesh's Ladli Behna <a href=\"/yojana/pm-jan-dhan-yojana\" style=\"text-decoration:underline;color:inherit\">Yojana</a> (Rs 1,250/month) and aims to provide financial independence to women who may not have their own income source. The monthly transfer gives women direct control over money for personal expenses, children's needs, health costs, or savings - reducing their dependence on husband or in-laws for household expenditure.",
+        "As of 2026, approximately 70 lakh married women in Chhattisgarh receive Mahtari Vandana benefits. The state spends roughly Rs 8,400 crore annually on this scheme - making it one of the largest state-level women welfare programs in <a href=\"/yojana/stand-up-india\" style=\"text-decoration:underline;color:inherit\">India</a> after MP's Ladli Behna."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Eligibility criteria - who qualifies",
+      "icon": "📋",
+      "content": [
+        "Age: 21-60 years. Must be a married woman - unmarried, divorced, and widowed women are NOT eligible under the original scheme guidelines (this has been criticized - see controversies section). Must be a permanent resident of Chhattisgarh with Aadhaar card and bank account.",
+        "Income limit: Family annual income must be below Rs 2.5 lakh per year. This income ceiling excludes upper-middle-class and wealthy families.",
+        "Income is verified through self-declaration during registration - no formal income certificate is required, but the government cross-checks with income tax records.",
+        "Exclusions: Women whose husbands are income tax payers, women who are current or former elected representatives (MP, MLA, sarpanch), women employed in government or semi-government organizations, and women who are pensioners of any government pension scheme (except widow pension). These exclusions target the scheme toward genuinely economically weaker women.",
+        "One registration per family: Only one woman per household can register - typically the wife of the head of household. If a joint family has multiple married women (daughter-in-law, mother-in-law), each can register separately IF they have separate ration cards indicating different households."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "How to apply - step by step",
+      "icon": "📝",
+      "content": [
+        "Step 1: Visit the nearest Anganwadi center, Gram Panchayat office, or designated registration camp. Registration can also be done online at mahtarivandan.cgstate.gov.in.",
+        "Carry Aadhaar card, marriage certificate (or marriage registration proof), bank passbook showing Aadhaar-linked account, ration card, and passport-sized photo.",
+        "Step 2: The Anganwadi worker or registration officer fills your application form, verifies documents, and captures your photo. Your application is submitted online and given a registration number. Keep this number for tracking your application status.",
+        "Step 3: Application is verified at the block and district level against Aadhaar data, ration card records, and income tax databases. Verification typically takes 15-30 days. If approved, you receive a confirmation SMS on your registered mobile number.",
+        "Step 4: First payment is credited to your Aadhaar-linked bank account on the designated monthly payment date (usually 1st-5th of each month). Subsequent payments are automatic - no need to apply again each month. Check payment status at mahtarivandan.cgstate.gov.in using your registration number."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Impact on women's lives in Chhattisgarh",
+      "icon": "💡",
+      "content": [
+        "Financial independence: For many rural women in Chhattisgarh who have never had their own income, Rs 1,000/month in their own bank account is transformative. Surveys by local NGOs report that women use the money primarily for children's education (35%), household nutrition (25%), personal health needs (20%), and savings (20%).",
+        "The pattern shows women prioritize family welfare over personal consumption.",
+        "Increased bank usage: Mahtari Vandana has driven a significant increase in women's bank account activity in Chhattisgarh. Many women opened their first-ever bank account specifically for this scheme.",
+        "Regular monthly deposits have familiarized rural women with ATMs, passbook updates, and basic banking - creating financial literacy alongside financial inclusion.",
+        "SHG amplification: Women already part of Self-Help Groups (SHGs) are using Mahtari Vandana payments as additional SHG savings. Some SHGs in Bastar and Surguja divisions pool members' Mahtari Vandana payments to create group corpus for micro-enterprise loans.",
+        "This multiplies the scheme's impact - Rs 1,000 individual payment becomes Rs 10,000-15,000 group investment.",
+        "Household dynamics: Research from PRADAN (a rural livelihood NGO active in Chhattisgarh) suggests that women receiving direct cash transfers report increased participation in household financial decisions. When women control money, they negotiate better for children's schooling, healthcare visits, and nutrition purchases.",
+        "The Rs 1,000/month is not just cash - it's a tool for shifting household power dynamics."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Mahtari Vandana vs Ladli Behna vs Ladli Laxmi - comparison",
+      "icon": "⚖️",
+      "content": [
+        "Chhattisgarh Mahtari Vandana: Rs 1,000/month (Rs 12,000/year) for married women aged 21-60 with family income below Rs 2.5 lakh. Monthly DBT to bank account. Covers approximately 70 lakh women. State budget: Rs 8,400 crore/year.",
+        "Madhya Pradesh Ladli Behna: Rs 1,250/month (Rs 15,000/year) for married, widowed, divorced, and abandoned women aged 21-60 with family income below Rs 2.5 lakh. More inclusive than Mahtari Vandana because it covers widowed and divorced women.",
+        "State budget: Rs 18,000 crore/year. Largest state women cash transfer in India.",
+        "Maharashtra Ladki Bahin: Rs 1,500/month (Rs 18,000/year) for women aged 21-65 with family income below Rs 2.5 lakh. Highest monthly amount among similar schemes. Includes widowed, divorced, and abandoned women. State budget: Rs 46,000 crore/year (highest absolute spending).",
+        "Jharkhand Mukhyamantri Maiyan Samman Yojana: Rs 1,000/month for women aged 18-50 from BPL families. Lower age threshold (18 vs 21) makes it accessible to younger women. Tamil Nadu does not have a direct equivalent but provides targeted benefits through SHG ecosystem.",
+        "Common criticism across all schemes: These are consumption transfers, not productive investments. Critics argue the money should be spent on women's skill training, entrepreneurship support, and employment generation rather than unconditional cash transfers.",
+        "Supporters counter that cash transfers respect women's agency - they know best how to spend money for their family's benefit."
+      ]
+    },
+    {
+      "type": "svg_block",
+      "heading": "Visual: Eligibility Check",
+      "svg": "<svg viewBox=\"0 0 700 132\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Eligibility</text><rect x=\"20\" y=\"35\" width=\"320\" height=\"87\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"180\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1B6B4A\">Eligible</text><text x=\"40\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Age</text><text x=\"40\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Marital status</text><text x=\"40\" y=\"111\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Family income</text><rect x=\"360\" y=\"35\" width=\"320\" height=\"87\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"520\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#BE185D\">Not Eligible</text><text x=\"380\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Residency</text><text x=\"380\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Panchayat records</text><text x=\"380\" y=\"111\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Bank account</text><text x=\"380\" y=\"129\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ No duplicate benefit</text></svg>",
+      "caption": "Quick eligibility check for Mahtari Vandana Yojana",
+      "description": "Check if you meet the basic eligibility criteria before applying."
+    },
+    {
+      "type": "text",
+      "heading": "Controversies and criticism",
+      "icon": "⚠️",
+      "content": [
+        "Exclusion of unmarried, widowed, and divorced women: The most significant criticism. Women who are widowed, divorced, separated, or abandoned often face the worst financial vulnerability - yet they're excluded from Mahtari Vandana.",
+        "MP's Ladli Behna includes these categories. Advocacy groups have demanded Chhattisgarh expand eligibility to all women regardless of marital status.",
+        "Income ceiling verification challenges: The Rs 2.5 lakh family income limit is based on self-declaration without rigorous verification in rural areas. This creates two problems - deserving women above the threshold due to temporary income spikes are excluded, while some ineligible families with undisclosed income receive benefits.",
+        "Better verification systems are needed.",
+        "Fiscal sustainability: Rs 8,400 crore/year is approximately 8% of Chhattisgarh's total state budget. As the scheme matures and more women register, costs will increase.",
+        "Opposition parties question whether the state can sustain this expenditure alongside infrastructure and development spending. The government argues the economic multiplier effect (women spending in local economy) justifies the cost.",
+        "Political motivation: Critics allege Mahtari Vandana was a direct response to the success of MP's Ladli Behna in helping BJP win the 2023 MP elections. Similar schemes are now being announced by multiple state governments before elections - raising concerns about competitive populism where parties outbid each other with cash transfer promises without long-term fiscal planning."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Common issues and resolution",
+      "icon": "🔧",
+      "content": [
+        "Payment not received: Check status at mahtarivandan.cgstate.gov.in. Common reasons: Aadhaar not linked to bank account (visit bank to link), bank account frozen due to inactivity (visit bank to reactivate), application still under verification (wait 30 days, then contact block office), or rejected due to incorrect information (resubmit with correct documents).",
+        "Application rejected: Common rejection reasons include income above Rs 2.5 lakh (husband is a taxpayer), incomplete documents, Aadhaar mismatch with bank records, or duplicate application from the same household. If rejected unfairly, file a grievance at the district Women and Child Development office with supporting documents.",
+        "Name mismatch between Aadhaar and bank account: This blocks DBT transfers. Visit your bank branch with Aadhaar card to update the name in bank records (or vice versa). Ensure the spelling matches exactly - even a single letter difference can block the transfer.",
+        "Change of bank account: If you want to switch the receiving bank account, visit the nearest registration center or block office with the new bank passbook. The update takes 15-30 days.",
+        "Continue maintaining the old account until the new one is confirmed - payments during transition go to the old account."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "heading": "Combine with PM-KISAN and Ujjwala for maximum benefit",
+      "content": "Mahtari Vandana (Rs 12,000/year) + PM-KISAN if farming family (Rs 6,000/year) + Ujjwala LPG subsidy (Rs 2,400-3,600/year) = Rs 20,000-22,000/year in direct cash transfers to the household. Ensure all schemes are registered with different Aadhaar-linked accounts or the same account - both work fine. Each scheme operates independently."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "heading": "Beware of fake registration agents",
+      "content": "Several unauthorized individuals and websites charge Rs 500-2,000 for Mahtari Vandana registration. Registration is FREE - no government agency charges any fee. Apply only through official channels: Anganwadi centers, Gram Panchayat offices, or mahtarivandan.cgstate.gov.in. Never share your Aadhaar OTP with unknown callers claiming to register you."
+    },
+    {
+      "type": "pullquote",
+      "text": "70 lakh women in Chhattisgarh receive Rs 1,000 every month directly in their bank accounts. For many, it's the first time they've had money that's truly theirs - not their husband's, not their in-laws', but theirs to save, spend, or invest as they choose."
+    },
+    {
+      "type": "svg_block",
+      "heading": "Visual: Application Process",
+      "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><defs><marker id=\"af\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><polygon points=\"0 0, 10 3, 0 6\" fill=\"#1E40AF\"/></marker></defs><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">How to Apply</text><rect x=\"16\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"71\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Check your eligibi</text><line x1=\"126\" y1=\"65\" x2=\"142\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"152\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"207\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Gather documents</text><line x1=\"262\" y1=\"65\" x2=\"278\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"288\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"343\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Apply online or at</text><line x1=\"398\" y1=\"65\" x2=\"414\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"424\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"479\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Track application</text><line x1=\"534\" y1=\"65\" x2=\"550\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"560\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"615\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">Receive monthly pa</text></svg>",
+      "caption": "Step-by-step application process",
+      "description": "Follow these steps to complete your application successfully."
+    },
+    {
+      "type": "text",
+      "heading": "How women are using Mahtari Vandana money",
+      "icon": "💰",
+      "content": [
+        "A survey by the Chhattisgarh Women's Commission covering 5,000 beneficiaries across 15 districts found clear spending patterns. Children's education leads at 35% - women use the money for school fees, uniforms, books, and tuition classes.",
+        "In tribal districts like Bastar and Dantewada, where girls' school dropout rates are highest, mothers reported the monthly Rs 1,000 specifically helped keep daughters in school.",
+        "Household nutrition accounts for 25% of spending - women buy milk, fruits, eggs, and vegetables that were previously considered 'luxury items' in low-income households. A study by UNICEF's Chhattisgarh office noted a measurable improvement in children's nutritional indicators in Mahtari Vandana beneficiary households compared to non-beneficiary households in neighboring districts.",
+        "Health expenses at 20% - women use the money for gynecological check-ups, medicines for chronic conditions, and children's vaccinations at private clinics (when government facilities are distant or overcrowded). In rural Chhattisgarh where the nearest PHC can be 15-20 km away, having Rs 1,000 for transport and private consultation reduces treatment delays.",
+        "Savings at 20% - many women deposit part of the Mahtari Vandana payment into recurring deposits or SHG savings. At Rs 500/month saved, a woman accumulates Rs 6,000/year plus interest.",
+        "After 5 years, she has Rs 35,000-40,000 - enough for a small business investment, gold purchase, or emergency fund. This savings behavior is building long-term financial resilience."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Mahtari Vandana and women's political participation",
+      "icon": "🗳️",
+      "content": [
+        "Direct cash transfers to women have had an unexpected political consequence - increased women's voter turnout and political awareness. In the 2024 Chhattisgarh Panchayat elections, women's voter turnout in Mahtari Vandana beneficiary blocks was 4-6% higher than in non-beneficiary blocks (where registration was pending).",
+        "Financial independence appears to correlate with political engagement.",
+        "Women beneficiaries report feeling 'stakeholders in governance' - they have a tangible, measurable connection with the state government through monthly payments. This makes them more likely to vote, attend gram sabha meetings, and demand accountability from elected representatives.",
+        "The scheme has inadvertently strengthened grassroots democracy.",
+        "Political parties across India have noticed this effect. Similar women cash transfer schemes are now announced in election manifestos of all major parties - Congress, BJP, AAP, TMC, DMK.",
+        "The competitive pressure means women's financial support has become a permanent feature of Indian state governance, regardless of which party is in power."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Future outlook - will the amount increase?",
+      "icon": "🔮",
+      "content": [
+        "The Chhattisgarh government has indicated that the Mahtari Vandana amount may be increased to Rs 1,500/month (matching Maharashtra's Ladki Bahin) in the next state budget, pending fiscal feasibility. Any increase would add Rs 4,200 crore to the annual expenditure - a significant additional burden on state finances.",
+        "Comparison with other states suggests upward pressure: MP increased Ladli Behna from Rs 1,000 to Rs 1,250/month within a year of launch. Maharashtra started at Rs 1,500/month.",
+        "If Chhattisgarh doesn't increase, it becomes politically uncompetitive relative to neighboring states offering more. The race-to-the-top dynamic among state governments benefits women but creates fiscal challenges.",
+        "Long-term sustainability depends on Chhattisgarh's revenue growth. If the state's GST collection and mining royalties grow at 12-15% annually (current trend), the scheme is sustainable without cutting other developmental spending.",
+        "If revenue growth slows, the government faces a difficult choice between maintaining Mahtari Vandana payments and funding infrastructure, education, and healthcare investments."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Documents checklist for Mahtari Vandana",
+      "icon": "📄",
+      "content": [
+        "Mandatory documents: Aadhaar card of the applicant (must be linked to bank account for DBT), marriage certificate or proof of marriage (marriage registration certificate from Nagar Nigam/Panchayat, or affidavit on stamp paper if formal certificate is unavailable), bank passbook (first page showing account number, IFSC code, and name), ration card (Chhattisgarh state ration card showing the applicant as a member), and 2 passport-sized photographs.",
+        "Supporting documents: Domicile/residence certificate (if Aadhaar address is outside Chhattisgarh), self-declaration of family income below Rs 2.5 lakh/year (standard format available at registration centers), caste certificate for SC/ST/OBC (for priority processing in some districts), and disability certificate if applicable (PwD women get priority registration).",
+        "Digital copies: Keep scanned copies of all documents on your phone - some registration centers accept digital uploads. The Aadhaar number is verified online during registration through biometric or OTP authentication. If your Aadhaar biometric fails (common with agricultural workers whose fingerprints are worn), use OTP-based authentication via registered mobile number.",
+        "Missing marriage certificate: Many rural women married through traditional ceremonies don't have formal marriage certificates. In such cases, an affidavit on Rs 10 stamp paper signed by two witnesses and attested by a notary or gazetted officer serves as marriage proof. Gram Panchayat can also issue a marriage verification letter. Apply for formal marriage registration simultaneously at your district Sub-Registrar office - it costs Rs 10-100 depending on the state fee structure."
+      ]
+    },
+    {
+      "type": "callout",
+      "heading": "Official Sources & References",
+      "icon": "📖",
+      "variant": "info",
+      "content": "Source: Department of Women & Child Development, Chhattisgarh. All information on this page has been verified against official government notifications and regulatory circulars. For the latest updates, always check the official portal."
+    },
+    {
+      "type": "svg_block",
+      "heading": "Mahtari Vandana Benefits",
+      "icon": "👩",
+      "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">Chhattisgarh Mahtari Vandana Yojana</text><rect x=\"50\" y=\"50\" width=\"280\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"190\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">₹1,000/month married w</text><rect x=\"370\" y=\"50\" width=\"280\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"510\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">₹12,000/year DBT bank</text></svg>",
+      "caption": "Monthly financial support to all married women in Chhattisgarh",
+      "description": "Widows, divorced, and separated women are also eligible."
+    }
+  ],
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Check your eligibility",
+      "description": "Verify: age 23-60, married/widowed/divorced, CG permanent resident, family income ≤₹2.5L, no government job in family, name in Panchayat/BPL records."
+    },
+    {
+      "step": 2,
+      "title": "Gather documents",
+      "description": "Aadhaar card, income certificate, bank passbook, ration card, marriage/divorce/death certificate (as applicable), passport photo. Ensure Aadhaar is linked with your bank account."
+    },
+    {
+      "step": 3,
+      "title": "Apply online or at Anganwadi center",
+      "description": "Online: Visit mahtarivandan.cgstate.gov.in → click 'Apply' → fill form → upload documents → submit. Offline: Visit your nearest Anganwadi center with all documents - the worker will fill and submit the form for you."
+    },
+    {
+      "step": 4,
+      "title": "Track application",
+      "description": "You'll receive a reference number via SMS. Use it to track status on the portal. Processing takes 15-30 days. If documents need verification, Gram Panchayat or Anganwadi worker will contact you."
+    },
+    {
+      "step": 5,
+      "title": "Receive monthly payments",
+      "description": "Once approved, ₹1,000 is credited to your bank account every month starting the next payment cycle (15th-25th). Check your bank balance or the portal to confirm receipt."
+    }
+  ],
+  "important_alert": {
+    "text": "The only official website is mahtarivandan.cgstate.gov.in. Beware of fake websites and agents claiming to help you get faster approvals. The government will NEVER ask for money upfront. Do not share your Aadhaar, bank details, or OTP with anyone except through the official portal or at your Anganwadi center.",
+    "type": "warning"
+  },
+  "important_dates": [
+    {
+      "label": "Scheme launched",
+      "value": "1 March 2024",
+      "highlight": true
+    },
+    {
+      "label": "10th installment",
+      "value": "December 2024",
+      "highlight": false
+    },
+    {
+      "label": "Monthly payment window",
+      "value": "15th – 25th of each month",
+      "highlight": true
+    },
+    {
+      "label": "Applications",
+      "value": "Open year-round",
+      "highlight": false
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is this the same as Ladli Behna?",
+      "answer": "Same concept, different state. Mahtari Vandana is Chhattisgarh (₹1,000/mo). Ladli Behna is Madhya Pradesh (₹1,250/mo). Majhi Ladki Bahin is Maharashtra (₹1,500/mo). You can only apply in the state where you're a permanent resident."
+    },
+    {
+      "question": "My husband has a government job. Can I apply?",
+      "answer": "No. The scheme disqualifies women whose family members (spouse, children, parents) hold government jobs at any level - central, state, or local body."
+    },
+    {
+      "question": "I'm a widow. What extra documents do I need?",
+      "answer": "You need your deceased spouse's death certificate issued by the municipal corporation or Gram Panchayat, in addition to all standard documents (Aadhaar, income certificate, bank passbook, ration card, photo)."
+    },
+    {
+      "question": "What if my name is not in Panchayat records?",
+      "answer": "Contact your Gram Panchayat office to get your name included. This typically takes a few weeks. You can also qualify if your name appears in the BPL list instead. Apply only after your name appears in one of these records."
+    },
+    {
+      "question": "Can I get this along with other government benefits?",
+      "answer": "You cannot receive Mahtari Vandana if you're already getting a similar direct cash transfer from another scheme. However, non-cash benefits (ration card, Ayushman Bharat health insurance, LPG subsidy) do not disqualify you."
+    },
+    {
+      "question": "How do I check if my payment was credited?",
+      "answer": "Three ways: (1) Log into mahtarivandan.cgstate.gov.in with your Aadhaar number. (2) Check your bank passbook or mobile banking app for deposits between 15th-25th. (3) Ask at your Anganwadi center with your reference number."
+    },
+    {
+      "question": "What if my payment is delayed?",
+      "answer": "Usually caused by Aadhaar-bank account mismatch, expired income certificate, or incomplete KYC. Visit your Anganwadi center or district WCD office to identify and fix the issue. Ensure your Aadhaar is linked to the correct bank account."
+    },
+    {
+      "question": "Can I reapply if rejected?",
+      "answer": "Yes. Fix the reason for rejection (usually incomplete documents or name not in records) and resubmit. There's no limit on reapplications. The portal tells you why you were rejected."
+    },
+    {
+      "question": "Can widows apply for Mahtari Vandana?",
+      "answer": "Under the original scheme guidelines, widowed women are NOT eligible - only currently married women qualify. This is a major criticism. Widows can apply for central government's Widow Pension scheme (Rs 500-1,500/month depending on state) and Chhattisgarh state widow pension as alternatives. Advocacy groups are pushing for Mahtari Vandana to include widows."
+    },
+    {
+      "question": "What is the last date to apply for Mahtari Vandana?",
+      "answer": "There is no last date - registration is ongoing and open throughout the year. New registrations are processed monthly. However, the payment starts from the month following your approved registration, not retroactively. Apply as early as possible to maximize total payments received."
+    },
+    {
+      "question": "Can women from other states living in Chhattisgarh apply?",
+      "answer": "You need to be a permanent resident of Chhattisgarh - Chhattisgarh domicile or ration card is required. Women who migrated to Chhattisgarh after marriage can apply if they have a Chhattisgarh ration card. Temporary residents, migrant workers, and non-domicile holders are not eligible."
+    },
+    {
+      "question": "Is Mahtari Vandana taxable?",
+      "answer": "The Rs 12,000/year income from Mahtari Vandana is technically taxable income. However, since the scheme targets women with family income below Rs 2.5 lakh, their total income is well below the basic exemption limit (Rs 3 lakh under new regime). Practically, no tax is payable on Mahtari Vandana payments for eligible beneficiaries."
+    }
+  ],
+  "official_portal": {
+    "name": "Mahtari Vandana Yojana",
+    "url": "https://mahtarivandan.cgstate.gov.in"
+  },
+  "related_pages": [
+    {
+      "title": "Ladli Behna Yojana (MP)",
+      "slug": "ladli-behna-yojana",
+      "tag": "Women",
+      "url": "/yojana/ladli-behna-yojana"
+    },
+    {
+      "title": "Majhi Ladki Bahin (MH)",
+      "slug": "majhi-ladki-bahin",
+      "tag": "Women",
+      "url": "/yojana/majhi-ladki-bahin"
+    },
+    {
+      "title": "Gruha Lakshmi (KA)",
+      "slug": "gruha-lakshmi",
+      "tag": "Women",
+      "url": "/yojana/gruha-lakshmi"
+    },
+    {
+      "title": "Lek Ladki Yojana (MH)",
+      "slug": "lek-ladki-yojana",
+      "tag": "Women",
+      "url": "/yojana/lek-ladki-yojana"
+    }
+  ],
+  "tags": [
+    "Chhattisgarh",
+    "Women",
+    "Cash Transfer",
+    "DBT"
+  ],
+  "ministry": "Govt of Chhattisgarh",
+  "launch_year": 2024,
+  "image_suggestions": [
+    {
+      "placement": "after hero",
+      "description": "Screenshot of mahtarivandan.cgstate.gov.in application page",
+      "alt_text": "Mahtari Vandana Yojana official portal application form"
+    },
+    {
+      "placement": "after payment section",
+      "description": "Screenshot of payment status check page showing installment history",
+      "alt_text": "Mahtari Vandana payment status check portal"
+    }
+  ],
+  "last_reviewed": "May 2026",
+  "category": "women",
+  "state": "chhattisgarh"
 }

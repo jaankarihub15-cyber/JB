@@ -92,25 +92,19 @@
   ],
   "eligibility_filters": {
     "gender": [
-      "Female"
+      "female"
     ],
     "age_min": 18,
-    "age_max": 60,
+    "age_max": 100,
     "occupation": [
-      "Laborer",
-      "Farmer",
-      "Domestic worker",
-      "Self-employed",
-      "Homemaker"
+      "any"
     ],
-    "income_max": 250000,
+    "income_max": 9999999,
     "category": [
-      "Antyodaya",
-      "BPL",
-      "APL"
+      "all"
     ],
     "states": [
-      "Karnataka"
+      "karnataka"
     ]
   },
   "extra_sections": [

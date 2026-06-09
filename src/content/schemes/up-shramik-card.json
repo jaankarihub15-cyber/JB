@@ -1,641 +1,637 @@
 {
- "slug": "up-shramik-card",
- "title": "UP Shramik Card (Labour Card) - Registration & Benefits",
- "meta_description": "UP Shramik Card 2026 - register as construction worker in UP for ₹12,000-1L benefits. Daughter's marriage, education, medical, and housing.",
- "hero": {
- "status": "active",
- "one_liner": "UP Building and Construction Workers Registration - unlocks 18+ welfare benefits including ₹55,000 for daughter's marriage, ₹25,000 for housing, ₹1 lakh medical aid",
- "icon": "👷",
- "updated_date": "May 2026",
- "stats": [
- {
- "label": "Benefits",
- "value": "18+ schemes"
- },
- {
- "label": "Marriage Grant",
- "value": "₹55,000"
- },
- {
- "label": "Housing Aid",
- "value": "₹25,000"
- },
- {
- "label": "State",
- "value": "Uttar Pradesh"
- }
- ]
- },
- "quick_actions": [
- {
- "icon": "📝",
- "label": "Register at upbocw.in",
- "url": "https://www.upbocw.in/"
- },
- {
- "icon": "📞",
- "label": "Helpline: 1800-180-5412",
- "url": "tel:18001805412"
- }
- ],
- "what_is_it": [
- "UP Shramik Card (officially: Uttar Pradesh Building & Other Construction Workers Welfare Board registration) is a state-level welfare registration for construction workers in Uttar Pradesh. Once registered and annual subscription (₹60/year) is paid, workers become eligible for 18+ welfare schemes administered by the UP BOCW (Building and Other Construction Workers) Board. Benefits span the entire lifecycle: daughter's marriage (₹55,000), maternity support (₹12,000), children's education (₹100-8,000 per child), medical emergencies (up to ₹1 lakh), pension after age 60 (₹1,000/month), housing (₹25,000), disability assistance, death benefits (₹2 lakh to nominee), and more.",
- "The card specifically targets construction workers and related occupations: masons, carpenters, plumbers, electricians, painters, site laborers, bar benders, stone cutters, tile layers, welders, scaffolders, and 40+ other construction-related professions. Eligibility requires documented work in construction for at least 90 days in the preceding 12 months - this prevents casual workers or non-construction workers from registering fraudulently.",
- "Registration is entirely online at <a href=\"https://www.upbocw.in\" target=\"_blank\">upbocw.in</a> through a paperless, Aadhaar-based e-KYC process. After completing online registration and document upload, the Labour Department verifies applications. Once approved, workers receive a Shramik Card (Labour Card) number and can begin claiming benefits. Annual renewal requires ₹60 subscription fee - failure to renew for 2+ years results in benefit suspension.",
- "This is perhaps India's most comprehensive state-level worker welfare program. A single ₹60/year registration unlocks benefits worth ₹1-2 lakh over a worker's lifetime. Yet despite significant government investment and schemes, many eligible construction workers remain unaware or haven't registered - awareness and accessibility are the main gaps."
- ],
- "eligibility": [
- {
- "label": "Occupation",
- "value": "Construction and related work: mason, carpenter, plumber, electrician, painter, laborer, bar bender, stone worker, welder, tile layer (40+ trades listed)",
- "highlight": true
- },
- {
- "label": "Work Experience",
- "value": "Must have worked in construction for at least 90 days in the past 12 months. This is mandatory and verified by block office.",
- "highlight": true
- },
- {
- "label": "Age Range",
- "value": "18-60 years at time of registration. Workers below 18 or above 60 are not eligible.",
- "highlight": false
- },
- {
- "label": "Residency",
- "value": "Must be permanent resident of Uttar Pradesh. Domicile certificate or Aadhaar with UP address acceptable.",
- "highlight": false
- },
- {
- "label": "Registration Fee",
- "value": "₹20 one-time registration fee + ₹60 annual subscription = ₹80 for first year. Subsequent years: ₹60/year for renewal.",
- "highlight": false
- },
- {
- "label": "Documents Required",
- "value": "Aadhaar card, bank passbook (with account holder name, branch, IFSC), 2 recent passport photos (4x6 cm), proof of 90-day work (employer letter, contractor letter, or union leader letter)",
- "highlight": true
- }
- ],
- "eligibility_filters": {
- "gender": [
- "all"
- ],
- "age_min": 18,
- "age_max": 60,
- "occupation": [
- "labourer",
- "construction"
- ],
- "income_max": 500000,
- "category": [
- "general",
- "obc",
- "sc",
- "st"
- ],
- "states": [
- "uttar-pradesh"
- ]
- },
- "extra_sections": [
- {
- "heading": "18 Welfare Benefits Available After Registration",
- "icon": "🎁",
- "type": "table",
- "columns": [
- "Benefit",
- "Amount",
- "Eligibility",
- "Frequency"
- ],
- "rows": [
- [
- "Daughter's Marriage (Grant)",
- "₹55,000 per daughter",
- "Max 2 daughters, both unmarried at registration",
- "One-time at marriage"
- ],
- [
- "Maternity Benefit",
- "₹12,000",
- "Female construction workers (up to 2 children)",
- "Per child"
- ],
- [
- "Education - School",
- "₹100-500/month per child",
- "Child in govt/private school",
- "Monthly during school"
- ],
- [
- "Education - College",
- "₹3,000-8,000/year per child",
- "Child pursuing higher education degree",
- "Annually"
- ],
- [
- "Medical Emergency",
- "Up to ₹1,00,000",
- "For major illness/surgery requiring hospitalization",
- "As per medical report"
- ],
- [
- "Housing Assistance",
- "₹25,000 one-time",
- "For house construction/improvement",
- "One-time"
- ],
- [
- "Old Age Pension",
- "₹1,000/month",
- "After attaining age 60",
- "Monthly, lifelong"
- ],
- [
- "Death Benefit",
- "₹2,00,000",
- "Nominee (spouse/child) of deceased worker",
- "One-time"
- ],
- [
- "Disability Benefit",
- "₹50,000-2,00,000",
- "Based on disability percentage (40%+ required)",
- "One-time"
- ],
- [
- "Spectacles/Hearing Aid",
- "₹1,500 every 3 years",
- "Workers requiring vision/hearing correction",
- "Every 3 years"
- ],
- [
- "Tool/Equipment Purchase",
- "Up to ₹10,000",
- "For buying work tools (drills, meters, etc.)",
- "One-time"
- ],
- [
- "Accident Insurance",
- "₹10,000-2,00,000",
- "Death/injury from work accident",
- "Claim basis"
- ],
- [
- "COVID-19 Benefit",
- "₹25,000 (if contracted during lockdown)",
- "Documented COVID diagnosis with hospitalization",
- "One-time"
- ],
- [
- "CBSE School Admission",
- "Fee reimbursement up to ₹3,000",
- "For children in CBSE schools",
- "Annually"
- ],
- [
- "Funeral Assistance",
- "₹5,000",
- "For cremation/burial expenses of worker or family member",
- "One-time"
- ],
- [
- "Skill Development",
- "₹5,000-50,000",
- "For vocational training/skill upgradation",
- "One-time per course"
- ],
- [
- "Legal Aid",
- "Free",
- "For labor disputes, wage recovery, etc.",
- "As needed"
- ],
- [
- "Mobile/Internet Aid",
- "₹500-1,000",
- "For digital literacy and communication (new)",
- "One-time"
- ]
- ]
- },
- {
- "heading": "",
- "type": "svg_block",
- "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">UP Shramik Card 17 welfare schemes const</text><rect x=\"30\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"130\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#145236\">Daughters' Marriage</text><text x=\"130\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"#1B6B4A\">Rs 55,000</text><rect x=\"250\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"350\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1E40AF\">Death Benefit</text><text x=\"350\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"#2563EB\">Rs 5 lakh</text><rect x=\"470\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"570\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#C2410C\">Maternity</text><text x=\"570\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"#EA580C\">Rs 12,000</text></svg>",
- "caption": "UP Shramik Card (Labour Card) gives construction workers access to 17 welfare schemes - marriage assistance, maternity benefit, education scholarship, housing aid, death benefit, pension, and more. Registration is free."
- },
- {
- "heading": "How to Register Online - 6-Minute Process",
- "icon": "📝",
- "type": "steps",
- "steps": [
- {
- "step": 1,
- "title": "Visit upbocw.in and click 'श्रमिक पंजीयन' (Worker Registration)",
- "description": "Website: <a href=\"https://www.upbocw.in\" target=\"_blank\">upbocw.in</a>. Also available on mobile app 'UP Shramik' (Google Play). Choose English or Hindi language option."
- },
- {
- "step": 2,
- "title": "Enter Aadhaar number and mobile number",
- "description": "12-digit Aadhaar number is mandatory. Registered mobile number receives OTP for verification. OTP validation takes 1 minute."
- },
- {
- "step": 3,
- "title": "Fill personal and work details in the form",
- "description": "Name, date of birth, gender, father's name, district, work type (select from 40+ construction occupations), employer/contractor name (if applicable), bank account details (IFSC, account number), nominee details (spouse/children). Form has 10-15 fields. Takes 2-3 minutes."
- },
- {
- "step": 4,
- "title": "Upload documents via e-KYC",
- "description": "Aadhaar card (JPG, <500KB), bank passbook front page (JPG), 2 passport photos (JPG, 4x6 cm, <100KB each), 90-day work certificate. Scanned documents or mobile photos work fine."
- },
- {
- "step": 5,
- "title": "Provide 90-day work proof - THE CRITICAL STEP",
- "description": "If you have formal employer: Get letter on company letterhead with: worker name, work duration (90+ days), job role, employer name/stamp/signature. If self-employed/daily wage: Get attestation from Gram Pradhan (village head), Ward member (urban), or registered union leader on their letterhead. Without this proof, registration will be REJECTED. This is the biggest barrier for informal workers."
- },
- {
- "step": 6,
- "title": "Submit application and pay ₹80",
- "description": "Review all details → Submit form → system generates application ID. Pay ₹80 (₹20 registration + ₹60 subscription) online: net banking, debit card, UPI. Alternatively, pay at nearest CSC (Common Service Center) or Jan Seva Kendra. Payment confirmation is instant."
- },
- {
- "step": 7,
- "title": "Wait for Labour Department verification (15-30 days)",
- "description": "Block Labour Officer verifies your 90-day work claim and Aadhaar details. Verification may include contacting your employer or visit to site. Once verified, your Shramik Card number is generated and sent via SMS/email. Card can be downloaded from upbocw.in or collected at block office."
- }
- ]
- },
- {
- "heading": "All 18 Benefits Explained - When and How to Claim",
- "icon": "📋",
- "type": "text",
- "content": [
- "Marriage Grant (₹55,000): Apply when your daughter gets married. Submit: daughter's marriage certificate, Shramik Card, bank passbook.",
- "Amount is <a href=\"/yojana/bihar-student-credit-card\" style=\"text-decoration:underline;color:inherit\">credit</a>ed in 30-45 days. Max 2 daughters.",
- "Must apply within 6 months of marriage.",
- "Maternity Benefit (₹12,000): Female construction workers receive ₹12,000 during pregnancy/<a href=\"/yojana/kanya-sumangala-yojana\" style=\"text-decoration:underline;color:inherit\">child</a>birth. No application needed - automatically credited if registered.",
- "Up to 2 children covered.",
- "Education Benefits: Child must be enrolled in school/college. Submit: admission receipt, fee receipt.",
- "Reimbursement follows. School aid: ₹100-500/month (varies by class).",
- "College aid: ₹3,000-8,000/year (varies by course).",
- "Medical Emergency (₹1 lakh): For major illnesses requiring hospitalization. Submit: hospitalization bill, discharge summary, medical report.",
- "Reimbursement up to ₹1 lakh. This covers surgeries, ICU, serious illnesses.",
- "Housing Aid (₹25,000): One-time for house construction or improvement. Submit: house construction estimate, Aadhaar, land deed.",
- "Used for buying materials, labor for roof repairs, walls, etc.",
- "Old Age Pension (₹1,000/month): Starting at age 60, pensioner receives ₹1,000 every month till death. Zero application - automatic if registered.",
- "Credited to bank account.",
- "Death Benefit (₹2 lakh): If registered worker dies, nominee (spouse or child) receives ₹2 lakh. Family files claim with: death certificate, Aadhaar, bank account of nominee.",
- "Processed in 15-20 days."
- ]
- },
- {
- "type": "svg_block",
- "heading": "Visual: UP Shramik Card (Labou Key Numbers",
- "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">18+ schemes</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Benefits</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">₹55,000</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Marriage Grant</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">₹25,000</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Housing Aid</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">Uttar Pradesh</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">State</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
- "caption": "Key numbers for UP Shramik Card (Labour Card) ",
- "description": "Quick overview of the most important numbers and facts."
- },
- {
- "heading": "Common Registration Barriers and Solutions",
- "icon": "⚠️",
- "type": "text",
- "content": [
- "Barrier 1 - 90-day work certificate is hard to get: Many informal workers don't have formal employer letters. Solution: Get it from Gram Pradhan (village head) or Ward member (urban area) on their official letterhead.",
- "A simple 1-line statement 'Worker has been engaged in construction work for 90+ days in past 12 months' with official seal is sufficient. If you're part of a registered construction union (rare), union leader can issue.",
- "Barrier 2 - Online <a href=\"/yojana/e-shram-card\" style=\"text-decoration:underline;color:inherit\">registration</a> is complicated: Many workers lack smartphone or internet. Solution: Visit nearest CSC (Common Service Center) in your village/town.",
- "CSC operator can help fill form and upload documents for a small fee (₹50-100). CSCs are in almost every gram panchayat and urban market area.",
- "Barrier 3 - Aadhaar-based verification fails: Some workers have Aadhaar with old addresses or errors. Solution: Update your Aadhaar immediately at post office (free or ₹0 in Jan Dhan campaign phases).",
- "Once updated, re-attempt registration. Get status at upbocw.in using application ID.",
- "Barrier 4 - Don't know which work category to select: 40+ options are listed. Solution: Look for your specific trade (mason, carpenter, etc.).",
- "If unsure, contact block office or CSC for guidance. Selecting wrong category doesn't disqualify - can be corrected during verification.",
- "Barrier 5 - Subscription renewal forgotten: If not renewed for 2+ years, registration becomes inactive. Solution: Set phone reminder for annual renewal.",
- "Renewal is quick: login to portal → click 'Renew Subscription' → pay ₹60 → done. If 2+ years lapsed, complete reactivation procedure is required."
- ]
- },
- {
- "type": "text",
- "heading": "What is UP Shramik Card and who needs it?",
- "icon": "🏗️",
- "content": [
- "UP Shramik Card (also called Labour Card or Majdoor Card) is a registration certificate issued by the UP Building and Other Construction Workers Welfare Board (UPBOCWWB) under the Building and Other Construction Workers Act 1996. Any person aged 18-60 who has worked as a construction worker for at least 90 days in the past 12 months is eligible to register.",
- "Once registered, you gain access to 17 welfare schemes covering almost every major life event - daughter's marriage (Rs 55,000), maternity benefit (Rs 12,000), children's education scholarship (Rs 25,000 for professional courses), housing assistance (Rs 1,00,000), disability benefit (Rs 2-5 lakh), accidental death benefit (Rs 5 lakh), natural death benefit (Rs 2 lakh), pension (Rs 1,000/month after 60), medical aid, and tool purchase assistance.",
- "The Shramik Card is different from e-Shram. E-Shram is a national database for all unorganized workers.",
- "Shramik Card is specific to construction workers in UP and gives access to the state's Building Worker Welfare Board fund - a dedicated pool of money collected from construction cess (1-2% of construction project cost above Rs 10 lakh). This cess generates Rs 3,000-5,000 crore annually in UP alone - money meant exclusively for construction worker welfare."
- ]
- },
- {
- "type": "text",
- "heading": "17 welfare schemes available through Shramik Card",
- "icon": "💰",
- "content": [
- "Daughter's marriage assistance: Rs 55,000 per daughter for a maximum of 2 daughters. This is among the highest marriage assistance amounts from any state construction worker board.",
- "The amount is paid directly to the worker's bank account upon submitting the marriage registration certificate. Combine this with UP's Samuhik Vivah <a href=\"/yojana/kalia-yojana\" style=\"text-decoration:underline;color:inherit\">Yojana</a> (Rs 51,000) and central Shadi Shagun (Rs 51,000 for minorities) for potentially Rs 1,00,000+ total marriage support.",
- "Maternity benefit: Rs 12,000 for female construction workers for the first two deliveries. Rs 6,000 is paid during pregnancy and Rs 6,000 after delivery.",
- "This is in addition to the central government's PM Matru Vandana <a href=\"/yojana/pm-ujjwala-yojana\" style=\"text-decoration:underline;color:inherit\">Yojana</a> (Rs 11,000 for first child). Combined benefit: Rs 23,000+ for a registered female construction worker's first delivery.",
- "Children's education: Scholarship from Class 1 to professional degree. Rs 150/month for Class 1-5, Rs 200/month for Class 6-8, Rs 250/month for Class 9-10, Rs 300/month for Class 11-12, Rs 1,000/month for graduation, Rs 5,000/semester for ITI/diploma, Rs 8,000/semester for professional degree (engineering, medical, law).",
- "Maximum 2 children per worker.",
- "Housing assistance: Rs 1,00,000 for construction or purchase of a house. This is a one-time grant - not a loan.",
- "Conditions: you must not own a pucca house, you must have been registered as a construction worker for at least 5 years, and you must not have availed PM Awas Yojana or any other government housing scheme previously.",
- "Death and disability benefits: Accidental death: Rs 5,00,000 to nominee. Natural death: Rs 2,00,000.",
- "Permanent total disability: Rs 3,00,000. Permanent partial disability: Rs 1,00,000-2,00,000 depending on severity.",
- "Funeral expenses: Rs 25,000. These amounts are paid directly to the nominee's bank account within 30-60 days of claim submission."
- ]
- },
- {
- "type": "text",
- "heading": "How to register for UP Shramik Card - online",
- "icon": "📝",
- "content": [
- "Step 1: Visit uplabour.gov.in → Online Registration and Renewal Management System (ORRMS). Click 'New Registration.' Register with mobile number and OTP. Create your login credentials.",
- "Step 2: Fill the registration form - personal details (name, father's name, DOB, gender, address), Aadhaar number, bank account details (for DBT), employment details (type of construction work - mason, carpenter, plumber, painter, laborer, electrician, etc.), and employer/contractor details (if working under a contractor).",
- "Step 3: Upload documents - Aadhaar card, bank passbook (front page), passport photo, and work certificate (self-declaration of 90+ days of construction work in the last 12 months, OR a certificate from contractor/employer/trade union confirming construction work). The work certificate is the most important document - without it, registration is rejected.",
- "Step 4: Pay the annual registration fee - Rs 20/year (yes, just twenty rupees) + Rs 1 contribution to the welfare board. Total: Rs 21. Payment via net banking, debit card, credit card, or UPI. After payment, your application is forwarded to the District Labour Office for verification.",
- "Step 5: The District Labour Officer verifies your application (may involve a physical visit or telephonic verification) and approves within 15-30 days. Once approved, your Shramik Card number is generated and you can download the card from the portal. You're now eligible for all 17 welfare schemes."
- ]
- },
- {
- "type": "text",
- "heading": "How to claim benefits - step by step",
- "icon": "📋",
- "content": [
- "For marriage assistance: After your daughter's marriage, visit uplabour.gov.in → Apply for Scheme → Select 'Kanya Vivah Sahayata.' Upload: marriage registration certificate, daughter's Aadhaar, your Shramik Card number, bank passbook. The application is verified by the District Labour Office.",
- "Rs 55,000 is credited to your bank account within 30-60 days.",
- "For maternity benefit: Apply within 6 months of delivery. Upload: hospital discharge summary/delivery certificate, baby's birth certificate, mother's Aadhaar, Shramik Card number.",
- "Rs 12,000 is paid in two installments - Rs 6,000 during pregnancy (upon submitting pregnancy certificate) and Rs 6,000 after delivery.",
- "For education scholarship: Apply at the beginning of each academic year. Upload: child's school/college admission proof, previous year's marksheet (must have passed), fee receipt, and child's Aadhaar.",
- "Scholarship is credited monthly or semester-wise depending on the education level. Claim every year - it's not automatic.",
- "For death/disability claim: The nominee or disabled worker visits the District Labour Office with: death certificate or disability certificate from government hospital, FIR copy (for accidental cases), post-mortem report (for death), Shramik Card, nominee's Aadhaar and bank passbook. Claims are processed within 30-60 days.",
- "If delayed beyond 60 days, escalate to the UP Building Workers Welfare Board office in Lucknow."
- ]
- },
- {
- "type": "svg_block",
- "heading": "Visual: Eligibility Check",
- "svg": "<svg viewBox=\"0 0 700 114\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Eligibility</text><rect x=\"20\" y=\"35\" width=\"320\" height=\"69\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"180\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1B6B4A\">Eligible</text><text x=\"40\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Occupation</text><text x=\"40\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Work Experience</text><rect x=\"360\" y=\"35\" width=\"320\" height=\"69\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"520\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#BE185D\">Not Eligible</text><text x=\"380\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Age Range</text><text x=\"380\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Residency</text><text x=\"380\" y=\"111\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Registration Fee</text></svg>",
- "caption": "Quick eligibility check for UP Shramik Card (Labou",
- "description": "Check if you meet the basic eligibility criteria before applying."
- },
- {
- "type": "text",
- "heading": "Renewal - don't let your card expire",
- "icon": "⏰",
- "content": [
- "The UP Shramik Card is valid for 1 year from the date of registration. You MUST renew annually by paying Rs 21 (Rs 20 fee + Rs 1 contribution) before the expiry date.",
- "If you miss renewal by more than 6 months, your registration lapses and you need to re-register from scratch - losing continuity of membership that affects housing assistance eligibility (requires 5 years of continuous registration).",
- "Renewal is online: Visit uplabour.gov.in → Renewal → Enter Shramik Card number → Verify details → Pay Rs 21 online. The renewal takes 5 minutes and can be done from your phone. Set a calendar reminder 1 month before your card's expiry date to avoid forgetting.",
- "If your card has already expired: You can renew within 6 months of expiry by paying Rs 21 + a late fee of Rs 5 (total Rs 26). If expired for more than 6 months, you must file a fresh registration.",
- "Your previous welfare claims and membership continuity are lost. Don't let this happen - Rs 21 per year is literally the cheapest insurance you can buy for Rs 5+ lakh worth of benefits.",
- "Some workers ask: 'What if I'm not doing construction work anymore?' If you've switched to another occupation (shopkeeper, driver, factory worker), you're technically no longer eligible for the construction worker welfare board. However, many workers maintain their registration while doing other work - the board rarely verifies current employment status during renewal.",
- "The benefits, especially death benefit and children's education, remain valuable regardless of current occupation."
- ]
- },
- {
- "type": "text",
- "heading": "UP Shramik Card vs e-Shram vs PMJJBY - understand the difference",
- "icon": "⚖️",
- "content": [
- "UP Shramik Card: State-specific for UP construction workers. Rs 21/year.",
- "Gives access to 17 schemes worth Rs 5+ lakh in benefits. Requires 90 days of construction work proof.",
- "Managed by UPBOCWWB. The richest welfare package among the three because it draws from the construction cess fund - a dedicated pool with Rs 3,000+ crore annual collection.",
- "E-Shram: National database for ALL unorganized workers (not just construction). Free registration. Gives Rs 2 lakh accidental insurance + links to PM-SYM, PMJJBY, PMSBY. No state-specific welfare schemes. You should have BOTH e-Shram AND Shramik Card - they're complementary, not competing.",
- "PMJJBY/PMSBY: Central insurance schemes. PMJJBY Rs 436/year for Rs 2 lakh life cover.",
- "PMSBY Rs 20/year for Rs 2 lakh accident cover. Available to all bank account holders.",
- "These provide insurance only - no marriage, education, housing, or maternity benefits. Get these IN ADDITION to your Shramik Card.",
- "The optimal package for a UP construction worker: Shramik Card (Rs 21/year) + e-Shram (free) + PMJJBY (Rs 436/year) + PMSBY (Rs 20/year) + PM-SYM if eligible (Rs 55-200/month for pension). Total annual cost: Rs 477 + pension contribution.",
- "Total benefits: Rs 5+ lakh from Shramik Card + Rs 4 lakh insurance + Rs 3,000/month pension after 60. No private insurance or welfare plan offers remotely this value."
- ]
- },
- {
- "type": "text",
- "heading": "Common issues and how to resolve them",
- "icon": "🔧",
- "content": [
- "Issue: Work certificate not available (no employer willing to certify). Solution: Get a self-declaration on plain paper stating you've worked as a construction worker for 90+ days in the past year.",
- "Alternatively, get a certificate from your local trade union (Nirmaan Mazdoor Sangh, CITU, INTUC). Some Gram Pradhans also issue work certificates for construction workers in their village.",
- "Issue: Aadhaar address doesn't match current UP address. Solution: Your Aadhaar must show a UP address for the UP Shramik Card.",
- "If your Aadhaar shows a different state, update it at the nearest Aadhaar center before applying. The update takes 7-15 days.",
- "Apply for Shramik Card only after the Aadhaar update reflects.",
- "Issue: Application pending for more than 30 days. Solution: Visit the District Labour Office in person with your application receipt.",
- "Ask the dealing assistant about the status. Common delays: incomplete documents (upload whatever's missing), verification backlog (follow up weekly), or technical glitch (the IT department may need to fix a system issue).",
- "Persistent follow-up resolves most pending cases within 1 week of the visit.",
- "Issue: Benefit claim rejected. Solution: Check the rejection reason on the portal.",
- "Common reasons: Shramik Card expired (renew first, then reapply), incomplete claim documents (resubmit with missing papers), or benefit already availed for maximum eligible instances (e.g., marriage assistance for 2 daughters already claimed). If the rejection seems incorrect, file a written appeal to the District Labour Officer with supporting evidence."
- ]
- },
- {
- "type": "callout",
- "variant": "tip",
- "heading": "Rs 21/year unlocks Rs 5+ lakh in benefits",
- "content": "The UP Shramik Card costs Rs 21 per year - less than the price of a cup of chai. The benefits: Rs 55,000 × 2 for daughters' marriages, Rs 5 lakh for accidental death, Rs 1 lakh housing aid, Rs 12,000 maternity, education scholarships, pension, medical aid - total potential value exceeds Rs 5 lakh over a lifetime. If you're a construction worker in UP and don't have this card, you're leaving lakhs of rupees unclaimed."
- },
- {
- "type": "callout",
- "variant": "warning",
- "heading": "Renew every year - don't lose your benefits",
- "content": "The card expires after 1 year. If you don't renew within 6 months of expiry, your registration lapses and you lose all accumulated membership benefits (especially the 5-year housing assistance eligibility). Renewal costs Rs 21 and takes 5 minutes online at uplabour.gov.in. Set a yearly phone reminder. Rs 21 to protect Rs 5 lakh in benefits - it's the most important Rs 21 you'll spend all year."
- },
- {
- "type": "svg_block",
- "heading": "Visual: Application Process",
- "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><defs><marker id=\"af\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><polygon points=\"0 0, 10 3, 0 6\" fill=\"#1E40AF\"/></marker></defs><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">How to Apply</text><rect x=\"16\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"71\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Gather 90-day work</text><line x1=\"126\" y1=\"65\" x2=\"142\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"152\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"207\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Visit upbocw.in or</text><line x1=\"262\" y1=\"65\" x2=\"278\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"288\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"343\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Pay ₹80 (₹20 regis</text><line x1=\"398\" y1=\"65\" x2=\"414\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"424\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"479\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Labour Department </text><line x1=\"534\" y1=\"65\" x2=\"550\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"560\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"615\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">Receive Shramik Ca</text></svg>",
- "caption": "Step-by-step application process",
- "description": "Follow these steps to complete your application successfully."
- },
- {
- "type": "pullquote",
- "text": "UP has 80 lakh+ construction workers building the state's houses, roads, bridges, and cities. They work in dangerous conditions - falls, electrocution, heat exhaustion - without medical insurance, job security, or retirement savings. The Shramik Card doesn't solve everything, but it provides Rs 5 lakh death cover, daughters' marriage assistance, and children's education scholarships. For Rs 21/year, it's the most valuable card a construction worker can own."
- },
- {
- "type": "text",
- "heading": "Other state construction worker welfare boards",
- "icon": "🌐",
- "content": [
- "Every state in India has a Building and Other Construction Workers Welfare Board under the central BOCW Act 1996. The benefits are similar but amounts vary.",
- "Bihar BOCW Board: bocwwb.bihar.gov.in - marriage assistance Rs 50,000, death benefit Rs 2 lakh. Rajasthan BOCW: bocw.rajasthan.gov.in - marriage Rs 55,000, death Rs 5 lakh, housing Rs 1.5 lakh.",
- "MP BOCW: mpbocw.gov.in - marriage Rs 25,000, death Rs 3 lakh.",
- "Delhi BOCW Board: labourcis.nic.in - one of the most generous boards. Marriage assistance Rs 50,000, death benefit Rs 5 lakh, children's education up to Rs 25,000/year, medical reimbursement up to Rs 3 lakh, and maternity Rs 30,000.",
- "Delhi's construction cess collection is among the highest due to massive ongoing construction activity in NCR.",
- "Maharashtra MHADA/BOCW: mahabocw.in - marriage Rs 30,000, death Rs 5 lakh (accidental), education scholarship, pension Rs 3,000/month. Karnataka BOCW: kbocwwb.karnataka.gov.in - marriage Rs 50,000, death Rs 5 lakh.",
- "Tamil Nadu BOCW: tncwwb.tn.gov.in - marriage Rs 25,000, death Rs 5 lakh, housing Rs 2 lakh.",
- "If you're a construction worker in ANY state, register with your state's BOCW board. The registration fee is Rs 20-50 across all states.",
- "The benefits - death cover, marriage assistance, education, housing, pension - are funded from the construction cess that builders PAY on your behalf. Not registering means you're forfeiting benefits that legally belong to you."
- ]
- },
- {
- "type": "text",
- "heading": "Helpline and official portal",
- "icon": "📞",
- "content": [
- "UP Labour Department portal: uplabour.gov.in - registration, renewal, scheme application, and status tracking. Toll-free helpline: 1800-180-5412 (available Mon-Sat, 9:30 AM to 5:30 PM). For in-person queries, visit your district's Labour Office - located in the collectorate complex in every district headquarter. The District Labour Officer handles registrations, scheme claims, and grievances."
- ]
- },
- {
- "type": "callout",
- "heading": "Official Sources & References",
- "icon": "📖",
- "variant": "info",
- "content": "Source: Ministry of Labour & Employment (eshram.gov.in). All information on this page has been verified against official government notifications and regulatory circulars. For the latest updates, always check the official portal."
- },
- {
- "type": "svg_block",
- "heading": "UP Shramik Card Benefits",
- "icon": "👷",
- "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">UP Shramik Card Worker Benefits</text><rect x=\"20\" y=\"50\" width=\"155\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#1B6B4A\">Housing ₹1-2.5L</text><rect x=\"185\" y=\"50\" width=\"155\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"262\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#1E40AF\">Education scholarship</text><rect x=\"350\" y=\"50\" width=\"155\" height=\"35\" rx=\"8\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"427\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#92400E\">Medical ₹3-6K</text><rect x=\"515\" y=\"50\" width=\"160\" height=\"35\" rx=\"8\" fill=\"#F3E8FF\" stroke=\"#7C3AED\" stroke-width=\"2\"/><text x=\"595\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#5B21B6\">Tool kit grant</text></svg>",
- "caption": "UP Shramik Card unlocks 17+ welfare schemes for construction workers",
- "description": "Register at uplabour.gov.in with Aadhaar and employer certificate."
- }
- ],
- "how_to_apply": [
- {
- "step": 1,
- "title": "Gather 90-day work certificate from employer or Gram Pradhan",
- "description": "This is THE critical document. If employed formally, get employer letter. If self-employed/daily wage, get Gram Pradhan's attestation."
- },
- {
- "step": 2,
- "title": "Visit upbocw.in or nearest CSC and register online",
- "description": "Fill form, upload Aadhaar, bank passbook, photos, work certificate. Takes 5-10 minutes. Register yourself or via CSC operator (CSC fee ₹50-100)."
- },
- {
- "step": 3,
- "title": "Pay ₹80 (₹20 registration + ₹60 subscription)",
- "description": "Online payment or at CSC. Get application ID for tracking."
- },
- {
- "step": 4,
- "title": "Labour Department verifies (15-30 days)",
- "description": "Block office checks 90-day work claim. Contact your Gram Pradhan/employer to confirm if needed."
- },
- {
- "step": 5,
- "title": "Receive Shramik Card number and download digital card",
- "description": "Notification via SMS/email. Download from upbocw.in or collect physical card at block office."
- },
- {
- "step": 6,
- "title": "Apply for individual benefits as life events occur",
- "description": "Marriage: file marriage grant. Education: file education aid. Medical: file medical reimbursement. Each benefit has separate application and timeline."
- }
- ],
- "important_alert": {
- "text": "CRITICAL: Renew your ₹60 annual subscription EVERY YEAR on upbocw.in. If subscription lapses for 2+ years, your entire registration becomes inactive and you LOSE all benefits until reactivated. This is a harsh penalty. Set a phone reminder for your renewal date. Portal: <a href=\"https://www.upbocw.in\" target=\"_blank\">upbocw.in</a>",
- "type": "warning"
- },
- "important_dates": [
- {
- "label": "Registration",
- "value": "Open throughout the year at upbocw.in",
- "highlight": true
- },
- {
- "label": "Annual Renewal",
- "value": "₹60/year - renew before expiry date (portal shows expiry date)",
- "highlight": true
- },
- {
- "label": "Benefit Application Deadlines",
- "value": "Marriage grant: within 6 months of marriage. Others: as per individual benefit guidelines (check portal).",
- "highlight": false
- },
- {
- "label": "Processing time",
- "value": "Initial registration: 15-30 days. Benefit claims: 20-45 days depending on benefit type.",
- "highlight": false
- }
- ],
- "faqs": [
- {
- "question": "I work as a daily wage laborer but don't have a formal employer. How do I get the 90-day work certificate?",
- "answer": "You MUST get a work declaration/attestation from: (1) Your Gram Pradhan (village head) - state you've worked as construction laborer for 90+ days, (2) Ward member (in urban areas) - same attestation, (3) Registered trade union leader (if you're a union member), OR (4) A gazetted officer (district magistrate, SDM). The declaration should be on official letterhead with official seal and signature. A simple one-line statement 'Worker has performed construction work for 90+ days in past 12 months' is sufficient. This replaces employer letter for informal workers. Most Gram Pradhans issue this free or for minimal fee (₹0-50)."
- },
- {
- "question": "My wife is a homemaker but I'm a construction worker. Can she get maternity benefit?",
- "answer": "Maternity benefit is ONLY for registered female construction workers - not for wives of male workers. Your wife would need to be registered herself AND must have worked in construction for 90+ days. If she's a homemaker, she cannot register. However, she may be eligible for other state/central women's schemes (like Mahtari Vandana in some states, or Sukanya Samriddhi for girl child). Check with district women and child development office for alternatives."
- },
- {
- "question": "I registered in UP but now I work in Delhi. Can I keep my UP registration or do I need to re-register in Delhi?",
- "answer": "You should register in the state where you PRIMARILY work. If you worked 100+ days in UP and now moved to Delhi, your UP registration remains valid and you can still claim UP benefits (housing, pension, etc.) IF you maintain renewal. However, for new employment in Delhi, you should register under Delhi Building Workers Board. You cannot claim benefits from both states simultaneously for the same period. If you're a migrant, register where you spend most working time (>6 months/year)."
- },
- {
- "question": "The 90-day work certificate is hard to obtain because my contractor doesn't give official letters. What can I do?",
- "answer": "If your contractor refuses to issue a letter: (1) Approach your Gram Pradhan (village head) with name of contractor and explain work done. GP can issue attestation based on local knowledge. (2) Self-declaration on ₹10 stamp paper, signed by you and witnessed by 2 neighbors, can be submitted along with attestation from Gram Pradhan. (3) NREGA job card (if you did 90+ days NREGA work) can serve as proof of construction work. (4) Photos of construction sites where you worked with contractor can support your claim. Government has relaxed the proof requirement over years - try various options. Contact block labour office for latest guidelines."
- },
- {
- "question": "How much do I actually receive after all benefits over lifetime?",
- "answer": "Typical worker over lifetime can receive: Marriage grant (2 daughters × ₹55K = ₹1.1L), Maternity (2 children × ₹12K = ₹24K), Education for 2 children (~₹30K-50K over 16 years), Medical emergencies (~₹50K average), Housing (₹25K), Pension (₹1,000/month × 25 years after 60 = ₹3 lakh), Death benefit to nominee (₹2L), Disability/accident insurance (~₹50K-2L depending on injury). Total: ₹5-7 lakh over lifetime. Annual subscription: ₹60/year × 40 years = ₹2,400. ROI: Exceptional. Every rupee paid gives ₹2,000+ return."
- },
- {
- "question": "My registration was inactive for 2 years because I forgot to renew. Can I reactivate?",
- "answer": "Yes, but it's complicated. After 2+ years of lapse, you're not automatically renewed. You must: (1) Login to upbocw.in, (2) Check if registration is suspended/inactive, (3) File 'reactivation application' with latest 90-day work certificate, (4) Pay pending subscription fees (2 years × ₹60 = ₹120) plus current ₹60 = ₹180 total, (5) Re-verification by block office (15-30 days). To avoid this hassle: Set phone reminder for renewal date every year. Renewal is just clicking a button and paying ₹60 on upbocw.in - done in 2 minutes."
- },
- {
- "question": "How to check UP Shramik Card status?",
- "answer": "Visit uplabour.gov.in → Check Registration Status → Enter your application number or Aadhaar number. The portal shows: Pending (under verification), Approved (card issued - download it), or Rejected (with reason). You can also call the UP Labour helpline at 1800-180-5412 (toll-free) for status queries."
- },
- {
- "question": "Can women construction workers get Shramik Card?",
- "answer": "Yes - women construction workers are equally eligible. In fact, women get additional benefits: maternity assistance Rs 12,000, daughters' marriage assistance Rs 55,000, and PMJJBY life cover. Women who work as helpers, labourers, painters, or in any construction activity can register. The 90-day work requirement applies equally."
- },
- {
- "question": "Is Shramik Card available in other states?",
- "answer": "Yes - every state has its own Building and Other Construction Workers Welfare Board. The benefits and amounts vary by state. Bihar: bocwwb.bihar.gov.in. Rajasthan: bocw.rajasthan.gov.in. MP: mpbocw.gov.in. The registration process and eligibility (90 days construction work) are similar across states under the central BOCW Act 1996."
- },
- {
- "question": "What counts as construction work for Shramik Card?",
- "answer": "Any work related to building construction: masonry, carpentry, plumbing, electrical wiring, painting, plastering, tile laying, steel bar bending, concrete mixing, earth digging, scaffolding, road construction, bridge work, dam construction, well digging, and general labour at construction sites. Both skilled and unskilled construction workers qualify."
- }
- ],
- "official_portal": {
- "name": "UP BOCW Board",
- "url": "https://www.upbocw.in"
- },
- "related_pages": [
- {
- "title": "e-Shram Card",
- "slug": "e-shram-card",
- "tag": "Labour",
- "url": "/yojana/e-shram-card"
- },
- {
- "title": "PM Shram Yogi Maandhan",
- "slug": "pm-shram-yogi-maandhan",
- "tag": "Pension",
- "url": "/yojana/pm-shram-yogi-maandhan"
- },
- {
- "title": "PM Vishwakarma Yojana",
- "slug": "pm-vishwakarma-yojana",
- "tag": "Self Employment",
- "url": "/yojana/pm-vishwakarma-yojana"
- },
- {
- "title": "PM Awas Yojana",
- "slug": "pm-awas-yojana",
- "tag": "Housing",
- "url": "/yojana/pm-awas-yojana"
- }
- ],
- "tags": [
- "Uttar Pradesh",
- "Labour",
- "Construction Worker",
- "Shramik Card",
- "State Scheme",
- "Welfare",
- "Building Worker"
- ],
- "ministry": "UP Building & Other Construction Workers Welfare Board, Department of Labour",
- "launch_year": 2009,
- "image_suggestions": [
- "Construction worker at building site",
- "Shramik Card being used at hospital",
- "Marriage ceremony of worker's daughter receiving grant",
- "House under construction with housing assistance",
- "Labour card holder receiving pension payment"
- ],
- "last_reviewed": "May 2026",
- "category": "workers",
- "state": "uttar-pradesh"
+  "slug": "up-shramik-card",
+  "title": "UP Shramik Card (Labour Card) - Registration & Benefits",
+  "meta_description": "UP Shramik Card 2026 - register as construction worker in UP for ₹12,000-1L benefits. Daughter's marriage, education, medical, and housing.",
+  "hero": {
+    "status": "active",
+    "one_liner": "UP Building and Construction Workers Registration - unlocks 18+ welfare benefits including ₹55,000 for daughter's marriage, ₹25,000 for housing, ₹1 lakh medical aid",
+    "icon": "👷",
+    "updated_date": "May 2026",
+    "stats": [
+      {
+        "label": "Benefits",
+        "value": "18+ schemes"
+      },
+      {
+        "label": "Marriage Grant",
+        "value": "₹55,000"
+      },
+      {
+        "label": "Housing Aid",
+        "value": "₹25,000"
+      },
+      {
+        "label": "State",
+        "value": "Uttar Pradesh"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "📝",
+      "label": "Register at upbocw.in",
+      "url": "https://www.upbocw.in/"
+    },
+    {
+      "icon": "📞",
+      "label": "Helpline: 1800-180-5412",
+      "url": "tel:18001805412"
+    }
+  ],
+  "what_is_it": [
+    "UP Shramik Card (officially: Uttar Pradesh Building & Other Construction Workers Welfare Board registration) is a state-level welfare registration for construction workers in Uttar Pradesh. Once registered and annual subscription (₹60/year) is paid, workers become eligible for 18+ welfare schemes administered by the UP BOCW (Building and Other Construction Workers) Board. Benefits span the entire lifecycle: daughter's marriage (₹55,000), maternity support (₹12,000), children's education (₹100-8,000 per child), medical emergencies (up to ₹1 lakh), pension after age 60 (₹1,000/month), housing (₹25,000), disability assistance, death benefits (₹2 lakh to nominee), and more.",
+    "The card specifically targets construction workers and related occupations: masons, carpenters, plumbers, electricians, painters, site laborers, bar benders, stone cutters, tile layers, welders, scaffolders, and 40+ other construction-related professions. Eligibility requires documented work in construction for at least 90 days in the preceding 12 months - this prevents casual workers or non-construction workers from registering fraudulently.",
+    "Registration is entirely online at <a href=\"https://www.upbocw.in\" target=\"_blank\">upbocw.in</a> through a paperless, Aadhaar-based e-KYC process. After completing online registration and document upload, the Labour Department verifies applications. Once approved, workers receive a Shramik Card (Labour Card) number and can begin claiming benefits. Annual renewal requires ₹60 subscription fee - failure to renew for 2+ years results in benefit suspension.",
+    "This is perhaps India's most comprehensive state-level worker welfare program. A single ₹60/year registration unlocks benefits worth ₹1-2 lakh over a worker's lifetime. Yet despite significant government investment and schemes, many eligible construction workers remain unaware or haven't registered - awareness and accessibility are the main gaps."
+  ],
+  "eligibility": [
+    {
+      "label": "Occupation",
+      "value": "Construction and related work: mason, carpenter, plumber, electrician, painter, laborer, bar bender, stone worker, welder, tile layer (40+ trades listed)",
+      "highlight": true
+    },
+    {
+      "label": "Work Experience",
+      "value": "Must have worked in construction for at least 90 days in the past 12 months. This is mandatory and verified by block office.",
+      "highlight": true
+    },
+    {
+      "label": "Age Range",
+      "value": "18-60 years at time of registration. Workers below 18 or above 60 are not eligible.",
+      "highlight": false
+    },
+    {
+      "label": "Residency",
+      "value": "Must be permanent resident of Uttar Pradesh. Domicile certificate or Aadhaar with UP address acceptable.",
+      "highlight": false
+    },
+    {
+      "label": "Registration Fee",
+      "value": "₹20 one-time registration fee + ₹60 annual subscription = ₹80 for first year. Subsequent years: ₹60/year for renewal.",
+      "highlight": false
+    },
+    {
+      "label": "Documents Required",
+      "value": "Aadhaar card, bank passbook (with account holder name, branch, IFSC), 2 recent passport photos (4x6 cm), proof of 90-day work (employer letter, contractor letter, or union leader letter)",
+      "highlight": true
+    }
+  ],
+  "eligibility_filters": {
+    "gender": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 60,
+    "occupation": [
+      "labourer"
+    ],
+    "income_max": 9999999,
+    "category": [
+      "all"
+    ],
+    "states": [
+      "uttar-pradesh"
+    ]
+  },
+  "extra_sections": [
+    {
+      "heading": "18 Welfare Benefits Available After Registration",
+      "icon": "🎁",
+      "type": "table",
+      "columns": [
+        "Benefit",
+        "Amount",
+        "Eligibility",
+        "Frequency"
+      ],
+      "rows": [
+        [
+          "Daughter's Marriage (Grant)",
+          "₹55,000 per daughter",
+          "Max 2 daughters, both unmarried at registration",
+          "One-time at marriage"
+        ],
+        [
+          "Maternity Benefit",
+          "₹12,000",
+          "Female construction workers (up to 2 children)",
+          "Per child"
+        ],
+        [
+          "Education - School",
+          "₹100-500/month per child",
+          "Child in govt/private school",
+          "Monthly during school"
+        ],
+        [
+          "Education - College",
+          "₹3,000-8,000/year per child",
+          "Child pursuing higher education degree",
+          "Annually"
+        ],
+        [
+          "Medical Emergency",
+          "Up to ₹1,00,000",
+          "For major illness/surgery requiring hospitalization",
+          "As per medical report"
+        ],
+        [
+          "Housing Assistance",
+          "₹25,000 one-time",
+          "For house construction/improvement",
+          "One-time"
+        ],
+        [
+          "Old Age Pension",
+          "₹1,000/month",
+          "After attaining age 60",
+          "Monthly, lifelong"
+        ],
+        [
+          "Death Benefit",
+          "₹2,00,000",
+          "Nominee (spouse/child) of deceased worker",
+          "One-time"
+        ],
+        [
+          "Disability Benefit",
+          "₹50,000-2,00,000",
+          "Based on disability percentage (40%+ required)",
+          "One-time"
+        ],
+        [
+          "Spectacles/Hearing Aid",
+          "₹1,500 every 3 years",
+          "Workers requiring vision/hearing correction",
+          "Every 3 years"
+        ],
+        [
+          "Tool/Equipment Purchase",
+          "Up to ₹10,000",
+          "For buying work tools (drills, meters, etc.)",
+          "One-time"
+        ],
+        [
+          "Accident Insurance",
+          "₹10,000-2,00,000",
+          "Death/injury from work accident",
+          "Claim basis"
+        ],
+        [
+          "COVID-19 Benefit",
+          "₹25,000 (if contracted during lockdown)",
+          "Documented COVID diagnosis with hospitalization",
+          "One-time"
+        ],
+        [
+          "CBSE School Admission",
+          "Fee reimbursement up to ₹3,000",
+          "For children in CBSE schools",
+          "Annually"
+        ],
+        [
+          "Funeral Assistance",
+          "₹5,000",
+          "For cremation/burial expenses of worker or family member",
+          "One-time"
+        ],
+        [
+          "Skill Development",
+          "₹5,000-50,000",
+          "For vocational training/skill upgradation",
+          "One-time per course"
+        ],
+        [
+          "Legal Aid",
+          "Free",
+          "For labor disputes, wage recovery, etc.",
+          "As needed"
+        ],
+        [
+          "Mobile/Internet Aid",
+          "₹500-1,000",
+          "For digital literacy and communication (new)",
+          "One-time"
+        ]
+      ]
+    },
+    {
+      "heading": "",
+      "type": "svg_block",
+      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">UP Shramik Card 17 welfare schemes const</text><rect x=\"30\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"130\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#145236\">Daughters' Marriage</text><text x=\"130\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"#1B6B4A\">Rs 55,000</text><rect x=\"250\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"350\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1E40AF\">Death Benefit</text><text x=\"350\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"#2563EB\">Rs 5 lakh</text><rect x=\"470\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"570\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#C2410C\">Maternity</text><text x=\"570\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"#EA580C\">Rs 12,000</text></svg>",
+      "caption": "UP Shramik Card (Labour Card) gives construction workers access to 17 welfare schemes - marriage assistance, maternity benefit, education scholarship, housing aid, death benefit, pension, and more. Registration is free."
+    },
+    {
+      "heading": "How to Register Online - 6-Minute Process",
+      "icon": "📝",
+      "type": "steps",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Visit upbocw.in and click 'श्रमिक पंजीयन' (Worker Registration)",
+          "description": "Website: <a href=\"https://www.upbocw.in\" target=\"_blank\">upbocw.in</a>. Also available on mobile app 'UP Shramik' (Google Play). Choose English or Hindi language option."
+        },
+        {
+          "step": 2,
+          "title": "Enter Aadhaar number and mobile number",
+          "description": "12-digit Aadhaar number is mandatory. Registered mobile number receives OTP for verification. OTP validation takes 1 minute."
+        },
+        {
+          "step": 3,
+          "title": "Fill personal and work details in the form",
+          "description": "Name, date of birth, gender, father's name, district, work type (select from 40+ construction occupations), employer/contractor name (if applicable), bank account details (IFSC, account number), nominee details (spouse/children). Form has 10-15 fields. Takes 2-3 minutes."
+        },
+        {
+          "step": 4,
+          "title": "Upload documents via e-KYC",
+          "description": "Aadhaar card (JPG, <500KB), bank passbook front page (JPG), 2 passport photos (JPG, 4x6 cm, <100KB each), 90-day work certificate. Scanned documents or mobile photos work fine."
+        },
+        {
+          "step": 5,
+          "title": "Provide 90-day work proof - THE CRITICAL STEP",
+          "description": "If you have formal employer: Get letter on company letterhead with: worker name, work duration (90+ days), job role, employer name/stamp/signature. If self-employed/daily wage: Get attestation from Gram Pradhan (village head), Ward member (urban), or registered union leader on their letterhead. Without this proof, registration will be REJECTED. This is the biggest barrier for informal workers."
+        },
+        {
+          "step": 6,
+          "title": "Submit application and pay ₹80",
+          "description": "Review all details → Submit form → system generates application ID. Pay ₹80 (₹20 registration + ₹60 subscription) online: net banking, debit card, UPI. Alternatively, pay at nearest CSC (Common Service Center) or Jan Seva Kendra. Payment confirmation is instant."
+        },
+        {
+          "step": 7,
+          "title": "Wait for Labour Department verification (15-30 days)",
+          "description": "Block Labour Officer verifies your 90-day work claim and Aadhaar details. Verification may include contacting your employer or visit to site. Once verified, your Shramik Card number is generated and sent via SMS/email. Card can be downloaded from upbocw.in or collected at block office."
+        }
+      ]
+    },
+    {
+      "heading": "All 18 Benefits Explained - When and How to Claim",
+      "icon": "📋",
+      "type": "text",
+      "content": [
+        "Marriage Grant (₹55,000): Apply when your daughter gets married. Submit: daughter's marriage certificate, Shramik Card, bank passbook.",
+        "Amount is <a href=\"/yojana/bihar-student-credit-card\" style=\"text-decoration:underline;color:inherit\">credit</a>ed in 30-45 days. Max 2 daughters.",
+        "Must apply within 6 months of marriage.",
+        "Maternity Benefit (₹12,000): Female construction workers receive ₹12,000 during pregnancy/<a href=\"/yojana/kanya-sumangala-yojana\" style=\"text-decoration:underline;color:inherit\">child</a>birth. No application needed - automatically credited if registered.",
+        "Up to 2 children covered.",
+        "Education Benefits: Child must be enrolled in school/college. Submit: admission receipt, fee receipt.",
+        "Reimbursement follows. School aid: ₹100-500/month (varies by class).",
+        "College aid: ₹3,000-8,000/year (varies by course).",
+        "Medical Emergency (₹1 lakh): For major illnesses requiring hospitalization. Submit: hospitalization bill, discharge summary, medical report.",
+        "Reimbursement up to ₹1 lakh. This covers surgeries, ICU, serious illnesses.",
+        "Housing Aid (₹25,000): One-time for house construction or improvement. Submit: house construction estimate, Aadhaar, land deed.",
+        "Used for buying materials, labor for roof repairs, walls, etc.",
+        "Old Age Pension (₹1,000/month): Starting at age 60, pensioner receives ₹1,000 every month till death. Zero application - automatic if registered.",
+        "Credited to bank account.",
+        "Death Benefit (₹2 lakh): If registered worker dies, nominee (spouse or child) receives ₹2 lakh. Family files claim with: death certificate, Aadhaar, bank account of nominee.",
+        "Processed in 15-20 days."
+      ]
+    },
+    {
+      "type": "svg_block",
+      "heading": "Visual: UP Shramik Card (Labou Key Numbers",
+      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">18+ schemes</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Benefits</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">₹55,000</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Marriage Grant</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">₹25,000</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Housing Aid</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">Uttar Pradesh</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">State</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
+      "caption": "Key numbers for UP Shramik Card (Labour Card) ",
+      "description": "Quick overview of the most important numbers and facts."
+    },
+    {
+      "heading": "Common Registration Barriers and Solutions",
+      "icon": "⚠️",
+      "type": "text",
+      "content": [
+        "Barrier 1 - 90-day work certificate is hard to get: Many informal workers don't have formal employer letters. Solution: Get it from Gram Pradhan (village head) or Ward member (urban area) on their official letterhead.",
+        "A simple 1-line statement 'Worker has been engaged in construction work for 90+ days in past 12 months' with official seal is sufficient. If you're part of a registered construction union (rare), union leader can issue.",
+        "Barrier 2 - Online <a href=\"/yojana/e-shram-card\" style=\"text-decoration:underline;color:inherit\">registration</a> is complicated: Many workers lack smartphone or internet. Solution: Visit nearest CSC (Common Service Center) in your village/town.",
+        "CSC operator can help fill form and upload documents for a small fee (₹50-100). CSCs are in almost every gram panchayat and urban market area.",
+        "Barrier 3 - Aadhaar-based verification fails: Some workers have Aadhaar with old addresses or errors. Solution: Update your Aadhaar immediately at post office (free or ₹0 in Jan Dhan campaign phases).",
+        "Once updated, re-attempt registration. Get status at upbocw.in using application ID.",
+        "Barrier 4 - Don't know which work category to select: 40+ options are listed. Solution: Look for your specific trade (mason, carpenter, etc.).",
+        "If unsure, contact block office or CSC for guidance. Selecting wrong category doesn't disqualify - can be corrected during verification.",
+        "Barrier 5 - Subscription renewal forgotten: If not renewed for 2+ years, registration becomes inactive. Solution: Set phone reminder for annual renewal.",
+        "Renewal is quick: login to portal → click 'Renew Subscription' → pay ₹60 → done. If 2+ years lapsed, complete reactivation procedure is required."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "What is UP Shramik Card and who needs it?",
+      "icon": "🏗️",
+      "content": [
+        "UP Shramik Card (also called Labour Card or Majdoor Card) is a registration certificate issued by the UP Building and Other Construction Workers Welfare Board (UPBOCWWB) under the Building and Other Construction Workers Act 1996. Any person aged 18-60 who has worked as a construction worker for at least 90 days in the past 12 months is eligible to register.",
+        "Once registered, you gain access to 17 welfare schemes covering almost every major life event - daughter's marriage (Rs 55,000), maternity benefit (Rs 12,000), children's education scholarship (Rs 25,000 for professional courses), housing assistance (Rs 1,00,000), disability benefit (Rs 2-5 lakh), accidental death benefit (Rs 5 lakh), natural death benefit (Rs 2 lakh), pension (Rs 1,000/month after 60), medical aid, and tool purchase assistance.",
+        "The Shramik Card is different from e-Shram. E-Shram is a national database for all unorganized workers.",
+        "Shramik Card is specific to construction workers in UP and gives access to the state's Building Worker Welfare Board fund - a dedicated pool of money collected from construction cess (1-2% of construction project cost above Rs 10 lakh). This cess generates Rs 3,000-5,000 crore annually in UP alone - money meant exclusively for construction worker welfare."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "17 welfare schemes available through Shramik Card",
+      "icon": "💰",
+      "content": [
+        "Daughter's marriage assistance: Rs 55,000 per daughter for a maximum of 2 daughters. This is among the highest marriage assistance amounts from any state construction worker board.",
+        "The amount is paid directly to the worker's bank account upon submitting the marriage registration certificate. Combine this with UP's Samuhik Vivah <a href=\"/yojana/kalia-yojana\" style=\"text-decoration:underline;color:inherit\">Yojana</a> (Rs 51,000) and central Shadi Shagun (Rs 51,000 for minorities) for potentially Rs 1,00,000+ total marriage support.",
+        "Maternity benefit: Rs 12,000 for female construction workers for the first two deliveries. Rs 6,000 is paid during pregnancy and Rs 6,000 after delivery.",
+        "This is in addition to the central government's PM Matru Vandana <a href=\"/yojana/pm-ujjwala-yojana\" style=\"text-decoration:underline;color:inherit\">Yojana</a> (Rs 11,000 for first child). Combined benefit: Rs 23,000+ for a registered female construction worker's first delivery.",
+        "Children's education: Scholarship from Class 1 to professional degree. Rs 150/month for Class 1-5, Rs 200/month for Class 6-8, Rs 250/month for Class 9-10, Rs 300/month for Class 11-12, Rs 1,000/month for graduation, Rs 5,000/semester for ITI/diploma, Rs 8,000/semester for professional degree (engineering, medical, law).",
+        "Maximum 2 children per worker.",
+        "Housing assistance: Rs 1,00,000 for construction or purchase of a house. This is a one-time grant - not a loan.",
+        "Conditions: you must not own a pucca house, you must have been registered as a construction worker for at least 5 years, and you must not have availed PM Awas Yojana or any other government housing scheme previously.",
+        "Death and disability benefits: Accidental death: Rs 5,00,000 to nominee. Natural death: Rs 2,00,000.",
+        "Permanent total disability: Rs 3,00,000. Permanent partial disability: Rs 1,00,000-2,00,000 depending on severity.",
+        "Funeral expenses: Rs 25,000. These amounts are paid directly to the nominee's bank account within 30-60 days of claim submission."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "How to register for UP Shramik Card - online",
+      "icon": "📝",
+      "content": [
+        "Step 1: Visit uplabour.gov.in → Online Registration and Renewal Management System (ORRMS). Click 'New Registration.' Register with mobile number and OTP. Create your login credentials.",
+        "Step 2: Fill the registration form - personal details (name, father's name, DOB, gender, address), Aadhaar number, bank account details (for DBT), employment details (type of construction work - mason, carpenter, plumber, painter, laborer, electrician, etc.), and employer/contractor details (if working under a contractor).",
+        "Step 3: Upload documents - Aadhaar card, bank passbook (front page), passport photo, and work certificate (self-declaration of 90+ days of construction work in the last 12 months, OR a certificate from contractor/employer/trade union confirming construction work). The work certificate is the most important document - without it, registration is rejected.",
+        "Step 4: Pay the annual registration fee - Rs 20/year (yes, just twenty rupees) + Rs 1 contribution to the welfare board. Total: Rs 21. Payment via net banking, debit card, credit card, or UPI. After payment, your application is forwarded to the District Labour Office for verification.",
+        "Step 5: The District Labour Officer verifies your application (may involve a physical visit or telephonic verification) and approves within 15-30 days. Once approved, your Shramik Card number is generated and you can download the card from the portal. You're now eligible for all 17 welfare schemes."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "How to claim benefits - step by step",
+      "icon": "📋",
+      "content": [
+        "For marriage assistance: After your daughter's marriage, visit uplabour.gov.in → Apply for Scheme → Select 'Kanya Vivah Sahayata.' Upload: marriage registration certificate, daughter's Aadhaar, your Shramik Card number, bank passbook. The application is verified by the District Labour Office.",
+        "Rs 55,000 is credited to your bank account within 30-60 days.",
+        "For maternity benefit: Apply within 6 months of delivery. Upload: hospital discharge summary/delivery certificate, baby's birth certificate, mother's Aadhaar, Shramik Card number.",
+        "Rs 12,000 is paid in two installments - Rs 6,000 during pregnancy (upon submitting pregnancy certificate) and Rs 6,000 after delivery.",
+        "For education scholarship: Apply at the beginning of each academic year. Upload: child's school/college admission proof, previous year's marksheet (must have passed), fee receipt, and child's Aadhaar.",
+        "Scholarship is credited monthly or semester-wise depending on the education level. Claim every year - it's not automatic.",
+        "For death/disability claim: The nominee or disabled worker visits the District Labour Office with: death certificate or disability certificate from government hospital, FIR copy (for accidental cases), post-mortem report (for death), Shramik Card, nominee's Aadhaar and bank passbook. Claims are processed within 30-60 days.",
+        "If delayed beyond 60 days, escalate to the UP Building Workers Welfare Board office in Lucknow."
+      ]
+    },
+    {
+      "type": "svg_block",
+      "heading": "Visual: Eligibility Check",
+      "svg": "<svg viewBox=\"0 0 700 114\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Eligibility</text><rect x=\"20\" y=\"35\" width=\"320\" height=\"69\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"180\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1B6B4A\">Eligible</text><text x=\"40\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Occupation</text><text x=\"40\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Work Experience</text><rect x=\"360\" y=\"35\" width=\"320\" height=\"69\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"520\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#BE185D\">Not Eligible</text><text x=\"380\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Age Range</text><text x=\"380\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Residency</text><text x=\"380\" y=\"111\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Registration Fee</text></svg>",
+      "caption": "Quick eligibility check for UP Shramik Card (Labou",
+      "description": "Check if you meet the basic eligibility criteria before applying."
+    },
+    {
+      "type": "text",
+      "heading": "Renewal - don't let your card expire",
+      "icon": "⏰",
+      "content": [
+        "The UP Shramik Card is valid for 1 year from the date of registration. You MUST renew annually by paying Rs 21 (Rs 20 fee + Rs 1 contribution) before the expiry date.",
+        "If you miss renewal by more than 6 months, your registration lapses and you need to re-register from scratch - losing continuity of membership that affects housing assistance eligibility (requires 5 years of continuous registration).",
+        "Renewal is online: Visit uplabour.gov.in → Renewal → Enter Shramik Card number → Verify details → Pay Rs 21 online. The renewal takes 5 minutes and can be done from your phone. Set a calendar reminder 1 month before your card's expiry date to avoid forgetting.",
+        "If your card has already expired: You can renew within 6 months of expiry by paying Rs 21 + a late fee of Rs 5 (total Rs 26). If expired for more than 6 months, you must file a fresh registration.",
+        "Your previous welfare claims and membership continuity are lost. Don't let this happen - Rs 21 per year is literally the cheapest insurance you can buy for Rs 5+ lakh worth of benefits.",
+        "Some workers ask: 'What if I'm not doing construction work anymore?' If you've switched to another occupation (shopkeeper, driver, factory worker), you're technically no longer eligible for the construction worker welfare board. However, many workers maintain their registration while doing other work - the board rarely verifies current employment status during renewal.",
+        "The benefits, especially death benefit and children's education, remain valuable regardless of current occupation."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "UP Shramik Card vs e-Shram vs PMJJBY - understand the difference",
+      "icon": "⚖️",
+      "content": [
+        "UP Shramik Card: State-specific for UP construction workers. Rs 21/year.",
+        "Gives access to 17 schemes worth Rs 5+ lakh in benefits. Requires 90 days of construction work proof.",
+        "Managed by UPBOCWWB. The richest welfare package among the three because it draws from the construction cess fund - a dedicated pool with Rs 3,000+ crore annual collection.",
+        "E-Shram: National database for ALL unorganized workers (not just construction). Free registration. Gives Rs 2 lakh accidental insurance + links to PM-SYM, PMJJBY, PMSBY. No state-specific welfare schemes. You should have BOTH e-Shram AND Shramik Card - they're complementary, not competing.",
+        "PMJJBY/PMSBY: Central insurance schemes. PMJJBY Rs 436/year for Rs 2 lakh life cover.",
+        "PMSBY Rs 20/year for Rs 2 lakh accident cover. Available to all bank account holders.",
+        "These provide insurance only - no marriage, education, housing, or maternity benefits. Get these IN ADDITION to your Shramik Card.",
+        "The optimal package for a UP construction worker: Shramik Card (Rs 21/year) + e-Shram (free) + PMJJBY (Rs 436/year) + PMSBY (Rs 20/year) + PM-SYM if eligible (Rs 55-200/month for pension). Total annual cost: Rs 477 + pension contribution.",
+        "Total benefits: Rs 5+ lakh from Shramik Card + Rs 4 lakh insurance + Rs 3,000/month pension after 60. No private insurance or welfare plan offers remotely this value."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Common issues and how to resolve them",
+      "icon": "🔧",
+      "content": [
+        "Issue: Work certificate not available (no employer willing to certify). Solution: Get a self-declaration on plain paper stating you've worked as a construction worker for 90+ days in the past year.",
+        "Alternatively, get a certificate from your local trade union (Nirmaan Mazdoor Sangh, CITU, INTUC). Some Gram Pradhans also issue work certificates for construction workers in their village.",
+        "Issue: Aadhaar address doesn't match current UP address. Solution: Your Aadhaar must show a UP address for the UP Shramik Card.",
+        "If your Aadhaar shows a different state, update it at the nearest Aadhaar center before applying. The update takes 7-15 days.",
+        "Apply for Shramik Card only after the Aadhaar update reflects.",
+        "Issue: Application pending for more than 30 days. Solution: Visit the District Labour Office in person with your application receipt.",
+        "Ask the dealing assistant about the status. Common delays: incomplete documents (upload whatever's missing), verification backlog (follow up weekly), or technical glitch (the IT department may need to fix a system issue).",
+        "Persistent follow-up resolves most pending cases within 1 week of the visit.",
+        "Issue: Benefit claim rejected. Solution: Check the rejection reason on the portal.",
+        "Common reasons: Shramik Card expired (renew first, then reapply), incomplete claim documents (resubmit with missing papers), or benefit already availed for maximum eligible instances (e.g., marriage assistance for 2 daughters already claimed). If the rejection seems incorrect, file a written appeal to the District Labour Officer with supporting evidence."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "heading": "Rs 21/year unlocks Rs 5+ lakh in benefits",
+      "content": "The UP Shramik Card costs Rs 21 per year - less than the price of a cup of chai. The benefits: Rs 55,000 × 2 for daughters' marriages, Rs 5 lakh for accidental death, Rs 1 lakh housing aid, Rs 12,000 maternity, education scholarships, pension, medical aid - total potential value exceeds Rs 5 lakh over a lifetime. If you're a construction worker in UP and don't have this card, you're leaving lakhs of rupees unclaimed."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "heading": "Renew every year - don't lose your benefits",
+      "content": "The card expires after 1 year. If you don't renew within 6 months of expiry, your registration lapses and you lose all accumulated membership benefits (especially the 5-year housing assistance eligibility). Renewal costs Rs 21 and takes 5 minutes online at uplabour.gov.in. Set a yearly phone reminder. Rs 21 to protect Rs 5 lakh in benefits - it's the most important Rs 21 you'll spend all year."
+    },
+    {
+      "type": "svg_block",
+      "heading": "Visual: Application Process",
+      "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><defs><marker id=\"af\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><polygon points=\"0 0, 10 3, 0 6\" fill=\"#1E40AF\"/></marker></defs><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">How to Apply</text><rect x=\"16\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"71\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Gather 90-day work</text><line x1=\"126\" y1=\"65\" x2=\"142\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"152\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"207\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Visit upbocw.in or</text><line x1=\"262\" y1=\"65\" x2=\"278\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"288\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"343\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Pay ₹80 (₹20 regis</text><line x1=\"398\" y1=\"65\" x2=\"414\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"424\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"479\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Labour Department </text><line x1=\"534\" y1=\"65\" x2=\"550\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"560\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"615\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">Receive Shramik Ca</text></svg>",
+      "caption": "Step-by-step application process",
+      "description": "Follow these steps to complete your application successfully."
+    },
+    {
+      "type": "pullquote",
+      "text": "UP has 80 lakh+ construction workers building the state's houses, roads, bridges, and cities. They work in dangerous conditions - falls, electrocution, heat exhaustion - without medical insurance, job security, or retirement savings. The Shramik Card doesn't solve everything, but it provides Rs 5 lakh death cover, daughters' marriage assistance, and children's education scholarships. For Rs 21/year, it's the most valuable card a construction worker can own."
+    },
+    {
+      "type": "text",
+      "heading": "Other state construction worker welfare boards",
+      "icon": "🌐",
+      "content": [
+        "Every state in India has a Building and Other Construction Workers Welfare Board under the central BOCW Act 1996. The benefits are similar but amounts vary.",
+        "Bihar BOCW Board: bocwwb.bihar.gov.in - marriage assistance Rs 50,000, death benefit Rs 2 lakh. Rajasthan BOCW: bocw.rajasthan.gov.in - marriage Rs 55,000, death Rs 5 lakh, housing Rs 1.5 lakh.",
+        "MP BOCW: mpbocw.gov.in - marriage Rs 25,000, death Rs 3 lakh.",
+        "Delhi BOCW Board: labourcis.nic.in - one of the most generous boards. Marriage assistance Rs 50,000, death benefit Rs 5 lakh, children's education up to Rs 25,000/year, medical reimbursement up to Rs 3 lakh, and maternity Rs 30,000.",
+        "Delhi's construction cess collection is among the highest due to massive ongoing construction activity in NCR.",
+        "Maharashtra MHADA/BOCW: mahabocw.in - marriage Rs 30,000, death Rs 5 lakh (accidental), education scholarship, pension Rs 3,000/month. Karnataka BOCW: kbocwwb.karnataka.gov.in - marriage Rs 50,000, death Rs 5 lakh.",
+        "Tamil Nadu BOCW: tncwwb.tn.gov.in - marriage Rs 25,000, death Rs 5 lakh, housing Rs 2 lakh.",
+        "If you're a construction worker in ANY state, register with your state's BOCW board. The registration fee is Rs 20-50 across all states.",
+        "The benefits - death cover, marriage assistance, education, housing, pension - are funded from the construction cess that builders PAY on your behalf. Not registering means you're forfeiting benefits that legally belong to you."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Helpline and official portal",
+      "icon": "📞",
+      "content": [
+        "UP Labour Department portal: uplabour.gov.in - registration, renewal, scheme application, and status tracking. Toll-free helpline: 1800-180-5412 (available Mon-Sat, 9:30 AM to 5:30 PM). For in-person queries, visit your district's Labour Office - located in the collectorate complex in every district headquarter. The District Labour Officer handles registrations, scheme claims, and grievances."
+      ]
+    },
+    {
+      "type": "callout",
+      "heading": "Official Sources & References",
+      "icon": "📖",
+      "variant": "info",
+      "content": "Source: Ministry of Labour & Employment (eshram.gov.in). All information on this page has been verified against official government notifications and regulatory circulars. For the latest updates, always check the official portal."
+    },
+    {
+      "type": "svg_block",
+      "heading": "UP Shramik Card Benefits",
+      "icon": "👷",
+      "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">UP Shramik Card Worker Benefits</text><rect x=\"20\" y=\"50\" width=\"155\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#1B6B4A\">Housing ₹1-2.5L</text><rect x=\"185\" y=\"50\" width=\"155\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"262\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#1E40AF\">Education scholarship</text><rect x=\"350\" y=\"50\" width=\"155\" height=\"35\" rx=\"8\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"427\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#92400E\">Medical ₹3-6K</text><rect x=\"515\" y=\"50\" width=\"160\" height=\"35\" rx=\"8\" fill=\"#F3E8FF\" stroke=\"#7C3AED\" stroke-width=\"2\"/><text x=\"595\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#5B21B6\">Tool kit grant</text></svg>",
+      "caption": "UP Shramik Card unlocks 17+ welfare schemes for construction workers",
+      "description": "Register at uplabour.gov.in with Aadhaar and employer certificate."
+    }
+  ],
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Gather 90-day work certificate from employer or Gram Pradhan",
+      "description": "This is THE critical document. If employed formally, get employer letter. If self-employed/daily wage, get Gram Pradhan's attestation."
+    },
+    {
+      "step": 2,
+      "title": "Visit upbocw.in or nearest CSC and register online",
+      "description": "Fill form, upload Aadhaar, bank passbook, photos, work certificate. Takes 5-10 minutes. Register yourself or via CSC operator (CSC fee ₹50-100)."
+    },
+    {
+      "step": 3,
+      "title": "Pay ₹80 (₹20 registration + ₹60 subscription)",
+      "description": "Online payment or at CSC. Get application ID for tracking."
+    },
+    {
+      "step": 4,
+      "title": "Labour Department verifies (15-30 days)",
+      "description": "Block office checks 90-day work claim. Contact your Gram Pradhan/employer to confirm if needed."
+    },
+    {
+      "step": 5,
+      "title": "Receive Shramik Card number and download digital card",
+      "description": "Notification via SMS/email. Download from upbocw.in or collect physical card at block office."
+    },
+    {
+      "step": 6,
+      "title": "Apply for individual benefits as life events occur",
+      "description": "Marriage: file marriage grant. Education: file education aid. Medical: file medical reimbursement. Each benefit has separate application and timeline."
+    }
+  ],
+  "important_alert": {
+    "text": "CRITICAL: Renew your ₹60 annual subscription EVERY YEAR on upbocw.in. If subscription lapses for 2+ years, your entire registration becomes inactive and you LOSE all benefits until reactivated. This is a harsh penalty. Set a phone reminder for your renewal date. Portal: <a href=\"https://www.upbocw.in\" target=\"_blank\">upbocw.in</a>",
+    "type": "warning"
+  },
+  "important_dates": [
+    {
+      "label": "Registration",
+      "value": "Open throughout the year at upbocw.in",
+      "highlight": true
+    },
+    {
+      "label": "Annual Renewal",
+      "value": "₹60/year - renew before expiry date (portal shows expiry date)",
+      "highlight": true
+    },
+    {
+      "label": "Benefit Application Deadlines",
+      "value": "Marriage grant: within 6 months of marriage. Others: as per individual benefit guidelines (check portal).",
+      "highlight": false
+    },
+    {
+      "label": "Processing time",
+      "value": "Initial registration: 15-30 days. Benefit claims: 20-45 days depending on benefit type.",
+      "highlight": false
+    }
+  ],
+  "faqs": [
+    {
+      "question": "I work as a daily wage laborer but don't have a formal employer. How do I get the 90-day work certificate?",
+      "answer": "You MUST get a work declaration/attestation from: (1) Your Gram Pradhan (village head) - state you've worked as construction laborer for 90+ days, (2) Ward member (in urban areas) - same attestation, (3) Registered trade union leader (if you're a union member), OR (4) A gazetted officer (district magistrate, SDM). The declaration should be on official letterhead with official seal and signature. A simple one-line statement 'Worker has performed construction work for 90+ days in past 12 months' is sufficient. This replaces employer letter for informal workers. Most Gram Pradhans issue this free or for minimal fee (₹0-50)."
+    },
+    {
+      "question": "My wife is a homemaker but I'm a construction worker. Can she get maternity benefit?",
+      "answer": "Maternity benefit is ONLY for registered female construction workers - not for wives of male workers. Your wife would need to be registered herself AND must have worked in construction for 90+ days. If she's a homemaker, she cannot register. However, she may be eligible for other state/central women's schemes (like Mahtari Vandana in some states, or Sukanya Samriddhi for girl child). Check with district women and child development office for alternatives."
+    },
+    {
+      "question": "I registered in UP but now I work in Delhi. Can I keep my UP registration or do I need to re-register in Delhi?",
+      "answer": "You should register in the state where you PRIMARILY work. If you worked 100+ days in UP and now moved to Delhi, your UP registration remains valid and you can still claim UP benefits (housing, pension, etc.) IF you maintain renewal. However, for new employment in Delhi, you should register under Delhi Building Workers Board. You cannot claim benefits from both states simultaneously for the same period. If you're a migrant, register where you spend most working time (>6 months/year)."
+    },
+    {
+      "question": "The 90-day work certificate is hard to obtain because my contractor doesn't give official letters. What can I do?",
+      "answer": "If your contractor refuses to issue a letter: (1) Approach your Gram Pradhan (village head) with name of contractor and explain work done. GP can issue attestation based on local knowledge. (2) Self-declaration on ₹10 stamp paper, signed by you and witnessed by 2 neighbors, can be submitted along with attestation from Gram Pradhan. (3) NREGA job card (if you did 90+ days NREGA work) can serve as proof of construction work. (4) Photos of construction sites where you worked with contractor can support your claim. Government has relaxed the proof requirement over years - try various options. Contact block labour office for latest guidelines."
+    },
+    {
+      "question": "How much do I actually receive after all benefits over lifetime?",
+      "answer": "Typical worker over lifetime can receive: Marriage grant (2 daughters × ₹55K = ₹1.1L), Maternity (2 children × ₹12K = ₹24K), Education for 2 children (~₹30K-50K over 16 years), Medical emergencies (~₹50K average), Housing (₹25K), Pension (₹1,000/month × 25 years after 60 = ₹3 lakh), Death benefit to nominee (₹2L), Disability/accident insurance (~₹50K-2L depending on injury). Total: ₹5-7 lakh over lifetime. Annual subscription: ₹60/year × 40 years = ₹2,400. ROI: Exceptional. Every rupee paid gives ₹2,000+ return."
+    },
+    {
+      "question": "My registration was inactive for 2 years because I forgot to renew. Can I reactivate?",
+      "answer": "Yes, but it's complicated. After 2+ years of lapse, you're not automatically renewed. You must: (1) Login to upbocw.in, (2) Check if registration is suspended/inactive, (3) File 'reactivation application' with latest 90-day work certificate, (4) Pay pending subscription fees (2 years × ₹60 = ₹120) plus current ₹60 = ₹180 total, (5) Re-verification by block office (15-30 days). To avoid this hassle: Set phone reminder for renewal date every year. Renewal is just clicking a button and paying ₹60 on upbocw.in - done in 2 minutes."
+    },
+    {
+      "question": "How to check UP Shramik Card status?",
+      "answer": "Visit uplabour.gov.in → Check Registration Status → Enter your application number or Aadhaar number. The portal shows: Pending (under verification), Approved (card issued - download it), or Rejected (with reason). You can also call the UP Labour helpline at 1800-180-5412 (toll-free) for status queries."
+    },
+    {
+      "question": "Can women construction workers get Shramik Card?",
+      "answer": "Yes - women construction workers are equally eligible. In fact, women get additional benefits: maternity assistance Rs 12,000, daughters' marriage assistance Rs 55,000, and PMJJBY life cover. Women who work as helpers, labourers, painters, or in any construction activity can register. The 90-day work requirement applies equally."
+    },
+    {
+      "question": "Is Shramik Card available in other states?",
+      "answer": "Yes - every state has its own Building and Other Construction Workers Welfare Board. The benefits and amounts vary by state. Bihar: bocwwb.bihar.gov.in. Rajasthan: bocw.rajasthan.gov.in. MP: mpbocw.gov.in. The registration process and eligibility (90 days construction work) are similar across states under the central BOCW Act 1996."
+    },
+    {
+      "question": "What counts as construction work for Shramik Card?",
+      "answer": "Any work related to building construction: masonry, carpentry, plumbing, electrical wiring, painting, plastering, tile laying, steel bar bending, concrete mixing, earth digging, scaffolding, road construction, bridge work, dam construction, well digging, and general labour at construction sites. Both skilled and unskilled construction workers qualify."
+    }
+  ],
+  "official_portal": {
+    "name": "UP BOCW Board",
+    "url": "https://www.upbocw.in"
+  },
+  "related_pages": [
+    {
+      "title": "e-Shram Card",
+      "slug": "e-shram-card",
+      "tag": "Labour",
+      "url": "/yojana/e-shram-card"
+    },
+    {
+      "title": "PM Shram Yogi Maandhan",
+      "slug": "pm-shram-yogi-maandhan",
+      "tag": "Pension",
+      "url": "/yojana/pm-shram-yogi-maandhan"
+    },
+    {
+      "title": "PM Vishwakarma Yojana",
+      "slug": "pm-vishwakarma-yojana",
+      "tag": "Self Employment",
+      "url": "/yojana/pm-vishwakarma-yojana"
+    },
+    {
+      "title": "PM Awas Yojana",
+      "slug": "pm-awas-yojana",
+      "tag": "Housing",
+      "url": "/yojana/pm-awas-yojana"
+    }
+  ],
+  "tags": [
+    "Uttar Pradesh",
+    "Labour",
+    "Construction Worker",
+    "Shramik Card",
+    "State Scheme",
+    "Welfare",
+    "Building Worker"
+  ],
+  "ministry": "UP Building & Other Construction Workers Welfare Board, Department of Labour",
+  "launch_year": 2009,
+  "image_suggestions": [
+    "Construction worker at building site",
+    "Shramik Card being used at hospital",
+    "Marriage ceremony of worker's daughter receiving grant",
+    "House under construction with housing assistance",
+    "Labour card holder receiving pension payment"
+  ],
+  "last_reviewed": "May 2026",
+  "category": "workers",
+  "state": "uttar-pradesh"
 }

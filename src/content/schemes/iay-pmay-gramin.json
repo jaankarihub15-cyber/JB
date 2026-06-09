@@ -1,445 +1,442 @@
 {
- "slug": "iay-pmay-gramin",
- "title": "PMAY Gramin 2026: Free Pucca House Rs 1.20-1.30 Lakh",
- "meta_description": "PMAY-G (former IAY) provides Rs 1.20 L (plains) or Rs 1.30 L (hilly/NE) per house. 2.92 Cr houses completed. Phase II extended to March 2029.",
- "ministry": "Ministry of Rural Development",
- "launch_year": 1985,
- "last_reviewed": "May 2026",
- "tags": [
- "PMAY-G",
- "PMAYG",
- "rural housing",
- "IAY",
- "Indira Awas Yojana",
- "pucca house"
- ],
- "image_suggestions": [
- "rural pucca house",
- "PMAY-G construction",
- "village housing"
- ],
- "hero": {
- "status": "active",
- "one_liner": "Government of India's rural housing scheme - assistance to build a pucca (permanent) house for SECC-identified rural poor; 2.92 crore houses completed since 2016",
- "icon": "🏠",
- "updated_date": "May 2026",
- "stats": [
- {
- "label": "Plain Areas",
- "value": "₹1.20 Lakh"
- },
- {
- "label": "Hilly / NE / LWE",
- "value": "₹1.30 Lakh"
- },
- {
- "label": "Houses Completed",
- "value": "2.92 Crore"
- },
- {
- "label": "Phase II Target",
- "value": "Mar 2029"
- }
- ]
- },
- "quick_actions": [
- {
- "icon": "🌐",
- "label": "PMAY-G Portal",
- "url": "https://pmayg.nic.in/"
- },
- {
- "icon": "📊",
- "label": "Awaassoft Dashboard",
- "url": "https://rhreporting.nic.in/"
- },
- {
- "icon": "📞",
- "label": "Helpline 1800-11-6446",
- "url": "tel:18001116446"
- }
- ],
- "what_is_it": [
- "Pradhan Mantri Awas Yojana – Gramin (PMAY-G) is the Government of India's flagship rural housing scheme, providing financial assistance to economically weaker rural households to construct a pucca (permanent) house with basic amenities. The scheme is administered by the Ministry of Rural Development.",
- "PMAY-G was launched on 20 November 2016, replacing the Indira Awas Yojana (IAY) which had been running since 1985. The transition aimed to make rural housing more accountable, faster, and digitally tracked - every house under PMAY-G is geo-tagged with photographs at each construction milestone.",
- "Financial assistance under PMAY-G is ₹1.20 lakh per house in plain areas and ₹1.30 lakh per house in hilly states, Northeastern states, and Left Wing Extremism (LWE) affected areas. As of August 2025, of the cumulative target of 4.12 crore houses (Phase I + Phase II), 3.86 crore beneficiaries have been sanctioned and 2.92 crore houses have been completed. The scheme has been extended by the Union Cabinet to build an additional 2 crore rural houses from April 2024 to March 2029, taking the total target to 4.95 crore houses."
- ],
- "eligibility": [
- {
- "label": "Identified by SECC",
- "value": "Household must be in SECC 2011 Permanent Wait List (PWL) or Awaas+ 2018 list",
- "highlight": true
- },
- {
- "label": "Houseless or Kutcha",
- "value": "Currently houseless, or living in a 0-2 room kutcha house (mud, thatch, plastic, etc.)",
- "highlight": true
- },
- {
- "label": "Area",
- "value": "Rural area only - Gram Panchayats. Urban housing covered separately under PMAY-U",
- "highlight": true
- },
- {
- "label": "Verification",
- "value": "Identified by Gram Sabha; verified by Block-level officer",
- "highlight": false
- },
- {
- "label": "Documents",
- "value": "Aadhaar, ration card, MGNREGA job card (if any), bank passbook",
- "highlight": false
- },
- {
- "label": "Land Status",
- "value": "Must own or have valid title to the plot of land (or be given land under PMAY-G land scheme)",
- "highlight": false
- }
- ],
- "eligibility_filters": {
- "gender": [
- "any"
- ],
- "age_min": 18,
- "age_max": 120,
- "occupation": [
- "any"
- ],
- "income_max": 9999999,
- "category": [
- "general",
- "obc",
- "sc",
- "st"
- ],
- "states": [
- "all"
- ]
- },
- "extra_sections": [
- {
- "type": "stat_grid",
- "heading": "PMAY-G At a Glance",
- "items": [
- {
- "icon": "wallet",
- "value": "₹1.20 L",
- "label": "Plain areas",
- "color": "green"
- },
- {
- "icon": "wallet",
- "value": "₹1.30 L",
- "label": "Hilly / NE / LWE",
- "color": "blue"
- },
- {
- "icon": "users",
- "value": "2.92 Cr",
- "label": "Houses completed",
- "color": "amber"
- },
- {
- "icon": "trending",
- "value": "75%",
- "label": "In women's name / joint",
- "color": "purple"
- }
- ]
- },
- {
- "type": "modern_callout",
- "variant": "info",
- "title": "Scheme extended to March 2029 - 2 crore more houses sanctioned",
- "content": "The Union Cabinet has approved continuation of PMAY-G for Phase II - building an additional 2 crore pucca houses from April 2024 to March 2029. The overall cumulative target is now 4.95 crore houses. As of August 2025, 3.86 crore have been sanctioned and 2.92 crore are completed. The Phase II beneficiary list is drawn from the Awaas+ 2018 list (updated) plus the SECC 2011 Permanent Wait List."
- },
- {
- "type": "text",
- "heading": "How PMAY-G Money is Paid",
- "icon": "💰",
- "content": [
- "The ₹1.20 lakh (₹1.30 lakh for hilly/NE/LWE areas) is not paid as a single lump sum. It is released in installments, linked to construction progress - verified by geo-tagged photographs at each stage:",
- "Installment 1 - On sanction: First installment released to beneficiary's bank account after house is sanctioned and foundation work begins.",
- "Installment 2 - Lintel level: Released after construction reaches the lintel level. Geo-tagged photo proof is uploaded by the Block official via the Awaassoft mobile app.",
- "Installment 3 - Roof completion: Released after roof is laid and verified by geo-tagged photographs.",
- "Final installment - Completed house: Released after the house is fully completed with toilet (Swachh Bharat Mission convergence), kitchen, and other basic amenities. The completed house must be geo-tagged.",
- "Beyond the central PMAY-G assistance, beneficiaries can also avail: (a) ₹12,000 from Swachh Bharat Mission–Gramin for toilet construction, (b) 90-95 person-days of unskilled labour wages under MGNREGA, (c) free electricity connection under Saubhagya Scheme, (d) free LPG connection under PM Ujjwala Yojana, (e) free piped water under Jal Jeevan Mission."
- ]
- },
- {
- "type": "process_flow",
- "heading": "PMAY-G Application Process",
- "steps": [
- {
- "icon": "users",
- "title": "Gram Sabha Selection",
- "desc": "Selected from SECC / Awaas+ list"
- },
- {
- "icon": "file",
- "title": "Block Verification",
- "desc": "Officer verifies eligibility and land status"
- },
- {
- "icon": "shield",
- "title": "House Sanctioned",
- "desc": "Geo-tagged in Awaassoft app"
- },
- {
- "icon": "wallet",
- "title": "Installments Released",
- "desc": "On verified construction milestones"
- }
- ]
- },
- {
- "type": "eligibility_check",
- "heading": "Who Qualifies for PMAY-G",
- "qualify": [
- "Rural household in any state of India (Gram Panchayat area)",
- "Listed in SECC 2011 Permanent Wait List or Awaas+ 2018 list",
- "Currently houseless OR living in 0-2 room kutcha house",
- "Own the plot of land (or eligible for land assistance)",
- "Household member's Aadhaar available",
- "No member of household already has a pucca house under any government scheme"
- ],
- "disqualify": [
- "Family already owns a pucca house anywhere in India",
- "Living in an urban area / municipal corporation (apply for PMAY-U instead)",
- "Family member is government employee earning above ₹15,000/month",
- "Family member is a taxpayer (income tax or professional tax)",
- "Family owns kisan credit card with credit limit ₹50,000 or above",
- "Household member owns motorised 4-wheeler or fishing boat"
- ]
- },
- {
- "type": "icon_list",
- "heading": "Convergent Benefits (Apply Together with PMAY-G)",
- "items": [
- {
- "icon": "shield",
- "title": "Toilet - Swachh Bharat",
- "sub": "₹12,000 for in-house toilet"
- },
- {
- "icon": "users",
- "title": "Labour wages - MGNREGA",
- "sub": "90-95 person-days for construction"
- },
- {
- "icon": "wallet",
- "title": "Electricity - Saubhagya",
- "sub": "Free connection to BPL household"
- },
- {
- "icon": "trending",
- "title": "LPG - PM Ujjwala",
- "sub": "Free LPG connection for women"
- },
- {
- "icon": "file",
- "title": "Water - Jal Jeevan Mission",
- "sub": "Free piped tap connection"
- },
- {
- "icon": "shield",
- "title": "Insurance - PMSBY / PMJJBY",
- "sub": "Personal & life insurance schemes"
- }
- ]
- },
- {
- "type": "number_highlight",
- "big": "2.92 Cr",
- "title": "PMAY-G houses completed since 2016",
- "desc": "Of the cumulative target of 4.12 crore (Phase I + Phase II), 3.86 crore have been sanctioned and 2.92 crore have been completed (as of August 2025). With Phase II extension to March 2029, the total target is now 4.95 crore rural pucca houses - making PMAY-G one of the world's largest housing programmes by scale."
- },
- {
- "type": "comparison_card",
- "heading": "PMAY-G Assistance by Area Type",
- "win": {
- "name": "PLAINS AREAS",
- "amount": "₹1.20 L",
- "sub": "+ convergent benefits"
- },
- "others": [
- {
- "name": "HILLY STATES",
- "amount": "₹1.30 L",
- "sub": "Uttarakhand, HP, J&K"
- },
- {
- "name": "NORTHEAST",
- "amount": "₹1.30 L",
- "sub": "All NE states"
- },
- {
- "name": "LWE AREAS",
- "amount": "₹1.30 L",
- "sub": "Left Wing Extremism affected"
- }
- ]
- },
- {
- "type": "timeline",
- "heading": "PMAY-G - Key Milestones",
- "items": [
- {
- "date": "1985",
- "event": "Indira Awas Yojana (IAY)",
- "desc": "Predecessor scheme launched under Rural Development"
- },
- {
- "date": "20 NOV 2016",
- "event": "PMAY-G launched",
- "desc": "Replaced IAY with digital tracking, geo-tagging, time-bound milestones"
- },
- {
- "date": "MAR 2024",
- "event": "Phase I target year",
- "desc": "Original deadline for first 2.95 crore houses"
- },
- {
- "date": "APR 2024 – MAR 2029",
- "event": "Phase II announced",
- "desc": "Union Cabinet approves 2 crore additional houses"
- },
- {
- "date": "AUG 2025",
- "event": "2.92 crore completed",
- "desc": "Of 3.86 crore sanctioned cumulatively"
- },
- {
- "date": "JUN 2026",
- "event": "FY 2024-25 approvals deadline",
- "desc": "States must complete pending approvals by 30 June 2026"
- }
- ]
- },
- {
- "type": "text",
- "heading": "Common Reasons for PMAY-G Rejection or Delay",
- "icon": "⚠️",
- "content": [
- "PMAY-G applications and disbursements get delayed or rejected for these specific reasons. Watch for these:",
- "1. Not in SECC / Awaas+ list. PMAY-G selection is NOT first-come-first-served. You must be on the SECC 2011 Permanent Wait List or Awaas+ 2018 list. If you are not listed, contact your Block Development Officer to apply for inclusion in the upcoming survey.",
- "2. Land title issues. You must own the plot or have a legal title. If the land is in your father's name (deceased), get a succession certificate first.",
- "3. Already a pucca house in family. If any family member owns a pucca house anywhere in India, the family is disqualified.",
- "4. Disqualifying assets. Owning a 4-wheeler, kisan credit card with limit ₹50,000+, or being a government employee earning ₹15,000+/month all disqualify the household.",
- "5. Aadhaar-bank mismatch. The beneficiary's Aadhaar must be linked to bank account and NPCI-mapped. Otherwise installment transfers silently fail.",
- "6. Construction stalled or geo-tagging incomplete. Each milestone needs geo-tagged photo upload by Block official. If construction stalls or the geo-tag is not uploaded, the next installment is held."
- ]
- },
- {
- "type": "modern_callout",
- "variant": "warning",
- "title": "Do not pay anyone to get listed in PMAY-G",
- "content": "PMAY-G beneficiary lists are drawn from the SECC 2011 and Awaas+ 2018 survey databases. No agent or middleman can \"add your name\" - only the Gram Sabha and Block officials can. If anyone asks for ₹5,000-₹50,000 to \"get you a PMAY-G house,\" it is a scam. Approach your Block Development Office or call the helpline 1800-11-6446 to report it."
- }
- ],
- "how_to_apply": [
- {
- "step": 1,
- "title": "Check if you are in the SECC / Awaas+ list",
- "description": "PMAY-G has no separate application form for direct citizens. You must be on the SECC 2011 Permanent Wait List or Awaas+ 2018 list. Visit pmayg.nic.in or your Gram Panchayat office to check. If you are not on the list but believe you qualify, apply for inclusion via the next Awaas+ survey through your Block Development Office."
- },
- {
- "step": 2,
- "title": "Gram Sabha selection",
- "description": "Eligible households from the SECC/Awaas+ list are taken up by the Gram Sabha (village council). The Gram Sabha approves the priority list based on need (houselessness, kutcha house condition, vulnerability). Approved names go to the Block office for verification."
- },
- {
- "step": 3,
- "title": "Block verification and sanction",
- "description": "Block Development Officer verifies your eligibility (current housing status, land title, Aadhaar-bank linkage). Once verified, the house is sanctioned and you appear in the PMAY-G beneficiary list. You will receive a unique PMAY-G ID."
- },
- {
- "step": 4,
- "title": "Begin construction and receive installments",
- "description": "Start construction on your land. The first installment is released as soon as work begins (foundation). Subsequent installments come at lintel, roof, and completion stages - each verified by geo-tagged photographs via the Awaassoft mobile app. The full ₹1.20 lakh (₹1.30 lakh for hilly/NE) is released over 6-12 months from sanction. Apply for convergent benefits (toilet, LPG, water) simultaneously."
- }
- ],
- "important_alert": {
- "text": "PMAY-G beneficiary selection is from SECC 2011 / Awaas+ 2018 lists - there is no first-come-first-served application. Phase II extended to March 2029 with 2 crore additional houses sanctioned.",
- "type": "info"
- },
- "important_dates": [
- {
- "label": "Predecessor Scheme (IAY)",
- "value": "1985 - Indira Awas Yojana",
- "highlight": false
- },
- {
- "label": "PMAY-G Launched",
- "value": "20 November 2016",
- "highlight": false
- },
- {
- "label": "Phase II Period",
- "value": "April 2024 to March 2029 (2 crore houses)",
- "highlight": true
- },
- {
- "label": "Pending Approval Deadline",
- "value": "30 June 2026 (FY 2024-25 & 2025-26 targets)",
- "highlight": true
- }
- ],
- "faqs": [
- {
- "question": "How much money is given under PMAY-G?",
- "answer": "PMAY-G provides ₹1.20 lakh per house in plain areas and ₹1.30 lakh per house in hilly states, North-Eastern states, and Left Wing Extremism (LWE) affected areas. This is released in 3-4 installments tied to construction milestones - foundation, lintel level, roof completion, and final completion - each verified by geo-tagged photographs via the Awaassoft app."
- },
- {
- "question": "How can I apply for PMAY-G online?",
- "answer": "PMAY-G does not have a direct online application form for citizens. Selection is from the SECC 2011 Permanent Wait List and Awaas+ 2018 list. To check if you are listed, visit pmayg.nic.in or your Gram Panchayat office. If you are not listed but believe you qualify, request inclusion in the next Awaas+ survey through your Block Development Office."
- },
- {
- "question": "Who is eligible for PMAY-G in 2026?",
- "answer": "Eligibility requires: (1) rural household in any state, (2) listed in SECC 2011 PWL or Awaas+ 2018 list, (3) currently houseless or living in 0-2 room kutcha house, (4) family does not own a pucca house anywhere in India. Disqualifying factors include: family member is a taxpayer, government employee earning ₹15,000+/month, owns a 4-wheeler, or has a kisan credit card with limit ₹50,000+."
- },
- {
- "question": "How is PMAY-G different from PMAY-U?",
- "answer": "PMAY-Gramin (PMAY-G) is for rural areas - administered by the Ministry of Rural Development. It provides ₹1.20-1.30 lakh per house as direct assistance to build a house on your own land. PMAY-Urban (PMAY-U) is for urban areas - administered by the Ministry of Housing and Urban Affairs. It offers four verticals including interest subsidy under CLSS, beneficiary-led construction, affordable housing in partnership, and in-situ slum redevelopment."
- },
- {
- "question": "What was the Indira Awas Yojana (IAY)?",
- "answer": "Indira Awas Yojana (IAY) was the predecessor rural housing scheme of the Government of India, running from 1985 to 2016. On 20 November 2016, IAY was restructured and renamed as Pradhan Mantri Awas Yojana – Gramin (PMAY-G). The new scheme added geo-tagging, digital tracking, time-bound milestones, and convergence with toilet, electricity, LPG, and water schemes - addressing the slow execution problems of IAY."
- },
- {
- "question": "Can I get a PMAY-G house if I am landless?",
- "answer": "Yes. As of August 2025, 2,68,480 landless families have been approved for housing under PMAY-G. Landless beneficiaries are assisted with land allotment by the state government, typically through Gram Sabha-approved community plots or surplus government land. The construction assistance (₹1.20-1.30 lakh) is then given to build on that allotted land."
- },
- {
- "question": "Can the PMAY-G house be in the woman's name?",
- "answer": "Yes, and this is strongly encouraged. As of recent data, nearly 75% of houses sanctioned under PMAY-G are either registered in the woman's name or under joint ownership with her husband. This is a deliberate policy choice to strengthen women's social and financial security in rural areas. Households are encouraged to register the house in the wife's name."
- },
- {
- "question": "What additional benefits come with PMAY-G?",
- "answer": "PMAY-G is linked with convergent benefits: (1) ₹12,000 for an in-house toilet under Swachh Bharat Mission – Gramin, (2) 90-95 person-days of unskilled labour wages under MGNREGA for construction work, (3) free electricity connection under Saubhagya Scheme, (4) free LPG connection under PM Ujjwala Yojana, (5) free piped water connection under Jal Jeevan Mission, (6) insurance under PMSBY (accident) and PMJJBY (life). Apply for these simultaneously with PMAY-G."
- }
- ],
- "official_portal": {
- "name": "PMAY-G - pmayg.nic.in",
- "url": "https://pmayg.nic.in/"
- },
- "related_pages": [
- {
- "title": "PM Kisan Yojana",
- "slug": "pm-kisan",
- "tag": "Central Scheme"
- },
- {
- "title": "Jal Jeevan Mission",
- "slug": "jal-jeevan-mission",
- "tag": "Rural Water"
- },
- {
- "title": "Lakhpati Didi Yojana",
- "slug": "lakhpati-didi-yojana",
- "tag": "Women · Rural"
- }
- ],
- "category": "housing",
- "isCentral": true
+  "slug": "iay-pmay-gramin",
+  "title": "PMAY Gramin 2026: Free Pucca House Rs 1.20-1.30 Lakh",
+  "meta_description": "PMAY-G (former IAY) provides Rs 1.20 L (plains) or Rs 1.30 L (hilly/NE) per house. 2.92 Cr houses completed. Phase II extended to March 2029.",
+  "ministry": "Ministry of Rural Development",
+  "launch_year": 1985,
+  "last_reviewed": "May 2026",
+  "tags": [
+    "PMAY-G",
+    "PMAYG",
+    "rural housing",
+    "IAY",
+    "Indira Awas Yojana",
+    "pucca house"
+  ],
+  "image_suggestions": [
+    "rural pucca house",
+    "PMAY-G construction",
+    "village housing"
+  ],
+  "hero": {
+    "status": "active",
+    "one_liner": "Government of India's rural housing scheme - assistance to build a pucca (permanent) house for SECC-identified rural poor; 2.92 crore houses completed since 2016",
+    "icon": "🏠",
+    "updated_date": "May 2026",
+    "stats": [
+      {
+        "label": "Plain Areas",
+        "value": "₹1.20 Lakh"
+      },
+      {
+        "label": "Hilly / NE / LWE",
+        "value": "₹1.30 Lakh"
+      },
+      {
+        "label": "Houses Completed",
+        "value": "2.92 Crore"
+      },
+      {
+        "label": "Phase II Target",
+        "value": "Mar 2029"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "🌐",
+      "label": "PMAY-G Portal",
+      "url": "https://pmayg.nic.in/"
+    },
+    {
+      "icon": "📊",
+      "label": "Awaassoft Dashboard",
+      "url": "https://rhreporting.nic.in/"
+    },
+    {
+      "icon": "📞",
+      "label": "Helpline 1800-11-6446",
+      "url": "tel:18001116446"
+    }
+  ],
+  "what_is_it": [
+    "Pradhan Mantri Awas Yojana – Gramin (PMAY-G) is the Government of India's flagship rural housing scheme, providing financial assistance to economically weaker rural households to construct a pucca (permanent) house with basic amenities. The scheme is administered by the Ministry of Rural Development.",
+    "PMAY-G was launched on 20 November 2016, replacing the Indira Awas Yojana (IAY) which had been running since 1985. The transition aimed to make rural housing more accountable, faster, and digitally tracked - every house under PMAY-G is geo-tagged with photographs at each construction milestone.",
+    "Financial assistance under PMAY-G is ₹1.20 lakh per house in plain areas and ₹1.30 lakh per house in hilly states, Northeastern states, and Left Wing Extremism (LWE) affected areas. As of August 2025, of the cumulative target of 4.12 crore houses (Phase I + Phase II), 3.86 crore beneficiaries have been sanctioned and 2.92 crore houses have been completed. The scheme has been extended by the Union Cabinet to build an additional 2 crore rural houses from April 2024 to March 2029, taking the total target to 4.95 crore houses."
+  ],
+  "eligibility": [
+    {
+      "label": "Identified by SECC",
+      "value": "Household must be in SECC 2011 Permanent Wait List (PWL) or Awaas+ 2018 list",
+      "highlight": true
+    },
+    {
+      "label": "Houseless or Kutcha",
+      "value": "Currently houseless, or living in a 0-2 room kutcha house (mud, thatch, plastic, etc.)",
+      "highlight": true
+    },
+    {
+      "label": "Area",
+      "value": "Rural area only - Gram Panchayats. Urban housing covered separately under PMAY-U",
+      "highlight": true
+    },
+    {
+      "label": "Verification",
+      "value": "Identified by Gram Sabha; verified by Block-level officer",
+      "highlight": false
+    },
+    {
+      "label": "Documents",
+      "value": "Aadhaar, ration card, MGNREGA job card (if any), bank passbook",
+      "highlight": false
+    },
+    {
+      "label": "Land Status",
+      "value": "Must own or have valid title to the plot of land (or be given land under PMAY-G land scheme)",
+      "highlight": false
+    }
+  ],
+  "eligibility_filters": {
+    "gender": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "occupation": [
+      "any"
+    ],
+    "income_max": 9999999,
+    "category": [
+      "all"
+    ],
+    "states": [
+      "central"
+    ]
+  },
+  "extra_sections": [
+    {
+      "type": "stat_grid",
+      "heading": "PMAY-G At a Glance",
+      "items": [
+        {
+          "icon": "wallet",
+          "value": "₹1.20 L",
+          "label": "Plain areas",
+          "color": "green"
+        },
+        {
+          "icon": "wallet",
+          "value": "₹1.30 L",
+          "label": "Hilly / NE / LWE",
+          "color": "blue"
+        },
+        {
+          "icon": "users",
+          "value": "2.92 Cr",
+          "label": "Houses completed",
+          "color": "amber"
+        },
+        {
+          "icon": "trending",
+          "value": "75%",
+          "label": "In women's name / joint",
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "info",
+      "title": "Scheme extended to March 2029 - 2 crore more houses sanctioned",
+      "content": "The Union Cabinet has approved continuation of PMAY-G for Phase II - building an additional 2 crore pucca houses from April 2024 to March 2029. The overall cumulative target is now 4.95 crore houses. As of August 2025, 3.86 crore have been sanctioned and 2.92 crore are completed. The Phase II beneficiary list is drawn from the Awaas+ 2018 list (updated) plus the SECC 2011 Permanent Wait List."
+    },
+    {
+      "type": "text",
+      "heading": "How PMAY-G Money is Paid",
+      "icon": "💰",
+      "content": [
+        "The ₹1.20 lakh (₹1.30 lakh for hilly/NE/LWE areas) is not paid as a single lump sum. It is released in installments, linked to construction progress - verified by geo-tagged photographs at each stage:",
+        "Installment 1 - On sanction: First installment released to beneficiary's bank account after house is sanctioned and foundation work begins.",
+        "Installment 2 - Lintel level: Released after construction reaches the lintel level. Geo-tagged photo proof is uploaded by the Block official via the Awaassoft mobile app.",
+        "Installment 3 - Roof completion: Released after roof is laid and verified by geo-tagged photographs.",
+        "Final installment - Completed house: Released after the house is fully completed with toilet (Swachh Bharat Mission convergence), kitchen, and other basic amenities. The completed house must be geo-tagged.",
+        "Beyond the central PMAY-G assistance, beneficiaries can also avail: (a) ₹12,000 from Swachh Bharat Mission–Gramin for toilet construction, (b) 90-95 person-days of unskilled labour wages under MGNREGA, (c) free electricity connection under Saubhagya Scheme, (d) free LPG connection under PM Ujjwala Yojana, (e) free piped water under Jal Jeevan Mission."
+      ]
+    },
+    {
+      "type": "process_flow",
+      "heading": "PMAY-G Application Process",
+      "steps": [
+        {
+          "icon": "users",
+          "title": "Gram Sabha Selection",
+          "desc": "Selected from SECC / Awaas+ list"
+        },
+        {
+          "icon": "file",
+          "title": "Block Verification",
+          "desc": "Officer verifies eligibility and land status"
+        },
+        {
+          "icon": "shield",
+          "title": "House Sanctioned",
+          "desc": "Geo-tagged in Awaassoft app"
+        },
+        {
+          "icon": "wallet",
+          "title": "Installments Released",
+          "desc": "On verified construction milestones"
+        }
+      ]
+    },
+    {
+      "type": "eligibility_check",
+      "heading": "Who Qualifies for PMAY-G",
+      "qualify": [
+        "Rural household in any state of India (Gram Panchayat area)",
+        "Listed in SECC 2011 Permanent Wait List or Awaas+ 2018 list",
+        "Currently houseless OR living in 0-2 room kutcha house",
+        "Own the plot of land (or eligible for land assistance)",
+        "Household member's Aadhaar available",
+        "No member of household already has a pucca house under any government scheme"
+      ],
+      "disqualify": [
+        "Family already owns a pucca house anywhere in India",
+        "Living in an urban area / municipal corporation (apply for PMAY-U instead)",
+        "Family member is government employee earning above ₹15,000/month",
+        "Family member is a taxpayer (income tax or professional tax)",
+        "Family owns kisan credit card with credit limit ₹50,000 or above",
+        "Household member owns motorised 4-wheeler or fishing boat"
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "Convergent Benefits (Apply Together with PMAY-G)",
+      "items": [
+        {
+          "icon": "shield",
+          "title": "Toilet - Swachh Bharat",
+          "sub": "₹12,000 for in-house toilet"
+        },
+        {
+          "icon": "users",
+          "title": "Labour wages - MGNREGA",
+          "sub": "90-95 person-days for construction"
+        },
+        {
+          "icon": "wallet",
+          "title": "Electricity - Saubhagya",
+          "sub": "Free connection to BPL household"
+        },
+        {
+          "icon": "trending",
+          "title": "LPG - PM Ujjwala",
+          "sub": "Free LPG connection for women"
+        },
+        {
+          "icon": "file",
+          "title": "Water - Jal Jeevan Mission",
+          "sub": "Free piped tap connection"
+        },
+        {
+          "icon": "shield",
+          "title": "Insurance - PMSBY / PMJJBY",
+          "sub": "Personal & life insurance schemes"
+        }
+      ]
+    },
+    {
+      "type": "number_highlight",
+      "big": "2.92 Cr",
+      "title": "PMAY-G houses completed since 2016",
+      "desc": "Of the cumulative target of 4.12 crore (Phase I + Phase II), 3.86 crore have been sanctioned and 2.92 crore have been completed (as of August 2025). With Phase II extension to March 2029, the total target is now 4.95 crore rural pucca houses - making PMAY-G one of the world's largest housing programmes by scale."
+    },
+    {
+      "type": "comparison_card",
+      "heading": "PMAY-G Assistance by Area Type",
+      "win": {
+        "name": "PLAINS AREAS",
+        "amount": "₹1.20 L",
+        "sub": "+ convergent benefits"
+      },
+      "others": [
+        {
+          "name": "HILLY STATES",
+          "amount": "₹1.30 L",
+          "sub": "Uttarakhand, HP, J&K"
+        },
+        {
+          "name": "NORTHEAST",
+          "amount": "₹1.30 L",
+          "sub": "All NE states"
+        },
+        {
+          "name": "LWE AREAS",
+          "amount": "₹1.30 L",
+          "sub": "Left Wing Extremism affected"
+        }
+      ]
+    },
+    {
+      "type": "timeline",
+      "heading": "PMAY-G - Key Milestones",
+      "items": [
+        {
+          "date": "1985",
+          "event": "Indira Awas Yojana (IAY)",
+          "desc": "Predecessor scheme launched under Rural Development"
+        },
+        {
+          "date": "20 NOV 2016",
+          "event": "PMAY-G launched",
+          "desc": "Replaced IAY with digital tracking, geo-tagging, time-bound milestones"
+        },
+        {
+          "date": "MAR 2024",
+          "event": "Phase I target year",
+          "desc": "Original deadline for first 2.95 crore houses"
+        },
+        {
+          "date": "APR 2024 – MAR 2029",
+          "event": "Phase II announced",
+          "desc": "Union Cabinet approves 2 crore additional houses"
+        },
+        {
+          "date": "AUG 2025",
+          "event": "2.92 crore completed",
+          "desc": "Of 3.86 crore sanctioned cumulatively"
+        },
+        {
+          "date": "JUN 2026",
+          "event": "FY 2024-25 approvals deadline",
+          "desc": "States must complete pending approvals by 30 June 2026"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Common Reasons for PMAY-G Rejection or Delay",
+      "icon": "⚠️",
+      "content": [
+        "PMAY-G applications and disbursements get delayed or rejected for these specific reasons. Watch for these:",
+        "1. Not in SECC / Awaas+ list. PMAY-G selection is NOT first-come-first-served. You must be on the SECC 2011 Permanent Wait List or Awaas+ 2018 list. If you are not listed, contact your Block Development Officer to apply for inclusion in the upcoming survey.",
+        "2. Land title issues. You must own the plot or have a legal title. If the land is in your father's name (deceased), get a succession certificate first.",
+        "3. Already a pucca house in family. If any family member owns a pucca house anywhere in India, the family is disqualified.",
+        "4. Disqualifying assets. Owning a 4-wheeler, kisan credit card with limit ₹50,000+, or being a government employee earning ₹15,000+/month all disqualify the household.",
+        "5. Aadhaar-bank mismatch. The beneficiary's Aadhaar must be linked to bank account and NPCI-mapped. Otherwise installment transfers silently fail.",
+        "6. Construction stalled or geo-tagging incomplete. Each milestone needs geo-tagged photo upload by Block official. If construction stalls or the geo-tag is not uploaded, the next installment is held."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "warning",
+      "title": "Do not pay anyone to get listed in PMAY-G",
+      "content": "PMAY-G beneficiary lists are drawn from the SECC 2011 and Awaas+ 2018 survey databases. No agent or middleman can \"add your name\" - only the Gram Sabha and Block officials can. If anyone asks for ₹5,000-₹50,000 to \"get you a PMAY-G house,\" it is a scam. Approach your Block Development Office or call the helpline 1800-11-6446 to report it."
+    }
+  ],
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Check if you are in the SECC / Awaas+ list",
+      "description": "PMAY-G has no separate application form for direct citizens. You must be on the SECC 2011 Permanent Wait List or Awaas+ 2018 list. Visit pmayg.nic.in or your Gram Panchayat office to check. If you are not on the list but believe you qualify, apply for inclusion via the next Awaas+ survey through your Block Development Office."
+    },
+    {
+      "step": 2,
+      "title": "Gram Sabha selection",
+      "description": "Eligible households from the SECC/Awaas+ list are taken up by the Gram Sabha (village council). The Gram Sabha approves the priority list based on need (houselessness, kutcha house condition, vulnerability). Approved names go to the Block office for verification."
+    },
+    {
+      "step": 3,
+      "title": "Block verification and sanction",
+      "description": "Block Development Officer verifies your eligibility (current housing status, land title, Aadhaar-bank linkage). Once verified, the house is sanctioned and you appear in the PMAY-G beneficiary list. You will receive a unique PMAY-G ID."
+    },
+    {
+      "step": 4,
+      "title": "Begin construction and receive installments",
+      "description": "Start construction on your land. The first installment is released as soon as work begins (foundation). Subsequent installments come at lintel, roof, and completion stages - each verified by geo-tagged photographs via the Awaassoft mobile app. The full ₹1.20 lakh (₹1.30 lakh for hilly/NE) is released over 6-12 months from sanction. Apply for convergent benefits (toilet, LPG, water) simultaneously."
+    }
+  ],
+  "important_alert": {
+    "text": "PMAY-G beneficiary selection is from SECC 2011 / Awaas+ 2018 lists - there is no first-come-first-served application. Phase II extended to March 2029 with 2 crore additional houses sanctioned.",
+    "type": "info"
+  },
+  "important_dates": [
+    {
+      "label": "Predecessor Scheme (IAY)",
+      "value": "1985 - Indira Awas Yojana",
+      "highlight": false
+    },
+    {
+      "label": "PMAY-G Launched",
+      "value": "20 November 2016",
+      "highlight": false
+    },
+    {
+      "label": "Phase II Period",
+      "value": "April 2024 to March 2029 (2 crore houses)",
+      "highlight": true
+    },
+    {
+      "label": "Pending Approval Deadline",
+      "value": "30 June 2026 (FY 2024-25 & 2025-26 targets)",
+      "highlight": true
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much money is given under PMAY-G?",
+      "answer": "PMAY-G provides ₹1.20 lakh per house in plain areas and ₹1.30 lakh per house in hilly states, North-Eastern states, and Left Wing Extremism (LWE) affected areas. This is released in 3-4 installments tied to construction milestones - foundation, lintel level, roof completion, and final completion - each verified by geo-tagged photographs via the Awaassoft app."
+    },
+    {
+      "question": "How can I apply for PMAY-G online?",
+      "answer": "PMAY-G does not have a direct online application form for citizens. Selection is from the SECC 2011 Permanent Wait List and Awaas+ 2018 list. To check if you are listed, visit pmayg.nic.in or your Gram Panchayat office. If you are not listed but believe you qualify, request inclusion in the next Awaas+ survey through your Block Development Office."
+    },
+    {
+      "question": "Who is eligible for PMAY-G in 2026?",
+      "answer": "Eligibility requires: (1) rural household in any state, (2) listed in SECC 2011 PWL or Awaas+ 2018 list, (3) currently houseless or living in 0-2 room kutcha house, (4) family does not own a pucca house anywhere in India. Disqualifying factors include: family member is a taxpayer, government employee earning ₹15,000+/month, owns a 4-wheeler, or has a kisan credit card with limit ₹50,000+."
+    },
+    {
+      "question": "How is PMAY-G different from PMAY-U?",
+      "answer": "PMAY-Gramin (PMAY-G) is for rural areas - administered by the Ministry of Rural Development. It provides ₹1.20-1.30 lakh per house as direct assistance to build a house on your own land. PMAY-Urban (PMAY-U) is for urban areas - administered by the Ministry of Housing and Urban Affairs. It offers four verticals including interest subsidy under CLSS, beneficiary-led construction, affordable housing in partnership, and in-situ slum redevelopment."
+    },
+    {
+      "question": "What was the Indira Awas Yojana (IAY)?",
+      "answer": "Indira Awas Yojana (IAY) was the predecessor rural housing scheme of the Government of India, running from 1985 to 2016. On 20 November 2016, IAY was restructured and renamed as Pradhan Mantri Awas Yojana – Gramin (PMAY-G). The new scheme added geo-tagging, digital tracking, time-bound milestones, and convergence with toilet, electricity, LPG, and water schemes - addressing the slow execution problems of IAY."
+    },
+    {
+      "question": "Can I get a PMAY-G house if I am landless?",
+      "answer": "Yes. As of August 2025, 2,68,480 landless families have been approved for housing under PMAY-G. Landless beneficiaries are assisted with land allotment by the state government, typically through Gram Sabha-approved community plots or surplus government land. The construction assistance (₹1.20-1.30 lakh) is then given to build on that allotted land."
+    },
+    {
+      "question": "Can the PMAY-G house be in the woman's name?",
+      "answer": "Yes, and this is strongly encouraged. As of recent data, nearly 75% of houses sanctioned under PMAY-G are either registered in the woman's name or under joint ownership with her husband. This is a deliberate policy choice to strengthen women's social and financial security in rural areas. Households are encouraged to register the house in the wife's name."
+    },
+    {
+      "question": "What additional benefits come with PMAY-G?",
+      "answer": "PMAY-G is linked with convergent benefits: (1) ₹12,000 for an in-house toilet under Swachh Bharat Mission – Gramin, (2) 90-95 person-days of unskilled labour wages under MGNREGA for construction work, (3) free electricity connection under Saubhagya Scheme, (4) free LPG connection under PM Ujjwala Yojana, (5) free piped water connection under Jal Jeevan Mission, (6) insurance under PMSBY (accident) and PMJJBY (life). Apply for these simultaneously with PMAY-G."
+    }
+  ],
+  "official_portal": {
+    "name": "PMAY-G - pmayg.nic.in",
+    "url": "https://pmayg.nic.in/"
+  },
+  "related_pages": [
+    {
+      "title": "PM Kisan Yojana",
+      "slug": "pm-kisan",
+      "tag": "Central Scheme"
+    },
+    {
+      "title": "Jal Jeevan Mission",
+      "slug": "jal-jeevan-mission",
+      "tag": "Rural Water"
+    },
+    {
+      "title": "Lakhpati Didi Yojana",
+      "slug": "lakhpati-didi-yojana",
+      "tag": "Women · Rural"
+    }
+  ],
+  "category": "housing",
+  "isCentral": true
 }

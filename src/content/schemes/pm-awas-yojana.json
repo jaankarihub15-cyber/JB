@@ -1,652 +1,649 @@
 {
- "slug": "pm-awas-yojana",
- "title": "PM Awas Yojana (PMAY)",
- "meta_description": "PM Awas Yojana 2026 - get up to ₹2.67 lakh subsidy on home loan. Check eligibility by income, apply online, track status, and understand PMAY Urban vs Gramin.",
- "hero": {
- "status": "active",
- "one_liner": "Government subsidy of up to ₹2.67 lakh on home loans to make housing affordable for economically weaker sections and middle-income families",
- "icon": "🏠",
- "updated_date": "May 2026",
- "stats": [
- {
- "label": "Max Subsidy",
- "value": "₹2.67 Lakh"
- },
- {
- "label": "Interest Subsidy",
- "value": "3–6.5%"
- },
- {
- "label": "Houses Sanctioned",
- "value": "4.2+ Crore"
- },
- {
- "label": "Program",
- "value": "2015-2026"
- }
- ]
- },
- "quick_actions": [
- {
- "icon": "✅",
- "label": "Check Eligibility",
- "url": "https://pmaymis.gov.in/"
- },
- {
- "icon": "📝",
- "label": "Apply Online",
- "url": "https://pmaymis.gov.in/"
- },
- {
- "icon": "🔍",
- "label": "Track Application",
- "url": "https://pmaymis.gov.in/Track_Application_Status.aspx"
- },
- {
- "icon": "📞",
- "label": "Helpline: 1800-11-3388",
- "url": "tel:1800113388"
- }
- ],
- "what_is_it": [
- "Pradhan Mantri Awas Yojana (PMAY) is the government's flagship housing scheme launched on 25 June 2015 with the mission of 'Housing for All'. The scheme provides interest subsidy on home loans, making it cheaper for economically weaker sections (EWS), low-income groups (LIG), and middle-income groups (MIG) to buy or build their first home.",
- "PMAY has two components: PMAY-Urban (for urban and semi-urban areas) and PMAY-Gramin (for rural areas). Under the urban component, eligible beneficiaries get an interest subsidy of 3% to 6.5% on home loan EMIs through the Credit Linked Subsidy Scheme (CLSS). Under the rural component, beneficiaries get direct financial assistance of up to ₹1.20 lakh (plains) or ₹1.30 lakh (hilly/difficult areas) to build a house.",
- "As of March 2026, PMAY has sanctioned over 1.2 crore houses under the urban component and over 2.9 crore houses under the rural component, making it one of the largest housing programs globally. The interest subsidy alone saves beneficiaries ₹2.35–2.67 lakh over the loan tenure, making home ownership affordable for families earning ₹3–18 lakh annually.",
- "In September 2024, the government launched PMAY 2.0 with revised guidelines and additional coverage for urban poor. The new phase extended eligibility to more middle-income families and streamlined the application process through digital-first approach."
- ],
- "eligibility": [
- {
- "label": "Who can apply",
- "value": "Indian citizens who do not own a pucca house in their own or any family member's name anywhere in India",
- "highlight": true
- },
- {
- "label": "EWS Category",
- "value": "Annual household income up to ₹3 lakh - gets 6.5% interest subsidy on loans up to ₹6 lakh",
- "highlight": false
- },
- {
- "label": "LIG Category",
- "value": "Annual household income ₹3–6 lakh - gets 6.5% interest subsidy on loans up to ₹6 lakh",
- "highlight": false
- },
- {
- "label": "MIG-I Category",
- "value": "Annual household income ₹6–12 lakh - gets 4% interest subsidy on loans up to ₹9 lakh",
- "highlight": false
- },
- {
- "label": "MIG-II Category",
- "value": "Annual household income ₹12–18 lakh - gets 3% interest subsidy on loans up to ₹12 lakh",
- "highlight": false
- },
- {
- "label": "Property requirement",
- "value": "Must be a first-time home buyer - no pucca house in family's name in any part of India",
- "highlight": true
- },
- {
- "label": "Documents needed",
- "value": "Aadhaar card, income proof (ITR/salary slips), address proof, property documents, bank loan sanction letter, passport photos",
- "highlight": false
- }
- ],
- "eligibility_filters": {
- "gender": [
- "all"
- ],
- "age_min": 18,
- "age_max": 70,
- "occupation": [
- "salaried",
- "self-employed",
- "labourer",
- "farmer"
- ],
- "income_max": 1800000,
- "category": [
- "general",
- "obc",
- "sc",
- "st"
- ],
- "states": [
- "all"
- ]
- },
- "extra_sections": [
- {
- "heading": "How Much Subsidy Will You Get? - Exact Calculations",
- "icon": "💰",
- "type": "table",
- "columns": [
- "Category",
- "Income Limit",
- "Max Loan",
- "Interest Subsidy",
- "Approx. Savings",
- "Max House Size"
- ],
- "rows": [
- [
- "EWS",
- "Up to ₹3L/year",
- "₹6 lakh",
- "6.5%",
- "₹2.67 lakh",
- "Up to 30 sq.m."
- ],
- [
- "LIG",
- "₹3–6L/year",
- "₹6 lakh",
- "6.5%",
- "₹2.67 lakh",
- "Up to 60 sq.m."
- ],
- [
- "MIG-I",
- "₹6–12L/year",
- "₹9 lakh",
- "4%",
- "₹2.35 lakh",
- "Up to 160 sq.m."
- ],
- [
- "MIG-II",
- "₹12–18L/year",
- "₹12 lakh",
- "3%",
- "₹2.30 lakh",
- "Up to 200 sq.m."
- ]
- ]
- },
- {
- "heading": "",
- "type": "svg_block",
- "svg": "<svg viewBox=\"0 0 700 160\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">PM Awas Yojana subs</text><rect x=\"20\" y=\"50\" width=\"160\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"100\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#145236\">EWS</text><text x=\"100\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#145236\">Income ≤ Rs 3L</text><text x=\"100\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"#1B6B4A\">Rs 2.67L</text><rect x=\"195\" y=\"50\" width=\"160\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"275\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#1E40AF\">LIG</text><text x=\"275\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#1E40AF\">Income Rs 3-6L</text><text x=\"275\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"#2563EB\">Rs 2.67L</text><rect x=\"370\" y=\"50\" width=\"160\" height=\"90\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"450\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#C2410C\">MIG-I</text><text x=\"450\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#C2410C\">Income Rs 6-12L</text><text x=\"450\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"#EA580C\">Rs 2.35L</text><rect x=\"545\" y=\"50\" width=\"135\" height=\"90\" rx=\"10\" fill=\"#F3E8FF\" stroke=\"#7C3AED\" stroke-width=\"2\"/><text x=\"613\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#6B21A8\">MIG-II</text><text x=\"613\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B21A8\">Income Rs 12-18L</text><text x=\"613\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"#7C3AED\">Rs 2.30L</text></svg>",
- "caption": "Interest subsidy is credited upfront to your home loan account - reducing your EMI from day one. The subsidy amount ranges from Rs 2.30 lakh to Rs 2.67 lakh depending on income category."
- },
- {
- "heading": "How the Interest Subsidy Works - Real Example",
- "icon": "📊",
- "type": "text",
- "content": [
- "Let's say you're in the LIG category (income ₹4 lakh/year) and take a home loan of ₹10 lakh for 20 years at 8.5% interest from a bank.",
- "Without PMAY: Your EMI would be approximately ₹8,678/month. Total repayment over 20 years = ₹20.83 lakh.",
- "With PMAY: The government gives you 6.5% interest <a href=\"/yojana/pm-kusum-yojana\" style=\"text-decoration:underline;color:inherit\">subsidy</a> on the first ₹6 lakh of your loan. This subsidy is calculated as a lump sum (Net Present Value) and credited to your loan account upfront, effectively reducing your outstanding loan amount.",
- "The subsidy amount works out to approximately ₹2.67 lakh.",
- "After subsidy: Your effective loan reduces to about ₹7.33 lakh. Your new EMI drops to approximately ₹6,358/month.",
- "You save about ₹2,320 every month for 20 years - a total saving of ₹2.67 lakh over the loan tenure.",
- "Important: The subsidy is only on the first ₹6/₹9/₹12 lakh of the loan (depending on your category). If your loan is larger, you pay normal interest on the remaining amount."
- ]
- },
- {
- "heading": "PMAY-Urban vs PMAY-Gramin",
- "icon": "🏘️",
- "type": "table",
- "columns": [
- "Feature",
- "PMAY-Urban",
- "PMAY-Gramin"
- ],
- "rows": [
- [
- "For whom",
- "Urban/semi-urban families",
- "Rural families"
- ],
- [
- "Type of benefit",
- "Interest subsidy on home loan (CLSS)",
- "Direct cash assistance to build house"
- ],
- [
- "Amount",
- "₹2.30–2.67 lakh subsidy",
- "₹1.20 lakh (plains), ₹1.30 lakh (hilly)"
- ],
- [
- "How it works",
- "Subsidy credited to loan account, reduces EMI",
- "Money transferred in 3 installments"
- ],
- [
- "House size",
- "30–200 sq.m. depending on category",
- "Minimum 25 sq.m. with kitchen & toilet"
- ],
- [
- "Where to apply",
- "pmaymis.gov.in or through bank",
- "Through Gram Panchayat or pmayg.nic.in"
- ],
- [
- "Selection",
- "Self-selection by applying with income proof",
- "Beneficiaries selected by Gram Sabha"
- ]
- ]
- },
- {
- "heading": "PMAY-Urban vs PMAY-Gramin Housing Standards Comparison",
- "icon": "📐",
- "type": "table",
- "columns": [
- "Aspect",
- "PMAY-Urban",
- "PMAY-Gramin"
- ],
- "rows": [
- [
- "Built-up Area Limit",
- "30-200 sq.m.",
- "Minimum 25 sq.m."
- ],
- [
- "Amenities Required",
- "Variable",
- "Basic: Kitchen, Toilet, Drinking water"
- ],
- [
- "Construction Period",
- "Flexible",
- "18-24 months"
- ],
- [
- "Subsidy Type",
- "Interest subsidy on loan EMI",
- "Direct cash grant"
- ],
- [
- "Matching Contribution",
- "Not required for EWS/LIG",
- "State contributes 1:1 with central govt"
- ]
- ]
- },
- {
- "type": "svg_block",
- "heading": "Visual: PM Awas Yojana (PMAY) Key Numbers",
- "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">₹2.67 Lakh</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Max Subsidy</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">3–6.5%</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Interest Subsidy</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">4.2+ Crore</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Houses Sanctioned</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">2015-2026</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Program</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
- "caption": "Key numbers for PM Awas Yojana (PMAY)",
- "description": "Quick overview of the most important numbers and facts."
- },
- {
- "type": "text",
- "heading": "What is PM Awas Yojana and how does it work?",
- "icon": "🏠",
- "content": [
- "PM Awas <a href=\"/yojana/pm-surya-ghar\" style=\"text-decoration:underline;color:inherit\">Yojana</a> (PMAY) is the government's flagship housing scheme providing interest subsidy on home loans for first-time home buyers from economically weaker sections and middle-income groups. The scheme operates under two verticals: PMAY-Urban (for cities and towns) and PMAY-Gramin (for rural areas).",
- "The urban scheme provides Credit Linked Subsidy (CLSS) while the rural scheme provides direct construction assistance.",
- "Under PMAY-Urban CLSS, the government subsidizes home loan interest rates by 3-6.5% depending on your income category. This subsidy is calculated on a loan amount of Rs 6-12 lakh and credited upfront to your loan account - effectively reducing your principal and thereby your monthly EMI.",
- "The subsidy amount ranges from Rs 2.30 lakh to Rs 2.67 lakh.",
- "Under PMAY-Gramin, eligible rural families receive Rs 1.20 lakh (plain areas) or Rs 1.30 lakh (hilly/difficult areas) as direct financial assistance for constructing a house. The amount is transferred in 3 installments directly to the beneficiary's Aadhaar-linked bank account.",
- "An additional Rs 12,000 is available for toilet construction under Swachh Bharat Mission."
- ]
- },
- {
- "type": "text",
- "heading": "PMAY-Urban - Credit Linked Subsidy Scheme",
- "icon": "🏢",
- "content": [
- "EWS (Economically Weaker Section) - household income up to Rs 3 lakh/year: Interest subsidy of 6.5% on home loan up to Rs 6 lakh for a maximum of 20 years. Maximum subsidy amount: Rs 2,67,280.",
- "Carpet area of house: up to 30 sq meters (approximately 320 sq feet). This category gets the maximum subsidy percentage.",
- "LIG (Low Income Group) - household income Rs 3-6 lakh/year: Same interest subsidy as EWS - 6.5% on loan up to Rs 6 lakh for 20 years. Maximum subsidy: Rs 2,67,280. Carpet area: up to 60 sq meters (approximately 645 sq feet). LIG gets the same financial benefit as EWS but can buy a larger house.",
- "MIG-I (Middle Income Group I) - household income Rs 6-12 lakh/year: Interest subsidy of 4% on home loan up to Rs 9 lakh for 20 years. Maximum subsidy: Rs 2,35,068. Carpet area: up to 160 sq meters (approximately 1,720 sq feet). This covers most middle-class home buyers in tier 2-3 cities.",
- "MIG-II (Middle Income Group II) - household income Rs 12-18 lakh/year: Interest subsidy of 3% on home loan up to Rs 12 lakh for 20 years. Maximum subsidy: Rs 2,30,156.",
- "Carpet area: up to 200 sq meters (approximately 2,150 sq feet). This is the highest income category eligible for PMAY - households earning above Rs 18 lakh/year are not eligible."
- ]
- },
- {
- "type": "text",
- "heading": "How to apply for PMAY-Urban",
- "icon": "📝",
- "content": [
- "Step 1: Check eligibility at pmaymis.gov.in. Enter your Aadhaar number to verify you haven't already availed PMAY benefits.",
- "The key eligibility criteria: you must be a first-time home buyer (no family member should own a pucca house anywhere in India), your household income must fall within EWS/LIG/MIG-I/MIG-II limits, and the property must be within an urban area covered by PMAY.",
- "Step 2: Apply through your bank or housing finance company when taking a home loan. PMAY-CLSS applications are processed through primary lending institutions (PLIs) - SBI, HDFC Ltd, LIC Housing Finance, PNB Housing, ICICI Home <a href=\"/yojana/pm-vishwakarma-yojana\" style=\"text-decoration:underline;color:inherit\">Loans</a>, and other banks/HFCs.",
- "The PLI forwards your application to the Central Nodal Agency (NHB for MIG, HUDCO for EWS/LIG).",
- "Step 3: After verification, the subsidy amount is credited to your loan account within 3-6 months. The subsidy reduces your outstanding principal - your EMI drops immediately.",
- "For example, on a Rs 25 lakh home loan for EWS category, the Rs 2.67 lakh subsidy reduces effective principal to Rs 22.33 lakh, saving approximately Rs 1,800/month on EMI.",
- "Step 4: You can also apply directly at pmaymis.gov.in → Citizen Assessment → Under CLSS. Fill the online form with Aadhaar, income proof, property details, and bank loan details. After submission, take the printout to your lending bank for processing."
- ]
- },
- {
- "type": "text",
- "heading": "PMAY-Gramin - rural housing assistance",
- "icon": "🏡",
- "content": [
- "PMAY-Gramin provides Rs 1.20 lakh (plains) or Rs 1.30 lakh (hilly/difficult/IAP areas) for new house construction. The beneficiary is identified through the Socio-Economic and Caste Census (SECC) 2011 data - you cannot apply directly.",
- "Your name must appear in the PMAY-Gramin beneficiary list prepared by your Gram Panchayat based on SECC data and Gram Sabha approval.",
- "Check if you're on the beneficiary list: Visit pmayg.nic.in → Stakeholders → IAY/PMAY-G Beneficiary. Search by state, district, block, and panchayat.",
- "If your name appears, contact your BDO (Block Development Officer) to initiate the process. If your name doesn't appear despite meeting eligibility criteria, raise a complaint through the Gram Panchayat or district collector's office.",
- "Construction must follow minimum specifications: house size at least 25 sq meters (269 sq feet) with dedicated cooking space, toilet, and drinking water provision. Construction must be completed within 12 months of first installment.",
- "Progress is monitored through geo-tagged photographs uploaded to the PMAY-G portal at each stage. Third installment is released only after construction reaches roof level.",
- "Additional benefits with PMAY-G: Rs 12,000 for toilet under SBM (Swachh Bharat Mission), 90/95 person-days of unskilled labor under MGNREGA (valued at Rs 18,000-22,000), and convergence with other schemes for piped water (Jal Jeevan Mission), electricity connection (Saubhagya), and LPG connection (Ujjwala). Total effective value of the housing package: Rs 1.5-1.7 lakh."
- ]
- },
- {
- "type": "text",
- "heading": "EMI savings calculator - real numbers",
- "icon": "💰",
- "content": [
- "Scenario 1 - EWS family buying Rs 15 lakh flat: Home loan Rs 12 lakh at 8.5% for 20 years. Without PMAY: EMI Rs 10,413.",
- "With PMAY subsidy of Rs 2.67 lakh credited to loan: effective principal becomes Rs 9.33 lakh. New EMI: Rs 8,100.",
- "Monthly saving: Rs 2,313. Total savings over 20 years: Rs 5.55 lakh.",
- "The PMAY subsidy effectively gives you Rs 5.55 lakh benefit on a Rs 2.67 lakh subsidy - the multiplier effect of interest savings.",
- "Scenario 2 - MIG-I family buying Rs 40 lakh flat: Home loan Rs 32 lakh at 8.5% for 20 years. Without PMAY: EMI Rs 27,768. With PMAY subsidy of Rs 2.35 lakh: effective principal Rs 29.65 lakh. New EMI: Rs 25,728. Monthly saving: Rs 2,040. Total savings over 20 years: Rs 4.90 lakh.",
- "Scenario 3 - MIG-II family buying Rs 60 lakh flat: Home loan Rs 48 lakh at 8.5% for 20 years. Without PMAY: EMI Rs 41,652. With PMAY subsidy of Rs 2.30 lakh: effective principal Rs 45.70 lakh. New EMI: Rs 39,656. Monthly saving: Rs 1,996. Total savings: Rs 4.79 lakh.",
- "In all scenarios, the total lifetime savings exceed the subsidy amount by 1.8-2.1x - because the subsidy reduces principal which reduces interest charges compounding over 20 years. This is why PMAY-CLSS is one of the most financially impactful government schemes for the middle class."
- ]
- },
- {
- "type": "text",
- "heading": "Common reasons for PMAY rejection and how to avoid them",
- "icon": "⚠️",
- "content": [
- "Rejection reason 1: Family already owns a pucca house. PMAY is for FIRST-TIME buyers only.",
- "If any family member (husband, wife, or unmarried children) owns a pucca house anywhere in India, you're ineligible. The system cross-checks property records through Aadhaar-linked databases.",
- "Don't apply if you own a house - it's a criminal offense to make false declarations under PMAY.",
- "Rejection reason 2: Income proof doesn't match the claimed category. Banks verify income through salary slips, ITR, or bank statements.",
- "If your documented income exceeds Rs 18 lakh/year, you're ineligible for any PMAY category. Self-employed applicants must provide audited financial statements or CA-certified income certificate.",
- "Inflating or deflating income to fit a category leads to rejection.",
- "Rejection reason 3: Property carpet area exceeds the limit. EWS houses must be under 30 sq meters, LIG under 60 sq meters, MIG-I under 160 sq meters, MIG-II under 200 sq meters.",
- "Note this is CARPET area (usable floor area), not super built-up area. Builders often quote super built-up area which is 20-30% larger than carpet area.",
- "Verify carpet area in the agreement before applying.",
- "Rejection reason 4: Aadhaar not linked to bank account. PMAY subsidy is transferred through Aadhaar-based direct benefit transfer. If your Aadhaar is not linked to your home loan bank account, the subsidy cannot be credited. Link Aadhaar to your bank account BEFORE applying for PMAY.",
- "For more details, see our guide on <a href=\"/yojana/atal-pension-yojana\" style=\"text-decoration:underline;color:inherit\">Atal Pension Yojana</a>.",
- "For more details, see our guide on <a href=\"/yojana/pm-mudra-yojana\" style=\"text-decoration:underline;color:inherit\">PM Mudra Yojana</a>."
- ]
- },
- {
- "type": "svg_block",
- "heading": "Visual: Eligibility Check",
- "svg": "<svg viewBox=\"0 0 700 150\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Eligibility</text><rect x=\"20\" y=\"35\" width=\"320\" height=\"105\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"180\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1B6B4A\">Eligible</text><text x=\"40\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Who can apply</text><rect x=\"360\" y=\"35\" width=\"320\" height=\"105\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"520\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#BE185D\">Not Eligible</text><text x=\"380\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ EWS Category</text><text x=\"380\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ LIG Category</text><text x=\"380\" y=\"111\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ MIG-I Category</text><text x=\"380\" y=\"129\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ MIG-II Category</text><text x=\"380\" y=\"147\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Documents needed</text></svg>",
- "caption": "Quick eligibility check for PM Awas Yojana (PMAY)",
- "description": "Check if you meet the basic eligibility criteria before applying."
- },
- {
- "type": "text",
- "heading": "PMAY 2.0 - what's new",
- "icon": "🆕",
- "content": [
- "The government launched PMAY-Urban 2.0 in August 2024 with extended timelines and revised targets. Key changes: the scheme has been extended to December 2028 (originally ending in 2024), the government aims to build 1 crore additional urban houses, and the interest subsidy structure has been maintained with some administrative improvements.",
- "For rural areas, PMAY-Gramin targets have been revised upward - additional 2 crore houses to be built by 2029. The assistance amount may be increased in upcoming budget revisions based on construction cost inflation.",
- "States with higher construction costs (like Kerala, Goa, and northeastern states) are advocating for location-adjusted assistance amounts.",
- "A significant improvement in PMAY 2.0 is the digitization of the entire application and tracking process. Beneficiaries can now track their application status, subsidy disbursement, and construction progress online at pmaymis.gov.in.",
- "Grievance redressal has been streamlined with mandatory response timelines for banks and urban local bodies.",
- "New provision for rental housing: PMAY 2.0 includes an Affordable Rental Housing Complex (ARHC) component targeting migrant workers and urban poor who cannot afford to buy homes. Existing government-funded vacant housing complexes are being converted to rental housing at subsidized rents of Rs 1,000-3,000/month depending on city and unit size."
- ]
- },
- {
- "type": "callout",
- "variant": "tip",
- "heading": "Apply through SBI or HDFC for fastest processing",
- "content": "SBI and HDFC Ltd process the highest volume of PMAY-CLSS applications and have dedicated PMAY cells in major branches. Their subsidy disbursement time averages 3-4 months vs 6-8 months at smaller banks. When taking a home loan, ask the bank specifically about their PMAY processing timeline before committing."
- },
- {
- "type": "callout",
- "variant": "warning",
- "heading": "Beware of PMAY fraud",
- "content": "Several fake websites and agents claim to process PMAY applications for a fee of Rs 5,000-25,000. PMAY application is FREE - no government agency charges any processing fee. Apply only through your bank/HFC or directly at pmaymis.gov.in. Never share your Aadhaar OTP with unknown callers claiming to be from PMAY offices."
- },
- {
- "type": "pullquote",
- "text": "A Rs 2.67 lakh PMAY subsidy on a Rs 12 lakh home loan saves Rs 5.55 lakh over 20 years - more than double the subsidy amount. If you're buying your first home and earn under Rs 18 lakh/year, not claiming PMAY is leaving Rs 2-5 lakh on the table."
- },
- {
- "type": "text",
- "heading": "State-wise progress and best-performing states",
- "icon": "📊",
- "content": [
- "PMAY-Urban has sanctioned over 1.18 crore houses since launch, with approximately 80 lakh completed and delivered. Top-performing states: Andhra Pradesh (18 lakh houses sanctioned - highest in India), Madhya Pradesh (12 lakh), Uttar Pradesh (11 lakh), Tamil Nadu (9 lakh), and Maharashtra (8 lakh).",
- "These five states account for approximately 60% of all PMAY-Urban houses.",
- "PMAY-Gramin has completed over 2.5 crore houses since launch. Top states: West Bengal (35 lakh - highest in India), Uttar Pradesh (32 lakh), Madhya Pradesh (22 lakh), Bihar (18 lakh), and Odisha (15 lakh).",
- "Rural housing completion rates are higher than urban because the direct benefit transfer model is simpler than the CLSS loan subsidy model.",
- "States with fastest CLSS processing: Maharashtra, Karnataka, and Gujarat process urban subsidy claims within 3-4 months on average. States with slower processing: Bihar, Jharkhand, and northeastern states take 6-12 months. If you're in a slow state, apply early and follow up with your bank monthly."
- ]
- },
- {
- "type": "svg_block",
- "heading": "Visual: Application Process",
- "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><defs><marker id=\"af\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><polygon points=\"0 0, 10 3, 0 6\" fill=\"#1E40AF\"/></marker></defs><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">How to Apply</text><rect x=\"16\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"71\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Check which catego</text><line x1=\"126\" y1=\"65\" x2=\"142\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"152\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"207\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Apply online or th</text><line x1=\"262\" y1=\"65\" x2=\"278\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"288\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"343\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Submit income and </text><line x1=\"398\" y1=\"65\" x2=\"414\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"424\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"479\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Bank verifies and </text><line x1=\"534\" y1=\"65\" x2=\"550\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"560\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"615\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">Subsidy gets credi</text></svg>",
- "caption": "Step-by-step application process",
- "description": "Follow these steps to complete your application successfully."
- },
- {
- "type": "text",
- "heading": "PMAY for women - special provisions",
- "icon": "👩",
- "content": [
- "PMAY mandates that houses under EWS and LIG categories must be in the name of the female head of household, or jointly with the male member. This is a deliberate policy to ensure women have property ownership - a significant step toward women's economic empowerment.",
- "In MIG categories, women ownership is preferred but not mandatory.",
- "Women applicants receive priority processing at many banks. Some state governments offer additional stamp duty concession of 1-2% for women-owned PMAY properties.",
- "In Maharashtra, women buyers get 1% stamp duty discount. In Delhi, stamp duty for women is 4% vs 6% for men.",
- "These savings add Rs 20,000-1,00,000 depending on property value.",
- "Single women, widows, and women-headed households get additional priority under PMAY-Urban beneficiary selection. If you're a single woman looking to buy your first home, PMAY-CLSS combined with lower stamp duty makes home ownership significantly more affordable.",
- "Banks cannot discriminate against women loan applicants - if your income qualifies, PMAY subsidy is your right."
- ]
- },
- {
- "type": "text",
- "heading": "Documents checklist for PMAY application",
- "icon": "📋",
- "content": [
- "Identity proof: Aadhaar card (mandatory - PMAY uses Aadhaar-based verification). Income proof: Latest 6 months salary slips + Form 16 (salaried) OR ITR for last 2 years + CA certificate (self-employed).",
- "For EWS/LIG without formal income documentation: self-declaration of income on stamp paper attested by a gazetted officer.",
- "Property documents: Allotment letter or sale agreement from builder/seller, approved building plan from local municipal body, property tax receipt, encumbrance certificate showing no legal disputes on the property. For under-construction property: builder's RERA registration number is mandatory.",
- "Bank documents: Home loan sanction letter, loan account statement, Aadhaar-linked bank account passbook. The home loan must be from a PLI (Primary Lending Institution) registered under PMAY - all scheduled commercial banks, housing finance companies registered with NHB, and regional rural banks qualify.",
- "Additional documents for specific categories: SC/ST caste certificate for additional state-level benefits, EWS certificate from competent authority (SDM/Tehsildar), disability certificate for PwD priority, and BPL card if applicable. Keep all documents as both physical originals and scanned copies - banks often request digital submission."
- ]
- },
- {
- "type": "text",
- "heading": "PMAY vs other housing schemes",
- "icon": "⚖️",
- "content": [
- "PMAY vs state housing schemes: Several states run parallel housing schemes - Maharashtra's MHADA housing, Delhi's DDA flats, Tamil Nadu's TNHB housing. These state schemes offer subsidized housing at below-market rates but through lottery systems with limited availability.",
- "PMAY-CLSS works with ANY property purchase through ANY bank - giving you freedom to choose your preferred location and builder.",
- "PMAY vs builder discounts: Some builders offer Rs 2-3 lakh discounts for cash buyers or festival bookings. PMAY subsidy of Rs 2.30-2.67 lakh is comparable - but PMAY reduces your loan burden (saving interest over 20 years = Rs 4-5 lakh total benefit) while builder discounts only reduce the purchase price once.",
- "PMAY is financially superior in the long run.",
- "Can you use PMAY with other subsidies? Yes - PMAY-CLSS can be combined with state housing subsidies (where available), stamp duty concessions for women, and bank-specific home loan interest rate offers.",
- "Some banks offer additional 0.05-0.10% interest rate reduction for PMAY applicants. Stack all available benefits for maximum savings."
- ]
- },
- {
- "type": "text",
- "heading": "Helpline and official resources",
- "icon": "📞",
- "content": [
- "PMAY-Urban helpline: 1800-11-3377 (toll-free) or 1800-11-3388. Official portal: pmaymis.gov.in for application status, subsidy tracking, and grievance registration. For CLSS-related queries, contact NHB (National Housing Bank) toll-free at 1800-11-3377 or your lending bank's PMAY cell directly.",
- "PMAY-Gramin helpline: 1800-11-6446 (toll-free). Official portal: pmayg.nic.in for beneficiary list verification, construction progress tracking, and complaint registration. District-level queries can be directed to the Block Development Officer or District Rural Development Agency (DRDA) office."
- ]
- },
- {
- "type": "callout",
- "heading": "Official Sources & References",
- "icon": "📖",
- "variant": "info",
- "content": "Source: Ministry of Housing & Urban Affairs (PMAY-U Guidelines 2024). All information on this page has been verified against official government notifications and regulatory circulars. For the latest updates, always check the official portal."
- },
- {
- "type": "svg_block",
- "heading": "PMAY Subsidy Amounts",
- "icon": "🏠",
- "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">PM Awas Yojana Subsidy by Income Group</text><rect x=\"30\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"130\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">EWS ₹1.2-2.5L subsidy</text><rect x=\"250\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"350\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">LIG ₹1.2-2.5L subsidy</text><rect x=\"470\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"570\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#92400E\">MIG ₹2.3-2.67L subsidy</text></svg>",
- "caption": "PMAY provides interest subsidy on home loans making EMIs significantly cheaper",
- "description": "No family member should own a pucca house anywhere in India to be eligible."
- }
- ],
- "how_to_apply": [
- {
- "step": 1,
- "title": "Check which category you fall in",
- "description": "Calculate your annual household income (all earning members combined). EWS: up to ₹3L, LIG: ₹3-6L, MIG-I: ₹6-12L, MIG-II: ₹12-18L. Your category determines the subsidy amount and eligible loan size."
- },
- {
- "step": 2,
- "title": "Apply online or through your bank",
- "description": "For PMAY-Urban: Visit pmaymis.gov.in → click 'Citizen Assessment' → select 'Under CLSS' → fill the application form with Aadhaar, income details, and property information. OR apply through your home loan bank."
- },
- {
- "step": 3,
- "title": "Submit income and property documents",
- "description": "Provide: Aadhaar card, income certificate or ITR for last 2 years, salary slips, property allotment letter, approved building plan, and bank loan sanction letter."
- },
- {
- "step": 4,
- "title": "Bank verifies and forwards to NHB/HUDCO",
- "description": "Your lending bank verifies your eligibility and forwards the subsidy claim to the Central Nodal Agency (NHB for MIG, HUDCO for EWS/LIG). This verification takes 2-4 weeks."
- },
- {
- "step": 5,
- "title": "Subsidy gets credited to your loan account",
- "description": "Once approved, the subsidy amount (₹2.30-2.67 lakh) is transferred as a lump sum to your home loan account. Your outstanding loan reduces, and your EMI is recalculated at the lower amount."
- },
- {
- "step": 6,
- "title": "Track your application",
- "description": "Track status at pmaymis.gov.in → 'Track Your Assessment Status'. Enter your Aadhaar number or application ID. You can also check with your lending bank's PMAY desk."
- }
- ],
- "important_alert": {
- "text": "PMAY benefit is ONE-TIME per family. You or your family members should not already own a pucca house or have availed PMAY earlier. Fraudulent claims result in subsidy recovery + legal action. Helpline: 1800-11-3388 (toll-free).",
- "type": "warning"
- },
- "important_dates": [
- {
- "label": "PMAY-Urban CLSS",
- "value": "Active - apply through bank or pmaymis.gov.in",
- "highlight": true
- },
- {
- "label": "PMAY 2.0",
- "value": "Launched Sep 2024, extended coverage",
- "highlight": true
- },
- {
- "label": "PMAY-Gramin",
- "value": "Active - apply through Gram Panchayat",
- "highlight": false
- },
- {
- "label": "Subsidy processing time",
- "value": "2-6 months from application to credit",
- "highlight": false
- },
- {
- "label": "Helpline",
- "value": "1800-11-3388 (toll-free, Mon-Sat)",
- "highlight": false
- }
- ],
- "faqs": [
- {
- "question": "Can I get PMAY subsidy if I already have a home loan?",
- "answer": "Yes! If you took a home loan after June 2015 and haven't availed PMAY yet, you can still apply for the subsidy retroactively. Apply through your bank - the subsidy will be credited to your existing loan account, reducing your outstanding principal."
- },
- {
- "question": "Is PMAY only for first-time home buyers?",
- "answer": "Yes. You and your family members (spouse + unmarried children) should not own a pucca house anywhere in India. This is verified through property records and self-declaration. If you own a plot without a house, you may still be eligible for the construction component."
- },
- {
- "question": "Can women apply for PMAY independently?",
- "answer": "Yes, and it's encouraged. For EWS and LIG categories, the house must be in the name of a female family member or co-owned with a female member. This is a mandatory requirement. For MIG categories, there is no such mandatory female ownership requirement."
- },
- {
- "question": "What is the difference between carpet area and built-up area?",
- "answer": "Carpet area is the actual usable floor area inside the walls. Built-up area includes walls and balconies. PMAY limits are based on carpet area, which is typically 20-30% less than built-up area. Always check carpet area in your agreement."
- },
- {
- "question": "Can I use PMAY for house renovation?",
- "answer": "No. PMAY-Urban CLSS is only for purchasing or constructing a new house. It cannot be used for renovation, repair, or extension of an existing house. PMAY-Gramin does support new construction."
- },
- {
- "question": "How long does the subsidy take to get credited?",
- "answer": "Typically 2-6 months from the date of application. The process involves: bank verification (2-4 weeks), forwarding to NHB/HUDCO (1-2 weeks), NHB/HUDCO approval (2-4 weeks), and fund transfer to your bank (1-2 weeks)."
- },
- {
- "question": "What if my income increases after getting PMAY?",
- "answer": "PMAY eligibility is based on your income at the time of application. If your income increases later, the subsidy is not revoked. However, if it's discovered that you misrepresented your income at the time of application, the subsidy will be recovered."
- },
- {
- "question": "Can I get PMAY if I'm self-employed?",
- "answer": "Yes. Self-employed individuals are eligible. You need to provide income proof - last 2 years' ITR, bank statements, and a self-declaration of income. A CA certificate may also be required for higher income categories."
- },
- {
- "question": "Can I apply for PMAY if I already have a home loan?",
- "answer": "Yes - if your home loan was sanctioned after June 17, 2015 (PMAY-Urban launch date for EWS/LIG) or January 1, 2017 (for MIG-I/MIG-II), you can apply for CLSS retroactively through your lending bank. The subsidy will be credited to your existing loan account, reducing the outstanding principal."
- },
- {
- "question": "Is PMAY subsidy available for resale/second-hand property?",
- "answer": "Yes - PMAY-CLSS is available for both new construction and resale properties, as long as the property falls within the carpet area limits for your income category and you're a first-time home buyer. The home loan must be from a recognized lending institution."
- },
- {
- "question": "Can both husband and wife apply for PMAY separately?",
- "answer": "No. PMAY considers the entire family (husband, wife, and unmarried children) as one unit. Only one PMAY benefit is available per family. However, if the wife is the sole owner of the property and the sole loan applicant, women applicants get priority processing and some states offer additional stamp duty concession."
- },
- {
- "question": "What is the difference between PMAY-Urban and PMAY-Gramin?",
- "answer": "PMAY-Urban provides interest subsidy (CLSS) on home loans for buying/building houses in urban areas - you take a bank loan and the government subsidizes the interest. PMAY-Gramin provides direct cash transfer for house construction in rural areas - the government deposits money directly into your bank account in installments. Different schemes, different application processes, different eligibility criteria."
- }
- ],
- "official_portal": {
- "name": "PMAY-MIS Official Portal",
- "url": "https://pmaymis.gov.in"
- },
- "related_pages": [
- {
- "title": "PM Kisan Samman Nidhi",
- "slug": "pm-kisan",
- "tag": "Agriculture",
- "url": "/yojana/pm-kisan"
- },
- {
- "title": "Ayushman Bharat PMJAY",
- "slug": "ayushman-bharat",
- "tag": "Health",
- "url": "/yojana/ayushman-bharat"
- },
- {
- "title": "PM Mudra Yojana",
- "slug": "pm-mudra-yojana",
- "tag": "Business",
- "url": "/yojana/pm-mudra-yojana"
- },
- {
- "title": "Stand Up India",
- "slug": "stand-up-india",
- "tag": "Business",
- "url": "/yojana/stand-up-india"
- },
- {
- "title": "PM Surya Ghar (Free Solar)",
- "slug": "pm-surya-ghar",
- "tag": "Solar",
- "url": "/yojana/pm-surya-ghar"
- }
- ],
- "tags": [
- "Housing",
- "Subsidy",
- "Home Loan",
- "Urban",
- "Rural",
- "Central Government"
- ],
- "ministry": "Ministry of Housing and Urban Affairs",
- "launch_year": 2015,
- "image_suggestions": [
- "pmay-subsidy-calculation-example-chart",
- "home-construction-pmay-gramin-beneficiary",
- "pmay-urban-interest-subsidy-timeline",
- "pmay-2-application-process-flowchart",
- "ewis-lig-mig-eligibility-breakdown",
- "women-beneficiary-home-ownership-pmay"
- ],
- "last_reviewed": "May 2026",
- "category": "housing",
- "isCentral": true
+  "slug": "pm-awas-yojana",
+  "title": "PM Awas Yojana (PMAY)",
+  "meta_description": "PM Awas Yojana 2026 - get up to ₹2.67 lakh subsidy on home loan. Check eligibility by income, apply online, track status, and understand PMAY Urban vs Gramin.",
+  "hero": {
+    "status": "active",
+    "one_liner": "Government subsidy of up to ₹2.67 lakh on home loans to make housing affordable for economically weaker sections and middle-income families",
+    "icon": "🏠",
+    "updated_date": "May 2026",
+    "stats": [
+      {
+        "label": "Max Subsidy",
+        "value": "₹2.67 Lakh"
+      },
+      {
+        "label": "Interest Subsidy",
+        "value": "3–6.5%"
+      },
+      {
+        "label": "Houses Sanctioned",
+        "value": "4.2+ Crore"
+      },
+      {
+        "label": "Program",
+        "value": "2015-2026"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "✅",
+      "label": "Check Eligibility",
+      "url": "https://pmaymis.gov.in/"
+    },
+    {
+      "icon": "📝",
+      "label": "Apply Online",
+      "url": "https://pmaymis.gov.in/"
+    },
+    {
+      "icon": "🔍",
+      "label": "Track Application",
+      "url": "https://pmaymis.gov.in/Track_Application_Status.aspx"
+    },
+    {
+      "icon": "📞",
+      "label": "Helpline: 1800-11-3388",
+      "url": "tel:1800113388"
+    }
+  ],
+  "what_is_it": [
+    "Pradhan Mantri Awas Yojana (PMAY) is the government's flagship housing scheme launched on 25 June 2015 with the mission of 'Housing for All'. The scheme provides interest subsidy on home loans, making it cheaper for economically weaker sections (EWS), low-income groups (LIG), and middle-income groups (MIG) to buy or build their first home.",
+    "PMAY has two components: PMAY-Urban (for urban and semi-urban areas) and PMAY-Gramin (for rural areas). Under the urban component, eligible beneficiaries get an interest subsidy of 3% to 6.5% on home loan EMIs through the Credit Linked Subsidy Scheme (CLSS). Under the rural component, beneficiaries get direct financial assistance of up to ₹1.20 lakh (plains) or ₹1.30 lakh (hilly/difficult areas) to build a house.",
+    "As of March 2026, PMAY has sanctioned over 1.2 crore houses under the urban component and over 2.9 crore houses under the rural component, making it one of the largest housing programs globally. The interest subsidy alone saves beneficiaries ₹2.35–2.67 lakh over the loan tenure, making home ownership affordable for families earning ₹3–18 lakh annually.",
+    "In September 2024, the government launched PMAY 2.0 with revised guidelines and additional coverage for urban poor. The new phase extended eligibility to more middle-income families and streamlined the application process through digital-first approach."
+  ],
+  "eligibility": [
+    {
+      "label": "Who can apply",
+      "value": "Indian citizens who do not own a pucca house in their own or any family member's name anywhere in India",
+      "highlight": true
+    },
+    {
+      "label": "EWS Category",
+      "value": "Annual household income up to ₹3 lakh - gets 6.5% interest subsidy on loans up to ₹6 lakh",
+      "highlight": false
+    },
+    {
+      "label": "LIG Category",
+      "value": "Annual household income ₹3–6 lakh - gets 6.5% interest subsidy on loans up to ₹6 lakh",
+      "highlight": false
+    },
+    {
+      "label": "MIG-I Category",
+      "value": "Annual household income ₹6–12 lakh - gets 4% interest subsidy on loans up to ₹9 lakh",
+      "highlight": false
+    },
+    {
+      "label": "MIG-II Category",
+      "value": "Annual household income ₹12–18 lakh - gets 3% interest subsidy on loans up to ₹12 lakh",
+      "highlight": false
+    },
+    {
+      "label": "Property requirement",
+      "value": "Must be a first-time home buyer - no pucca house in family's name in any part of India",
+      "highlight": true
+    },
+    {
+      "label": "Documents needed",
+      "value": "Aadhaar card, income proof (ITR/salary slips), address proof, property documents, bank loan sanction letter, passport photos",
+      "highlight": false
+    }
+  ],
+  "eligibility_filters": {
+    "gender": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 70,
+    "occupation": [
+      "salaried",
+      "self-employed",
+      "labourer",
+      "farmer"
+    ],
+    "income_max": 1800000,
+    "category": [
+      "all"
+    ],
+    "states": [
+      "central"
+    ]
+  },
+  "extra_sections": [
+    {
+      "heading": "How Much Subsidy Will You Get? - Exact Calculations",
+      "icon": "💰",
+      "type": "table",
+      "columns": [
+        "Category",
+        "Income Limit",
+        "Max Loan",
+        "Interest Subsidy",
+        "Approx. Savings",
+        "Max House Size"
+      ],
+      "rows": [
+        [
+          "EWS",
+          "Up to ₹3L/year",
+          "₹6 lakh",
+          "6.5%",
+          "₹2.67 lakh",
+          "Up to 30 sq.m."
+        ],
+        [
+          "LIG",
+          "₹3–6L/year",
+          "₹6 lakh",
+          "6.5%",
+          "₹2.67 lakh",
+          "Up to 60 sq.m."
+        ],
+        [
+          "MIG-I",
+          "₹6–12L/year",
+          "₹9 lakh",
+          "4%",
+          "₹2.35 lakh",
+          "Up to 160 sq.m."
+        ],
+        [
+          "MIG-II",
+          "₹12–18L/year",
+          "₹12 lakh",
+          "3%",
+          "₹2.30 lakh",
+          "Up to 200 sq.m."
+        ]
+      ]
+    },
+    {
+      "heading": "",
+      "type": "svg_block",
+      "svg": "<svg viewBox=\"0 0 700 160\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">PM Awas Yojana subs</text><rect x=\"20\" y=\"50\" width=\"160\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"100\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#145236\">EWS</text><text x=\"100\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#145236\">Income ≤ Rs 3L</text><text x=\"100\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"#1B6B4A\">Rs 2.67L</text><rect x=\"195\" y=\"50\" width=\"160\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"275\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#1E40AF\">LIG</text><text x=\"275\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#1E40AF\">Income Rs 3-6L</text><text x=\"275\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"#2563EB\">Rs 2.67L</text><rect x=\"370\" y=\"50\" width=\"160\" height=\"90\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"450\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#C2410C\">MIG-I</text><text x=\"450\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#C2410C\">Income Rs 6-12L</text><text x=\"450\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"#EA580C\">Rs 2.35L</text><rect x=\"545\" y=\"50\" width=\"135\" height=\"90\" rx=\"10\" fill=\"#F3E8FF\" stroke=\"#7C3AED\" stroke-width=\"2\"/><text x=\"613\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#6B21A8\">MIG-II</text><text x=\"613\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B21A8\">Income Rs 12-18L</text><text x=\"613\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"800\" fill=\"#7C3AED\">Rs 2.30L</text></svg>",
+      "caption": "Interest subsidy is credited upfront to your home loan account - reducing your EMI from day one. The subsidy amount ranges from Rs 2.30 lakh to Rs 2.67 lakh depending on income category."
+    },
+    {
+      "heading": "How the Interest Subsidy Works - Real Example",
+      "icon": "📊",
+      "type": "text",
+      "content": [
+        "Let's say you're in the LIG category (income ₹4 lakh/year) and take a home loan of ₹10 lakh for 20 years at 8.5% interest from a bank.",
+        "Without PMAY: Your EMI would be approximately ₹8,678/month. Total repayment over 20 years = ₹20.83 lakh.",
+        "With PMAY: The government gives you 6.5% interest <a href=\"/yojana/pm-kusum-yojana\" style=\"text-decoration:underline;color:inherit\">subsidy</a> on the first ₹6 lakh of your loan. This subsidy is calculated as a lump sum (Net Present Value) and credited to your loan account upfront, effectively reducing your outstanding loan amount.",
+        "The subsidy amount works out to approximately ₹2.67 lakh.",
+        "After subsidy: Your effective loan reduces to about ₹7.33 lakh. Your new EMI drops to approximately ₹6,358/month.",
+        "You save about ₹2,320 every month for 20 years - a total saving of ₹2.67 lakh over the loan tenure.",
+        "Important: The subsidy is only on the first ₹6/₹9/₹12 lakh of the loan (depending on your category). If your loan is larger, you pay normal interest on the remaining amount."
+      ]
+    },
+    {
+      "heading": "PMAY-Urban vs PMAY-Gramin",
+      "icon": "🏘️",
+      "type": "table",
+      "columns": [
+        "Feature",
+        "PMAY-Urban",
+        "PMAY-Gramin"
+      ],
+      "rows": [
+        [
+          "For whom",
+          "Urban/semi-urban families",
+          "Rural families"
+        ],
+        [
+          "Type of benefit",
+          "Interest subsidy on home loan (CLSS)",
+          "Direct cash assistance to build house"
+        ],
+        [
+          "Amount",
+          "₹2.30–2.67 lakh subsidy",
+          "₹1.20 lakh (plains), ₹1.30 lakh (hilly)"
+        ],
+        [
+          "How it works",
+          "Subsidy credited to loan account, reduces EMI",
+          "Money transferred in 3 installments"
+        ],
+        [
+          "House size",
+          "30–200 sq.m. depending on category",
+          "Minimum 25 sq.m. with kitchen & toilet"
+        ],
+        [
+          "Where to apply",
+          "pmaymis.gov.in or through bank",
+          "Through Gram Panchayat or pmayg.nic.in"
+        ],
+        [
+          "Selection",
+          "Self-selection by applying with income proof",
+          "Beneficiaries selected by Gram Sabha"
+        ]
+      ]
+    },
+    {
+      "heading": "PMAY-Urban vs PMAY-Gramin Housing Standards Comparison",
+      "icon": "📐",
+      "type": "table",
+      "columns": [
+        "Aspect",
+        "PMAY-Urban",
+        "PMAY-Gramin"
+      ],
+      "rows": [
+        [
+          "Built-up Area Limit",
+          "30-200 sq.m.",
+          "Minimum 25 sq.m."
+        ],
+        [
+          "Amenities Required",
+          "Variable",
+          "Basic: Kitchen, Toilet, Drinking water"
+        ],
+        [
+          "Construction Period",
+          "Flexible",
+          "18-24 months"
+        ],
+        [
+          "Subsidy Type",
+          "Interest subsidy on loan EMI",
+          "Direct cash grant"
+        ],
+        [
+          "Matching Contribution",
+          "Not required for EWS/LIG",
+          "State contributes 1:1 with central govt"
+        ]
+      ]
+    },
+    {
+      "type": "svg_block",
+      "heading": "Visual: PM Awas Yojana (PMAY) Key Numbers",
+      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">₹2.67 Lakh</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Max Subsidy</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">3–6.5%</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Interest Subsidy</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">4.2+ Crore</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Houses Sanctioned</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">2015-2026</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Program</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
+      "caption": "Key numbers for PM Awas Yojana (PMAY)",
+      "description": "Quick overview of the most important numbers and facts."
+    },
+    {
+      "type": "text",
+      "heading": "What is PM Awas Yojana and how does it work?",
+      "icon": "🏠",
+      "content": [
+        "PM Awas <a href=\"/yojana/pm-surya-ghar\" style=\"text-decoration:underline;color:inherit\">Yojana</a> (PMAY) is the government's flagship housing scheme providing interest subsidy on home loans for first-time home buyers from economically weaker sections and middle-income groups. The scheme operates under two verticals: PMAY-Urban (for cities and towns) and PMAY-Gramin (for rural areas).",
+        "The urban scheme provides Credit Linked Subsidy (CLSS) while the rural scheme provides direct construction assistance.",
+        "Under PMAY-Urban CLSS, the government subsidizes home loan interest rates by 3-6.5% depending on your income category. This subsidy is calculated on a loan amount of Rs 6-12 lakh and credited upfront to your loan account - effectively reducing your principal and thereby your monthly EMI.",
+        "The subsidy amount ranges from Rs 2.30 lakh to Rs 2.67 lakh.",
+        "Under PMAY-Gramin, eligible rural families receive Rs 1.20 lakh (plain areas) or Rs 1.30 lakh (hilly/difficult areas) as direct financial assistance for constructing a house. The amount is transferred in 3 installments directly to the beneficiary's Aadhaar-linked bank account.",
+        "An additional Rs 12,000 is available for toilet construction under Swachh Bharat Mission."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "PMAY-Urban - Credit Linked Subsidy Scheme",
+      "icon": "🏢",
+      "content": [
+        "EWS (Economically Weaker Section) - household income up to Rs 3 lakh/year: Interest subsidy of 6.5% on home loan up to Rs 6 lakh for a maximum of 20 years. Maximum subsidy amount: Rs 2,67,280.",
+        "Carpet area of house: up to 30 sq meters (approximately 320 sq feet). This category gets the maximum subsidy percentage.",
+        "LIG (Low Income Group) - household income Rs 3-6 lakh/year: Same interest subsidy as EWS - 6.5% on loan up to Rs 6 lakh for 20 years. Maximum subsidy: Rs 2,67,280. Carpet area: up to 60 sq meters (approximately 645 sq feet). LIG gets the same financial benefit as EWS but can buy a larger house.",
+        "MIG-I (Middle Income Group I) - household income Rs 6-12 lakh/year: Interest subsidy of 4% on home loan up to Rs 9 lakh for 20 years. Maximum subsidy: Rs 2,35,068. Carpet area: up to 160 sq meters (approximately 1,720 sq feet). This covers most middle-class home buyers in tier 2-3 cities.",
+        "MIG-II (Middle Income Group II) - household income Rs 12-18 lakh/year: Interest subsidy of 3% on home loan up to Rs 12 lakh for 20 years. Maximum subsidy: Rs 2,30,156.",
+        "Carpet area: up to 200 sq meters (approximately 2,150 sq feet). This is the highest income category eligible for PMAY - households earning above Rs 18 lakh/year are not eligible."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "How to apply for PMAY-Urban",
+      "icon": "📝",
+      "content": [
+        "Step 1: Check eligibility at pmaymis.gov.in. Enter your Aadhaar number to verify you haven't already availed PMAY benefits.",
+        "The key eligibility criteria: you must be a first-time home buyer (no family member should own a pucca house anywhere in India), your household income must fall within EWS/LIG/MIG-I/MIG-II limits, and the property must be within an urban area covered by PMAY.",
+        "Step 2: Apply through your bank or housing finance company when taking a home loan. PMAY-CLSS applications are processed through primary lending institutions (PLIs) - SBI, HDFC Ltd, LIC Housing Finance, PNB Housing, ICICI Home <a href=\"/yojana/pm-vishwakarma-yojana\" style=\"text-decoration:underline;color:inherit\">Loans</a>, and other banks/HFCs.",
+        "The PLI forwards your application to the Central Nodal Agency (NHB for MIG, HUDCO for EWS/LIG).",
+        "Step 3: After verification, the subsidy amount is credited to your loan account within 3-6 months. The subsidy reduces your outstanding principal - your EMI drops immediately.",
+        "For example, on a Rs 25 lakh home loan for EWS category, the Rs 2.67 lakh subsidy reduces effective principal to Rs 22.33 lakh, saving approximately Rs 1,800/month on EMI.",
+        "Step 4: You can also apply directly at pmaymis.gov.in → Citizen Assessment → Under CLSS. Fill the online form with Aadhaar, income proof, property details, and bank loan details. After submission, take the printout to your lending bank for processing."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "PMAY-Gramin - rural housing assistance",
+      "icon": "🏡",
+      "content": [
+        "PMAY-Gramin provides Rs 1.20 lakh (plains) or Rs 1.30 lakh (hilly/difficult/IAP areas) for new house construction. The beneficiary is identified through the Socio-Economic and Caste Census (SECC) 2011 data - you cannot apply directly.",
+        "Your name must appear in the PMAY-Gramin beneficiary list prepared by your Gram Panchayat based on SECC data and Gram Sabha approval.",
+        "Check if you're on the beneficiary list: Visit pmayg.nic.in → Stakeholders → IAY/PMAY-G Beneficiary. Search by state, district, block, and panchayat.",
+        "If your name appears, contact your BDO (Block Development Officer) to initiate the process. If your name doesn't appear despite meeting eligibility criteria, raise a complaint through the Gram Panchayat or district collector's office.",
+        "Construction must follow minimum specifications: house size at least 25 sq meters (269 sq feet) with dedicated cooking space, toilet, and drinking water provision. Construction must be completed within 12 months of first installment.",
+        "Progress is monitored through geo-tagged photographs uploaded to the PMAY-G portal at each stage. Third installment is released only after construction reaches roof level.",
+        "Additional benefits with PMAY-G: Rs 12,000 for toilet under SBM (Swachh Bharat Mission), 90/95 person-days of unskilled labor under MGNREGA (valued at Rs 18,000-22,000), and convergence with other schemes for piped water (Jal Jeevan Mission), electricity connection (Saubhagya), and LPG connection (Ujjwala). Total effective value of the housing package: Rs 1.5-1.7 lakh."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "EMI savings calculator - real numbers",
+      "icon": "💰",
+      "content": [
+        "Scenario 1 - EWS family buying Rs 15 lakh flat: Home loan Rs 12 lakh at 8.5% for 20 years. Without PMAY: EMI Rs 10,413.",
+        "With PMAY subsidy of Rs 2.67 lakh credited to loan: effective principal becomes Rs 9.33 lakh. New EMI: Rs 8,100.",
+        "Monthly saving: Rs 2,313. Total savings over 20 years: Rs 5.55 lakh.",
+        "The PMAY subsidy effectively gives you Rs 5.55 lakh benefit on a Rs 2.67 lakh subsidy - the multiplier effect of interest savings.",
+        "Scenario 2 - MIG-I family buying Rs 40 lakh flat: Home loan Rs 32 lakh at 8.5% for 20 years. Without PMAY: EMI Rs 27,768. With PMAY subsidy of Rs 2.35 lakh: effective principal Rs 29.65 lakh. New EMI: Rs 25,728. Monthly saving: Rs 2,040. Total savings over 20 years: Rs 4.90 lakh.",
+        "Scenario 3 - MIG-II family buying Rs 60 lakh flat: Home loan Rs 48 lakh at 8.5% for 20 years. Without PMAY: EMI Rs 41,652. With PMAY subsidy of Rs 2.30 lakh: effective principal Rs 45.70 lakh. New EMI: Rs 39,656. Monthly saving: Rs 1,996. Total savings: Rs 4.79 lakh.",
+        "In all scenarios, the total lifetime savings exceed the subsidy amount by 1.8-2.1x - because the subsidy reduces principal which reduces interest charges compounding over 20 years. This is why PMAY-CLSS is one of the most financially impactful government schemes for the middle class."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Common reasons for PMAY rejection and how to avoid them",
+      "icon": "⚠️",
+      "content": [
+        "Rejection reason 1: Family already owns a pucca house. PMAY is for FIRST-TIME buyers only.",
+        "If any family member (husband, wife, or unmarried children) owns a pucca house anywhere in India, you're ineligible. The system cross-checks property records through Aadhaar-linked databases.",
+        "Don't apply if you own a house - it's a criminal offense to make false declarations under PMAY.",
+        "Rejection reason 2: Income proof doesn't match the claimed category. Banks verify income through salary slips, ITR, or bank statements.",
+        "If your documented income exceeds Rs 18 lakh/year, you're ineligible for any PMAY category. Self-employed applicants must provide audited financial statements or CA-certified income certificate.",
+        "Inflating or deflating income to fit a category leads to rejection.",
+        "Rejection reason 3: Property carpet area exceeds the limit. EWS houses must be under 30 sq meters, LIG under 60 sq meters, MIG-I under 160 sq meters, MIG-II under 200 sq meters.",
+        "Note this is CARPET area (usable floor area), not super built-up area. Builders often quote super built-up area which is 20-30% larger than carpet area.",
+        "Verify carpet area in the agreement before applying.",
+        "Rejection reason 4: Aadhaar not linked to bank account. PMAY subsidy is transferred through Aadhaar-based direct benefit transfer. If your Aadhaar is not linked to your home loan bank account, the subsidy cannot be credited. Link Aadhaar to your bank account BEFORE applying for PMAY.",
+        "For more details, see our guide on <a href=\"/yojana/atal-pension-yojana\" style=\"text-decoration:underline;color:inherit\">Atal Pension Yojana</a>.",
+        "For more details, see our guide on <a href=\"/yojana/pm-mudra-yojana\" style=\"text-decoration:underline;color:inherit\">PM Mudra Yojana</a>."
+      ]
+    },
+    {
+      "type": "svg_block",
+      "heading": "Visual: Eligibility Check",
+      "svg": "<svg viewBox=\"0 0 700 150\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Eligibility</text><rect x=\"20\" y=\"35\" width=\"320\" height=\"105\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"180\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1B6B4A\">Eligible</text><text x=\"40\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Who can apply</text><rect x=\"360\" y=\"35\" width=\"320\" height=\"105\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"520\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#BE185D\">Not Eligible</text><text x=\"380\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ EWS Category</text><text x=\"380\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ LIG Category</text><text x=\"380\" y=\"111\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ MIG-I Category</text><text x=\"380\" y=\"129\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ MIG-II Category</text><text x=\"380\" y=\"147\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Documents needed</text></svg>",
+      "caption": "Quick eligibility check for PM Awas Yojana (PMAY)",
+      "description": "Check if you meet the basic eligibility criteria before applying."
+    },
+    {
+      "type": "text",
+      "heading": "PMAY 2.0 - what's new",
+      "icon": "🆕",
+      "content": [
+        "The government launched PMAY-Urban 2.0 in August 2024 with extended timelines and revised targets. Key changes: the scheme has been extended to December 2028 (originally ending in 2024), the government aims to build 1 crore additional urban houses, and the interest subsidy structure has been maintained with some administrative improvements.",
+        "For rural areas, PMAY-Gramin targets have been revised upward - additional 2 crore houses to be built by 2029. The assistance amount may be increased in upcoming budget revisions based on construction cost inflation.",
+        "States with higher construction costs (like Kerala, Goa, and northeastern states) are advocating for location-adjusted assistance amounts.",
+        "A significant improvement in PMAY 2.0 is the digitization of the entire application and tracking process. Beneficiaries can now track their application status, subsidy disbursement, and construction progress online at pmaymis.gov.in.",
+        "Grievance redressal has been streamlined with mandatory response timelines for banks and urban local bodies.",
+        "New provision for rental housing: PMAY 2.0 includes an Affordable Rental Housing Complex (ARHC) component targeting migrant workers and urban poor who cannot afford to buy homes. Existing government-funded vacant housing complexes are being converted to rental housing at subsidized rents of Rs 1,000-3,000/month depending on city and unit size."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "heading": "Apply through SBI or HDFC for fastest processing",
+      "content": "SBI and HDFC Ltd process the highest volume of PMAY-CLSS applications and have dedicated PMAY cells in major branches. Their subsidy disbursement time averages 3-4 months vs 6-8 months at smaller banks. When taking a home loan, ask the bank specifically about their PMAY processing timeline before committing."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "heading": "Beware of PMAY fraud",
+      "content": "Several fake websites and agents claim to process PMAY applications for a fee of Rs 5,000-25,000. PMAY application is FREE - no government agency charges any processing fee. Apply only through your bank/HFC or directly at pmaymis.gov.in. Never share your Aadhaar OTP with unknown callers claiming to be from PMAY offices."
+    },
+    {
+      "type": "pullquote",
+      "text": "A Rs 2.67 lakh PMAY subsidy on a Rs 12 lakh home loan saves Rs 5.55 lakh over 20 years - more than double the subsidy amount. If you're buying your first home and earn under Rs 18 lakh/year, not claiming PMAY is leaving Rs 2-5 lakh on the table."
+    },
+    {
+      "type": "text",
+      "heading": "State-wise progress and best-performing states",
+      "icon": "📊",
+      "content": [
+        "PMAY-Urban has sanctioned over 1.18 crore houses since launch, with approximately 80 lakh completed and delivered. Top-performing states: Andhra Pradesh (18 lakh houses sanctioned - highest in India), Madhya Pradesh (12 lakh), Uttar Pradesh (11 lakh), Tamil Nadu (9 lakh), and Maharashtra (8 lakh).",
+        "These five states account for approximately 60% of all PMAY-Urban houses.",
+        "PMAY-Gramin has completed over 2.5 crore houses since launch. Top states: West Bengal (35 lakh - highest in India), Uttar Pradesh (32 lakh), Madhya Pradesh (22 lakh), Bihar (18 lakh), and Odisha (15 lakh).",
+        "Rural housing completion rates are higher than urban because the direct benefit transfer model is simpler than the CLSS loan subsidy model.",
+        "States with fastest CLSS processing: Maharashtra, Karnataka, and Gujarat process urban subsidy claims within 3-4 months on average. States with slower processing: Bihar, Jharkhand, and northeastern states take 6-12 months. If you're in a slow state, apply early and follow up with your bank monthly."
+      ]
+    },
+    {
+      "type": "svg_block",
+      "heading": "Visual: Application Process",
+      "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><defs><marker id=\"af\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><polygon points=\"0 0, 10 3, 0 6\" fill=\"#1E40AF\"/></marker></defs><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">How to Apply</text><rect x=\"16\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"71\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Check which catego</text><line x1=\"126\" y1=\"65\" x2=\"142\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"152\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"207\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Apply online or th</text><line x1=\"262\" y1=\"65\" x2=\"278\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"288\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"343\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Submit income and </text><line x1=\"398\" y1=\"65\" x2=\"414\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"424\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"479\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Bank verifies and </text><line x1=\"534\" y1=\"65\" x2=\"550\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"560\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"615\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">Subsidy gets credi</text></svg>",
+      "caption": "Step-by-step application process",
+      "description": "Follow these steps to complete your application successfully."
+    },
+    {
+      "type": "text",
+      "heading": "PMAY for women - special provisions",
+      "icon": "👩",
+      "content": [
+        "PMAY mandates that houses under EWS and LIG categories must be in the name of the female head of household, or jointly with the male member. This is a deliberate policy to ensure women have property ownership - a significant step toward women's economic empowerment.",
+        "In MIG categories, women ownership is preferred but not mandatory.",
+        "Women applicants receive priority processing at many banks. Some state governments offer additional stamp duty concession of 1-2% for women-owned PMAY properties.",
+        "In Maharashtra, women buyers get 1% stamp duty discount. In Delhi, stamp duty for women is 4% vs 6% for men.",
+        "These savings add Rs 20,000-1,00,000 depending on property value.",
+        "Single women, widows, and women-headed households get additional priority under PMAY-Urban beneficiary selection. If you're a single woman looking to buy your first home, PMAY-CLSS combined with lower stamp duty makes home ownership significantly more affordable.",
+        "Banks cannot discriminate against women loan applicants - if your income qualifies, PMAY subsidy is your right."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Documents checklist for PMAY application",
+      "icon": "📋",
+      "content": [
+        "Identity proof: Aadhaar card (mandatory - PMAY uses Aadhaar-based verification). Income proof: Latest 6 months salary slips + Form 16 (salaried) OR ITR for last 2 years + CA certificate (self-employed).",
+        "For EWS/LIG without formal income documentation: self-declaration of income on stamp paper attested by a gazetted officer.",
+        "Property documents: Allotment letter or sale agreement from builder/seller, approved building plan from local municipal body, property tax receipt, encumbrance certificate showing no legal disputes on the property. For under-construction property: builder's RERA registration number is mandatory.",
+        "Bank documents: Home loan sanction letter, loan account statement, Aadhaar-linked bank account passbook. The home loan must be from a PLI (Primary Lending Institution) registered under PMAY - all scheduled commercial banks, housing finance companies registered with NHB, and regional rural banks qualify.",
+        "Additional documents for specific categories: SC/ST caste certificate for additional state-level benefits, EWS certificate from competent authority (SDM/Tehsildar), disability certificate for PwD priority, and BPL card if applicable. Keep all documents as both physical originals and scanned copies - banks often request digital submission."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "PMAY vs other housing schemes",
+      "icon": "⚖️",
+      "content": [
+        "PMAY vs state housing schemes: Several states run parallel housing schemes - Maharashtra's MHADA housing, Delhi's DDA flats, Tamil Nadu's TNHB housing. These state schemes offer subsidized housing at below-market rates but through lottery systems with limited availability.",
+        "PMAY-CLSS works with ANY property purchase through ANY bank - giving you freedom to choose your preferred location and builder.",
+        "PMAY vs builder discounts: Some builders offer Rs 2-3 lakh discounts for cash buyers or festival bookings. PMAY subsidy of Rs 2.30-2.67 lakh is comparable - but PMAY reduces your loan burden (saving interest over 20 years = Rs 4-5 lakh total benefit) while builder discounts only reduce the purchase price once.",
+        "PMAY is financially superior in the long run.",
+        "Can you use PMAY with other subsidies? Yes - PMAY-CLSS can be combined with state housing subsidies (where available), stamp duty concessions for women, and bank-specific home loan interest rate offers.",
+        "Some banks offer additional 0.05-0.10% interest rate reduction for PMAY applicants. Stack all available benefits for maximum savings."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Helpline and official resources",
+      "icon": "📞",
+      "content": [
+        "PMAY-Urban helpline: 1800-11-3377 (toll-free) or 1800-11-3388. Official portal: pmaymis.gov.in for application status, subsidy tracking, and grievance registration. For CLSS-related queries, contact NHB (National Housing Bank) toll-free at 1800-11-3377 or your lending bank's PMAY cell directly.",
+        "PMAY-Gramin helpline: 1800-11-6446 (toll-free). Official portal: pmayg.nic.in for beneficiary list verification, construction progress tracking, and complaint registration. District-level queries can be directed to the Block Development Officer or District Rural Development Agency (DRDA) office."
+      ]
+    },
+    {
+      "type": "callout",
+      "heading": "Official Sources & References",
+      "icon": "📖",
+      "variant": "info",
+      "content": "Source: Ministry of Housing & Urban Affairs (PMAY-U Guidelines 2024). All information on this page has been verified against official government notifications and regulatory circulars. For the latest updates, always check the official portal."
+    },
+    {
+      "type": "svg_block",
+      "heading": "PMAY Subsidy Amounts",
+      "icon": "🏠",
+      "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">PM Awas Yojana Subsidy by Income Group</text><rect x=\"30\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"130\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">EWS ₹1.2-2.5L subsidy</text><rect x=\"250\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"350\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">LIG ₹1.2-2.5L subsidy</text><rect x=\"470\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"570\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#92400E\">MIG ₹2.3-2.67L subsidy</text></svg>",
+      "caption": "PMAY provides interest subsidy on home loans making EMIs significantly cheaper",
+      "description": "No family member should own a pucca house anywhere in India to be eligible."
+    }
+  ],
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Check which category you fall in",
+      "description": "Calculate your annual household income (all earning members combined). EWS: up to ₹3L, LIG: ₹3-6L, MIG-I: ₹6-12L, MIG-II: ₹12-18L. Your category determines the subsidy amount and eligible loan size."
+    },
+    {
+      "step": 2,
+      "title": "Apply online or through your bank",
+      "description": "For PMAY-Urban: Visit pmaymis.gov.in → click 'Citizen Assessment' → select 'Under CLSS' → fill the application form with Aadhaar, income details, and property information. OR apply through your home loan bank."
+    },
+    {
+      "step": 3,
+      "title": "Submit income and property documents",
+      "description": "Provide: Aadhaar card, income certificate or ITR for last 2 years, salary slips, property allotment letter, approved building plan, and bank loan sanction letter."
+    },
+    {
+      "step": 4,
+      "title": "Bank verifies and forwards to NHB/HUDCO",
+      "description": "Your lending bank verifies your eligibility and forwards the subsidy claim to the Central Nodal Agency (NHB for MIG, HUDCO for EWS/LIG). This verification takes 2-4 weeks."
+    },
+    {
+      "step": 5,
+      "title": "Subsidy gets credited to your loan account",
+      "description": "Once approved, the subsidy amount (₹2.30-2.67 lakh) is transferred as a lump sum to your home loan account. Your outstanding loan reduces, and your EMI is recalculated at the lower amount."
+    },
+    {
+      "step": 6,
+      "title": "Track your application",
+      "description": "Track status at pmaymis.gov.in → 'Track Your Assessment Status'. Enter your Aadhaar number or application ID. You can also check with your lending bank's PMAY desk."
+    }
+  ],
+  "important_alert": {
+    "text": "PMAY benefit is ONE-TIME per family. You or your family members should not already own a pucca house or have availed PMAY earlier. Fraudulent claims result in subsidy recovery + legal action. Helpline: 1800-11-3388 (toll-free).",
+    "type": "warning"
+  },
+  "important_dates": [
+    {
+      "label": "PMAY-Urban CLSS",
+      "value": "Active - apply through bank or pmaymis.gov.in",
+      "highlight": true
+    },
+    {
+      "label": "PMAY 2.0",
+      "value": "Launched Sep 2024, extended coverage",
+      "highlight": true
+    },
+    {
+      "label": "PMAY-Gramin",
+      "value": "Active - apply through Gram Panchayat",
+      "highlight": false
+    },
+    {
+      "label": "Subsidy processing time",
+      "value": "2-6 months from application to credit",
+      "highlight": false
+    },
+    {
+      "label": "Helpline",
+      "value": "1800-11-3388 (toll-free, Mon-Sat)",
+      "highlight": false
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Can I get PMAY subsidy if I already have a home loan?",
+      "answer": "Yes! If you took a home loan after June 2015 and haven't availed PMAY yet, you can still apply for the subsidy retroactively. Apply through your bank - the subsidy will be credited to your existing loan account, reducing your outstanding principal."
+    },
+    {
+      "question": "Is PMAY only for first-time home buyers?",
+      "answer": "Yes. You and your family members (spouse + unmarried children) should not own a pucca house anywhere in India. This is verified through property records and self-declaration. If you own a plot without a house, you may still be eligible for the construction component."
+    },
+    {
+      "question": "Can women apply for PMAY independently?",
+      "answer": "Yes, and it's encouraged. For EWS and LIG categories, the house must be in the name of a female family member or co-owned with a female member. This is a mandatory requirement. For MIG categories, there is no such mandatory female ownership requirement."
+    },
+    {
+      "question": "What is the difference between carpet area and built-up area?",
+      "answer": "Carpet area is the actual usable floor area inside the walls. Built-up area includes walls and balconies. PMAY limits are based on carpet area, which is typically 20-30% less than built-up area. Always check carpet area in your agreement."
+    },
+    {
+      "question": "Can I use PMAY for house renovation?",
+      "answer": "No. PMAY-Urban CLSS is only for purchasing or constructing a new house. It cannot be used for renovation, repair, or extension of an existing house. PMAY-Gramin does support new construction."
+    },
+    {
+      "question": "How long does the subsidy take to get credited?",
+      "answer": "Typically 2-6 months from the date of application. The process involves: bank verification (2-4 weeks), forwarding to NHB/HUDCO (1-2 weeks), NHB/HUDCO approval (2-4 weeks), and fund transfer to your bank (1-2 weeks)."
+    },
+    {
+      "question": "What if my income increases after getting PMAY?",
+      "answer": "PMAY eligibility is based on your income at the time of application. If your income increases later, the subsidy is not revoked. However, if it's discovered that you misrepresented your income at the time of application, the subsidy will be recovered."
+    },
+    {
+      "question": "Can I get PMAY if I'm self-employed?",
+      "answer": "Yes. Self-employed individuals are eligible. You need to provide income proof - last 2 years' ITR, bank statements, and a self-declaration of income. A CA certificate may also be required for higher income categories."
+    },
+    {
+      "question": "Can I apply for PMAY if I already have a home loan?",
+      "answer": "Yes - if your home loan was sanctioned after June 17, 2015 (PMAY-Urban launch date for EWS/LIG) or January 1, 2017 (for MIG-I/MIG-II), you can apply for CLSS retroactively through your lending bank. The subsidy will be credited to your existing loan account, reducing the outstanding principal."
+    },
+    {
+      "question": "Is PMAY subsidy available for resale/second-hand property?",
+      "answer": "Yes - PMAY-CLSS is available for both new construction and resale properties, as long as the property falls within the carpet area limits for your income category and you're a first-time home buyer. The home loan must be from a recognized lending institution."
+    },
+    {
+      "question": "Can both husband and wife apply for PMAY separately?",
+      "answer": "No. PMAY considers the entire family (husband, wife, and unmarried children) as one unit. Only one PMAY benefit is available per family. However, if the wife is the sole owner of the property and the sole loan applicant, women applicants get priority processing and some states offer additional stamp duty concession."
+    },
+    {
+      "question": "What is the difference between PMAY-Urban and PMAY-Gramin?",
+      "answer": "PMAY-Urban provides interest subsidy (CLSS) on home loans for buying/building houses in urban areas - you take a bank loan and the government subsidizes the interest. PMAY-Gramin provides direct cash transfer for house construction in rural areas - the government deposits money directly into your bank account in installments. Different schemes, different application processes, different eligibility criteria."
+    }
+  ],
+  "official_portal": {
+    "name": "PMAY-MIS Official Portal",
+    "url": "https://pmaymis.gov.in"
+  },
+  "related_pages": [
+    {
+      "title": "PM Kisan Samman Nidhi",
+      "slug": "pm-kisan",
+      "tag": "Agriculture",
+      "url": "/yojana/pm-kisan"
+    },
+    {
+      "title": "Ayushman Bharat PMJAY",
+      "slug": "ayushman-bharat",
+      "tag": "Health",
+      "url": "/yojana/ayushman-bharat"
+    },
+    {
+      "title": "PM Mudra Yojana",
+      "slug": "pm-mudra-yojana",
+      "tag": "Business",
+      "url": "/yojana/pm-mudra-yojana"
+    },
+    {
+      "title": "Stand Up India",
+      "slug": "stand-up-india",
+      "tag": "Business",
+      "url": "/yojana/stand-up-india"
+    },
+    {
+      "title": "PM Surya Ghar (Free Solar)",
+      "slug": "pm-surya-ghar",
+      "tag": "Solar",
+      "url": "/yojana/pm-surya-ghar"
+    }
+  ],
+  "tags": [
+    "Housing",
+    "Subsidy",
+    "Home Loan",
+    "Urban",
+    "Rural",
+    "Central Government"
+  ],
+  "ministry": "Ministry of Housing and Urban Affairs",
+  "launch_year": 2015,
+  "image_suggestions": [
+    "pmay-subsidy-calculation-example-chart",
+    "home-construction-pmay-gramin-beneficiary",
+    "pmay-urban-interest-subsidy-timeline",
+    "pmay-2-application-process-flowchart",
+    "ewis-lig-mig-eligibility-breakdown",
+    "women-beneficiary-home-ownership-pmay"
+  ],
+  "last_reviewed": "May 2026",
+  "category": "housing",
+  "isCentral": true
 }

@@ -1,532 +1,528 @@
 {
- "slug": "e-shram-card",
- "title": "e-Shram Card Registration",
- "meta_description": "e-Shram Card 2026 - free registration for unorganized workers. Get ₹2 lakh accident insurance, access to PM schemes, social security. How to register.",
- "hero": {
- "status": "active",
- "one_liner": "Digital identity card for India's 30+ crore unorganized workers - free ₹2 lakh accident insurance and gateway to all government welfare schemes",
- "icon": "👷",
- "updated_date": "May 2026",
- "stats": [
- {
- "label": "Registrations",
- "value": "30+ Crore"
- },
- {
- "label": "Insurance",
- "value": "₹2 Lakh free"
- },
- {
- "label": "Cost",
- "value": "₹0 (Free)"
- },
- {
- "label": "Portal",
- "value": "eshram.gov.in"
- }
- ]
- },
- "quick_actions": [
- {
- "icon": "📝",
- "label": "Register Online",
- "url": "https://eshram.gov.in/"
- },
- {
- "icon": "✅",
- "label": "Check Status",
- "url": "https://eshram.gov.in/"
- },
- {
- "icon": "📱",
- "label": "Download Card",
- "url": "https://eshram.gov.in/"
- },
- {
- "icon": "📞",
- "label": "Helpline: 14434",
- "url": "tel:14434"
- }
- ],
- "what_is_it": [
- "e-Shram is a national portal launched on 26 August 2021 by the Ministry of Labour and Employment to create a comprehensive database of unorganized sector workers in India. An 'e-Shram card' is a digital identity card issued to registered workers, containing a unique 12-digit Universal Account Number (UAN) that works as a portable social security ID across India.",
- "India has an estimated 38 crore unorganized sector workers - including construction workers, street vendors, domestic workers, agricultural laborers, gig workers (Zomato/Swiggy/Ola/Uber drivers), rickshaw pullers, fishermen, mid-day meal workers, ASHA workers, and anyone who doesn't have a formal employer-provided social security (EPF/ESIC). e-Shram is designed to bring all these workers into a formal identity system so they can access government welfare schemes.",
- "Every registered e-Shram worker automatically gets ₹2 lakh accidental death and disability insurance under PM Suraksha Bima Yojana - completely free. The government pays the ₹20 annual premium on behalf of e-Shram workers. Beyond insurance, e-Shram registration helps workers access PM Kisan, PM Awas, Ayushman Bharat, NREGA, skill development programs, and state-specific schemes for unorganized workers.",
- "As of 2026, over 30 crore workers have registered on the e-Shram portal, making it the world's largest database of unorganized workers. Registration is completely free and can be done online (self-registration), at CSC centers, or through state labour department offices."
- ],
- "eligibility": [
- {
- "label": "Who can register",
- "value": "Any unorganized worker aged 16-59 who is NOT a member of EPFO or ESIC (formal sector social security)",
- "highlight": true
- },
- {
- "label": "Unorganized worker definition",
- "value": "Home-based workers, self-employed, wage workers in unorganized sector - construction, agriculture, domestic work, street vending, gig work, fishing, beedi rolling, etc.",
- "highlight": false
- },
- {
- "label": "Age",
- "value": "16 to 59 years",
- "highlight": false
- },
- {
- "label": "Income limit",
- "value": "Monthly income should not exceed ₹15,000",
- "highlight": false
- },
- {
- "label": "NOT eligible",
- "value": "Workers already registered with EPFO (Employees' Provident Fund Organization) or ESIC (Employees' State Insurance Corporation)",
- "highlight": true
- },
- {
- "label": "Documents needed",
- "value": "Aadhaar card (mandatory), mobile number linked to Aadhaar, bank account details, and IFSC code",
- "highlight": false
- }
- ],
- "eligibility_filters": {
- "gender": [
- "all"
- ],
- "age_min": 16,
- "age_max": 59,
- "occupation": [
- "labourer",
- "self-employed",
- "farmer"
- ],
- "income_max": 200000,
- "category": [
- "general",
- "obc",
- "sc",
- "st"
- ],
- "states": [
- "all"
- ]
- },
- "extra_sections": [
- {
- "heading": "Benefits of e-Shram Card",
- "icon": "🎁",
- "type": "text",
- "content": [
- "1. Free ₹2 lakh accident insurance: Every registered e-Shram worker gets PM Suraksha Bima <a href=\"/yojana/atal-pension-yojana\" style=\"text-decoration:underline;color:inherit\">Yojana</a> cover free - the government pays the ₹20 premium.",
- "₹2 lakh for accidental death, ₹2 lakh for permanent total disability, ₹1 lakh for partial disability.",
- "2. Access to government schemes: e-Shram <a href=\"/yojana/up-shramik-card\" style=\"text-decoration:underline;color:inherit\">registration</a> acts as a gateway to: PM Shram Yogi Maandhan (pension), Ayushman Bharat (health insurance), PM Awas Yojana (housing), Ration Card benefits, PM Garib Kalyan Yojana (free food grains), skill development under PMKVY, and various state-level welfare schemes for unorganized workers.",
- "3. Portable social security: The 12-digit UAN is valid across India.",
- "If a worker migrates from UP to Maharashtra, their e-<a href=\"/yojana/pm-shram-yogi-maandhan\" style=\"text-decoration:underline;color:inherit\">Shram</a> registration and benefits travel with them. No need to re-register in the new state.",
- "4. Emergency relief: During natural disasters, pandemics (like COVID-19), or economic crises, the government uses the e-Shram database to identify and directly transfer emergency relief to unorganized workers.",
- "During COVID, registered workers received ₹1,000-3,000 direct transfers in several states.",
- "5. Skill mapping: The registration collects data on the worker's skill type, which helps the government design targeted skill development programs and connect workers with relevant opportunities through the National Career Service portal.",
- "6. Digital identity: For many unorganized workers who lack formal employment proof, the e-Shram card serves as a recognized identity document for accessing financial services, opening bank accounts, and applying for other government schemes."
- ]
- },
- {
- "heading": "",
- "type": "svg_block",
- "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">e-Shram benefits linked to your UAN card</text><rect x=\"30\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"130\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#145236\">Rs 2 lakh</text><text x=\"130\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">accidental insurance</text><rect x=\"250\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"350\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1E40AF\">Social Security</text><text x=\"350\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">PM-SYM, PMJJBY, PMSB</text><rect x=\"470\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"570\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#C2410C\">National Database</text><text x=\"570\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#C2410C\">for welfare targetin</text></svg>",
- "caption": "e-Shram portal creates a national database of unorganized workers. Your 12-digit UAN (Universal Account Number) links you to social security schemes, insurance, and government welfare benefits."
- },
- {
- "heading": "How to Register Online - Step by Step",
- "icon": "📱",
- "type": "steps",
- "steps": [
- {
- "step": 1,
- "title": "Visit eshram.gov.in",
- "description": "Open the e-Shram portal on your phone or computer. Click on 'Register on e-Shram'. You can also register through the 'e-Shram' mobile app available on Google Play Store."
- },
- {
- "step": 2,
- "title": "Enter Aadhaar number and captcha",
- "description": "Enter your 12-digit Aadhaar number and the image captcha. Click 'Send OTP'. An OTP will be sent to your Aadhaar-linked mobile number."
- },
- {
- "step": 3,
- "title": "Verify OTP",
- "description": "Enter the OTP received on your mobile. If your mobile is not linked to Aadhaar, you'll need to visit a CSC center for biometric verification instead."
- },
- {
- "step": 4,
- "title": "Fill registration details",
- "description": "Your basic details (name, DOB, gender, address) will be auto-filled from Aadhaar. Additionally fill: occupation type (select from the list - construction, agriculture, domestic work, etc.), monthly income, bank account number and IFSC code, nominee details for insurance."
- },
- {
- "step": 5,
- "title": "Upload photo and submit",
- "description": "A photo from your Aadhaar will be used, or you can upload a new one. Review all details and submit. Your e-Shram UAN (Universal Account Number) is generated instantly."
- },
- {
- "step": 6,
- "title": "Download your e-Shram card",
- "description": "After successful registration, download your e-Shram card as a PDF. It contains your 12-digit UAN, photo, name, occupation, and a QR code. Save it on your phone and also take a printout. The card is valid across India."
- }
- ]
- },
- {
- "heading": "Who Qualifies as an 'Unorganized Worker'?",
- "icon": "📋",
- "type": "text",
- "content": [
- "The following occupations qualify for e-Shram registration (this is a representative list, not exhaustive):",
- "Construction & Building: Masons, carpenters, plumbers, electricians, painters, laborers at construction sites, brick kiln workers, stone quarry workers.",
- "Agriculture & Allied: Agricultural laborers, sharecroppers, fishermen, beekeepers, livestock workers, forest produce collectors (not land-owning farmers - they should register for PM Kisan instead).",
- "Domestic & Services: Domestic helpers (maids, cooks, drivers), watchmen/security guards, gardeners, laundry workers (dhobis), barbers/salon workers.",
- "Street Vendors & Self-Employed: Street food vendors, auto/rickshaw drivers, taxi drivers, newspaper vendors, cobblers, cycle repair mechanics, tailors, potters.",
- "Gig & Platform Workers: Delivery partners (Zomato, Swiggy, Dunzo), ride-hailing drivers (Ola, Uber), freelance workers on digital platforms.",
- "Others: Beedi rollers, migrant workers, ASHA workers, mid-day meal cooks, anganwadi helpers, rag pickers, sanitation workers, and any worker without formal employment contract or EPFO/ESIC coverage."
- ]
- },
- {
- "type": "svg_block",
- "heading": "Visual: e-Shram Card Registrat Key Numbers",
- "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">30+ Crore</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Registrations</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">₹2 Lakh free</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Insurance</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">₹0 (Free)</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Cost</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">eshram.gov.in</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Portal</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
- "caption": "Key numbers for e-Shram Card Registration",
- "description": "Quick overview of the most important numbers and facts."
- },
- {
- "type": "text",
- "heading": "What is e-Shram card and who needs it?",
- "icon": "🏛️",
- "content": [
- "e-Shram is the government's national database for unorganized sector workers - the 38 crore Indians who work without formal employment contracts, EPF, ESI, or any employer-provided social security. This includes construction workers, domestic helpers, street vendors, rickshaw pullers, agricultural laborers, gig workers (Swiggy/Zomato delivery), home-based workers (tailors, weavers, bidi rollers), and migrant laborers.",
- "When you register on e-Shram (eshram.gov.in), you receive a 12-digit Universal Account Number (UAN) and an e-Shram card. This card serves as your identity as an unorganized worker - making you visible to the government for welfare scheme targeting.",
- "Before e-Shram, the government had no data on who these 38 crore workers were, where they lived, or what work they did. Without data, targeted welfare delivery was impossible.",
- "The e-Shram card is NOT a replacement for Aadhaar - it's a supplementary identity specifically for labor welfare. Think of it as your 'worker ID' that connects you to social security schemes, insurance benefits, skill development programs, and emergency relief (like the Rs 1,000 direct transfer to e-Shram cardholders during COVID lockdowns in some states)."
- ]
- },
- {
- "type": "text",
- "heading": "Benefits of e-Shram registration",
- "icon": "💰",
- "content": [
- "Accidental insurance: Every e-Shram cardholder gets Rs 2 lakh accidental death insurance and Rs 1 lakh partial disability insurance under PMSBY (Pradhan Mantri Suraksha Bima <a href=\"/yojana/pm-awas-yojana\" style=\"text-decoration:underline;color:inherit\">Yojana</a>). The annual premium of Rs 12 is paid by the government - completely free for you.",
- "This insurance is automatically linked when you register on e-Shram. Just keep your Aadhaar-linked bank account active.",
- "Social security scheme access: e-Shram registration makes you eligible for PM-SYM (Rs 3,000/month pension after 60), PMJJBY (Rs 2 lakh life insurance at Rs 436/year), PMSBY (Rs 2 lakh accident cover at Rs 20/year), and Atal Pension <a href=\"/yojana/pm-kusum-yojana\" style=\"text-decoration:underline;color:inherit\">Yojana</a> (Rs 1,000-5,000 monthly pension). These schemes are available to all citizens, but e-Shram registration fast-tracks your enrollment through pre-verified data.",
- "Emergency relief: During natural disasters, pandemics, or economic crises, the government can directly transfer relief money to e-Shram cardholders. During COVID-19, several state governments transferred Rs 1,000-2,000 to e-Shram registered workers.",
- "This database enables instant, targeted relief without the delays of traditional beneficiary identification.",
- "Skill development and employment: e-Shram data is used by the Ministry of Skill Development to identify workers for free skill training programs (PMKVY, Seekho Kamao). The National Career Service (NCS) portal links e-Shram profiles to job opportunities - employers looking for construction workers, drivers, domestic staff, and other blue-collar workers can find registered e-Shram cardholders."
- ]
- },
- {
- "type": "text",
- "heading": "How to register for e-Shram card - step by step",
- "icon": "📝",
- "content": [
- "Step 1: Visit eshram.gov.in on your mobile or computer. Click 'Register on e-Shram'. Enter your Aadhaar-linked mobile number. You'll receive an OTP - enter it to proceed. If your mobile number is not linked to Aadhaar, visit your nearest Aadhaar center to update it first.",
- "Step 2: Enter your Aadhaar number. The portal fetches your name, date of birth, gender, and address from the Aadhaar database.",
- "Verify the pre-filled information. If any detail is incorrect (wrong name spelling, old address), update it on Aadhaar first at myaadhaar.uidai.gov.in before continuing e-Shram registration.",
- "Step 3: Fill additional details - occupation type (select from 400+ occupation categories like construction worker, domestic helper, street vendor, auto driver, tailor, agricultural laborer), monthly income range, skill set, education level, bank account details, and nominee information. Select your occupation carefully - it determines which specific welfare schemes you're matched with.",
- "Step 4: Upload bank account details - account number, IFSC code, and bank name. This must be YOUR personal account linked to Aadhaar.",
- "All benefits (insurance claims, relief payments, scheme transfers) are credited to this account. Verify the account details twice - wrong account numbers are the #1 reason for failed benefit transfers.",
- "Step 5: Submit the form. Your e-Shram UAN (Universal Account Number) is generated instantly.",
- "Download or screenshot your e-Shram card from the portal. The card shows your UAN, name, photo (from Aadhaar), occupation, and QR code.",
- "You can also get a printed card from any Common Service Centre (CSC) for Rs 20."
- ]
- },
- {
- "type": "text",
- "heading": "Who is eligible and who is NOT",
- "icon": "📋",
- "content": [
- "Eligible: Any Indian citizen aged 16-59 working in the unorganized sector. This includes: construction workers, street vendors, domestic workers, agricultural laborers, gig workers, home-based workers, migrant workers, fishermen, auto/taxi drivers, barbers, washermen, cobblers, and any worker without formal employment contract or social security coverage (EPF/ESI).",
- "NOT eligible: Workers already registered under EPF (Employees Provident Fund), ESI (Employees State Insurance), or NPS (government employees). If you have an EPF UAN from your employer, you're considered an organized sector worker and cannot register on e-Shram.",
- "Government employees, PSU employees, and corporate employees with formal contracts are excluded.",
- "Gray area - gig workers: Delivery partners (Swiggy, Zomato, Amazon), ride-hailing drivers (Ola, Uber), and platform workers are technically eligible for e-Shram since these platforms don't provide EPF/ESI. The Code on Social Security 2020 recognizes gig workers as a distinct category.",
- "If you're a gig worker without EPF, register on e-Shram - you're exactly the kind of worker this database was designed for.",
- "Income ceiling: No maximum income limit for registration. A self-employed plumber earning Rs 50,000/month is as eligible as a daily-wage laborer earning Rs 300/day.",
- "The criteria is 'unorganized sector' (no formal social security), not 'low income'. However, for premium-based schemes like PM-SYM, the income ceiling of Rs 15,000/month applies separately."
- ]
- },
- {
- "type": "text",
- "heading": "e-Shram card for migrant workers - special relevance",
- "icon": "🚶",
- "content": [
- "India has approximately 10 crore internal migrant workers - people who move from their home state to another state for employment. Construction workers from Bihar working in Delhi, agricultural laborers from UP in Punjab, domestic workers from Jharkhand in Mumbai.",
- "Before e-Shram, these migrants were invisible to BOTH their home state and work state governments.",
- "e-Shram solves this by creating a portable national identity. Your e-Shram card is valid across all states - it's not state-specific like ration cards or domicile certificates.",
- "When you move from Bihar to Delhi for work, your e-Shram registration travels with you. If Delhi announces relief for construction workers, your e-Shram card proves you're a construction worker eligible for the benefit.",
- "During COVID-19 lockdowns, millions of migrant workers were stranded without identity proof, ration cards, or bank accounts in their work states. The government couldn't identify or help them. e-Shram was designed to prevent this from happening again - your UAN identifies you as a worker regardless of which state you're currently in.",
- "Ration card portability under One Nation One Ration Card (ONORC) is linked to e-Shram - migrant workers can access PDS rations in any state using their Aadhaar. While ONORC works through Aadhaar alone, e-Shram adds the occupational layer - proving you're a worker who migrated for employment, which qualifies you for additional state-level migrant welfare schemes."
- ]
- },
- {
- "type": "svg_block",
- "heading": "Visual: Eligibility Check",
- "svg": "<svg viewBox=\"0 0 700 132\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Eligibility</text><rect x=\"20\" y=\"35\" width=\"320\" height=\"87\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"180\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1B6B4A\">Eligible</text><text x=\"40\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Who can register</text><text x=\"40\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ NOT eligible</text><rect x=\"360\" y=\"35\" width=\"320\" height=\"87\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"520\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#BE185D\">Not Eligible</text><text x=\"380\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Unorganized worker d</text><text x=\"380\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Age</text><text x=\"380\" y=\"111\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Income limit</text><text x=\"380\" y=\"129\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Documents needed</text></svg>",
- "caption": "Quick eligibility check for e-Shram Card Registrat",
- "description": "Check if you meet the basic eligibility criteria before applying."
- },
- {
- "type": "text",
- "heading": "e-Shram vs EPF vs ESI - understanding the difference",
- "icon": "⚖️",
- "content": [
- "EPF (Employees Provident Fund): For organized sector workers earning up to Rs 15,000/month basic salary. Employer and employee both contribute 12% of basic salary.",
- "Creates a retirement corpus. Managed by EPFO.",
- "Only for workers with formal employment in companies with 20+ employees. If you have EPF, you're NOT eligible for e-Shram.",
- "ESI (Employees State Insurance): For organized sector workers earning up to Rs 21,000/month. Provides medical, maternity, disability, and unemployment benefits. Managed by ESIC. Available only in areas with ESI hospitals/dispensaries. If you have ESI, you're NOT eligible for e-Shram.",
- "e-Shram: For the 38 crore workers who have NEITHER EPF nor ESI - the unorganized sector. Provides basic accidental insurance, links to pension schemes (PM-SYM, APY), and creates a database for welfare targeting.",
- "No employer-employee contribution model - benefits are government-funded or premium-based (Rs 12-436/year for different insurance schemes).",
- "The gap e-Shram fills: Before e-Shram, organized workers (20% of workforce) had EPF+ESI social security. Unorganized workers (80%) had NOTHING - no pension, no insurance, no medical cover, no unemployment support. e-Shram is the first step toward extending social security to ALL workers, not just those lucky enough to work in formal companies."
- ]
- },
- {
- "type": "text",
- "heading": "State-wise e-Shram implementation and additional benefits",
- "icon": "📊",
- "content": [
- "As of 2026, approximately 30 crore workers have registered on e-Shram. Top states by registration: Uttar Pradesh (7.5 crore), Bihar (4.5 crore), West Bengal (3.8 crore), Madhya Pradesh (2.5 crore), and Odisha (2.2 crore).",
- "These 5 states account for 67% of all registrations - reflecting their large unorganized workforce populations.",
- "Several states have linked additional benefits to e-Shram registration. UP: E-Shram cardholders received Rs 500-1,000 direct transfer during COVID second wave.",
- "Bihar: Registration linked to state building and construction worker welfare board benefits. West Bengal: E-Shram data used for targeting Lakshmi Bhandar scheme beneficiaries.",
- "Odisha: KALIA scheme cross-references e-Shram data for landless agricultural worker identification.",
- "States with lowest registration relative to their unorganized workforce: Tamil Nadu, Kerala, Karnataka - where state-level worker welfare boards (construction worker board, auto-driver union welfare, domestic worker associations) already provide social security. Workers in these states may not see additional value in e-Shram registration if state schemes already cover them.",
- "The government's vision: Use e-Shram data to eventually implement a universal social security system for all workers - organized and unorganized. The Code on Social Security 2020 lays the legal framework.",
- "E-Shram provides the data infrastructure. Once fully operational, every Indian worker would have a single social security account covering health insurance, pension, maternity benefits, and unemployment support."
- ]
- },
- {
- "type": "callout",
- "variant": "tip",
- "heading": "Register even if you don't need benefits right now",
- "content": "E-Shram registration takes 5 minutes and costs nothing. Even if you don't need the Rs 2 lakh insurance or pension schemes today, being in the database ensures you receive future benefits automatically - emergency relief during disasters, skill training opportunities, employment matching, and any new welfare schemes the government announces for unorganized workers. Register now at eshram.gov.in - your future self will thank you."
- },
- {
- "type": "callout",
- "variant": "warning",
- "heading": "Don't pay anyone for e-Shram registration",
- "content": "Registration is 100% FREE on eshram.gov.in. Several agents and cyber cafes charge Rs 100-500 for registration. If you can't do it yourself on a smartphone, visit any Common Service Centre (CSC) - the CSC operator earns Rs 20 from the government for each registration, so they should not charge YOU any fee. If they demand money, report to the district labor office."
- },
- {
- "type": "svg_block",
- "heading": "Visual: Application Process",
- "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><defs><marker id=\"af\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><polygon points=\"0 0, 10 3, 0 6\" fill=\"#1E40AF\"/></marker></defs><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">How to Apply</text><rect x=\"20\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"90\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Self-registration </text><line x1=\"160\" y1=\"65\" x2=\"180\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"190\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"260\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">At CSC center (if </text><line x1=\"330\" y1=\"65\" x2=\"350\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"360\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"430\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Through state labo</text><line x1=\"500\" y1=\"65\" x2=\"520\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"530\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"600\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Download e-Shram c</text></svg>",
- "caption": "Step-by-step application process",
- "description": "Follow these steps to complete your application successfully."
- },
- {
- "type": "pullquote",
- "text": "38 crore Indians work without EPF, ESI, or any social security. They build our houses, cook our food, drive our autos, and clean our streets - yet have zero safety net when they fall sick, get injured, or grow old. E-Shram doesn't solve this completely, but it makes these invisible workers visible to the state. Visibility is the first step to justice."
- },
- {
- "type": "text",
- "heading": "How e-Shram data is used by the government",
- "icon": "📊",
- "content": [
- "The Ministry of Labour and Employment uses e-Shram data for policy planning - understanding the geographic distribution, age profile, occupation mix, and income levels of India's unorganized workforce. This data drives decisions like where to build new skill training centers, which occupations need targeted welfare programs, and how to allocate emergency relief budgets.",
- "State governments use e-Shram data for targeting beneficiaries of state schemes. When Odisha wants to identify construction workers for its building worker welfare board benefits, it cross-references e-Shram registrations with occupation code 'construction.' When UP wants to transfer emergency funds to street vendors during a flood, it identifies e-Shram registrations in affected districts with occupation code 'street vendor.'",
- "The National Career Service (NCS) - ncs.gov.in - uses e-Shram worker profiles for employment matching. Companies registered on NCS can search for workers by skill, location, and occupation.",
- "A Delhi construction company looking for masons can find e-Shram registered masons in NCR. This creates a formal job market for informal workers - something that previously existed only through word-of-mouth and labor contractors.",
- "Insurance claim processing: When an e-Shram cardholder meets with an accident, the Rs 2 lakh insurance claim is processed through the linked PMSBY policy. The nominee visits the bank with death/disability certificate and e-Shram card - the bank verifies UAN in the database and processes the claim.",
- "Without e-Shram registration, the same worker's family would need to navigate a complex claim process with multiple documents."
- ]
- },
- {
- "type": "text",
- "heading": "Common issues and troubleshooting",
- "icon": "🔧",
- "content": [
- "Issue: OTP not received during registration. Solution: Ensure your mobile number is linked to Aadhaar (check at myaadhaar.uidai.gov.in).",
- "If linked but OTP fails, try at a different time (server load is lower early morning and late evening). Clear browser cache or try a different browser.",
- "If the issue persists for 24+ hours, visit your nearest CSC for assisted registration.",
- "Issue: Bank account not accepted during registration. Solution: The bank account must be in YOUR name (not joint or family) and linked to Aadhaar.",
- "Visit your bank branch to verify Aadhaar linkage. If you have a Jan Dhan account, it works perfectly - no minimum balance needed.",
- "Ensure the IFSC code matches your specific branch (not just the bank - each branch has a unique IFSC).",
- "Issue: Already registered under EPF but want e-Shram. Solution: If you previously had EPF but your current job doesn't provide it (e.g., you left a formal job and now work as a freelancer or informal worker), you may be eligible for e-Shram.",
- "The system checks active EPF status - if your EPF account is inactive for 3+ years, you might clear the eligibility check. Contact your nearest district labor office for guidance.",
- "Issue: Want to update occupation or bank details. Solution: Log in to eshram.gov.in with your UAN and Aadhaar.",
- "Click 'Update Profile.' Change your occupation category, bank account, mobile number, or nominee details. Updates take 24-48 hours to reflect.",
- "You can update as many times as needed - if you change jobs from domestic worker to street vendor, update your occupation category for appropriate scheme matching."
- ]
- },
- {
- "type": "callout",
- "heading": "Official Sources & References",
- "icon": "📖",
- "variant": "info",
- "content": "Source: Ministry of Labour & Employment (eshram.gov.in). All information on this page has been verified against official government notifications and regulatory circulars. For the latest updates, always check the official portal."
- },
- {
- "type": "svg_block",
- "heading": "e-Shram Card Benefits",
- "icon": "👷",
- "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">e-Shram Card Linked Benefits</text><rect x=\"20\" y=\"50\" width=\"155\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#1B6B4A\">₹2L accident cover</text><rect x=\"185\" y=\"50\" width=\"155\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"262\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#1E40AF\">Pension linkage APY</text><rect x=\"350\" y=\"50\" width=\"155\" height=\"35\" rx=\"8\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"427\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#92400E\">Ration card priority</text><rect x=\"515\" y=\"50\" width=\"160\" height=\"35\" rx=\"8\" fill=\"#F3E8FF\" stroke=\"#7C3AED\" stroke-width=\"2\"/><text x=\"595\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#5B21B6\">Scheme convergence</text></svg>",
- "caption": "e-Shram card is your single identity for accessing all unorganized worker welfare schemes",
- "description": "Registration is free and can be done at any CSC center with Aadhaar."
- }
- ],
- "how_to_apply": [
- {
- "step": 1,
- "title": "Self-registration at eshram.gov.in or e-Shram app",
- "description": "Requires Aadhaar card and mobile number linked to Aadhaar. Takes 10-15 minutes."
- },
- {
- "step": 2,
- "title": "At CSC center (if mobile not linked to Aadhaar)",
- "description": "Visit any Common Service Centre. They do biometric verification. Fee: free to ₹20 maximum."
- },
- {
- "step": 3,
- "title": "Through state labour department",
- "description": "Some states have set up special camps and desks for e-Shram registration. Check with your district labour office."
- },
- {
- "step": 4,
- "title": "Download e-Shram card immediately after registration",
- "description": "Card is generated instantly. Download PDF, save on phone, and take printout for records."
- }
- ],
- "important_alert": {
- "text": "e-Shram registration is completely FREE. If any CSC operator or agent charges more than ₹20 (printing cost), it is overcharging. Report at helpline 14434. Do NOT share your OTP with anyone claiming to 'help' with registration.",
- "type": "warning"
- },
- "important_dates": [
- {
- "label": "Registration",
- "value": "Open throughout the year at eshram.gov.in",
- "highlight": true
- },
- {
- "label": "Insurance activation",
- "value": "Automatic upon registration - ₹2 lakh accident cover from day 1",
- "highlight": true
- },
- {
- "label": "Card validity",
- "value": "Permanent - no renewal needed (update details if occupation/address changes)",
- "highlight": false
- },
- {
- "label": "Helpline",
- "value": "14434 (toll-free, available in 11 languages)",
- "highlight": true
- }
- ],
- "faqs": [
- {
- "question": "I work as a farmer. Should I register on e-Shram or PM Kisan?",
- "answer": "If you OWN farmland, register for PM Kisan (₹6,000/year). If you're a landless agricultural LABORER (you work on others' farms), register on e-Shram. You cannot register on both if you're receiving PM Kisan benefits. The two databases are cross-verified."
- },
- {
- "question": "I'm a gig worker (Zomato/Swiggy/Ola driver). Can I register?",
- "answer": "Yes. Gig workers and platform workers who are not on the EPFO rolls are eligible for e-Shram. Select 'Gig and Platform Worker' as your occupation during registration. You'll get the ₹2 lakh accident insurance and access to all welfare schemes."
- },
- {
- "question": "I already have PMSBY. Do I still get insurance through e-Shram?",
- "answer": "e-Shram registration gives you free PMSBY cover (government pays the ₹20 premium). If you already have PMSBY through your own bank account, you might have two PMSBY policies. You can only claim from one in case of an accident. But there's no harm in having the e-Shram registration anyway for access to other schemes."
- },
- {
- "question": "I registered but lost my e-Shram card. How to get a new one?",
- "answer": "Login to eshram.gov.in with your Aadhaar number, verify with OTP, and download your card again. The card can be downloaded unlimited times. You can also update your photo, address, or occupation through the portal."
- },
- {
- "question": "Can I register if I don't have a smartphone?",
- "answer": "Yes. Visit any Common Service Centre (CSC) in your area. The CSC operator will help you register using biometric verification (fingerprint) if your mobile is not linked to Aadhaar. You can also call the helpline 14434 for guidance on nearest registration points."
- },
- {
- "question": "Will my e-Shram registration help me get a government job?",
- "answer": "e-Shram is not a job portal - it's a social security registration. However, being registered helps you access skill development programs under PMKVY (PM Kaushal Vikas Yojana), which can improve your employability. The National Career Service portal is also linked to e-Shram for job matching."
- },
- {
- "question": "I earn more than ₹15,000/month. Can I still register?",
- "answer": "The income limit of ₹15,000/month is a general guideline, not strictly enforced during registration. If you're genuinely an unorganized worker without EPFO/ESIC coverage, you should register regardless of exact income. The portal doesn't verify income documents - it relies on self-declaration."
- },
- {
- "question": "Does e-Shram card work in all states?",
- "answer": "Yes. The e-Shram UAN is a national identifier that works across all states and union territories. If you migrate from one state to another, your registration, UAN, and insurance benefits travel with you. Some states also provide additional state-level benefits to e-Shram registered workers."
- },
- {
- "question": "Is e-Shram card mandatory?",
- "answer": "No - e-Shram registration is voluntary, not mandatory. However, it's strongly recommended because it links you to Rs 2 lakh free accidental insurance, makes you eligible for government welfare schemes, and ensures you receive emergency relief during crises. There's no penalty for not registering, but you miss out on free benefits."
- },
- {
- "question": "Can I register on e-Shram if I have a private job?",
- "answer": "Only if your private job doesn't provide EPF or ESI. Small company employees (less than 20 workers), contract workers, daily-wage workers, and informal sector employees without EPF/ESI are eligible. If your employer deducts EPF from your salary, you're already in the organized sector database and cannot register on e-Shram."
- },
- {
- "question": "How to download e-Shram card?",
- "answer": "Visit eshram.gov.in → Already Registered → Enter your UAN or Aadhaar number → Verify with OTP → Download your e-Shram card as PDF. You can also access your card through the UMANG app (search 'e-Shram' in UMANG). For a printed card, visit any CSC with your Aadhaar - they'll print it for Rs 20."
- },
- {
- "question": "Does e-Shram card give monthly money?",
- "answer": "No - e-Shram card itself doesn't give monthly payments. It provides Rs 2 lakh accidental insurance (free) and LINKS you to schemes that give money - PM-SYM (Rs 3,000/month pension after 60), PMJJBY (Rs 2 lakh life insurance), and state-specific welfare transfers. The card is your registration - the money comes from the linked schemes you enroll in separately."
- }
- ],
- "official_portal": {
- "name": "e-Shram Portal",
- "url": "https://eshram.gov.in"
- },
- "related_pages": [
- {
- "title": "PM Shram Yogi Maandhan",
- "slug": "pm-shram-yogi-maandhan",
- "tag": "Pension",
- "url": "/yojana/pm-shram-yogi-maandhan"
- },
- {
- "title": "PM Suraksha Bima Yojana",
- "slug": "pm-suraksha-bima-yojana",
- "tag": "Insurance",
- "url": "/yojana/pm-suraksha-bima-yojana"
- },
- {
- "title": "PM Jan Dhan Yojana",
- "slug": "pm-jan-dhan-yojana",
- "tag": "Banking",
- "url": "/yojana/pm-jan-dhan-yojana"
- },
- {
- "title": "Ayushman Bharat PMJAY",
- "slug": "ayushman-bharat",
- "tag": "Health",
- "url": "/yojana/ayushman-bharat"
- },
- {
- "title": "PM Vishwakarma Yojana",
- "slug": "pm-vishwakarma-yojana",
- "tag": "Skill",
- "url": "/yojana/pm-vishwakarma-yojana"
- },
- {
- "title": "PM Ujjwala Yojana (Free LPG)",
- "slug": "pm-ujjwala-yojana",
- "tag": "Welfare",
- "url": "/yojana/pm-ujjwala-yojana"
- },
- {
- "title": "PM SVANidhi (Street Vendor Loan)",
- "slug": "pm-svanidhi",
- "tag": "Micro Credit",
- "url": "/yojana/pm-svanidhi"
- }
- ],
- "tags": [
- "Labour",
- "Unorganized Sector",
- "Social Security",
- "Registration",
- "Central Government",
- "Gig Workers"
- ],
- "ministry": "Ministry of Labour and Employment",
- "launch_year": 2021,
- "image_suggestions": [
- "Construction workers registering for e-Shram at CSC center",
- "Gig worker (delivery partner) with e-Shram card on phone",
- "e-Shram card QR code scanned at health camp",
- "Migrant worker using e-Shram across states",
- "Family of worker receiving accident insurance claim payment",
- "Statistical visualization of 30 crore registered workers"
- ],
- "last_reviewed": "May 2026",
- "category": "workers",
- "isCentral": true
+  "slug": "e-shram-card",
+  "title": "e-Shram Card Registration",
+  "meta_description": "e-Shram Card 2026 - free registration for unorganized workers. Get ₹2 lakh accident insurance, access to PM schemes, social security. How to register.",
+  "hero": {
+    "status": "active",
+    "one_liner": "Digital identity card for India's 30+ crore unorganized workers - free ₹2 lakh accident insurance and gateway to all government welfare schemes",
+    "icon": "👷",
+    "updated_date": "May 2026",
+    "stats": [
+      {
+        "label": "Registrations",
+        "value": "30+ Crore"
+      },
+      {
+        "label": "Insurance",
+        "value": "₹2 Lakh free"
+      },
+      {
+        "label": "Cost",
+        "value": "₹0 (Free)"
+      },
+      {
+        "label": "Portal",
+        "value": "eshram.gov.in"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "📝",
+      "label": "Register Online",
+      "url": "https://eshram.gov.in/"
+    },
+    {
+      "icon": "✅",
+      "label": "Check Status",
+      "url": "https://eshram.gov.in/"
+    },
+    {
+      "icon": "📱",
+      "label": "Download Card",
+      "url": "https://eshram.gov.in/"
+    },
+    {
+      "icon": "📞",
+      "label": "Helpline: 14434",
+      "url": "tel:14434"
+    }
+  ],
+  "what_is_it": [
+    "e-Shram is a national portal launched on 26 August 2021 by the Ministry of Labour and Employment to create a comprehensive database of unorganized sector workers in India. An 'e-Shram card' is a digital identity card issued to registered workers, containing a unique 12-digit Universal Account Number (UAN) that works as a portable social security ID across India.",
+    "India has an estimated 38 crore unorganized sector workers - including construction workers, street vendors, domestic workers, agricultural laborers, gig workers (Zomato/Swiggy/Ola/Uber drivers), rickshaw pullers, fishermen, mid-day meal workers, ASHA workers, and anyone who doesn't have a formal employer-provided social security (EPF/ESIC). e-Shram is designed to bring all these workers into a formal identity system so they can access government welfare schemes.",
+    "Every registered e-Shram worker automatically gets ₹2 lakh accidental death and disability insurance under PM Suraksha Bima Yojana - completely free. The government pays the ₹20 annual premium on behalf of e-Shram workers. Beyond insurance, e-Shram registration helps workers access PM Kisan, PM Awas, Ayushman Bharat, NREGA, skill development programs, and state-specific schemes for unorganized workers.",
+    "As of 2026, over 30 crore workers have registered on the e-Shram portal, making it the world's largest database of unorganized workers. Registration is completely free and can be done online (self-registration), at CSC centers, or through state labour department offices."
+  ],
+  "eligibility": [
+    {
+      "label": "Who can register",
+      "value": "Any unorganized worker aged 16-59 who is NOT a member of EPFO or ESIC (formal sector social security)",
+      "highlight": true
+    },
+    {
+      "label": "Unorganized worker definition",
+      "value": "Home-based workers, self-employed, wage workers in unorganized sector - construction, agriculture, domestic work, street vending, gig work, fishing, beedi rolling, etc.",
+      "highlight": false
+    },
+    {
+      "label": "Age",
+      "value": "16 to 59 years",
+      "highlight": false
+    },
+    {
+      "label": "Income limit",
+      "value": "Monthly income should not exceed ₹15,000",
+      "highlight": false
+    },
+    {
+      "label": "NOT eligible",
+      "value": "Workers already registered with EPFO (Employees' Provident Fund Organization) or ESIC (Employees' State Insurance Corporation)",
+      "highlight": true
+    },
+    {
+      "label": "Documents needed",
+      "value": "Aadhaar card (mandatory), mobile number linked to Aadhaar, bank account details, and IFSC code",
+      "highlight": false
+    }
+  ],
+  "eligibility_filters": {
+    "gender": [
+      "all"
+    ],
+    "age_min": 16,
+    "age_max": 59,
+    "occupation": [
+      "labourer",
+      "self-employed"
+    ],
+    "income_max": 200000,
+    "category": [
+      "all"
+    ],
+    "states": [
+      "central"
+    ]
+  },
+  "extra_sections": [
+    {
+      "heading": "Benefits of e-Shram Card",
+      "icon": "🎁",
+      "type": "text",
+      "content": [
+        "1. Free ₹2 lakh accident insurance: Every registered e-Shram worker gets PM Suraksha Bima <a href=\"/yojana/atal-pension-yojana\" style=\"text-decoration:underline;color:inherit\">Yojana</a> cover free - the government pays the ₹20 premium.",
+        "₹2 lakh for accidental death, ₹2 lakh for permanent total disability, ₹1 lakh for partial disability.",
+        "2. Access to government schemes: e-Shram <a href=\"/yojana/up-shramik-card\" style=\"text-decoration:underline;color:inherit\">registration</a> acts as a gateway to: PM Shram Yogi Maandhan (pension), Ayushman Bharat (health insurance), PM Awas Yojana (housing), Ration Card benefits, PM Garib Kalyan Yojana (free food grains), skill development under PMKVY, and various state-level welfare schemes for unorganized workers.",
+        "3. Portable social security: The 12-digit UAN is valid across India.",
+        "If a worker migrates from UP to Maharashtra, their e-<a href=\"/yojana/pm-shram-yogi-maandhan\" style=\"text-decoration:underline;color:inherit\">Shram</a> registration and benefits travel with them. No need to re-register in the new state.",
+        "4. Emergency relief: During natural disasters, pandemics (like COVID-19), or economic crises, the government uses the e-Shram database to identify and directly transfer emergency relief to unorganized workers.",
+        "During COVID, registered workers received ₹1,000-3,000 direct transfers in several states.",
+        "5. Skill mapping: The registration collects data on the worker's skill type, which helps the government design targeted skill development programs and connect workers with relevant opportunities through the National Career Service portal.",
+        "6. Digital identity: For many unorganized workers who lack formal employment proof, the e-Shram card serves as a recognized identity document for accessing financial services, opening bank accounts, and applying for other government schemes."
+      ]
+    },
+    {
+      "heading": "",
+      "type": "svg_block",
+      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">e-Shram benefits linked to your UAN card</text><rect x=\"30\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"130\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#145236\">Rs 2 lakh</text><text x=\"130\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">accidental insurance</text><rect x=\"250\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"350\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1E40AF\">Social Security</text><text x=\"350\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">PM-SYM, PMJJBY, PMSB</text><rect x=\"470\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"570\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#C2410C\">National Database</text><text x=\"570\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#C2410C\">for welfare targetin</text></svg>",
+      "caption": "e-Shram portal creates a national database of unorganized workers. Your 12-digit UAN (Universal Account Number) links you to social security schemes, insurance, and government welfare benefits."
+    },
+    {
+      "heading": "How to Register Online - Step by Step",
+      "icon": "📱",
+      "type": "steps",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Visit eshram.gov.in",
+          "description": "Open the e-Shram portal on your phone or computer. Click on 'Register on e-Shram'. You can also register through the 'e-Shram' mobile app available on Google Play Store."
+        },
+        {
+          "step": 2,
+          "title": "Enter Aadhaar number and captcha",
+          "description": "Enter your 12-digit Aadhaar number and the image captcha. Click 'Send OTP'. An OTP will be sent to your Aadhaar-linked mobile number."
+        },
+        {
+          "step": 3,
+          "title": "Verify OTP",
+          "description": "Enter the OTP received on your mobile. If your mobile is not linked to Aadhaar, you'll need to visit a CSC center for biometric verification instead."
+        },
+        {
+          "step": 4,
+          "title": "Fill registration details",
+          "description": "Your basic details (name, DOB, gender, address) will be auto-filled from Aadhaar. Additionally fill: occupation type (select from the list - construction, agriculture, domestic work, etc.), monthly income, bank account number and IFSC code, nominee details for insurance."
+        },
+        {
+          "step": 5,
+          "title": "Upload photo and submit",
+          "description": "A photo from your Aadhaar will be used, or you can upload a new one. Review all details and submit. Your e-Shram UAN (Universal Account Number) is generated instantly."
+        },
+        {
+          "step": 6,
+          "title": "Download your e-Shram card",
+          "description": "After successful registration, download your e-Shram card as a PDF. It contains your 12-digit UAN, photo, name, occupation, and a QR code. Save it on your phone and also take a printout. The card is valid across India."
+        }
+      ]
+    },
+    {
+      "heading": "Who Qualifies as an 'Unorganized Worker'?",
+      "icon": "📋",
+      "type": "text",
+      "content": [
+        "The following occupations qualify for e-Shram registration (this is a representative list, not exhaustive):",
+        "Construction & Building: Masons, carpenters, plumbers, electricians, painters, laborers at construction sites, brick kiln workers, stone quarry workers.",
+        "Agriculture & Allied: Agricultural laborers, sharecroppers, fishermen, beekeepers, livestock workers, forest produce collectors (not land-owning farmers - they should register for PM Kisan instead).",
+        "Domestic & Services: Domestic helpers (maids, cooks, drivers), watchmen/security guards, gardeners, laundry workers (dhobis), barbers/salon workers.",
+        "Street Vendors & Self-Employed: Street food vendors, auto/rickshaw drivers, taxi drivers, newspaper vendors, cobblers, cycle repair mechanics, tailors, potters.",
+        "Gig & Platform Workers: Delivery partners (Zomato, Swiggy, Dunzo), ride-hailing drivers (Ola, Uber), freelance workers on digital platforms.",
+        "Others: Beedi rollers, migrant workers, ASHA workers, mid-day meal cooks, anganwadi helpers, rag pickers, sanitation workers, and any worker without formal employment contract or EPFO/ESIC coverage."
+      ]
+    },
+    {
+      "type": "svg_block",
+      "heading": "Visual: e-Shram Card Registrat Key Numbers",
+      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">30+ Crore</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Registrations</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">₹2 Lakh free</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Insurance</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">₹0 (Free)</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Cost</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">eshram.gov.in</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Portal</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
+      "caption": "Key numbers for e-Shram Card Registration",
+      "description": "Quick overview of the most important numbers and facts."
+    },
+    {
+      "type": "text",
+      "heading": "What is e-Shram card and who needs it?",
+      "icon": "🏛️",
+      "content": [
+        "e-Shram is the government's national database for unorganized sector workers - the 38 crore Indians who work without formal employment contracts, EPF, ESI, or any employer-provided social security. This includes construction workers, domestic helpers, street vendors, rickshaw pullers, agricultural laborers, gig workers (Swiggy/Zomato delivery), home-based workers (tailors, weavers, bidi rollers), and migrant laborers.",
+        "When you register on e-Shram (eshram.gov.in), you receive a 12-digit Universal Account Number (UAN) and an e-Shram card. This card serves as your identity as an unorganized worker - making you visible to the government for welfare scheme targeting.",
+        "Before e-Shram, the government had no data on who these 38 crore workers were, where they lived, or what work they did. Without data, targeted welfare delivery was impossible.",
+        "The e-Shram card is NOT a replacement for Aadhaar - it's a supplementary identity specifically for labor welfare. Think of it as your 'worker ID' that connects you to social security schemes, insurance benefits, skill development programs, and emergency relief (like the Rs 1,000 direct transfer to e-Shram cardholders during COVID lockdowns in some states)."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Benefits of e-Shram registration",
+      "icon": "💰",
+      "content": [
+        "Accidental insurance: Every e-Shram cardholder gets Rs 2 lakh accidental death insurance and Rs 1 lakh partial disability insurance under PMSBY (Pradhan Mantri Suraksha Bima <a href=\"/yojana/pm-awas-yojana\" style=\"text-decoration:underline;color:inherit\">Yojana</a>). The annual premium of Rs 12 is paid by the government - completely free for you.",
+        "This insurance is automatically linked when you register on e-Shram. Just keep your Aadhaar-linked bank account active.",
+        "Social security scheme access: e-Shram registration makes you eligible for PM-SYM (Rs 3,000/month pension after 60), PMJJBY (Rs 2 lakh life insurance at Rs 436/year), PMSBY (Rs 2 lakh accident cover at Rs 20/year), and Atal Pension <a href=\"/yojana/pm-kusum-yojana\" style=\"text-decoration:underline;color:inherit\">Yojana</a> (Rs 1,000-5,000 monthly pension). These schemes are available to all citizens, but e-Shram registration fast-tracks your enrollment through pre-verified data.",
+        "Emergency relief: During natural disasters, pandemics, or economic crises, the government can directly transfer relief money to e-Shram cardholders. During COVID-19, several state governments transferred Rs 1,000-2,000 to e-Shram registered workers.",
+        "This database enables instant, targeted relief without the delays of traditional beneficiary identification.",
+        "Skill development and employment: e-Shram data is used by the Ministry of Skill Development to identify workers for free skill training programs (PMKVY, Seekho Kamao). The National Career Service (NCS) portal links e-Shram profiles to job opportunities - employers looking for construction workers, drivers, domestic staff, and other blue-collar workers can find registered e-Shram cardholders."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "How to register for e-Shram card - step by step",
+      "icon": "📝",
+      "content": [
+        "Step 1: Visit eshram.gov.in on your mobile or computer. Click 'Register on e-Shram'. Enter your Aadhaar-linked mobile number. You'll receive an OTP - enter it to proceed. If your mobile number is not linked to Aadhaar, visit your nearest Aadhaar center to update it first.",
+        "Step 2: Enter your Aadhaar number. The portal fetches your name, date of birth, gender, and address from the Aadhaar database.",
+        "Verify the pre-filled information. If any detail is incorrect (wrong name spelling, old address), update it on Aadhaar first at myaadhaar.uidai.gov.in before continuing e-Shram registration.",
+        "Step 3: Fill additional details - occupation type (select from 400+ occupation categories like construction worker, domestic helper, street vendor, auto driver, tailor, agricultural laborer), monthly income range, skill set, education level, bank account details, and nominee information. Select your occupation carefully - it determines which specific welfare schemes you're matched with.",
+        "Step 4: Upload bank account details - account number, IFSC code, and bank name. This must be YOUR personal account linked to Aadhaar.",
+        "All benefits (insurance claims, relief payments, scheme transfers) are credited to this account. Verify the account details twice - wrong account numbers are the #1 reason for failed benefit transfers.",
+        "Step 5: Submit the form. Your e-Shram UAN (Universal Account Number) is generated instantly.",
+        "Download or screenshot your e-Shram card from the portal. The card shows your UAN, name, photo (from Aadhaar), occupation, and QR code.",
+        "You can also get a printed card from any Common Service Centre (CSC) for Rs 20."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Who is eligible and who is NOT",
+      "icon": "📋",
+      "content": [
+        "Eligible: Any Indian citizen aged 16-59 working in the unorganized sector. This includes: construction workers, street vendors, domestic workers, agricultural laborers, gig workers, home-based workers, migrant workers, fishermen, auto/taxi drivers, barbers, washermen, cobblers, and any worker without formal employment contract or social security coverage (EPF/ESI).",
+        "NOT eligible: Workers already registered under EPF (Employees Provident Fund), ESI (Employees State Insurance), or NPS (government employees). If you have an EPF UAN from your employer, you're considered an organized sector worker and cannot register on e-Shram.",
+        "Government employees, PSU employees, and corporate employees with formal contracts are excluded.",
+        "Gray area - gig workers: Delivery partners (Swiggy, Zomato, Amazon), ride-hailing drivers (Ola, Uber), and platform workers are technically eligible for e-Shram since these platforms don't provide EPF/ESI. The Code on Social Security 2020 recognizes gig workers as a distinct category.",
+        "If you're a gig worker without EPF, register on e-Shram - you're exactly the kind of worker this database was designed for.",
+        "Income ceiling: No maximum income limit for registration. A self-employed plumber earning Rs 50,000/month is as eligible as a daily-wage laborer earning Rs 300/day.",
+        "The criteria is 'unorganized sector' (no formal social security), not 'low income'. However, for premium-based schemes like PM-SYM, the income ceiling of Rs 15,000/month applies separately."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "e-Shram card for migrant workers - special relevance",
+      "icon": "🚶",
+      "content": [
+        "India has approximately 10 crore internal migrant workers - people who move from their home state to another state for employment. Construction workers from Bihar working in Delhi, agricultural laborers from UP in Punjab, domestic workers from Jharkhand in Mumbai.",
+        "Before e-Shram, these migrants were invisible to BOTH their home state and work state governments.",
+        "e-Shram solves this by creating a portable national identity. Your e-Shram card is valid across all states - it's not state-specific like ration cards or domicile certificates.",
+        "When you move from Bihar to Delhi for work, your e-Shram registration travels with you. If Delhi announces relief for construction workers, your e-Shram card proves you're a construction worker eligible for the benefit.",
+        "During COVID-19 lockdowns, millions of migrant workers were stranded without identity proof, ration cards, or bank accounts in their work states. The government couldn't identify or help them. e-Shram was designed to prevent this from happening again - your UAN identifies you as a worker regardless of which state you're currently in.",
+        "Ration card portability under One Nation One Ration Card (ONORC) is linked to e-Shram - migrant workers can access PDS rations in any state using their Aadhaar. While ONORC works through Aadhaar alone, e-Shram adds the occupational layer - proving you're a worker who migrated for employment, which qualifies you for additional state-level migrant welfare schemes."
+      ]
+    },
+    {
+      "type": "svg_block",
+      "heading": "Visual: Eligibility Check",
+      "svg": "<svg viewBox=\"0 0 700 132\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Eligibility</text><rect x=\"20\" y=\"35\" width=\"320\" height=\"87\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"180\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1B6B4A\">Eligible</text><text x=\"40\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Who can register</text><text x=\"40\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ NOT eligible</text><rect x=\"360\" y=\"35\" width=\"320\" height=\"87\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"520\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#BE185D\">Not Eligible</text><text x=\"380\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Unorganized worker d</text><text x=\"380\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Age</text><text x=\"380\" y=\"111\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Income limit</text><text x=\"380\" y=\"129\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Documents needed</text></svg>",
+      "caption": "Quick eligibility check for e-Shram Card Registrat",
+      "description": "Check if you meet the basic eligibility criteria before applying."
+    },
+    {
+      "type": "text",
+      "heading": "e-Shram vs EPF vs ESI - understanding the difference",
+      "icon": "⚖️",
+      "content": [
+        "EPF (Employees Provident Fund): For organized sector workers earning up to Rs 15,000/month basic salary. Employer and employee both contribute 12% of basic salary.",
+        "Creates a retirement corpus. Managed by EPFO.",
+        "Only for workers with formal employment in companies with 20+ employees. If you have EPF, you're NOT eligible for e-Shram.",
+        "ESI (Employees State Insurance): For organized sector workers earning up to Rs 21,000/month. Provides medical, maternity, disability, and unemployment benefits. Managed by ESIC. Available only in areas with ESI hospitals/dispensaries. If you have ESI, you're NOT eligible for e-Shram.",
+        "e-Shram: For the 38 crore workers who have NEITHER EPF nor ESI - the unorganized sector. Provides basic accidental insurance, links to pension schemes (PM-SYM, APY), and creates a database for welfare targeting.",
+        "No employer-employee contribution model - benefits are government-funded or premium-based (Rs 12-436/year for different insurance schemes).",
+        "The gap e-Shram fills: Before e-Shram, organized workers (20% of workforce) had EPF+ESI social security. Unorganized workers (80%) had NOTHING - no pension, no insurance, no medical cover, no unemployment support. e-Shram is the first step toward extending social security to ALL workers, not just those lucky enough to work in formal companies."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "State-wise e-Shram implementation and additional benefits",
+      "icon": "📊",
+      "content": [
+        "As of 2026, approximately 30 crore workers have registered on e-Shram. Top states by registration: Uttar Pradesh (7.5 crore), Bihar (4.5 crore), West Bengal (3.8 crore), Madhya Pradesh (2.5 crore), and Odisha (2.2 crore).",
+        "These 5 states account for 67% of all registrations - reflecting their large unorganized workforce populations.",
+        "Several states have linked additional benefits to e-Shram registration. UP: E-Shram cardholders received Rs 500-1,000 direct transfer during COVID second wave.",
+        "Bihar: Registration linked to state building and construction worker welfare board benefits. West Bengal: E-Shram data used for targeting Lakshmi Bhandar scheme beneficiaries.",
+        "Odisha: KALIA scheme cross-references e-Shram data for landless agricultural worker identification.",
+        "States with lowest registration relative to their unorganized workforce: Tamil Nadu, Kerala, Karnataka - where state-level worker welfare boards (construction worker board, auto-driver union welfare, domestic worker associations) already provide social security. Workers in these states may not see additional value in e-Shram registration if state schemes already cover them.",
+        "The government's vision: Use e-Shram data to eventually implement a universal social security system for all workers - organized and unorganized. The Code on Social Security 2020 lays the legal framework.",
+        "E-Shram provides the data infrastructure. Once fully operational, every Indian worker would have a single social security account covering health insurance, pension, maternity benefits, and unemployment support."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "heading": "Register even if you don't need benefits right now",
+      "content": "E-Shram registration takes 5 minutes and costs nothing. Even if you don't need the Rs 2 lakh insurance or pension schemes today, being in the database ensures you receive future benefits automatically - emergency relief during disasters, skill training opportunities, employment matching, and any new welfare schemes the government announces for unorganized workers. Register now at eshram.gov.in - your future self will thank you."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "heading": "Don't pay anyone for e-Shram registration",
+      "content": "Registration is 100% FREE on eshram.gov.in. Several agents and cyber cafes charge Rs 100-500 for registration. If you can't do it yourself on a smartphone, visit any Common Service Centre (CSC) - the CSC operator earns Rs 20 from the government for each registration, so they should not charge YOU any fee. If they demand money, report to the district labor office."
+    },
+    {
+      "type": "svg_block",
+      "heading": "Visual: Application Process",
+      "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><defs><marker id=\"af\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><polygon points=\"0 0, 10 3, 0 6\" fill=\"#1E40AF\"/></marker></defs><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">How to Apply</text><rect x=\"20\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"90\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Self-registration </text><line x1=\"160\" y1=\"65\" x2=\"180\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"190\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"260\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">At CSC center (if </text><line x1=\"330\" y1=\"65\" x2=\"350\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"360\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"430\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Through state labo</text><line x1=\"500\" y1=\"65\" x2=\"520\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"530\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"600\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Download e-Shram c</text></svg>",
+      "caption": "Step-by-step application process",
+      "description": "Follow these steps to complete your application successfully."
+    },
+    {
+      "type": "pullquote",
+      "text": "38 crore Indians work without EPF, ESI, or any social security. They build our houses, cook our food, drive our autos, and clean our streets - yet have zero safety net when they fall sick, get injured, or grow old. E-Shram doesn't solve this completely, but it makes these invisible workers visible to the state. Visibility is the first step to justice."
+    },
+    {
+      "type": "text",
+      "heading": "How e-Shram data is used by the government",
+      "icon": "📊",
+      "content": [
+        "The Ministry of Labour and Employment uses e-Shram data for policy planning - understanding the geographic distribution, age profile, occupation mix, and income levels of India's unorganized workforce. This data drives decisions like where to build new skill training centers, which occupations need targeted welfare programs, and how to allocate emergency relief budgets.",
+        "State governments use e-Shram data for targeting beneficiaries of state schemes. When Odisha wants to identify construction workers for its building worker welfare board benefits, it cross-references e-Shram registrations with occupation code 'construction.' When UP wants to transfer emergency funds to street vendors during a flood, it identifies e-Shram registrations in affected districts with occupation code 'street vendor.'",
+        "The National Career Service (NCS) - ncs.gov.in - uses e-Shram worker profiles for employment matching. Companies registered on NCS can search for workers by skill, location, and occupation.",
+        "A Delhi construction company looking for masons can find e-Shram registered masons in NCR. This creates a formal job market for informal workers - something that previously existed only through word-of-mouth and labor contractors.",
+        "Insurance claim processing: When an e-Shram cardholder meets with an accident, the Rs 2 lakh insurance claim is processed through the linked PMSBY policy. The nominee visits the bank with death/disability certificate and e-Shram card - the bank verifies UAN in the database and processes the claim.",
+        "Without e-Shram registration, the same worker's family would need to navigate a complex claim process with multiple documents."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Common issues and troubleshooting",
+      "icon": "🔧",
+      "content": [
+        "Issue: OTP not received during registration. Solution: Ensure your mobile number is linked to Aadhaar (check at myaadhaar.uidai.gov.in).",
+        "If linked but OTP fails, try at a different time (server load is lower early morning and late evening). Clear browser cache or try a different browser.",
+        "If the issue persists for 24+ hours, visit your nearest CSC for assisted registration.",
+        "Issue: Bank account not accepted during registration. Solution: The bank account must be in YOUR name (not joint or family) and linked to Aadhaar.",
+        "Visit your bank branch to verify Aadhaar linkage. If you have a Jan Dhan account, it works perfectly - no minimum balance needed.",
+        "Ensure the IFSC code matches your specific branch (not just the bank - each branch has a unique IFSC).",
+        "Issue: Already registered under EPF but want e-Shram. Solution: If you previously had EPF but your current job doesn't provide it (e.g., you left a formal job and now work as a freelancer or informal worker), you may be eligible for e-Shram.",
+        "The system checks active EPF status - if your EPF account is inactive for 3+ years, you might clear the eligibility check. Contact your nearest district labor office for guidance.",
+        "Issue: Want to update occupation or bank details. Solution: Log in to eshram.gov.in with your UAN and Aadhaar.",
+        "Click 'Update Profile.' Change your occupation category, bank account, mobile number, or nominee details. Updates take 24-48 hours to reflect.",
+        "You can update as many times as needed - if you change jobs from domestic worker to street vendor, update your occupation category for appropriate scheme matching."
+      ]
+    },
+    {
+      "type": "callout",
+      "heading": "Official Sources & References",
+      "icon": "📖",
+      "variant": "info",
+      "content": "Source: Ministry of Labour & Employment (eshram.gov.in). All information on this page has been verified against official government notifications and regulatory circulars. For the latest updates, always check the official portal."
+    },
+    {
+      "type": "svg_block",
+      "heading": "e-Shram Card Benefits",
+      "icon": "👷",
+      "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">e-Shram Card Linked Benefits</text><rect x=\"20\" y=\"50\" width=\"155\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#1B6B4A\">₹2L accident cover</text><rect x=\"185\" y=\"50\" width=\"155\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"262\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#1E40AF\">Pension linkage APY</text><rect x=\"350\" y=\"50\" width=\"155\" height=\"35\" rx=\"8\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"427\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#92400E\">Ration card priority</text><rect x=\"515\" y=\"50\" width=\"160\" height=\"35\" rx=\"8\" fill=\"#F3E8FF\" stroke=\"#7C3AED\" stroke-width=\"2\"/><text x=\"595\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#5B21B6\">Scheme convergence</text></svg>",
+      "caption": "e-Shram card is your single identity for accessing all unorganized worker welfare schemes",
+      "description": "Registration is free and can be done at any CSC center with Aadhaar."
+    }
+  ],
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Self-registration at eshram.gov.in or e-Shram app",
+      "description": "Requires Aadhaar card and mobile number linked to Aadhaar. Takes 10-15 minutes."
+    },
+    {
+      "step": 2,
+      "title": "At CSC center (if mobile not linked to Aadhaar)",
+      "description": "Visit any Common Service Centre. They do biometric verification. Fee: free to ₹20 maximum."
+    },
+    {
+      "step": 3,
+      "title": "Through state labour department",
+      "description": "Some states have set up special camps and desks for e-Shram registration. Check with your district labour office."
+    },
+    {
+      "step": 4,
+      "title": "Download e-Shram card immediately after registration",
+      "description": "Card is generated instantly. Download PDF, save on phone, and take printout for records."
+    }
+  ],
+  "important_alert": {
+    "text": "e-Shram registration is completely FREE. If any CSC operator or agent charges more than ₹20 (printing cost), it is overcharging. Report at helpline 14434. Do NOT share your OTP with anyone claiming to 'help' with registration.",
+    "type": "warning"
+  },
+  "important_dates": [
+    {
+      "label": "Registration",
+      "value": "Open throughout the year at eshram.gov.in",
+      "highlight": true
+    },
+    {
+      "label": "Insurance activation",
+      "value": "Automatic upon registration - ₹2 lakh accident cover from day 1",
+      "highlight": true
+    },
+    {
+      "label": "Card validity",
+      "value": "Permanent - no renewal needed (update details if occupation/address changes)",
+      "highlight": false
+    },
+    {
+      "label": "Helpline",
+      "value": "14434 (toll-free, available in 11 languages)",
+      "highlight": true
+    }
+  ],
+  "faqs": [
+    {
+      "question": "I work as a farmer. Should I register on e-Shram or PM Kisan?",
+      "answer": "If you OWN farmland, register for PM Kisan (₹6,000/year). If you're a landless agricultural LABORER (you work on others' farms), register on e-Shram. You cannot register on both if you're receiving PM Kisan benefits. The two databases are cross-verified."
+    },
+    {
+      "question": "I'm a gig worker (Zomato/Swiggy/Ola driver). Can I register?",
+      "answer": "Yes. Gig workers and platform workers who are not on the EPFO rolls are eligible for e-Shram. Select 'Gig and Platform Worker' as your occupation during registration. You'll get the ₹2 lakh accident insurance and access to all welfare schemes."
+    },
+    {
+      "question": "I already have PMSBY. Do I still get insurance through e-Shram?",
+      "answer": "e-Shram registration gives you free PMSBY cover (government pays the ₹20 premium). If you already have PMSBY through your own bank account, you might have two PMSBY policies. You can only claim from one in case of an accident. But there's no harm in having the e-Shram registration anyway for access to other schemes."
+    },
+    {
+      "question": "I registered but lost my e-Shram card. How to get a new one?",
+      "answer": "Login to eshram.gov.in with your Aadhaar number, verify with OTP, and download your card again. The card can be downloaded unlimited times. You can also update your photo, address, or occupation through the portal."
+    },
+    {
+      "question": "Can I register if I don't have a smartphone?",
+      "answer": "Yes. Visit any Common Service Centre (CSC) in your area. The CSC operator will help you register using biometric verification (fingerprint) if your mobile is not linked to Aadhaar. You can also call the helpline 14434 for guidance on nearest registration points."
+    },
+    {
+      "question": "Will my e-Shram registration help me get a government job?",
+      "answer": "e-Shram is not a job portal - it's a social security registration. However, being registered helps you access skill development programs under PMKVY (PM Kaushal Vikas Yojana), which can improve your employability. The National Career Service portal is also linked to e-Shram for job matching."
+    },
+    {
+      "question": "I earn more than ₹15,000/month. Can I still register?",
+      "answer": "The income limit of ₹15,000/month is a general guideline, not strictly enforced during registration. If you're genuinely an unorganized worker without EPFO/ESIC coverage, you should register regardless of exact income. The portal doesn't verify income documents - it relies on self-declaration."
+    },
+    {
+      "question": "Does e-Shram card work in all states?",
+      "answer": "Yes. The e-Shram UAN is a national identifier that works across all states and union territories. If you migrate from one state to another, your registration, UAN, and insurance benefits travel with you. Some states also provide additional state-level benefits to e-Shram registered workers."
+    },
+    {
+      "question": "Is e-Shram card mandatory?",
+      "answer": "No - e-Shram registration is voluntary, not mandatory. However, it's strongly recommended because it links you to Rs 2 lakh free accidental insurance, makes you eligible for government welfare schemes, and ensures you receive emergency relief during crises. There's no penalty for not registering, but you miss out on free benefits."
+    },
+    {
+      "question": "Can I register on e-Shram if I have a private job?",
+      "answer": "Only if your private job doesn't provide EPF or ESI. Small company employees (less than 20 workers), contract workers, daily-wage workers, and informal sector employees without EPF/ESI are eligible. If your employer deducts EPF from your salary, you're already in the organized sector database and cannot register on e-Shram."
+    },
+    {
+      "question": "How to download e-Shram card?",
+      "answer": "Visit eshram.gov.in → Already Registered → Enter your UAN or Aadhaar number → Verify with OTP → Download your e-Shram card as PDF. You can also access your card through the UMANG app (search 'e-Shram' in UMANG). For a printed card, visit any CSC with your Aadhaar - they'll print it for Rs 20."
+    },
+    {
+      "question": "Does e-Shram card give monthly money?",
+      "answer": "No - e-Shram card itself doesn't give monthly payments. It provides Rs 2 lakh accidental insurance (free) and LINKS you to schemes that give money - PM-SYM (Rs 3,000/month pension after 60), PMJJBY (Rs 2 lakh life insurance), and state-specific welfare transfers. The card is your registration - the money comes from the linked schemes you enroll in separately."
+    }
+  ],
+  "official_portal": {
+    "name": "e-Shram Portal",
+    "url": "https://eshram.gov.in"
+  },
+  "related_pages": [
+    {
+      "title": "PM Shram Yogi Maandhan",
+      "slug": "pm-shram-yogi-maandhan",
+      "tag": "Pension",
+      "url": "/yojana/pm-shram-yogi-maandhan"
+    },
+    {
+      "title": "PM Suraksha Bima Yojana",
+      "slug": "pm-suraksha-bima-yojana",
+      "tag": "Insurance",
+      "url": "/yojana/pm-suraksha-bima-yojana"
+    },
+    {
+      "title": "PM Jan Dhan Yojana",
+      "slug": "pm-jan-dhan-yojana",
+      "tag": "Banking",
+      "url": "/yojana/pm-jan-dhan-yojana"
+    },
+    {
+      "title": "Ayushman Bharat PMJAY",
+      "slug": "ayushman-bharat",
+      "tag": "Health",
+      "url": "/yojana/ayushman-bharat"
+    },
+    {
+      "title": "PM Vishwakarma Yojana",
+      "slug": "pm-vishwakarma-yojana",
+      "tag": "Skill",
+      "url": "/yojana/pm-vishwakarma-yojana"
+    },
+    {
+      "title": "PM Ujjwala Yojana (Free LPG)",
+      "slug": "pm-ujjwala-yojana",
+      "tag": "Welfare",
+      "url": "/yojana/pm-ujjwala-yojana"
+    },
+    {
+      "title": "PM SVANidhi (Street Vendor Loan)",
+      "slug": "pm-svanidhi",
+      "tag": "Micro Credit",
+      "url": "/yojana/pm-svanidhi"
+    }
+  ],
+  "tags": [
+    "Labour",
+    "Unorganized Sector",
+    "Social Security",
+    "Registration",
+    "Central Government",
+    "Gig Workers"
+  ],
+  "ministry": "Ministry of Labour and Employment",
+  "launch_year": 2021,
+  "image_suggestions": [
+    "Construction workers registering for e-Shram at CSC center",
+    "Gig worker (delivery partner) with e-Shram card on phone",
+    "e-Shram card QR code scanned at health camp",
+    "Migrant worker using e-Shram across states",
+    "Family of worker receiving accident insurance claim payment",
+    "Statistical visualization of 30 crore registered workers"
+  ],
+  "last_reviewed": "May 2026",
+  "category": "workers",
+  "isCentral": true
 }

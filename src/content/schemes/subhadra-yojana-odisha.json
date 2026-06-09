@@ -640,5 +640,22 @@
   "last_reviewed": "June 2026",
   "disclaimer": "",
   "category": "yojana",
-  "state": "odisha"
+  "state": "odisha",
+  "eligibility_filters": {
+    "gender": [
+      "female"
+    ],
+    "age_min": 21,
+    "age_max": 60,
+    "occupation": [
+      "any"
+    ],
+    "income_max": 250000,
+    "category": [
+      "all"
+    ],
+    "states": [
+      "odisha"
+    ]
+  }
 }

@@ -687,5 +687,22 @@
   "last_reviewed": "June 2026",
   "disclaimer": "",
   "category": "yojana",
-  "state": "assam"
+  "state": "assam",
+  "eligibility_filters": {
+    "gender": [
+      "female"
+    ],
+    "age_min": 18,
+    "age_max": 100,
+    "occupation": [
+      "any"
+    ],
+    "income_max": 200000,
+    "category": [
+      "all"
+    ],
+    "states": [
+      "assam"
+    ]
+  }
 }

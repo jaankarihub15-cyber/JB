@@ -98,17 +98,19 @@
   ],
   "eligibility_filters": {
     "gender": [
-      "Women only"
+      "female"
     ],
     "age_min": 21,
     "age_max": 65,
-    "occupation": [],
+    "occupation": [
+      "any"
+    ],
     "income_max": 250000,
     "category": [
-      "All categories"
+      "all"
     ],
     "states": [
-      "Maharashtra"
+      "maharashtra"
     ]
   },
   "extra_sections": [

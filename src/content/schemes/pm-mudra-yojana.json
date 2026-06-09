@@ -1,608 +1,605 @@
 {
- "slug": "pm-mudra-yojana",
- "title": "PM Mudra Yojana",
- "meta_description": "PM Mudra Yojana 2026 - get collateral-free business loans up to ₹20 lakh. Shishu, Kishore, Tarun categories explained, eligibility, how to apply at any bank.",
- "hero": {
- "status": "active",
- "one_liner": "Collateral-free loans from ₹50,000 to ₹20 lakh for small businesses, street vendors, artisans, and micro-entrepreneurs - no guarantor needed",
- "icon": "🏪",
- "updated_date": "May 2026",
- "stats": [
- {
- "label": "Max Loan",
- "value": "₹20 Lakh"
- },
- {
- "label": "Collateral",
- "value": "Not Required"
- },
- {
- "label": "Beneficiaries",
- "value": "52+ Crore"
- },
- {
- "label": "Total Disbursed",
- "value": "₹32.4+ Lakh Cr"
- }
- ]
- },
- "quick_actions": [
- {
- "icon": "📝",
- "label": "Apply at Bank",
- "url": "https://www.mudra.org.in/"
- },
- {
- "icon": "✅",
- "label": "Check Eligibility",
- "url": "https://www.mudra.org.in/"
- },
- {
- "icon": "📞",
- "label": "Helpline: 1800-11-0001",
- "url": "tel:1800110001"
- }
- ],
- "what_is_it": [
- "Pradhan Mantri Mudra Yojana (PMMY) was launched on 8 April 2015 to provide easy access to business loans for small and micro-enterprises that cannot get regular bank loans due to lack of collateral, credit history, or formal documentation. The scheme provides loans from ₹50,000 to ₹20 lakh through all commercial banks, RRBs, small finance banks, MFIs, and NBFCs. As of March 2026, the government expanded the maximum loan limit from ₹10 lakh to ₹20 lakh (Tarun Plus category) to support more ambitious business ventures.",
- "MUDRA stands for <a href=\"https://www.mudra.org.in/\" target=\"_blank\">Micro Units Development and Refinance Agency Ltd.</a> - it is a refinancing agency under SIDBI. MUDRA itself doesn't lend to borrowers directly. Instead, it provides refinancing support to banks and lending institutions so they can lend to small businesses at affordable rates. This model ensures that the actual lending happens through traditional banking channels you already know and trust.",
- "The scheme has three main categories based on loan amount: Shishu (up to ₹50,000) for those just starting their business, Kishore (₹50,001 to ₹5 lakh) for those looking to expand, and Tarun (₹5,00,001 to ₹20 lakh) for established small businesses needing more capital. No collateral or guarantor is required for any category. A new Tarun Plus category was introduced in October 2024, allowing businesses to borrow up to ₹20 lakh.",
- "Since launch, PMMY has disbursed over ₹32.4 lakh crore across 52+ crore loan accounts, making it one of the world's largest micro-lending programs. About 68% of Mudra loans have gone to women entrepreneurs, and over 50% to SC/ST/OBC borrowers. The average loan size has grown from ₹38,000 in FY16 to over ₹1.02 lakh in FY25, reflecting how entrepreneurs are scaling their businesses."
- ],
- "eligibility": [
- {
- "label": "Who can apply",
- "value": "Any Indian citizen with a business plan or existing small business - includes manufacturing, trading, services, and allied activities",
- "highlight": true
- },
- {
- "label": "Business types covered",
- "value": "Street vendors, shopkeepers, artisans, food stall owners, repair services, transport operators, tailors, salons, farmers for allied activities (dairy, poultry, beekeeping), and any micro-enterprise",
- "highlight": false
- },
- {
- "label": "Collateral needed",
- "value": "NO collateral or guarantor required for any Mudra loan category",
- "highlight": true
- },
- {
- "label": "Shishu (up to ₹50K)",
- "value": "For new businesses or those needing small working capital. Interest rate: 10-12% per annum",
- "highlight": false
- },
- {
- "label": "Kishore (₹50K–₹5L)",
- "value": "For businesses looking to expand. Need to show some business track record. Interest rate: 11-14% per annum",
- "highlight": false
- },
- {
- "label": "Tarun (₹5L–₹20L)",
- "value": "For established businesses needing larger capital. Bank may ask for business plan and financials. Interest rate: 12-16% per annum. Introduced as Tarun Plus in Oct 2024.",
- "highlight": false
- },
- {
- "label": "Documents needed",
- "value": "Aadhaar card, PAN card (for loans above ₹2 lakh), address proof, business proof (if existing), 2 passport photos, bank account statement (last 6 months for Kishore/Tarun)",
- "highlight": false
- }
- ],
- "eligibility_filters": {
- "gender": [
- "all"
- ],
- "age_min": 18,
- "age_max": 65,
- "occupation": [
- "self-employed"
- ],
- "income_max": 9999999,
- "category": [
- "general",
- "obc",
- "sc",
- "st"
- ],
- "states": [
- "all"
- ]
- },
- "extra_sections": [
- {
- "heading": "Shishu vs Kishore vs Tarun vs Tarun Plus - Which Should You Apply For?",
- "icon": "📊",
- "type": "table",
- "columns": [
- "Feature",
- "Shishu",
- "Kishore",
- "Tarun",
- "Tarun Plus (New)"
- ],
- "rows": [
- [
- "Loan Amount",
- "Up to ₹50,000",
- "₹50,001 – ₹5 lakh",
- "₹5,00,001 – ₹10 lakh",
- "₹10,00,001 – ₹20 lakh"
- ],
- [
- "Best For",
- "New businesses, street vendors, small working capital",
- "Expanding businesses, buying equipment, increasing stock",
- "Established businesses, bigger investment, infrastructure",
- "Large-scale expansion, factory setup, franchise"
- ],
- [
- "Interest Rate",
- "10–12% p.a.",
- "11–14% p.a.",
- "12–16% p.a.",
- "12–16% p.a."
- ],
- [
- "Repayment",
- "3–5 years",
- "3–5 years",
- "3–7 years",
- "5–7 years"
- ],
- [
- "Documentation",
- "Minimal - Aadhaar + business plan",
- "Moderate - business proof + bank statements",
- "Detailed - financials + project report",
- "Comprehensive - business plan, financials, registration"
- ],
- [
- "Processing Time",
- "3–7 days",
- "7–14 days",
- "14–30 days",
- "20–45 days"
- ],
- [
- "Collateral",
- "None",
- "None",
- "None",
- "None"
- ],
- [
- "Approval Rate",
- "Highest (simple process)",
- "Moderate",
- "Depends on business viability",
- "More stringent verification"
- ]
- ]
- },
- {
- "heading": "",
- "type": "svg_block",
- "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">PM Mudra 3 loan categories by business s</text><rect x=\"30\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"130\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#145236\">Shishu</text><text x=\"130\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">Up to Rs 50,000</text><text x=\"130\" y=\"112\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#145236\">New/startup business</text><rect x=\"250\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"350\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#1E40AF\">Kishore</text><text x=\"350\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">Rs 50,000 Rs 5 lakh</text><text x=\"350\" y=\"112\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#1E40AF\">Growing businesses</text><rect x=\"470\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"570\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#C2410C\">Tarun</text><text x=\"570\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#C2410C\">Rs 5 lakh Rs 20 lakh</text><text x=\"570\" y=\"112\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#C2410C\">Expanding businesses</text></svg>",
- "caption": "Mudra loans are collateral-free up to Rs 10 lakh. No guarantor needed. Available at all banks, NBFCs, and MFIs. Over 47 crore Mudra loans disbursed since 2015 - India's largest micro-enterprise lending program."
- },
- {
- "heading": "How to Improve Your Chances of Approval",
- "icon": "💡",
- "type": "text",
- "content": [
- "Tip 1 - Start with Shishu, then upgrade: If you're a first-time borrower with no credit history, apply for a Shishu loan (up to ₹50,000) first. Repay it on time for 6-12 months, then apply for Kishore.",
- "Banks are much more likely to approve larger <a href=\"/yojana/stand-up-india\" style=\"text-decoration:underline;color:inherit\">loans</a> for borrowers with a good repayment track record.",
- "Tip 2 - Have a clear business plan: Even for Shishu <a href=\"/yojana/pm-vishwakarma-yojana\" style=\"text-decoration:underline;color:inherit\">loans</a>, briefly explain what your business does, how you'll use the money, and how you'll repay. For Kishore and Tarun, prepare a simple one-page business plan with expected income and expenses.",
- "You don't need a fancy document - even a handwritten plan works if it's clear and realistic.",
- "Tip 3 - Apply at multiple banks: If one bank rejects your application, try another. Each bank has different risk criteria.",
- "Nationalized banks (SBI, PNB, BOB) have mandated Mudra targets and are more likely to approve. Small finance banks (AU, Equitas, Ujjivan) are also very active in Mudra lending.",
- "Tip 4 - Maintain a clean CIBIL score: For Kishore and Tarun loans, banks will check your credit score. If you have existing loans with missed payments, clear those first.",
- "A CIBIL score of 650+ significantly improves your chances.",
- "Tip 5 - Women and SC/ST applicants get priority: The government has mandated that at least 50% of Mudra loans go to women, SC/ST, and OBC borrowers. If you fall in these categories, explicitly mention it in your application.",
- "Some banks have dedicated Mudra desks for women entrepreneurs.",
- "Tip 6 - Don't approach agents or middlemen: Apply directly at the bank branch. Mudra loan processing is free - there is no service charge or processing fee for Shishu category.",
- "If anyone asks you to pay money to 'arrange' a Mudra loan, it's a scam."
- ]
- },
- {
- "heading": "What Mudra Loan Can Be Used For",
- "icon": "✅",
- "type": "text",
- "content": [
- "Mudra loans can be used for virtually any legitimate business activity. Common uses include:",
- "Working capital: Buying raw materials, inventory, or stock for your shop/business. This is the most common use - shopkeepers use it to stock goods before festival seasons.",
- "Equipment purchase: Buying machinery, tools, sewing machines, food processing equipment, salon equipment, computers, or any business-related equipment.",
- "Business expansion: Opening a second shop or outlet, renovating your existing workspace, adding new products or services to your business.",
- "Vehicle purchase for business: Auto-rickshaws, e-rickshaws, delivery vehicles, tempo for goods transport. The vehicle must be used for commercial/business purposes.",
- "Service businesses: Setting up a salon, tailoring unit, repair shop, coaching center, food stall, laundry service, or any other service-based micro-enterprise.",
- "What you CANNOT use Mudra loan for: Personal expenses, home purchase or renovation, education fees, medical treatment, or any non-business purpose. If the bank discovers misuse, they can recall the full loan amount immediately."
- ]
- },
- {
- "type": "svg_block",
- "heading": "Visual: PM Mudra Yojana Key Numbers",
- "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">₹20 Lakh</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Max Loan</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">Not Required</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Collateral</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">52+ Crore</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Beneficiaries</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">₹32.4+ Lakh Cr</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Total Disbursed</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
- "caption": "Key numbers for PM Mudra Yojana",
- "description": "Quick overview of the most important numbers and facts."
- },
- {
- "heading": "Quick Reference: Mudra Loan Data (FY 2024-25)",
- "icon": "📈",
- "type": "table",
- "columns": [
- "Metric",
- "Value",
- "Change from Previous Year"
- ],
- "rows": [
- [
- "Total Loans Disbursed",
- "₹5,02,782 Cr",
- "+8.5%"
- ],
- [
- "Loan Accounts",
- "4.79 Cr",
- "+5.2%"
- ],
- [
- "Average Loan Size",
- "₹1.02 Lakh",
- "+12.3%"
- ],
- [
- "Women Beneficiaries",
- "68%",
- "Stable"
- ],
- [
- "SC/ST/OBC Borrowers",
- "50%",
- "Stable"
- ],
- [
- "Total Accumulated Disbursement",
- "₹32.4+ Lakh Cr",
- "Since 2015"
- ]
- ]
- },
- {
- "type": "text",
- "heading": "What is PM Mudra Yojana and who is it for?",
- "icon": "🏪",
- "content": [
- "Pradhan Mantri Mudra <a href=\"/yojana/atal-pension-yojana\" style=\"text-decoration:underline;color:inherit\">Yojana</a> (PMMY) launched on April 8, 2015 provides collateral-free loans up to Rs 20 lakh for non-farm micro and small enterprises. If you run or want to start a small business - kirana shop, beauty parlour, food stall, tailoring unit, auto repair garage, mobile repair shop, dairy farm, coaching center, or any small enterprise - Mudra loan is designed for you.",
- "The name 'Mudra' stands for Micro Units Development and Refinance Agency. MUDRA is an NBFC set up by the government to refinance banks and MFIs that lend to micro-enterprises.",
- "You don't apply to MUDRA directly - you apply at any bank (SBI, PNB, HDFC, ICICI, cooperative banks), NBFC, or Micro Finance Institution. They lend to you and get refinanced by MUDRA.",
- "Since launch, over 47 crore Mudra loans totaling Rs 27+ lakh crore have been sanctioned. 68% of Mudra loans go to women entrepreneurs. 51% go to SC/ST/OBC borrowers. The average Mudra loan size is approximately Rs 57,000 - reflecting its focus on the smallest businesses that formal banking traditionally ignored."
- ]
- },
- {
- "type": "text",
- "heading": "Shishu, Kishore, Tarun - which category fits you?",
- "icon": "📊",
- "content": [
- "Shishu (up to Rs 50,000): For brand-new businesses or very small existing businesses needing working capital. A vegetable vendor buying initial stock, a tailor buying a sewing machine, a mobile repairer buying tools, or a chai shop owner buying supplies.",
- "No business plan document needed - a verbal description of your business to the bank officer is usually sufficient. This is the easiest Mudra loan to get approved.",
- "Kishore (Rs 50,000 to Rs 5 lakh): For existing businesses that want to grow - buy more inventory, hire helpers, add equipment, or expand to a second location. A kirana shop adding groceries to a previously snacks-only store, a beauty parlour buying an AC and styling chair, or a food stall upgrading to a semi-permanent structure.",
- "Banks may ask for a simple 1-2 page business plan showing how you'll use the money.",
- "Tarun (Rs 5 lakh to Rs 20 lakh): For established businesses ready for significant expansion - opening a new branch, buying a commercial vehicle, purchasing manufacturing equipment, or expanding product range. A coaching center opening a second branch, an auto repair shop adding a showroom, or a dairy farm adding pasteurization equipment.",
- "Banks typically require a 3-5 page business plan with revenue projections and fund utilization details.",
- "Interest rates: Not fixed by the government - each bank sets its own rate. Typical ranges: Shishu 10-12%, Kishore 11-14%, Tarun 12-16%.",
- "These are higher than home loans or education loans because micro-enterprises carry higher risk. However, they're significantly cheaper than informal money lender rates (24-60%).",
- "Some banks offer lower rates for women entrepreneurs and SC/ST borrowers."
- ]
- },
- {
- "type": "text",
- "heading": "How to apply for Mudra loan - the complete process",
- "icon": "📝",
- "content": [
- "Step 1: Decide which bank to approach. The best option is the bank where you already have a savings account - the bank has your transaction history and KYC, making approval faster.",
- "Alternatively, apply through Jan Samarth portal (jansamarth.in) which routes your application to multiple banks simultaneously - increasing approval probability.",
- "Step 2: Visit the bank branch and ask for the Mudra loan application form. For Shishu: the form is simple - personal details, business type, loan amount needed, and how you'll use the money.",
- "For Kishore and Tarun: additionally submit a brief business plan, last 6 months' bank statement, business registration documents (if any - Udyam registration, GST, shop license), and identity/address proof.",
- "Step 3: The bank officer may visit your business location to verify it exists and assess viability. For Shishu loans, this is often a quick telephonic verification.",
- "For Kishore and Tarun, a physical visit is standard. Keep your business premises clean and organized - the bank officer's impression matters for approval.",
- "Step 4: If approved, the loan is disbursed within 7-15 working days. For Shishu, disbursement is to your bank account directly.",
- "For Kishore and Tarun, the bank may disburse partially - releasing funds in stages based on utilization proof. You receive a Mudra Card (a debit card linked to your Mudra loan account) for drawing working capital as needed.",
- "Step 5: Repay through monthly EMIs. Repayment period: Shishu - up to 5 years, Kishore - up to 5-7 years, Tarun - up to 5-7 years.",
- "EMIs are auto-debited from your bank account or you can deposit cash at the branch. Timely repayment builds your credit score (CIBIL) - essential for getting larger loans in the future."
- ]
- },
- {
- "type": "text",
- "heading": "Who gets approved and who gets rejected - honest reality",
- "icon": "⚖️",
- "content": [
- "Approved profiles: Existing businesses with 6+ months of operation and regular bank account transactions (highest approval rate - 80%+). Women entrepreneurs (banks have Mudra targets for women - 68% of all Mudra loans go to women).",
- "SC/ST/OBC applicants (priority sector lending norms give preference). Borrowers with CIBIL score above 650 (shows credit discipline).",
- "Businesses in sectors with predictable cash flow - grocery, food, salon, tailoring, repair services.",
- "Rejected profiles: First-time borrowers with no business track record and no bank transaction history (hardest to get approved - banks can't assess risk). Borrowers with existing defaulted loans or CIBIL score below 600.",
- "Businesses with unclear revenue model ('I want to start something' without specifics). Applicants who can't explain how they'll repay the EMI from business income.",
- "If rejected: Ask the bank for the specific rejection reason in writing. Common fixable reasons: low CIBIL score (improve by paying existing EMIs on time for 6 months), no business track record (start the business informally for 3-6 months, build bank transactions, then reapply), incomplete documentation (submit whatever was missing).",
- "Apply to a different bank or NBFC - rejection by one bank doesn't prevent approval by another.",
- "The dirty secret: Despite Mudra being a government-mandated scheme, individual bank branches have discretion in approvals. Some branch managers are risk-averse and reject borderline applications.",
- "If your application is genuinely strong but rejected, escalate to the bank's regional manager or file a complaint on the MUDRA portal at mudra.org.in. Banks have annual Mudra targets - escalation often works because branch managers want to meet their targets.",
- "For more details, see our guide on <a href=\"/yojana/pm-awas-yojana\" style=\"text-decoration:underline;color:inherit\">PM Awas Yojana</a>.",
- "For more details, see our guide on <a href=\"/yojana/pm-kusum-yojana\" style=\"text-decoration:underline;color:inherit\">PM KUSUM Yojana</a>."
- ]
- },
- {
- "type": "svg_block",
- "heading": "Visual: Eligibility Check",
- "svg": "<svg viewBox=\"0 0 700 150\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Eligibility</text><rect x=\"20\" y=\"35\" width=\"320\" height=\"105\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"180\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1B6B4A\">Eligible</text><text x=\"40\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Who can apply</text><text x=\"40\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Collateral needed</text><rect x=\"360\" y=\"35\" width=\"320\" height=\"105\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"520\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#BE185D\">Not Eligible</text><text x=\"380\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Business types cover</text><text x=\"380\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Shishu (up to ₹50K)</text><text x=\"380\" y=\"111\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Kishore (₹50K–₹5L)</text><text x=\"380\" y=\"129\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Tarun (₹5L–₹20L)</text><text x=\"380\" y=\"147\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Documents needed</text></svg>",
- "caption": "Quick eligibility check for PM Mudra Yojana",
- "description": "Check if you meet the basic eligibility criteria before applying."
- },
- {
- "type": "text",
- "heading": "Mudra loan for specific business types",
- "icon": "🏪",
- "content": [
- "Kirana/grocery shop: Shishu Rs 50,000 for initial stock, or Kishore Rs 2-3 lakh for a well-stocked shop with refrigerator and display shelves. Grocery shops have the highest Mudra approval rate because they have daily cash flow - the bank knows you can make EMI payments from daily sales.",
- "Keep daily sales records even if informal - a simple diary showing daily income helps your application.",
- "Food business (restaurant, tiffin service, food stall): Kishore Rs 1-5 lakh for equipment (gas burner, refrigerator, utensils, seating) and initial ingredients stock. Food businesses are approved easily because of high demand and predictable revenue.",
- "FSSAI license (food safety registration at fssai.gov.in - free for small businesses) strengthens your application.",
- "Beauty parlour/salon: Kishore Rs 1-3 lakh for chairs, mirrors, equipment (hair dryer, steamer, manicure set), AC, and interior setup. Women-run salons get priority under Mudra's women entrepreneurship focus.",
- "If you have a beauty training certificate (from government ITI or private academy), it significantly improves approval chances.",
- "Auto repair/mobile repair: Shishu Rs 30,000-50,000 for tools and initial spare parts inventory. Kishore Rs 1-3 lakh for a equipped workshop with lift/compressor (auto) or microscope and BGA machine (mobile).",
- "Repair businesses have excellent Mudra approval rates because skill-based services have low failure rates and steady customer demand.",
- "Dairy farming/poultry: Kishore Rs 2-5 lakh for cattle purchase, shed construction, and feed stock. Banks are increasingly supportive of rural Mudra loans for allied agriculture activities.",
- "Get a brief project report from your district's animal husbandry officer - it's free and adds credibility to your application."
- ]
- },
- {
- "type": "text",
- "heading": "Mudra Card - how it works",
- "icon": "💳",
- "content": [
- "When your Mudra loan is approved, the bank issues a Mudra Card - a RuPay debit card linked to your Mudra loan account. You can withdraw working capital as needed from ATMs or use the card for business purchases at POS terminals.",
- "The credit limit equals your sanctioned Mudra loan amount minus whatever you've already drawn.",
- "The Mudra Card works like a business credit line - withdraw when you need stock or supplies, repay when you receive payment from customers. This revolving credit model is perfect for businesses with fluctuating working capital needs.",
- "A kirana shop owner might draw Rs 20,000 before a festival season (higher sales = more stock needed) and repay from festival earnings.",
- "Interest is charged only on the amount you've drawn, not on the full sanctioned amount. If your Mudra loan is Rs 2 lakh but you've drawn only Rs 80,000, interest is calculated on Rs 80,000.",
- "This saves significant interest cost compared to a term loan where interest is on the full amount from day one.",
- "Mudra Card acceptance: The card works at all ATMs (subject to daily withdrawal limits) and at POS machines across India. You can also use it for online purchases if the bank has enabled e-commerce transactions.",
- "For UPI payments from the Mudra account, link the account to your UPI app - this lets suppliers and customers pay directly to your business account."
- ]
- },
- {
- "type": "text",
- "heading": "Common Mudra loan myths debunked",
- "icon": "🚫",
- "content": [
- "Myth: Mudra loans are free - you don't have to repay. WRONG.",
- "Mudra loans are real bank loans with interest. You must repay through monthly EMIs.",
- "Defaulting on a Mudra loan damages your CIBIL score, leads to legal recovery proceedings, and makes it impossible to get any future bank loan. Treat it as seriously as any other loan.",
- "Myth: Only SC/ST or women can get Mudra loans. WRONG.",
- "Mudra is open to ALL citizens regardless of caste, gender, or religion. SC/ST and women get priority processing (faster approval, sometimes lower interest), but general category male applicants are equally eligible. 32% of Mudra loans go to general category borrowers.",
- "Myth: You need a business registration to apply. WRONG for Shishu loans.",
- "A street vendor, home-based tailor, or mobile repairer with no registration can apply for Shishu. For Kishore and Tarun, having Udyam registration (free at udyamregistration.gov.in) helps but isn't always mandatory - depends on the bank's internal policy.",
- "Myth: Banks will automatically give you a Mudra loan. WRONG.",
- "Banks have the discretion to approve or reject based on your creditworthiness, business viability, and repayment capacity. The government mandates banks to prioritize Mudra lending, but individual applications are evaluated on merit.",
- "A strong business plan and good bank relationship dramatically improve approval chances."
- ]
- },
- {
- "type": "callout",
- "variant": "tip",
- "heading": "Apply through Jan Samarth for higher approval chances",
- "content": "Instead of applying at one bank and risking rejection, apply through jansamarth.in - the government's unified loan portal. Your single application is routed to multiple banks simultaneously. If SBI rejects, PNB might approve. Jan Samarth increases your approval probability by 30-40% compared to a single-bank application. Registration is free and takes 10 minutes."
- },
- {
- "type": "svg_block",
- "heading": "Visual: Application Process",
- "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><defs><marker id=\"af\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><polygon points=\"0 0, 10 3, 0 6\" fill=\"#1E40AF\"/></marker></defs><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">How to Apply</text><rect x=\"20\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"90\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Visit any bank bra</text><line x1=\"160\" y1=\"65\" x2=\"180\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"190\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"260\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Choose your catego</text><line x1=\"330\" y1=\"65\" x2=\"350\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"360\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"430\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Submit business pl</text><line x1=\"500\" y1=\"65\" x2=\"520\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"530\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"600\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Bank processes and</text></svg>",
- "caption": "Step-by-step application process",
- "description": "Follow these steps to complete your application successfully."
- },
- {
- "type": "callout",
- "variant": "warning",
- "heading": "Beware of Mudra loan agents charging fees",
- "content": "Mudra loan application is FREE at every bank. There is NO processing fee for Mudra loans up to Rs 10 lakh. If anyone - agent, tout, or even a bank employee - asks for money to 'process' or 'guarantee' your Mudra loan, it's a scam or bribe. Report to the bank's vigilance department and the RBI complaint portal at cms.rbi.org.in. Legitimate Mudra loans require zero fees."
- },
- {
- "type": "pullquote",
- "text": "47 crore Mudra loans. Rs 27 lakh crore disbursed. 68% to women. 51% to SC/ST/OBC. Average loan size Rs 57,000. Mudra has done more to democratize business credit in India than any scheme in history. If you have a business idea and Rs 0 in capital - Mudra turns that idea into reality with a collateral-free loan at your nearest bank."
- },
- {
- "type": "text",
- "heading": "Mudra loan repayment tips - avoid default",
- "icon": "💡",
- "content": [
- "Set up auto-debit EMI from your business bank account. If your business income is deposited into the same account, the EMI is automatically deducted - no missed payments.",
- "If using a separate account, transfer EMI amount 2 days before the due date every month. One missed EMI starts damaging your CIBIL score immediately.",
- "If business is going through a rough patch and you can't make EMI: Contact your bank IMMEDIATELY - before the EMI due date. Banks can restructure Mudra loans by extending the repayment period (reducing monthly EMI) or granting a moratorium (temporary EMI pause for 3-6 months).",
- "Proactive communication shows good faith - banks are far more cooperative with borrowers who communicate early than those who simply stop paying.",
- "Prepay if business is doing well. Mudra loans have NO prepayment penalty.",
- "If your business generates surplus cash, make partial prepayments to reduce the outstanding principal and save on interest. Paying Rs 5,000 extra above EMI in a month saves Rs 500-800 in total interest over the loan tenure.",
- "Small prepayments compound into significant savings.",
- "Build your CIBIL score through Mudra repayment. Every on-time EMI payment is reported to credit bureaus.",
- "After 12 months of perfect repayment, your CIBIL score improves by 50-100 points. A good CIBIL score (750+) opens doors to larger loans (home loan, vehicle loan, business term loan) at lower interest rates.",
- "Your Mudra loan is not just financing - it's your credit history foundation."
- ]
- },
- {
- "type": "callout",
- "heading": "Official Sources & References",
- "icon": "📖",
- "variant": "info",
- "content": "Source: MUDRA (Micro Units Development & Refinance Agency) Ltd., SIDBI. All information on this page has been verified against official government notifications and regulatory circulars. For the latest updates, always check the official portal."
- },
- {
- "type": "svg_block",
- "heading": "MUDRA Loan Categories",
- "icon": "💰",
- "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">MUDRA Loan Three Categories</text><rect x=\"30\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"130\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">Shishu up to ₹50K</text><rect x=\"250\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"350\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Kishore ₹50K-5L</text><rect x=\"470\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"570\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#92400E\">Tarun ₹5L-10L</text></svg>",
- "caption": "No collateral needed for MUDRA loans up to ₹10 lakh for small businesses",
- "description": "Apply at any bank, NBFC, or MFI, no need to visit a special office."
- }
- ],
- "how_to_apply": [
- {
- "step": 1,
- "title": "Visit any bank branch near you",
- "description": "Go to any commercial bank (SBI, PNB, BOB, HDFC, ICICI, etc.), regional rural bank, or small finance bank. Ask for the Mudra loan application form. You can also apply online through some banks' websites - <a href=\"https://www.sbi.co.in/web/services/loans/micro-credit-emudra-loan\" target=\"_blank\">SBI eMudra</a> and <a href=\"https://www.pnbindia.in/en/mudra-loan.html\" target=\"_blank\">PNB Mudra portal</a> offer direct online applications."
- },
- {
- "step": 2,
- "title": "Choose your category and fill the form",
- "description": "Select Shishu, Kishore, Tarun, or Tarun Plus based on how much you need. Fill in your personal details, business details, loan amount, and repayment preference. Attach all required documents."
- },
- {
- "step": 3,
- "title": "Submit business plan (for Kishore/Tarun/Tarun Plus)",
- "description": "For loans above ₹50,000, banks may ask for a brief business plan or project report. Describe: what your business does, how long you've been operating, monthly income/expenses, how the loan will help grow the business, and how you'll repay. Keep it simple and realistic."
- },
- {
- "step": 4,
- "title": "Bank processes and disburses",
- "description": "The bank verifies your documents, checks your credit score (for Kishore/Tarun), and assesses your business viability. Shishu loans are processed in 3-7 days. Kishore takes 7-14 days. Tarun may take 2-4 weeks. Tarun Plus may take 4-6 weeks. Once approved, money is disbursed directly to your bank account."
- }
- ],
- "important_alert": {
- "text": "Mudra loan processing is FREE - there is no processing fee, service charge, or file charge for any category. Do NOT pay any middleman or agent to 'arrange' a Mudra loan. Apply directly at the bank. Complaints: <a href=\"https://www.mudra.org.in/\" target=\"_blank\">1800-11-0001</a> or visit the <a href=\"https://www.mudra.org.in/\" target=\"_blank\">MUDRA official portal</a>",
- "type": "warning"
- },
- "important_dates": [
- {
- "label": "Application",
- "value": "Open throughout the year at all banks",
- "highlight": true
- },
- {
- "label": "No deadline",
- "value": "Mudra is an ongoing scheme - apply anytime",
- "highlight": false
- },
- {
- "label": "Tarun Plus Launch",
- "value": "24 October 2024 (max limit ₹20 lakh)",
- "highlight": true
- },
- {
- "label": "Mudra Card",
- "value": "Available for working capital - works like a credit card for business expenses",
- "highlight": false
- },
- {
- "label": "Helpline",
- "value": "1800-11-0001 (toll-free)",
- "highlight": true
- }
- ],
- "faqs": [
- {
- "question": "Is Mudra loan really without collateral?",
- "answer": "Yes. No collateral, no guarantor, and no security deposit is required for any Mudra category (Shishu, Kishore, Tarun, or Tarun Plus up to ₹20 lakh). This is mandated by the government. If a bank asks for collateral for a Mudra loan, you can complain to the bank's grievance cell or call the Mudra helpline."
- },
- {
- "question": "What is the interest rate on Mudra loans?",
- "answer": "Interest rates are not fixed by the government - each bank sets its own rate. Typical ranges: Shishu: 10-12% p.a., Kishore: 11-14% p.a., Tarun: 12-16% p.a. Women borrowers and SC/ST borrowers may get lower rates at some banks. Shop around and compare rates at 2-3 banks before deciding. Some state governments also offer interest subvention (subsidy) for Mudra borrowers."
- },
- {
- "question": "Can I get Mudra loan for agriculture?",
- "answer": "Not for direct farming (crop cultivation), as agriculture has separate schemes like Kisan Credit Card. But you CAN get Mudra loan for allied agricultural activities: dairy farming, poultry, fisheries, beekeeping, mushroom cultivation, sericulture, food processing, and agro-processing. These are classified as micro-enterprises and are very common Mudra use cases."
- },
- {
- "question": "What if I can't repay the Mudra loan?",
- "answer": "If you're facing genuine difficulty, contact your bank immediately and request restructuring or rescheduling of the loan. Banks can extend the repayment period or offer a moratorium. Do not default silently - it damages your CIBIL score and makes future borrowing impossible. Under RBI guidelines, banks must offer restructuring options before declaring a loan as NPA (Non-Performing Asset)."
- },
- {
- "question": "Can salaried people get Mudra loan?",
- "answer": "Mudra is specifically for self-employed individuals and micro-entrepreneurs, not for salaried employees. However, if you're salaried but running a business on the side, you can apply for Mudra for your business - but the loan must be used for business purposes only, not personal use."
- },
- {
- "question": "Is there a Mudra loan subsidy?",
- "answer": "Mudra itself doesn't have a subsidy component - it's a loan that must be repaid with interest. However, some state governments offer interest subvention (partial interest subsidy) for Mudra borrowers. Check with your state's MSME department or the bank for any available interest subsidy schemes. Some states also offer subsidy specifically for women entrepreneurs or SC/ST borrowers."
- },
- {
- "question": "What is Mudra Card?",
- "answer": "Mudra Card is a debit card linked to a working capital Mudra loan account. It works like a business credit card - you can withdraw or spend up to your sanctioned limit, and interest is charged only on the amount used. It's available for Shishu and Kishore categories and is particularly useful for businesses with fluctuating cash needs. The card provides convenience and better financial management."
- },
- {
- "question": "How many times can I take a Mudra loan?",
- "answer": "There is no limit. You can take multiple Mudra loans over time, including upgrading from Shishu to Kishore to Tarun to Tarun Plus. However, you should have repaid or be regular on your previous Mudra loan before applying for a new one. Good repayment history increases your chances of higher loan amounts and better interest rates."
- },
- {
- "question": "Is Mudra loan without interest?",
- "answer": "No. Mudra loans carry interest - rates set by individual banks, typically 10-16% per annum depending on category and bank. The government does NOT subsidize interest on Mudra loans (unlike PM SVANidhi which has 7% interest subsidy). However, Mudra rates are significantly cheaper than informal money lender rates (24-60%). Compare rates across 2-3 banks before finalizing."
- },
- {
- "question": "What is the maximum Mudra loan amount?",
- "answer": "Rs 20 lakh - under the Tarun category. Shishu: up to Rs 50,000. Kishore: Rs 50,000-5 lakh. Tarun: Rs 5-20 lakh. Loans up to Rs 10 lakh are collateral-free (no property or security needed). For Rs 10-20 lakh, some banks may ask for collateral depending on your credit profile."
- },
- {
- "question": "Can salaried people get Mudra loan?",
- "answer": "No. Mudra loans are for self-employed individuals and micro-enterprise owners only. If you're a salaried employee and want to start a side business, you can apply for Mudra - but you must show the business as the primary purpose of the loan, and the business should have some existing operations or a concrete startup plan. Purely salaried individuals without business activity are not eligible."
- },
- {
- "question": "How long does Mudra loan approval take?",
- "answer": "Shishu: 3-7 working days (simplest documentation, smallest amount). Kishore: 7-15 working days (requires business plan review and possibly site visit). Tarun: 15-30 working days (detailed scrutiny, larger amount, possible collateral assessment for Rs 10-20 lakh range). Apply through Jan Samarth for potentially faster processing across multiple banks."
- }
- ],
- "official_portal": {
- "name": "MUDRA Official Website",
- "url": "https://www.mudra.org.in"
- },
- "related_pages": [
- {
- "title": "Stand Up India",
- "slug": "stand-up-india",
- "tag": "Business",
- "url": "/yojana/stand-up-india"
- },
- {
- "title": "PM Vishwakarma Yojana",
- "slug": "pm-vishwakarma-yojana",
- "tag": "Skill",
- "url": "/yojana/pm-vishwakarma-yojana"
- },
- {
- "title": "PM Kisan Samman Nidhi",
- "slug": "pm-kisan",
- "tag": "Agriculture",
- "url": "/yojana/pm-kisan"
- },
- {
- "title": "e-Shram Card",
- "slug": "e-shram-card",
- "tag": "Labour",
- "url": "/yojana/e-shram-card"
- },
- {
- "title": "Startup India Scheme",
- "slug": "startup-india",
- "tag": "Startup",
- "url": "/yojana/startup-india"
- },
- {
- "title": "PM SVANidhi (Street Vendor Loan)",
- "slug": "pm-svanidhi",
- "tag": "Micro Credit",
- "url": "/yojana/pm-svanidhi"
- }
- ],
- "tags": [
- "Business",
- "Loan",
- "MSME",
- "Self-Employment",
- "Collateral-Free",
- "Central Government"
- ],
- "ministry": "Ministry of Finance",
- "launch_year": 2015,
- "image_suggestions": [
- "mudra-loan-shishu-kishore-tarun-comparison",
- "mudra-yojana-application-process-flowchart",
- "mudra-loan-approval-timeline-by-category",
- "mudra-card-benefits-illustration",
- "women-entrepreneur-mudra-loan-success-story",
- "small-business-startup-with-mudra-loan"
- ],
- "last_reviewed": "May 2026",
- "category": "employment",
- "isCentral": true
+  "slug": "pm-mudra-yojana",
+  "title": "PM Mudra Yojana",
+  "meta_description": "PM Mudra Yojana 2026 - get collateral-free business loans up to ₹20 lakh. Shishu, Kishore, Tarun categories explained, eligibility, how to apply at any bank.",
+  "hero": {
+    "status": "active",
+    "one_liner": "Collateral-free loans from ₹50,000 to ₹20 lakh for small businesses, street vendors, artisans, and micro-entrepreneurs - no guarantor needed",
+    "icon": "🏪",
+    "updated_date": "May 2026",
+    "stats": [
+      {
+        "label": "Max Loan",
+        "value": "₹20 Lakh"
+      },
+      {
+        "label": "Collateral",
+        "value": "Not Required"
+      },
+      {
+        "label": "Beneficiaries",
+        "value": "52+ Crore"
+      },
+      {
+        "label": "Total Disbursed",
+        "value": "₹32.4+ Lakh Cr"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "📝",
+      "label": "Apply at Bank",
+      "url": "https://www.mudra.org.in/"
+    },
+    {
+      "icon": "✅",
+      "label": "Check Eligibility",
+      "url": "https://www.mudra.org.in/"
+    },
+    {
+      "icon": "📞",
+      "label": "Helpline: 1800-11-0001",
+      "url": "tel:1800110001"
+    }
+  ],
+  "what_is_it": [
+    "Pradhan Mantri Mudra Yojana (PMMY) was launched on 8 April 2015 to provide easy access to business loans for small and micro-enterprises that cannot get regular bank loans due to lack of collateral, credit history, or formal documentation. The scheme provides loans from ₹50,000 to ₹20 lakh through all commercial banks, RRBs, small finance banks, MFIs, and NBFCs. As of March 2026, the government expanded the maximum loan limit from ₹10 lakh to ₹20 lakh (Tarun Plus category) to support more ambitious business ventures.",
+    "MUDRA stands for <a href=\"https://www.mudra.org.in/\" target=\"_blank\">Micro Units Development and Refinance Agency Ltd.</a> - it is a refinancing agency under SIDBI. MUDRA itself doesn't lend to borrowers directly. Instead, it provides refinancing support to banks and lending institutions so they can lend to small businesses at affordable rates. This model ensures that the actual lending happens through traditional banking channels you already know and trust.",
+    "The scheme has three main categories based on loan amount: Shishu (up to ₹50,000) for those just starting their business, Kishore (₹50,001 to ₹5 lakh) for those looking to expand, and Tarun (₹5,00,001 to ₹20 lakh) for established small businesses needing more capital. No collateral or guarantor is required for any category. A new Tarun Plus category was introduced in October 2024, allowing businesses to borrow up to ₹20 lakh.",
+    "Since launch, PMMY has disbursed over ₹32.4 lakh crore across 52+ crore loan accounts, making it one of the world's largest micro-lending programs. About 68% of Mudra loans have gone to women entrepreneurs, and over 50% to SC/ST/OBC borrowers. The average loan size has grown from ₹38,000 in FY16 to over ₹1.02 lakh in FY25, reflecting how entrepreneurs are scaling their businesses."
+  ],
+  "eligibility": [
+    {
+      "label": "Who can apply",
+      "value": "Any Indian citizen with a business plan or existing small business - includes manufacturing, trading, services, and allied activities",
+      "highlight": true
+    },
+    {
+      "label": "Business types covered",
+      "value": "Street vendors, shopkeepers, artisans, food stall owners, repair services, transport operators, tailors, salons, farmers for allied activities (dairy, poultry, beekeeping), and any micro-enterprise",
+      "highlight": false
+    },
+    {
+      "label": "Collateral needed",
+      "value": "NO collateral or guarantor required for any Mudra loan category",
+      "highlight": true
+    },
+    {
+      "label": "Shishu (up to ₹50K)",
+      "value": "For new businesses or those needing small working capital. Interest rate: 10-12% per annum",
+      "highlight": false
+    },
+    {
+      "label": "Kishore (₹50K–₹5L)",
+      "value": "For businesses looking to expand. Need to show some business track record. Interest rate: 11-14% per annum",
+      "highlight": false
+    },
+    {
+      "label": "Tarun (₹5L–₹20L)",
+      "value": "For established businesses needing larger capital. Bank may ask for business plan and financials. Interest rate: 12-16% per annum. Introduced as Tarun Plus in Oct 2024.",
+      "highlight": false
+    },
+    {
+      "label": "Documents needed",
+      "value": "Aadhaar card, PAN card (for loans above ₹2 lakh), address proof, business proof (if existing), 2 passport photos, bank account statement (last 6 months for Kishore/Tarun)",
+      "highlight": false
+    }
+  ],
+  "eligibility_filters": {
+    "gender": [
+      "all"
+    ],
+    "age_min": 18,
+    "age_max": 65,
+    "occupation": [
+      "self-employed"
+    ],
+    "income_max": 9999999,
+    "category": [
+      "all"
+    ],
+    "states": [
+      "central"
+    ]
+  },
+  "extra_sections": [
+    {
+      "heading": "Shishu vs Kishore vs Tarun vs Tarun Plus - Which Should You Apply For?",
+      "icon": "📊",
+      "type": "table",
+      "columns": [
+        "Feature",
+        "Shishu",
+        "Kishore",
+        "Tarun",
+        "Tarun Plus (New)"
+      ],
+      "rows": [
+        [
+          "Loan Amount",
+          "Up to ₹50,000",
+          "₹50,001 – ₹5 lakh",
+          "₹5,00,001 – ₹10 lakh",
+          "₹10,00,001 – ₹20 lakh"
+        ],
+        [
+          "Best For",
+          "New businesses, street vendors, small working capital",
+          "Expanding businesses, buying equipment, increasing stock",
+          "Established businesses, bigger investment, infrastructure",
+          "Large-scale expansion, factory setup, franchise"
+        ],
+        [
+          "Interest Rate",
+          "10–12% p.a.",
+          "11–14% p.a.",
+          "12–16% p.a.",
+          "12–16% p.a."
+        ],
+        [
+          "Repayment",
+          "3–5 years",
+          "3–5 years",
+          "3–7 years",
+          "5–7 years"
+        ],
+        [
+          "Documentation",
+          "Minimal - Aadhaar + business plan",
+          "Moderate - business proof + bank statements",
+          "Detailed - financials + project report",
+          "Comprehensive - business plan, financials, registration"
+        ],
+        [
+          "Processing Time",
+          "3–7 days",
+          "7–14 days",
+          "14–30 days",
+          "20–45 days"
+        ],
+        [
+          "Collateral",
+          "None",
+          "None",
+          "None",
+          "None"
+        ],
+        [
+          "Approval Rate",
+          "Highest (simple process)",
+          "Moderate",
+          "Depends on business viability",
+          "More stringent verification"
+        ]
+      ]
+    },
+    {
+      "heading": "",
+      "type": "svg_block",
+      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">PM Mudra 3 loan categories by business s</text><rect x=\"30\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"130\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#145236\">Shishu</text><text x=\"130\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">Up to Rs 50,000</text><text x=\"130\" y=\"112\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#145236\">New/startup business</text><rect x=\"250\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"350\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#1E40AF\">Kishore</text><text x=\"350\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">Rs 50,000 Rs 5 lakh</text><text x=\"350\" y=\"112\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#1E40AF\">Growing businesses</text><rect x=\"470\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"570\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#C2410C\">Tarun</text><text x=\"570\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#C2410C\">Rs 5 lakh Rs 20 lakh</text><text x=\"570\" y=\"112\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#C2410C\">Expanding businesses</text></svg>",
+      "caption": "Mudra loans are collateral-free up to Rs 10 lakh. No guarantor needed. Available at all banks, NBFCs, and MFIs. Over 47 crore Mudra loans disbursed since 2015 - India's largest micro-enterprise lending program."
+    },
+    {
+      "heading": "How to Improve Your Chances of Approval",
+      "icon": "💡",
+      "type": "text",
+      "content": [
+        "Tip 1 - Start with Shishu, then upgrade: If you're a first-time borrower with no credit history, apply for a Shishu loan (up to ₹50,000) first. Repay it on time for 6-12 months, then apply for Kishore.",
+        "Banks are much more likely to approve larger <a href=\"/yojana/stand-up-india\" style=\"text-decoration:underline;color:inherit\">loans</a> for borrowers with a good repayment track record.",
+        "Tip 2 - Have a clear business plan: Even for Shishu <a href=\"/yojana/pm-vishwakarma-yojana\" style=\"text-decoration:underline;color:inherit\">loans</a>, briefly explain what your business does, how you'll use the money, and how you'll repay. For Kishore and Tarun, prepare a simple one-page business plan with expected income and expenses.",
+        "You don't need a fancy document - even a handwritten plan works if it's clear and realistic.",
+        "Tip 3 - Apply at multiple banks: If one bank rejects your application, try another. Each bank has different risk criteria.",
+        "Nationalized banks (SBI, PNB, BOB) have mandated Mudra targets and are more likely to approve. Small finance banks (AU, Equitas, Ujjivan) are also very active in Mudra lending.",
+        "Tip 4 - Maintain a clean CIBIL score: For Kishore and Tarun loans, banks will check your credit score. If you have existing loans with missed payments, clear those first.",
+        "A CIBIL score of 650+ significantly improves your chances.",
+        "Tip 5 - Women and SC/ST applicants get priority: The government has mandated that at least 50% of Mudra loans go to women, SC/ST, and OBC borrowers. If you fall in these categories, explicitly mention it in your application.",
+        "Some banks have dedicated Mudra desks for women entrepreneurs.",
+        "Tip 6 - Don't approach agents or middlemen: Apply directly at the bank branch. Mudra loan processing is free - there is no service charge or processing fee for Shishu category.",
+        "If anyone asks you to pay money to 'arrange' a Mudra loan, it's a scam."
+      ]
+    },
+    {
+      "heading": "What Mudra Loan Can Be Used For",
+      "icon": "✅",
+      "type": "text",
+      "content": [
+        "Mudra loans can be used for virtually any legitimate business activity. Common uses include:",
+        "Working capital: Buying raw materials, inventory, or stock for your shop/business. This is the most common use - shopkeepers use it to stock goods before festival seasons.",
+        "Equipment purchase: Buying machinery, tools, sewing machines, food processing equipment, salon equipment, computers, or any business-related equipment.",
+        "Business expansion: Opening a second shop or outlet, renovating your existing workspace, adding new products or services to your business.",
+        "Vehicle purchase for business: Auto-rickshaws, e-rickshaws, delivery vehicles, tempo for goods transport. The vehicle must be used for commercial/business purposes.",
+        "Service businesses: Setting up a salon, tailoring unit, repair shop, coaching center, food stall, laundry service, or any other service-based micro-enterprise.",
+        "What you CANNOT use Mudra loan for: Personal expenses, home purchase or renovation, education fees, medical treatment, or any non-business purpose. If the bank discovers misuse, they can recall the full loan amount immediately."
+      ]
+    },
+    {
+      "type": "svg_block",
+      "heading": "Visual: PM Mudra Yojana Key Numbers",
+      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">₹20 Lakh</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Max Loan</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">Not Required</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Collateral</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">52+ Crore</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Beneficiaries</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">₹32.4+ Lakh Cr</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Total Disbursed</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
+      "caption": "Key numbers for PM Mudra Yojana",
+      "description": "Quick overview of the most important numbers and facts."
+    },
+    {
+      "heading": "Quick Reference: Mudra Loan Data (FY 2024-25)",
+      "icon": "📈",
+      "type": "table",
+      "columns": [
+        "Metric",
+        "Value",
+        "Change from Previous Year"
+      ],
+      "rows": [
+        [
+          "Total Loans Disbursed",
+          "₹5,02,782 Cr",
+          "+8.5%"
+        ],
+        [
+          "Loan Accounts",
+          "4.79 Cr",
+          "+5.2%"
+        ],
+        [
+          "Average Loan Size",
+          "₹1.02 Lakh",
+          "+12.3%"
+        ],
+        [
+          "Women Beneficiaries",
+          "68%",
+          "Stable"
+        ],
+        [
+          "SC/ST/OBC Borrowers",
+          "50%",
+          "Stable"
+        ],
+        [
+          "Total Accumulated Disbursement",
+          "₹32.4+ Lakh Cr",
+          "Since 2015"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "What is PM Mudra Yojana and who is it for?",
+      "icon": "🏪",
+      "content": [
+        "Pradhan Mantri Mudra <a href=\"/yojana/atal-pension-yojana\" style=\"text-decoration:underline;color:inherit\">Yojana</a> (PMMY) launched on April 8, 2015 provides collateral-free loans up to Rs 20 lakh for non-farm micro and small enterprises. If you run or want to start a small business - kirana shop, beauty parlour, food stall, tailoring unit, auto repair garage, mobile repair shop, dairy farm, coaching center, or any small enterprise - Mudra loan is designed for you.",
+        "The name 'Mudra' stands for Micro Units Development and Refinance Agency. MUDRA is an NBFC set up by the government to refinance banks and MFIs that lend to micro-enterprises.",
+        "You don't apply to MUDRA directly - you apply at any bank (SBI, PNB, HDFC, ICICI, cooperative banks), NBFC, or Micro Finance Institution. They lend to you and get refinanced by MUDRA.",
+        "Since launch, over 47 crore Mudra loans totaling Rs 27+ lakh crore have been sanctioned. 68% of Mudra loans go to women entrepreneurs. 51% go to SC/ST/OBC borrowers. The average Mudra loan size is approximately Rs 57,000 - reflecting its focus on the smallest businesses that formal banking traditionally ignored."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Shishu, Kishore, Tarun - which category fits you?",
+      "icon": "📊",
+      "content": [
+        "Shishu (up to Rs 50,000): For brand-new businesses or very small existing businesses needing working capital. A vegetable vendor buying initial stock, a tailor buying a sewing machine, a mobile repairer buying tools, or a chai shop owner buying supplies.",
+        "No business plan document needed - a verbal description of your business to the bank officer is usually sufficient. This is the easiest Mudra loan to get approved.",
+        "Kishore (Rs 50,000 to Rs 5 lakh): For existing businesses that want to grow - buy more inventory, hire helpers, add equipment, or expand to a second location. A kirana shop adding groceries to a previously snacks-only store, a beauty parlour buying an AC and styling chair, or a food stall upgrading to a semi-permanent structure.",
+        "Banks may ask for a simple 1-2 page business plan showing how you'll use the money.",
+        "Tarun (Rs 5 lakh to Rs 20 lakh): For established businesses ready for significant expansion - opening a new branch, buying a commercial vehicle, purchasing manufacturing equipment, or expanding product range. A coaching center opening a second branch, an auto repair shop adding a showroom, or a dairy farm adding pasteurization equipment.",
+        "Banks typically require a 3-5 page business plan with revenue projections and fund utilization details.",
+        "Interest rates: Not fixed by the government - each bank sets its own rate. Typical ranges: Shishu 10-12%, Kishore 11-14%, Tarun 12-16%.",
+        "These are higher than home loans or education loans because micro-enterprises carry higher risk. However, they're significantly cheaper than informal money lender rates (24-60%).",
+        "Some banks offer lower rates for women entrepreneurs and SC/ST borrowers."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "How to apply for Mudra loan - the complete process",
+      "icon": "📝",
+      "content": [
+        "Step 1: Decide which bank to approach. The best option is the bank where you already have a savings account - the bank has your transaction history and KYC, making approval faster.",
+        "Alternatively, apply through Jan Samarth portal (jansamarth.in) which routes your application to multiple banks simultaneously - increasing approval probability.",
+        "Step 2: Visit the bank branch and ask for the Mudra loan application form. For Shishu: the form is simple - personal details, business type, loan amount needed, and how you'll use the money.",
+        "For Kishore and Tarun: additionally submit a brief business plan, last 6 months' bank statement, business registration documents (if any - Udyam registration, GST, shop license), and identity/address proof.",
+        "Step 3: The bank officer may visit your business location to verify it exists and assess viability. For Shishu loans, this is often a quick telephonic verification.",
+        "For Kishore and Tarun, a physical visit is standard. Keep your business premises clean and organized - the bank officer's impression matters for approval.",
+        "Step 4: If approved, the loan is disbursed within 7-15 working days. For Shishu, disbursement is to your bank account directly.",
+        "For Kishore and Tarun, the bank may disburse partially - releasing funds in stages based on utilization proof. You receive a Mudra Card (a debit card linked to your Mudra loan account) for drawing working capital as needed.",
+        "Step 5: Repay through monthly EMIs. Repayment period: Shishu - up to 5 years, Kishore - up to 5-7 years, Tarun - up to 5-7 years.",
+        "EMIs are auto-debited from your bank account or you can deposit cash at the branch. Timely repayment builds your credit score (CIBIL) - essential for getting larger loans in the future."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Who gets approved and who gets rejected - honest reality",
+      "icon": "⚖️",
+      "content": [
+        "Approved profiles: Existing businesses with 6+ months of operation and regular bank account transactions (highest approval rate - 80%+). Women entrepreneurs (banks have Mudra targets for women - 68% of all Mudra loans go to women).",
+        "SC/ST/OBC applicants (priority sector lending norms give preference). Borrowers with CIBIL score above 650 (shows credit discipline).",
+        "Businesses in sectors with predictable cash flow - grocery, food, salon, tailoring, repair services.",
+        "Rejected profiles: First-time borrowers with no business track record and no bank transaction history (hardest to get approved - banks can't assess risk). Borrowers with existing defaulted loans or CIBIL score below 600.",
+        "Businesses with unclear revenue model ('I want to start something' without specifics). Applicants who can't explain how they'll repay the EMI from business income.",
+        "If rejected: Ask the bank for the specific rejection reason in writing. Common fixable reasons: low CIBIL score (improve by paying existing EMIs on time for 6 months), no business track record (start the business informally for 3-6 months, build bank transactions, then reapply), incomplete documentation (submit whatever was missing).",
+        "Apply to a different bank or NBFC - rejection by one bank doesn't prevent approval by another.",
+        "The dirty secret: Despite Mudra being a government-mandated scheme, individual bank branches have discretion in approvals. Some branch managers are risk-averse and reject borderline applications.",
+        "If your application is genuinely strong but rejected, escalate to the bank's regional manager or file a complaint on the MUDRA portal at mudra.org.in. Banks have annual Mudra targets - escalation often works because branch managers want to meet their targets.",
+        "For more details, see our guide on <a href=\"/yojana/pm-awas-yojana\" style=\"text-decoration:underline;color:inherit\">PM Awas Yojana</a>.",
+        "For more details, see our guide on <a href=\"/yojana/pm-kusum-yojana\" style=\"text-decoration:underline;color:inherit\">PM KUSUM Yojana</a>."
+      ]
+    },
+    {
+      "type": "svg_block",
+      "heading": "Visual: Eligibility Check",
+      "svg": "<svg viewBox=\"0 0 700 150\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Eligibility</text><rect x=\"20\" y=\"35\" width=\"320\" height=\"105\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"180\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1B6B4A\">Eligible</text><text x=\"40\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Who can apply</text><text x=\"40\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Collateral needed</text><rect x=\"360\" y=\"35\" width=\"320\" height=\"105\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"520\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#BE185D\">Not Eligible</text><text x=\"380\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Business types cover</text><text x=\"380\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Shishu (up to ₹50K)</text><text x=\"380\" y=\"111\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Kishore (₹50K–₹5L)</text><text x=\"380\" y=\"129\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Tarun (₹5L–₹20L)</text><text x=\"380\" y=\"147\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Documents needed</text></svg>",
+      "caption": "Quick eligibility check for PM Mudra Yojana",
+      "description": "Check if you meet the basic eligibility criteria before applying."
+    },
+    {
+      "type": "text",
+      "heading": "Mudra loan for specific business types",
+      "icon": "🏪",
+      "content": [
+        "Kirana/grocery shop: Shishu Rs 50,000 for initial stock, or Kishore Rs 2-3 lakh for a well-stocked shop with refrigerator and display shelves. Grocery shops have the highest Mudra approval rate because they have daily cash flow - the bank knows you can make EMI payments from daily sales.",
+        "Keep daily sales records even if informal - a simple diary showing daily income helps your application.",
+        "Food business (restaurant, tiffin service, food stall): Kishore Rs 1-5 lakh for equipment (gas burner, refrigerator, utensils, seating) and initial ingredients stock. Food businesses are approved easily because of high demand and predictable revenue.",
+        "FSSAI license (food safety registration at fssai.gov.in - free for small businesses) strengthens your application.",
+        "Beauty parlour/salon: Kishore Rs 1-3 lakh for chairs, mirrors, equipment (hair dryer, steamer, manicure set), AC, and interior setup. Women-run salons get priority under Mudra's women entrepreneurship focus.",
+        "If you have a beauty training certificate (from government ITI or private academy), it significantly improves approval chances.",
+        "Auto repair/mobile repair: Shishu Rs 30,000-50,000 for tools and initial spare parts inventory. Kishore Rs 1-3 lakh for a equipped workshop with lift/compressor (auto) or microscope and BGA machine (mobile).",
+        "Repair businesses have excellent Mudra approval rates because skill-based services have low failure rates and steady customer demand.",
+        "Dairy farming/poultry: Kishore Rs 2-5 lakh for cattle purchase, shed construction, and feed stock. Banks are increasingly supportive of rural Mudra loans for allied agriculture activities.",
+        "Get a brief project report from your district's animal husbandry officer - it's free and adds credibility to your application."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Mudra Card - how it works",
+      "icon": "💳",
+      "content": [
+        "When your Mudra loan is approved, the bank issues a Mudra Card - a RuPay debit card linked to your Mudra loan account. You can withdraw working capital as needed from ATMs or use the card for business purchases at POS terminals.",
+        "The credit limit equals your sanctioned Mudra loan amount minus whatever you've already drawn.",
+        "The Mudra Card works like a business credit line - withdraw when you need stock or supplies, repay when you receive payment from customers. This revolving credit model is perfect for businesses with fluctuating working capital needs.",
+        "A kirana shop owner might draw Rs 20,000 before a festival season (higher sales = more stock needed) and repay from festival earnings.",
+        "Interest is charged only on the amount you've drawn, not on the full sanctioned amount. If your Mudra loan is Rs 2 lakh but you've drawn only Rs 80,000, interest is calculated on Rs 80,000.",
+        "This saves significant interest cost compared to a term loan where interest is on the full amount from day one.",
+        "Mudra Card acceptance: The card works at all ATMs (subject to daily withdrawal limits) and at POS machines across India. You can also use it for online purchases if the bank has enabled e-commerce transactions.",
+        "For UPI payments from the Mudra account, link the account to your UPI app - this lets suppliers and customers pay directly to your business account."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Common Mudra loan myths debunked",
+      "icon": "🚫",
+      "content": [
+        "Myth: Mudra loans are free - you don't have to repay. WRONG.",
+        "Mudra loans are real bank loans with interest. You must repay through monthly EMIs.",
+        "Defaulting on a Mudra loan damages your CIBIL score, leads to legal recovery proceedings, and makes it impossible to get any future bank loan. Treat it as seriously as any other loan.",
+        "Myth: Only SC/ST or women can get Mudra loans. WRONG.",
+        "Mudra is open to ALL citizens regardless of caste, gender, or religion. SC/ST and women get priority processing (faster approval, sometimes lower interest), but general category male applicants are equally eligible. 32% of Mudra loans go to general category borrowers.",
+        "Myth: You need a business registration to apply. WRONG for Shishu loans.",
+        "A street vendor, home-based tailor, or mobile repairer with no registration can apply for Shishu. For Kishore and Tarun, having Udyam registration (free at udyamregistration.gov.in) helps but isn't always mandatory - depends on the bank's internal policy.",
+        "Myth: Banks will automatically give you a Mudra loan. WRONG.",
+        "Banks have the discretion to approve or reject based on your creditworthiness, business viability, and repayment capacity. The government mandates banks to prioritize Mudra lending, but individual applications are evaluated on merit.",
+        "A strong business plan and good bank relationship dramatically improve approval chances."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "heading": "Apply through Jan Samarth for higher approval chances",
+      "content": "Instead of applying at one bank and risking rejection, apply through jansamarth.in - the government's unified loan portal. Your single application is routed to multiple banks simultaneously. If SBI rejects, PNB might approve. Jan Samarth increases your approval probability by 30-40% compared to a single-bank application. Registration is free and takes 10 minutes."
+    },
+    {
+      "type": "svg_block",
+      "heading": "Visual: Application Process",
+      "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><defs><marker id=\"af\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><polygon points=\"0 0, 10 3, 0 6\" fill=\"#1E40AF\"/></marker></defs><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">How to Apply</text><rect x=\"20\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"90\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Visit any bank bra</text><line x1=\"160\" y1=\"65\" x2=\"180\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"190\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"260\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Choose your catego</text><line x1=\"330\" y1=\"65\" x2=\"350\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"360\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"430\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Submit business pl</text><line x1=\"500\" y1=\"65\" x2=\"520\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"530\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"600\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Bank processes and</text></svg>",
+      "caption": "Step-by-step application process",
+      "description": "Follow these steps to complete your application successfully."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "heading": "Beware of Mudra loan agents charging fees",
+      "content": "Mudra loan application is FREE at every bank. There is NO processing fee for Mudra loans up to Rs 10 lakh. If anyone - agent, tout, or even a bank employee - asks for money to 'process' or 'guarantee' your Mudra loan, it's a scam or bribe. Report to the bank's vigilance department and the RBI complaint portal at cms.rbi.org.in. Legitimate Mudra loans require zero fees."
+    },
+    {
+      "type": "pullquote",
+      "text": "47 crore Mudra loans. Rs 27 lakh crore disbursed. 68% to women. 51% to SC/ST/OBC. Average loan size Rs 57,000. Mudra has done more to democratize business credit in India than any scheme in history. If you have a business idea and Rs 0 in capital - Mudra turns that idea into reality with a collateral-free loan at your nearest bank."
+    },
+    {
+      "type": "text",
+      "heading": "Mudra loan repayment tips - avoid default",
+      "icon": "💡",
+      "content": [
+        "Set up auto-debit EMI from your business bank account. If your business income is deposited into the same account, the EMI is automatically deducted - no missed payments.",
+        "If using a separate account, transfer EMI amount 2 days before the due date every month. One missed EMI starts damaging your CIBIL score immediately.",
+        "If business is going through a rough patch and you can't make EMI: Contact your bank IMMEDIATELY - before the EMI due date. Banks can restructure Mudra loans by extending the repayment period (reducing monthly EMI) or granting a moratorium (temporary EMI pause for 3-6 months).",
+        "Proactive communication shows good faith - banks are far more cooperative with borrowers who communicate early than those who simply stop paying.",
+        "Prepay if business is doing well. Mudra loans have NO prepayment penalty.",
+        "If your business generates surplus cash, make partial prepayments to reduce the outstanding principal and save on interest. Paying Rs 5,000 extra above EMI in a month saves Rs 500-800 in total interest over the loan tenure.",
+        "Small prepayments compound into significant savings.",
+        "Build your CIBIL score through Mudra repayment. Every on-time EMI payment is reported to credit bureaus.",
+        "After 12 months of perfect repayment, your CIBIL score improves by 50-100 points. A good CIBIL score (750+) opens doors to larger loans (home loan, vehicle loan, business term loan) at lower interest rates.",
+        "Your Mudra loan is not just financing - it's your credit history foundation."
+      ]
+    },
+    {
+      "type": "callout",
+      "heading": "Official Sources & References",
+      "icon": "📖",
+      "variant": "info",
+      "content": "Source: MUDRA (Micro Units Development & Refinance Agency) Ltd., SIDBI. All information on this page has been verified against official government notifications and regulatory circulars. For the latest updates, always check the official portal."
+    },
+    {
+      "type": "svg_block",
+      "heading": "MUDRA Loan Categories",
+      "icon": "💰",
+      "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">MUDRA Loan Three Categories</text><rect x=\"30\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"130\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">Shishu up to ₹50K</text><rect x=\"250\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"350\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Kishore ₹50K-5L</text><rect x=\"470\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"570\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#92400E\">Tarun ₹5L-10L</text></svg>",
+      "caption": "No collateral needed for MUDRA loans up to ₹10 lakh for small businesses",
+      "description": "Apply at any bank, NBFC, or MFI, no need to visit a special office."
+    }
+  ],
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Visit any bank branch near you",
+      "description": "Go to any commercial bank (SBI, PNB, BOB, HDFC, ICICI, etc.), regional rural bank, or small finance bank. Ask for the Mudra loan application form. You can also apply online through some banks' websites - <a href=\"https://www.sbi.co.in/web/services/loans/micro-credit-emudra-loan\" target=\"_blank\">SBI eMudra</a> and <a href=\"https://www.pnbindia.in/en/mudra-loan.html\" target=\"_blank\">PNB Mudra portal</a> offer direct online applications."
+    },
+    {
+      "step": 2,
+      "title": "Choose your category and fill the form",
+      "description": "Select Shishu, Kishore, Tarun, or Tarun Plus based on how much you need. Fill in your personal details, business details, loan amount, and repayment preference. Attach all required documents."
+    },
+    {
+      "step": 3,
+      "title": "Submit business plan (for Kishore/Tarun/Tarun Plus)",
+      "description": "For loans above ₹50,000, banks may ask for a brief business plan or project report. Describe: what your business does, how long you've been operating, monthly income/expenses, how the loan will help grow the business, and how you'll repay. Keep it simple and realistic."
+    },
+    {
+      "step": 4,
+      "title": "Bank processes and disburses",
+      "description": "The bank verifies your documents, checks your credit score (for Kishore/Tarun), and assesses your business viability. Shishu loans are processed in 3-7 days. Kishore takes 7-14 days. Tarun may take 2-4 weeks. Tarun Plus may take 4-6 weeks. Once approved, money is disbursed directly to your bank account."
+    }
+  ],
+  "important_alert": {
+    "text": "Mudra loan processing is FREE - there is no processing fee, service charge, or file charge for any category. Do NOT pay any middleman or agent to 'arrange' a Mudra loan. Apply directly at the bank. Complaints: <a href=\"https://www.mudra.org.in/\" target=\"_blank\">1800-11-0001</a> or visit the <a href=\"https://www.mudra.org.in/\" target=\"_blank\">MUDRA official portal</a>",
+    "type": "warning"
+  },
+  "important_dates": [
+    {
+      "label": "Application",
+      "value": "Open throughout the year at all banks",
+      "highlight": true
+    },
+    {
+      "label": "No deadline",
+      "value": "Mudra is an ongoing scheme - apply anytime",
+      "highlight": false
+    },
+    {
+      "label": "Tarun Plus Launch",
+      "value": "24 October 2024 (max limit ₹20 lakh)",
+      "highlight": true
+    },
+    {
+      "label": "Mudra Card",
+      "value": "Available for working capital - works like a credit card for business expenses",
+      "highlight": false
+    },
+    {
+      "label": "Helpline",
+      "value": "1800-11-0001 (toll-free)",
+      "highlight": true
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is Mudra loan really without collateral?",
+      "answer": "Yes. No collateral, no guarantor, and no security deposit is required for any Mudra category (Shishu, Kishore, Tarun, or Tarun Plus up to ₹20 lakh). This is mandated by the government. If a bank asks for collateral for a Mudra loan, you can complain to the bank's grievance cell or call the Mudra helpline."
+    },
+    {
+      "question": "What is the interest rate on Mudra loans?",
+      "answer": "Interest rates are not fixed by the government - each bank sets its own rate. Typical ranges: Shishu: 10-12% p.a., Kishore: 11-14% p.a., Tarun: 12-16% p.a. Women borrowers and SC/ST borrowers may get lower rates at some banks. Shop around and compare rates at 2-3 banks before deciding. Some state governments also offer interest subvention (subsidy) for Mudra borrowers."
+    },
+    {
+      "question": "Can I get Mudra loan for agriculture?",
+      "answer": "Not for direct farming (crop cultivation), as agriculture has separate schemes like Kisan Credit Card. But you CAN get Mudra loan for allied agricultural activities: dairy farming, poultry, fisheries, beekeeping, mushroom cultivation, sericulture, food processing, and agro-processing. These are classified as micro-enterprises and are very common Mudra use cases."
+    },
+    {
+      "question": "What if I can't repay the Mudra loan?",
+      "answer": "If you're facing genuine difficulty, contact your bank immediately and request restructuring or rescheduling of the loan. Banks can extend the repayment period or offer a moratorium. Do not default silently - it damages your CIBIL score and makes future borrowing impossible. Under RBI guidelines, banks must offer restructuring options before declaring a loan as NPA (Non-Performing Asset)."
+    },
+    {
+      "question": "Can salaried people get Mudra loan?",
+      "answer": "Mudra is specifically for self-employed individuals and micro-entrepreneurs, not for salaried employees. However, if you're salaried but running a business on the side, you can apply for Mudra for your business - but the loan must be used for business purposes only, not personal use."
+    },
+    {
+      "question": "Is there a Mudra loan subsidy?",
+      "answer": "Mudra itself doesn't have a subsidy component - it's a loan that must be repaid with interest. However, some state governments offer interest subvention (partial interest subsidy) for Mudra borrowers. Check with your state's MSME department or the bank for any available interest subsidy schemes. Some states also offer subsidy specifically for women entrepreneurs or SC/ST borrowers."
+    },
+    {
+      "question": "What is Mudra Card?",
+      "answer": "Mudra Card is a debit card linked to a working capital Mudra loan account. It works like a business credit card - you can withdraw or spend up to your sanctioned limit, and interest is charged only on the amount used. It's available for Shishu and Kishore categories and is particularly useful for businesses with fluctuating cash needs. The card provides convenience and better financial management."
+    },
+    {
+      "question": "How many times can I take a Mudra loan?",
+      "answer": "There is no limit. You can take multiple Mudra loans over time, including upgrading from Shishu to Kishore to Tarun to Tarun Plus. However, you should have repaid or be regular on your previous Mudra loan before applying for a new one. Good repayment history increases your chances of higher loan amounts and better interest rates."
+    },
+    {
+      "question": "Is Mudra loan without interest?",
+      "answer": "No. Mudra loans carry interest - rates set by individual banks, typically 10-16% per annum depending on category and bank. The government does NOT subsidize interest on Mudra loans (unlike PM SVANidhi which has 7% interest subsidy). However, Mudra rates are significantly cheaper than informal money lender rates (24-60%). Compare rates across 2-3 banks before finalizing."
+    },
+    {
+      "question": "What is the maximum Mudra loan amount?",
+      "answer": "Rs 20 lakh - under the Tarun category. Shishu: up to Rs 50,000. Kishore: Rs 50,000-5 lakh. Tarun: Rs 5-20 lakh. Loans up to Rs 10 lakh are collateral-free (no property or security needed). For Rs 10-20 lakh, some banks may ask for collateral depending on your credit profile."
+    },
+    {
+      "question": "Can salaried people get Mudra loan?",
+      "answer": "No. Mudra loans are for self-employed individuals and micro-enterprise owners only. If you're a salaried employee and want to start a side business, you can apply for Mudra - but you must show the business as the primary purpose of the loan, and the business should have some existing operations or a concrete startup plan. Purely salaried individuals without business activity are not eligible."
+    },
+    {
+      "question": "How long does Mudra loan approval take?",
+      "answer": "Shishu: 3-7 working days (simplest documentation, smallest amount). Kishore: 7-15 working days (requires business plan review and possibly site visit). Tarun: 15-30 working days (detailed scrutiny, larger amount, possible collateral assessment for Rs 10-20 lakh range). Apply through Jan Samarth for potentially faster processing across multiple banks."
+    }
+  ],
+  "official_portal": {
+    "name": "MUDRA Official Website",
+    "url": "https://www.mudra.org.in"
+  },
+  "related_pages": [
+    {
+      "title": "Stand Up India",
+      "slug": "stand-up-india",
+      "tag": "Business",
+      "url": "/yojana/stand-up-india"
+    },
+    {
+      "title": "PM Vishwakarma Yojana",
+      "slug": "pm-vishwakarma-yojana",
+      "tag": "Skill",
+      "url": "/yojana/pm-vishwakarma-yojana"
+    },
+    {
+      "title": "PM Kisan Samman Nidhi",
+      "slug": "pm-kisan",
+      "tag": "Agriculture",
+      "url": "/yojana/pm-kisan"
+    },
+    {
+      "title": "e-Shram Card",
+      "slug": "e-shram-card",
+      "tag": "Labour",
+      "url": "/yojana/e-shram-card"
+    },
+    {
+      "title": "Startup India Scheme",
+      "slug": "startup-india",
+      "tag": "Startup",
+      "url": "/yojana/startup-india"
+    },
+    {
+      "title": "PM SVANidhi (Street Vendor Loan)",
+      "slug": "pm-svanidhi",
+      "tag": "Micro Credit",
+      "url": "/yojana/pm-svanidhi"
+    }
+  ],
+  "tags": [
+    "Business",
+    "Loan",
+    "MSME",
+    "Self-Employment",
+    "Collateral-Free",
+    "Central Government"
+  ],
+  "ministry": "Ministry of Finance",
+  "launch_year": 2015,
+  "image_suggestions": [
+    "mudra-loan-shishu-kishore-tarun-comparison",
+    "mudra-yojana-application-process-flowchart",
+    "mudra-loan-approval-timeline-by-category",
+    "mudra-card-benefits-illustration",
+    "women-entrepreneur-mudra-loan-success-story",
+    "small-business-startup-with-mudra-loan"
+  ],
+  "last_reviewed": "May 2026",
+  "category": "employment",
+  "isCentral": true
 }
