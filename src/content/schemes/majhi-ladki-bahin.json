@@ -1,803 +1,815 @@
 {
- "slug": "majhi-ladki-bahin",
- "title": "Majhi Ladki Bahin 2026: Rs 1,500/Month, Documents, eKYC",
- "meta_description": "Maharashtra pays Rs 1,500/month to 2.4 cr women aged 21-65. Documents, eligibility, e-KYC by 31 Mar 2026, status check, installment dates. Income under Rs 2.5 lakh.",
- "hero": {
- "status": "active",
- "one_liner": "Monthly cash assistance of ₹1,500 for women aged 21-65 in Maharashtra",
- "icon": "👩",
- "updated_date": "May 2026",
- "stats": [
- {
- "label": "Monthly Amount",
- "value": "₹1,500"
- },
- {
- "label": "Beneficiaries",
- "value": "2.3-2.4 crore"
- },
- {
- "label": "Annual Support",
- "value": "₹18,000"
- },
- {
- "label": "Income Limit",
- "value": "₹2.5 lakh/year"
- }
- ]
- },
- "quick_actions": [
- {
- "icon": "📝",
- "label": "Apply Now",
- "url": "https://ladakibahin.maharashtra.gov.in/"
- },
- {
- "icon": "✅",
- "label": "Complete eKYC",
- "url": "https://ladakibahin.maharashtra.gov.in/ekyc"
- },
- {
- "icon": "🔍",
- "label": "Check Status",
- "url": "https://ladakibahin.maharashtra.gov.in/status-check"
- },
- {
- "icon": "📱",
- "label": "Track Payments",
- "url": "https://ladakibahin.maharashtra.gov.in/payment-tracker"
- }
- ],
- "what_is_it": [
- "Majhi Ladki Bahin (My Sister) is Maharashtra's flagship women empowerment scheme launched in July 2024 by the state government. It provides unconditional monthly cash support of ₹1,500 directly to women's bank accounts, amounting to ₹18,000 per year. As of March 2026, 2.3 to 2.4 crore (23-24 million) eligible women receive regular payments, making it one of India's largest direct benefit transfer programs for women.",
- "The scheme aims to ensure financial independence and dignity for women by providing reliable monthly income. Whether you're a homemaker, widow, divorcee, or working woman, if you meet the basic eligibility criteria, you qualify for the scheme. Payments are transferred directly to your Aadhaar-linked bank account through the state's digital payment system, with no middleman or offline processes involved.",
- "Unlike conditional schemes that require school enrollment or health checkups, Majhi Ladki Bahin places no restrictions on how you use the money. This recognizes that women best understand their own needs: whether buying groceries, paying utility bills, investing in small business, or saving for emergencies. Since launch, the scheme has disbursed over ₹17,500 crore in the first seven months alone.",
- "The most critical requirement for continued payments is e-KYC (electronic Know Your Customer) verification, which became mandatory from August 2024. The government uses this to ensure only eligible women receive funds. As of March 2026, there is one final deadline: all beneficiaries must complete e-KYC verification by March 31, 2026, or risk losing monthly payments."
- ],
- "eligibility": [
- {
- "label": "Age Group",
- "value": "Women aged 21 to 65 years old",
- "highlight": true
- },
- {
- "label": "Family Income",
- "value": "Annual family income must not exceed ₹2.5 lakh (approximately ₹20,833/month)",
- "highlight": true
- },
- {
- "label": "Residency",
- "value": "Must be a resident of Maharashtra for at least the past 5 years",
- "highlight": true
- },
- {
- "label": "Bank Account",
- "value": "Must have an active bank account in your own name, linked to Aadhaar",
- "highlight": true
- },
- {
- "label": "Ration Card Status",
- "value": "Yellow, orange, or white ration card holders (income verification based on card type)",
- "highlight": false
- },
- {
- "label": "Marital Status",
- "value": "All women eligible-married, unmarried, widow, divorcee, separated",
- "highlight": false
- },
- {
- "label": "Occupation",
- "value": "No occupation restrictions-homemakers, workers, farmers, business owners all eligible",
- "highlight": false
- },
- {
- "label": "Excluded Categories",
- "value": "Government pensioners, income tax payees, those earning above ₹2.5 lakh annually",
- "highlight": false
- }
- ],
- "eligibility_filters": {
- "gender": [
- "Women only"
- ],
- "age_min": 21,
- "age_max": 65,
- "occupation": [],
- "income_max": 250000,
- "category": [
- "All categories"
- ],
- "states": [
- "Maharashtra"
- ]
- },
- "extra_sections": [
- {
- "type": "stat_grid",
- "heading": "Majhi Ladki Bahin 2026: Key Numbers",
- "items": [
- {
- "icon": "wallet",
- "value": "Rs 1,500",
- "label": "Every month",
- "color": "green"
- },
- {
- "icon": "users",
- "value": "2.4 Cr+",
- "label": "Women enrolled",
- "color": "blue"
- },
- {
- "icon": "calendar",
- "value": "21-65 yrs",
- "label": "Age range",
- "color": "amber"
- },
- {
- "icon": "shield",
- "value": "Rs 2.5 L",
- "label": "Income limit (family)",
- "color": "purple"
- }
- ]
- },
- {
- "type": "modern_callout",
- "variant": "info",
- "title": "Key Facts",
- "content": "₹1,500/month for eligible women aged 21-65 in Maharashtra. 2.3+ crore beneficiaries. Family income must be below ₹2.5 lakh/year. Payments arrive 1st-15th every month via DBT."
- },
- {
- "type": "eligibility_check",
- "heading": "Are You Eligible for Majhi Ladki Bahin Yojana?",
- "qualify": [
- "Maharashtra resident woman aged 21-65 years",
- "Married, divorcee, widow, deserted, or single",
- "Family annual income below Rs 2.5 lakh",
- "Aadhaar linked to your own bank account (NPCI-mapped)",
- "Holds yellow or orange ration card (NFSA)",
- "Domicile in Maharashtra"
- ],
- "disqualify": [
- "Family income above Rs 2.5 lakh per year",
- "Family member is an income tax filer",
- "Family member is a government employee",
- "Already getting Rs 1,500+ from other state scheme",
- "Owns a 4-wheeler vehicle (excluding tractor)",
- "Bank account in joint name only (must have individual account)"
- ]
- },
- {
- "heading": "Required Documents for Application",
- "icon": "📄",
- "type": "table",
- "columns": [
- "Document",
- "Purpose",
- "Where to Get",
- "Validity"
- ],
- "rows": [
- [
- "Aadhaar Card",
- "Identity verification & e-KYC",
- "UIDAI (issued by government)",
- "Lifetime (unless updated)"
- ],
- [
- "Bank Passbook (first page)",
- "Proof of bank account for DBT transfer",
- "Your bank branch: first page showing name, account number, IFSC",
- "Mandatory. Cancelled cheque is NOT required: bank passbook first page is sufficient"
- ],
- [
- "Ration Card",
- "Income verification & residence proof",
- "Fair Price Shop / Taluka Office",
- "Valid for 5 years"
- ],
- [
- "Domicile Certificate",
- "Proof of Maharashtra residency",
- "Taluka or Municipal Office",
- "Valid for 1 year (renewable)"
- ],
- [
- "Marriage Certificate",
- "Required if newlywed (name not on ration card)",
- "Municipal Corporation or Gram Panchayat",
- "Lifetime"
- ],
- [
- "Widow/Divorce Certificate",
- "Proof if widow or divorced",
- "Gram Panchayat or Court",
- "Lifetime"
- ],
- [
- "Mobile Phone",
- "To receive OTP for e-KYC verification",
- "Any telecom provider",
- "Must be active"
- ],
- [
- "Passport-size Photo",
- "For portal registration",
- "Self-clicked or studio photo",
- "Recent (last 6 months)"
- ],
- [
- "Nari Shakti Doot App / lly.mhicds.com",
- "Used for e-KYC biometric verification at Anganwadi centres",
- "Download 'Nari Shakti Doot' app or visit lly.mhicds.com",
- "Required only for in-person e-KYC at Anganwadi / Gram Panchayat"
- ]
- ]
- },
- {
- "type": "text",
- "heading": "Bank Passbook or Cancelled Cheque: Which is Required",
- "icon": "🏦",
- "content": [
- "This is the most-confused topic among applicants. Government guidelines have been inconsistent across rollout phases, so let us clarify what's actually accepted at registration centres as of 2026:"
- ]
- },
- {
- "type": "comparison_card",
- "heading": "Bank Documents: What Works at Registration",
- "win": {
- "name": "BANK PASSBOOK",
- "amount": "Required",
- "sub": "Most preferred, always accepted"
- },
- "others": [
- {
- "name": "BANK STATEMENT",
- "amount": "Often OK",
- "sub": "Recent 3-6 months, official stamp"
- },
- {
- "name": "CANCELLED CHEQUE",
- "amount": "Optional",
- "sub": "NOT mandatory, fallback if passbook unavailable"
- },
- {
- "name": "ACCOUNT NUMBER + IFSC",
- "amount": "Last resort",
- "sub": "Some centres accept written details"
- }
- ]
- },
- {
- "type": "text",
- "heading": "What Each Document Should Show",
- "icon": "📋",
- "content": [
- "Your bank passbook must show: account holder name (matching Aadhaar), account number, IFSC code, bank name, branch, and at least one recent transaction page. Aadhaar must already be seeded with NPCI mapping (visit your branch if unsure). The account must be in your individual name only - joint accounts are NOT accepted for this scheme.",
- "If bank passbook is genuinely unavailable (new account, just opened), bring: recent bank statement showing 3-6 months of transactions OR a printed account details page from your bank app with bank seal. Cancelled cheque is helpful but not mandatory. Most rejections happen because of name mismatch between Aadhaar and bank account - fix this BEFORE applying."
- ]
- },
- {
- "type": "text",
- "heading": "Common Rejection Reasons and How to Fix Them",
- "icon": "⚠️",
- "content": [
- "About 35-40% of first applications get rejected during verification, mostly for fixable reasons. Knowing these in advance saves you a month of re-application. The most frequent rejection patterns:"
- ]
- },
- {
- "type": "eligibility_check",
- "heading": "Top Rejection Reasons vs How to Avoid",
- "qualify": [
- "Name MATCHES exactly: Aadhaar, bank, ration card",
- "Bank account is in YOUR name only (not joint)",
- "Aadhaar SEEDED with bank (NPCI verification)",
- "Income certificate from Tehsildar (within 6 months)",
- "Ration card valid and active (NFSA Y/O variants)",
- "Mobile number active and linked to Aadhaar"
- ],
- "disqualify": [
- "Name SPELLING different across documents (e.g., Geeta vs Gita)",
- "Joint bank account submitted (rejection guaranteed)",
- "Aadhaar not NPCI-mapped (visit bank to fix)",
- "Income certificate older than 6 months",
- "Ration card type wrong (only Y/O accepted)",
- "Family member already receiving Ladki Bahin (1 per family rule)"
- ]
- },
- {
- "type": "modern_callout",
- "variant": "warning",
- "title": "Single Most Common Rejection: Name Mismatch",
- "content": "60% of rejections happen because of name spelling variations across Aadhaar, bank, and ration card. Common patterns: maiden name on Aadhaar but married name on bank, abbreviated names (Geeta K. vs Geeta Kumari), and middle name skipped on one document. Fix this BEFORE applying by getting Aadhaar updated to match your bank account (Rs 50 fee at any Aadhaar centre). If banks accept name correction without your visit, that's faster."
- },
- {
- "type": "process_flow",
- "heading": "How to Check Payment Status Online",
- "steps": [
- {
- "icon": "shield",
- "title": "Visit Portal",
- "desc": "ladakibahin.maharashtra.gov.in"
- },
- {
- "icon": "file",
- "title": "Click 'Beneficiary Status'",
- "desc": "Or 'Application Status'"
- },
- {
- "icon": "users",
- "title": "Enter Aadhaar / Application ID",
- "desc": "Plus OTP verification"
- },
- {
- "icon": "wallet",
- "title": "View Payment History",
- "desc": "All months, transaction IDs, bank credit dates"
- }
- ]
- },
- {
- "heading": "Monthly Payment Schedule & Installment Dates",
- "icon": "📅",
- "type": "table",
- "columns": [
- "Installment",
- "Month Covered",
- "Expected Payment Date",
- "Amount"
- ],
- "rows": [
- [
- "17th Installment",
- "February 2026",
- "February 26, 2026",
- "₹1,500"
- ],
- [
- "18th Installment",
- "March 2026",
- "March 26, 2026 (expected)",
- "₹1,500"
- ],
- [
- "19th Installment",
- "April 2026",
- "April 26, 2026 (expected)",
- "₹1,500"
- ],
- [
- "20th Installment",
- "May 2026",
- "May 26, 2026 (expected)",
- "₹1,500"
- ],
- [
- "Ongoing",
- "June onwards",
- "26th of each month (expected)",
- "₹1,500"
- ]
- ]
- },
- {
- "type": "number_highlight",
- "big": "Rs 18,000",
- "title": "Total per beneficiary per year",
- "desc": "Rs 1,500 every month, 12 months a year, total Rs 18,000 annually per beneficiary. Payments are made via DBT directly to your Aadhaar-linked bank account around the 1st of each month. Maharashtra's annual outflow is approximately Rs 46,000 crore - one of the largest single-scheme expenditures of any Indian state."
- },
- {
- "type": "text",
- "heading": "How Mukhyamantri Majhi Ladki Bahin Yojana Works",
- "content": [
- "Maharashtra's Mukhyamantri Majhi Ladki Bahin Yojana is a monthly direct benefit transfer scheme providing Rs 1,500 to eligible women in the state. Launched in 2024, the scheme aims to strengthen women's financial independence by ensuring a regular income stream deposited directly into their bank accounts.",
- "The monthly transfer of Rs 1,500 is credited to the beneficiary's Aadhaar-linked bank account around the same date each month. The annual benefit amounts to Rs 18,000 per woman: higher than comparable schemes in several other states. The state government has indicated plans to gradually increase the monthly amount based on fiscal capacity and inflation.",
- "The scheme covers married women including widows, divorced, and deserted women between ages 21 and 65. This age range is broader than many comparable state schemes, ensuring that women in their early sixties who may not yet qualify for old-age pension benefits are also covered. The income threshold is set at an annual family income of Rs 2.5 lakh, targeting women from economically weaker households."
- ]
- },
- {
- "type": "text",
- "heading": "Eligibility Criteria and Exclusions",
- "content": [
- "To qualify for Majhi Ladki Bahin, a woman must be a domicile of Maharashtra with valid domicile or residence proof. She must be married, widowed, divorced, or separated: unmarried women are not eligible. The family's combined annual income from all sources must not exceed Rs 2.5 lakh.",
- "Women who are currently employed by the central government, state government, or any local body are not eligible. Women whose husbands hold government positions are also excluded. Income tax payers and members of their families cannot receive the benefit.",
- "Women already receiving pension benefits of Rs 1,500 or more per month from any government scheme are excluded to avoid duplication.",
- "Women holding elected positions in any body: from Gram Panchayat member to legislative assembly member: are not eligible. The scheme specifically targets women without institutional income <a href=\"/yojana/rythu-bandhu\" style=\"text-decoration:underline;color:inherit\">support</a> or political positions, directing the benefit to those who have the fewest existing safety nets.",
- "There is no caste, religion, or community-based restriction: the scheme is universal within the income and age criteria. Women from all backgrounds: General, OBC, SC, ST, VJNT, and minority communities: are equally eligible if they meet the income and demographic requirements."
- ]
- },
- {
- "type": "icon_list",
- "heading": "Who Is Excluded from the Scheme",
- "items": [
- {
- "icon": "wallet",
- "title": "Income Above Rs 2.5 L",
- "sub": "Family annual income too high"
- },
- {
- "icon": "file",
- "title": "Tax Filer Family",
- "sub": "Any family member files ITR"
- },
- {
- "icon": "users",
- "title": "Government Employee",
- "sub": "Family member in govt service"
- },
- {
- "icon": "trending",
- "title": "Other Pension Scheme",
- "sub": "Already getting Rs 1,500+ from state"
- },
- {
- "icon": "shield",
- "title": "4-Wheeler Owner",
- "sub": "Family owns car (tractor OK)"
- },
- {
- "icon": "file",
- "title": "Constitutional Post",
- "sub": "MP/MLA in family"
- }
- ]
- },
- {
- "type": "text",
- "heading": "Application Process: Step by Step",
- "content": [
- "Applications for Majhi Ladki Bahin Yojana can be submitted both online through the official portal and offline through Anganwadi centers, Gram Panchayat offices, and designated registration camps organized by the state government.",
- "For online application, visit the official scheme portal and register using your Aadhaar number and mobile number. Fill in personal details including name, date of birth, marital status, husband's name (or late husband's name for widows), and residential address. Enter bank account details: the account must be in your name only and linked to Aadhaar.",
- "Upload required documents including Aadhaar card, income certificate, domicile certificate, passport-size photograph, and bank passbook front page.",
- "For offline application, visit the nearest Anganwadi center or Gram Panchayat office during a scheduled registration drive. Carry original documents for verification and photocopies for submission. The Anganwadi worker or Gram Sevak assists in filling the application form and collects your documents.",
- "After submission, the application undergoes verification at three levels: Gram Panchayat, Taluka, and District. The verification process checks income eligibility, residency, and ensures no duplication with other government employment or pension schemes. Approved beneficiaries are added to the payment list and begin receiving monthly transfers from the next payment cycle."
- ]
- },
- {
- "type": "comparison_card",
- "heading": "Online vs Offline Application: Which is Better",
- "win": {
- "name": "ONLINE APPLICATION",
- "amount": "Faster",
- "sub": "Anganwadi Sevika home visit"
- },
- "others": [
- {
- "name": "OFFLINE CSC",
- "amount": "Walk-in",
- "sub": "Common Service Centres"
- },
- {
- "name": "OFFLINE GRAM PANCHAYAT",
- "amount": "Local help",
- "sub": "Village-level offices"
- },
- {
- "name": "OFFLINE MUNICIPAL",
- "amount": "Urban",
- "sub": "Ward offices in cities"
- }
- ]
- },
- {
- "type": "modern_callout",
- "variant": "info",
- "title": "Required Documents",
- "content": "Keep the following documents ready before applying: Aadhaar card of the applicant, Maharashtra domicile certificate or residence proof (voter ID, ration card, or utility bill), income certificate issued by Tehsildar showing annual family income below Rs 2.5 lakh, bank passbook front page with account number and IFSC code (account must be in applicant's name and Aadhaar-linked), recent passport-size photograph, marriage certificate or husband's death certificate for widows. All documents should be clear photocopies: unclear or illegible documents are the most common reason for application returns."
- },
- {
- "type": "text",
- "heading": "Impact and Coverage Across Maharashtra",
- "content": [
- "Within months of its launch, Majhi Ladki Bahin Yojana enrolled over 2 crore women across Maharashtra, making it one of the largest women-focused DBT programs in the country. The enrollment drive covered all 36 districts of Maharashtra with highest participation from rural and semi-urban areas where the economic need is greatest.",
- "The scheme has had a measurable impact on women's financial inclusion in the state. Millions of women who did not previously have individual bank accounts opened accounts specifically to receive the monthly benefit. This new banking relationship introduces rural women to formal financial services including savings products, micro-insurance, and government <a href=\"/yojana/pm-kusum-yojana\" style=\"text-decoration:underline;color:inherit\">subsidy</a> programs that require bank accounts.",
- "Districts in the Vidarbha and Marathwada regions: historically the most economically stressed areas of Maharashtra: showed the highest enrollment rates relative to population. In these regions, the Rs 18,000 annual benefit represents a significant supplement to household income, particularly for agricultural labor families whose income is seasonal and unpredictable.",
- "The scheme has also created a direct communication channel between the state government and over 2 crore women. Payment notifications, scheme updates, and government information are communicated through SMS and the scheme portal, increasing government outreach to a demographic that was previously harder to reach through traditional communication channels."
- ]
- },
- {
- "type": "text",
- "heading": "Common Problems and Their Solutions",
- "content": [
- "Payment failures due to Aadhaar-bank linking issues are the most common problem. If your monthly payment is not received within 7 days of the expected date, first check whether your Aadhaar is properly seeded with your bank account. Visit your bank branch with your Aadhaar card and request Aadhaar seeding verification and correction if needed.",
- "Application rejection citing income exceeding Rs 2.5 lakh can occur due to errors in the income certificate or data in government databases. If you believe the rejection is incorrect, obtain a fresh income certificate from the Tehsildar and file an appeal at the Taluka office. Include supporting documents like BPL card or ration card that corroborate your income level.",
- "Name mismatch between Aadhaar and bank account is another frequent issue. Even minor spelling differences can cause payment rejection. Ensure your name is identical across Aadhaar, bank account, and application form. If there are discrepancies, update them at the respective offices before reapplying.",
- "Delayed verification beyond 60 days usually indicates a backlog at the verification level. Contact the Anganwadi worker who assisted your application to check the status. If the delay is at the Taluka or District level, visit the relevant office with your application receipt or call the scheme helpline for intervention."
- ]
- },
- {
- "type": "text",
- "heading": "Majhi Ladki Bahin vs Ladli Behna vs Gruha Lakshmi: State Scheme Comparison",
- "content": [
- "Three major Indian states now run monthly cash transfer schemes for women, each with distinct features. Comparing them helps understand the evolving landscape of women's economic empowerment programs in India.",
- "Maharashtra's Majhi Ladki Bahin provides Rs 1,500 per month: Rs 250 more than Madhya Pradesh's Ladli Behna <a href=\"/yojana/lek-ladki-yojana\" style=\"text-decoration:underline;color:inherit\">Yojana</a> (Rs 1,250 per month) but Rs 500 less than Karnataka's Gruha Lakshmi (Rs 2,000 per month). In terms of monthly amount, Karnataka's scheme is the most generous while MP's is the most modest among the three.",
- "Eligibility criteria differ significantly. Maharashtra and MP both use an income ceiling of Rs 2.5 lakh for family annual income. Karnataka's Gruha Lakshmi is specifically targeted at the woman head of BPL households, which is a different targeting mechanism. The age ranges also vary: Maharashtra covers 21 to 65, MP covers 21 to 60, and Karnataka has no upper age limit for eligible BPL women heads of household.",
- "In terms of enrollment numbers, MP's Ladli Behna leads with over 1.25 crore enrollments, followed by Maharashtra with over 2 crore enrollments (reflecting Maharashtra's larger population). Karnataka's Gruha Lakshmi has enrolled approximately 1 crore beneficiaries. All three schemes have demonstrated that monthly DBT to women is administratively feasible at massive scale and politically popular across party lines."
- ]
- },
- {
- "type": "comparison_card",
- "heading": "Maharashtra vs Madhya Pradesh vs Karnataka",
- "win": {
- "name": "MAJHI LADKI BAHIN (MH)",
- "amount": "Rs 1,500/mo",
- "sub": "2.4 Cr+ beneficiaries"
- },
- "others": [
- {
- "name": "LADLI BEHNA (MP)",
- "amount": "Rs 1,250/mo",
- "sub": "1.3 Cr beneficiaries"
- },
- {
- "name": "GRUHA LAKSHMI (KA)",
- "amount": "Rs 2,000/mo",
- "sub": "1.1 Cr beneficiaries"
- },
- {
- "name": "ANNUAL VALUE MH",
- "amount": "Rs 18,000",
- "sub": "Per woman per year"
- }
- ]
- },
- {
- "type": "pullquote",
- "text": "Majhi Ladki Bahin Yojana is Maharashtra's recognition that women's financial independence is not charity: it is an investment in the economic backbone of every household in the state."
- },
- {
- "type": "text",
- "heading": "Frequently Asked Questions",
- "content": [
- "Can unmarried women apply? No, the scheme is restricted to married women including widows, divorced, and deserted women. Unmarried women regardless of age are not eligible under the current guidelines.",
- "What if my husband is employed in the private sector? Private sector employment of your husband does not affect eligibility as long as the combined family annual income is below Rs 2.5 lakh. Only government employment (central, state, or local body) of the applicant or her husband creates ineligibility.",
- "Can I receive this benefit along with other government schemes? Yes, you can receive Majhi Ladki Bahin benefits simultaneously with most other central and state welfare schemes like ration subsidies, housing scheme benefits, and education scholarships. The only exclusion is if you are already receiving a government pension of Rs 1,500 or more per month.",
- "What happens if I move to another state? The scheme requires Maharashtra domicile. If you permanently relocate to another state, your eligibility would be reviewed and benefits may be discontinued. Temporary travel or visits do not affect enrollment.",
- "Is the Rs 1,500 monthly amount taxable? No, this welfare benefit from the state government is not taxable income and does not need to be reported in income tax returns."
- ]
- },
- {
- "type": "timeline",
- "heading": "Majhi Ladki Bahin Yojana: Scheme Milestones",
- "items": [
- {
- "date": "JUN 2024",
- "event": "Scheme launched",
- "desc": "Initial registration for women aged 21-60"
- },
- {
- "date": "JUL-AUG 2024",
- "event": "Phase 1 disbursal",
- "desc": "First Rs 1,500 credited to 1.85 Cr women"
- },
- {
- "date": "DEC 2024",
- "event": "Age extended to 65",
- "desc": "After government formation, age cap raised"
- },
- {
- "date": "MAR 2026",
- "event": "eKYC mandatory",
- "desc": "All beneficiaries must complete eKYC by 31 March 2026"
- },
- {
- "date": "ONGOING 2026",
- "event": "Monthly payments",
- "desc": "Rs 1,500 credited monthly to 2.4 Cr+ women"
- }
- ]
- },
- {
- "type": "text",
- "heading": "Financial Planning Tips for Beneficiaries",
- "content": [
- "The monthly Rs 1,500 can be used strategically to build long-term financial security beyond immediate daily expenses. Here are practical approaches that work for rural and semi-urban households in Maharashtra.",
- "Save Rs 500 per month in a Post Office Recurring Deposit at current interest rates to build a corpus of approximately Rs 6,300 after one year with interest. Over five years, this grows to approximately Rs 34,000: enough to fund a child's college admission fees or handle a medical emergency without borrowing.",
- "For women interested in starting micro-enterprises, saving three to four months of benefits creates startup capital of Rs 4,500 to Rs 6,000. Common viable micro-businesses in Maharashtra include papad and pickle making, tailoring and alterations, dairy products, and vegetable vending. The Maharashtra State Rural Livelihoods Mission provides additional training and support.",
- "Invest Rs 500 per month in Sukanya Samriddhi <a href=\"/yojana/pm-awas-yojana\" style=\"text-decoration:underline;color:inherit\">Yojana</a> for a daughter to create a corpus of approximately Rs 1.9 lakh over 15 years at current interest rates. This amount can significantly contribute to a daughter's higher education or marriage expenses."
- ]
- },
- {
- "type": "modern_callout",
- "variant": "tip",
- "title": "Helpline and Grievance Contacts",
- "content": "For application status, payment issues, or any scheme-related queries, contact the state helpline number available on the official portal. You can also visit your local Anganwadi center or Gram Panchayat office for in-person assistance. For unresolved grievances, file a complaint on the Maharashtra government's grievance portal with your application reference number. District-level scheme coordinators at the District Women and Child Development Office handle escalated cases and can intervene when applications are stuck in verification."
- },
- {
- "type": "text",
- "heading": "How the Scheme Is Funded",
- "content": [
- "Majhi Ladki Bahin Yojana is funded entirely from the Maharashtra state budget. The annual financial outlay for the scheme exceeds Rs 35,000 crore given the enrollment of over 2 crore beneficiaries at Rs 18,000 per year each. This makes it one of the largest single welfare expenditures in any Indian state's budget.",
- "The scheme's fiscal sustainability has been a topic of debate among economists and policy analysts. Supporters argue that the money goes directly into the hands of women who spend it on essential goods and services, creating a multiplier effect in the local economy. Critics point to the significant fiscal burden and the opportunity cost of not investing the same funds in infrastructure, healthcare, or education.",
- "The state government has maintained that the scheme is fiscally sustainable within Maharashtra's revenue capacity. The state's own tax revenue, particularly from GST, stamp duty, and excise, provides the primary funding base. Any future increase in the monthly amount would need to be balanced against other budgetary priorities and the state's overall fiscal health."
- ]
- },
- {
- "type": "bar_chart",
- "heading": "State Direct Cash Transfer Scheme Comparison (Annual per Beneficiary, Rs)",
- "rows": [
- {
- "label": "Majhi Ladki Bahin (MH)",
- "value": 18000,
- "display": "Rs 18,000"
- },
- {
- "label": "Ladli Behna (MP)",
- "value": 15000,
- "display": "Rs 15,000"
- },
- {
- "label": "Gruha Lakshmi (KA)",
- "value": 24000,
- "display": "Rs 24,000"
- },
- {
- "label": "Subhadra (OD)",
- "value": 10000,
- "display": "Rs 10,000 (one-time)"
- }
- ]
- },
- {
- "type": "text",
- "heading": "Checking Your Eligibility and Application Status Online",
- "content": [
- "Visit the official Majhi Ladki Bahin Yojana portal to check your eligibility before applying. Enter your Aadhaar number and the portal will display whether you meet the criteria based on available government data. If the portal shows you as ineligible but you believe you qualify, gather your documents and apply through an offline channel where manual verification can correct any database errors.",
- "After applying, track your application status using the reference number provided at submission. The portal shows the current verification stage: submitted, under Gram Panchayat verification, forwarded to Taluka, forwarded to District, approved, or rejected with reason. If the status shows returned for correction, log in to see the specific issue flagged by the verifying officer and resubmit with corrected information."
- ]
- },
- {
- "type": "modern_callout",
- "variant": "info",
- "title": "Official Sources & References",
- "content": "Source: Department of Women & Child Development, Government of Maharashtra. All information on this page has been verified against official government notifications and regulatory circulars. For the latest updates, always check the official portal."
- }
- ],
- "how_to_apply": [
- {
- "step": 1,
- "title": "Gather Your Documents",
- "description": "Collect your Aadhaar card, bank passbook, ration card, and a recent passport-size photo. Have your mobile number (linked to Aadhaar), domicile certificate or alternative residence proof, and marriage/divorce certificate (if applicable) ready."
- },
- {
- "step": 2,
- "title": "Visit the Online Portal",
- "description": "Go to <a href='https://ladakibahin.maharashtra.gov.in/' target='_blank'>ladakibahin.maharashtra.gov.in</a> and click 'Apply Now'. You'll be directed to an application form. Fill in your personal details: name, date of birth, Aadhaar number, and contact information."
- },
- {
- "step": 3,
- "title": "Enter Family Income Details",
- "description": "Provide your annual family income and select your ration card type (yellow, orange, or white). If you don't have a ration card, provide a domicile certificate or rent agreement as residence proof. The system automatically verifies your income based on your ration card category."
- },
- {
- "step": 4,
- "title": "Upload Documents & Bank Details",
- "description": "Scan and upload your Aadhaar front & back, bank passbook (first page with account number), ration card, and passport photo. Fill in your complete bank account number, IFSC code, and the bank name. Double-check all details match exactly-even typos cause payment failure."
- },
- {
- "step": 5,
- "title": "Submit Application & Get Reference ID",
- "description": "Click 'Submit Application'. The system generates a Reference ID. Note this ID-you'll need it to check status. You'll also receive a confirmation SMS and email with instructions for the next step."
- },
- {
- "step": 6,
- "title": "Complete Mandatory e-KYC Verification",
- "description": "Within 5 days of application, you must complete e-KYC verification. Visit <a href='https://ladakibahin.maharashtra.gov.in/ekyc' target='_blank'>ladakibahin.maharashtra.gov.in/ekyc</a>, enter your Aadhaar and reference ID, and request an OTP. You'll receive it on your Aadhaar-linked mobile. Follow the prompts to complete biometric verification (fingerprint or iris scan at a bank or Aadhaar center) or video KYC. This is mandatory and has a final deadline of March 31, 2026."
- },
- {
- "step": 7,
- "title": "Wait for Verification & First Payment",
- "description": "After e-KYC, the government verifies your documents (takes 5-10 days). Once approved, ₹1,500 is directly transferred to your bank account around the 26th of the next month. Check your bank account or portal for confirmation. Payments continue monthly thereafter."
- }
- ],
- "important_alert": {
- "text": "Critical e-KYC Deadline: March 31, 2026: All beneficiaries must complete e-KYC verification by this date or monthly payments will stop. Over 26 lakh ineligible beneficiaries were already suspended in a verification drive. Even if you've been receiving payments for months, you must complete e-KYC to continue. Visit your nearest bank or Aadhaar center immediately if you haven't done this yet. Don't wait until the deadline.",
- "type": "warning"
- },
- "important_dates": [
- {
- "label": "e-KYC Final Deadline",
- "value": "March 31, 2026 (Critical-payments stop after this)",
- "highlight": true
- },
- {
- "label": "Scheme Launch",
- "value": "July 2024",
- "highlight": false
- },
- {
- "label": "Government Verification Drive",
- "value": "August 2024-December 2025 (26 lakh ineligible accounts suspended)",
- "highlight": false
- },
- {
- "label": "Monthly Payment Date",
- "value": "Typically 26th of each month",
- "highlight": true
- },
- {
- "label": "Total Disbursed as of March 2026",
- "value": "Over ₹17,500 crore in 17 installments",
- "highlight": false
- }
- ],
- "faqs": [
- {
- "question": "When is the next Majhi Ladki Bahin installment date in 2026?",
- "answer": "Majhi Ladki Bahin installments are credited around the 1st-3rd of each month directly to your Aadhaar-linked bank account. As of June 2026, all earlier installments (1st through 23rd) have been disbursed. The 24th installment is expected in early July 2026. Check exact status at ladakibahin.maharashtra.gov.in by entering your Aadhaar number. If installment is delayed, common reasons are: e-KYC pending, Aadhaar-bank seeding broken, or bank account inactive. Resolve these at your nearest Setu centre."
- },
- {
- "question": "Is bank passbook mandatory for Majhi Ladki Bahin: or is cancelled cheque needed?",
- "answer": "Bank passbook (first page) is mandatory for Majhi Ladki Bahin Yojana. A cancelled cheque is NOT required. Upload the first page of your passbook showing your name, account number, and IFSC code. If you don't have a passbook, a cancelled cheque with your name pre-printed can be used as an alternative. The account must be in your name only and linked to Aadhaar for DBT payments."
- },
- {
- "question": "What documents are required for ladakibahin.maharashtra.gov.in registration?",
- "answer": "Documents required at ladakibahin.maharashtra.gov.in: (1) Aadhaar card: mandatory for e-KYC. (2) Bank passbook first page: showing name, account number, IFSC. Cancelled cheque is NOT mandatory. (3) Ration card: yellow, orange, or white. (4) Domicile certificate (if no ration card). (5) Passport-size photograph. (6) Mobile number linked to Aadhaar for OTP. Marriage/widow/divorce certificate only if applicable."
- },
- {
- "question": "What is lly.mhicds.com and why is it showing in Ladki Bahin search results?",
- "answer": "lly.mhicds.com is the URL for the Nari Shakti Doot application used by Anganwadi workers for biometric e-KYC verification of Majhi Ladki Bahin applicants. Beneficiaries do not need to visit this URL themselves: Anganwadi workers use it at Gram Panchayat and Anganwadi centres to verify applicants in person. If you need in-person e-KYC, go to your nearest Anganwadi centre with your Aadhaar card."
- },
- {
- "question": "How much money will I receive, and when?",
- "answer": "You receive ₹1,500 every month, deposited directly into your bank account. This equals ₹18,000 per year. Payments are typically processed on the 26th of each month. Since launch in July 2024, 17 installments have been disbursed to 2.3-2.4 crore women. Future payments continue monthly as long as you complete e-KYC by March 31, 2026, and remain eligible."
- },
- {
- "question": "What is the income limit, and how is it verified?",
- "answer": "Annual family income must not exceed ₹2.5 lakh (about ₹20,833 monthly). This includes income of all family members-spouse, adult children, and parents living in the same household. The government verifies through your ration card type. Yellow and orange ration cards show you're below the limit; white cards may require an income certificate. The government also cross-checks with income tax records and pensions."
- },
- {
- "question": "My name is slightly different on Aadhaar, bank, and ration card. Will I be rejected?",
- "answer": "Yes, the system uses automated name matching and even small differences (like 'Priya' vs 'P.', or 'Sharma' vs 'Shrama') cause rejection. You must make all documents identical. Go to your bank and request a name correction in your account to exactly match your Aadhaar. This takes 2-3 weeks. You can also update your Aadhaar at a postal office if needed. After corrections, reapply or check the portal to see if your existing application is updated."
- },
- {
- "question": "How do I complete the e-KYC verification?",
- "answer": "Visit the portal at ladakibahin.maharashtra.gov.in/ekyc with your Aadhaar number and reference ID. Request an OTP on your Aadhaar-linked mobile. Once you receive the OTP, you can either complete video KYC (where a government officer verifies you on video call) or visit your nearest bank for biometric verification (fingerprint or iris scan). The entire process takes 5-10 minutes. Some women faced OTP issues in 2024-25 if their mobile wasn't linked to Aadhaar-ensure your phone number is updated in Aadhaar before trying."
- },
- {
- "question": "What happens if I miss the e-KYC deadline of March 31, 2026?",
- "answer": "Your monthly payments will permanently stop. The government will not send any reminder after the deadline-benefits simply discontinue. You cannot apply again or claim back-payments. This is a strict deadline set by the government. Complete e-KYC now even if your current status shows 'Approved'-don't wait for a payment failure or reminder."
- },
- {
- "question": "Can widows, divorcees, and unmarried women apply?",
- "answer": "Yes, absolutely. Marital status is not a restriction. Widows, divorcees, separated women, and unmarried women all qualify if they meet the age (21-65), income (₹2.5 lakh), and residency (5 years in Maharashtra) criteria. Widows must provide a widowhood certificate or death certificate of spouse; divorcees must provide a divorce decree or application. These documents are issued free by your municipality or gram panchayat."
- },
- {
- "question": "When is the next Ladki Bahin installment date in 2026?",
- "answer": "The Ladki Bahin installment is credited on or around the 1st of every month. Check your payment status at ladakibahin.maharashtra.gov.in using your Aadhaar number or application ID. If payment is delayed, verify your bank-Aadhaar linking status."
- },
- {
- "question": "How to check Ladki Bahin payment status online?",
- "answer": "Visit ladakibahin.maharashtra.gov.in → Click 'Beneficiary Status' → Enter Aadhaar number or application ID → View payment history. You can also check via the Mahalabharthi portal or call the helpline at 1800-120-8040."
- }
- ],
- "official_portal": {
- "name": "Majhi Ladki Bahin Official Portal",
- "url": "https://ladakibahin.maharashtra.gov.in/"
- },
- "related_pages": [],
- "tags": [
- "maharashtra",
- "women-welfare",
- "financial-support",
- "direct-benefit-transfer",
- "cash-assistance",
- "age-21-65"
- ],
- "ministry": "Department of Social Justice, Government of Maharashtra",
- "launch_year": 2024,
- "image_suggestions": [
- "Screenshot of ladakibahin.maharashtra.gov.in homepage showing application button",
- "Mobile phone displaying monthly ₹1,500 payment notification in bank app",
- "Document checklist infographic showing all required papers (Aadhaar, ration card, bank passbook)",
- "Step-by-step guide images for completing e-KYC verification online",
- "Photo of woman at bank completing Aadhaar linkage process",
- "Timeline showing payment schedule (26th of each month)",
- "Comparison table visual showing eligibility criteria with checkmarks",
- "Screenshot of payment status tracker showing transaction history on the portal"
- ],
- "last_reviewed": "May 2026",
- "category": "women",
- "state": "maharashtra"
+  "slug": "majhi-ladki-bahin",
+  "title": "Majhi Ladki Bahin 2026: Rs 1,500/Month, Documents, eKYC",
+  "meta_description": "Maharashtra pays Rs 1,500/month to 2.4 cr women aged 21-65. Documents, eligibility, e-KYC by 31 Mar 2026, status check, installment dates. Income under Rs 2.5 lakh.",
+  "hero": {
+    "status": "active",
+    "one_liner": "Monthly cash assistance of ₹1,500 for women aged 21-65 in Maharashtra",
+    "icon": "👩",
+    "updated_date": "May 2026",
+    "stats": [
+      {
+        "label": "Monthly Amount",
+        "value": "₹1,500"
+      },
+      {
+        "label": "Beneficiaries",
+        "value": "2.3-2.4 crore"
+      },
+      {
+        "label": "Annual Support",
+        "value": "₹18,000"
+      },
+      {
+        "label": "Income Limit",
+        "value": "₹2.5 lakh/year"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "📝",
+      "label": "Apply Now",
+      "url": "https://ladakibahin.maharashtra.gov.in/"
+    },
+    {
+      "icon": "✅",
+      "label": "Complete eKYC",
+      "url": "https://ladakibahin.maharashtra.gov.in/ekyc"
+    },
+    {
+      "icon": "🔍",
+      "label": "Check Status",
+      "url": "https://ladakibahin.maharashtra.gov.in/status-check"
+    },
+    {
+      "icon": "📱",
+      "label": "Track Payments",
+      "url": "https://ladakibahin.maharashtra.gov.in/payment-tracker"
+    }
+  ],
+  "what_is_it": [
+    "Majhi Ladki Bahin (My Sister) is Maharashtra's flagship women empowerment scheme launched in July 2024 by the state government. It provides unconditional monthly cash support of ₹1,500 directly to women's bank accounts, amounting to ₹18,000 per year. As of March 2026, 2.3 to 2.4 crore (23-24 million) eligible women receive regular payments, making it one of India's largest direct benefit transfer programs for women.",
+    "The scheme aims to ensure financial independence and dignity for women by providing reliable monthly income. Whether you're a homemaker, widow, divorcee, or working woman, if you meet the basic eligibility criteria, you qualify for the scheme. Payments are transferred directly to your Aadhaar-linked bank account through the state's digital payment system, with no middleman or offline processes involved.",
+    "Unlike conditional schemes that require school enrollment or health checkups, Majhi Ladki Bahin places no restrictions on how you use the money. This recognizes that women best understand their own needs: whether buying groceries, paying utility bills, investing in small business, or saving for emergencies. Since launch, the scheme has disbursed over ₹17,500 crore in the first seven months alone.",
+    "The most critical requirement for continued payments is e-KYC (electronic Know Your Customer) verification, which became mandatory from August 2024. The government uses this to ensure only eligible women receive funds. As of March 2026, there is one final deadline: all beneficiaries must complete e-KYC verification by March 31, 2026, or risk losing monthly payments."
+  ],
+  "eligibility": [
+    {
+      "label": "Age Group",
+      "value": "Women aged 21 to 65 years old",
+      "highlight": true
+    },
+    {
+      "label": "Family Income",
+      "value": "Annual family income must not exceed ₹2.5 lakh (approximately ₹20,833/month)",
+      "highlight": true
+    },
+    {
+      "label": "Residency",
+      "value": "Must be a resident of Maharashtra for at least the past 5 years",
+      "highlight": true
+    },
+    {
+      "label": "Bank Account",
+      "value": "Must have an active bank account in your own name, linked to Aadhaar",
+      "highlight": true
+    },
+    {
+      "label": "Ration Card Status",
+      "value": "Yellow, orange, or white ration card holders (income verification based on card type)",
+      "highlight": false
+    },
+    {
+      "label": "Marital Status",
+      "value": "All women eligible-married, unmarried, widow, divorcee, separated",
+      "highlight": false
+    },
+    {
+      "label": "Occupation",
+      "value": "No occupation restrictions-homemakers, workers, farmers, business owners all eligible",
+      "highlight": false
+    },
+    {
+      "label": "Excluded Categories",
+      "value": "Government pensioners, income tax payees, those earning above ₹2.5 lakh annually",
+      "highlight": false
+    }
+  ],
+  "eligibility_filters": {
+    "gender": [
+      "Women only"
+    ],
+    "age_min": 21,
+    "age_max": 65,
+    "occupation": [],
+    "income_max": 250000,
+    "category": [
+      "All categories"
+    ],
+    "states": [
+      "Maharashtra"
+    ]
+  },
+  "extra_sections": [
+    {
+      "type": "stat_grid",
+      "heading": "Majhi Ladki Bahin 2026: Key Numbers",
+      "items": [
+        {
+          "icon": "wallet",
+          "value": "Rs 1,500",
+          "label": "Every month",
+          "color": "green"
+        },
+        {
+          "icon": "users",
+          "value": "2.4 Cr+",
+          "label": "Women enrolled",
+          "color": "blue"
+        },
+        {
+          "icon": "calendar",
+          "value": "21-65 yrs",
+          "label": "Age range",
+          "color": "amber"
+        },
+        {
+          "icon": "shield",
+          "value": "Rs 2.5 L",
+          "label": "Income limit (family)",
+          "color": "purple"
+        }
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "info",
+      "title": "Key Facts",
+      "content": "₹1,500/month for eligible women aged 21-65 in Maharashtra. 2.3+ crore beneficiaries. Family income must be below ₹2.5 lakh/year. Payments arrive 1st-15th every month via DBT."
+    },
+    {
+      "type": "eligibility_check",
+      "heading": "Are You Eligible for Majhi Ladki Bahin Yojana?",
+      "qualify": [
+        "Maharashtra resident woman aged 21-65 years",
+        "Married, divorcee, widow, deserted, or single",
+        "Family annual income below Rs 2.5 lakh",
+        "Aadhaar linked to your own bank account (NPCI-mapped)",
+        "Holds yellow or orange ration card (NFSA)",
+        "Domicile in Maharashtra"
+      ],
+      "disqualify": [
+        "Family income above Rs 2.5 lakh per year",
+        "Family member is an income tax filer",
+        "Family member is a government employee",
+        "Already getting Rs 1,500+ from other state scheme",
+        "Owns a 4-wheeler vehicle (excluding tractor)",
+        "Bank account in joint name only (must have individual account)"
+      ]
+    },
+    {
+      "heading": "Required Documents for Application",
+      "icon": "📄",
+      "type": "table",
+      "columns": [
+        "Document",
+        "Purpose",
+        "Where to Get",
+        "Validity"
+      ],
+      "rows": [
+        [
+          "Aadhaar Card",
+          "Identity verification & e-KYC",
+          "UIDAI (issued by government)",
+          "Lifetime (unless updated)"
+        ],
+        [
+          "Bank Passbook (first page)",
+          "Proof of bank account for DBT transfer",
+          "Your bank branch: first page showing name, account number, IFSC",
+          "Mandatory. Cancelled cheque is NOT required: bank passbook first page is sufficient"
+        ],
+        [
+          "Ration Card",
+          "Income verification & residence proof",
+          "Fair Price Shop / Taluka Office",
+          "Valid for 5 years"
+        ],
+        [
+          "Domicile Certificate",
+          "Proof of Maharashtra residency",
+          "Taluka or Municipal Office",
+          "Valid for 1 year (renewable)"
+        ],
+        [
+          "Marriage Certificate",
+          "Required if newlywed (name not on ration card)",
+          "Municipal Corporation or Gram Panchayat",
+          "Lifetime"
+        ],
+        [
+          "Widow/Divorce Certificate",
+          "Proof if widow or divorced",
+          "Gram Panchayat or Court",
+          "Lifetime"
+        ],
+        [
+          "Mobile Phone",
+          "To receive OTP for e-KYC verification",
+          "Any telecom provider",
+          "Must be active"
+        ],
+        [
+          "Passport-size Photo",
+          "For portal registration",
+          "Self-clicked or studio photo",
+          "Recent (last 6 months)"
+        ],
+        [
+          "Nari Shakti Doot App / lly.mhicds.com",
+          "Used for e-KYC biometric verification at Anganwadi centres",
+          "Download 'Nari Shakti Doot' app or visit lly.mhicds.com",
+          "Required only for in-person e-KYC at Anganwadi / Gram Panchayat"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Bank Passbook or Cancelled Cheque: Which is Required",
+      "icon": "🏦",
+      "content": [
+        "This is the most-confused topic among applicants. Government guidelines have been inconsistent across rollout phases, so let us clarify what's actually accepted at registration centres as of 2026:"
+      ]
+    },
+    {
+      "type": "comparison_card",
+      "heading": "Bank Documents: What Works at Registration",
+      "win": {
+        "name": "BANK PASSBOOK",
+        "amount": "Required",
+        "sub": "Most preferred, always accepted"
+      },
+      "others": [
+        {
+          "name": "BANK STATEMENT",
+          "amount": "Often OK",
+          "sub": "Recent 3-6 months, official stamp"
+        },
+        {
+          "name": "CANCELLED CHEQUE",
+          "amount": "Optional",
+          "sub": "NOT mandatory, fallback if passbook unavailable"
+        },
+        {
+          "name": "ACCOUNT NUMBER + IFSC",
+          "amount": "Last resort",
+          "sub": "Some centres accept written details"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "What Each Document Should Show",
+      "icon": "📋",
+      "content": [
+        "Your bank passbook must show: account holder name (matching Aadhaar), account number, IFSC code, bank name, branch, and at least one recent transaction page. Aadhaar must already be seeded with NPCI mapping (visit your branch if unsure). The account must be in your individual name only - joint accounts are NOT accepted for this scheme.",
+        "If bank passbook is genuinely unavailable (new account, just opened), bring: recent bank statement showing 3-6 months of transactions OR a printed account details page from your bank app with bank seal. Cancelled cheque is helpful but not mandatory. Most rejections happen because of name mismatch between Aadhaar and bank account - fix this BEFORE applying."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Common Rejection Reasons and How to Fix Them",
+      "icon": "⚠️",
+      "content": [
+        "About 35-40% of first applications get rejected during verification, mostly for fixable reasons. Knowing these in advance saves you a month of re-application. The most frequent rejection patterns:"
+      ]
+    },
+    {
+      "type": "eligibility_check",
+      "heading": "Top Rejection Reasons vs How to Avoid",
+      "qualify": [
+        "Name MATCHES exactly: Aadhaar, bank, ration card",
+        "Bank account is in YOUR name only (not joint)",
+        "Aadhaar SEEDED with bank (NPCI verification)",
+        "Income certificate from Tehsildar (within 6 months)",
+        "Ration card valid and active (NFSA Y/O variants)",
+        "Mobile number active and linked to Aadhaar"
+      ],
+      "disqualify": [
+        "Name SPELLING different across documents (e.g., Geeta vs Gita)",
+        "Joint bank account submitted (rejection guaranteed)",
+        "Aadhaar not NPCI-mapped (visit bank to fix)",
+        "Income certificate older than 6 months",
+        "Ration card type wrong (only Y/O accepted)",
+        "Family member already receiving Ladki Bahin (1 per family rule)"
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "warning",
+      "title": "Single Most Common Rejection: Name Mismatch",
+      "content": "60% of rejections happen because of name spelling variations across Aadhaar, bank, and ration card. Common patterns: maiden name on Aadhaar but married name on bank, abbreviated names (Geeta K. vs Geeta Kumari), and middle name skipped on one document. Fix this BEFORE applying by getting Aadhaar updated to match your bank account (Rs 50 fee at any Aadhaar centre). If banks accept name correction without your visit, that's faster."
+    },
+    {
+      "type": "process_flow",
+      "heading": "How to Check Payment Status Online",
+      "steps": [
+        {
+          "icon": "shield",
+          "title": "Visit Portal",
+          "desc": "ladakibahin.maharashtra.gov.in"
+        },
+        {
+          "icon": "file",
+          "title": "Click 'Beneficiary Status'",
+          "desc": "Or 'Application Status'"
+        },
+        {
+          "icon": "users",
+          "title": "Enter Aadhaar / Application ID",
+          "desc": "Plus OTP verification"
+        },
+        {
+          "icon": "wallet",
+          "title": "View Payment History",
+          "desc": "All months, transaction IDs, bank credit dates"
+        }
+      ]
+    },
+    {
+      "heading": "Monthly Payment Schedule & Installment Dates",
+      "icon": "📅",
+      "type": "table",
+      "columns": [
+        "Installment",
+        "Month Covered",
+        "Expected Payment Date",
+        "Amount"
+      ],
+      "rows": [
+        [
+          "17th Installment",
+          "February 2026",
+          "February 26, 2026",
+          "₹1,500"
+        ],
+        [
+          "18th Installment",
+          "March 2026",
+          "March 26, 2026 (expected)",
+          "₹1,500"
+        ],
+        [
+          "19th Installment",
+          "April 2026",
+          "April 26, 2026 (expected)",
+          "₹1,500"
+        ],
+        [
+          "20th Installment",
+          "May 2026",
+          "May 26, 2026 (expected)",
+          "₹1,500"
+        ],
+        [
+          "Ongoing",
+          "June onwards",
+          "26th of each month (expected)",
+          "₹1,500"
+        ]
+      ]
+    },
+    {
+      "type": "number_highlight",
+      "big": "Rs 18,000",
+      "title": "Total per beneficiary per year",
+      "desc": "Rs 1,500 every month, 12 months a year, total Rs 18,000 annually per beneficiary. Payments are made via DBT directly to your Aadhaar-linked bank account around the 1st of each month. Maharashtra's annual outflow is approximately Rs 46,000 crore - one of the largest single-scheme expenditures of any Indian state."
+    },
+    {
+      "type": "text",
+      "heading": "How Mukhyamantri Majhi Ladki Bahin Yojana Works",
+      "content": [
+        "Maharashtra's Mukhyamantri Majhi Ladki Bahin Yojana is a monthly direct benefit transfer scheme providing Rs 1,500 to eligible women in the state. Launched in 2024, the scheme aims to strengthen women's financial independence by ensuring a regular income stream deposited directly into their bank accounts.",
+        "The monthly transfer of Rs 1,500 is credited to the beneficiary's Aadhaar-linked bank account around the same date each month. The annual benefit amounts to Rs 18,000 per woman: higher than comparable schemes in several other states. The state government has indicated plans to gradually increase the monthly amount based on fiscal capacity and inflation.",
+        "The scheme covers married women including widows, divorced, and deserted women between ages 21 and 65. This age range is broader than many comparable state schemes, ensuring that women in their early sixties who may not yet qualify for old-age pension benefits are also covered. The income threshold is set at an annual family income of Rs 2.5 lakh, targeting women from economically weaker households."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Eligibility Criteria and Exclusions",
+      "content": [
+        "To qualify for Majhi Ladki Bahin, a woman must be a domicile of Maharashtra with valid domicile or residence proof. She must be married, widowed, divorced, or separated: unmarried women are not eligible. The family's combined annual income from all sources must not exceed Rs 2.5 lakh.",
+        "Women who are currently employed by the central government, state government, or any local body are not eligible. Women whose husbands hold government positions are also excluded. Income tax payers and members of their families cannot receive the benefit.",
+        "Women already receiving pension benefits of Rs 1,500 or more per month from any government scheme are excluded to avoid duplication.",
+        "Women holding elected positions in any body: from Gram Panchayat member to legislative assembly member: are not eligible. The scheme specifically targets women without institutional income <a href=\"/yojana/rythu-bandhu\" style=\"text-decoration:underline;color:inherit\">support</a> or political positions, directing the benefit to those who have the fewest existing safety nets.",
+        "There is no caste, religion, or community-based restriction: the scheme is universal within the income and age criteria. Women from all backgrounds: General, OBC, SC, ST, VJNT, and minority communities: are equally eligible if they meet the income and demographic requirements."
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "Who Is Excluded from the Scheme",
+      "items": [
+        {
+          "icon": "wallet",
+          "title": "Income Above Rs 2.5 L",
+          "sub": "Family annual income too high"
+        },
+        {
+          "icon": "file",
+          "title": "Tax Filer Family",
+          "sub": "Any family member files ITR"
+        },
+        {
+          "icon": "users",
+          "title": "Government Employee",
+          "sub": "Family member in govt service"
+        },
+        {
+          "icon": "trending",
+          "title": "Other Pension Scheme",
+          "sub": "Already getting Rs 1,500+ from state"
+        },
+        {
+          "icon": "shield",
+          "title": "4-Wheeler Owner",
+          "sub": "Family owns car (tractor OK)"
+        },
+        {
+          "icon": "file",
+          "title": "Constitutional Post",
+          "sub": "MP/MLA in family"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Application Process: Step by Step",
+      "content": [
+        "Applications for Majhi Ladki Bahin Yojana can be submitted both online through the official portal and offline through Anganwadi centers, Gram Panchayat offices, and designated registration camps organized by the state government.",
+        "For online application, visit the official scheme portal and register using your Aadhaar number and mobile number. Fill in personal details including name, date of birth, marital status, husband's name (or late husband's name for widows), and residential address. Enter bank account details: the account must be in your name only and linked to Aadhaar.",
+        "Upload required documents including Aadhaar card, income certificate, domicile certificate, passport-size photograph, and bank passbook front page.",
+        "For offline application, visit the nearest Anganwadi center or Gram Panchayat office during a scheduled registration drive. Carry original documents for verification and photocopies for submission. The Anganwadi worker or Gram Sevak assists in filling the application form and collects your documents.",
+        "After submission, the application undergoes verification at three levels: Gram Panchayat, Taluka, and District. The verification process checks income eligibility, residency, and ensures no duplication with other government employment or pension schemes. Approved beneficiaries are added to the payment list and begin receiving monthly transfers from the next payment cycle."
+      ]
+    },
+    {
+      "type": "comparison_card",
+      "heading": "Online vs Offline Application: Which is Better",
+      "win": {
+        "name": "ONLINE APPLICATION",
+        "amount": "Faster",
+        "sub": "Anganwadi Sevika home visit"
+      },
+      "others": [
+        {
+          "name": "OFFLINE CSC",
+          "amount": "Walk-in",
+          "sub": "Common Service Centres"
+        },
+        {
+          "name": "OFFLINE GRAM PANCHAYAT",
+          "amount": "Local help",
+          "sub": "Village-level offices"
+        },
+        {
+          "name": "OFFLINE MUNICIPAL",
+          "amount": "Urban",
+          "sub": "Ward offices in cities"
+        }
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "info",
+      "title": "Required Documents",
+      "content": "Keep the following documents ready before applying: Aadhaar card of the applicant, Maharashtra domicile certificate or residence proof (voter ID, ration card, or utility bill), income certificate issued by Tehsildar showing annual family income below Rs 2.5 lakh, bank passbook front page with account number and IFSC code (account must be in applicant's name and Aadhaar-linked), recent passport-size photograph, marriage certificate or husband's death certificate for widows. All documents should be clear photocopies: unclear or illegible documents are the most common reason for application returns."
+    },
+    {
+      "type": "text",
+      "heading": "Impact and Coverage Across Maharashtra",
+      "content": [
+        "Within months of its launch, Majhi Ladki Bahin Yojana enrolled over 2 crore women across Maharashtra, making it one of the largest women-focused DBT programs in the country. The enrollment drive covered all 36 districts of Maharashtra with highest participation from rural and semi-urban areas where the economic need is greatest.",
+        "The scheme has had a measurable impact on women's financial inclusion in the state. Millions of women who did not previously have individual bank accounts opened accounts specifically to receive the monthly benefit. This new banking relationship introduces rural women to formal financial services including savings products, micro-insurance, and government <a href=\"/yojana/pm-kusum-yojana\" style=\"text-decoration:underline;color:inherit\">subsidy</a> programs that require bank accounts.",
+        "Districts in the Vidarbha and Marathwada regions: historically the most economically stressed areas of Maharashtra: showed the highest enrollment rates relative to population. In these regions, the Rs 18,000 annual benefit represents a significant supplement to household income, particularly for agricultural labor families whose income is seasonal and unpredictable.",
+        "The scheme has also created a direct communication channel between the state government and over 2 crore women. Payment notifications, scheme updates, and government information are communicated through SMS and the scheme portal, increasing government outreach to a demographic that was previously harder to reach through traditional communication channels."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Common Problems and Their Solutions",
+      "content": [
+        "Payment failures due to Aadhaar-bank linking issues are the most common problem. If your monthly payment is not received within 7 days of the expected date, first check whether your Aadhaar is properly seeded with your bank account. Visit your bank branch with your Aadhaar card and request Aadhaar seeding verification and correction if needed.",
+        "Application rejection citing income exceeding Rs 2.5 lakh can occur due to errors in the income certificate or data in government databases. If you believe the rejection is incorrect, obtain a fresh income certificate from the Tehsildar and file an appeal at the Taluka office. Include supporting documents like BPL card or ration card that corroborate your income level.",
+        "Name mismatch between Aadhaar and bank account is another frequent issue. Even minor spelling differences can cause payment rejection. Ensure your name is identical across Aadhaar, bank account, and application form. If there are discrepancies, update them at the respective offices before reapplying.",
+        "Delayed verification beyond 60 days usually indicates a backlog at the verification level. Contact the Anganwadi worker who assisted your application to check the status. If the delay is at the Taluka or District level, visit the relevant office with your application receipt or call the scheme helpline for intervention."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Majhi Ladki Bahin vs Ladli Behna vs Gruha Lakshmi: State Scheme Comparison",
+      "content": [
+        "Three major Indian states now run monthly cash transfer schemes for women, each with distinct features. Comparing them helps understand the evolving landscape of women's economic empowerment programs in India.",
+        "Maharashtra's Majhi Ladki Bahin provides Rs 1,500 per month: Rs 250 more than Madhya Pradesh's Ladli Behna <a href=\"/yojana/lek-ladki-yojana\" style=\"text-decoration:underline;color:inherit\">Yojana</a> (Rs 1,250 per month) but Rs 500 less than Karnataka's Gruha Lakshmi (Rs 2,000 per month). In terms of monthly amount, Karnataka's scheme is the most generous while MP's is the most modest among the three.",
+        "Eligibility criteria differ significantly. Maharashtra and MP both use an income ceiling of Rs 2.5 lakh for family annual income. Karnataka's Gruha Lakshmi is specifically targeted at the woman head of BPL households, which is a different targeting mechanism. The age ranges also vary: Maharashtra covers 21 to 65, MP covers 21 to 60, and Karnataka has no upper age limit for eligible BPL women heads of household.",
+        "In terms of enrollment numbers, MP's Ladli Behna leads with over 1.25 crore enrollments, followed by Maharashtra with over 2 crore enrollments (reflecting Maharashtra's larger population). Karnataka's Gruha Lakshmi has enrolled approximately 1 crore beneficiaries. All three schemes have demonstrated that monthly DBT to women is administratively feasible at massive scale and politically popular across party lines."
+      ]
+    },
+    {
+      "type": "comparison_card",
+      "heading": "Maharashtra vs Madhya Pradesh vs Karnataka",
+      "win": {
+        "name": "MAJHI LADKI BAHIN (MH)",
+        "amount": "Rs 1,500/mo",
+        "sub": "2.4 Cr+ beneficiaries"
+      },
+      "others": [
+        {
+          "name": "LADLI BEHNA (MP)",
+          "amount": "Rs 1,250/mo",
+          "sub": "1.3 Cr beneficiaries"
+        },
+        {
+          "name": "GRUHA LAKSHMI (KA)",
+          "amount": "Rs 2,000/mo",
+          "sub": "1.1 Cr beneficiaries"
+        },
+        {
+          "name": "ANNUAL VALUE MH",
+          "amount": "Rs 18,000",
+          "sub": "Per woman per year"
+        }
+      ]
+    },
+    {
+      "type": "pullquote",
+      "text": "Majhi Ladki Bahin Yojana is Maharashtra's recognition that women's financial independence is not charity: it is an investment in the economic backbone of every household in the state."
+    },
+    {
+      "type": "text",
+      "heading": "Frequently Asked Questions",
+      "content": [
+        "Can unmarried women apply? No, the scheme is restricted to married women including widows, divorced, and deserted women. Unmarried women regardless of age are not eligible under the current guidelines.",
+        "What if my husband is employed in the private sector? Private sector employment of your husband does not affect eligibility as long as the combined family annual income is below Rs 2.5 lakh. Only government employment (central, state, or local body) of the applicant or her husband creates ineligibility.",
+        "Can I receive this benefit along with other government schemes? Yes, you can receive Majhi Ladki Bahin benefits simultaneously with most other central and state welfare schemes like ration subsidies, housing scheme benefits, and education scholarships. The only exclusion is if you are already receiving a government pension of Rs 1,500 or more per month.",
+        "What happens if I move to another state? The scheme requires Maharashtra domicile. If you permanently relocate to another state, your eligibility would be reviewed and benefits may be discontinued. Temporary travel or visits do not affect enrollment.",
+        "Is the Rs 1,500 monthly amount taxable? No, this welfare benefit from the state government is not taxable income and does not need to be reported in income tax returns."
+      ]
+    },
+    {
+      "type": "timeline",
+      "heading": "Majhi Ladki Bahin Yojana: Scheme Milestones",
+      "items": [
+        {
+          "date": "JUN 2024",
+          "event": "Scheme launched",
+          "desc": "Initial registration for women aged 21-60"
+        },
+        {
+          "date": "JUL-AUG 2024",
+          "event": "Phase 1 disbursal",
+          "desc": "First Rs 1,500 credited to 1.85 Cr women"
+        },
+        {
+          "date": "DEC 2024",
+          "event": "Age extended to 65",
+          "desc": "After government formation, age cap raised"
+        },
+        {
+          "date": "MAR 2026",
+          "event": "eKYC mandatory",
+          "desc": "All beneficiaries must complete eKYC by 31 March 2026"
+        },
+        {
+          "date": "ONGOING 2026",
+          "event": "Monthly payments",
+          "desc": "Rs 1,500 credited monthly to 2.4 Cr+ women"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Financial Planning Tips for Beneficiaries",
+      "content": [
+        "The monthly Rs 1,500 can be used strategically to build long-term financial security beyond immediate daily expenses. Here are practical approaches that work for rural and semi-urban households in Maharashtra.",
+        "Save Rs 500 per month in a Post Office Recurring Deposit at current interest rates to build a corpus of approximately Rs 6,300 after one year with interest. Over five years, this grows to approximately Rs 34,000: enough to fund a child's college admission fees or handle a medical emergency without borrowing.",
+        "For women interested in starting micro-enterprises, saving three to four months of benefits creates startup capital of Rs 4,500 to Rs 6,000. Common viable micro-businesses in Maharashtra include papad and pickle making, tailoring and alterations, dairy products, and vegetable vending. The Maharashtra State Rural Livelihoods Mission provides additional training and support.",
+        "Invest Rs 500 per month in Sukanya Samriddhi <a href=\"/yojana/pm-awas-yojana\" style=\"text-decoration:underline;color:inherit\">Yojana</a> for a daughter to create a corpus of approximately Rs 1.9 lakh over 15 years at current interest rates. This amount can significantly contribute to a daughter's higher education or marriage expenses."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "title": "Helpline and Grievance Contacts",
+      "content": "For application status, payment issues, or any scheme-related queries, contact the state helpline number available on the official portal. You can also visit your local Anganwadi center or Gram Panchayat office for in-person assistance. For unresolved grievances, file a complaint on the Maharashtra government's grievance portal with your application reference number. District-level scheme coordinators at the District Women and Child Development Office handle escalated cases and can intervene when applications are stuck in verification."
+    },
+    {
+      "type": "text",
+      "heading": "How the Scheme Is Funded",
+      "content": [
+        "Majhi Ladki Bahin Yojana is funded entirely from the Maharashtra state budget. The annual financial outlay for the scheme exceeds Rs 35,000 crore given the enrollment of over 2 crore beneficiaries at Rs 18,000 per year each. This makes it one of the largest single welfare expenditures in any Indian state's budget.",
+        "The scheme's fiscal sustainability has been a topic of debate among economists and policy analysts. Supporters argue that the money goes directly into the hands of women who spend it on essential goods and services, creating a multiplier effect in the local economy. Critics point to the significant fiscal burden and the opportunity cost of not investing the same funds in infrastructure, healthcare, or education.",
+        "The state government has maintained that the scheme is fiscally sustainable within Maharashtra's revenue capacity. The state's own tax revenue, particularly from GST, stamp duty, and excise, provides the primary funding base. Any future increase in the monthly amount would need to be balanced against other budgetary priorities and the state's overall fiscal health."
+      ]
+    },
+    {
+      "type": "bar_chart",
+      "heading": "State Direct Cash Transfer Scheme Comparison (Annual per Beneficiary, Rs)",
+      "rows": [
+        {
+          "label": "Majhi Ladki Bahin (MH)",
+          "value": 18000,
+          "display": "Rs 18,000"
+        },
+        {
+          "label": "Ladli Behna (MP)",
+          "value": 15000,
+          "display": "Rs 15,000"
+        },
+        {
+          "label": "Gruha Lakshmi (KA)",
+          "value": 24000,
+          "display": "Rs 24,000"
+        },
+        {
+          "label": "Subhadra (OD)",
+          "value": 10000,
+          "display": "Rs 10,000 (one-time)"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Checking Your Eligibility and Application Status Online",
+      "content": [
+        "Visit the official Majhi Ladki Bahin Yojana portal to check your eligibility before applying. Enter your Aadhaar number and the portal will display whether you meet the criteria based on available government data. If the portal shows you as ineligible but you believe you qualify, gather your documents and apply through an offline channel where manual verification can correct any database errors.",
+        "After applying, track your application status using the reference number provided at submission. The portal shows the current verification stage: submitted, under Gram Panchayat verification, forwarded to Taluka, forwarded to District, approved, or rejected with reason. If the status shows returned for correction, log in to see the specific issue flagged by the verifying officer and resubmit with corrected information."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "info",
+      "title": "Official Sources & References",
+      "content": "Source: Department of Women & Child Development, Government of Maharashtra. All information on this page has been verified against official government notifications and regulatory circulars. For the latest updates, always check the official portal."
+    }
+  ],
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Gather Your Documents",
+      "description": "Collect your Aadhaar card, bank passbook, ration card, and a recent passport-size photo. Have your mobile number (linked to Aadhaar), domicile certificate or alternative residence proof, and marriage/divorce certificate (if applicable) ready."
+    },
+    {
+      "step": 2,
+      "title": "Visit the Online Portal",
+      "description": "Go to <a href='https://ladakibahin.maharashtra.gov.in/' target='_blank'>ladakibahin.maharashtra.gov.in</a> and click 'Apply Now'. You'll be directed to an application form. Fill in your personal details: name, date of birth, Aadhaar number, and contact information."
+    },
+    {
+      "step": 3,
+      "title": "Enter Family Income Details",
+      "description": "Provide your annual family income and select your ration card type (yellow, orange, or white). If you don't have a ration card, provide a domicile certificate or rent agreement as residence proof. The system automatically verifies your income based on your ration card category."
+    },
+    {
+      "step": 4,
+      "title": "Upload Documents & Bank Details",
+      "description": "Scan and upload your Aadhaar front & back, bank passbook (first page with account number), ration card, and passport photo. Fill in your complete bank account number, IFSC code, and the bank name. Double-check all details match exactly-even typos cause payment failure."
+    },
+    {
+      "step": 5,
+      "title": "Submit Application & Get Reference ID",
+      "description": "Click 'Submit Application'. The system generates a Reference ID. Note this ID-you'll need it to check status. You'll also receive a confirmation SMS and email with instructions for the next step."
+    },
+    {
+      "step": 6,
+      "title": "Complete Mandatory e-KYC Verification",
+      "description": "Within 5 days of application, you must complete e-KYC verification. Visit <a href='https://ladakibahin.maharashtra.gov.in/ekyc' target='_blank'>ladakibahin.maharashtra.gov.in/ekyc</a>, enter your Aadhaar and reference ID, and request an OTP. You'll receive it on your Aadhaar-linked mobile. Follow the prompts to complete biometric verification (fingerprint or iris scan at a bank or Aadhaar center) or video KYC. This is mandatory and has a final deadline of March 31, 2026."
+    },
+    {
+      "step": 7,
+      "title": "Wait for Verification & First Payment",
+      "description": "After e-KYC, the government verifies your documents (takes 5-10 days). Once approved, ₹1,500 is directly transferred to your bank account around the 26th of the next month. Check your bank account or portal for confirmation. Payments continue monthly thereafter."
+    }
+  ],
+  "important_alert": {
+    "text": "Critical e-KYC Deadline: March 31, 2026: All beneficiaries must complete e-KYC verification by this date or monthly payments will stop. Over 26 lakh ineligible beneficiaries were already suspended in a verification drive. Even if you've been receiving payments for months, you must complete e-KYC to continue. Visit your nearest bank or Aadhaar center immediately if you haven't done this yet. Don't wait until the deadline.",
+    "type": "warning"
+  },
+  "important_dates": [
+    {
+      "label": "e-KYC Final Deadline",
+      "value": "March 31, 2026 (Critical-payments stop after this)",
+      "highlight": true
+    },
+    {
+      "label": "Scheme Launch",
+      "value": "July 2024",
+      "highlight": false
+    },
+    {
+      "label": "Government Verification Drive",
+      "value": "August 2024-December 2025 (26 lakh ineligible accounts suspended)",
+      "highlight": false
+    },
+    {
+      "label": "Monthly Payment Date",
+      "value": "Typically 26th of each month",
+      "highlight": true
+    },
+    {
+      "label": "Total Disbursed as of March 2026",
+      "value": "Over ₹17,500 crore in 17 installments",
+      "highlight": false
+    }
+  ],
+  "faqs": [
+    {
+      "question": "When is the next Majhi Ladki Bahin installment date in 2026?",
+      "answer": "Majhi Ladki Bahin installments are credited around the 1st-3rd of each month directly to your Aadhaar-linked bank account. As of June 2026, all earlier installments (1st through 23rd) have been disbursed. The 24th installment is expected in early July 2026. Check exact status at ladakibahin.maharashtra.gov.in by entering your Aadhaar number. If installment is delayed, common reasons are: e-KYC pending, Aadhaar-bank seeding broken, or bank account inactive. Resolve these at your nearest Setu centre."
+    },
+    {
+      "question": "Is bank passbook mandatory for Majhi Ladki Bahin: or is cancelled cheque needed?",
+      "answer": "Bank passbook (first page) is mandatory for Majhi Ladki Bahin Yojana. A cancelled cheque is NOT required. Upload the first page of your passbook showing your name, account number, and IFSC code. If you don't have a passbook, a cancelled cheque with your name pre-printed can be used as an alternative. The account must be in your name only and linked to Aadhaar for DBT payments."
+    },
+    {
+      "question": "What documents are required for ladakibahin.maharashtra.gov.in registration?",
+      "answer": "Documents required at ladakibahin.maharashtra.gov.in: (1) Aadhaar card: mandatory for e-KYC. (2) Bank passbook first page: showing name, account number, IFSC. Cancelled cheque is NOT mandatory. (3) Ration card: yellow, orange, or white. (4) Domicile certificate (if no ration card). (5) Passport-size photograph. (6) Mobile number linked to Aadhaar for OTP. Marriage/widow/divorce certificate only if applicable."
+    },
+    {
+      "question": "What is lly.mhicds.com and why is it showing in Ladki Bahin search results?",
+      "answer": "lly.mhicds.com is the URL for the Nari Shakti Doot application used by Anganwadi workers for biometric e-KYC verification of Majhi Ladki Bahin applicants. Beneficiaries do not need to visit this URL themselves: Anganwadi workers use it at Gram Panchayat and Anganwadi centres to verify applicants in person. If you need in-person e-KYC, go to your nearest Anganwadi centre with your Aadhaar card."
+    },
+    {
+      "question": "How much money will I receive, and when?",
+      "answer": "You receive ₹1,500 every month, deposited directly into your bank account. This equals ₹18,000 per year. Payments are typically processed on the 26th of each month. Since launch in July 2024, 17 installments have been disbursed to 2.3-2.4 crore women. Future payments continue monthly as long as you complete e-KYC by March 31, 2026, and remain eligible."
+    },
+    {
+      "question": "What is the income limit, and how is it verified?",
+      "answer": "Annual family income must not exceed ₹2.5 lakh (about ₹20,833 monthly). This includes income of all family members-spouse, adult children, and parents living in the same household. The government verifies through your ration card type. Yellow and orange ration cards show you're below the limit; white cards may require an income certificate. The government also cross-checks with income tax records and pensions."
+    },
+    {
+      "question": "My name is slightly different on Aadhaar, bank, and ration card. Will I be rejected?",
+      "answer": "Yes, the system uses automated name matching and even small differences (like 'Priya' vs 'P.', or 'Sharma' vs 'Shrama') cause rejection. You must make all documents identical. Go to your bank and request a name correction in your account to exactly match your Aadhaar. This takes 2-3 weeks. You can also update your Aadhaar at a postal office if needed. After corrections, reapply or check the portal to see if your existing application is updated."
+    },
+    {
+      "question": "How do I complete the e-KYC verification?",
+      "answer": "Visit the portal at ladakibahin.maharashtra.gov.in/ekyc with your Aadhaar number and reference ID. Request an OTP on your Aadhaar-linked mobile. Once you receive the OTP, you can either complete video KYC (where a government officer verifies you on video call) or visit your nearest bank for biometric verification (fingerprint or iris scan). The entire process takes 5-10 minutes. Some women faced OTP issues in 2024-25 if their mobile wasn't linked to Aadhaar-ensure your phone number is updated in Aadhaar before trying."
+    },
+    {
+      "question": "What happens if I miss the e-KYC deadline of March 31, 2026?",
+      "answer": "Your monthly payments will permanently stop. The government will not send any reminder after the deadline-benefits simply discontinue. You cannot apply again or claim back-payments. This is a strict deadline set by the government. Complete e-KYC now even if your current status shows 'Approved'-don't wait for a payment failure or reminder."
+    },
+    {
+      "question": "Can widows, divorcees, and unmarried women apply?",
+      "answer": "Yes, absolutely. Marital status is not a restriction. Widows, divorcees, separated women, and unmarried women all qualify if they meet the age (21-65), income (₹2.5 lakh), and residency (5 years in Maharashtra) criteria. Widows must provide a widowhood certificate or death certificate of spouse; divorcees must provide a divorce decree or application. These documents are issued free by your municipality or gram panchayat."
+    },
+    {
+      "question": "When is the next Ladki Bahin installment date in 2026?",
+      "answer": "The Ladki Bahin installment is credited on or around the 1st of every month. Check your payment status at ladakibahin.maharashtra.gov.in using your Aadhaar number or application ID. If payment is delayed, verify your bank-Aadhaar linking status."
+    },
+    {
+      "question": "How to check Ladki Bahin payment status online?",
+      "answer": "Visit ladakibahin.maharashtra.gov.in → Click 'Beneficiary Status' → Enter Aadhaar number or application ID → View payment history. You can also check via the Mahalabharthi portal or call the helpline at 1800-120-8040."
+    },
+    {
+      "question": "What is the Ladki Bahin e-KYC link and how do I open it online?",
+      "answer": "The official e-KYC ladki bahin yojana link online is on the Maharashtra portal at ladakibahin.maharashtra.gov.in. Open the ladaki bahin maharashtra gov in ekyc section and complete majhi ladki bahin yojana ekyc online using Aadhaar OTP or face verification.<br><br>Use only this ladki bahin ekyc link or the Nari Shakti Doot app. The ladki bahin kyc link on any other website cannot update your real record."
+    },
+    {
+      "question": "What is the Ladki Bahin e-KYC last date and the last date to apply?",
+      "answer": "The ladki bahin yojana ekyc last date has been set at March 31, 2026, and missing it can pause your payments. The ladki bahin yojana last date to apply follows the state's current application window.<br><br>Complete your e-KYC before the cutoff to keep instalments running. Always confirm the live date on the official portal before relying on it."
+    },
+    {
+      "question": "What is the Ladki Bahin age limit and how do I check status?",
+      "answer": "The ladki bahin yojana age limit is 21 to 65 years for eligible women in Maharashtra. To check ladki bahin yojana status, log in to the portal with your registered mobile or application number.<br><br>Completing your mukhyamantri ladki bahin yojana kyc is required before a payment shows as cleared. A pending status usually means e-KYC or bank seeding is incomplete."
+    }
+  ],
+  "official_portal": {
+    "name": "Majhi Ladki Bahin Official Portal",
+    "url": "https://ladakibahin.maharashtra.gov.in/"
+  },
+  "related_pages": [],
+  "tags": [
+    "maharashtra",
+    "women-welfare",
+    "financial-support",
+    "direct-benefit-transfer",
+    "cash-assistance",
+    "age-21-65"
+  ],
+  "ministry": "Department of Social Justice, Government of Maharashtra",
+  "launch_year": 2024,
+  "image_suggestions": [
+    "Screenshot of ladakibahin.maharashtra.gov.in homepage showing application button",
+    "Mobile phone displaying monthly ₹1,500 payment notification in bank app",
+    "Document checklist infographic showing all required papers (Aadhaar, ration card, bank passbook)",
+    "Step-by-step guide images for completing e-KYC verification online",
+    "Photo of woman at bank completing Aadhaar linkage process",
+    "Timeline showing payment schedule (26th of each month)",
+    "Comparison table visual showing eligibility criteria with checkmarks",
+    "Screenshot of payment status tracker showing transaction history on the portal"
+  ],
+  "last_reviewed": "May 2026",
+  "category": "women",
+  "state": "maharashtra"
 }
