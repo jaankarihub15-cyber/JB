@@ -29,7 +29,7 @@ const tools = [
 
 export default function ToolsHubPage() {
   return (
-    <div className="max-w-[760px] mx-auto px-4 pb-12">
+    <div className="max-w-[760px] mx-auto px-4 pt-6 pb-12">
       <JsonLd
         data={breadcrumbSchema([
           { name: "Home", url: "https://knowledgekendra.com" },

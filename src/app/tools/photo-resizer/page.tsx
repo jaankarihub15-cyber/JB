@@ -23,7 +23,7 @@ const faqs = [
 
 export default function PhotoResizerPage() {
   return (
-    <div className="max-w-[680px] mx-auto px-4 pb-12">
+    <div className="max-w-[680px] mx-auto px-4 pt-6 pb-12">
       <JsonLd data={faqSchema(faqs)} />
       <JsonLd
         data={breadcrumbSchema([
