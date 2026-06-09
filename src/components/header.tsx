@@ -238,6 +238,17 @@ export function Header() {
             >
               Guides
             </Link>
+
+            <Link
+              href="/check-eligibility"
+              className={`px-4 py-2 rounded-full text-sm font-semibold transition-colors ${
+                getActive("/check-eligibility")
+                  ? "bg-accent text-white"
+                  : "bg-accent-light text-accent hover:bg-accent hover:text-white"
+              }`}
+            >
+              Check Eligibility
+            </Link>
           </nav>
 
           <div className="flex items-center gap-2">
