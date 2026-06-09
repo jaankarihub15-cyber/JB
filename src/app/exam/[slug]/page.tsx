@@ -1,4 +1,6 @@
 import { AuthorBox } from "@/components/author-box";
+import { ResizerCTA } from "@/components/resizer-cta";
+import { Fragment } from "react";
 import { SchemeBlock } from "@/components/scheme-blocks";
 import { SaveForLater } from "@/components/save-for-later";
 import { SourceCitations } from "@/components/source-citations";
@@ -167,7 +169,8 @@ export default async function ExamDetailPage({ params }: Props) {
           ? `section-${e.extra_sections.filter((s: any, i: number) => i < idx && s.heading && s.type !== "svg_block").length}`
           : undefined;
         return (
-        <div key={idx} id={sectionId}>
+        <Fragment key={idx}>
+        <div id={sectionId}>
           {!["svg_block","stat_grid","process_flow","icon_list","timeline","comparison_card","bar_chart","number_highlight","modern_callout","quick_action_grid","eligibility_check"].includes(section.type) && <SectionHeading icon={section.icon}>{section.heading}</SectionHeading>}
 
           {section.type === "text" && section.content.map((para: string, i: number) => (
@@ -272,6 +275,8 @@ export default async function ExamDetailPage({ params }: Props) {
             </div>
           )}
         </div>
+        {idx === 0 && <ResizerCTA />}
+        </Fragment>
       );})}
 
       {e.important_dates && e.important_dates.length > 0 && (

@@ -140,6 +140,8 @@ export default async function SchemeDetailPage({ params }: Props) {
         ))}
       </Card>
 
+      <EligibilityCTA />
+
       {/* Extra Sections — renders deep content dynamically */}
       {s.extra_sections && s.extra_sections.map((section: any, idx: number) => {
         const sectionId = section.heading && !["svg_block", "stat_grid", "process_flow", "icon_list", "timeline", "comparison_card", "bar_chart", "number_highlight", "modern_callout", "quick_action_grid", "eligibility_check"].includes(section.type)
@@ -312,8 +314,6 @@ export default async function SchemeDetailPage({ params }: Props) {
           </div>
         </div>
       )}
-
-      <EligibilityCTA />
 
       {/* FAQs */}
       <div id="faqs"><SectionHeading icon="❓">Frequently Asked Questions</SectionHeading></div>
