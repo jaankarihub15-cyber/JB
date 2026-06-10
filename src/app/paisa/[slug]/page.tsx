@@ -71,7 +71,7 @@ export default async function PaisaDetailPage({ params }: Props) {
   return (
     <div className="theme-v2 py-0">
       <div className="lg:hidden"><TableOfContents items={tocItems} /></div>
-      <div className="max-w-[1140px] mx-auto px-5 md:px-6 pt-3 pb-2">
+      <div className="max-w-[1140px] mx-auto px-5 md:px-6">
       <article itemScope itemType="https://schema.org/Article">
         <meta itemProp="headline" content={p.title} />
         <meta itemProp="description" content={(p as any).meta_description || p.hero.one_liner} />
@@ -92,7 +92,7 @@ export default async function PaisaDetailPage({ params }: Props) {
       {/* Full-width hero band, content constrained inside (preview style) */}
       <div className="hero-band-v2">
         <div className="max-w-[1140px] mx-auto px-5 md:px-6 relative">
-          <div className="pt-6 text-[12.5px] font-semibold text-[#8FB8A2]">
+          <div className="pt-6 pr-24 sm:pr-28 text-[12.5px] font-semibold text-[#8FB8A2]">
             <a href="/" className="hover:text-white transition-colors">Home</a>
             <span className="mx-1.5 opacity-60">/</span>
             <a href="/paisa" className="hover:text-white transition-colors">Paisa Guide</a>
@@ -111,14 +111,10 @@ export default async function PaisaDetailPage({ params }: Props) {
           { label: "\u2696\uFE0F Compare Options", href: "/compare" },
         ]}
       />
-        </div>
-      </div>
 
-      <div className="max-w-[1140px] mx-auto px-5 md:px-6 pb-6 -mt-16 relative z-10">
-
-      {/* remaining hero stats as chips below the band */}
+      {/* hero stats as chips, inside the band for cleaner mobile stacking */}
       {p.hero.stats && p.hero.stats.length > 1 && (
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-2.5 mt-5 mb-2">
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-2.5 mt-2 pb-1">
           {p.hero.stats.slice(1, 5).map((st: any) => (
             <div key={st.label} className="stat-chip-v2 bg-card border border-border rounded-xl px-4 py-3">
               <div className="text-[10.5px] font-bold text-text-muted uppercase tracking-wide">{st.label}</div>
@@ -127,8 +123,12 @@ export default async function PaisaDetailPage({ params }: Props) {
           ))}
         </div>
       )}
+        </div>
+      </div>
 
-      <div className="lg:grid lg:grid-cols-[240px_1fr] lg:gap-10 lg:items-start mt-6">
+      <div className="max-w-[1140px] mx-auto px-5 md:px-6 pb-6 relative z-10">
+
+      <div className="lg:grid lg:grid-cols-[240px_minmax(0,1fr)_180px] lg:gap-10 lg:items-start mt-8">
       <TocSidebarV2 items={tocItems} />
       <div className="min-w-0">
 
@@ -355,6 +355,8 @@ export default async function PaisaDetailPage({ params }: Props) {
       <AuthorBox updatedDate={p.last_reviewed || p.hero.updated_date || "May 2026"} />
 
       </div>
+      {/* Reserved right rail for future second sidebar (empty for now) */}
+      <aside className="hidden lg:block" aria-hidden="true"></aside>
       </div>
       </div>
     </div>
