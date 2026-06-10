@@ -7,7 +7,7 @@ import { SaveForLater } from "@/components/save-for-later";
 import { SourceCitations } from "@/components/source-citations";
 import { TableOfContents } from "@/components/table-of-contents";
 import { notFound } from "next/navigation";
-import { getPaisaBySlug, getAllPaisaSlugs } from "@/lib/content";
+import { getPaisaBySlug, getAllPaisaSlugs, getAllPaisaArticles } from "@/lib/content";
 import {
   SectionHeading, Card, InfoRow, StepCard, FAQ, Tag,
 } from "@/components/ui";
@@ -53,6 +53,16 @@ export default async function PaisaDetailPage({ params }: Props) {
   const { slug } = await params;
   const p = getPaisaBySlug(slug);
   if (!p) notFound();
+
+  // Related: use page's own related_pages, else fall back to sibling paisa articles
+  let relatedItems = p.related_pages && p.related_pages.length > 0 ? p.related_pages : [];
+  if (relatedItems.length === 0) {
+    relatedItems = getAllPaisaArticles()
+      .filter((a: any) => a.slug !== slug)
+      .slice(0, 3)
+      .map((a: any) => ({ slug: a.slug, title: a.title, tag: "Paisa", url: `/paisa/${a.slug}` }));
+  }
+
   // Build TOC items
   const tocItems = (p.sections || [])
     .filter((s: any) => s.heading && !["svg_block", "stat_grid", "process_flow", "icon_list", "timeline", "comparison_card", "bar_chart", "number_highlight", "modern_callout", "quick_action_grid", "eligibility_check"].includes(s.type))
@@ -99,7 +109,7 @@ export default async function PaisaDetailPage({ params }: Props) {
             <span className="mx-1.5 opacity-60">/</span>
             <b className="text-[#DFF3E8]">{p.title.length > 60 ? p.title.slice(0, 57) + "..." : p.title}</b>
           </div>
-          <div className="absolute right-5 md:right-6 top-5 z-10"><SaveForLater slug={slug} title={p.title} url={`/paisa/${slug}`} /></div>
+          <div className="absolute right-5 md:right-6 top-5 z-10"><SaveForLater slug={slug} title={p.title} url={`/paisa/${slug}`} onDark /></div>
           <HeroV2
         title={p.title}
         subtitle={p.hero.one_liner}
@@ -329,9 +339,11 @@ export default async function PaisaDetailPage({ params }: Props) {
       </Card>
 
       {/* Related */}
+      {relatedItems.length > 0 && (
+        <>
       <SectionHeading icon="🔗">Related Topics</SectionHeading>
       <div className="flex gap-2.5 overflow-x-auto pb-2">
-        {p.related_pages.map((r: any) => (
+        {relatedItems.map((r: any) => (
           <a
             key={r.slug}
             href={r.url || `/paisa/${r.slug}`}
@@ -344,6 +356,8 @@ export default async function PaisaDetailPage({ params }: Props) {
           </a>
         ))}
       </div>
+        </>
+      )}
 
       {/* Disclaimer */}
       {p.disclaimer && (

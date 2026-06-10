@@ -8,7 +8,7 @@ export function AuthorBox({ updatedDate }: AuthorBoxProps) {
   return (
     <div className="flex items-center justify-between py-4 mt-6 border-t border-border">
       <div className="flex items-center gap-3">
-        <div className="w-9 h-9 rounded-xl bg-accent/10 flex items-center justify-center text-accent text-xs font-extrabold">AK</div>
+        <img src="/authors/ash-k.jpg" alt="Ash K." width={36} height={36} className="w-9 h-9 rounded-xl object-cover" />
         <div>
           <div className="text-sm font-semibold text-text">
             <Link href="/about#author" className="hover:text-accent transition-colors">Ash K.</Link>

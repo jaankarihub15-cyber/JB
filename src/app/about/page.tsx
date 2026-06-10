@@ -24,7 +24,7 @@ export default function AboutPage() {
           <h2 className="heading text-xl mt-8 mb-3 text-text">Who&apos;s Behind This</h2>
           <div className="card p-6 mt-4" id="author">
             <div className="flex items-center gap-4 mb-4">
-              <div className="w-14 h-14 rounded-2xl bg-accent/10 flex items-center justify-center text-accent text-xl font-extrabold">AK</div>
+              <img src="/authors/ash-k.jpg" alt="Ash K." width={56} height={56} className="w-14 h-14 rounded-2xl object-cover" />
               <div>
                 <div className="text-lg font-bold text-text">Ash K.</div>
                 <div className="text-sm text-text-secondary">Founder &amp; Editor</div>

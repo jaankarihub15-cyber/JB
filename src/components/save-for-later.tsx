@@ -2,8 +2,9 @@
 
 import { useState, useEffect } from "react";
 
-export function SaveForLater({ slug, title, url }: { slug: string; title: string; url: string }) {
+export function SaveForLater({ slug, title, url, onDark }: { slug: string; title: string; url: string; onDark?: boolean }) {
   const [saved, setSaved] = useState(false);
+  const [showHint, setShowHint] = useState(false);
 
   useEffect(() => {
     try {
@@ -20,23 +21,40 @@ export function SaveForLater({ slug, title, url }: { slug: string; title: string
       } else {
         items.unshift({ slug, title, url, savedAt: new Date().toISOString() });
         if (items.length > 30) items = items.slice(0, 30);
+        setShowHint(true);
+        setTimeout(() => setShowHint(false), 3200);
       }
       localStorage.setItem("kk_saved", JSON.stringify(items));
       setSaved(!saved);
     } catch {}
   };
 
+  const labelClass = onDark
+    ? "text-white font-semibold"
+    : saved
+    ? "text-accent font-semibold"
+    : "text-text-muted";
+  const borderClass = onDark
+    ? "border-white/30 hover:border-white/60"
+    : "border-border hover:border-accent/40";
+
   return (
-    <button
-      onClick={toggle}
-      className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg border border-border hover:border-accent/40 text-sm transition-all cursor-pointer"
-      aria-label={saved ? "Remove bookmark" : "Save for later"}
-    >
-      <span className="text-base">{saved ? "🔖" : "🏷️"}</span>
-      <span className={saved ? "text-accent font-semibold" : "text-text-muted"}>
-        {saved ? "Saved" : "Save"}
-      </span>
-    </button>
+    <div className="relative">
+      <button
+        onClick={toggle}
+        className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg border ${borderClass} text-sm transition-all cursor-pointer`}
+        aria-label={saved ? "Remove bookmark" : "Save for later"}
+      >
+        <span className="text-base">{saved ? "🔖" : "🏷️"}</span>
+        <span className={labelClass}>{saved ? "Saved" : "Save"}</span>
+      </button>
+      {showHint && (
+        <div className="absolute right-0 top-[calc(100%+8px)] z-30 w-max max-w-[220px] bg-white text-text text-xs font-medium rounded-lg shadow-lg px-3 py-2 border border-border">
+          Saved. Find it on the
+          <a href="/" className="text-accent font-bold"> homepage</a> anytime.
+        </div>
+      )}
+    </div>
   );
 }
 

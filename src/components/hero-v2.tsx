@@ -39,9 +39,13 @@ export function HeroV2({
           </h1>
           <p className="hero-sub text-[15px] leading-relaxed max-w-[560px] mb-5">{subtitle}</p>
           <div className="flex items-center gap-3">
-            <div className="w-8 h-8 rounded-full bg-[#9FE2BE] text-[#0F3D2A] flex items-center justify-center font-extrabold text-[13px]">
-              A
-            </div>
+            <img
+              src="/authors/ash-k.jpg"
+              alt="Ash K."
+              width={32}
+              height={32}
+              className="w-8 h-8 rounded-full object-cover border border-white/20"
+            />
             <div className="text-[12.5px] leading-tight">
               <b className="text-white">Ash K.</b>
               <br />
