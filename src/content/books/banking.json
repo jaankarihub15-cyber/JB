@@ -8,9 +8,18 @@
     "icon": "🏦",
     "updated_date": "June 2026",
     "stats": [
-      { "label": "Core books", "value": "7-9" },
-      { "label": "Covers", "value": "IBPS + SBI" },
-      { "label": "Sections", "value": "4" }
+      {
+        "label": "Core books",
+        "value": "7-9"
+      },
+      {
+        "label": "Covers",
+        "value": "IBPS + SBI"
+      },
+      {
+        "label": "Sections",
+        "value": "4"
+      }
     ]
   },
   "intro": [
@@ -19,9 +28,21 @@
     "Bank exams are speed games. Pick standard books, then drill sectional and full-length tests until accuracy under time becomes second nature."
   ],
   "reading_order": [
-    { "step": 1, "title": "Concept books", "description": "Quant, reasoning, and English fundamentals from standard texts." },
-    { "step": 2, "title": "Banking awareness", "description": "Add banking and financial awareness, updated with RBI news." },
-    { "step": 3, "title": "Speed + mocks", "description": "Daily timed practice and full mocks to build calculation speed and accuracy." }
+    {
+      "step": 1,
+      "title": "Concept books",
+      "description": "Quant, reasoning, and English fundamentals from standard texts."
+    },
+    {
+      "step": 2,
+      "title": "Banking awareness",
+      "description": "Add banking and financial awareness, updated with RBI news."
+    },
+    {
+      "step": 3,
+      "title": "Speed + mocks",
+      "description": "Daily timed practice and full mocks to build calculation speed and accuracy."
+    }
   ],
   "subjects": [
     {
@@ -30,8 +51,27 @@
       "icon": "🔢",
       "intro": "Data interpretation heavy in PO exams. Focus on speed and calculation tricks.",
       "books": [
-        { "title": "Quantitative Aptitude for Competitive Examinations", "author": "RS Aggarwal", "publisher": "S Chand", "price_approx": "₹700", "tier": "standard", "priority": "must", "beginner_friendly": true, "why": "The foundational quant book for bank exams. Comprehensive theory and practice across all topics." },
-        { "title": "Magical Book on Quicker Maths", "author": "M Tyra", "publisher": "BSC Publishing", "price_approx": "₹450", "tier": "standard", "priority": "recommended", "why": "Best for speed methods and shortcuts that matter in time-bound bank exams." }
+        {
+          "title": "Quantitative Aptitude for Competitive Examinations",
+          "author": "RS Aggarwal",
+          "publisher": "S Chand",
+          "price_approx": "₹700",
+          "tier": "standard",
+          "priority": "must",
+          "beginner_friendly": true,
+          "why": "The foundational quant book for bank exams. Comprehensive theory and practice across all topics.",
+          "amazon_url": "https://www.amazon.in/dp/B0D6VFV3ZP"
+        },
+        {
+          "title": "Magical Book on Quicker Maths",
+          "author": "M Tyra",
+          "publisher": "BSC Publishing",
+          "price_approx": "₹450",
+          "tier": "standard",
+          "priority": "recommended",
+          "why": "Best for speed methods and shortcuts that matter in time-bound bank exams.",
+          "amazon_url": "https://www.amazon.in/dp/B0G7F3JL1Q"
+        }
       ]
     },
     {
@@ -40,8 +80,27 @@
       "icon": "🧩",
       "intro": "Bank reasoning leans on puzzles and seating arrangements. Practice is everything.",
       "books": [
-        { "title": "A Modern Approach to Verbal & Non-Verbal Reasoning", "author": "RS Aggarwal", "publisher": "S Chand", "price_approx": "₹600", "tier": "standard", "priority": "must", "beginner_friendly": true, "why": "Covers all reasoning types asked in bank exams with detailed solutions." },
-        { "title": "Analytical Reasoning", "author": "MK Pandey", "publisher": "BSC Publishing", "price_approx": "₹350", "tier": "standard", "priority": "recommended", "why": "Strong for the analytical and puzzle-heavy questions common in PO mains." }
+        {
+          "title": "A Modern Approach to Verbal & Non-Verbal Reasoning",
+          "author": "RS Aggarwal",
+          "publisher": "S Chand",
+          "price_approx": "₹600",
+          "tier": "standard",
+          "priority": "must",
+          "beginner_friendly": true,
+          "why": "Covers all reasoning types asked in bank exams with detailed solutions.",
+          "amazon_url": "https://www.amazon.in/dp/B0GM7STLC8"
+        },
+        {
+          "title": "Analytical Reasoning",
+          "author": "MK Pandey",
+          "publisher": "BSC Publishing",
+          "price_approx": "₹350",
+          "tier": "standard",
+          "priority": "recommended",
+          "why": "Strong for the analytical and puzzle-heavy questions common in PO mains.",
+          "amazon_url": "https://www.amazon.in/dp/B0G71W4Z6S"
+        }
       ]
     },
     {
@@ -50,8 +109,27 @@
       "icon": "📝",
       "intro": "Appears in both Prelims and Mains. PO Mains also has descriptive writing.",
       "books": [
-        { "title": "Objective General English", "author": "SP Bakshi", "publisher": "Arihant", "price_approx": "₹400", "tier": "standard", "priority": "must", "beginner_friendly": true, "why": "The standard for grammar, vocabulary, and comprehension across bank exams." },
-        { "title": "Descriptive General English", "author": "SP Bakshi & Richa Sharma", "publisher": "Arihant", "price_approx": "₹350", "tier": "standard", "priority": "recommended", "why": "Built for SBI PO Mains descriptive writing. Do not skip it if you target PO." }
+        {
+          "title": "Objective General English",
+          "author": "SP Bakshi",
+          "publisher": "Arihant",
+          "price_approx": "₹400",
+          "tier": "standard",
+          "priority": "must",
+          "beginner_friendly": true,
+          "why": "The standard for grammar, vocabulary, and comprehension across bank exams.",
+          "amazon_url": "https://www.amazon.in/dp/B0FGYGTLT5"
+        },
+        {
+          "title": "Descriptive General English",
+          "author": "SP Bakshi & Richa Sharma",
+          "publisher": "Arihant",
+          "price_approx": "₹350",
+          "tier": "standard",
+          "priority": "recommended",
+          "why": "Built for SBI PO Mains descriptive writing. Do not skip it if you target PO.",
+          "amazon_url": "https://www.amazon.in/dp/9385980777"
+        }
       ]
     },
     {
@@ -60,7 +138,17 @@
       "icon": "🏛️",
       "intro": "Unique to bank exams. Static banking plus current financial news.",
       "books": [
-        { "title": "Banking Awareness", "author": "Arihant Experts", "publisher": "Arihant", "price_approx": "₹300", "tier": "standard", "priority": "must", "beginner_friendly": true, "why": "Comprehensive coverage of banking operations, products, and regulations. Update it with RBI's official reports." }
+        {
+          "title": "Banking Awareness",
+          "author": "Arihant Experts",
+          "publisher": "Arihant",
+          "price_approx": "₹300",
+          "tier": "standard",
+          "priority": "must",
+          "beginner_friendly": true,
+          "why": "Comprehensive coverage of banking operations, products, and regulations. Update it with RBI's official reports.",
+          "amazon_url": "https://www.amazon.in/dp/B0GHJMD3NN"
+        }
       ]
     }
   ],
@@ -70,17 +158,48 @@
     "Keep banking awareness updated with RBI news, since printed books go stale on current data fast."
   ],
   "faqs": [
-    { "question": "Can one book set work for both IBPS and SBI?", "answer": "Yes. The Quant, Reasoning, and English syllabi overlap heavily across IBPS and SBI PO and Clerk.<br><br>One solid set serves all four exams; only the difficulty and descriptive paper differ." },
-    { "question": "Which books should a complete beginner start with?", "answer": "RS Aggarwal for quant, RS Aggarwal for reasoning, and SP Bakshi for English cover about 70% of the syllabus.<br><br>Finish these with practice, then add banking awareness and mocks." },
-    { "question": "Do I need a separate book for SBI PO descriptive?", "answer": "Yes. SBI PO Mains has a descriptive English paper that objective books do not cover.<br><br>Descriptive General English by Bakshi and Richa Sharma is built for exactly this." },
-    { "question": "How do I prepare banking awareness?", "answer": "Use Arihant's Banking Awareness for the static base, then update with RBI press releases and financial news.<br><br>Printed books cannot keep up with current data, so pair them with monthly current affairs." },
-    { "question": "Is RS Aggarwal enough for bank quant?", "answer": "For the foundation, yes. Add M Tyra's Quicker Maths for the speed and shortcuts bank exams demand.<br><br>Then move to timed sectional practice and mocks." },
-    { "question": "Are bank exam books different for PO and Clerk?", "answer": "Mostly the same books work; PO is harder and adds descriptive writing and tougher DI.<br><br>Clerk needs the same base with more speed practice at a slightly easier level." },
-    { "question": "Should I buy books or use online material for bank prep?", "answer": "Concept books are best in print for revision. Daily MCQ practice, mocks, and current affairs work well online.<br><br>A blend of both is what most successful candidates use." },
-    { "question": "How important are mock tests for bank exams?", "answer": "Very. Bank exams are won on speed and accuracy under time, which only mocks build.<br><br>After finishing your books, mock tests should be your main daily activity." }
+    {
+      "question": "Can one book set work for both IBPS and SBI?",
+      "answer": "Yes. The Quant, Reasoning, and English syllabi overlap heavily across IBPS and SBI PO and Clerk.<br><br>One solid set serves all four exams; only the difficulty and descriptive paper differ."
+    },
+    {
+      "question": "Which books should a complete beginner start with?",
+      "answer": "RS Aggarwal for quant, RS Aggarwal for reasoning, and SP Bakshi for English cover about 70% of the syllabus.<br><br>Finish these with practice, then add banking awareness and mocks."
+    },
+    {
+      "question": "Do I need a separate book for SBI PO descriptive?",
+      "answer": "Yes. SBI PO Mains has a descriptive English paper that objective books do not cover.<br><br>Descriptive General English by Bakshi and Richa Sharma is built for exactly this."
+    },
+    {
+      "question": "How do I prepare banking awareness?",
+      "answer": "Use Arihant's Banking Awareness for the static base, then update with RBI press releases and financial news.<br><br>Printed books cannot keep up with current data, so pair them with monthly current affairs."
+    },
+    {
+      "question": "Is RS Aggarwal enough for bank quant?",
+      "answer": "For the foundation, yes. Add M Tyra's Quicker Maths for the speed and shortcuts bank exams demand.<br><br>Then move to timed sectional practice and mocks."
+    },
+    {
+      "question": "Are bank exam books different for PO and Clerk?",
+      "answer": "Mostly the same books work; PO is harder and adds descriptive writing and tougher DI.<br><br>Clerk needs the same base with more speed practice at a slightly easier level."
+    },
+    {
+      "question": "Should I buy books or use online material for bank prep?",
+      "answer": "Concept books are best in print for revision. Daily MCQ practice, mocks, and current affairs work well online.<br><br>A blend of both is what most successful candidates use."
+    },
+    {
+      "question": "How important are mock tests for bank exams?",
+      "answer": "Very. Bank exams are won on speed and accuracy under time, which only mocks build.<br><br>After finishing your books, mock tests should be your main daily activity."
+    }
   ],
   "disclaimer": "Book prices and editions are approximate and last checked in June 2026. Confirm the latest edition before buying. This is an independent guide and not affiliated with IBPS, SBI, or any publisher.",
   "related_exam_slug": "ibps-po",
-  "tags": ["Banking", "IBPS", "SBI", "PO", "Clerk", "Books"],
+  "tags": [
+    "Banking",
+    "IBPS",
+    "SBI",
+    "PO",
+    "Clerk",
+    "Books"
+  ],
   "last_reviewed": "June 2026"
 }

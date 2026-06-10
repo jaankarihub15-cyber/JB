@@ -8,9 +8,18 @@
     "icon": "🚆",
     "updated_date": "June 2026",
     "stats": [
-      { "label": "Core books", "value": "6-8" },
-      { "label": "Covers", "value": "NTPC + Group D" },
-      { "label": "Sections", "value": "3" }
+      {
+        "label": "Core books",
+        "value": "6-8"
+      },
+      {
+        "label": "Covers",
+        "value": "NTPC + Group D"
+      },
+      {
+        "label": "Sections",
+        "value": "3"
+      }
     ]
   },
   "intro": [
@@ -19,9 +28,21 @@
     "Keep it lean: one main book per section, heavy previous year paper practice, and regular mock tests. Most of the syllabus overlaps with SSC, so SSC books work too."
   ],
   "reading_order": [
-    { "step": 1, "title": "Concept books", "description": "Maths and reasoning fundamentals from standard competitive-exam books." },
-    { "step": 2, "title": "GK + Science", "description": "Lucent General Knowledge and General Science for the awareness section." },
-    { "step": 3, "title": "PYQs + mocks", "description": "Kiran previous year papers and full mocks for both NTPC and Group D." }
+    {
+      "step": 1,
+      "title": "Concept books",
+      "description": "Maths and reasoning fundamentals from standard competitive-exam books."
+    },
+    {
+      "step": 2,
+      "title": "GK + Science",
+      "description": "Lucent General Knowledge and General Science for the awareness section."
+    },
+    {
+      "step": 3,
+      "title": "PYQs + mocks",
+      "description": "Kiran previous year papers and full mocks for both NTPC and Group D."
+    }
   ],
   "subjects": [
     {
@@ -30,8 +51,27 @@
       "icon": "🔢",
       "intro": "Arithmetic-heavy and speed-focused. The same maths base as SSC works here.",
       "books": [
-        { "title": "Quantitative Aptitude for Competitive Examinations", "author": "RS Aggarwal", "publisher": "S Chand", "price_approx": "₹700", "tier": "standard", "priority": "must", "beginner_friendly": true, "why": "Complete arithmetic coverage for railway maths. The most widely used base book." },
-        { "title": "Fast Track Objective Arithmetic", "author": "Rajesh Verma", "publisher": "Arihant", "price_approx": "₹450", "tier": "standard", "priority": "recommended", "why": "Speed methods and shortcuts that matter in the time-bound railway exams." }
+        {
+          "title": "Quantitative Aptitude for Competitive Examinations",
+          "author": "RS Aggarwal",
+          "publisher": "S Chand",
+          "price_approx": "₹700",
+          "tier": "standard",
+          "priority": "must",
+          "beginner_friendly": true,
+          "why": "Complete arithmetic coverage for railway maths. The most widely used base book.",
+          "amazon_url": "https://www.amazon.in/dp/B0D6VFV3ZP"
+        },
+        {
+          "title": "Fast Track Objective Arithmetic",
+          "author": "Rajesh Verma",
+          "publisher": "Arihant",
+          "price_approx": "₹450",
+          "tier": "standard",
+          "priority": "recommended",
+          "why": "Speed methods and shortcuts that matter in the time-bound railway exams.",
+          "amazon_url": "https://www.amazon.in/dp/9368406650"
+        }
       ]
     },
     {
@@ -40,7 +80,17 @@
       "icon": "🧩",
       "intro": "Tests logic, series, coding, and analogy. Practice-driven section.",
       "books": [
-        { "title": "A Modern Approach to Verbal & Non-Verbal Reasoning", "author": "RS Aggarwal", "publisher": "S Chand", "price_approx": "₹600", "tier": "standard", "priority": "must", "beginner_friendly": true, "why": "Covers all reasoning question types asked in NTPC and Group D with practice." }
+        {
+          "title": "A Modern Approach to Verbal & Non-Verbal Reasoning",
+          "author": "RS Aggarwal",
+          "publisher": "S Chand",
+          "price_approx": "₹600",
+          "tier": "standard",
+          "priority": "must",
+          "beginner_friendly": true,
+          "why": "Covers all reasoning question types asked in NTPC and Group D with practice.",
+          "amazon_url": "https://www.amazon.in/dp/B0GM7STLC8"
+        }
       ]
     },
     {
@@ -49,8 +99,28 @@
       "icon": "🌐",
       "intro": "A large section in railway exams. Static GK plus basic general science.",
       "books": [
-        { "title": "General Knowledge", "author": "Lucent", "publisher": "Lucent Publication", "price_approx": "₹250", "tier": "standard", "priority": "must", "beginner_friendly": true, "why": "The standard GK book for railway exams. Revise it multiple times for the heavy awareness section." },
-        { "title": "General Science", "author": "Lucent", "publisher": "Lucent Publication", "price_approx": "₹220", "tier": "standard", "priority": "must", "beginner_friendly": true, "why": "Covers the physics, chemistry, and biology basics that railway exams test directly." }
+        {
+          "title": "General Knowledge",
+          "author": "Lucent",
+          "publisher": "Lucent Publication",
+          "price_approx": "₹250",
+          "tier": "standard",
+          "priority": "must",
+          "beginner_friendly": true,
+          "why": "The standard GK book for railway exams. Revise it multiple times for the heavy awareness section.",
+          "amazon_url": "https://www.amazon.in/dp/B0GDQLFJSB"
+        },
+        {
+          "title": "General Science",
+          "author": "Lucent",
+          "publisher": "Lucent Publication",
+          "price_approx": "₹220",
+          "tier": "standard",
+          "priority": "must",
+          "beginner_friendly": true,
+          "why": "Covers the physics, chemistry, and biology basics that railway exams test directly.",
+          "amazon_url": "https://www.amazon.in/dp/B0G2D3KQY7"
+        }
       ]
     }
   ],
@@ -60,17 +130,47 @@
     "Spend more time on Kiran previous year papers than on buying new books. Railways repeats patterns heavily."
   ],
   "faqs": [
-    { "question": "Are RRB NTPC and Group D books the same?", "answer": "Largely yes. Both test maths, reasoning, and general awareness with science, so one set covers both.<br><br>Group D is slightly easier, but the same books prepare you for both." },
-    { "question": "Which is the best GK book for railway exams?", "answer": "Lucent General Knowledge is the standard, paired with Lucent General Science.<br><br>Revise both several times, since the awareness section is large in railway exams." },
-    { "question": "Can SSC books be used for railway exams?", "answer": "Yes, around 70% of the syllabus overlaps, especially maths, reasoning, and GK.<br><br>If you prepared for SSC CGL, you already own most of what you need." },
-    { "question": "How important are previous year papers for RRB?", "answer": "Very important. Railways repeats question patterns heavily, so PYQs are high-yield.<br><br>Kiran's previous year papers are the most commonly used for this." },
-    { "question": "Do I need separate books for general science?", "answer": "Lucent General Science is enough for the basic physics, chemistry, and biology that railway exams ask.<br><br>It is inexpensive and directly aligned with the exam level." },
-    { "question": "Is RS Aggarwal enough for railway maths?", "answer": "For the base, yes. Add Rajesh Verma's Fast Track Objective Arithmetic for speed and shortcuts.<br><br>Then move to timed previous year papers and mocks." },
-    { "question": "How many books do I need for RRB NTPC?", "answer": "About six to eight: one maths, one reasoning, Lucent GK, Lucent Science, and PYQ books.<br><br>Keep it lean and revise rather than collecting more." },
-    { "question": "Should I buy books in Hindi or English for railways?", "answer": "Choose your comfortable language; Lucent and most standard books are available in both.<br><br>Railway exams are offered in many languages, so your medium is not a disadvantage." }
+    {
+      "question": "Are RRB NTPC and Group D books the same?",
+      "answer": "Largely yes. Both test maths, reasoning, and general awareness with science, so one set covers both.<br><br>Group D is slightly easier, but the same books prepare you for both."
+    },
+    {
+      "question": "Which is the best GK book for railway exams?",
+      "answer": "Lucent General Knowledge is the standard, paired with Lucent General Science.<br><br>Revise both several times, since the awareness section is large in railway exams."
+    },
+    {
+      "question": "Can SSC books be used for railway exams?",
+      "answer": "Yes, around 70% of the syllabus overlaps, especially maths, reasoning, and GK.<br><br>If you prepared for SSC CGL, you already own most of what you need."
+    },
+    {
+      "question": "How important are previous year papers for RRB?",
+      "answer": "Very important. Railways repeats question patterns heavily, so PYQs are high-yield.<br><br>Kiran's previous year papers are the most commonly used for this."
+    },
+    {
+      "question": "Do I need separate books for general science?",
+      "answer": "Lucent General Science is enough for the basic physics, chemistry, and biology that railway exams ask.<br><br>It is inexpensive and directly aligned with the exam level."
+    },
+    {
+      "question": "Is RS Aggarwal enough for railway maths?",
+      "answer": "For the base, yes. Add Rajesh Verma's Fast Track Objective Arithmetic for speed and shortcuts.<br><br>Then move to timed previous year papers and mocks."
+    },
+    {
+      "question": "How many books do I need for RRB NTPC?",
+      "answer": "About six to eight: one maths, one reasoning, Lucent GK, Lucent Science, and PYQ books.<br><br>Keep it lean and revise rather than collecting more."
+    },
+    {
+      "question": "Should I buy books in Hindi or English for railways?",
+      "answer": "Choose your comfortable language; Lucent and most standard books are available in both.<br><br>Railway exams are offered in many languages, so your medium is not a disadvantage."
+    }
   ],
   "disclaimer": "Book prices and editions are approximate and last checked in June 2026. Confirm the latest edition before buying. This is an independent guide and not affiliated with RRB or any publisher.",
   "related_exam_slug": "rrb-group-d",
-  "tags": ["Railways", "RRB NTPC", "Group D", "Books", "GK"],
+  "tags": [
+    "Railways",
+    "RRB NTPC",
+    "Group D",
+    "Books",
+    "GK"
+  ],
   "last_reviewed": "June 2026"
 }
