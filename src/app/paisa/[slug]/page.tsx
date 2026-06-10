@@ -9,7 +9,7 @@ import { TableOfContents } from "@/components/table-of-contents";
 import { notFound } from "next/navigation";
 import { getPaisaBySlug, getAllPaisaSlugs } from "@/lib/content";
 import {
-  Breadcrumb, SectionHeading, Card, InfoRow, StepCard, FAQ, Tag,
+  SectionHeading, Card, InfoRow, StepCard, FAQ, Tag,
 } from "@/components/ui";
 import { JsonLd, faqSchema, breadcrumbSchema, articleSchema } from "@/components/json-ld";
 import type { Metadata } from "next";
@@ -87,19 +87,18 @@ export default async function PaisaDetailPage({ params }: Props) {
         { name: p.title, url: `https://knowledgekendra.com/paisa/${slug}` },
       ])} />
       {p.faqs?.length > 0 && <JsonLd data={faqSchema(p.faqs)} />}
-      <Breadcrumb
-        items={[
-          { label: "Home", href: "/" },
-          { label: "Paisa Guide", href: "/paisa" },
-          { label: p.title },
-        ]}
-      />
-
       </div>
 
       {/* Full-width hero band, content constrained inside (preview style) */}
       <div className="hero-band-v2">
         <div className="max-w-[1140px] mx-auto px-5 md:px-6 relative">
+          <div className="pt-6 text-[12.5px] font-semibold text-[#8FB8A2]">
+            <a href="/" className="hover:text-white transition-colors">Home</a>
+            <span className="mx-1.5 opacity-60">/</span>
+            <a href="/paisa" className="hover:text-white transition-colors">Paisa Guide</a>
+            <span className="mx-1.5 opacity-60">/</span>
+            <b className="text-[#DFF3E8]">{p.title.length > 60 ? p.title.slice(0, 57) + "..." : p.title}</b>
+          </div>
           <div className="absolute right-5 md:right-6 top-5 z-10"><SaveForLater slug={slug} title={p.title} url={`/paisa/${slug}`} /></div>
           <HeroV2
         title={p.title}
@@ -109,7 +108,7 @@ export default async function PaisaDetailPage({ params }: Props) {
         primaryStat={primaryStat}
         quickActions={[
           { label: "\u{1F9EE} Calculators", href: "/calculator", primary: true },
-          { label: "\u2705 Check Eligibility", href: "/check-eligibility" },
+          { label: "\u2696\uFE0F Compare Options", href: "/compare" },
         ]}
       />
         </div>

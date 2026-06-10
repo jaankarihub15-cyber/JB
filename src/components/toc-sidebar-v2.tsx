@@ -68,15 +68,15 @@ export function TocSidebarV2({ items }: { items: TocItem[] }) {
           ))}
         </nav>
         <div className="mt-4 pt-4 border-t border-border">
-          <div className="text-[12.5px] font-bold text-text mb-1">Not sure you qualify?</div>
+          <div className="text-[12.5px] font-bold text-text mb-1">Plan your money</div>
           <div className="text-[11.5px] text-text-muted leading-snug mb-2.5">
-            Check against 50+ schemes free.
+            Free EMI, SIP and tax calculators.
           </div>
           <Link
-            href="/check-eligibility"
+            href="/calculator"
             className="block text-center text-[12px] font-extrabold rounded-lg px-3 py-2.5 bg-accent text-white hover:bg-accent-dark transition-colors"
           >
-            Check Eligibility →
+            Open Calculators →
           </Link>
         </div>
       </div>
