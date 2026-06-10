@@ -42,7 +42,7 @@ export function TocSidebarV2({ items }: { items: TocItem[] }) {
 
   return (
     <aside className="hidden lg:block sticky top-20 self-start w-[240px] shrink-0">
-      <div className="bg-card border border-border rounded-2xl p-5">
+      <div className="toc-v2-box bg-card border border-border rounded-2xl p-5">
         <div className="h-1 bg-border rounded-full mb-4 overflow-hidden">
           <i
             className="block h-full bg-accent rounded-full transition-[width] duration-150"
