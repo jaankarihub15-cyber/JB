@@ -70,3 +70,50 @@ html, body {
   overflow-x: hidden;
   max-width: 100vw;
 }
+
+/* ============================================
+   THEME V2 (redesign canary) - scoped overrides.
+   Applied per-surface via the .theme-v2 wrapper class.
+   Currently live on: paisa article pages only.
+   Tokens map the redesign mockup palette onto the
+   existing variable names so all shared components
+   pick them up automatically inside the wrapper.
+   ============================================ */
+.theme-v2 {
+  --color-bg: #F6F8F4;          /* warm paper */
+  --color-card: #FFFFFF;
+  --color-card-alt: #EDF3EC;
+  --color-border: #E4EAE2;      /* soft line */
+  --color-accent: #1B6B4A;      /* same KK green */
+  --color-accent-light: #EAF4EE;
+  --color-accent-dark: #0F3D2A; /* green-deep */
+  --color-text: #0E2418;        /* ink */
+  --color-text-secondary: #3D4F45;
+  --color-text-muted: #67786D;  /* muted */
+  background: var(--color-bg);
+}
+/* v2 card feel: slightly larger radius + softer hover shadow */
+.theme-v2 .card,
+.theme-v2 [class*="rounded-2xl"] {
+  border-color: var(--color-border);
+}
+.theme-v2 .card {
+  border-radius: 18px;
+}
+/* v2 hero: dark ink-to-green gradient with subtle scanlines */
+.theme-v2 .hero-v2 {
+  background: linear-gradient(150deg, #0E2418, #0F3D2A 70%, #1B6B4A);
+  position: relative;
+  overflow: hidden;
+  border-radius: 22px;
+  color: #fff;
+}
+.theme-v2 .hero-v2::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: repeating-linear-gradient(0deg, transparent 0 31px, rgba(255,255,255,.03) 31px 32px);
+  pointer-events: none;
+}
+.theme-v2 .hero-v2 h1 { color: #fff; }
+.theme-v2 .hero-v2 .hero-sub { color: #BFDCCB; }

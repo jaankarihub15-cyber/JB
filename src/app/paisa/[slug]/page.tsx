@@ -62,7 +62,7 @@ export default async function PaisaDetailPage({ params }: Props) {
 
 
   return (
-    <div className="max-w-[860px] mx-auto px-5 py-6">
+    <div className="theme-v2 max-w-[860px] mx-auto px-5 py-6">
       <TableOfContents items={tocItems} />
       <article itemScope itemType="https://schema.org/Article">
         <meta itemProp="headline" content={p.title} />
@@ -92,7 +92,7 @@ export default async function PaisaDetailPage({ params }: Props) {
         title={p.title}
         subtitle={p.hero.one_liner}
         icon={p.hero.icon}
-        gradient="linear-gradient(135deg, #D4760A 0%, #A85D08 100%)"
+        gradient="linear-gradient(150deg, #0E2418, #0F3D2A 70%, #1B6B4A)"
         stats={p.hero.stats}
         updatedDate={p.hero.updated_date}
       />
