@@ -1,32 +1,32 @@
 {
   "slug": "advance-tax-guide",
-  "title": "Advance Tax Guide: Due Dates, Calculation & Interest",
-  "meta_description": "Expert guide: advance tax calculation, 4 due dates, section 234B/234C interest. Avoid penalties with right payment timing. Calculator included.",
+  "title": "Advance Tax 2026: Due Dates, Calculation, 234B/234C",
+  "meta_description": "Advance tax guide: who pays, the 4 due dates, how to calculate, and 234B/234C interest at 1% a month. Updated for FY 2025-26.",
   "hero": {
     "status": "active",
-    "one_liner": "I've seen clients lose lakhs because they miscalculated advance tax by 10%. Here's exactly how to pay on time and avoid 1-1.5% monthly penalties.",
+    "one_liner": "Pay your income tax in four instalments across the year. Here is who must pay, the due dates, how to calculate it, and the 1% monthly interest if you miss.",
     "icon": "📅",
-    "updated_date": "May 2026",
+    "updated_date": "June 2026",
     "stats": [
       {
-        "label": "Tax Liability Threshold",
-        "value": "₹10,000"
+        "label": "Pay Advance Tax If",
+        "value": "Tax over ₹10,000"
       },
       {
         "label": "Due Dates",
-        "value": "15 Jun, 15 Sep, 15 Dec, 31 Mar"
+        "value": "15 Jun, Sep, Dec, Mar"
       },
       {
-        "label": "Interest on Shortfall",
-        "value": "1% per month (234B)"
+        "label": "Instalments",
+        "value": "15%, 45%, 75%, 100%"
       },
       {
-        "label": "Interest on Late Payment",
-        "value": "1.5% per month (234C)"
+        "label": "Late Interest",
+        "value": "1% per month"
       },
       {
         "label": "Last Updated",
-        "value": "March 2026"
+        "value": "June 2026"
       }
     ]
   },
@@ -34,379 +34,358 @@
     {
       "type": "text",
       "heading": "Who Must Pay Advance Tax?",
-      "icon": "🎯",
+      "icon": "📋",
       "content": [
-        "Advance tax is mandatory if: 1. Tax Liability > ₹10,000 - Your expected tax liability for FY exceeds ₹10,000 - This is after considering all deductions, credits, etc. - TDS alone doesn't matter; it's net liability 2. Estimated Income Calculation: - Expected salary/business income for FY - After estimated deductions (80C, 80D, HRA, etc.) - Calculate estimated tax at applicable slab - If tax > ₹10,000: Must pay advance tax Who is Exempted? ✅ Senior Citizens (age >60) - Exempted from advance tax - But must still file ITR - No penalty for late payment ✅ Super Senior Citizens (age >80) - Fully exempted from advance tax - No ITR filing required (if income below threshold) ✅ Small Earners - Income ≤ ₹2.5L: No tax, no advance tax - Income ₹2.5-3L: May have no tax (with deductions) - Calculate actual tax liability before deciding ❌ Not Exempt: - Resident individuals with expected tax >₹10,000 - Business owners with expected profit",
-        "- Self-employed professionals - Multiple income source earners Example Scenarios: Scenario A: ₹12L salary, ₹2L deductions - Taxable income: ₹10L - Tax: ~₹60,000 - Advance Tax Required: YES Scenario B: ₹8L salary, ₹2L deductions, age 62 (senior) - Taxable income: ₹6L - Tax: ~₹30,000 - Advance Tax Required: NO (exempted as senior) Scenario C: ₹5L salary, ₹2.5L deductions - Taxable income: ₹2.5L - Tax: ₹0 - Advance Tax Required: NO"
+        "Advance tax is income tax you pay in instalments through the year, instead of one lump sum at the end. The rule is simple: if your total tax for the year will cross ₹10,000 after TDS, you have to pay it in advance.",
+        "This catches income that no employer deducts TDS from. Think rent, capital gains from shares or mutual funds, FD interest, freelance fees, or lottery winnings.",
+        "A fully salaried person usually does not pay advance tax, because the employer already deducts TDS every month. But the moment you add side income your employer does not know about, the duty shifts to you.",
+        "The ₹10,000 figure is the total tax for the year, not your income. So a person earning modestly from many small sources can still cross it once you add up the tax on everything.",
+        "The system exists so the government collects tax steadily across the year. For you, the upside is that you never face one frightening bill in March.",
+        "If you are unsure whether you cross the line, add up the tax on every income source for the year. If that total beats ₹10,000 after TDS, the rules below are for you."
       ]
     },
     {
-      "type": "table",
-      "heading": "Advance Tax Due Dates & Payment Mechanism",
-      "icon": "📋",
+      "type": "stat_cards",
+      "cards": [
+        {
+          "value": "₹10,000",
+          "label": "Threshold to pay",
+          "variant": "accent"
+        },
+        {
+          "value": "4",
+          "label": "Instalments a year"
+        },
+        {
+          "value": "1%/mo",
+          "label": "Interest if you miss"
+        },
+        {
+          "value": "15 Mar",
+          "label": "Final instalment"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Advance Tax in One Line",
+      "icon": "📝",
+      "content": [
+        "The meaning of advance tax is right there in the name. You pay your income tax in advance, across the year, rather than all at once after it ends.",
+        "It applies to income that escapes regular TDS, and it keeps both you and the government on a steady footing. The rest of this guide shows exactly when, how much, and how to pay.",
+        "Whether you are a freelancer, a landlord, or a salaried person with side income, the same four dates and the same ₹10,000 threshold apply. Knowing them turns tax from a yearly scramble into a simple routine."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Advance Tax Due Dates and How Much to Pay",
+      "icon": "📅",
+      "content": [
+        "Advance tax is paid across four dates in the financial year. Each date has a cumulative target, so by March you have paid 100%.",
+        "Miss a date or pay short, and interest starts running on the gap. The dates below are the same every year, so you can plan around them.",
+        "The percentages are cumulative, not separate. By 15 September you should have paid 45% in total, which includes the 15% from June, not 45% on top of it.",
+        "If a due date falls on a Sunday or bank holiday, the next working day is accepted. But it is safer to pay a day or two early than to test that rule."
+      ]
+    },
+    {
+      "type": "comparison_table",
       "columns": [
-        "Installment",
-        "Due Date",
-        "% of Tax Due",
-        "Cumulative %"
+        "Due date",
+        "Cumulative tax to pay",
+        "What it means"
       ],
       "rows": [
         [
-          "1st",
           "15 June",
           "15%",
-          "15%"
+          "Pay at least 15% of your year's tax"
         ],
         [
-          "2nd",
           "15 September",
           "45%",
-          "60%"
+          "Top up to 45% total (minus what you paid)"
         ],
         [
-          "3rd",
           "15 December",
-          "30%",
-          "90%"
+          "75%",
+          "Top up to 75% total"
         ],
         [
-          "4th",
-          "31 March",
-          "10%",
-          "100%"
-        ],
-        [
-          "Example: Tax Liability ₹1,00,000",
-          "Payment",
-          "Due Date",
-          "Amount"
-        ],
-        [
-          "1st",
-          "15 Jun",
-          "₹15,000",
-          "2nd"
-        ],
-        [
-          "15 Sep",
-          "₹45,000",
-          "3rd",
-          "15 Dec"
-        ],
-        [
-          "₹30,000",
-          "4th",
-          "31 Mar",
-          "₹10,000"
+          "15 March",
+          "100%",
+          "Clear the full year's tax"
         ]
       ]
     },
     {
-      "type": "text",
-      "heading": "",
-      "icon": "📆",
-      "content": [
-        "this year: ₹1,00,000 (you estimate) - 1st installment minimum: 15% of ₹80,000 = ₹12,000 - Safe to pay: ₹15,000 (15% of this year's estimate) Pro Tip: Pay a bit extra in 1st-3rd installments. This way: - You're covered if actual tax is higher than estimate - Extra paid = Refunded when you file ITR - Better than paying interest for shortfall EXAMPLE: - Estimate: ₹80,000 annual tax - Pay 1st: ₹20,000 (more than 15%) - Actual tax: ₹100,000 - At",
-        "ITR: You already paid ₹20K, owe more for installments 2-4 - But if you had paid only ₹12K, interest would be charged Due Date Extension: If due date falls on holiday: - Automatically extended to next working day - E.g., if 15-Dec is Sunday: Pay by 16-Dec (Monday) No formal application needed. System recognizes it."
-      ]
-    },
-    {
-      "type": "svg_block",
-      "heading": "",
-      "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Advance Tax Basics</text><rect x=\"20\" y=\"40\" width=\"153\" height=\"65\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"96\" y=\"65\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">₹10,000+</text><text x=\"96\" y=\"90\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Tax Liability</text><rect x=\"188\" y=\"40\" width=\"153\" height=\"65\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"264\" y=\"65\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">4 per year</text><text x=\"264\" y=\"90\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Installments</text><rect x=\"356\" y=\"40\" width=\"153\" height=\"65\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"432\" y=\"65\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">1% per month</text><text x=\"432\" y=\"90\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Penalty</text><rect x=\"524\" y=\"40\" width=\"153\" height=\"65\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"600\" y=\"65\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">234B & 234C</text><text x=\"600\" y=\"90\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Section</text></svg>"
+      "type": "callout",
+      "variant": "info",
+      "icon": "ℹ️",
+      "heading": "Senior citizens get a break",
+      "content": "A resident senior citizen, aged 60 or above, with no business or professional income does not have to pay advance tax at all. They can pay the whole amount as self-assessment tax when filing the return.<br><br>This exemption stops the day they have any business or professional income. Then the normal rules apply, including the four due dates and the interest sections."
     },
     {
       "type": "text",
-      "heading": "Tax Implications of Advance Tax Guide",
-      "icon": "💰",
+      "heading": "Real Situations Where Advance Tax Applies",
+      "icon": "👥",
       "content": [
-        "<a href=\"/paisa/affordable-housing-guide\" style=\"text-decoration:underline;color:inherit\">Under</a>standing the tax treatment is essential before making any financial decision related to Advance Tax Guide. Different financial instruments are taxed differently under the Income Tax Act, and choosing the wrong product can significantly reduce your effective returns.",
-        "Under Section 80C, you can claim deductions up to ₹1.5 lakh per year for investments in PPF, ELSS, NPS, life insurance premiums, and several other instruments. Under Section 80D, health insurance premiums are deductible up to ₹25,000 (₹50,000 for senior citizens). Section 80CCD(1B) offers an additional ₹50,000 deduction for NPS contributions.",
-        "Interest income from savings <a href=\"/paisa/demat-account-guide\" style=\"text-decoration:underline;color:inherit\">account</a>s is tax-free up to ₹10,000 per year under Section 80TTA (₹50,000 for senior citizens under 80TTB). FD interest is fully taxable at your slab rate. Capital gains from equity held for more than 12 months are taxed at 10% above ₹1 lakh (LTCG). Short-term capital gains on equity are taxed at 15%.",
-        "Always calculate post-tax returns when comparing investment options. A tax-free instrument giving 7% is better than a taxable instrument giving 9% for someone in the 30% tax bracket (effective return: 6.3% after tax)."
+        "The rule sounds abstract until you see who it actually catches. Most people are surprised to learn they fall under it.",
+        "A freelancer or consultant whose clients do not cut full TDS owes advance tax on the gap. So does a landlord whose rent crosses the slab.",
+        "A salaried person who sold shares or mutual funds at a profit owes advance tax on that capital gain. The employer's TDS never accounted for it.",
+        "Even FD interest can trigger it. Banks cut TDS at only 10%, so if your slab is higher, the shortfall becomes advance tax you must pay yourself.",
+        "Pensioners with large interest income often miss this. A pension may have TDS, but the FD interest stacked on top frequently does not."
       ]
-    },
-    {
-      "type": "text",
-      "heading": "Mistakes to Avoid With Advance Tax Guide",
-      "icon": "⚠️",
-      "content": [
-        "MISTAKE 1: Not comparing options across providers. Interest rates, fees, and terms vary significantly between <a href=\"/paisa/education-loan-guide\" style=\"text-decoration:underline;color:inherit\">banks</a> and financial institutions. Spend 30 minutes comparing before committing.",
-        "MISTAKE 2: Ignoring the fine print. Processing fees, prepayment charges, lock-in periods, and exit loads can eat into your returns. Read the terms and conditions document completely before signing.",
-        "MISTAKE 3: Putting all money in one instrument. Diversification reduces risk. Spread your investments across equity, debt, and government-backed instruments based on your risk tolerance and time horizon.",
-        "MISTAKE 4: Not reviewing annually. Financial products that were optimal last year may not be the best choice this year. Review your portfolio every 12 months and rebalance if needed.",
-        "MISTAKE 5: Taking financial advice from unqualified sources. Friends, family, and social media influencers are not certified financial advisors. For decisions involving large amounts (₹5 lakh+), consult a SEBI-registered investment advisor."
-      ]
-    },
-    {
-      "type": "svg_block",
-      "heading": "",
-      "svg": "<svg viewBox=\"0 0 700 110\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Payment Process</text><rect x=\"28\" y=\"40\" width=\"140\" height=\"55\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"98\" y=\"62\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#1B6B4A\">Estimate income</text><text x=\"98\" y=\"82\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#4B5563\">Annual projection</text><text x=\"173\" y=\"72\" font-family=\"sans-serif\" font-size=\"18\" fill=\"#1B6B4A\">→</text><rect x=\"196\" y=\"40\" width=\"140\" height=\"55\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"266\" y=\"62\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#1B6B4A\">Calculate tax</text><text x=\"266\" y=\"82\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#4B5563\">Apply slabs</text><text x=\"341\" y=\"72\" font-family=\"sans-serif\" font-size=\"18\" fill=\"#1B6B4A\">→</text><rect x=\"364\" y=\"40\" width=\"140\" height=\"55\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"434\" y=\"62\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#1B6B4A\">Pay quarterly</text><text x=\"434\" y=\"82\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#4B5563\">Via challan</text><text x=\"509\" y=\"72\" font-family=\"sans-serif\" font-size=\"18\" fill=\"#1B6B4A\">→</text><rect x=\"532\" y=\"40\" width=\"140\" height=\"55\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"602\" y=\"62\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#1B6B4A\">File ITR</text><text x=\"602\" y=\"82\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#4B5563\">Claim credit</text></svg>"
     },
     {
       "type": "text",
       "heading": "How to Calculate Your Advance Tax",
       "icon": "🧮",
       "content": [
-        "## Step-by-Step Calculation",
-        "Step 1: Estimate Total Income for FY Add all expected income sources: - Salary: ₹15,00,000 - Interest: ₹50,000 - Rent: ₹2,40,000 - Capital gains: ₹1,00,000 - Total Income: ₹19,90,000 ",
-        "Step 2: Estimate Total Deductions - Standard Deduction: ₹50,000 - HRA Exemption: ₹2,00,000 - Section 80C: ₹1,50,000 - Section 80D: ₹25,000 - Section 80TTA: ₹10,000 - Section 24(b): ₹1,00,000 - Total Deductions: ₹5,35,000 ",
-        "Step 3: Calculate Estimated Taxable Income Gross Income - Deductions = ₹19,90,000 - ₹5,35,000 ="
+        "You do not need software for this. The estimate is rough by design, because nobody knows their exact yearly income in June.",
+        "Work it out once, then adjust each instalment as your real income becomes clearer.",
+        "The key is to estimate honestly rather than low. Underestimating just to pay less now means interest later, which costs more than paying correctly.",
+        "Keep a simple note of what you estimated and paid each quarter. When filing season arrives, that note makes reconciling everything far easier."
       ]
     },
     {
-      "type": "table",
-      "heading": "",
-      "icon": "📋",
-      "columns": [
-        "Info 1",
-        "Info 2",
-        "Info 3",
-        "Info 4"
-      ],
-      "rows": [
-        [
-          "₹14,55,000 Step 4: Calculate Estimated Tax (Old Regime) Using slab rates: - ₹2,50,000 @ 0% = ₹0 - ₹2,50,000 @ 5% = ₹12,500 - ₹5,00,000 @ 20% = ₹1,00,000 - ₹4,55,000 @ 30% = ₹1,36,500 - Gross Tax: ₹2,49,000 Step 5: Add Cess (4%) Cess = ₹2,49,000 × 4% = ₹9,960 Total Tax (with cess): ₹2,58,960 Round to: ₹2,59,000 (for simplicity) Step 6: Advance Tax Schedule",
-          "Installment",
-          "Date",
-          "%"
-        ],
-        [
-          "Amount",
-          "1st",
-          "15-Jun",
-          "15%"
-        ],
-        [
-          "₹38,850 (pay ₹40K to be safe)",
-          "2nd",
-          "15-Sep",
-          "45%"
-        ],
-        [
-          "₹1,16,550 (pay ₹1,17K)",
-          "3rd",
-          "15-Dec",
-          "30%"
-        ],
-        [
-          "₹77,700 (pay ₹78K)",
-          "4th",
-          "31-Mar",
-          "10%"
-        ],
-        [
-          "₹25,900 (pay ₹26K)",
-          "Total",
-          "100%",
-          "₹2,59,000"
-        ]
+      "type": "steps",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Estimate your total yearly income",
+          "description": "Add salary, rent, FD interest, capital gains, and freelance income for the full year."
+        },
+        {
+          "step": 2,
+          "title": "Subtract deductions",
+          "description": "Take off 80C, 80D, home loan interest and anything else you can claim, to reach taxable income."
+        },
+        {
+          "step": 3,
+          "title": "Find the tax on it",
+          "description": "Apply your slab under the old or new regime to get the year's tax figure."
+        },
+        {
+          "step": 4,
+          "title": "Subtract TDS already cut",
+          "description": "Remove any TDS your bank or clients have deducted. If what is left is over ₹10,000, that is your advance tax."
+        }
       ]
-    },
-    {
-      "type": "svg_block",
-      "heading": "Visual: Advance Tax Guide Key Numbers",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">₹10,000</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Tax Liability Thresh</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">15 Jun, 15 Sep, 15</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Due Dates</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">1% per month (234B</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Interest on Shortfal</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">1.5% per month (23</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Interest on Late Pay</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
-      "caption": "Key numbers for Advance Tax Guide: Due Dates, ",
-      "description": "Quick overview of the most important numbers and facts."
-    },
-    {
-      "type": "text",
-      "heading": "",
-      "icon": "🧮",
-      "content": [
-        "If you pay less, interest is charged (see section on interest). --- ## Example 2: First-Time Calculation (Using Last Year) Situation: This is your 1st year earning >₹10,000 tax. Solution: Use last year's tax (or zero if first year). Previous year tax: ₹0 (you were student) This year salary: ₹8,00,000 (you got job in July) Expected tax: ₹50,000 Payment: - 1st installment (15-Jun): Can't pay (you didn't have income yet) - 2nd installment (15-Sep): Pay 30% of estimate = ₹15,000",
-        "- By 15-Sep, you've earned ₹4L salary - 3rd installment (15-Dec): Pay remaining balance = ₹35,000 - 4th installment (31-Mar): Finalize at ITR filing Rule: Pay advance tax as soon as tax liability becomes clear. --- ## Example 3: Business Owner Estimated Profit (Apr-Mar): ₹30,00,000 Deductions: - Rent, electricity, salaries, etc.: ₹12,00,000 - Net Profit: ₹18,00,000 Estimated Tax Calculation: - Normal tax @ 30% (business): ₹5,40,000 - Cess 4%: ₹21,600 - Total: ₹5,61,600 But wait: Quarterly profit variance Quarters: -",
-        "Q1 (Apr-Jun): Expected ₹3L profit → Tax ₹90,000 - Q2 (Jul-Sep): Expected ₹4L profit → Tax ₹1,20,000 - Q3 (Oct-Dec): Expected ₹6L profit → Tax ₹1,80,000 - Q4 (Jan-Mar): Expected ₹5L profit → Tax ₹1,50,000 Payment Strategy: - 15-Jun (Q1 ends): Pay ₹90,000 (Q1 tax) - 15-Sep (Q2 ends): Pay ₹1,20,000 (Q2 tax) - 15-Dec (Q3 ends): Pay ₹1,80,000 (Q3 tax) - 31-Mar (Q4 ends): Pay ₹1,50,000 (Q4 tax) Total: ₹5,40,000 This approach avoids interest (paying proportional to actual profit realization).",
-        "For more details, see our guide on <a href=\"/paisa/what-is-sip\" style=\"text-decoration:underline;color:inherit\">What is SIP?</a>."
-      ]
-    },
-    {
-      "type": "svg_block",
-      "heading": "",
-      "svg": "<svg viewBox=\"0 0 700 260\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Due Dates</text><line x1=\"60\" y1=\"40\" x2=\"60\" y2=\"250\" stroke=\"#1B6B4A\" stroke-width=\"3\"/><circle cx=\"60\" cy=\"55\" r=\"10\" fill=\"#1B6B4A\"/><text x=\"60\" y=\"60\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"white\">1</text><text x=\"85\" y=\"52\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">15 June</text><text x=\"85\" y=\"70\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#4B5563\">Pay 15% of total tax</text><circle cx=\"60\" cy=\"110\" r=\"10\" fill=\"#1B6B4A\"/><text x=\"60\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"white\">2</text><text x=\"85\" y=\"107\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">15 September</text><text x=\"85\" y=\"125\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#4B5563\">Pay 45% cumulative</text><circle cx=\"60\" cy=\"165\" r=\"10\" fill=\"#1B6B4A\"/><text x=\"60\" y=\"170\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"white\">3</text><text x=\"85\" y=\"162\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">15 December</text><text x=\"85\" y=\"180\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#4B5563\">Pay 75% cumulative</text><circle cx=\"60\" cy=\"220\" r=\"10\" fill=\"#1B6B4A\"/><text x=\"60\" y=\"225\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"white\">4</text><text x=\"85\" y=\"217\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">15 March</text><text x=\"85\" y=\"235\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#4B5563\">Pay 100% total tax</text></svg>"
     },
     {
       "type": "callout",
       "variant": "tip",
-      "heading": "Advance Tax Guide - Financial Tip",
-      "content": "Before making any financial decision, compare options from at least 3-4 providers. Read the fine print carefully, understand the tax implications, and consult a certified financial advisor if the amount involved is significant."
+      "icon": "🧮",
+      "heading": "Short on time?",
+      "content": "An advance tax calculator does the slab maths for you. Enter your income, deductions and TDS, and it splits the four instalments.<br><br>Use it as a check, not gospel. Your own estimate of yearly income is what actually drives the number."
     },
     {
       "type": "text",
-      "heading": "Interest on Shortfall (Section 234B) & Late Payment (234C)",
-      "icon": "⚠️",
+      "heading": "How to Pay Advance Tax Online",
+      "icon": "💻",
       "content": [
-        "Section 234B: Interest on Shortfall of Advance Tax When it applies: If you don't pay the required installment by due date. Interest Rate: 1% per month (or part of month) from due date to filing date of ITR Calculation: Interest = (Shortfall Amount) × 1% × Number of Months Example: Required advance tax: ₹1,00,000 - 1st installment (by 15-Jun): ₹15,000 - You paid: ₹0 - Shortfall: ₹15,000 You file ITR on 31-Dec (7 months late): - Interest = ₹15,000 ×"
+        "Payment is fully online through the income tax portal. You do not need a CA or a bank visit for this part.",
+        "Keep the challan that comes at the end. That receipt is your proof the instalment was paid on time.",
+        "The portal accepts net banking, UPI, debit card and even payment at authorised bank counters. Most people use UPI or net banking for speed.",
+        "There is no extra fee for paying advance tax online. The only cost is the tax itself, so ignore any site that asks for a service charge to pay it for you."
       ]
     },
     {
-      "type": "table",
-      "heading": "",
-      "icon": "📋",
+      "type": "steps",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Open the income tax e-filing portal",
+          "description": "Go to incometax.gov.in and find e-Pay Tax. Avoid third-party sites that copy the look of the portal."
+        },
+        {
+          "step": 2,
+          "title": "Pick the right assessment year",
+          "description": "Choose advance tax as the payment type and the correct assessment year. The wrong year is the most common mistake."
+        },
+        {
+          "step": 3,
+          "title": "Enter the amount and pay",
+          "description": "Use net banking, UPI or a card. The amount is your instalment figure from the calculation above."
+        },
+        {
+          "step": 4,
+          "title": "Save the challan",
+          "description": "Download the challan with its BSR code and serial number. You will need it when filing your return."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Interest on Late Advance Tax: Section 234B and 234C",
+      "icon": "📉",
+      "content": [
+        "Miss the targets and two interest sections can apply. Both charge 1% per month, simple interest, not 1.5%.",
+        "234C is for paying an instalment late or short during the year. 234B is for ending the year having paid less than 90% of your total tax.",
+        "The interest is not a fine you can argue down. It is automatic and calculated to the month, so even a few days into a new month counts as a full month.",
+        "This is why paying a little extra early is smarter than cutting it fine. The interest on a shortfall almost always costs more than the cash flow you save by delaying.",
+        "Both sections can apply together in a bad year. You can owe 234C for missing quarterly targets and 234B for the year-end shortfall on the same return."
+      ]
+    },
+    {
+      "type": "comparison_table",
       "columns": [
-        "Info 1",
-        "Info 2",
-        "Info 3",
-        "Info 4",
-        "Info 5",
-        "Info 6"
+        "Section",
+        "When it hits",
+        "Rate"
       ],
       "rows": [
         [
-          "1% × 7 = ₹1,050 Shortfall for Each Installment:",
-          "Installment",
-          "Required",
-          "Paid",
-          "Shortfall",
-          "Months (from due date to ITR filing on 31-Dec)"
-        ],
-        [
-          "Interest",
-          "1st (15-Jun)",
-          "₹15,000",
-          "₹10,000",
-          "₹5,000",
-          "7 months"
-        ],
-        [
-          "₹350",
-          "2nd (15-Sep)",
-          "₹45,000",
-          "₹20,000",
-          "₹25,000",
-          "3.5 months"
-        ],
-        [
-          "₹875",
-          "3rd (15-Dec)",
-          "₹30,000",
-          "₹30,000",
-          "₹0",
-          "1 month"
-        ],
-        [
-          "₹0",
-          "Total Interest",
-          "₹30,000",
-          "₹1,225",
-          "Key Point: Even 1 day late = Full month counted for interest. --- Section 234C: Interest on Late Payment of Tax When it applies: If you pay advance tax AFTER the due date (but before ITR filing). Interest Rate: 1.5% per month (or part thereof) from due date to payment date Example: Required by 15-Jun: ₹15,000 You pay on 20-Jul (35 days late): - Interest = ₹15,000 × 1.5% × (35/30) months = ₹260 Or simpler: 1.5% per month means ~0.05% per day - ₹15,000 × 0.05% × 35 days = ₹260 Difference Between 234B and 234C:",
-          "Section"
-        ],
-        [
-          "When",
-          "Rate",
-          "Based On",
-          "234B",
-          "Shortfall not paid by ITR filing",
-          "1% p.m."
-        ],
-        [
-          "Unpaid shortfall",
           "234C",
-          "Late payment after due date",
-          "1.5% p.m.",
-          "Amount paid late",
-          "Example Scenario: Required by 15-Jun: ₹30,000 Case 1: You pay"
+          "You miss or underpay a quarterly instalment",
+          "1% per month on the shortfall"
+        ],
+        [
+          "234B",
+          "By year-end you paid under 90% of total tax",
+          "1% per month from April till you pay"
         ]
       ]
     },
     {
-      "type": "text",
-      "heading": "",
+      "type": "callout",
+      "variant": "warning",
       "icon": "⚠️",
+      "heading": "One change to know for FY 2026-27",
+      "content": "From 1 April 2026, advance tax shifts to the new Income Tax Act 2025, sections 403 to 410. The old references to sections 207 to 219 of the 1961 Act are being replaced.<br><br>The dates, the ₹10,000 limit and the 1% interest stay the same. Only the section numbers and challan forms change."
+    },
+    {
+      "type": "text",
+      "heading": "What About Capital Gains You Cannot Predict?",
+      "icon": "📈",
       "content": [
-        "₹30,000 on 20-Jul - Section 234C interest: ₹30,000 × 1.5% × (35/30) = ₹525 - Section 234B interest: ₹0 (you eventually paid) - Total Interest: ₹525 Case 2: You pay ₹20,000 on 20-Jul, ₹10,000 on 31-Dec - 234C on ₹20,000: ₹20,000 × 1.5% × (35/30) = ₹350 - 234B on ₹10,000 shortfall: ₹10,000 × 1% × 6 months = ₹600 - Total Interest: ₹950 Case 3: You pay ₹0 till ITR filing on 31-Dec - 234B on ₹30,000 shortfall: ₹30,000",
-        "× 1% × 7 months = ₹2,100 - Total Interest: ₹2,100 Summary: - Pay on time = No interest - Pay late but before ITR = 234C interest (1.5%) - Don't pay till ITR filing = 234B interest (1%) + 234C (if applicable) --- How to Minimize Interest: 1. Pay at least 90% by 15-Dec - If actual tax is similar to estimate, minimal interest - Only 10% remains for March payment 2. Pay conservatively (more than estimated) - Better to overpay (refunded at ITR filing) - Avoids interest on shortfall 3. Pay immediately upon each installment due - Don't wait till next installment - Pay on 15th itself (not 16th) 4. Adjust if actual income changes - If midway business booms: Pay more advance - If income drops: Can reassess, pay less (justify in ITR) --- Example: Interest Comparison Scenario: Required ₹1,00,000 for year Strategy A: Conservative - 1st (15-Jun): Pay ₹30,000 (vs required ₹15,000) → Overpay - 2nd",
-        "(15-Sep): Pay ₹40,000 (vs required ₹45,000) → Shortfall ₹5,000 - 3rd (15-Dec): Pay ₹35,000 (vs required ₹30,000) → Overpay - 4th (31-Mar): Pay ₹0 (already paid ₹1,05,000) - Net: Paid ₹1,05,000 → ₹5,000 refunded at ITR - Interest: ₹0 (no late payments) Strategy B: Risky - 1st (15-Jun): Pay ₹15,000 on 31-Jul (16 days late) - Interest: ₹15,000 × 1.5% × (16/30) = ₹120 - 2nd (15-Sep): Pay ₹45,000 on 30-Sep (15 days late) - Interest: ₹45,000 × 1.5% ×",
-        "(15/30) = ₹337 - 3rd (15-Dec): Pay ₹30,000 on 31-Dec (16 days late) - Interest: ₹30,000 × 1.5% × (16/30) = ₹240 - 4th (31-Mar): Pay ₹10,000 on ITR filing (late) - 234B interest: ₹10,000 × 1% × 0 (paid with ITR) = ₹0 - Total Interest: ₹697 Strategy A (Conservative) is better: ₹0 interest + ₹5K refund = Win vs Strategy B (Risky): ₹697 interest paid + Late stress"
+        "Nobody can guess a share sale in June that happens in December. The law accepts this and does not punish you for it.",
+        "When a capital gain actually lands, you add the tax on it to your next instalment. You are not penalised for not predicting it earlier.",
+        "The same logic covers lottery winnings, a sudden bonus, or a one-off freelance project. You fold the tax into the instalment after the income arrives.",
+        "What you cannot do is ignore it once it has happened. A large gain in December that you leave untaxed until filing will attract 234C interest for those months."
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "",
-      "svg": "<svg viewBox=\"0 0 700 250\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Who Must Pay</text><rect x=\"40\" y=\"45\" width=\"620\" height=\"28\" rx=\"6\" fill=\"#F0FDF4\"/><text x=\"55\" y=\"64\" font-family=\"sans-serif\" font-size=\"14\" fill=\"#1B6B4A\">✓</text><text x=\"78\" y=\"64\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#374151\">Tax liability exceeds </text><rect x=\"40\" y=\"80\" width=\"620\" height=\"28\" rx=\"6\" fill=\"#FFFFFF\"/><text x=\"55\" y=\"99\" font-family=\"sans-serif\" font-size=\"14\" fill=\"#1B6B4A\">✓</text><text x=\"78\" y=\"99\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#374151\">Self-employed professi</text><rect x=\"40\" y=\"115\" width=\"620\" height=\"28\" rx=\"6\" fill=\"#F0FDF4\"/><text x=\"55\" y=\"134\" font-family=\"sans-serif\" font-size=\"14\" fill=\"#1B6B4A\">✓</text><text x=\"78\" y=\"134\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#374151\">Freelancers variable i</text><rect x=\"40\" y=\"150\" width=\"620\" height=\"28\" rx=\"6\" fill=\"#FFFFFF\"/><text x=\"55\" y=\"169\" font-family=\"sans-serif\" font-size=\"14\" fill=\"#1B6B4A\">✓</text><text x=\"78\" y=\"169\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#374151\">Rental income earners</text><rect x=\"40\" y=\"185\" width=\"620\" height=\"28\" rx=\"6\" fill=\"#F0FDF4\"/><text x=\"55\" y=\"204\" font-family=\"sans-serif\" font-size=\"14\" fill=\"#1B6B4A\">✓</text><text x=\"78\" y=\"204\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#374151\">Capital gains recipien</text><rect x=\"40\" y=\"220\" width=\"620\" height=\"28\" rx=\"6\" fill=\"#FFFFFF\"/><text x=\"55\" y=\"239\" font-family=\"sans-serif\" font-size=\"14\" fill=\"#1B6B4A\">✓</text><text x=\"78\" y=\"239\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#374151\">Business owners</text></svg>"
+      "type": "text",
+      "heading": "How Section 234C Interest Is Actually Calculated",
+      "icon": "🧮",
+      "content": [
+        "234C interest looks scary but the maths is mechanical. It charges 1% per month on the amount you fell short by at each due date.",
+        "Say you should have paid ₹45,000 by 15 September but only paid ₹30,000. The ₹15,000 gap attracts 1% a month for three months until the next checkpoint.",
+        "Each missed checkpoint is treated separately. So the June, September and December shortfalls each carry their own interest clock running forward.",
+        "Because it is simple interest, the numbers stay small for small shortfalls. But on a large gap left for months, it quietly adds up to real money.",
+        "There is a small relief built in. If you pay at least 12% by June and 36% by September, a minor shortfall at those two dates is forgiven under the rules."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "The Presumptive Scheme Shortcut (44AD and 44ADA)",
+      "icon": "🏢",
+      "content": [
+        "Small businesses and professionals under the presumptive scheme get an easier deal. They do not split advance tax into four parts.",
+        "Instead, the entire advance tax can be paid in a single instalment by 15 March. This suits people whose income is hard to predict quarter by quarter.",
+        "Sections 44AD and 44ADA cover this, for eligible small businesses and professionals respectively. The ₹10,000 threshold still applies before the duty kicks in.",
+        "If this is you, mark just one date in the calendar: 15 March. Pay the full year's tax then and the quarterly rules do not apply.",
+        "One caution: if you miss even that single date, 234C interest applies to the whole amount. The simplicity comes with a hard deadline."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "icon": "ℹ️",
+      "heading": "What if you overpay?",
+      "content": "Paying more advance tax than you owe is not lost money. The excess becomes a refund once you file your return.<br><br>The department even pays you interest on a genuine refund under Section 244A. So erring slightly high is safer than erring low and paying interest."
+    },
+    {
+      "type": "text",
+      "heading": "Quick Checklist Before Each Due Date",
+      "icon": "✅",
+      "content": [
+        "A few minutes before each date saves a lot of interest later. Run through the same short list every quarter.",
+        "Re-estimate your income for the year, including any new side earnings since the last instalment. Adjust the figure up or down honestly.",
+        "Check whether any capital gain, bonus or large interest landed this quarter. If so, add its tax to this instalment.",
+        "Pay through the official portal, pick the right assessment year, and save the challan. That habit alone prevents most problems.",
+        "Finally, keep all four challans together in one folder. At filing time you will enter their details, and having them ready turns a chore into a two-minute job."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Why Advance Tax Is Easier Than One Big Bill",
+      "icon": "💡",
+      "content": [
+        "It is tempting to see advance tax as extra paperwork. In practice it makes your finances calmer, not harder.",
+        "Paying in four parts means you never face a single frightening tax bill at the year's end. The cost is spread across months you can plan for.",
+        "It also keeps you honest about your real income. Estimating four times a year means no nasty surprise when you finally file.",
+        "And if you overpay, the money comes back as a refund with interest. So the system rarely costs you anything beyond the tax you genuinely owed.",
+        "Most people who dread advance tax have simply never been walked through it. Once you have paid it twice, it becomes a quiet quarterly habit like any other bill."
+      ]
     },
     {
       "type": "pullquote",
-      "text": "I've seen clients lose lakhs because they miscalculated advance tax by 10%. Here's exactly how to pay on time and avoid 1-1.5% monthly penalties."
+      "text": "The honest rule: estimate roughly, pay on the four dates, and top up when a big gain lands. That alone avoids almost all interest."
     },
     {
       "type": "text",
-      "heading": "Advance Tax for Salaried Employees with Side Income",
-      "icon": "💼",
-      "content": [
-        "Most salaried employees assume their employer handles all tax obligations through TDS (Tax Deducted at Source). While TDS covers salary income, it does not account for additional earnings from freelancing, rental income, capital gains from stocks or <a href=\"/paisa/what-is-elss\" style=\"text-decoration:underline;color:inherit\">mutual</a> funds, fixed deposit interest, or online business revenue. If the total tax liability on these non-salary incomes exceeds ₹10,000 in a financial year, you must pay advance tax independently.",
-        "Here is a practical example: Ramesh earns ₹12 lakh salary annually with TDS deducted by his employer. He also earns ₹3,50,000 from freelance web development and ₹1,20,000 from fixed deposit interest. His employer's TDS covers only salary. The combined tax on freelance and FD income is approximately ₹1,41,000 - well above the ₹10,000 threshold. Ramesh must calculate and pay advance tax in four quarterly installments.",
-        "The common mistake salaried professionals make is ignoring advance tax on capital gains. If you sold mutual fund units or stocks during the year and the short-term or long-term capital gains push your additional tax liability above the threshold, you need to pay advance tax on those gains in the quarter they were realized. Many taxpayers discover this only when they receive a Section 234B or 234C interest notice while filing their ITR.",
-        "To avoid penalties, maintain a simple spreadsheet tracking your non-salary income month by month. Before each advance tax due date - 15 June, 15 September, 15 December, and 15 March - add up your cumulative non-salary income and calculate the tax due. Deduct any TDS already deducted on FD interest or professional payments (check Form 26AS on the income tax portal), and pay the remaining amount as advance tax using Challan 280 on the e-filing portal.",
-        "Senior citizens aged 60 and above who do not have business or professional income are exempt from advance tax obligations under Section 207. This exemption applies even if their pension, interest, or rental income results in significant tax liability. However, if a senior citizen runs a business or profession, the advance tax requirement applies as usual."
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "Common Errors While Paying Advance Tax Online",
+      "heading": "Common Mistakes That Cost People Money",
       "icon": "⚠️",
       "content": [
-        "Paying advance tax through the e-Pay Tax portal is straightforward, but small errors can cause significant problems during ITR filing. The most frequent mistake is selecting the wrong Assessment Year. For income earned during FY 2025-26, you must select AY 2026-27. Selecting the current year instead of the next creates a mismatch that delays refund processing.",
-        "Another common error involves the tax type code. Advance tax must be paid under code (100) Advance Tax in Challan 280. Many taxpayers accidentally select (300) Self Assessment Tax, which is meant for tax paid at the time of filing the return. While the payment amount is the same, incorrect categorization can trigger automated notices from the CPC Bengaluru.",
-        "Always verify your PAN details before payment. A single digit error in PAN means the payment goes to someone else's account, and recovering it requires filing a correction request with the Assessing Officer - a process that can take 3-6 months. After payment, download the challan receipt (CIN) immediately and save it. Cross-check the payment on Form 26AS within 3-5 working days to confirm it reflects correctly."
+        "Most advance tax interest comes from avoidable errors, not genuine hardship. A few patterns repeat again and again.",
+        "The first is ignoring side income entirely. People assume salary TDS covers everything, then get an interest notice for the rent or capital gains they forgot.",
+        "The second is picking the wrong assessment year on the portal. The money goes in, but against the wrong year, so the system still shows a shortfall.",
+        "The third is forgetting to top up after a capital gain. A December share sale needs its tax added to the December or March instalment, not left for filing season.",
+        "The fourth is underestimating income to pay less now. It feels clever in June but costs more in interest by March, so honest estimates win.",
+        "The fifth is leaving the final March instalment to the very last day. Portals get busy near deadlines, and a failed payment at 11pm on 15 March still counts as late."
       ]
     },
     {
       "type": "text",
-      "heading": "How to Pay Advance Tax",
-      "icon": "💳",
+      "heading": "Salaried With Side Income: A Worked Example",
+      "icon": "💼",
       "content": [
-        "Method 1: Online via Government Portal (Recommended)",
-        "Step 1: Visit https://www.incometaxindia.gov.in",
-        "Step 2: Click on \"Pay Tax\" or \"Online Payment\"",
-        "Step 3: Select payment type: \"Advance Tax (87-A)\" or \"Self-Assessment Tax (100)\"",
-        "Step 4: Enter details: - PAN - Assessment Year (e.g., 2025-26) - Amount to pay - Challan details (auto-generated)",
-        "Step 5: Proceed to payment gateway - Credit/Debit Card - Net banking - UPI (select banks)",
-        "Step 6: Confirm payment",
-        "Step 7: Print/Download challan (BSR form)",
-        "Step 8: Save for records Challan Information: After payment, you receive: - Challan number (unique identifier) - Amount paid - Date of payment - Reference number - This links to your PAN automatically Method 2: Offline via Bank",
-        "Step 1: Visit any bank (branch handling income tax)",
-        "Step 2: Fill Form-BSR (Bank Scroll Receipt) - Get blank form from bank or download online - Fill: PAN, amount, AY (assessment year)",
-        "Step 3: Submit with cash/check",
-        "Step 4: Bank deposits to income tax account",
-        "Step 5: Bank issues receipt (duplicate slip) Note: Takes 3-5 days for tax office to record payment Better to do online (instant) Method 3: UPI Payment Available on selected banks: - HDFC - ICICI - Axis - SBI - NPCI authorized banks Process: 1. Open UPI app 2. Search for \"Income Tax\" or merchant ID 3. Enter amount 4. Complete UPI authentication 5. Get reference number 6. Screenshot for records --- Important: Keep Records After payment: ✓ Save challan number",
-        "✓ Note payment date ✓ Note amount paid ✓ Maintain bank/UPI receipt ✓ Keep till ITR filing + 7 years Why needed? - Verification if payment doesn't reflect - Proof if interest is charged (you can dispute) - ITR matching (ensure TDS + advance tax aligns) --- Tracking Payment Status Online: 1. Visit incometaxindia.gov.in 2. Login with credentials 3. \"View\" → \"Tax Payment Status\" 4. Check if amount credited to your PAN Time for Reflection: - Online payment: 24-48 hours",
-        "- Bank payment: 3-5 days - UPI: 24 hours If not reflected after timeline: - Contact bank/payment gateway - Provide reference number - Get clarification --- If Payment Failed Scenario 1: Online payment declined - Retry with different card/account - Check available balance - Try net banking instead of card - Contact bank if problem persists Scenario 2: Payment shows reversed - Check bank account (money returned) - Retry with different method - Call bank for investigation Scenario 3: Payment went through but not reflecting in IT system - Wait 5-7 days - Contact nearest tax office with challan - Provide details (amount, date, challan no.) - They'll trace and update --- Early Payment & Benefits Payment before Due Date: - No interest charged (even if more than required) - Extra amount = Adjusted at ITR (refunded) - Better cash flow planning Suggested Schedule (for ₹1L tax): - 15-May (before 15-Jun): Pay ₹20K - 31-Aug (before 15-Sep): Pay ₹40K -",
-        "30-Nov (before 15-Dec): Pay ₹30K - 31-Mar (before ITR filing): File ITR, claim refund of excess Advantage: You spread payments, manage cash better, and avoid interest."
+        "Say your salary TDS is fully handled by your employer. Then you earn ₹3 lakh from freelance work on the side.",
+        "That ₹3 lakh has little or no TDS. The tax on it, if over ₹10,000, becomes advance tax you must pay on the four dates.",
+        "You estimate the tax on the side income, split it across the remaining instalments, and pay through the portal. Your salary stays on TDS as before.",
+        "When you file your return, both your salary TDS and your advance tax show up together. They add up against your total tax, and any small gap is settled then.",
+        "A common worry is double counting. You will not pay twice, because the return adds every payment together and only charges the difference."
       ]
-    },
-    {
-      "type": "svg_block",
-      "heading": "",
-      "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Penalty Structure</text><rect x=\"20\" y=\"40\" width=\"153\" height=\"65\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"96\" y=\"65\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">1% per month</text><text x=\"96\" y=\"90\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">234B</text><rect x=\"188\" y=\"40\" width=\"153\" height=\"65\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"264\" y=\"65\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">1% per quarter</text><text x=\"264\" y=\"90\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">234C</text><rect x=\"356\" y=\"40\" width=\"153\" height=\"65\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"432\" y=\"65\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">Senior 60+</text><text x=\"432\" y=\"90\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Exemption</text><rect x=\"524\" y=\"40\" width=\"153\" height=\"65\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"600\" y=\"65\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">₹10,000</text><text x=\"600\" y=\"90\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Threshold</text></svg>"
     }
   ],
   "faqs": [
     {
-      "question": "What is Advance Tax Guide?",
-      "answer": "I've seen clients lose lakhs because they miscalculated advance tax by 10%. Here's exactly how to pay on time and avoid 1-1.5% monthly penalties."
+      "question": "Who is liable to pay advance tax?",
+      "answer": "Anyone whose total tax for the year will cross ₹10,000 after TDS. This mostly means freelancers, business owners, landlords, and salaried people with large side income like capital gains or FD interest.<br><br>The figure is the tax amount, not income. So several small income sources can add up to cross the limit together."
     },
     {
-      "question": "How does Advance Tax Guide work?",
-      "answer": "Advance Tax Guide works through a structured process. Refer to the step-by-step guide above for detailed instructions on how to proceed."
+      "question": "When do I have to pay advance tax?",
+      "answer": "On four dates: 15 June, 15 September, 15 December and 15 March. By each date you should have paid 15%, 45%, 75% and 100% of your year's tax.<br><br>The percentages are cumulative. By September you should have 45% paid in total, including June's share."
     },
     {
-      "question": "What documents are needed for Advance Tax Guide?",
-      "answer": "Required documents typically include Aadhaar card, address proof, identity proof, passport-size photographs, and category-specific documents. Check the relevant section above for the complete list."
+      "question": "Do senior citizens pay advance tax?",
+      "answer": "A resident senior citizen aged 60 or above with no business or professional income is exempt. They can pay everything as self-assessment tax while filing the return instead.<br><br>The exemption ends the moment they have any business or professional income. Then the normal quarterly rules apply."
     },
     {
-      "question": "Is there an online process for Advance Tax Guide?",
-      "answer": "Yes, most services related to Advance Tax Guide are available online through government portals. You can also visit your nearest Common Service Center (CSC) for assistance."
+      "question": "How do I calculate advance tax?",
+      "answer": "Estimate your yearly income, subtract deductions to get taxable income, apply your slab, then subtract TDS already cut. If the balance is over ₹10,000, that is your advance tax.<br><br>The estimate is meant to be rough. You adjust each instalment as your real income for the year becomes clearer."
     },
     {
-      "question": "How long does the Advance Tax Guide process take?",
-      "answer": "The processing time varies depending on the type of application and the issuing authority. Typically, online applications are processed faster than offline ones. Check the official portal for estimated timelines."
+      "question": "What is the interest under Section 234B and 234C?",
+      "answer": "Both charge 1% per month, simple interest. 234C applies when you miss or underpay an instalment during the year.<br><br>234B applies when you end the year having paid under 90% of your total tax. Neither is a flat penalty, just running interest until you clear it."
     },
     {
-      "question": "Is there a fee for Advance Tax Guide?",
-      "answer": "Fees vary by state and service type. Government portals typically charge a nominal fee of ₹10-100. Check the official portal for the exact fee structure."
+      "question": "How do I pay advance tax online?",
+      "answer": "Go to the income tax e-filing portal, choose e-Pay Tax, select advance tax and the correct assessment year, then pay by net banking or UPI. Save the challan as proof.<br><br>There is no fee to pay it yourself. Ignore any third-party site that charges a service fee to do it for you."
+    },
+    {
+      "question": "What if I have capital gains I could not predict?",
+      "answer": "You add the tax on the gain to your next instalment after the sale happens. The law does not expect you to predict a future capital gain.<br><br>What you cannot do is ignore it once it lands. A large untaxed gain will attract 234C interest for those months."
+    },
+    {
+      "question": "Does a fully salaried person pay advance tax?",
+      "answer": "Usually no, because the employer deducts TDS every month. It only applies if you have extra income your employer does not account for, like rent or capital gains.<br><br>If you do have such income, only the tax on that extra part becomes your advance tax. Your salary stays on TDS as normal."
+    },
+    {
+      "question": "What happens if I miss the advance tax deadline?",
+      "answer": "Interest of 1% per month runs on the shortfall under Section 234C, and possibly 234B at year-end. There is no separate penalty, just the running interest until you pay.<br><br>Because it is charged per month or part of a month, even a few days late counts as a full month. Paying early is the cheaper habit."
     }
   ],
   "disclaimer": "Information is for educational purposes. Verify details from the official source before taking action.",
