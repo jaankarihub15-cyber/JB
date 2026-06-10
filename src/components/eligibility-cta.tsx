@@ -7,7 +7,7 @@ export function EligibilityCTA() {
       <div className="flex-1">
         <h3 className="text-base font-bold text-text mb-1">Not sure if you qualify?</h3>
         <p className="text-sm text-text-secondary leading-relaxed">
-          Check your eligibility for 40+ government schemes in 2 minutes. No login, no fees — just answer a few simple questions.
+          Check your eligibility for 50+ government schemes in 2 minutes. No login, no fees. Just answer a few simple questions.
         </p>
       </div>
       <Link

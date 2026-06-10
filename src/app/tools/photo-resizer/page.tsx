@@ -6,7 +6,7 @@ import { Breadcrumb, SectionHeading, FAQ, Card } from "@/components/ui";
 export const metadata: Metadata = {
   title: "Photo & Signature Resizer - Resize to 50KB, 20KB Online Free",
   description:
-    "Free photo and signature resizer for exam and job forms. Resize images to 50KB, 20KB or any size and dimensions. Works in your browser. Your photo never leaves your device.",
+    "Free photo and signature resizer for exam and job forms. Resize images to 50KB, 20KB or any size. Works in your browser, your photo never leaves it.",
   alternates: { canonical: "https://knowledgekendra.com/tools/photo-resizer" },
 };
 
