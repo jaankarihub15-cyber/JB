@@ -1,4 +1,6 @@
 import { AuthorBox } from "@/components/author-box";
+import { HeroV2 } from "@/components/hero-v2";
+import { TocSidebarV2 } from "@/components/toc-sidebar-v2";
 import { Infographic } from "@/components/infographic";
 import { SchemeBlock } from "@/components/scheme-blocks";
 import { SaveForLater } from "@/components/save-for-later";
@@ -7,7 +9,7 @@ import { TableOfContents } from "@/components/table-of-contents";
 import { notFound } from "next/navigation";
 import { getPaisaBySlug, getAllPaisaSlugs } from "@/lib/content";
 import {
-  Breadcrumb, HeroBanner, SectionHeading, Card, InfoRow, StepCard, FAQ, Tag,
+  Breadcrumb, SectionHeading, Card, InfoRow, StepCard, FAQ, Tag,
 } from "@/components/ui";
 import { JsonLd, faqSchema, breadcrumbSchema, articleSchema } from "@/components/json-ld";
 import type { Metadata } from "next";
@@ -61,9 +63,14 @@ export default async function PaisaDetailPage({ params }: Props) {
   if (p.faqs?.length > 0) tocItems.push({ id: "faqs", text: "FAQs" });
 
 
+  // v2 hero: primary stat = first hero stat; remaining stats render as chips below hero
+  const primaryStat = p.hero.stats?.[0]
+    ? { label: p.hero.stats[0].label, value: p.hero.stats[0].value }
+    : undefined;
+
   return (
-    <div className="theme-v2 max-w-[860px] mx-auto px-5 py-6">
-      <TableOfContents items={tocItems} />
+    <div className="theme-v2 max-w-[1140px] mx-auto px-5 md:px-6 py-6">
+      <div className="lg:hidden"><TableOfContents items={tocItems} /></div>
       <article itemScope itemType="https://schema.org/Article">
         <meta itemProp="headline" content={p.title} />
         <meta itemProp="description" content={(p as any).meta_description || p.hero.one_liner} />
@@ -88,14 +95,33 @@ export default async function PaisaDetailPage({ params }: Props) {
       />
 
       <div className="flex justify-end mb-2"><SaveForLater slug={slug} title={p.title} url={`/paisa/${slug}`} /></div>
-      <HeroBanner
+      <HeroV2
         title={p.title}
         subtitle={p.hero.one_liner}
-        icon={p.hero.icon}
-        gradient="linear-gradient(150deg, #0E2418, #0F3D2A 70%, #1B6B4A)"
-        stats={p.hero.stats}
+        badge={p.tags?.[0] ? `\u{1F4B0} ${String(p.tags[0]).toUpperCase()}` : "\u{1F4B0} PAISA GUIDE"}
         updatedDate={p.hero.updated_date}
+        primaryStat={primaryStat}
+        quickActions={[
+          { label: "\u{1F9EE} Calculators", href: "/calculator", primary: true },
+          { label: "\u2705 Check Eligibility", href: "/check-eligibility" },
+        ]}
       />
+
+      {/* remaining hero stats as chips below the band */}
+      {p.hero.stats && p.hero.stats.length > 1 && (
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-2.5 mt-5 mb-2">
+          {p.hero.stats.slice(1, 5).map((st: any) => (
+            <div key={st.label} className="bg-card border border-border rounded-xl px-4 py-3">
+              <div className="text-[10.5px] font-bold text-text-muted uppercase tracking-wide">{st.label}</div>
+              <div className="text-[14px] font-extrabold text-text mt-0.5">{st.value}</div>
+            </div>
+          ))}
+        </div>
+      )}
+
+      <div className="lg:grid lg:grid-cols-[240px_1fr] lg:gap-10 lg:items-start mt-6">
+      <TocSidebarV2 items={tocItems} />
+      <div className="min-w-0">
 
       {/* Dynamic sections */}
       {p.sections.map((section: any, idx: number) => {
@@ -314,11 +340,13 @@ export default async function PaisaDetailPage({ params }: Props) {
       {p.disclaimer && (
         <div className="mt-6 p-4 bg-card-alt rounded-xl text-xs text-text-muted leading-relaxed">
           <strong>Disclaimer:</strong> {p.disclaimer}
-        
+        </div>
+      )}
       <SourceCitations />
       <AuthorBox updatedDate={p.last_reviewed || p.hero.updated_date || "May 2026"} />
-    </div>
-      )}
+
+      </div>
+      </div>
     </div>
   );
 }
