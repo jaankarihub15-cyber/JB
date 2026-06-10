@@ -69,8 +69,9 @@ export default async function PaisaDetailPage({ params }: Props) {
     : undefined;
 
   return (
-    <div className="theme-v2 max-w-[1140px] mx-auto px-5 md:px-6 py-6">
+    <div className="theme-v2 py-0">
       <div className="lg:hidden"><TableOfContents items={tocItems} /></div>
+      <div className="max-w-[1140px] mx-auto px-5 md:px-6 pt-6">
       <article itemScope itemType="https://schema.org/Article">
         <meta itemProp="headline" content={p.title} />
         <meta itemProp="description" content={(p as any).meta_description || p.hero.one_liner} />
@@ -95,7 +96,12 @@ export default async function PaisaDetailPage({ params }: Props) {
       />
 
       <div className="flex justify-end mb-2"><SaveForLater slug={slug} title={p.title} url={`/paisa/${slug}`} /></div>
-      <HeroV2
+      </div>
+
+      {/* Full-width hero band, content constrained inside (preview style) */}
+      <div className="hero-band-v2">
+        <div className="max-w-[1140px] mx-auto px-5 md:px-6">
+          <HeroV2
         title={p.title}
         subtitle={p.hero.one_liner}
         badge={p.tags?.[0] ? `\u{1F4B0} ${String(p.tags[0]).toUpperCase()}` : "\u{1F4B0} PAISA GUIDE"}
@@ -106,6 +112,10 @@ export default async function PaisaDetailPage({ params }: Props) {
           { label: "\u2705 Check Eligibility", href: "/check-eligibility" },
         ]}
       />
+        </div>
+      </div>
+
+      <div className="max-w-[1140px] mx-auto px-5 md:px-6 pb-6">
 
       {/* remaining hero stats as chips below the band */}
       {p.hero.stats && p.hero.stats.length > 1 && (
@@ -345,6 +355,7 @@ export default async function PaisaDetailPage({ params }: Props) {
       <SourceCitations />
       <AuthorBox updatedDate={p.last_reviewed || p.hero.updated_date || "May 2026"} />
 
+      </div>
       </div>
       </div>
     </div>

@@ -18,7 +18,7 @@ export function HeroV2({
   quickActions?: { label: string; href: string; primary?: boolean }[];
 }) {
   return (
-    <div className="hero-v2 -mx-5 md:-mx-6 px-5 md:px-10 py-9 md:py-12 mb-0">
+    <div className="py-9 md:py-12">
       <div className="flex flex-wrap items-center gap-2 mb-4">
         {badge && (
           <span className="text-[11px] font-bold tracking-wide px-3 py-1.5 rounded-full bg-white/10 border border-white/20 text-[#DFF3E8]">

@@ -117,3 +117,20 @@ html, body {
 }
 .theme-v2 .hero-v2 h1 { color: #fff; }
 .theme-v2 .hero-v2 .hero-sub { color: #BFDCCB; }
+
+/* v2 full-width hero band (preview style): gradient spans viewport, content constrained inside */
+.theme-v2 .hero-band-v2 {
+  background: linear-gradient(150deg, #0E2418, #0F3D2A 70%, #1B6B4A);
+  position: relative;
+  overflow: hidden;
+  color: #fff;
+}
+.theme-v2 .hero-band-v2::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: repeating-linear-gradient(0deg, transparent 0 31px, rgba(255,255,255,.03) 31px 32px);
+  pointer-events: none;
+}
+.theme-v2 .hero-band-v2 h1 { color: #fff; }
+.theme-v2 .hero-band-v2 .hero-sub { color: #BFDCCB; }
