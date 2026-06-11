@@ -130,7 +130,7 @@
       "content": [
         "People search for this scheme under several names, and it causes a lot of confusion. Bangla Awas Yojana, Banglar Bari and the West Bengal rural housing list all refer to the same programme.",
         "West Bengal runs its rural housing under the Banglar Bari (Gramin) banner, and district administrations publish their provisional lists under that name. If you applied as Bangla Awas Yojana, you check the Banglar Bari list.",
-        "Because it is a state-run rural housing scheme, the live beneficiary lists are published on West Bengal district government websites, not on a single national page. That is the key thing to know before you start checking.",
+        "Because it is a state-run rural housing scheme, run alongside the central <a href=\"/yojana/iay-pmay-gramin\" class=\"text-accent underline\">PM Awas Yojana Gramin</a>,, the live beneficiary lists are published on West Bengal district government websites, not on a single national page. That is the key thing to know before you start checking.",
         "So treat the two names as one. The page below uses Bangla Awas Yojana and Banglar Bari interchangeably, because on the ground they are the same list.",
         "If a neighbour found their name but you did not, it is often because the lists are split by block and panchayat. Make sure you opened the PDF for your own area, not a nearby one.",
         "If you have paperwork from when you applied, keep it together in one place. The application or registration number on it is the fastest way to find your row in any list."
@@ -240,16 +240,12 @@
     },
     {
       "type": "text",
-      "heading": "How Much You Get and How Payment Reaches You",
+      "heading": "How Much You Get Under Bangla Awas Yojana",
       "content": [
         "The total assistance is Rs 1.2 lakh in plains areas and Rs 1.3 lakh in hill or difficult areas. It is paid in installments tied to your construction progress, not as a single lump sum.",
-        "The first installment is Rs 60,000, released to your Aadhaar-linked bank account by direct transfer once your name is approved and entered in the system.",
+        "The first installment is Rs 60,000, released to your Aadhaar-linked bank account, such as a <a href=\"/yojana/pm-jan-dhan-yojana\" class=\"text-accent underline\">Jan Dhan account</a> by direct transfer once your name is approved and entered in the system.",
         "The remaining amount is released in further installments as your house reaches set construction stages, such as lintel level and completion. The exact split follows your latest district or state housing notice.",
-        "At each stage a local officer verifies progress, often with a geo-tagged photo of your house, before the next installment is cleared. Eligible families may also get MGNREGA wages for the labour.",
-        "Treat the money as a construction grant, not free cash. Each installment is tied to you actually building to a defined stage, and the field check must pass before the next one is released.",
-        "Make sure the bank account is active and Aadhaar-seeded before the first installment is due. A dormant or unseeded account is the top reason an approved name slips into the Inactive list.",
-        "The hill and difficult-area rate of Rs 1.3 lakh covers the higher cost of building in remote terrain. Your area type is decided by official classification, not by request.",
-        "The money is never given as cash in hand. It always moves through the banking system to your own account, which is why correct bank details matter so much."
+        "At each stage a local officer verifies progress, often with a geo-tagged photo of your house, before the next installment is cleared. Eligible families may also get MGNREGA wages for the labour."
       ],
       "icon": "💰"
     },
@@ -286,11 +282,48 @@
     },
     {
       "type": "text",
+      "icon": "💵",
+      "heading": "How Payment Reaches Your Account",
+      "content": [
+        "Treat the money as a construction grant, not free cash. Each installment is tied to you actually building to a defined stage, and the field check must pass before the next one is released.",
+        "Make sure the bank account is active and Aadhaar-seeded before the first installment is due. A dormant or unseeded account is the top reason an approved name slips into the Inactive list.",
+        "The hill and difficult-area rate of Rs 1.3 lakh covers the higher cost of building in remote terrain. Your area type is decided by official classification, not by request.",
+        "The money is never given as cash in hand. It always moves through the banking system to your own account, which is why correct bank details matter so much."
+      ]
+    },
+    {
+      "type": "process_flow",
+      "heading": "Installment Release Stages",
+      "steps": [
+        {
+          "icon": "check",
+          "title": "Approved",
+          "desc": "Name on Eligible list"
+        },
+        {
+          "icon": "wallet",
+          "title": "1st: ₹60,000",
+          "desc": "After entry in system"
+        },
+        {
+          "icon": "shield",
+          "title": "Lintel stage",
+          "desc": "Geo-tag photo check"
+        },
+        {
+          "icon": "trophy",
+          "title": "Completion",
+          "desc": "Final installment"
+        }
+      ]
+    },
+    {
+      "type": "text",
       "heading": "Extra Support: Toilet, Wages and Amenities",
       "content": [
         "The house assistance is not the only benefit. The scheme is designed to deliver a complete home, not just four walls, by linking other government support.",
         "Eligible families can get help to build a toilet under the Swachh Bharat Mission, so the new house has proper sanitation from the start.",
-        "Beneficiaries can also claim wages for the labour of building their own house through the rural employment guarantee scheme. This eases the cost of construction work.",
+        "Beneficiaries can also claim wages for the labour of building their own house through the MGNREGA rural employment scheme. This eases the cost of construction work.",
         "Where available, the house can be linked to electricity, a cooking gas connection and piped water under other schemes. Ask your Gram Panchayat which of these your house qualifies for.",
         "Treat these linked benefits as part of the same effort to give you a liveable home. It is worth asking about every one of them rather than settling for just the building grant.",
         "Families sometimes miss these linked benefits simply because no one told them to ask. Treat the house, toilet, wages and utility connections as one package and claim each part."
@@ -348,7 +381,7 @@
       "variant": "info",
       "icon": "info",
       "title": "Quick self-check before you search",
-      "content": "You are likely eligible if you live in West Bengal, have no pucca house anywhere, and your family is poor with no government job or income tax.<br><br>You are likely excluded if you own a pucca house, a car or tractor, pay income tax, or a family member is a government employee. Checking this first saves a wasted trip to the panchayat."
+      "content": "You are likely eligible if you live in West Bengal, have no pucca house anywhere, and your family is poor with no government job or income tax.<br><br>You are likely excluded if you own a pucca house, a car or tractor, pay income tax, or a family member is a government employee.<br><br>Checking this first saves a wasted trip to the panchayat. You can also run our <a href=\"/check-eligibility\" class=\"text-accent underline\">free eligibility checker</a> to match yourself against this and other schemes."
     },
     {
       "type": "text",
@@ -494,16 +527,22 @@
       "url": "/yojana/iay-pmay-gramin"
     },
     {
-      "title": "MGNREGA Job Card and Wages",
-      "slug": "narega-mgnrega-guide",
-      "tag": "Employment",
-      "url": "/yojana/narega-mgnrega-guide"
+      "title": "Jan Dhan Yojana for DBT",
+      "slug": "pm-jan-dhan-yojana",
+      "tag": "Banking",
+      "url": "/yojana/pm-jan-dhan-yojana"
     },
     {
-      "title": "Jan Dhan Yojana for DBT",
-      "slug": "jan-dhan-yojana",
-      "tag": "Banking",
-      "url": "/yojana/jan-dhan-yojana"
+      "title": "Ayushman Bharat PMJAY",
+      "slug": "ayushman-bharat",
+      "tag": "Health",
+      "url": "/yojana/ayushman-bharat"
+    },
+    {
+      "title": "e-Shram Card for Workers",
+      "slug": "e-shram-card",
+      "tag": "Workers",
+      "url": "/yojana/e-shram-card"
     }
   ],
   "tags": [
