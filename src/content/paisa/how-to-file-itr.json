@@ -8,20 +8,20 @@
     "updated_date": "May 2026",
     "stats": [
       {
-        "label": "Deadline",
-        "value": "July 31, 2026"
+        "label": "ITR-1/2 Due",
+        "value": "31 July 2026"
       },
       {
-        "label": "Portal",
-        "value": "incometax.gov.in"
+        "label": "ITR-3/4 Due",
+        "value": "31 Aug 2026"
       },
       {
         "label": "Free Filing",
-        "value": "Yes (direct on portal)"
+        "value": "Yes (incometax.gov.in)"
       },
       {
-        "label": "Late Filing Penalty",
-        "value": "₹5,000 (reduced to ₹1,000 if income <₹5L)"
+        "label": "Belated Return",
+        "value": "Up to 31 Dec 2026"
       }
     ],
     "tags": [
@@ -33,6 +33,21 @@
     "read_time": "10 min"
   },
   "sections": [
+    {
+      "type": "text",
+      "icon": "📄",
+      "heading": "What ITR Filing Means and Who Must File",
+      "content": [
+        "An income tax return, or ITR, is how you declare your year's income, deductions and tax paid to the government. You file it online on the official portal.",
+        "You must file if your total income crosses the basic exemption limit for your regime. Filing is also required in some cases even below that, such as high spending or foreign assets.",
+        "Even when not strictly required, filing is worth it. An ITR is solid proof of income for loans, visas and credit cards, and it is needed to claim a refund.",
+        "If your employer cut more TDS than your actual tax, only filing gets that money back. The government does not refund excess tax on its own.",
+        "The financial year and assessment year confuse many people. You earn income in a financial year, then file for it in the next year, called the assessment year.",
+        "So income from April 2025 to March 2026 is FY 2025-26, and you file it in AY 2026-27. Always pick the assessment year, not the financial year, on the portal.",
+        "Filing builds a financial track record over the years. Lenders and embassies often ask for two or three years of returns, so consistent filing helps later.",
+        "If this is your first time, do not be intimidated. A simple salaried return on the official portal is far easier than it looks once your documents are ready."
+      ]
+    },
     {
       "type": "stat_cards",
       "heading": "ITR Filing Key Dates 2026",
@@ -56,21 +71,6 @@
           "value": "30 days",
           "label": "E-verify window"
         }
-      ]
-    },
-    {
-      "type": "text",
-      "icon": "📄",
-      "heading": "What ITR Filing Means and Who Must File",
-      "content": [
-        "An income tax return, or ITR, is how you declare your year's income, deductions and tax paid to the government. You file it online on the official portal.",
-        "You must file if your total income crosses the basic exemption limit for your regime. Filing is also required in some cases even below that, such as high spending or foreign assets.",
-        "Even when not strictly required, filing is worth it. An ITR is solid proof of income for loans, visas and credit cards, and it is needed to claim a refund.",
-        "If your employer cut more TDS than your actual tax, only filing gets that money back. The government does not refund excess tax on its own.",
-        "The financial year and assessment year confuse many people. You earn income in a financial year, then file for it in the next year, called the assessment year.",
-        "So income from April 2025 to March 2026 is FY 2025-26, and you file it in AY 2026-27. Always pick the assessment year, not the financial year, on the portal.",
-        "Filing builds a financial track record over the years. Lenders and embassies often ask for two or three years of returns, so consistent filing helps later.",
-        "If this is your first time, do not be intimidated. A simple salaried return on the official portal is far easier than it looks once your documents are ready."
       ]
     },
     {

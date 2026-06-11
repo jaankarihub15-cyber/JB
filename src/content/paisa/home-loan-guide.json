@@ -14,24 +14,38 @@
     "read_time": "11 min",
     "stats": [
       {
-        "label": "Current Rates",
-        "value": "8.25–9.5%"
+        "label": "Lowest Rate",
+        "value": "~8.4% (repo-linked)"
       },
       {
         "label": "Max Tenure",
         "value": "30 years"
       },
       {
-        "label": "Annual Tax Benefit",
-        "value": "₹3.5 Lakh max"
+        "label": "Interest Tax Cap",
+        "value": "₹2L (Sec 24, old regime)"
       },
       {
         "label": "Processing Time",
-        "value": "7–15 days"
+        "value": "10–22 days"
       }
     ]
   },
   "sections": [
+    {
+      "type": "text",
+      "icon": "💰",
+      "heading": "How Much Home Loan Can You Get",
+      "content": [
+        "Banks use a simple rule. Your total EMIs should not cross 40 to 50 percent of your net monthly income, a ratio they call FOIR.",
+        "Say your take-home is ₹60,000 a month. Your total EMIs, including any car or personal loan, should stay under about ₹24,000 to ₹30,000.",
+        "If you already pay a ₹5,000 car loan EMI, your home loan EMI room drops to roughly ₹19,000 to ₹25,000. That EMI then decides your maximum loan.",
+        "This is also why a clean existing-loan record matters. The fewer EMIs you already carry, the bigger the home loan a bank will sanction.",
+        "Banks also cap the tenure by your age. They want the loan to finish before you retire, usually by age 60 to 70, so an older applicant gets a shorter tenure and a smaller loan.",
+        "Your job stability matters too. A salaried person with a steady employer is seen as lower risk than someone with irregular income, even at the same salary.",
+        "Before you even apply, get a rough sense of your own number. Knowing your realistic budget stops you from falling for a house you cannot finance."
+      ]
+    },
     {
       "type": "stat_cards",
       "heading": "Home Loan Key Numbers 2026",
@@ -55,20 +69,6 @@
           "value": "75-90%",
           "label": "Property value financed"
         }
-      ]
-    },
-    {
-      "type": "text",
-      "icon": "💰",
-      "heading": "How Much Home Loan Can You Get",
-      "content": [
-        "Banks use a simple rule. Your total EMIs should not cross 40 to 50 percent of your net monthly income, a ratio they call FOIR.",
-        "Say your take-home is ₹60,000 a month. Your total EMIs, including any car or personal loan, should stay under about ₹24,000 to ₹30,000.",
-        "If you already pay a ₹5,000 car loan EMI, your home loan EMI room drops to roughly ₹19,000 to ₹25,000. That EMI then decides your maximum loan.",
-        "This is also why a clean existing-loan record matters. The fewer EMIs you already carry, the bigger the home loan a bank will sanction.",
-        "Banks also cap the tenure by your age. They want the loan to finish before you retire, usually by age 60 to 70, so an older applicant gets a shorter tenure and a smaller loan.",
-        "Your job stability matters too. A salaried person with a steady employer is seen as lower risk than someone with irregular income, even at the same salary.",
-        "Before you even apply, get a rough sense of your own number. Knowing your realistic budget stops you from falling for a house you cannot finance."
       ]
     },
     {

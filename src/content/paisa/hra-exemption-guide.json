@@ -14,24 +14,40 @@
     "read_time": "9 min",
     "stats": [
       {
-        "label": "Metro HRA %",
-        "value": "50% of basic"
+        "label": "Metro Rate",
+        "value": "50% of basic+DA"
       },
       {
-        "label": "Non-Metro HRA %",
-        "value": "40% of basic"
+        "label": "Non-Metro Rate",
+        "value": "40% of basic+DA"
       },
       {
-        "label": "Tax Regime",
-        "value": "Old Tax Regime only"
+        "label": "Section",
+        "value": "10(13A)"
       },
       {
-        "label": "Proof Required",
-        "value": "Receipts >₹1L/year"
+        "label": "Regime",
+        "value": "Old regime only"
       }
     ]
   },
   "sections": [
+    {
+      "type": "text",
+      "icon": "📄",
+      "heading": "What HRA Is and Who Can Claim",
+      "content": [
+        "HRA stands for House Rent Allowance. It is a part of your salary that your employer pays to help cover the cost of rented accommodation.",
+        "If you live in a rented home and receive HRA, a part of it can be tax-free under Section 10(13A). The rest is taxed as normal salary.",
+        "Only salaried people who actually pay rent can claim the HRA exemption. If you live in your own home, or pay no rent, there is nothing to exempt.",
+        "Self-employed people do not get HRA, but they can claim rent under Section 80GG instead, subject to its own limits.",
+        "HRA usually appears as a clear line in your salary slip, separate from basic pay. The amount is set by your employer, often as a percentage of basic.",
+        "The exemption is not automatic. You have to claim it, either through your employer during the year or directly in your tax return.",
+        "Understanding HRA matters because rent is often a salaried person's biggest monthly cost. Claiming it correctly can meaningfully cut your tax.",
+        "Many renters never claim their full exemption simply because they do not understand the formula. A little effort here is real money saved.",
+        "In short, HRA rewards renters who claim it properly. The rules are fixed and clear once you learn the three-part formula."
+      ]
+    },
     {
       "type": "stat_cards",
       "heading": "HRA Exemption Key Numbers",
@@ -55,22 +71,6 @@
           "value": "Old only",
           "label": "Not in new regime"
         }
-      ]
-    },
-    {
-      "type": "text",
-      "icon": "📄",
-      "heading": "What HRA Is and Who Can Claim",
-      "content": [
-        "HRA stands for House Rent Allowance. It is a part of your salary that your employer pays to help cover the cost of rented accommodation.",
-        "If you live in a rented home and receive HRA, a part of it can be tax-free under Section 10(13A). The rest is taxed as normal salary.",
-        "Only salaried people who actually pay rent can claim the HRA exemption. If you live in your own home, or pay no rent, there is nothing to exempt.",
-        "Self-employed people do not get HRA, but they can claim rent under Section 80GG instead, subject to its own limits.",
-        "HRA usually appears as a clear line in your salary slip, separate from basic pay. The amount is set by your employer, often as a percentage of basic.",
-        "The exemption is not automatic. You have to claim it, either through your employer during the year or directly in your tax return.",
-        "Understanding HRA matters because rent is often a salaried person's biggest monthly cost. Claiming it correctly can meaningfully cut your tax.",
-        "Many renters never claim their full exemption simply because they do not understand the formula. A little effort here is real money saved.",
-        "In short, HRA rewards renters who claim it properly. The rules are fixed and clear once you learn the three-part formula."
       ]
     },
     {
