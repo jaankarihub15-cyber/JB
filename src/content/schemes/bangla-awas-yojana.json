@@ -54,7 +54,8 @@
     "Most readers reach this page for one reason: to find out whether their name is on the list. The sections below cover exactly how to check, district wise, and what to do if your name is missing.",
     "Knowing the exact name and the right portal saves wasted trips. Many families search the wrong website and conclude they were rejected when they simply looked in the wrong place.",
     "This guide sticks to what is verified and points you to the official district sources, so you can check your status with confidence rather than relying on rumours from neighbours, and without relying on rumours from neighbours or agents.",
-    "Read it once fully, then bookmark your district site. That combination of understanding plus the right official link is what gets most families their answer."
+    "Read it once fully, then bookmark your district site. That combination of understanding plus the right official link is what gets most families their answer.",
+    "The goal of this guide is simple: help you find your name, understand your status, and act if something is wrong, all from official sources you can trust."
   ],
   "eligibility": [
     {
@@ -93,24 +94,32 @@
   },
   "extra_sections": [
     {
-      "type": "stat_cards",
-      "heading": "Bangla Awas Yojana at a Glance",
-      "cards": [
+      "type": "stat_grid",
+      "heading": "Bangla Awas Yojana Key Numbers",
+      "items": [
         {
-          "value": "Rs 1.2 lakh",
-          "label": "Total help in plains areas"
+          "icon": "wallet",
+          "value": "₹1.2 Lakh",
+          "label": "Plains area help",
+          "color": "green"
         },
         {
-          "value": "Rs 1.3 lakh",
-          "label": "Total in hill or difficult areas"
+          "icon": "trending",
+          "value": "₹1.3 Lakh",
+          "label": "Hill / difficult area",
+          "color": "amber"
         },
         {
-          "value": "Rs 60,000",
-          "label": "First installment after approval"
+          "icon": "file",
+          "value": "₹60,000",
+          "label": "First installment",
+          "color": "blue"
         },
         {
-          "value": "3 types",
-          "label": "Eligible, Ineligible, Inactive lists"
+          "icon": "shield",
+          "value": "3 lists",
+          "label": "Eligible / Ineligible / Inactive",
+          "color": "green"
         }
       ]
     },
@@ -122,101 +131,105 @@
         "West Bengal runs its rural housing under the Banglar Bari (Gramin) banner, and district administrations publish their provisional lists under that name. If you applied as Bangla Awas Yojana, you check the Banglar Bari list.",
         "Because it is a state-run rural housing scheme, the live beneficiary lists are published on West Bengal district government websites, not on a single national page. That is the key thing to know before you start checking.",
         "So treat the two names as one. The page below uses Bangla Awas Yojana and Banglar Bari interchangeably, because on the ground they are the same list.",
-        "If a neighbour found their name but you did not, it is often because the lists are split by block and panchayat. Make sure you opened the PDF for your own area, not a nearby one."
+        "If a neighbour found their name but you did not, it is often because the lists are split by block and panchayat. Make sure you opened the PDF for your own area, not a nearby one.",
+        "If you have paperwork from when you applied, keep it together in one place. The application or registration number on it is the fastest way to find your row in any list."
       ]
     },
     {
-      "type": "table",
-      "heading": "Bangla Awas Yojana vs Central PMAY-G: Quick Clarity",
-      "columns": [
-        "Point",
-        "What it means for you"
-      ],
-      "rows": [
-        [
-          "Same scheme family",
-          "Bangla Awas Yojana, Banglar Bari and PMAY-G in West Bengal all feed one beneficiary system"
-        ],
-        [
-          "Where the list is",
-          "District government sites publish the live Banglar Bari (Gramin) provisional lists"
-        ],
-        [
-          "National record",
-          "pmayg.nic.in holds the central PMAY-G beneficiary record you can also search"
-        ],
-        [
-          "Money",
-          "Rs 1.2 lakh plains, Rs 1.3 lakh hill or difficult areas, in installments"
-        ],
-        [
-          "Selection",
-          "From SECC 2011 and Awaas Plus survey data, approved by the Gram Sabha"
-        ]
-      ],
-      "footnote": "Always treat your own district government site as the first place to check your current status."
+      "type": "comparison_card",
+      "heading": "Bangla Awas Yojana vs Central PMAY-G",
+      "win": {
+        "name": "Banglar Bari (WB)",
+        "amount": "District .gov.in",
+        "sub": "Where to check your list"
+      },
+      "others": [
+        {
+          "name": "Central PMAY-G",
+          "amount": "pmayg.nic.in",
+          "sub": "National record"
+        },
+        {
+          "name": "Both",
+          "amount": "₹1.2-1.3 Lakh",
+          "sub": "Same assistance"
+        },
+        {
+          "name": "Selection",
+          "amount": "SECC + Awaas+",
+          "sub": "Gram Sabha approved"
+        }
+      ]
     },
     {
       "type": "text",
-      "heading": "How to Check the Bangla Awas Yojana List 2026",
+      "heading": "How to Check the Bangla Awas Yojana List",
       "content": [
         "The most reliable way to check your name is on your own district's government website. Lists are published block wise and Gram Panchayat wise as PDF files.",
         "Open your district site, which follows the pattern districtname.gov.in or districtname.nic.in. Look under the Notices or Announcements section for Banglar Bari rural housing.",
         "Find your Block and Gram Panchayat, then open the Provisional list. You will usually see three separate lists: Eligible, Ineligible, and Inactive.",
         "Search the Eligible list for your name and application or registration number. If your name is there, your house assistance is approved subject to the next verification stages.",
         "Keep your application or registration number ready before you start. It makes finding your row in a long PDF far quicker than scanning by name alone.",
-        "If you cannot find your district site, search the district name with the words rural housing notice. The official .gov.in or .nic.in result is the one to trust."
+        "If you cannot find your district site, search the district name with the words rural housing notice. The official .gov.in or .nic.in result is the one to trust.",
+        "Do the check on a phone or at a Common Service Centre if you do not have a computer. The district PDFs open fine on a mobile browser, which is how most families check."
+      ]
+    },
+    {
+      "type": "process_flow",
+      "heading": "Finding Your Name: The Flow",
+      "steps": [
+        {
+          "icon": "file",
+          "title": "District Site",
+          "desc": "Open districtname.gov.in"
+        },
+        {
+          "icon": "shield",
+          "title": "Notices",
+          "desc": "Find Banglar Bari list"
+        },
+        {
+          "icon": "users",
+          "title": "Your Block",
+          "desc": "Pick block and GP"
+        },
+        {
+          "icon": "check",
+          "title": "Eligible List",
+          "desc": "Search your name"
+        }
       ]
     },
     {
       "type": "text",
-      "heading": "Checking the Bangla Awas Yojana List District Wise",
+      "heading": "Checking the List District Wise",
       "content": [
         "West Bengal does not publish one single state list. Each district publishes its own Banglar Bari beneficiary list, which is why a district wise search is the only reliable way to find your name.",
         "Start by identifying your district, then your block, then your Gram Panchayat. The lists are nested in that order, so knowing all three keeps your search short.",
         "Districts such as Cooch Behar, Paschim Bardhaman, Bankura, Darjeeling and Hooghly have each published provisional Banglar Bari (Gramin) lists on their own government sites. The format is broadly the same across districts.",
         "If a neighbouring village got its list before yours, do not panic. Districts and blocks release in batches, so a later date for your area is normal and does not mean exclusion.",
         "Save the PDF for your block once you find it. New provisional lists replace old ones, so keeping your own copy with the date helps if you need to prove your status later.",
-        "If you cannot navigate the district website, a local Common Service Centre or the panchayat office can pull up the same list for you. They have the direct links to each block's PDF."
+        "If you cannot navigate the district website, a local Common Service Centre or the panchayat office can pull up the same list for you. They have the direct links to each block's PDF.",
+        "If your district recently held a fresh survey, expect a new provisional list to follow. Check back every few weeks rather than assuming the first list is final."
       ]
     },
     {
-      "type": "steps",
-      "heading": "Step by Step: Finding Your Name",
-      "steps": [
-        {
-          "step": 1,
-          "title": "Open your district government website",
-          "description": "Go to your district site, such as coochbehar.gov.in or hooghly.nic.in. These publish the official Banglar Bari (Gramin) provisional lists."
-        },
-        {
-          "step": 2,
-          "title": "Find Notices or Announcements",
-          "description": "Look in the Notices or Announcements menu for a Banglar Bari or Rural Housing entry. District sites post the provisional lists here as PDFs."
-        },
-        {
-          "step": 3,
-          "title": "Select your Block and Gram Panchayat",
-          "description": "Lists are organised block wise and GP wise. Open the PDF for your own block and panchayat to keep the search manageable."
-        },
-        {
-          "step": 4,
-          "title": "Check the Eligible, Ineligible and Inactive lists",
-          "description": "Search for your name and application number in each. Eligible means approved, Inactive means approved but payment is blocked, Ineligible means rejected at verification."
-        },
-        {
-          "step": 5,
-          "title": "Cross-check on the PMAY-G portal",
-          "description": "You can also search the national record at pmayg.nic.in under Stakeholders, then IAY/PMAYG Beneficiary, using Advanced Search for West Bengal."
-        }
+      "type": "eligibility_check",
+      "heading": "Are You Eligible?",
+      "qualify": [
+        "Permanent resident of West Bengal in a rural area",
+        "Houseless, or living in a kutcha or dilapidated house",
+        "Family does not own a pucca house anywhere",
+        "Listed in SECC 2011 or the Awaas Plus survey data",
+        "Priority: SC, ST, minorities, disabled, widows of martyrs"
+      ],
+      "disqualify": [
+        "Family owns a pucca house anywhere in India",
+        "Owns a motorised vehicle or mechanised farm equipment",
+        "A family member is a government employee",
+        "Family pays income tax or professional tax",
+        "Income above the scheme threshold or large landholding"
       ]
-    },
-    {
-      "type": "callout",
-      "variant": "info",
-      "icon": "💡",
-      "heading": "What the three list types mean",
-      "content": "Eligible means your name is approved by the Gram Sabha and your house assistance is cleared for the next stages.<br><br>Inactive means you are approved but payment is held up, usually because Aadhaar is not linked to your bank account, the account is dormant, or the IFSC changed after a bank merger.<br><br>Ineligible means you were screened out at verification, often for owning a pucca house or for a data mismatch. You can dispute this with proof."
     },
     {
       "type": "text",
@@ -228,40 +241,50 @@
         "At each stage a local officer verifies progress, often with a geo-tagged photo of your house, before the next installment is cleared. Eligible families may also get MGNREGA wages for the labour.",
         "Treat the money as a construction grant, not free cash. Each installment is tied to you actually building to a defined stage, and the field check must pass before the next one is released.",
         "Make sure the bank account is active and Aadhaar-seeded before the first installment is due. A dormant or unseeded account is the top reason an approved name slips into the Inactive list.",
-        "The hill and difficult-area rate of Rs 1.3 lakh covers the higher cost of building in remote terrain. Your area type is decided by official classification, not by request."
+        "The hill and difficult-area rate of Rs 1.3 lakh covers the higher cost of building in remote terrain. Your area type is decided by official classification, not by request.",
+        "The money is never given as cash in hand. It always moves through the banking system to your own account, which is why correct bank details matter so much."
+      ]
+    },
+    {
+      "type": "stat_grid",
+      "heading": "Installment and Payment Snapshot",
+      "items": [
+        {
+          "icon": "wallet",
+          "value": "₹60,000",
+          "label": "First installment",
+          "color": "green"
+        },
+        {
+          "icon": "shield",
+          "value": "DBT",
+          "label": "To Aadhaar-linked bank",
+          "color": "blue"
+        },
+        {
+          "icon": "alert",
+          "value": "SMS",
+          "label": "Bank alert per payment",
+          "color": "amber"
+        },
+        {
+          "icon": "file",
+          "value": "Geo-tag",
+          "label": "Photo check each stage",
+          "color": "green"
+        }
       ]
     },
     {
       "type": "text",
-      "heading": "Extra Support: Toilet, Wages and Basic Amenities",
+      "heading": "Extra Support: Toilet, Wages and Amenities",
       "content": [
         "The house assistance is not the only benefit. The scheme is designed to deliver a complete home, not just four walls, by linking other government support.",
         "Eligible families can get help to build a toilet under the Swachh Bharat Mission, so the new house has proper sanitation from the start.",
         "Beneficiaries can also claim wages for the labour of building their own house through the rural employment guarantee scheme. This eases the cost of construction work.",
         "Where available, the house can be linked to electricity, a cooking gas connection and piped water under other schemes. Ask your Gram Panchayat which of these your house qualifies for.",
-        "Treat these linked benefits as part of the same effort to give you a liveable home. It is worth asking about every one of them rather than settling for just the building grant."
-      ]
-    },
-    {
-      "type": "stat_cards",
-      "heading": "Installment and Payment Snapshot",
-      "cards": [
-        {
-          "value": "Rs 60,000",
-          "label": "First installment after approval"
-        },
-        {
-          "value": "DBT",
-          "label": "Paid to Aadhaar-linked bank account"
-        },
-        {
-          "value": "SMS",
-          "label": "Bank alert confirms each payment"
-        },
-        {
-          "value": "Geo-tag",
-          "label": "Photo check before next installment"
-        }
+        "Treat these linked benefits as part of the same effort to give you a liveable home. It is worth asking about every one of them rather than settling for just the building grant.",
+        "Families sometimes miss these linked benefits simply because no one told them to ask. Treat the house, toilet, wages and utility connections as one package and claim each part."
       ]
     },
     {
@@ -272,15 +295,16 @@
         "When an installment is released, the amount is credited to your Aadhaar linked bank account and you usually get an SMS from the bank. That SMS is your first confirmation.",
         "If your name is Eligible but no money has arrived, the most common block is a bank or Aadhaar problem. Check that your account is active and your Aadhaar is correctly seeded to it.",
         "For a stuck payment, your Gram Panchayat or block office can see your record in the system and tell you the exact reason. Carry your bank passbook and Aadhaar when you go.",
-        "Do not pay anyone who promises to release your installment for a fee. The money is transferred directly by the government, and no agent or middleman is needed at any stage."
+        "Do not pay anyone who promises to release your installment for a fee. The money is transferred directly by the government, and no agent or middleman is needed at any stage.",
+        "If an installment is delayed for months with no clear reason, escalate beyond the panchayat to the Block Development Office. They can see the exact status flag on your record and tell you what is blocking it."
       ]
     },
     {
-      "type": "callout",
+      "type": "modern_callout",
       "variant": "warning",
-      "icon": "💡",
-      "heading": "Why your name may be missing",
-      "content": "The base survey data for this scheme is old, so families missed in the original survey, or who became poor or homeless later, often do not appear. This is the single most common reason a genuine family is not on the list.<br><br>The Awaas Plus survey was meant to capture these missed households, but it has not reached every block evenly. If you truly qualify and have no pucca house, this is fixable through a grievance, not a reason to give up."
+      "icon": "alert",
+      "title": "Why your name may be missing",
+      "content": "The base survey data is several years old, so families missed earlier, or who became poor or homeless later, often do not appear. This is the most common reason a genuine family is not on the list.<br><br>The Awaas Plus survey was meant to capture these households but has not reached every block evenly. If you truly qualify with no pucca house, this is fixable through a grievance, not a reason to give up."
     },
     {
       "type": "text",
@@ -290,15 +314,9 @@
         "The first Awaas Plus survey ran from January 2018 to March 2019, when families who said they were missed in the 2011 census were registered. Crores of households were added this way after Gram Sabha checks.",
         "For the extended phase of the scheme, the government launched the Awaas Plus 2024 mobile app. Eligible families can do a self survey with Aadhaar based verification, or be covered in the door to door survey mapped to their Gram Panchayat.",
         "The income and exclusion rules were also relaxed in this round, so some families who were earlier rejected may now qualify. If you were left out before, it is worth checking your status again under the new survey.",
-        "Keep your Aadhaar, bank details and a photo of your current house ready for the survey. A complete entry is far less likely to be sent back for correction."
+        "Keep your Aadhaar, bank details and a photo of your current house ready for the survey. A complete entry is far less likely to be sent back for correction.",
+        "Being added to the survey does not guarantee a house immediately. Your name still goes through Gram Sabha verification and the appellate process before it reaches an Eligible list."
       ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "icon": "📋",
-      "heading": "Quick self-check before you search",
-      "content": "You are likely eligible if you live in West Bengal, have no pucca house anywhere, and your family is poor with no government job or income tax.<br><br>You are likely excluded if you own a pucca house, a car or tractor, pay income tax, or a family member is a government employee. Checking this first saves a wasted trip to the panchayat."
     },
     {
       "type": "text",
@@ -308,8 +326,16 @@
         "A family is excluded if it owns a pucca house anywhere, owns a motorised two, three or four wheeler, or owns mechanised farm equipment like a tractor.",
         "Families are also excluded if any member is a government employee, pays income tax or professional tax, or earns above the income threshold set for the scheme.",
         "Owning a large landholding, a Kisan Credit Card above a set limit, or a refrigerator or landline in some criteria can also exclude a family. These rules aim to direct help only to the genuinely poor.",
-        "If you believe an exclusion was applied to you wrongly, for example a vehicle you no longer own, you can contest it with documents at the block office. Wrong codes do get corrected on proof."
+        "If you believe an exclusion was applied to you wrongly, for example a vehicle you no longer own, you can contest it with documents at the block office. Wrong codes do get corrected on proof.",
+        "These rules are applied from survey and verification data, so a single wrong entry, like an old vehicle you have sold, can wrongly exclude you. That is exactly the kind of error a grievance can fix."
       ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "info",
+      "icon": "info",
+      "title": "Quick self-check before you search",
+      "content": "You are likely eligible if you live in West Bengal, have no pucca house anywhere, and your family is poor with no government job or income tax.<br><br>You are likely excluded if you own a pucca house, a car or tractor, pay income tax, or a family member is a government employee. Checking this first saves a wasted trip to the panchayat."
     },
     {
       "type": "text",
@@ -321,7 +347,9 @@
         "If you are on the Ineligible list and disagree, take documents proving your case to the Block Development Office. Wrongful exclusions, like being wrongly coded as owning a pucca house, can be corrected.",
         "Be persistent but patient. Grievances and Awaas Plus additions take time, so keep copies of every application and follow up at the Gram Panchayat rather than waiting silently.",
         "If your name is on the Ineligible list purely due to a data error, the Block Development Office can correct it. Carry originals, since a clear document usually settles a wrong code quickly.",
-        "Keep your grievance reference number safe. It is what lets you follow up and prove you raised the issue if the matter drags on."
+        "Keep your grievance reference number safe. It is what lets you follow up and prove you raised the issue if the matter drags on.",
+        "Persistence usually pays here. Many families who were initially left out did get added after following up through the survey and grievance routes with the right documents.",
+        "Always get an acknowledgement for any grievance you file. That receipt is your proof and your reference for every single follow-up you make afterwards."
       ]
     },
     {
@@ -329,24 +357,28 @@
       "text": "Not finding your name does not always mean you are ineligible. Survey errors and households missed between surveys are common, and a grievance with proof is the correct path if you genuinely qualify."
     },
     {
-      "type": "info_rows",
+      "type": "icon_list",
       "heading": "Documents You Will Need",
-      "rows": [
+      "items": [
         {
-          "label": "Aadhaar card",
-          "value": "Must be linked to your bank account for payment"
+          "icon": "file",
+          "title": "Aadhaar card",
+          "sub": "Linked to your bank account"
         },
         {
-          "label": "Bank passbook",
-          "value": "Account where installments are credited"
+          "icon": "wallet",
+          "title": "Bank passbook",
+          "sub": "Where installments are credited"
         },
         {
-          "label": "Job Card",
-          "value": "For MGNREGA wages during construction"
+          "icon": "file",
+          "title": "MGNREGA Job Card",
+          "sub": "For construction wages"
         },
         {
-          "label": "Land proof",
-          "value": "If you own the plot where the house is built"
+          "icon": "shield",
+          "title": "Land proof",
+          "sub": "If you own the plot"
         }
       ]
     }

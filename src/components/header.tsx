@@ -179,6 +179,7 @@ export function Header() {
                         { slug: "telangana", label: "Telangana" },
                         { slug: "andhra-pradesh", label: "Andhra Pradesh" },
                         { slug: "assam", label: "Assam" },
+                        { slug: "west-bengal", label: "West Bengal" },
                       ].map((s) => (
                         <Link
                           key={s.slug}
