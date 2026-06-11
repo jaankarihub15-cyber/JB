@@ -40,9 +40,8 @@ function Icon({ name, className }: { name?: string; className?: string }) {
 
 // ============== 1. STAT GRID ==============
 // {type:"stat_grid", items:[{icon:"wallet",value:"₹15,000",label:"Per child/year",color:"green"}]}
-export function StatGrid({ items, heading }: {
+export function StatGrid({ items }: {
   items: Array<{ icon?: string; value: string; label: string; color?: "green" | "blue" | "amber" | "pink" | "purple" }>;
-  heading?: string;
 }) {
   const colorMap = {
     green: "bg-green-50 border-green-200 text-green-800",
@@ -52,9 +51,7 @@ export function StatGrid({ items, heading }: {
     purple: "bg-purple-50 border-purple-200 text-purple-800",
   };
   return (
-    <div className="my-4">
-      {heading && <h3 className="text-base font-bold mb-3">{heading}</h3>}
-      <div className="grid grid-cols-2 md:grid-cols-4 gap-2.5">
+    <div className="grid grid-cols-2 md:grid-cols-4 gap-2.5 my-4">
       {items.map((s, i) => {
         const color = colorMap[s.color || "green"];
         return (
@@ -69,7 +66,6 @@ export function StatGrid({ items, heading }: {
           </div>
         );
       })}
-      </div>
     </div>
   );
 }
@@ -349,7 +345,7 @@ export function QuickActionGrid({ items }: {
 export function SchemeBlock({ section }: { section: any }) {
   switch (section.type) {
     case "stat_grid":
-      return <StatGrid items={section.items} heading={section.heading} />;
+      return <StatGrid items={section.items} />;
     case "eligibility_check":
       return <EligibilityCheck qualify={section.qualify} disqualify={section.disqualify} heading={section.heading} />;
     case "process_flow":
