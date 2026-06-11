@@ -53,7 +53,8 @@
     "The scheme is run by the Department of Panchayat and Rural Development, Government of West Bengal. Selection is based on survey data, not a fresh open application, which is why checking the list matters more than applying.",
     "Most readers reach this page for one reason: to find out whether their name is on the list. The sections below cover exactly how to check, district wise, and what to do if your name is missing.",
     "Knowing the exact name and the right portal saves wasted trips. Many families search the wrong website and conclude they were rejected when they simply looked in the wrong place.",
-    "This guide sticks to what is verified and points you to the official district sources, so you can check your status with confidence rather than relying on rumours from neighbours, and without relying on rumours from neighbours or agents."
+    "This guide sticks to what is verified and points you to the official district sources, so you can check your status with confidence rather than relying on rumours from neighbours, and without relying on rumours from neighbours or agents.",
+    "Read it once fully, then bookmark your district site. That combination of understanding plus the right official link is what gets most families their answer."
   ],
   "eligibility": [
     {
@@ -125,6 +126,37 @@
       ]
     },
     {
+      "type": "table",
+      "heading": "Bangla Awas Yojana vs Central PMAY-G: Quick Clarity",
+      "columns": [
+        "Point",
+        "What it means for you"
+      ],
+      "rows": [
+        [
+          "Same scheme family",
+          "Bangla Awas Yojana, Banglar Bari and PMAY-G in West Bengal all feed one beneficiary system"
+        ],
+        [
+          "Where the list is",
+          "District government sites publish the live Banglar Bari (Gramin) provisional lists"
+        ],
+        [
+          "National record",
+          "pmayg.nic.in holds the central PMAY-G beneficiary record you can also search"
+        ],
+        [
+          "Money",
+          "Rs 1.2 lakh plains, Rs 1.3 lakh hill or difficult areas, in installments"
+        ],
+        [
+          "Selection",
+          "From SECC 2011 and Awaas Plus survey data, approved by the Gram Sabha"
+        ]
+      ],
+      "footnote": "Always treat your own district government site as the first place to check your current status."
+    },
+    {
       "type": "text",
       "heading": "How to Check the Bangla Awas Yojana List 2026",
       "content": [
@@ -134,6 +166,18 @@
         "Search the Eligible list for your name and application or registration number. If your name is there, your house assistance is approved subject to the next verification stages.",
         "Keep your application or registration number ready before you start. It makes finding your row in a long PDF far quicker than scanning by name alone.",
         "If you cannot find your district site, search the district name with the words rural housing notice. The official .gov.in or .nic.in result is the one to trust."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Checking the Bangla Awas Yojana List District Wise",
+      "content": [
+        "West Bengal does not publish one single state list. Each district publishes its own Banglar Bari beneficiary list, which is why a district wise search is the only reliable way to find your name.",
+        "Start by identifying your district, then your block, then your Gram Panchayat. The lists are nested in that order, so knowing all three keeps your search short.",
+        "Districts such as Cooch Behar, Paschim Bardhaman, Bankura, Darjeeling and Hooghly have each published provisional Banglar Bari (Gramin) lists on their own government sites. The format is broadly the same across districts.",
+        "If a neighbouring village got its list before yours, do not panic. Districts and blocks release in batches, so a later date for your area is normal and does not mean exclusion.",
+        "Save the PDF for your block once you find it. New provisional lists replace old ones, so keeping your own copy with the date helps if you need to prove your status later.",
+        "If you cannot navigate the district website, a local Common Service Centre or the panchayat office can pull up the same list for you. They have the direct links to each block's PDF."
       ]
     },
     {
@@ -183,7 +227,52 @@
         "The remaining amount is released in further installments as your house reaches set construction stages, such as lintel level and completion. The exact split follows your latest district or state housing notice.",
         "At each stage a local officer verifies progress, often with a geo-tagged photo of your house, before the next installment is cleared. Eligible families may also get MGNREGA wages for the labour.",
         "Treat the money as a construction grant, not free cash. Each installment is tied to you actually building to a defined stage, and the field check must pass before the next one is released.",
-        "Make sure the bank account is active and Aadhaar-seeded before the first installment is due. A dormant or unseeded account is the top reason an approved name slips into the Inactive list."
+        "Make sure the bank account is active and Aadhaar-seeded before the first installment is due. A dormant or unseeded account is the top reason an approved name slips into the Inactive list.",
+        "The hill and difficult-area rate of Rs 1.3 lakh covers the higher cost of building in remote terrain. Your area type is decided by official classification, not by request."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Extra Support: Toilet, Wages and Basic Amenities",
+      "content": [
+        "The house assistance is not the only benefit. The scheme is designed to deliver a complete home, not just four walls, by linking other government support.",
+        "Eligible families can get help to build a toilet under the Swachh Bharat Mission, so the new house has proper sanitation from the start.",
+        "Beneficiaries can also claim wages for the labour of building their own house through the rural employment guarantee scheme. This eases the cost of construction work.",
+        "Where available, the house can be linked to electricity, a cooking gas connection and piped water under other schemes. Ask your Gram Panchayat which of these your house qualifies for.",
+        "Treat these linked benefits as part of the same effort to give you a liveable home. It is worth asking about every one of them rather than settling for just the building grant."
+      ]
+    },
+    {
+      "type": "stat_cards",
+      "heading": "Installment and Payment Snapshot",
+      "cards": [
+        {
+          "value": "Rs 60,000",
+          "label": "First installment after approval"
+        },
+        {
+          "value": "DBT",
+          "label": "Paid to Aadhaar-linked bank account"
+        },
+        {
+          "value": "SMS",
+          "label": "Bank alert confirms each payment"
+        },
+        {
+          "value": "Geo-tag",
+          "label": "Photo check before next installment"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "How to Check Your Payment Status",
+      "content": [
+        "Once your name is on the Eligible list, the next worry is the money. You can track each installment rather than waiting blindly.",
+        "When an installment is released, the amount is credited to your Aadhaar linked bank account and you usually get an SMS from the bank. That SMS is your first confirmation.",
+        "If your name is Eligible but no money has arrived, the most common block is a bank or Aadhaar problem. Check that your account is active and your Aadhaar is correctly seeded to it.",
+        "For a stuck payment, your Gram Panchayat or block office can see your record in the system and tell you the exact reason. Carry your bank passbook and Aadhaar when you go.",
+        "Do not pay anyone who promises to release your installment for a fee. The money is transferred directly by the government, and no agent or middleman is needed at any stage."
       ]
     },
     {
@@ -192,6 +281,35 @@
       "icon": "💡",
       "heading": "Why your name may be missing",
       "content": "The base survey data for this scheme is old, so families missed in the original survey, or who became poor or homeless later, often do not appear. This is the single most common reason a genuine family is not on the list.<br><br>The Awaas Plus survey was meant to capture these missed households, but it has not reached every block evenly. If you truly qualify and have no pucca house, this is fixable through a grievance, not a reason to give up."
+    },
+    {
+      "type": "text",
+      "heading": "The Awaas Plus Survey: How Missed Families Get Added",
+      "content": [
+        "If your name is not on the list, the Awaas Plus survey is your main route in. It exists precisely to capture families left out of the older base data.",
+        "The first Awaas Plus survey ran from January 2018 to March 2019, when families who said they were missed in the 2011 census were registered. Crores of households were added this way after Gram Sabha checks.",
+        "For the extended phase of the scheme, the government launched the Awaas Plus 2024 mobile app. Eligible families can do a self survey with Aadhaar based verification, or be covered in the door to door survey mapped to their Gram Panchayat.",
+        "The income and exclusion rules were also relaxed in this round, so some families who were earlier rejected may now qualify. If you were left out before, it is worth checking your status again under the new survey.",
+        "Keep your Aadhaar, bank details and a photo of your current house ready for the survey. A complete entry is far less likely to be sent back for correction."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "icon": "📋",
+      "heading": "Quick self-check before you search",
+      "content": "You are likely eligible if you live in West Bengal, have no pucca house anywhere, and your family is poor with no government job or income tax.<br><br>You are likely excluded if you own a pucca house, a car or tractor, pay income tax, or a family member is a government employee. Checking this first saves a wasted trip to the panchayat."
+    },
+    {
+      "type": "text",
+      "heading": "Who Is Excluded From the Scheme",
+      "content": [
+        "Knowing the exclusion rules saves wasted effort. If your family meets any exclusion, your name will not appear no matter how many times you check.",
+        "A family is excluded if it owns a pucca house anywhere, owns a motorised two, three or four wheeler, or owns mechanised farm equipment like a tractor.",
+        "Families are also excluded if any member is a government employee, pays income tax or professional tax, or earns above the income threshold set for the scheme.",
+        "Owning a large landholding, a Kisan Credit Card above a set limit, or a refrigerator or landline in some criteria can also exclude a family. These rules aim to direct help only to the genuinely poor.",
+        "If you believe an exclusion was applied to you wrongly, for example a vehicle you no longer own, you can contest it with documents at the block office. Wrong codes do get corrected on proof."
+      ]
     },
     {
       "type": "text",
