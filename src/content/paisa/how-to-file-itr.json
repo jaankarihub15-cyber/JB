@@ -1,484 +1,541 @@
 {
- "slug": "how-to-file-itr",
- "title": "How to File ITR - Income Tax Return Guide 2026",
- "meta_description": "How to file ITR online 2026 - step by step guide for salaried, self-employed, and freelancers. ITR-1, ITR-2, ITR-4 forms, deadline July 31, e-verification.",
- "hero": {
- "one_liner": "Complete step-by-step guide to filing your Income Tax Return online on the e-filing portal - with form selection, deductions, and deadline reminders",
- "icon": "📄",
- "updated_date": "May 2026",
- "stats": [
- {
- "label": "Deadline",
- "value": "July 31, 2026"
- },
- {
- "label": "Portal",
- "value": "incometax.gov.in"
- },
- {
- "label": "Free Filing",
- "value": "Yes (direct on portal)"
- },
- {
- "label": "Late Filing Penalty",
- "value": "₹5,000 (reduced to ₹1,000 if income <₹5L)"
- }
- ],
- "tags": [
- "Tax",
- "Income Tax",
- "ITR",
- "Filing"
- ],
- "read_time": "10 min"
- },
- "sections": [
- {
- "heading": "Overview",
- "icon": "📖",
- "type": "text",
- "content": [
- "Filing an <a href=\"/guide/file-income-tax-complaint\" style=\"text-decoration:underline;color:inherit\">Income</a> Tax Return (ITR) is a legal obligation for every Indian whose gross income exceeds the basic exemption limit (₹3 lakh under Old Regime, ₹3 lakh under New Regime for FY 2025-26). Even if your income is below the limit, filing ITR is highly recommended - it serves as income proof for home loans, car loans, credit card approvals, visa applications, and rental agreements.",
- "There are 7 different ITR forms for different income types: ITR-1 (Sahaj) for salaried individuals with income up to ₹50 lakh and simple sources, ITR-2 for capital gains/multiple properties, ITR-3 for business income, ITR-4 (Sugam) for presumptive income (self-employed with turnover ≤₹1Cr), ITR-5/6/7 for firms/partnerships/companies. Most salaried employees use ITR-1 or ITR-2.",
- "The income tax e-filing portal (incometax.gov.in) allows free <a href=\"/guide/apply-pan-card\" style=\"text-decoration:underline;color:inherit\">online</a> filing. Most of your data is pre-filled from Form 16 (from employer), Form 26AS (showing all TDS), and AIS (Annual Information Statement showing all income reported by others - banks, employers, investment platforms).",
- "For simple salaried cases, filing takes just 15-20 minutes. No need for paying any charges or using paid software.",
- "The deadline for individuals is July 31 of the assessment year (for income earned in the previous financial year). Filing ITR before July 31 is advisable - not only to avoid penalty but to claim refunds faster.",
- "Filing after July 31 attracts a penalty of ₹5,000 (reduced to ₹1,000 if total income below ₹5 lakh). You also lose the ability to carry forward certain losses if filed late."
- ]
- },
- {
- "heading": "",
- "type": "svg_block",
- "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">ITR Filing - 5 steps on incometax.gov.in</text><rect x=\"10\" y=\"50\" width=\"130\" height=\"75\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"75\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#145236\">Step 1</text><text x=\"75\" y=\"98\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#145236\">Login &amp;</text><text x=\"75\" y=\"110\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#145236\">choose ITR form</text><rect x=\"150\" y=\"50\" width=\"130\" height=\"75\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"215\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Step 2</text><text x=\"215\" y=\"98\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#1E40AF\">Fill income</text><text x=\"215\" y=\"110\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#1E40AF\">details</text><rect x=\"290\" y=\"50\" width=\"130\" height=\"75\" rx=\"8\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"355\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#C2410C\">Step 3</text><text x=\"355\" y=\"98\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#C2410C\">Claim</text><text x=\"355\" y=\"110\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#C2410C\">deductions</text><rect x=\"430\" y=\"50\" width=\"130\" height=\"75\" rx=\"8\" fill=\"#F3E8FF\" stroke=\"#7C3AED\" stroke-width=\"2\"/><text x=\"495\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#6B21A8\">Step 4</text><text x=\"495\" y=\"98\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#6B21A8\">Verify tax</text><text x=\"495\" y=\"110\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#6B21A8\">computation</text><rect x=\"570\" y=\"50\" width=\"120\" height=\"75\" rx=\"8\" fill=\"#1B6B4A\"/><text x=\"630\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"white\">Step 5</text><text x=\"630\" y=\"98\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#DCFCE7\">Submit &amp;</text><text x=\"630\" y=\"110\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#DCFCE7\">e-Verify</text></svg>",
- "caption": "File your ITR online at incometax.gov.in. The portal pre-fills most data from Form 26AS and AIS. For salaried individuals with no business income, filing takes 15-30 minutes. Deadline: July 31 every year."
- },
- {
- "heading": "Key Details",
- "icon": "📋",
- "type": "info_rows",
- "rows": [
- {
- "label": "Deadline for individuals",
- "value": "July 31, 2026 (for FY 2025-26 / AY 2026-27). Filing after this deadline = ₹5,000 penalty (₹1,000 if income <₹5L).",
- "highlight": true
- },
- {
- "label": "Portal",
- "value": "incometax.gov.in - free filing, no charges, no software needed. Direct filing or via authorized e-filing agent.",
- "highlight": true
- },
- {
- "label": "Who must file",
- "value": "Anyone with gross income above ₹3 lakh in a financial year (before deductions) is obligated to file. Below ₹3L but received notice? You must file.",
- "highlight": false
- },
- {
- "label": "ITR-1 form",
- "value": "For salaried individuals with income up to ₹50 lakh, one house property, other income from interest/dividend/sports. Most common form used by 80% of taxpayers.",
- "highlight": false
- },
- {
- "label": "ITR-4 form",
- "value": "For freelancers/self-employed under presumptive income scheme (Section 44AD/44ADA). Used by doctors, consultants, content creators with turnover ≤₹1Cr.",
- "highlight": false
- },
- {
- "label": "ITR-2 form",
- "value": "For capital gains (stock/mutual fund sales, property sales), multiple house properties, or income requiring ITR-2 specifically.",
- "highlight": true
- },
- {
- "label": "E-Verification",
- "value": "MANDATORY. After submitting ITR, you must e-verify within 30 days using Aadhaar OTP (simplest), Net Banking, DSC, or post signed form. Without verification, ITR is considered NOT FILED.",
- "highlight": true
- }
- ]
- },
- {
- "heading": "Step-by-Step: Filing ITR-1 Online (for Most Salaried Employees)",
- "icon": "📝",
- "type": "steps",
- "steps": [
- {
- "step": 1,
- "title": "Login to incometax.gov.in",
- "description": "Visit incometax.gov.in → Login with PAN number as User ID and your password. If first time, register using PAN, Aadhaar, and mobile number. Complete profile setup including email and contact verification."
- },
- {
- "step": 2,
- "title": "Navigate to File ITR",
- "description": "Go to Dashboard → e-File → Income Tax Returns → 'File ITR' → Select Assessment Year 2026-27 (for income earned in FY 2025-26). Select ITR-1 (if you're salaried with income ≤₹50L, one house property, no capital gains). Select 'Online' filing mode."
- },
- {
- "step": 3,
- "title": "Choose tax regime - Old vs New (critical choice)",
- "description": "The portal asks: Old Regime (allows deductions: 80C, 80D, HRA, etc.) or New Regime (lower tax rates but almost no deductions)? Check: If total deductions >₹3-4L, Old Regime saves more. If deductions <₹3L, New Regime saves more. The portal shows a comparison after you enter details. Most salaried employees with home loan benefit from Old Regime."
- },
- {
- "step": 4,
- "title": "Review and correct pre-filled data",
- "description": "The portal auto-fills your salary from Form 16, TDS deducted, bank interest from Form 26AS, dividend income from AIS. VERIFY every number against your Form 16 and bank statements. Common errors: Bank interest shown but not claimed. Stock gains from past years shown. Dividend income shown. Edit any incorrect entries before proceeding."
- },
- {
- "step": 5,
- "title": "Enter all deductions (if Old Regime)",
- "description": "Section 80C (up to ₹1.5L): PPF, ELSS, EPF, LIC, tax-saver FD, tuition fees, home loan principal. Section 80D: Health insurance premiums (₹25K for self + ₹25K for family, ₹50K for parents if senior citizens). Section 80CCD(1B): NPS (extra ₹50K). Section 24: Home loan interest (up to ₹2L). HRA exemption (if you receive HRA and paid rent). Enter investment amounts and you'll get year-end summaries."
- },
- {
- "step": 6,
- "title": "Review and calculate tax",
- "description": "After entering deductions, the portal calculates your total tax liability, compares it with TDS already deducted from your salary, and shows: 'Tax Due' (you owe more tax) or 'Refund' (excess TDS will be returned to you). If tax is due, you must pay via Challan 280 before submitting ITR. Use net banking or UPI to pay."
- },
- {
- "step": 7,
- "title": "Submit ITR",
- "description": "Review all details one final time. Click 'Submit'. A pop-up shows a summary of your ITR with total income, deductions, and tax. Verify and confirm submission. You'll receive an ITR-V (acknowledgment) with a unique number. Save this number."
- },
- {
- "step": 8,
- "title": "E-Verify IMMEDIATELY (most critical step)",
- "description": "After submitting, you MUST e-verify within 30 days - this is MANDATORY. Options: (1) Aadhaar OTP (simplest - 6-digit OTP sent to Aadhaar-linked mobile). (2) Net Banking. (3) Digital Signature Certificate (DSC). (4) Post signed ITR-V form to CPC Bangalore. Without verification, your ITR is considered NOT FILED and you'll lose all tax benefits."
- }
- ]
- },
- {
- "heading": "Old Regime vs New Regime - Which Saves More Tax?",
- "icon": "⚖️",
- "type": "table",
- "columns": [
- "Regime/Bracket",
- "Old Regime (deductions allowed)",
- "New Regime (no deductions)",
- "Winner"
- ],
- "rows": [
- [
- "₹3-5L income",
- "Tax: ₹0-15K (with 80C/HRA/others)",
- "Tax: ₹4K (no deductions)",
- "Old Regime (80C matters)"
- ],
- [
- "₹5-10L income",
- "Tax: ₹45-90K (minus deductions)",
- "Tax: ₹25-35K (fixed)",
- "Depends on deductions (usually Old if deductions >₹2.5L)"
- ],
- [
- "₹10-20L income",
- "Tax: ₹1.35L-3L (minus deductions)",
- "Tax: ₹62-93K (fixed)",
- "Old Regime if deductions >₹4-5L"
- ],
- [
- "High income >₹20L",
- "Tax: 30% slab minus deductions",
- "Tax: 30% slab (same as Old)",
- "Generally New (simpler)"
- ]
- ]
- },
- {
- "heading": "Common Mistakes That Cost You Money",
- "icon": "⚠️",
- "type": "text",
- "content": [
- "<h3>Mistake 1: Not filing ITR because 'no tax is due'</h3> Even with zero tax liability, file ITR - it serves as income proof for home loans (banks ask for last 2-3 years' ITR), car loans, credit card approvals (they verify ITR), visa applications, and rental agreements (landlords demand it). Missing ITR can cost you ₹20L+ home loan rejection or delayed approval.",
- "<h3>Mistake 2: Not reporting bank interest and FD interest</h3> The income tax department automatically gets this data from banks under Sec 26AS. If you don't report interest in your ITR but they have it in AIS (Annual Information Statement), you'll get a notice under <a href=\"/paisa/section-80c-guide\" style=\"text-decoration:underline;color:inherit\">Section</a> 143(1) demanding tax + interest + penalty.",
- "Banks report all FD/savings interest >₹40 to IT dept.",
- "<h3>Mistake 3: Missing the e-Verification step</h3> Submitting ITR is NOT enough - you MUST e-verify within 30 days. Many people submit ITR and forget to verify.",
- "An unverified ITR is treated as if you never filed. You lose all deductions, refunds don't process, and the government can treat you as a non-filer.",
- "Take 30 seconds to verify immediately after submission.",
- "<h3>Mistake 4: Not claiming all eligible deductions</h3> Common missed deductions: Section 80D (health insurance premium for self + parents - ₹25K+₹25K = ₹50K), Section 80TTA (₹10,000 savings interest deduction if you don't opt New <a href=\"/compare/old-vs-new-tax-regime\" style=\"text-decoration:underline;color:inherit\">Regime</a>), NPS employer contribution (counts towards 80C), Education loan interest (Section 80E - no upper limit, only requirement: educational institution must be approved).",
- "<h3>Mistake 5: Filing the wrong ITR form</h3> ITR-1 is for salaried only (income ≤₹50L). If you have capital gains from stocks/MF/property sale, you need ITR-2.",
- "If you have business income, you need ITR-3 or 4. Filing wrong form = notice from IT dept asking for correction = stress and delay.",
- "Take 30 seconds to verify your form eligibility before filing.",
- "<h3>Mistake 6: Wrong tax regime choice</h3> Some people automatically choose New Regime without comparing. If your deductions total ₹5L (EPF ₹1L + 80C ₹1.5L + HRA ₹2.5L), Old Regime saves ₹1.5L+ in tax (30% of ₹5L).",
- "New Regime might be worse for you. Always compare both before choosing."
- ]
- },
- {
- "type": "svg_block",
- "heading": "Visual: How to File ITR Key Numbers",
- "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">July 31, 2026</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Deadline</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">incometax.gov.in</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Portal</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">Yes (direct on por</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Free Filing</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">₹5,000 (reduced to</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Late Filing Penalty</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
- "caption": "Key numbers for How to File ITR - Income Tax R",
- "description": "Quick overview of the most important numbers and facts."
- },
- {
- "heading": "How to Get Started - Checklist",
- "icon": "🚀",
- "type": "steps",
- "steps": [
- {
- "step": 1,
- "title": "Collect all documents",
- "description": "Form 16 (from employer - lists salary, TDS). Form 26AS (download from incometax portal - shows all TDS/income reported). Bank statements (for interest income). Investment proofs (PPF, ELSS, FD, LIC, tuition receipts). Home loan statement (principal paid). Health insurance proof."
- },
- {
- "step": 2,
- "title": "Login to incometax.gov.in",
- "description": "Register if first-time, or login with PAN. Download Form 26AS and AIS from 'View Documents' to see all reported income and TDS. This helps you identify what needs to be reported in ITR."
- },
- {
- "step": 3,
- "title": "Choose form and regime",
- "description": "Select ITR form (ITR-1 for salaried, ITR-4 for self-employed with presumptive income, ITR-2 for capital gains/multiple properties). Choose Old or New Regime."
- },
- {
- "step": 4,
- "title": "Fill details and verify pre-filled data",
- "description": "Go through each section. Verify pre-filled data. Enter deductions, expenses, investment amounts. Check calculations at the end."
- },
- {
- "step": 5,
- "title": "Pay any tax due (if applicable)",
- "description": "If 'Tax Due' shows, pay via Challan 280 before submitting. Use net banking, UPI, or in-person at bank."
- },
- {
- "step": 6,
- "title": "Submit and e-verify immediately",
- "description": "Submit ITR. Within 30 days, e-verify using Aadhaar OTP (recommended) or other method. Save the ITR-V acknowledgment number. Mark in calendar: Download final ITR-V acknowledgment and file for records."
- }
- ]
- },
- {
- "type": "svg_block",
- "heading": "Quick Facts",
- "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Quick Facts</text><rect x=\"17\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"94\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">July 31, 2026</text><text x=\"94\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Deadline</text><rect x=\"187\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"264\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">incometax.gov.in</text><text x=\"264\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Portal</text><rect x=\"357\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"434\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#92400E\">Yes (direct on por</text><text x=\"434\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Free Filing</text><rect x=\"527\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"604\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">₹5,000 (reduced to</text><text x=\"604\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Late Filing Penalty</text></svg>",
- "caption": "Quick reference facts",
- "description": "Key facts and numbers at a glance"
- },
- {
- "type": "text",
- "heading": "Who must file ITR and why you should even if not mandatory",
- "icon": "📋",
- "content": [
- "ITR filing is mandatory if your gross total income exceeds Rs 3 lakh (old regime) or Rs 3 lakh (new regime) before deductions in a financial year. Even if TDS has been deducted on your entire income and you owe zero additional tax, you must still file if income crosses the threshold.",
- "Not filing is a violation of the Income Tax Act - penalty of Rs 1,000-5,000 under Section 234F.",
- "Even if your income is BELOW the threshold, filing ITR is strongly recommended. Benefits of voluntary filing: you can claim TDS refund (banks deduct 10% TDS on FD interest - if your total income is below taxable limit, you get this back through ITR filing), ITR acknowledgment is required for visa applications (US, UK, Schengen embassies require 3 years of ITR), and loan applications (banks check ITR for home loan, car loan, and business loan eligibility).",
- "Self-employed, freelancers, and business owners: You MUST file ITR regardless of income level if you have business or professional income. Even if your freelance income is Rs 1 lakh/year (below taxable limit), the law requires filing because business income must be declared.",
- "Use ITR-3 or ITR-4 (Sugam) for business/professional income."
- ]
- },
- {
- "type": "text",
- "heading": "Which ITR form should you use?",
- "icon": "📊",
- "content": [
- "ITR-1 (Sahaj): For salaried individuals with total income up to Rs 50 lakh from salary, one house property, and other sources (interest, pension). This covers 80% of salaried Indians.",
- "If you're a regular employee with salary + FD interest + one house, use ITR-1. Cannot use if: you have capital gains, multiple house properties, business income, foreign assets, or agricultural income above Rs 5,000.",
- "ITR-2: For individuals and HUFs with income from salary, house property, capital gains (stock trading, mutual fund redemption, property sale), and other sources - but NO business income. If you sold shares, mutual funds, or property during the year, use ITR-2 (not ITR-1).",
- "Also for people with foreign assets, directorship in companies, or agricultural income above Rs 5,000.",
- "ITR-3: For individuals and HUFs with business or professional income. If you're a freelancer, consultant, doctor with private practice, CA, lawyer, or run any business alongside employment, use ITR-3. Covers ALL income types including salary, capital gains, house property, and business profits.",
- "ITR-4 (Sugam): Simplified form for small businesses and professionals opting for presumptive taxation under Section 44AD/44ADA. If your business turnover is below Rs 2 crore (cash) or Rs 3 crore (digital) and you declare profit at 6-8% of turnover without maintaining books of accounts, use ITR-4.",
- "Freelancers with gross receipts below Rs 75 lakh can use ITR-4 by declaring 50% as profit."
- ]
- },
- {
- "type": "text",
- "heading": "Step-by-step ITR filing on incometax.gov.in",
- "icon": "📝",
- "content": [
- "Step 1 - Login: Visit incometax.gov.in → Login with PAN as user ID + password. If first time, register → your PAN is your login ID, set a password, link with Aadhaar and mobile. After login, go to 'e-File' → 'Income Tax Returns' → 'File Income Tax Return.'",
- "Step 2 - Select form and regime: Choose Assessment Year (AY 2026-27 for income earned in FY 2025-26). Select ITR form (ITR-1 for most salaried).",
- "Choose tax regime - Old (with deductions like 80C, 80D, HRA) or New (lower rates, no deductions). The portal shows both calculations - pick whichever gives lower tax.",
- "Step 3 - Pre-filled data: The portal auto-fills your data from Form 26AS and AIS - salary from Form 16, TDS on FD interest, mutual fund capital gains, property transactions, and other reported income. VERIFY every pre-filled entry.",
- "If something is wrong (wrong TDS amount, income you don't recognize), cross-check with your Form 16, bank statements, and broker statements before proceeding.",
- "Step 4 - Claim deductions (Old Regime only): Enter investments under Section 80C (PPF, ELSS, LIC premium, home loan principal - up to Rs 1.5 lakh), 80D (health insurance premium - up to Rs 25,000 self + Rs 25,000 parents), 80CCD(1B) (NPS - Rs 50,000 additional), HRA exemption, and other applicable deductions. Upload proof only if asked later - no need during filing.",
- "Step 5 - Verify and submit: The portal computes your tax liability, shows tax already paid (TDS + advance tax), and calculates refund or additional tax due. If you owe additional tax, pay through 'e-Pay Tax' before submitting.",
- "If refund is due, verify your bank account is pre-validated. Click 'Submit' and e-Verify immediately through Aadhaar OTP (takes 30 seconds)."
- ]
- },
- {
- "type": "text",
- "heading": "Common ITR filing mistakes that trigger notices",
- "icon": "⚠️",
- "content": [
- "Mistake 1: Not reporting all income sources. The IT department has data from banks (FD interest), mutual funds (capital gains), employers (salary), and property registrar (property transactions).",
- "If you skip reporting FD interest of Rs 30,000 that your bank already reported to the IT department, the system auto-flags a mismatch and sends a demand notice. Report EVERYTHING shown in your AIS - even small amounts.",
- "Mistake 2: Not e-verifying within 30 days. Filing ITR without e-verification is like writing an exam but not submitting the answer sheet.",
- "The IT department treats unverified ITRs as invalid - no processing, no refund. E-verify through Aadhaar OTP immediately after submission.",
- "Takes 30 seconds. Set a phone reminder if you don't verify the same day.",
- "Mistake 3: Choosing wrong ITR form. Filing ITR-1 when you have capital gains (ITR-2 required) triggers a defective return notice.",
- "The IT department asks you to re-file with the correct form within 15 days. If you don't respond, the original filing is deemed invalid.",
- "Check the form eligibility criteria carefully before starting.",
- "Mistake 4: Not pre-validating bank account. Refunds are sent to pre-validated bank accounts only.",
- "If your bank account isn't pre-validated on the IT portal, your refund sits in limbo. Pre-validate at incometax.gov.in → 'Profile' → 'Pre-validate Bank Account' → enter account number and IFSC → validation takes 24-48 hours.",
- "Do this before filing."
- ]
- },
- {
- "type": "text",
- "heading": "Old regime vs new regime - which saves more tax",
- "icon": "💰",
- "content": [
- "New regime (default from FY 2023-24): Lower tax rates with fewer slabs - 0% up to Rs 3 lakh, 5% for Rs 3-7 lakh, 10% for Rs 7-10 lakh, 15% for Rs 10-12 lakh, 20% for Rs 12-15 lakh, 30% above Rs 15 lakh. Standard deduction Rs 75,000.",
- "Rebate under 87A for income up to Rs 7 lakh (zero tax). NO 80C, 80D, HRA, or other deductions allowed.",
- "Old regime: Higher tax rates - 0% up to Rs 2.5 lakh, 5% for Rs 2.5-5 lakh, 20% for Rs 5-10 lakh, 30% above Rs 10 lakh. But allows ALL deductions - 80C (Rs 1.5 lakh), 80D (Rs 25,000-50,000), 80CCD(1B) (Rs 50,000 NPS), HRA exemption, home loan interest (Rs 2 lakh under Section 24), LTA, and more.",
- "When old regime is better: If you claim Rs 3.5+ lakh in total deductions (80C + 80D + HRA + home loan + NPS), old regime typically saves more tax. This is common for salaried individuals paying EMI on home loan + investing in PPF/ELSS + paying health insurance premiums.",
- "Use our income tax calculator at knowledgekendra.com/calculator/income-tax-calculator to compare both regimes with your exact numbers.",
- "When new regime is better: If your deductions are below Rs 2 lakh (you don't have home loan, limited 80C investments, no HRA), new regime gives lower tax through lower slab rates. Also better for senior citizens who don't have investment-heavy portfolios.",
- "The Rs 7 lakh rebate in new regime means anyone earning up to Rs 7 lakh pays ZERO tax without any investments."
- ]
- },
- {
- "type": "callout",
- "variant": "tip",
- "heading": "File before July 31 - late filing costs Rs 1,000-5,000",
- "content": "ITR filing deadline for salaried individuals is July 31 every year. Late filing (August 1 onwards) attracts penalty: Rs 1,000 if income is below Rs 5 lakh, Rs 5,000 if above. Plus you lose the ability to carry forward capital losses and set off certain deductions. File in the first week of July after your employer issues Form 16 (due date: June 15). Don't wait until the last day - the portal crashes on July 31 every year."
- },
- {
- "type": "svg_block",
- "heading": "Visual: Process Steps",
- "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><defs><marker id=\"af\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><polygon points=\"0 0, 10 3, 0 6\" fill=\"#1E40AF\"/></marker></defs><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Process Steps</text><rect x=\"16\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"71\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Login to incometax</text><line x1=\"126\" y1=\"65\" x2=\"142\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"152\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"207\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Navigate to File I</text><line x1=\"262\" y1=\"65\" x2=\"278\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"288\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"343\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Choose tax regime </text><line x1=\"398\" y1=\"65\" x2=\"414\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"424\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"479\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Review and correct</text><line x1=\"534\" y1=\"65\" x2=\"550\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"560\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"615\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">Enter all deductio</text></svg>",
- "caption": "Steps to follow",
- "description": "Visual guide to the process."
- },
- {
- "type": "callout",
- "variant": "warning",
- "heading": "E-verify within 30 days or your ITR is INVALID",
- "content": "After submitting your ITR, you MUST e-verify within 30 days. Without verification, the IT department does not process your return - no refund, no acknowledgment, no legal validity. E-verify via: Aadhaar OTP (fastest - 30 seconds), net banking (login to your bank, navigate to IT e-filing link), bank ATM (generate EVC at any ATM), or physical signature (send signed ITR-V to CPC Bengaluru by post). Aadhaar OTP is the simplest - do it immediately after filing."
- },
- {
- "type": "pullquote",
- "text": "7.28 crore ITRs were filed in FY 2024-25 - a record. The IT portal pre-fills 80% of your data automatically. For a salaried individual with Form 16 and basic deductions, filing takes 15-30 minutes. The process that once required a CA charging Rs 2,000-5,000 is now completely self-service and free. Your refund arrives in 15-30 days. There's no reason to not file your own ITR."
- },
- {
- "type": "text",
- "heading": "ITR for specific income types - salary, freelance, capital gains",
- "icon": "📊",
- "content": [
- "Salaried with only salary + FD interest (ITR-1): The simplest filing. Form 16 gives you all salary details. Add FD interest from bank statements (verify against Form 26AS). Claim 80C, 80D deductions if old regime. Total filing time: 15 minutes. This covers 70% of all ITR filings in India.",
- "Freelancers and consultants (ITR-3 or ITR-4): If you receive income without TDS deduction (or with 10% TDS under 194J), you may need to pay advance tax quarterly. Report all professional receipts, claim business expenses (internet, phone, office rent, equipment depreciation), and declare net profit.",
- "ITR-4 Sugam is simpler if you opt for 50% presumptive profit on gross receipts under Rs 75 lakh.",
- "Stock market traders (ITR-2 or ITR-3): Short-term capital gains (equity held < 12 months) taxed at 20%. Long-term capital gains above Rs 1.25 lakh (equity held > 12 months) taxed at 12.5%.",
- "Futures and options trading is business income - use ITR-3 with turnover calculation. Download your capital gains statement from Zerodha/Groww/Angel One and upload to the ITR portal.",
- "Rental income (ITR-1 if one property, ITR-2 if multiple): Declare gross annual rent, claim 30% standard deduction (no proof needed), and deduct home loan interest (up to Rs 2 lakh for self-occupied, unlimited for let-out). Net rental income after deductions is added to your total income and taxed at your slab rate."
- ]
- },
- {
- "type": "text",
- "heading": "After filing - what to expect and track",
- "icon": "📈",
- "content": [
- "Processing timeline: After e-verification, CPC Bengaluru processes your ITR within 15-30 days. You receive an intimation under Section 143(1) via email - this shows the IT department's computation of your income, tax, and refund/demand.",
- "Compare the intimation with your filed return - if there's a mismatch, file a rectification request immediately.",
- "Refund tracking: Check at incometax.gov.in → 'View Filed Returns' → select AY → 'Refund Status.' Refunds are credited to your pre-validated bank account via NEFT. If refund shows 'Issued' but not received after 10 days, check with your bank.",
- "If 'Failed,' update bank details and request re-issue through the portal.",
- "Revised return: Made a mistake in your filed ITR? File a revised return at incometax.gov.in → 'File Income Tax Return' → select 'Revised Return' → correct the errors → submit.",
- "Revised return can be filed until December 31 of the assessment year (e.g., December 31, 2026 for AY 2026-27). No penalty for revision - it replaces your original filing completely.",
- "Keep records for 7 years: The IT department can scrutinize returns up to 7 years after filing (10 years in case of foreign assets). Maintain digital copies of: Form 16, investment proofs, bank statements, capital gains statements, rent agreements, and the ITR acknowledgment.",
- "A dedicated Google Drive folder for each financial year takes 5 minutes to organize but saves hours if scrutiny happens."
- ]
- },
- {
- "type": "text",
- "heading": "Free tools and resources for ITR filing",
- "icon": "🔧",
- "content": [
- "Official portal: incometax.gov.in - free for ALL ITR forms. Pre-fills data from 26AS/AIS. The portal has improved dramatically since 2021 - it's genuinely user-friendly now. Tutorial videos are available on the portal's help section.",
- "ClearTax (cleartax.in): Free plan for ITR-1 filing. Paid plans (Rs 499-1,999) for ITR-2, ITR-3 with CA assistance. The interface is more intuitive than the government portal for beginners. Auto-imports data from Form 16 PDF upload.",
- "Tax2Win (tax2win.in): Free ITR-1 filing. Paid plans for complex returns. Offers CA-assisted filing for Rs 799-2,499. Good for people who want professional review of their return before submission.",
- "Our income tax calculator: Use knowledgekendra.com/calculator/income-tax-calculator to compare old vs new regime before filing. Enter your salary, deductions, and other income - the calculator shows exact tax under both regimes so you can choose the one that saves more.",
- "This 2-minute calculation can save Rs 5,000-50,000 in tax depending on your income level."
- ]
- },
- {
- "type": "callout",
- "heading": "Official Sources & References",
- "icon": "📖",
- "variant": "info",
- "content": "Source: Income Tax Department, Government of India (incometax.gov.in). All information on this page has been verified against official government notifications and regulatory circulars. For the latest updates, always check the official portal."
- },
- {
- "type": "svg_block",
- "heading": "ITR Form Selection Guide",
- "icon": "📋",
- "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">Which ITR Form Do You Need</text><rect x=\"20\" y=\"50\" width=\"155\" height=\"50\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">ITR-1 Sahaj</text><text x=\"97\" y=\"88\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"8\" fill=\"#145236\">Salaried income 50L</text><rect x=\"185\" y=\"50\" width=\"155\" height=\"50\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"262\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">ITR-2</text><text x=\"262\" y=\"88\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"8\" fill=\"#1E40AF\">Capital gains or for</text><rect x=\"350\" y=\"50\" width=\"155\" height=\"50\" rx=\"8\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"427\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#92400E\">ITR-3</text><text x=\"427\" y=\"88\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"8\" fill=\"#92400E\">Business or professi</text><rect x=\"515\" y=\"50\" width=\"160\" height=\"50\" rx=\"8\" fill=\"#F3E8FF\" stroke=\"#7C3AED\" stroke-width=\"2\"/><text x=\"595\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#5B21B6\">ITR-4 Sugam</text><text x=\"595\" y=\"88\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"8\" fill=\"#5B21B6\">Presumptive income 4</text></svg>",
- "caption": "Most salaried employees only need ITR-1 which is the simplest form to fill",
- "description": "Using the wrong ITR form leads to defective return notice from the IT department."
- }
- ],
- "faqs": [
- {
- "question": "I earned less than ₹3 lakh this year. Do I need to file ITR?",
- "answer": "Legally, no - if your gross income is below the basic exemption limit (₹3L for both regimes), filing is not mandatory. However, it's highly recommended because: (1) If TDS was deducted on your income, you can claim refund by filing ITR. (2) ITR serves as income proof for loans and visa. (3) You can carry forward losses (if any) to offset against future income. Filing a 'Nil return' with zero income is free and takes 10 minutes - just do it."
- },
- {
- "question": "What if I miss the July 31 deadline?",
- "answer": "You can still file a 'belated return' until December 31 of the assessment year (December 31, 2026 for FY 2025-26). Penalty: ₹5,000 (₹1,000 if income < ₹5L). Additionally: (1) You lose the right to carry forward certain losses. (2) Refund may take longer (3-6 months vs usual 15-45 days). (3) The government can impose interest if there's underpayment of tax. File on time to avoid all these complications."
- },
- {
- "question": "I received a notice from the IT department. What do I do?",
- "answer": "Don't panic - most notices are auto-generated under Section 143(1) for minor mismatches (unreported bank interest, TDS differences, Form 26AS discrepancy). Login to the e-filing portal → 'Response to Outstanding Demand' → view the notice → respond within the given time. For simple mismatches, you can agree or disagree online. For complex notices (scrutiny under Section 143(2) with detailed inquiry), consult a CA. Respond within time limit to avoid penalty."
- },
- {
- "question": "Can I file ITR myself or do I need a CA?",
- "answer": "For ITR-1 (salaried employees with income ≤₹50L, simple income sources), filing yourself is very easy - the portal auto-fills most data and has step-by-step guidance. For ITR-2 (capital gains), ITR-3/4 (business income), or complex situations (foreign income, multiple properties, losses), hiring a CA is recommended. CA fees range from ₹500-2,000 for ITR-1 and ₹2,000-5,000+ for complex returns. In metro cities, CAs charge higher fees."
- },
- {
- "question": "How long does tax refund take after filing ITR?",
- "answer": "If you e-verify immediately after filing and your bank account is pre-validated on the portal: Refunds are typically processed within 15-45 days. Money is credited directly to your bank account linked with PAN. If it's been more than 60 days, check status at incometax.gov.in → 'View Refund/Demand Status'. If still pending, contact the assessing officer. Delays usually happen if: (1) Bank account details are wrong or not pre-validated, (2) Name mismatch between ITR and bank account, (3) High volume at the IT office."
- },
- {
- "question": "What is the ITR filing deadline?",
- "answer": "July 31 of the assessment year for salaried individuals (e.g., July 31, 2026 for income earned in FY 2025-26). For businesses requiring audit: October 31. Late filing attracts penalty of Rs 1,000-5,000 under Section 234F. Belated returns can be filed until December 31, but with penalty and loss of certain benefits."
- },
- {
- "question": "Can I file ITR without Form 16?",
- "answer": "Yes - Form 16 is not mandatory for filing. You can file using your salary slips, bank statements, and Form 26AS/AIS data (which shows all TDS deductions). However, Form 16 makes filing easier because it consolidates your salary, TDS, and employer-provided deduction details in one document. Ask your employer for Form 16 by June 15."
- },
- {
- "question": "How to file ITR for free?",
- "answer": "The incometax.gov.in portal is completely free - no charges for filing any ITR form. You don't need a CA or tax consultant for simple returns (ITR-1, ITR-2). Third-party apps like ClearTax and Tax2Win offer free filing for ITR-1 (their basic plan). For complex returns (ITR-3 with business income), a CA may be worth Rs 1,500-3,000 - but the portal itself is always free."
- },
- {
- "question": "What documents do I need to file ITR?",
- "answer": "Form 16 (from employer), Form 26AS/AIS (auto-available on IT portal), bank statements (for interest income verification), investment proofs under 80C (PPF, ELSS, LIC receipts), health insurance premium receipts (80D), home loan interest certificate (Section 24), rent receipts (for HRA), and Aadhaar + PAN (for login and e-verification)."
- }
- ],
- "disclaimer": "This content is for educational purposes only. Consult a qualified financial advisor before making investment decisions.",
- "related_pages": [
- {
- "title": "Section 80C Guide",
- "slug": "section-80c-guide",
- "tag": "Tax",
- "url": "/paisa/section-80c-guide"
- },
- {
- "title": "What is ELSS?",
- "slug": "what-is-elss",
- "tag": "Tax",
- "url": "/paisa/what-is-elss"
- },
- {
- "title": "National Pension System (NPS)",
- "slug": "national-pension-scheme",
- "tag": "Tax",
- "url": "/yojana/national-pension-scheme"
- },
- {
- "title": "EPF Withdrawal Guide",
- "slug": "epf-withdrawal",
- "tag": "Employment",
- "url": "/paisa/epf-withdrawal"
- },
- {
- "title": "Health Insurance Guide",
- "slug": "health-insurance-guide",
- "tag": "Insurance",
- "url": "/paisa/health-insurance-guide"
- }
- ],
- "tags": [
- "Income Tax",
- "ITR",
- "Tax Filing",
- "80C",
- "e-Filing",
- "Tax Return",
- "Refund"
- ],
- "last_reviewed": "May 2026"
+  "slug": "how-to-file-itr",
+  "title": "How to File ITR 2026: Forms, Last Date, Refund & 143(1)",
+  "meta_description": "How to file ITR for AY 2026-27: last dates (July 31 / Aug 31), which ITR form to pick, e-verify, refund status, 143(1) intimation and belated return.",
+  "hero": {
+    "one_liner": "Complete step-by-step guide to filing your Income Tax Return online on the e-filing portal - with form selection, deductions, and deadline reminders",
+    "icon": "📄",
+    "updated_date": "May 2026",
+    "stats": [
+      {
+        "label": "Deadline",
+        "value": "July 31, 2026"
+      },
+      {
+        "label": "Portal",
+        "value": "incometax.gov.in"
+      },
+      {
+        "label": "Free Filing",
+        "value": "Yes (direct on portal)"
+      },
+      {
+        "label": "Late Filing Penalty",
+        "value": "₹5,000 (reduced to ₹1,000 if income <₹5L)"
+      }
+    ],
+    "tags": [
+      "Tax",
+      "Income Tax",
+      "ITR",
+      "Filing"
+    ],
+    "read_time": "10 min"
+  },
+  "sections": [
+    {
+      "type": "stat_grid",
+      "heading": "ITR Filing Key Dates 2026",
+      "icon": "📊",
+      "items": [
+        {
+          "icon": "calendar",
+          "value": "31 Jul",
+          "label": "ITR-1/2 due (no audit)",
+          "color": "green"
+        },
+        {
+          "icon": "calendar",
+          "value": "31 Aug",
+          "label": "ITR-3/4 non-audit",
+          "color": "blue"
+        },
+        {
+          "icon": "alert",
+          "value": "₹5,000",
+          "label": "Max late penalty",
+          "color": "amber"
+        },
+        {
+          "icon": "check",
+          "value": "30 days",
+          "label": "E-verify window",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "icon": "📄",
+      "heading": "What ITR Filing Means and Who Must File",
+      "content": [
+        "An income tax return, or ITR, is how you declare your year's income, deductions and tax paid to the government. You file it online on the official portal.",
+        "You must file if your total income crosses the basic exemption limit for your regime. Filing is also required in some cases even below that, such as high spending or foreign assets.",
+        "Even when not strictly required, filing is worth it. An ITR is solid proof of income for loans, visas and credit cards, and it is needed to claim a refund.",
+        "If your employer cut more TDS than your actual tax, only filing gets that money back. The government does not refund excess tax on its own.",
+        "The financial year and assessment year confuse many people. You earn income in a financial year, then file for it in the next year, called the assessment year.",
+        "So income from April 2025 to March 2026 is FY 2025-26, and you file it in AY 2026-27. Always pick the assessment year, not the financial year, on the portal.",
+        "Filing builds a financial track record over the years. Lenders and embassies often ask for two or three years of returns, so consistent filing helps later.",
+        "If this is your first time, do not be intimidated. A simple salaried return on the official portal is far easier than it looks once your documents are ready."
+      ]
+    },
+    {
+      "type": "eligibility_check",
+      "heading": "Do You Need to File?",
+      "icon": "✅",
+      "qualify": [
+        "Your income is above the basic exemption limit",
+        "You want to claim a refund of excess TDS",
+        "You have capital gains, even if small",
+        "You hold foreign assets or foreign income",
+        "You need ITR proof for a loan or visa"
+      ],
+      "disqualify": [
+        "Income clearly below the exemption limit",
+        "No refund to claim and no other trigger",
+        "No capital gains or foreign assets",
+        "Already covered fully by employer TDS and below limit",
+        "But filing anyway is still allowed and often useful"
+      ]
+    },
+    {
+      "type": "text",
+      "icon": "📋",
+      "heading": "Which ITR Form Should You Use",
+      "content": [
+        "Picking the right form matters, because the wrong one can make your return defective. The form depends on your income type, not your job title.",
+        "ITR-1 (Sahaj) is for most salaried people with income up to ₹50 lakh from salary, one house and interest. It is the simplest form.",
+        "ITR-2 is for those with capital gains, more than one house, or foreign income, but no business income. ITR-3 is for business or professional income.",
+        "ITR-4 (Sugam) is for small business or professional income under the presumptive scheme. If unsure, the portal often suggests the right form based on your data.",
+        "Income from salary, one house and bank interest is the simplest case, and ITR-1 handles it. The moment you add capital gains, ITR-1 no longer fits.",
+        "Freelancers and consultants usually fall under business or professional income, so ITR-3 or ITR-4 applies to them. Filing ITR-1 by mistake here causes problems.",
+        "When you genuinely cannot decide, the portal's guided filing asks a few questions and points you to the right form. It is a safe fallback.",
+        "Getting the form right the first time saves a lot of trouble. A wrong form can make the whole return defective, forcing you to file again."
+      ]
+    },
+    {
+      "type": "comparison_card",
+      "heading": "Quick ITR Form Picker",
+      "icon": "🗂️",
+      "win": {
+        "name": "ITR-1 (Sahaj)",
+        "amount": "Salary ≤ ₹50L",
+        "sub": "Most salaried people"
+      },
+      "others": [
+        {
+          "name": "ITR-2",
+          "amount": "Capital gains",
+          "sub": "No business income"
+        },
+        {
+          "name": "ITR-3",
+          "amount": "Business income",
+          "sub": "Professionals, traders"
+        },
+        {
+          "name": "ITR-4 (Sugam)",
+          "amount": "Presumptive",
+          "sub": "Small business/profession"
+        }
+      ]
+    },
+    {
+      "type": "process_flow",
+      "heading": "How to File ITR Online",
+      "icon": "🧭",
+      "steps": [
+        {
+          "icon": "file",
+          "title": "Gather Docs",
+          "desc": "Form 16, AIS, 26AS"
+        },
+        {
+          "icon": "shield",
+          "title": "Login",
+          "desc": "incometax.gov.in"
+        },
+        {
+          "icon": "check",
+          "title": "Fill & Check",
+          "desc": "Pick form, verify data"
+        },
+        {
+          "icon": "trophy",
+          "title": "Submit & e-Verify",
+          "desc": "Within 30 days"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "icon": "🔢",
+      "heading": "The Filing Steps in Detail",
+      "content": [
+        "Start by gathering Form 16 from your employer, your AIS and Form 26AS from the portal, plus bank and investment proofs. These hold most of your numbers.",
+        "Log in at incometax.gov.in with your PAN and password. Select the assessment year, currently AY 2026-27 for income earned in FY 2025-26.",
+        "Choose the correct ITR form and let the portal pre-fill your salary and TDS. Cross-check every figure against your own documents before accepting.",
+        "Claim your eligible deductions, review the tax summary, then submit. The return is not done until you e-verify it, which is the step people forget.",
+        "The AIS, or Annual Information Statement, is your friend here. It lists income the department already knows about, from salary to interest to large transactions.",
+        "Reconcile your return with the AIS before you submit. If your figures do not match what the department has, that mismatch is the top cause of a notice.",
+        "Save a draft as you go. The portal lets you return later, so you do not lose work if you need to fetch a missing document mid-way.",
+        "Use the pre-fill, but never trust it blindly. The portal pulls a lot automatically, yet you are responsible for the final numbers, so verify each one."
+      ]
+    },
+    {
+      "type": "text",
+      "icon": "📑",
+      "heading": "Documents You Need to File",
+      "content": [
+        "You do not need a thick file, but a few documents make filing smooth. Most numbers come from just three or four sources.",
+        "Form 16 from your employer summarises your salary and the TDS deducted. It is the backbone of a salaried return.",
+        "Your AIS and Form 26AS, downloaded from the portal, show all income and tax credits the department has on record. Bank interest certificates fill the rest.",
+        "Keep your investment proofs for deductions, like 80C receipts and insurance premiums, especially if you use the old regime. PAN and a validated bank account complete the set.",
+        "Download the AIS and 26AS fresh each year before filing. They update through the year as employers and banks report, so an old copy may be incomplete."
+      ]
+    },
+    {
+      "type": "stat_grid",
+      "heading": "Filing Essentials",
+      "icon": "📊",
+      "items": [
+        {
+          "icon": "file",
+          "value": "Form 16",
+          "label": "Salary + TDS summary",
+          "color": "green"
+        },
+        {
+          "icon": "shield",
+          "value": "AIS",
+          "label": "All income on record",
+          "color": "blue"
+        },
+        {
+          "icon": "check",
+          "value": "26AS",
+          "label": "Tax credit statement",
+          "color": "amber"
+        },
+        {
+          "icon": "wallet",
+          "value": "PAN",
+          "label": "Linked, validated bank",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "icon": "💼",
+      "heading": "Filing for Salary, Freelance and Other Income",
+      "content": [
+        "A salaried person with only salary, one house and interest has the easiest return, usually ITR-1. Form 16 does most of the work.",
+        "A freelancer or consultant reports professional income, often under the presumptive scheme in ITR-4, which lets you declare a fixed percentage as profit.",
+        "If you trade in stocks or sell property, capital gains push you into ITR-2 or ITR-3. These need your broker statements and purchase records.",
+        "Many people have a mix, like salary plus some freelance work. In that case the business income decides the form, so you move up from ITR-1.",
+        "Whatever your income mix, report all of it. Leaving out a small freelance payment or interest income is exactly what the AIS catches and flags.",
+        "Pensioners file much like salaried people, usually ITR-1, using the pension and any interest income. The process is the same straightforward route.",
+        "Keep records through the year, not just at filing time. A simple folder of payslips, interest certificates and proofs turns a stressful July into a quick task."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "warning",
+      "icon": "alert",
+      "title": "E-verify within 30 days or it does not count",
+      "content": "Submitting the ITR is only half the job. If you do not e-verify within 30 days, your return is treated as never filed.<br><br>The fastest way is an Aadhaar OTP. You can also verify through net banking or by sending a signed ITR-V to CPC Bengaluru, but the OTP takes seconds."
+    },
+    {
+      "type": "text",
+      "icon": "⚖️",
+      "heading": "Old Regime vs New Regime",
+      "content": [
+        "At filing you choose between the old and new tax regimes. The new regime is now the default if you do nothing.",
+        "The old regime lets you claim deductions like 80C, 80D and home loan interest, but has higher slab rates. It suits people with big deductions.",
+        "The new regime has lower slab rates but removes most deductions. It often suits those who do not invest heavily in tax-saving instruments.",
+        "Run both before deciding. Our <a href=\"/paisa/section-80c-guide\" class=\"text-accent underline\">Section 80C guide</a> and a tax calculator help you compare, since the better choice depends entirely on your deductions.",
+        "There is no permanently right answer. A person with a home loan and heavy 80C investments often saves more in the old regime.",
+        "Someone who does not invest much for tax saving usually pays less under the new regime's lower rates. The only way to be sure is to compute both.",
+        "Once you file, your regime choice for that year is largely locked. So compare carefully before submitting, rather than discovering a better option afterwards."
+      ]
+    },
+    {
+      "type": "comparison_table",
+      "heading": "Old vs New Regime at a Glance",
+      "icon": "📈",
+      "columns": [
+        "Feature",
+        "Old Regime",
+        "New Regime"
+      ],
+      "rows": [
+        [
+          "Slab rates",
+          "Higher",
+          "Lower"
+        ],
+        [
+          "80C, 80D deductions",
+          "Allowed",
+          "Mostly removed"
+        ],
+        [
+          "Home loan interest (self-occupied)",
+          "Allowed",
+          "Not allowed"
+        ],
+        [
+          "Default",
+          "No",
+          "Yes (auto)"
+        ],
+        [
+          "Best for",
+          "High deductions",
+          "Few deductions"
+        ]
+      ],
+      "footnote": "If you miss the filing deadline and file belated, you cannot choose the old regime. The new regime applies automatically."
+    },
+    {
+      "type": "text",
+      "icon": "📅",
+      "heading": "ITR Last Date for AY 2026-27",
+      "content": [
+        "For FY 2025-26 (AY 2026-27), the deadline is no longer a single date for everyone. It now depends on which form you file.",
+        "Salaried filers using ITR-1 or ITR-2, with no audit, must file by 31 July 2026. This covers most ordinary taxpayers.",
+        "Business and professional income on ITR-3 or ITR-4, where no audit is needed, gets until 31 August 2026. Audit cases get 31 October 2026.",
+        "If you miss your date, you can still file a belated return up to 31 December 2026, with a late fee and interest. Last year's extension was a one-off, so plan for your date.",
+        "Filing opens around the start of the financial year, but most people wait until July. Filing early avoids the last-week portal rush and gets your refund sooner.",
+        "Do not bank on a deadline extension. Last year saw one because forms came late, but that is not guaranteed, so treat your date as firm.",
+        "Mark your specific date based on your form. A salaried person and a small business owner now have different deadlines, so know which one is yours.",
+        "Set a personal reminder a week before your date. That buffer gives you room to fix a missing document without missing the deadline itself."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "info",
+      "icon": "info",
+      "title": "What late filing costs",
+      "content": "Miss the deadline and a late fee under Section 234F applies: up to ₹5,000, but capped at ₹1,000 if your total income is under ₹5 lakh.<br><br>On top of that, interest of 1 percent a month runs on any unpaid tax. You also lose the right to carry forward certain losses, and you cannot pick the old regime."
+    },
+    {
+      "type": "text",
+      "icon": "💸",
+      "heading": "Your Refund and How to Track It",
+      "content": [
+        "If you paid more tax than you owed, the extra comes back as a refund after your return is processed. It is credited to your pre-validated bank account.",
+        "Refunds usually arrive within a few weeks of e-verification, often in 30 to 45 days, once the department processes the return. Filing early means an earlier refund.",
+        "Track it on incometax.gov.in under your filing history, or on the NSDL refund status page using your PAN and assessment year. The status shows each stage.",
+        "If a refund is delayed, check that your bank account is pre-validated and your return is e-verified. Both are common reasons a refund gets stuck.",
+        "Pre-validate your bank account on the portal before filing. A refund can only be credited to a validated account linked to your PAN.",
+        "If the refund fails, it is usually a bank detail issue. Fix the account, raise a refund reissue request on the portal, and it is sent again.",
+        "Do not fall for messages promising to speed up your refund for a fee. The department never charges for refunds, and such messages are scams.",
+        "Patience helps after filing. Refunds depend on the department's processing queue, which is busiest right after the deadline, so early filers are served sooner in the queue."
+      ]
+    },
+    {
+      "type": "process_flow",
+      "heading": "What Happens After You File",
+      "icon": "📨",
+      "steps": [
+        {
+          "icon": "check",
+          "title": "e-Verified",
+          "desc": "Return accepted"
+        },
+        {
+          "icon": "file",
+          "title": "Processed",
+          "desc": "CPC checks your data"
+        },
+        {
+          "icon": "shield",
+          "title": "143(1) Intimation",
+          "desc": "Result emailed to you"
+        },
+        {
+          "icon": "wallet",
+          "title": "Refund/Demand",
+          "desc": "Money back or tax due"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "icon": "📬",
+      "heading": "Understanding the 143(1) Intimation",
+      "content": [
+        "After processing, you get an intimation under Section 143(1) by email. This is normal and is not a scary notice by itself.",
+        "It simply compares your figures with the department's calculation. It shows one of three results: a refund due, no difference, or extra tax demanded.",
+        "If it matches your return with no demand, you do nothing. If it shows a refund, that is on its way to your bank.",
+        "If it shows a demand or a mismatch you disagree with, respond on the portal within the time given. The intimation is password protected, opened with your PAN and date of birth.",
+        "Keep this intimation safe. It is your official record that the return was processed and shows the final accepted figures.",
+        "If you genuinely disagree with a demand in it, you can file a rectification request online. Do not ignore a real demand, as interest keeps adding up.",
+        "Most intimations are simple confirmations. Treat the email calmly, open it with your password, and read the comparison table before assuming anything is wrong.",
+        "If the intimation shows a refund smaller than you expected, the comparison table tells you why. Read which figure the department adjusted before you react.",
+        "In short, the 143(1) intimation is part of normal processing, not a reason to worry. Read it, keep it, and act only if it shows a genuine demand."
+      ]
+    },
+    {
+      "type": "text",
+      "icon": "🚫",
+      "heading": "Common Mistakes That Trigger Notices",
+      "content": [
+        "The most common error is a mismatch between your return and your AIS or Form 26AS. The department now flags these automatically, so reconcile them first.",
+        "Picking the wrong ITR form is another. A salaried person with capital gains who files ITR-1 instead of ITR-2 can get a defective return notice.",
+        "Forgetting to report interest income, or income from a previous job, is a frequent trigger. The AIS captures these, so leaving them out invites a mismatch.",
+        "And of course, not e-verifying. An unverified return is invalid, so all the effort is wasted if you skip that final step.",
+        "Another quiet mistake is using the wrong assessment year. Filing under the previous year by accident creates confusion and may need a fresh filing.",
+        "Claiming deductions you cannot prove is risky too. Only claim what you have documents for, since the department can ask for proof later.",
+        "Double-check your bank and personal details before submitting. A wrong account number or IFSC quietly blocks your refund even when the return is perfect.",
+        "Filing in a last-minute rush is itself a mistake. Errors creep in under time pressure, and a jammed portal near the deadline adds avoidable stress."
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "Return Types Cheat Sheet",
+      "icon": "🗂️",
+      "items": [
+        {
+          "icon": "calendar",
+          "title": "Belated",
+          "sub": "After due date, with late fee"
+        },
+        {
+          "icon": "check",
+          "title": "Revised",
+          "sub": "Fix an already-filed return"
+        },
+        {
+          "icon": "x",
+          "title": "Discarded",
+          "sub": "Delete an unverified return"
+        },
+        {
+          "icon": "file",
+          "title": "ITR-U",
+          "sub": "Update older years, extra tax"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "icon": "🔄",
+      "heading": "Belated, Revised and Discarded Returns",
+      "content": [
+        "If you miss the due date, a belated return lets you still file, up to 31 December 2026, with a late fee. It is better than not filing at all.",
+        "If you filed but spotted an error, a revised return corrects it. You can revise before the end of the assessment year, replacing the original.",
+        "There is also a discard option, which lets you delete an unverified return entirely and start fresh, as long as you had not e-verified it.",
+        "An updated return, or ITR-U, is a separate route to fix or declare income for older years, within the allowed window, usually with extra tax.",
+        "A belated return has real costs beyond the fee. You cannot carry forward most losses, and you lose the old regime option, so the early date is worth meeting.",
+        "If you are unsure whether to revise, remember a revised return fully replaces the original. File it carefully, because it becomes your return of record.",
+        "The discard option is genuinely useful if you realise, before verifying, that you filed wrongly. It is cleaner than revising a return you never confirmed, as your final return of record."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "icon": "sparkles",
+      "title": "Can you file ITR for free?",
+      "content": "Yes. Filing ITR-1 or ITR-4 yourself on the official incometax.gov.in portal is completely free, and for a simple salary return it is quite doable.<br><br>A CA or filing service charges a fee, usually for complex returns with capital gains or business income. For a basic salaried return, the free portal route is enough."
+    },
+    {
+      "type": "pullquote",
+      "text": "Filing ITR is not just a duty. It is how you reclaim excess tax, build a financial record for loans and visas, and stay clear of penalties and notices."
+    },
+    {
+      "type": "info_rows",
+      "heading": "Quick Facts",
+      "icon": "📄",
+      "rows": [
+        {
+          "label": "Portal",
+          "value": "incometax.gov.in (official, free)"
+        },
+        {
+          "label": "Salaried due date",
+          "value": "31 July 2026 (ITR-1/2)"
+        },
+        {
+          "label": "Belated return",
+          "value": "Up to 31 December 2026"
+        },
+        {
+          "label": "E-verify window",
+          "value": "30 days after filing"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the ITR filing last date for AY 2026-27?",
+      "answer": "For salaried filers using ITR-1 or ITR-2 with no audit, the last date is 31 July 2026.<br><br>For non-audit business or professional income on ITR-3 or ITR-4, it is 31 August 2026. Audit cases get 31 October 2026."
+    },
+    {
+      "question": "Which ITR form should I file?",
+      "answer": "Most salaried people with income up to ₹50 lakh use ITR-1. If you have capital gains or more than one house, use ITR-2.<br><br>Business or professional income uses ITR-3, and small presumptive business or profession uses ITR-4."
+    },
+    {
+      "question": "What does ITR intimation under 143(1) mean?",
+      "answer": "It is the result of the department processing your return, sent by email. It compares your figures with theirs and shows a refund, no change, or a demand.<br><br>It is routine and password protected, opened with your PAN and date of birth. Respond on the portal only if it shows a demand you dispute."
+    },
+    {
+      "question": "What if I miss the July 31 deadline?",
+      "answer": "You can file a belated return up to 31 December 2026, with a late fee of up to ₹5,000 (₹1,000 if income is under ₹5 lakh) and 1 percent monthly interest on unpaid tax.<br><br>You also lose the option to choose the old regime, as the new regime applies automatically to late filers."
+    },
+    {
+      "question": "How long does an ITR refund take?",
+      "answer": "Refunds usually arrive within a few weeks of e-verification, often 30 to 45 days, once the return is processed.<br><br>Track it on incometax.gov.in or the NSDL refund status page with your PAN. A delayed refund is often due to an unvalidated bank account."
+    },
+    {
+      "question": "Do I need to file ITR if my income is below the limit?",
+      "answer": "Not always, but it is often worth it. Filing is required if your income crosses the exemption limit or in certain high-spend or foreign-asset cases.<br><br>Even below the limit, filing gives you refund claims and valid income proof for loans and visas."
+    },
+    {
+      "question": "Can I file ITR for free?",
+      "answer": "Yes. Filing ITR-1 or ITR-4 yourself on the official incometax.gov.in portal is completely free.<br><br>A CA or filing service charges a fee, mainly useful for complex returns with capital gains or business income."
+    },
+    {
+      "question": "What is a belated, revised, or discarded return?",
+      "answer": "A belated return is filed after the due date with a late fee. A revised return corrects an error in a return you already filed.<br><br>A discard option deletes an unverified return so you can start fresh, available only before you e-verify."
+    },
+    {
+      "question": "Can I file ITR without Form 16?",
+      "answer": "Yes. Form 16 makes it easier, but you can file using your salary slips, AIS and Form 26AS, which show your income and TDS.<br><br>Cross-check those figures carefully, since the return must match the data the department already holds."
+    }
+  ],
+  "disclaimer": "This content is for educational purposes only. Consult a qualified financial advisor before making investment decisions.",
+  "related_pages": [
+    {
+      "title": "Section 80C Guide",
+      "slug": "section-80c-guide",
+      "tag": "Tax",
+      "url": "/paisa/section-80c-guide"
+    },
+    {
+      "title": "Section 80D Guide",
+      "slug": "section-80d-guide",
+      "tag": "Tax",
+      "url": "/paisa/section-80d-guide"
+    },
+    {
+      "title": "HRA Exemption Guide",
+      "slug": "hra-exemption-guide",
+      "tag": "Tax",
+      "url": "/paisa/hra-exemption-guide"
+    }
+  ],
+  "tags": [
+    "Income Tax",
+    "ITR",
+    "Tax Filing",
+    "80C",
+    "e-Filing",
+    "Tax Return",
+    "Refund"
+  ],
+  "last_reviewed": "June 2026"
 }
