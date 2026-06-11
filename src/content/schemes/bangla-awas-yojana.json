@@ -121,7 +121,8 @@
           "label": "Eligible / Ineligible / Inactive",
           "color": "green"
         }
-      ]
+      ],
+      "icon": "📊"
     },
     {
       "type": "text",
@@ -133,7 +134,8 @@
         "So treat the two names as one. The page below uses Bangla Awas Yojana and Banglar Bari interchangeably, because on the ground they are the same list.",
         "If a neighbour found their name but you did not, it is often because the lists are split by block and panchayat. Make sure you opened the PDF for your own area, not a nearby one.",
         "If you have paperwork from when you applied, keep it together in one place. The application or registration number on it is the fastest way to find your row in any list."
-      ]
+      ],
+      "icon": "ℹ️"
     },
     {
       "type": "comparison_card",
@@ -159,7 +161,8 @@
           "amount": "SECC + Awaas+",
           "sub": "Gram Sabha approved"
         }
-      ]
+      ],
+      "icon": "⚖️"
     },
     {
       "type": "text",
@@ -172,7 +175,8 @@
         "Keep your application or registration number ready before you start. It makes finding your row in a long PDF far quicker than scanning by name alone.",
         "If you cannot find your district site, search the district name with the words rural housing notice. The official .gov.in or .nic.in result is the one to trust.",
         "Do the check on a phone or at a Common Service Centre if you do not have a computer. The district PDFs open fine on a mobile browser, which is how most families check."
-      ]
+      ],
+      "icon": "🔍"
     },
     {
       "type": "process_flow",
@@ -198,7 +202,8 @@
           "title": "Eligible List",
           "desc": "Search your name"
         }
-      ]
+      ],
+      "icon": "🧭"
     },
     {
       "type": "text",
@@ -211,7 +216,8 @@
         "Save the PDF for your block once you find it. New provisional lists replace old ones, so keeping your own copy with the date helps if you need to prove your status later.",
         "If you cannot navigate the district website, a local Common Service Centre or the panchayat office can pull up the same list for you. They have the direct links to each block's PDF.",
         "If your district recently held a fresh survey, expect a new provisional list to follow. Check back every few weeks rather than assuming the first list is final."
-      ]
+      ],
+      "icon": "📍"
     },
     {
       "type": "eligibility_check",
@@ -229,7 +235,8 @@
         "A family member is a government employee",
         "Family pays income tax or professional tax",
         "Income above the scheme threshold or large landholding"
-      ]
+      ],
+      "icon": "✅"
     },
     {
       "type": "text",
@@ -243,7 +250,8 @@
         "Make sure the bank account is active and Aadhaar-seeded before the first installment is due. A dormant or unseeded account is the top reason an approved name slips into the Inactive list.",
         "The hill and difficult-area rate of Rs 1.3 lakh covers the higher cost of building in remote terrain. Your area type is decided by official classification, not by request.",
         "The money is never given as cash in hand. It always moves through the banking system to your own account, which is why correct bank details matter so much."
-      ]
+      ],
+      "icon": "💰"
     },
     {
       "type": "stat_grid",
@@ -273,7 +281,8 @@
           "label": "Photo check each stage",
           "color": "green"
         }
-      ]
+      ],
+      "icon": "📊"
     },
     {
       "type": "text",
@@ -285,7 +294,8 @@
         "Where available, the house can be linked to electricity, a cooking gas connection and piped water under other schemes. Ask your Gram Panchayat which of these your house qualifies for.",
         "Treat these linked benefits as part of the same effort to give you a liveable home. It is worth asking about every one of them rather than settling for just the building grant.",
         "Families sometimes miss these linked benefits simply because no one told them to ask. Treat the house, toilet, wages and utility connections as one package and claim each part."
-      ]
+      ],
+      "icon": "🏠"
     },
     {
       "type": "text",
@@ -297,7 +307,8 @@
         "For a stuck payment, your Gram Panchayat or block office can see your record in the system and tell you the exact reason. Carry your bank passbook and Aadhaar when you go.",
         "Do not pay anyone who promises to release your installment for a fee. The money is transferred directly by the government, and no agent or middleman is needed at any stage.",
         "If an installment is delayed for months with no clear reason, escalate beyond the panchayat to the Block Development Office. They can see the exact status flag on your record and tell you what is blocking it."
-      ]
+      ],
+      "icon": "💳"
     },
     {
       "type": "modern_callout",
@@ -316,7 +327,8 @@
         "The income and exclusion rules were also relaxed in this round, so some families who were earlier rejected may now qualify. If you were left out before, it is worth checking your status again under the new survey.",
         "Keep your Aadhaar, bank details and a photo of your current house ready for the survey. A complete entry is far less likely to be sent back for correction.",
         "Being added to the survey does not guarantee a house immediately. Your name still goes through Gram Sabha verification and the appellate process before it reaches an Eligible list."
-      ]
+      ],
+      "icon": "📋"
     },
     {
       "type": "text",
@@ -328,7 +340,8 @@
         "Owning a large landholding, a Kisan Credit Card above a set limit, or a refrigerator or landline in some criteria can also exclude a family. These rules aim to direct help only to the genuinely poor.",
         "If you believe an exclusion was applied to you wrongly, for example a vehicle you no longer own, you can contest it with documents at the block office. Wrong codes do get corrected on proof.",
         "These rules are applied from survey and verification data, so a single wrong entry, like an old vehicle you have sold, can wrongly exclude you. That is exactly the kind of error a grievance can fix."
-      ]
+      ],
+      "icon": "🚫"
     },
     {
       "type": "modern_callout",
@@ -350,7 +363,8 @@
         "Keep your grievance reference number safe. It is what lets you follow up and prove you raised the issue if the matter drags on.",
         "Persistence usually pays here. Many families who were initially left out did get added after following up through the survey and grievance routes with the right documents.",
         "Always get an acknowledgement for any grievance you file. That receipt is your proof and your reference for every single follow-up you make afterwards."
-      ]
+      ],
+      "icon": "📝"
     },
     {
       "type": "pullquote",
@@ -380,7 +394,8 @@
           "title": "Land proof",
           "sub": "If you own the plot"
         }
-      ]
+      ],
+      "icon": "📄"
     }
   ],
   "how_to_apply": [
