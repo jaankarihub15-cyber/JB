@@ -1,675 +1,723 @@
 {
- "slug": "demat-account-guide",
- "title": "Demat Account 2026: Open Online, Charges & Best Brokers",
- "meta_description": "Complete demat account guide: how to open in 15 mins, charges explained, top 10 brokers compared, BSDA for low investors, NSDL vs CDSL, taxes & FAQs.",
- "tags": [
-  "Demat Account",
-  "Stock Investing",
-  "Broker Comparison",
-  "NSDL CDSL"
- ],
- "hero": {
-  "status": "active",
-  "one_liner": "Everything about opening and using a demat account in India - online process, charges breakdown, broker comparison, BSDA accounts for small investors, and answers to 25+ common questions.",
-  "icon": "📊",
-  "updated_date": "May 2026",
-  "stats": [
-   {
-    "label": "Opening Fee",
-    "value": "₹0 (Most Brokers)"
-   },
-   {
-    "label": "AMC",
-    "value": "₹0-300/Year"
-   },
-   {
-    "label": "Setup Time",
-    "value": "15 Minutes"
-   },
-   {
-    "label": "Documents",
-    "value": "PAN + Aadhaar"
-   }
-  ]
- },
- "quick_actions": [
-  {
-   "icon": "📝",
-   "label": "Compare Brokers",
-   "url": "#broker-comparison"
+  "slug": "demat-account-guide",
+  "title": "Demat Account 2026: Open Online, Charges & Best Brokers",
+  "meta_description": "Complete demat account guide: how to open in 15 mins, charges explained, top 10 brokers compared, BSDA for low investors, NSDL vs CDSL, taxes & FAQs.",
+  "tags": [
+    "Demat Account",
+    "Stock Investing",
+    "Broker Comparison",
+    "NSDL CDSL"
+  ],
+  "hero": {
+    "status": "active",
+    "one_liner": "Everything about opening and using a demat account in India - online process, charges breakdown, broker comparison, BSDA accounts for small investors, and answers to 25+ common questions.",
+    "icon": "📊",
+    "updated_date": "May 2026",
+    "stats": [
+      {
+        "label": "Opening Fee",
+        "value": "₹0 (Most Brokers)"
+      },
+      {
+        "label": "AMC",
+        "value": "₹0-300/Year"
+      },
+      {
+        "label": "Setup Time",
+        "value": "15 Minutes"
+      },
+      {
+        "label": "Documents",
+        "value": "PAN + Aadhaar"
+      }
+    ]
   },
-  {
-   "icon": "💰",
-   "label": "Check All Charges",
-   "url": "#charges"
-  },
-  {
-   "icon": "❓",
-   "label": "BSDA for Small Investors",
-   "url": "#bsda"
-  }
- ],
- "sections": [
-  {
-   "type": "text",
-   "icon": "📖",
-   "heading": "What is a demat account?",
-   "content": [
-    "A demat (short for 'dematerialised') account holds your securities, stocks, mutual fund units, bonds, ETFs, and IPO shares, in electronic form. Just like a bank account holds money, a demat account holds your investments.",
-    "Before 1996, investors got physical share certificates prone to theft, damage, and forgery. Under the Depositories Act, 1996, SEBI mandated electronic holding, removing paper risk entirely.",
-    "You need a demat account to buy or sell shares on the NSE or BSE. Without one, purchased shares have nowhere to be stored.",
-    "Demat accounts in India are held by two central depositories, NSDL and CDSL, both regulated by SEBI. Your broker simply connects you to one of them."
-   ]
-  },
-  {
-   "type": "callout",
-   "variant": "info",
-   "heading": "Your shares are not held by the broker",
-   "content": "A demat account holds your securities, not your money. Cash stays in your bank until you buy.<br><br>This is why your shares are safe even if your broker shuts down, they sit at NSDL or CDSL, not with the broker."
-  },
-  {
-   "type": "stat_cards",
-   "heading": "Demat charges at a glance",
-   "icon": "💰",
-   "cards": [
+  "quick_actions": [
     {
-     "label": "Account opening",
-     "value": "₹0 (most brokers)"
+      "icon": "📝",
+      "label": "Compare Brokers",
+      "url": "#broker-comparison"
     },
     {
-     "label": "AMC per year",
-     "value": "₹0-₹300"
+      "icon": "💰",
+      "label": "Check All Charges",
+      "url": "#charges"
     },
     {
-     "label": "Delivery brokerage",
-     "value": "₹0 at discount brokers"
-    },
-    {
-     "label": "DP charge per sell",
-     "value": "₹13.5-₹20"
+      "icon": "❓",
+      "label": "BSDA for Small Investors",
+      "url": "#bsda"
     }
-   ]
-  },
-  {
-   "type": "text",
-   "icon": "🔀",
-   "heading": "Demat vs trading vs bank account",
-   "content": [
-    "Beginners often confuse these three. Each has a distinct role and they work together.",
-    "Bank account holds your money and receives dividends and sale proceeds. Trading account is the gateway that places buy and sell orders on the exchange.",
-    "Demat account holds your actual securities in electronic form. It is credited when you buy and debited when you sell.",
-    "A typical trade: you order in the trading account, money moves from your bank to the exchange, and shares land in your demat on T+1. Most brokers open all three together, so you rarely notice the split."
-   ]
-  },
-  {
-   "type": "steps",
-   "heading": "How a trade flows through your accounts",
-   "icon": "🔄",
-   "steps": [
+  ],
+  "sections": [
     {
-     "step": 1,
-     "title": "Place order (trading account)",
-     "description": "You tap buy or sell in your broker app, which routes the order to the NSE or BSE."
+      "type": "text",
+      "icon": "📖",
+      "heading": "What is a demat account?",
+      "content": [
+        "A demat account holds your shares and other investments in electronic form, the way a bank account holds your money. Demat is short for dematerialised, meaning paper certificates turned into digital records.",
+        "Before demat accounts, shares were physical paper that could tear, get lost, or be forged. Now they sit safely as electronic entries against your name.",
+        "When you buy a share, it lands in your demat account. When you sell, it leaves from there.",
+        "You never handle paper at all. The whole process is digital from start to finish.",
+        "It is the foundation of stock investing in India. Without one, you cannot buy or hold listed shares."
+      ]
     },
     {
-     "step": 2,
-     "title": "Money moves (bank account)",
-     "description": "Funds move from your linked bank account to the exchange for a buy, or proceeds come back on a sell."
+      "type": "callout",
+      "variant": "info",
+      "heading": "Your shares are not held by the broker",
+      "content": "A demat account holds your securities, not your money. Cash stays in your bank until you buy.<br><br>This is why your shares are safe even if your broker shuts down, they sit at NSDL or CDSL, not with the broker."
     },
     {
-     "step": 3,
-     "title": "Shares settle (demat account)",
-     "description": "Shares are credited to your demat on T+1, one business day after the trade. They stay there until you sell."
+      "type": "stat_cards",
+      "heading": "Demat charges at a glance",
+      "icon": "💰",
+      "cards": [
+        {
+          "label": "Account opening",
+          "value": "₹0 (most brokers)"
+        },
+        {
+          "label": "AMC per year",
+          "value": "₹0-₹300"
+        },
+        {
+          "label": "Delivery brokerage",
+          "value": "₹0 at discount brokers"
+        },
+        {
+          "label": "DP charge per sell",
+          "value": "₹13.5-₹20"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "icon": "🔀",
+      "heading": "Demat vs trading vs bank account",
+      "content": [
+        "These three accounts work together but do different jobs. Mixing them up is the most common beginner confusion.",
+        "Your bank account holds money. Your trading account is the place where you place buy and sell orders.",
+        "Your demat account holds the shares themselves after a purchase. Money moves from bank to trading to buy, and shares land in demat.",
+        "Most brokers open the trading and demat account together. So in practice you deal with one login, even though three accounts are involved."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "How a trade flows through your accounts",
+      "icon": "🔄",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Place order (trading account)",
+          "description": "You tap buy or sell in your broker app, which routes the order to the NSE or BSE."
+        },
+        {
+          "step": 2,
+          "title": "Money moves (bank account)",
+          "description": "Funds move from your linked bank account to the exchange for a buy, or proceeds come back on a sell."
+        },
+        {
+          "step": 3,
+          "title": "Shares settle (demat account)",
+          "description": "Shares are credited to your demat on T+1, one business day after the trade. They stay there until you sell."
+        }
+      ]
+    },
+    {
+      "heading": "Types of Demat Accounts in India",
+      "icon": "📋",
+      "type": "comparison_table",
+      "columns": [
+        "Type",
+        "Who Can Open",
+        "Key Features"
+      ],
+      "rows": [
+        [
+          "Regular Demat",
+          "Resident Indians",
+          "Standard account for residents. Hold any securities. Most common type."
+        ],
+        [
+          "Repatriable Demat (NRI)",
+          "NRIs with NRE bank account",
+          "Allows transfer of funds abroad. Linked to NRE account. Requires FEMA compliance."
+        ],
+        [
+          "Non-Repatriable Demat (NRI)",
+          "NRIs with NRO bank account",
+          "Cannot transfer funds abroad. Linked to NRO account. Lower compliance burden."
+        ],
+        [
+          "Basic Services Demat (BSDA)",
+          "Small investors (holdings up to ₹10 lakh)",
+          "Nil AMC up to ₹4 lakh, ₹100/year for ₹4-10 lakh. From 31 March 2026, opened by default unless you opt out."
+        ],
+        [
+          "HUF Demat",
+          "Hindu Undivided Family",
+          "Held in name of HUF karta. Separate PAN required. Used for tax planning."
+        ],
+        [
+          "Corporate Demat",
+          "Companies, partnerships",
+          "Higher documentation. Used by businesses for treasury investments."
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "icon": "🏛️",
+      "heading": "NSDL vs CDSL: which depository?",
+      "content": [
+        "India has two depositories that actually store your shares: NSDL and CDSL. Your broker is linked to one of them.",
+        "For you as an investor, the choice barely matters. Both are safe, SEBI-regulated, and hold shares identically.",
+        "The difference shows only in your demat number format. NSDL numbers start differently from CDSL ones, but the experience is the same.",
+        "You do not pick the depository yourself. Your broker decides, and either one is perfectly fine."
+      ]
+    },
+    {
+      "type": "text",
+      "icon": "💰",
+      "heading": "Demat account charges explained",
+      "content": [
+        "A demat account is rarely truly free, even when opening costs nothing. A few small charges are worth knowing upfront.",
+        "Opening is usually free with most discount brokers now. The annual maintenance charge, or AMC, ranges from zero to a few hundred rupees a year.",
+        "The one that surprises people is the DP charge. It is a small flat fee the depository takes each time you sell shares, regardless of the amount.",
+        "Brokerage is separate and depends on your broker. Discount brokers charge little or nothing on delivery trades, while full-service ones charge more."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "heading": "Watch the DP charge",
+      "content": "DP charges of ₹13.5-20 apply per sell transaction, not per share.<br><br>Selling 5 different stocks triggers 5 separate charges, which adds up fast for frequent traders."
+    },
+    {
+      "heading": "Top 10 Demat Brokers Compared - 2026",
+      "icon": "⚖️",
+      "type": "comparison_table",
+      "columns": [
+        "Broker",
+        "Opening",
+        "AMC/Year",
+        "Delivery",
+        "Intraday/F&O",
+        "Best For"
+      ],
+      "rows": [
+        [
+          "Zerodha",
+          "₹0",
+          "₹300",
+          "₹0 (Free)",
+          "₹20/order",
+          "Largest broker, active traders, best charting"
+        ],
+        [
+          "Groww",
+          "₹0",
+          "₹0",
+          "₹20/order",
+          "₹20/order",
+          "Absolute beginners, mutual funds + stocks"
+        ],
+        [
+          "Angel One",
+          "₹0",
+          "₹0",
+          "₹0 (Free)",
+          "₹20/order",
+          "Free delivery + research reports"
+        ],
+        [
+          "Upstox",
+          "₹0",
+          "₹300",
+          "₹20/order",
+          "₹20/order",
+          "Fast execution, Ratan Tata-backed"
+        ],
+        [
+          "5Paisa",
+          "₹0",
+          "₹300",
+          "₹20/order",
+          "₹20/order",
+          "Low-cost, IIFL-backed, mobile-first"
+        ],
+        [
+          "Dhan",
+          "₹0",
+          "₹0",
+          "₹0 (Free)",
+          "₹20/order",
+          "Active traders, advanced features"
+        ],
+        [
+          "Paytm Money",
+          "₹0",
+          "₹0",
+          "₹0 (Free)",
+          "₹20/order",
+          "Paytm users, integrated experience"
+        ],
+        [
+          "ICICI Direct",
+          "₹0",
+          "₹700",
+          "0.29%",
+          "0.029%",
+          "ICICI Bank customers, 3-in-1 account"
+        ],
+        [
+          "HDFC Securities",
+          "₹999",
+          "₹750",
+          "0.32%",
+          "0.032%",
+          "HDFC customers, research reports"
+        ],
+        [
+          "Kotak Securities",
+          "₹0",
+          "₹600",
+          "0.25%",
+          "0.025%",
+          "Kotak customers, full-service broker"
+        ]
+      ]
+    },
+    {
+      "type": "image",
+      "heading": "Zerodha charges, official pricing",
+      "icon": "🧾",
+      "src": "/screenshots/zerodha-charges-2026.jpg",
+      "alt": "Zerodha official equity charges 2026: zero brokerage on delivery, Rs 20 per order intraday and F&O, STT, transaction, GST, SEBI and stamp charges",
+      "width": 2340,
+      "height": 1198,
+      "caption": "Zerodha's official equity charges, zero brokerage on delivery, ₹20 per order on intraday and F&O.",
+      "source": "zerodha.com/charges, June 2026"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "heading": "Which broker to pick",
+      "content": "For absolute beginners: Groww or Angel One, simplest interface and zero AMC.<br><br>For active traders: Zerodha, best execution and charting. For a bank-linked 3-in-1 account: ICICI Direct if you already bank there."
+    },
+    {
+      "type": "text",
+      "icon": "🎁",
+      "heading": "BSDA: the low-cost account for small investors",
+      "content": [
+        "The Basic Services Demat Account, or BSDA, is a SEBI scheme for small investors. SEBI raised the limits in September 2024, so far more people now qualify.",
+        "There is nil AMC if your holdings stay up to ₹4 lakh. For holdings between ₹4 lakh and ₹10 lakh, the AMC is capped at ₹100 a year plus GST.",
+        "Above ₹10 lakh, the account moves to a regular demat with standard charges. You can have only one BSDA, and you must be its sole or first holder.",
+        "Many accounts are now auto-converted to BSDA if they qualify. If your portfolio is small, this quietly saves you the regular maintenance fee."
+      ]
+    },
+    {
+      "type": "comparison_table",
+      "heading": "BSDA AMC slabs (2026)",
+      "icon": "📊",
+      "columns": [
+        "Holdings value",
+        "Annual maintenance charge"
+      ],
+      "rows": [
+        [
+          "Up to ₹4 lakh",
+          "Nil (free)"
+        ],
+        [
+          "₹4 lakh to ₹10 lakh",
+          "₹100 per year (max)"
+        ],
+        [
+          "Above ₹10 lakh",
+          "Converts to regular demat, standard AMC"
+        ]
+      ]
+    },
+    {
+      "heading": "Documents Required to Open a Demat Account",
+      "icon": "📄",
+      "type": "comparison_table",
+      "columns": [
+        "Document",
+        "Status",
+        "Purpose"
+      ],
+      "rows": [
+        [
+          "PAN Card",
+          "Mandatory",
+          "Tax identification, KYC"
+        ],
+        [
+          "Aadhaar Card (linked to mobile)",
+          "Mandatory",
+          "Identity verification via OTP, e-KYC"
+        ],
+        [
+          "Bank Account Details",
+          "Mandatory",
+          "For fund transfers, IFSC + account number"
+        ],
+        [
+          "Cancelled Cheque or Bank Statement",
+          "Mandatory",
+          "Bank account verification"
+        ],
+        [
+          "Passport-size Photo",
+          "Mandatory",
+          "Account records"
+        ],
+        [
+          "Signature on Plain Paper",
+          "Mandatory",
+          "Digital signature upload"
+        ],
+        [
+          "Selfie with PAN",
+          "Mandatory",
+          "Live verification (video KYC)"
+        ],
+        [
+          "Income Proof (salary slip/ITR)",
+          "Mandatory for F&O",
+          "Required only for derivatives trading"
+        ],
+        [
+          "Address Proof (if Aadhaar address differs)",
+          "Conditional",
+          "Only if current address differs from Aadhaar"
+        ]
+      ]
+    },
+    {
+      "heading": "How to Open a Demat Account Online - Step by Step",
+      "icon": "🚀",
+      "type": "steps",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Choose a broker and download the app",
+          "description": "For beginners: Groww or Angel One (simplest interface, great for learning). For active traders: Zerodha or Upstox (best charting tools). For bank-integrated experience: ICICI Direct or HDFC Securities. Compare account opening fees, AMC, and brokerage before deciding."
+        },
+        {
+          "step": 2,
+          "title": "Start online application with PAN and mobile",
+          "description": "Enter your PAN number, full name, and mobile number. You'll receive OTPs for verification on both. Ensure PAN is not linked to an existing demat account with the same broker - you cannot open duplicate accounts with one broker."
+        },
+        {
+          "step": 3,
+          "title": "Complete e-KYC with Aadhaar",
+          "description": "Enter your 12-digit Aadhaar number and verify with OTP sent to your Aadhaar-linked mobile. Your name, date of birth, and address are auto-fetched from UIDAI database. If Aadhaar is not linked to mobile, you must visit a branch for physical KYC."
+        },
+        {
+          "step": 4,
+          "title": "Take selfie and digital signature",
+          "description": "Use your phone's camera for a clear selfie (good lighting, straight face, no glasses recommended). For digital signature, sign on plain white paper with black pen, photograph it, and upload. Some brokers require a short video recording for in-person verification (IPV) as per SEBI rules."
+        },
+        {
+          "step": 5,
+          "title": "Link bank account details",
+          "description": "Provide your savings account number and IFSC code. Some brokers verify with a ₹1 test transaction from your account. Ensure the bank account is in your name only - joint accounts with spouse may cause issues unless you're the primary holder."
+        },
+        {
+          "step": 6,
+          "title": "Choose trading segments and complete",
+          "description": "Select what you want to trade: Equity Cash (stocks), F&O (derivatives - requires income proof), Commodity, Currency. For beginners, start with Equity Cash only. Confirm all details and e-sign with Aadhaar OTP to submit."
+        },
+        {
+          "step": 7,
+          "title": "Receive credentials in 24-48 hours",
+          "description": "Demat account number (starts with IN for NSDL or 16-digit for CDSL) + trading login ID + DP ID delivered via email and SMS. Most discount brokers activate accounts within 4-6 hours. Bank brokers may take 2-3 days."
+        },
+        {
+          "step": 8,
+          "title": "Add money and start trading",
+          "description": "Transfer funds from linked bank account to trading account via NEFT/UPI/IMPS. Search for a stock (e.g., RELIANCE), enter quantity, check order details (market vs limit, delivery vs intraday), and execute. Shares appear in your demat account on T+1 (one business day)."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "heading": "T+1 settlement: when shares reach you",
+      "content": "India uses T+1 settlement. If you buy today (T), shares are credited to your demat the next business day (T+1).<br><br>For a sale, the money reaches your account on T+1 too. This is among the fastest settlement cycles in the world."
+    },
+    {
+      "type": "text",
+      "icon": "🧾",
+      "heading": "Taxes on your stock market gains",
+      "content": [
+        "Profits from shares are taxed based on how long you held them. The line is one year for listed shares.",
+        "Sell within a year and the gain is short-term, taxed at a flat rate. Hold beyond a year and it is long-term, taxed at a lower rate with an annual exemption.",
+        "Dividends are taxed in your hands at your slab rate. The company no longer pays dividend distribution tax on your behalf.",
+        "Keep your contract notes and statements. At filing time, your gains and the tax already deducted both need to be reported."
+      ]
+    },
+    {
+      "type": "text",
+      "icon": "📊",
+      "heading": "Do you need a demat account for mutual funds?",
+      "content": [
+        "For most mutual funds, you do not need a demat account at all. You can buy them directly from the fund house or through apps in regular folio form.",
+        "A demat account is optional for mutual funds, not required. Many investors hold funds without ever opening one.",
+        "The exception is ETFs, which are exchange-traded and do need a demat account. So if you want ETFs, the demat account becomes necessary.",
+        "For a plain SIP in a mutual fund scheme, skip the demat requirement. It only matters once you move into shares or ETFs."
+      ]
+    },
+    {
+      "type": "text",
+      "icon": "🔒",
+      "heading": "Is your money safe if the broker shuts down?",
+      "content": [
+        "This worry stops many beginners, but the structure is reassuring. Your shares do not actually sit with the broker.",
+        "They are held by the depository, NSDL or CDSL, against your name. The broker is only a middleman who connects you to them.",
+        "So if a broker shuts down, your shares remain safe at the depository. You can transfer them to another broker and carry on.",
+        "Money in the trading account is different, so do not leave large idle cash with a broker. Keep spare funds in your bank, and move them only when investing."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "heading": "Is a demat account free?",
+      "content": "Opening is free at most discount brokers, and AMC can be ₹0 (Groww, Angel One) or up to about ₹300.<br><br>Small investors pay nil AMC under BSDA up to ₹4 lakh. You only pay when you actually trade or sell."
+    },
+    {
+      "heading": "Common Problems & How to Solve Them",
+      "icon": "⚠️",
+      "type": "comparison_table",
+      "columns": [
+        "Problem",
+        "Solution"
+      ],
+      "rows": [
+        [
+          "Shares not credited after purchase",
+          "Wait for T+1 settlement day. If still missing, raise ticket with broker. Shares legally must be credited by T+2."
+        ],
+        [
+          "Negative balance showing in demat",
+          "Usually a DP charges pending. Pay outstanding amount via trading account. Contact broker if amount looks incorrect."
+        ],
+        [
+          "Can't sell inherited shares",
+          "Complete transmission from deceased holder. Required: death certificate, succession certificate/will, KYC documents. Process takes 4-6 weeks."
+        ],
+        [
+          "Demat account frozen by broker",
+          "Usually due to unpaid AMC or inactive account (no activity for 12 months). Pay dues, complete re-KYC, submit reactivation form."
+        ],
+        [
+          "Wrong shares in my demat",
+          "Rare but possible during corporate actions (bonus, split). Raise complaint with broker immediately. SEBI SCORES platform escalates if unresolved in 30 days."
+        ],
+        [
+          "Transfer demat to another broker",
+          "Submit DIS (Delivery Instruction Slip) to current broker requesting transfer to new DP. Takes 7-14 days. Some brokers charge ₹25-50 per transfer."
+        ],
+        [
+          "Close demat account",
+          "Submit account closure form to broker. Shares must be sold or transferred first. AMC is prorated. Broker must close within 7 working days."
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Dormant Demat Account: What It Means",
+      "icon": "💤",
+      "content": [
+        "If you do not use your demat account for a long stretch, it can be marked dormant or inactive. This is common and easy to fix.",
+        "A dormant account is simply one with no activity for an extended period. Your shares stay safe; the account is just frozen for new transactions.",
+        "To reactivate it, contact your broker and complete a fresh KYC or reactivation form. They may ask for updated documents.",
+        "It is worth logging in occasionally even if you are not trading. A quick check keeps the account active and your details current."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "How to Find Your Demat Account Number",
+      "icon": "🔢",
+      "content": [
+        "Your demat account number is on every statement your broker sends. It is also visible inside your broker app under account details.",
+        "If you have lost track of it, the easiest route is the Consolidated Account Statement. NSDL and CDSL both let you pull this using your PAN.",
+        "The number looks different depending on the depository. A CDSL number is a 16-digit figure, while an NSDL one is split into a DP ID and a client ID.",
+        "You can also call your broker's support with your PAN and registered details. They will read out or email your demat number after verification."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "icon": "👪",
+      "heading": "Add a nominee, it is now required",
+      "content": "SEBI requires demat account holders to either add a nominee or formally opt out. Skipping it can get the account frozen for transactions.<br><br>Adding a nominee is free and takes a few minutes online. It ensures your shares pass smoothly to the right person without legal hassle."
+    },
+    {
+      "heading": "Official Sources & Further Reading",
+      "icon": "📚",
+      "type": "comparison_table",
+      "columns": [
+        "Resource",
+        "What It Covers",
+        "Official Link"
+      ],
+      "rows": [
+        [
+          "SEBI - Demat Regulations",
+          "All regulatory framework for demat accounts, broker licensing, grievance redressal",
+          "<a href='https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes' target='_blank' rel='noopener'>sebi.gov.in</a>"
+        ],
+        [
+          "NSDL - Investor Services",
+          "Check demat account status, download holdings statement, e-CAS (Consolidated Account Statement)",
+          "<a href='https://nsdl.co.in' target='_blank' rel='noopener'>nsdl.co.in</a>"
+        ],
+        [
+          "CDSL - Easi/Easiest",
+          "Access demat holdings online, transfer shares between DPs, e-voting for company AGMs",
+          "<a href='https://www.cdslindia.com' target='_blank' rel='noopener'>cdslindia.com</a>"
+        ],
+        [
+          "SEBI SCORES Portal",
+          "File complaints against brokers/DPs, track grievance resolution within 30 days",
+          "<a href='https://scores.sebi.gov.in' target='_blank' rel='noopener'>scores.sebi.gov.in</a>"
+        ],
+        [
+          "IT Dept - Capital Gains",
+          "File ITR, check STCG/LTCG rates, pre-filled ITR forms with broker data",
+          "<a href='https://incometax.gov.in' target='_blank' rel='noopener'>incometax.gov.in</a>"
+        ],
+        [
+          "Investor Awareness (SEBI)",
+          "Verified educational content, investor protection fund claims, fraud alerts",
+          "<a href='https://investor.sebi.gov.in' target='_blank' rel='noopener'>investor.sebi.gov.in</a>"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "heading": "Official Sources & References",
+      "icon": "📖",
+      "variant": "info",
+      "content": "Source: SEBI Depositories Act 1996, plus CDSL and NSDL guidelines.<br><br>All figures are verified against official notifications. Charges and rules change, so confirm on the official portal before acting."
     }
-   ]
-  },
-  {
-   "heading": "Types of Demat Accounts in India",
-   "icon": "📋",
-   "type": "comparison_table",
-   "columns": [
-    "Type",
-    "Who Can Open",
-    "Key Features"
-   ],
-   "rows": [
-    [
-     "Regular Demat",
-     "Resident Indians",
-     "Standard account for residents. Hold any securities. Most common type."
-    ],
-    [
-     "Repatriable Demat (NRI)",
-     "NRIs with NRE bank account",
-     "Allows transfer of funds abroad. Linked to NRE account. Requires FEMA compliance."
-    ],
-    [
-     "Non-Repatriable Demat (NRI)",
-     "NRIs with NRO bank account",
-     "Cannot transfer funds abroad. Linked to NRO account. Lower compliance burden."
-    ],
-    [
-     "Basic Services Demat (BSDA)",
-     "Small investors (holdings up to ₹10 lakh)",
-     "Nil AMC up to ₹4 lakh, ₹100/year for ₹4-10 lakh. From 31 March 2026, opened by default unless you opt out."
-    ],
-    [
-     "HUF Demat",
-     "Hindu Undivided Family",
-     "Held in name of HUF karta. Separate PAN required. Used for tax planning."
-    ],
-    [
-     "Corporate Demat",
-     "Companies, partnerships",
-     "Higher documentation. Used by businesses for treasury investments."
-    ]
-   ]
-  },
-  {
-   "type": "text",
-   "icon": "🏛️",
-   "heading": "NSDL vs CDSL: which depository?",
-   "content": [
-    "India has two central depositories, NSDL (1996) and CDSL (1999). Both are SEBI-regulated and equally safe.",
-    "Your broker decides which one your account uses; you do not choose. NSDL numbers start with 'IN' plus 14 digits, CDSL numbers are 16 digits.",
-    "For you the practical difference is almost none. Prices, dividends, and corporate actions work identically in both."
-   ]
-  },
-  {
-   "type": "text",
-   "icon": "💰",
-   "heading": "Demat account charges explained",
-   "content": [
-    "Account opening: ₹0 at most discount brokers (Zerodha, Groww, Angel One, Upstox). Full-service brokers like HDFC Securities may charge ₹500-1,000.",
-    "Annual Maintenance Charge (AMC): from ₹0 (Groww, Angel One) to about ₹300 (Zerodha), and ₹600-750 at bank brokers. It is charged whether you trade or not.",
-    "Brokerage: delivery is ₹0 at most discount brokers, intraday and F&O are ₹20 per order. Full-service brokers charge a percentage, which is far higher on large trades.",
-    "DP charges: ₹13.5-20 per sell transaction, charged by NSDL or CDSL. This is the most overlooked cost, since selling 5 stocks means 5 DP charges."
-   ]
-  },
-  {
-   "type": "callout",
-   "variant": "warning",
-   "heading": "Watch the DP charge",
-   "content": "DP charges of ₹13.5-20 apply per sell transaction, not per share.<br><br>Selling 5 different stocks triggers 5 separate charges, which adds up fast for frequent traders."
-  },
-  {
-   "heading": "Top 10 Demat Brokers Compared - 2026",
-   "icon": "⚖️",
-   "type": "comparison_table",
-   "columns": [
-    "Broker",
-    "Opening",
-    "AMC/Year",
-    "Delivery",
-    "Intraday/F&O",
-    "Best For"
-   ],
-   "rows": [
-    [
-     "Zerodha",
-     "₹0",
-     "₹300",
-     "₹0 (Free)",
-     "₹20/order",
-     "Largest broker, active traders, best charting"
-    ],
-    [
-     "Groww",
-     "₹0",
-     "₹0",
-     "₹20/order",
-     "₹20/order",
-     "Absolute beginners, mutual funds + stocks"
-    ],
-    [
-     "Angel One",
-     "₹0",
-     "₹0",
-     "₹0 (Free)",
-     "₹20/order",
-     "Free delivery + research reports"
-    ],
-    [
-     "Upstox",
-     "₹0",
-     "₹300",
-     "₹20/order",
-     "₹20/order",
-     "Fast execution, Ratan Tata-backed"
-    ],
-    [
-     "5Paisa",
-     "₹0",
-     "₹300",
-     "₹20/order",
-     "₹20/order",
-     "Low-cost, IIFL-backed, mobile-first"
-    ],
-    [
-     "Dhan",
-     "₹0",
-     "₹0",
-     "₹0 (Free)",
-     "₹20/order",
-     "Active traders, advanced features"
-    ],
-    [
-     "Paytm Money",
-     "₹0",
-     "₹0",
-     "₹0 (Free)",
-     "₹20/order",
-     "Paytm users, integrated experience"
-    ],
-    [
-     "ICICI Direct",
-     "₹0",
-     "₹700",
-     "0.29%",
-     "0.029%",
-     "ICICI Bank customers, 3-in-1 account"
-    ],
-    [
-     "HDFC Securities",
-     "₹999",
-     "₹750",
-     "0.32%",
-     "0.032%",
-     "HDFC customers, research reports"
-    ],
-    [
-     "Kotak Securities",
-     "₹0",
-     "₹600",
-     "0.25%",
-     "0.025%",
-     "Kotak customers, full-service broker"
-    ]
-   ]
-  },
-  {
-   "type": "image",
-   "heading": "Zerodha charges, official pricing",
-   "icon": "🧾",
-   "src": "/screenshots/zerodha-charges-2026.jpg",
-   "alt": "Zerodha official equity charges 2026: zero brokerage on delivery, Rs 20 per order intraday and F&O, STT, transaction, GST, SEBI and stamp charges",
-   "width": 2340,
-   "height": 1198,
-   "caption": "Zerodha's official equity charges, zero brokerage on delivery, ₹20 per order on intraday and F&O.",
-   "source": "zerodha.com/charges, June 2026"
-  },
-  {
-   "type": "callout",
-   "variant": "tip",
-   "heading": "Which broker to pick",
-   "content": "For absolute beginners: Groww or Angel One, simplest interface and zero AMC.<br><br>For active traders: Zerodha, best execution and charting. For a bank-linked 3-in-1 account: ICICI Direct if you already bank there."
-  },
-  {
-   "type": "text",
-   "icon": "🎁",
-   "heading": "BSDA: the low-cost account for small investors",
-   "content": [
-    "The Basic Services Demat Account (BSDA) is a SEBI scheme for small investors. SEBI raised the limit in 2024, so far more people now qualify.",
-    "Nil AMC if your holdings are up to ₹4 lakh. For holdings between ₹4 lakh and ₹10 lakh, AMC is capped at ₹100 a year.",
-    "Above ₹10 lakh, the account moves to a regular demat with standard AMC. Digital statements are free; a physical statement costs ₹25.",
-    "Big 2026 change: from 31 March 2026, eligible accounts are opened as BSDA by default unless you actively choose a regular account. If you are a small investor, ask your broker to confirm BSDA so you are not overcharged."
-   ]
-  },
-  {
-   "type": "comparison_table",
-   "heading": "BSDA AMC slabs (2026)",
-   "icon": "📊",
-   "columns": [
-    "Holdings value",
-    "Annual maintenance charge"
-   ],
-   "rows": [
-    [
-     "Up to ₹4 lakh",
-     "Nil (free)"
-    ],
-    [
-     "₹4 lakh to ₹10 lakh",
-     "₹100 per year (max)"
-    ],
-    [
-     "Above ₹10 lakh",
-     "Converts to regular demat, standard AMC"
-    ]
-   ]
-  },
-  {
-   "heading": "Documents Required to Open a Demat Account",
-   "icon": "📄",
-   "type": "comparison_table",
-   "columns": [
-    "Document",
-    "Status",
-    "Purpose"
-   ],
-   "rows": [
-    [
-     "PAN Card",
-     "Mandatory",
-     "Tax identification, KYC"
-    ],
-    [
-     "Aadhaar Card (linked to mobile)",
-     "Mandatory",
-     "Identity verification via OTP, e-KYC"
-    ],
-    [
-     "Bank Account Details",
-     "Mandatory",
-     "For fund transfers, IFSC + account number"
-    ],
-    [
-     "Cancelled Cheque or Bank Statement",
-     "Mandatory",
-     "Bank account verification"
-    ],
-    [
-     "Passport-size Photo",
-     "Mandatory",
-     "Account records"
-    ],
-    [
-     "Signature on Plain Paper",
-     "Mandatory",
-     "Digital signature upload"
-    ],
-    [
-     "Selfie with PAN",
-     "Mandatory",
-     "Live verification (video KYC)"
-    ],
-    [
-     "Income Proof (salary slip/ITR)",
-     "Mandatory for F&O",
-     "Required only for derivatives trading"
-    ],
-    [
-     "Address Proof (if Aadhaar address differs)",
-     "Conditional",
-     "Only if current address differs from Aadhaar"
-    ]
-   ]
-  },
-  {
-   "heading": "How to Open a Demat Account Online - Step by Step",
-   "icon": "🚀",
-   "type": "steps",
-   "steps": [
+  ],
+  "faqs": [
     {
-     "step": 1,
-     "title": "Choose a broker and download the app",
-     "description": "For beginners: Groww or Angel One (simplest interface, great for learning). For active traders: Zerodha or Upstox (best charting tools). For bank-integrated experience: ICICI Direct or HDFC Securities. Compare account opening fees, AMC, and brokerage before deciding."
+      "question": "What is a demat account in simple words?",
+      "answer": "It is an electronic account that holds your shares, mutual funds, bonds, and ETFs in digital form.<br><br>Like a bank account holds money, a demat account holds your investments."
     },
     {
-     "step": 2,
-     "title": "Start online application with PAN and mobile",
-     "description": "Enter your PAN number, full name, and mobile number. You'll receive OTPs for verification on both. Ensure PAN is not linked to an existing demat account with the same broker - you cannot open duplicate accounts with one broker."
+      "question": "Is a demat account free?",
+      "answer": "Opening is free at most discount brokers, and yearly AMC ranges from ₹0 (Groww, Angel One) to about ₹300.<br><br>Under BSDA, holdings up to ₹4 lakh pay nil AMC. You mainly pay only when you trade or sell."
     },
     {
-     "step": 3,
-     "title": "Complete e-KYC with Aadhaar",
-     "description": "Enter your 12-digit Aadhaar number and verify with OTP sent to your Aadhaar-linked mobile. Your name, date of birth, and address are auto-fetched from UIDAI database. If Aadhaar is not linked to mobile, you must visit a branch for physical KYC."
+      "question": "How do I open a demat account online?",
+      "answer": "Pick a broker, then apply with your PAN, Aadhaar-linked mobile, and bank details, verifying through OTP and a quick video KYC.<br><br>It usually takes 15 minutes to apply and is approved within 24 to 48 hours."
     },
     {
-     "step": 4,
-     "title": "Take selfie and digital signature",
-     "description": "Use your phone's camera for a clear selfie (good lighting, straight face, no glasses recommended). For digital signature, sign on plain white paper with black pen, photograph it, and upload. Some brokers require a short video recording for in-person verification (IPV) as per SEBI rules."
+      "question": "What is the minimum amount to start investing?",
+      "answer": "There is no minimum to open a demat account, and many brokers charge ₹0 to open.<br><br>You can start buying shares with as little as the price of one share, sometimes under ₹100."
     },
     {
-     "step": 5,
-     "title": "Link bank account details",
-     "description": "Provide your savings account number and IFSC code. Some brokers verify with a ₹1 test transaction from your account. Ensure the bank account is in your name only - joint accounts with spouse may cause issues unless you're the primary holder."
+      "question": "Do I need a demat account for mutual funds?",
+      "answer": "No, for direct mutual funds you can use the AMC website or platforms like Kuvera and MFCentral, where units sit in a folio.<br><br>You only need demat if you buy mutual funds through a stockbroker."
     },
     {
-     "step": 6,
-     "title": "Choose trading segments and complete",
-     "description": "Select what you want to trade: Equity Cash (stocks), F&O (derivatives - requires income proof), Commodity, Currency. For beginners, start with Equity Cash only. Confirm all details and e-sign with Aadhaar OTP to submit."
+      "question": "How do I transfer shares from one demat to another?",
+      "answer": "Use the CDSL Easiest or NSDL e-DIS online transfer, or submit a Delivery Instruction Slip to your current broker.<br><br>An off-market transfer between brokers typically takes 3 to 5 business days."
     },
     {
-     "step": 7,
-     "title": "Receive credentials in 24-48 hours",
-     "description": "Demat account number (starts with IN for NSDL or 16-digit for CDSL) + trading login ID + DP ID delivered via email and SMS. Most discount brokers activate accounts within 4-6 hours. Bank brokers may take 2-3 days."
+      "question": "How do I close my demat account?",
+      "answer": "Clear any pending dues, move out your holdings, then submit the closure form to your broker online or offline.<br><br>Closure is free and usually completes within 7 to 10 days."
     },
     {
-     "step": 8,
-     "title": "Add money and start trading",
-     "description": "Transfer funds from linked bank account to trading account via NEFT/UPI/IMPS. Search for a stock (e.g., RELIANCE), enter quantity, check order details (market vs limit, delivery vs intraday), and execute. Shares appear in your demat account on T+1 (one business day)."
+      "question": "What are DP charges and why only on selling?",
+      "answer": "DP charges of ₹13.5-20 are levied by NSDL or CDSL each time securities leave your demat, which happens on a sell.<br><br>Buying credits your demat instead, so no DP charge applies on purchases."
+    },
+    {
+      "question": "What is BSDA and how do I get it?",
+      "answer": "BSDA is a low-cost demat for small investors: nil AMC up to ₹4 lakh and ₹100 a year for ₹4-10 lakh.<br><br>From 31 March 2026 it is opened by default for eligible investors unless you choose a regular account."
+    },
+    {
+      "question": "Can I have more than one demat account?",
+      "answer": "Yes, you can hold demat accounts with different brokers, but not two with the same broker on one PAN.<br><br>Each account may carry its own AMC, so avoid opening more than you use."
+    },
+    {
+      "question": "What is the tax on stock market profits?",
+      "answer": "Short-term gains (under 12 months) are taxed at 20%, and long-term gains above ₹1.25 lakh a year at 12.5%.<br><br>Dividends are taxed at your income slab."
+    },
+    {
+      "question": "Which is the best demat account for a beginner?",
+      "answer": "Groww and Angel One suit beginners with their simple apps and zero AMC.<br><br>Active traders often prefer Zerodha for its platform and charting."
+    },
+    {
+      "question": "Are my shares safe if the broker shuts down?",
+      "answer": "Yes, your shares sit with the depository (NSDL or CDSL), not the broker, so a broker failure does not touch them.<br><br>You simply transfer holdings to a new broker."
+    },
+    {
+      "question": "What is a dormant demat account and how do I reactivate it?",
+      "answer": "A demat account becomes dormant when it has no activity for a long period. Your shares stay safe; only new transactions are frozen.<br><br>To reactivate, contact your broker and complete a fresh KYC or reactivation form. They will restore access once your details are verified."
+    },
+    {
+      "question": "How do I find my demat account number using PAN?",
+      "answer": "Download the Consolidated Account Statement from NSDL or CDSL using your PAN. It lists every demat account linked to you.<br><br>Your number is also on broker statements and inside the broker app under account details. Support can also share it after verifying your identity."
+    },
+    {
+      "question": "Is adding a nominee mandatory for a demat account?",
+      "answer": "SEBI requires you to either add a nominee or formally opt out. Skipping the choice can get your account frozen for transactions.<br><br>Adding a nominee is free and takes a few minutes online. It ensures your shares pass to the right person without legal trouble."
+    },
+    {
+      "question": "How do I write a demat account closing letter?",
+      "answer": "Most brokers now let you close online, so a letter is rarely needed. If asked, a simple letter to your DP with your name, demat number and a request to close is enough.<br><br>Make sure the account has zero holdings first. Transfer or sell any shares before requesting closure, or the request will not go through."
     }
-   ]
+  ],
+  "official_portal": {
+    "name": "SEBI Official Website",
+    "url": "https://www.sebi.gov.in"
   },
-  {
-   "type": "callout",
-   "variant": "info",
-   "heading": "T+1 settlement: when shares reach you",
-   "content": "India uses T+1 settlement. If you buy today (T), shares are credited to your demat the next business day (T+1).<br><br>For a sale, the money reaches your account on T+1 too. This is among the fastest settlement cycles in the world."
-  },
-  {
-   "type": "text",
-   "icon": "🧾",
-   "heading": "Taxes on your stock market gains",
-   "content": [
-    "Short-Term Capital Gains (STCG): selling equity within 12 months is taxed at 20% (raised from 15% in the July 2024 Budget).",
-    "Long-Term Capital Gains (LTCG): for holdings over 12 months, the first ₹1.25 lakh of gains per year is tax-free, and the rest is taxed at 12.5%.",
-    "Dividends are added to your income and taxed at your slab. A 10% TDS applies if dividends from one company cross ₹5,000 in a year.",
-    "Intraday gains are treated as speculative business income and taxed at your slab, not as capital gains."
-   ]
-  },
-  {
-   "type": "text",
-   "icon": "📊",
-   "heading": "Do you need a demat account for mutual funds?",
-   "content": [
-    "For direct mutual funds: no demat needed. You can invest through the AMC website or platforms like MFCentral, Kuvera, or Groww, where units sit in a folio.",
-    "For mutual funds bought through a stockbroker: yes, units are held in your demat alongside your stocks. The plus is one dashboard; the catch is closing the demat means moving those units.",
-    "For SIPs specifically, a folio-based route keeps your SIP independent of any broker account. Many beginners keep mutual funds in folios and stocks in demat."
-   ]
-  },
-  {
-   "type": "text",
-   "icon": "🔒",
-   "heading": "Is your money safe if the broker shuts down?",
-   "content": [
-    "Your shares are safe even if your broker goes bankrupt. They are held by the depository (NSDL or CDSL), not by the broker.",
-    "If a broker shuts, you open an account elsewhere and transfer holdings, an off-market transfer taking 3-5 business days. The broker is only the interface.",
-    "SEBI requires brokers to keep client funds in a separate account they cannot touch, and audits them regularly. Since October 2023, all demat logins need two-factor authentication.",
-    "You can also check any broker's registration on the SEBI website before opening an account. Stick to SEBI-registered brokers and your holdings stay protected by the depository system."
-   ]
-  },
-  {
-   "type": "callout",
-   "variant": "tip",
-   "heading": "Is a demat account free?",
-   "content": "Opening is free at most discount brokers, and AMC can be ₹0 (Groww, Angel One) or up to about ₹300.<br><br>Small investors pay nil AMC under BSDA up to ₹4 lakh. You only pay when you actually trade or sell."
-  },
-  {
-   "heading": "Common Problems & How to Solve Them",
-   "icon": "⚠️",
-   "type": "comparison_table",
-   "columns": [
-    "Problem",
-    "Solution"
-   ],
-   "rows": [
-    [
-     "Shares not credited after purchase",
-     "Wait for T+1 settlement day. If still missing, raise ticket with broker. Shares legally must be credited by T+2."
-    ],
-    [
-     "Negative balance showing in demat",
-     "Usually a DP charges pending. Pay outstanding amount via trading account. Contact broker if amount looks incorrect."
-    ],
-    [
-     "Can't sell inherited shares",
-     "Complete transmission from deceased holder. Required: death certificate, succession certificate/will, KYC documents. Process takes 4-6 weeks."
-    ],
-    [
-     "Demat account frozen by broker",
-     "Usually due to unpaid AMC or inactive account (no activity for 12 months). Pay dues, complete re-KYC, submit reactivation form."
-    ],
-    [
-     "Wrong shares in my demat",
-     "Rare but possible during corporate actions (bonus, split). Raise complaint with broker immediately. SEBI SCORES platform escalates if unresolved in 30 days."
-    ],
-    [
-     "Transfer demat to another broker",
-     "Submit DIS (Delivery Instruction Slip) to current broker requesting transfer to new DP. Takes 7-14 days. Some brokers charge ₹25-50 per transfer."
-    ],
-    [
-     "Close demat account",
-     "Submit account closure form to broker. Shares must be sold or transferred first. AMC is prorated. Broker must close within 7 working days."
-    ]
-   ]
-  },
-  {
-   "heading": "Official Sources & Further Reading",
-   "icon": "📚",
-   "type": "comparison_table",
-   "columns": [
-    "Resource",
-    "What It Covers",
-    "Official Link"
-   ],
-   "rows": [
-    [
-     "SEBI - Demat Regulations",
-     "All regulatory framework for demat accounts, broker licensing, grievance redressal",
-     "<a href='https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes' target='_blank' rel='noopener'>sebi.gov.in</a>"
-    ],
-    [
-     "NSDL - Investor Services",
-     "Check demat account status, download holdings statement, e-CAS (Consolidated Account Statement)",
-     "<a href='https://nsdl.co.in' target='_blank' rel='noopener'>nsdl.co.in</a>"
-    ],
-    [
-     "CDSL - Easi/Easiest",
-     "Access demat holdings online, transfer shares between DPs, e-voting for company AGMs",
-     "<a href='https://www.cdslindia.com' target='_blank' rel='noopener'>cdslindia.com</a>"
-    ],
-    [
-     "SEBI SCORES Portal",
-     "File complaints against brokers/DPs, track grievance resolution within 30 days",
-     "<a href='https://scores.sebi.gov.in' target='_blank' rel='noopener'>scores.sebi.gov.in</a>"
-    ],
-    [
-     "IT Dept - Capital Gains",
-     "File ITR, check STCG/LTCG rates, pre-filled ITR forms with broker data",
-     "<a href='https://incometax.gov.in' target='_blank' rel='noopener'>incometax.gov.in</a>"
-    ],
-    [
-     "Investor Awareness (SEBI)",
-     "Verified educational content, investor protection fund claims, fraud alerts",
-     "<a href='https://investor.sebi.gov.in' target='_blank' rel='noopener'>investor.sebi.gov.in</a>"
-    ]
-   ]
-  },
-  {
-   "type": "callout",
-   "heading": "Official Sources & References",
-   "icon": "📖",
-   "variant": "info",
-   "content": "Source: SEBI Depositories Act 1996, plus CDSL and NSDL guidelines.<br><br>All figures are verified against official notifications. Charges and rules change, so confirm on the official portal before acting."
-  }
- ],
- "faqs": [
-  {
-   "question": "What is a demat account in simple words?",
-   "answer": "It is an electronic account that holds your shares, mutual funds, bonds, and ETFs in digital form.<br><br>Like a bank account holds money, a demat account holds your investments."
-  },
-  {
-   "question": "Is a demat account free?",
-   "answer": "Opening is free at most discount brokers, and yearly AMC ranges from ₹0 (Groww, Angel One) to about ₹300.<br><br>Under BSDA, holdings up to ₹4 lakh pay nil AMC. You mainly pay only when you trade or sell."
-  },
-  {
-   "question": "How do I open a demat account online?",
-   "answer": "Pick a broker, then apply with your PAN, Aadhaar-linked mobile, and bank details, verifying through OTP and a quick video KYC.<br><br>It usually takes 15 minutes to apply and is approved within 24 to 48 hours."
-  },
-  {
-   "question": "What is the minimum amount to start investing?",
-   "answer": "There is no minimum to open a demat account, and many brokers charge ₹0 to open.<br><br>You can start buying shares with as little as the price of one share, sometimes under ₹100."
-  },
-  {
-   "question": "Do I need a demat account for mutual funds?",
-   "answer": "No, for direct mutual funds you can use the AMC website or platforms like Kuvera and MFCentral, where units sit in a folio.<br><br>You only need demat if you buy mutual funds through a stockbroker."
-  },
-  {
-   "question": "How do I transfer shares from one demat to another?",
-   "answer": "Use the CDSL Easiest or NSDL e-DIS online transfer, or submit a Delivery Instruction Slip to your current broker.<br><br>An off-market transfer between brokers typically takes 3 to 5 business days."
-  },
-  {
-   "question": "How do I close my demat account?",
-   "answer": "Clear any pending dues, move out your holdings, then submit the closure form to your broker online or offline.<br><br>Closure is free and usually completes within 7 to 10 days."
-  },
-  {
-   "question": "What are DP charges and why only on selling?",
-   "answer": "DP charges of ₹13.5-20 are levied by NSDL or CDSL each time securities leave your demat, which happens on a sell.<br><br>Buying credits your demat instead, so no DP charge applies on purchases."
-  },
-  {
-   "question": "What is BSDA and how do I get it?",
-   "answer": "BSDA is a low-cost demat for small investors: nil AMC up to ₹4 lakh and ₹100 a year for ₹4-10 lakh.<br><br>From 31 March 2026 it is opened by default for eligible investors unless you choose a regular account."
-  },
-  {
-   "question": "Can I have more than one demat account?",
-   "answer": "Yes, you can hold demat accounts with different brokers, but not two with the same broker on one PAN.<br><br>Each account may carry its own AMC, so avoid opening more than you use."
-  },
-  {
-   "question": "What is the tax on stock market profits?",
-   "answer": "Short-term gains (under 12 months) are taxed at 20%, and long-term gains above ₹1.25 lakh a year at 12.5%.<br><br>Dividends are taxed at your income slab."
-  },
-  {
-   "question": "Which is the best demat account for a beginner?",
-   "answer": "Groww and Angel One suit beginners with their simple apps and zero AMC.<br><br>Active traders often prefer Zerodha for its platform and charting."
-  },
-  {
-   "question": "Are my shares safe if the broker shuts down?",
-   "answer": "Yes, your shares sit with the depository (NSDL or CDSL), not the broker, so a broker failure does not touch them.<br><br>You simply transfer holdings to a new broker."
-  }
- ],
- "official_portal": {
-  "name": "SEBI Official Website",
-  "url": "https://www.sebi.gov.in"
- },
- "related_pages": [
-  {
-   "title": "What is SIP?",
-   "slug": "what-is-sip",
-   "url": "/paisa/what-is-sip",
-   "tag": "Investing"
-  },
-  {
-   "title": "What is Mutual Fund?",
-   "slug": "what-is-mutual-fund",
-   "url": "/paisa/what-is-mutual-fund",
-   "tag": "Investing"
-  },
-  {
-   "title": "Mutual Fund vs FD",
-   "slug": "mutual-fund-vs-fd",
-   "url": "/compare/mutual-fund-vs-fd",
-   "tag": "Compare"
-  },
-  {
-   "title": "SIP vs Lumpsum",
-   "slug": "sip-vs-lumpsum",
-   "url": "/compare/sip-vs-lumpsum",
-   "tag": "Compare"
-  },
-  {
-   "title": "SIP vs FD vs PPF",
-   "slug": "sip-vs-fd-vs-ppf",
-   "url": "/paisa/sip-vs-fd-vs-ppf",
-   "tag": "Compare"
-  },
-  {
-   "title": "What is ELSS?",
-   "slug": "what-is-elss",
-   "url": "/paisa/what-is-elss",
-   "tag": "Investing"
-  }
- ],
- "last_reviewed": "May 2026"
+  "related_pages": [
+    {
+      "title": "What is SIP?",
+      "slug": "what-is-sip",
+      "url": "/paisa/what-is-sip",
+      "tag": "Investing"
+    },
+    {
+      "title": "What is Mutual Fund?",
+      "slug": "what-is-mutual-fund",
+      "url": "/paisa/what-is-mutual-fund",
+      "tag": "Investing"
+    },
+    {
+      "title": "Mutual Fund vs FD",
+      "slug": "mutual-fund-vs-fd",
+      "url": "/compare/mutual-fund-vs-fd",
+      "tag": "Compare"
+    },
+    {
+      "title": "SIP vs Lumpsum",
+      "slug": "sip-vs-lumpsum",
+      "url": "/compare/sip-vs-lumpsum",
+      "tag": "Compare"
+    },
+    {
+      "title": "SIP vs FD vs PPF",
+      "slug": "sip-vs-fd-vs-ppf",
+      "url": "/paisa/sip-vs-fd-vs-ppf",
+      "tag": "Compare"
+    },
+    {
+      "title": "What is ELSS?",
+      "slug": "what-is-elss",
+      "url": "/paisa/what-is-elss",
+      "tag": "Investing"
+    }
+  ],
+  "last_reviewed": "May 2026"
 }
