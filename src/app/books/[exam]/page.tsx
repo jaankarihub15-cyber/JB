@@ -83,6 +83,11 @@ export default async function BooksExamPage({ params }: Props) {
         ))}
       </div>
 
+      {/* Affiliate disclosure (FTC + Amazon Associates) */}
+      <div className="bg-accent-light border border-border rounded-xl px-4 py-3 mb-4 text-[12.5px] text-text-secondary leading-relaxed">
+        <b className="text-text">Affiliate disclosure:</b> As an Amazon Associate, KnowledgeKendra earns from qualifying purchases. The &ldquo;View on Amazon&rdquo; links below are affiliate links. This never affects the price you pay or which books we recommend.
+      </div>
+
       {/* Reading order */}
       <SectionHeading icon="🧭">Reading order at a glance</SectionHeading>
       <div className="bg-card border border-border rounded-2xl p-5 mb-4 space-y-3">

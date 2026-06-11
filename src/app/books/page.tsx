@@ -97,7 +97,8 @@ export default function BooksHubPage() {
 
       <p className="text-xs text-text-muted italic border-t border-border pt-4">
         Book prices and editions are approximate and last checked in June 2026. Independent guide, not affiliated with
-        any exam body or publisher.
+        any exam body or publisher. As an Amazon Associate, KnowledgeKendra earns from qualifying purchases via the
+        affiliate links on each exam page, at no extra cost to you.
       </p>
     </div>
   );
