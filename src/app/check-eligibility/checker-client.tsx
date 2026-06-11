@@ -35,6 +35,7 @@ const STATES = [
   { v: "rajasthan", l: "Rajasthan" },
   { v: "telangana", l: "Telangana" },
   { v: "uttar-pradesh", l: "Uttar Pradesh" },
+  { v: "west-bengal", l: "West Bengal" },
   { v: "other", l: "Other state / Not listed" },
 ];
 
