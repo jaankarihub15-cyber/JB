@@ -33,33 +33,27 @@
   },
   "sections": [
     {
-      "type": "stat_grid",
+      "type": "stat_cards",
       "heading": "HRA Exemption Key Numbers",
       "icon": "📊",
-      "items": [
+      "cards": [
         {
-          "icon": "trending",
           "value": "50%",
           "label": "Of salary, metro",
-          "color": "green"
+          "variant": "accent"
         },
         {
-          "icon": "wallet",
           "value": "40%",
-          "label": "Of salary, non-metro",
-          "color": "blue"
+          "label": "Of salary, non-metro"
         },
         {
-          "icon": "file",
           "value": "10(13A)",
           "label": "Governing section",
-          "color": "amber"
+          "variant": "accent"
         },
         {
-          "icon": "alert",
           "value": "Old only",
-          "label": "Not in new regime",
-          "color": "pink"
+          "label": "Not in new regime"
         }
       ]
     },
@@ -92,7 +86,8 @@
         "Most private employees have little or no DA, so for them salary effectively means basic pay. Government employees with DA must include it.",
         "Work out all three figures before you file. Skipping straight to one of them, usually the HRA received, often overstates what you can actually exempt.",
         "Note that there is no fixed upper limit on HRA exemption. It is purely capped by whichever of the three rules is lowest for your situation.",
-        "Keep your rent agreement and salary slip side by side when you calculate. Every figure in the formula comes from one of those two documents."
+        "Keep your rent agreement and salary slip side by side when you calculate. Every figure in the formula comes from one of those two documents.",
+        "Treat the formula as a quick three-step check each year. Compute all three, compare them, and the smallest is your exemption."
       ]
     },
     {
@@ -388,33 +383,27 @@
       "text": "HRA is one of the biggest tax breaks a salaried renter has. But it only works under the old regime, and only if your rent and your city support the claim."
     },
     {
-      "type": "stat_grid",
+      "type": "stat_cards",
       "heading": "Quick Facts",
       "icon": "📊",
-      "items": [
+      "cards": [
         {
-          "icon": "file",
           "value": "₹1 lakh",
           "label": "Rent above this needs landlord PAN",
-          "color": "amber"
+          "variant": "accent"
         },
         {
-          "icon": "check",
           "value": "80GG",
-          "label": "If you get no HRA",
-          "color": "green"
+          "label": "If you get no HRA"
         },
         {
-          "icon": "users",
           "value": "Parents",
           "label": "Valid landlord, with proof",
-          "color": "blue"
+          "variant": "accent"
         },
         {
-          "icon": "x",
           "value": "New regime",
-          "label": "No HRA exemption",
-          "color": "pink"
+          "label": "No HRA exemption"
         }
       ]
     },
@@ -430,7 +419,8 @@
         "People also forget that the exemption is capped by the lowest rule. Some assume they can exempt their full HRA, which is rarely the case.",
         "And switching regimes carelessly costs money. If HRA is a big part of your pay, the old regime often saves more, so compare before you lock it in.",
         "Finally, do not leave the claim to the last minute. Gathering receipts and PAN details in a rush is how genuine claims end up looking weak.",
-        "Getting HRA right is mostly about honesty and records. Claim what you genuinely pay, keep the proof, and the exemption is yours to keep."
+        "Getting HRA right is mostly about honesty and records. Claim what you genuinely pay, keep the proof, and the exemption is yours to keep.",
+        "A little care with records goes a long way. Honest claims backed by proof rarely cause trouble at assessment."
       ]
     },
     {

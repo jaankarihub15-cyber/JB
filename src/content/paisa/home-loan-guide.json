@@ -33,33 +33,27 @@
   },
   "sections": [
     {
-      "type": "stat_grid",
+      "type": "stat_cards",
       "heading": "Home Loan Key Numbers 2026",
       "icon": "📊",
-      "items": [
+      "cards": [
         {
-          "icon": "trending",
           "value": "8.4%+",
           "label": "Lowest rate (repo-linked)",
-          "color": "green"
+          "variant": "accent"
         },
         {
-          "icon": "wallet",
           "value": "40-50%",
-          "label": "EMI to income limit",
-          "color": "blue"
+          "label": "EMI to income limit"
         },
         {
-          "icon": "shield",
           "value": "₹2 Lakh",
           "label": "Interest tax cap (Sec 24)",
-          "color": "amber"
+          "variant": "accent"
         },
         {
-          "icon": "file",
           "value": "75-90%",
-          "label": "Property value financed",
-          "color": "green"
+          "label": "Property value financed"
         }
       ]
     },
@@ -216,7 +210,8 @@
         "Check whether your salary account bank offers a relationship discount. Existing customers with a good record sometimes get a slightly better rate or waived fees.",
         "Avoid applying to many lenders at once, since each hard enquiry can dent your score. Compare rates first, then formally apply to one or two.",
         "Fixing your rate is a one-time effort with a long payoff. A few hours comparing lenders can save more than years of careful budgeting elsewhere.",
-        "Even after the loan starts, the door is not closed. A balance transfer later lets you chase a better rate if your bank stops being competitive."
+        "Even after the loan starts, the door is not closed. A balance transfer later lets you chase a better rate if your bank stops being competitive.",
+        "A small rate edge compounds over decades. On a long tenure, even a quarter percent lower rate quietly saves a large sum by the end."
       ]
     },
     {
@@ -307,37 +302,32 @@
         "Even an extra ₹50,000 a year, put toward principal, can shave years off the loan. Small, regular prepayments add up dramatically.",
         "Time your prepayments for the early years when interest dominates. The same lump sum saves far more in year three than in year fifteen.",
         "When you prepay, ask the bank to reduce the tenure rather than the EMI, if you can afford the EMI. Cutting tenure saves the most total interest.",
-        "Set up prepayment as a habit, not a one-off. Even a fixed extra amount every year, treated like another EMI, dramatically shortens the loan."
+        "Set up prepayment as a habit, not a one-off. Even a fixed extra amount every year, treated like another EMI, dramatically shortens the loan.",
+        "The earlier you start prepaying, the more dramatic the effect, since you cut interest that would otherwise pile up for years."
       ]
     },
     {
-      "type": "stat_grid",
+      "type": "stat_cards",
       "heading": "The Real Cost Picture",
       "icon": "📊",
-      "items": [
+      "cards": [
         {
-          "icon": "alert",
           "value": "~2x",
           "label": "You repay vs borrowed over 20yr",
-          "color": "amber"
+          "variant": "accent"
         },
         {
-          "icon": "trending",
           "value": "₹54L",
-          "label": "Interest on a ₹50L loan",
-          "color": "blue"
+          "label": "Interest on a ₹50L loan"
         },
         {
-          "icon": "check",
           "value": "₹1.5L",
           "label": "Saved per ₹1L prepaid early",
-          "color": "green"
+          "variant": "accent"
         },
         {
-          "icon": "wallet",
           "value": "0%",
-          "label": "Prepay penalty on floating",
-          "color": "green"
+          "label": "Prepay penalty on floating"
         }
       ]
     },

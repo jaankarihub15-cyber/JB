@@ -34,33 +34,27 @@
   },
   "sections": [
     {
-      "type": "stat_grid",
+      "type": "stat_cards",
       "heading": "ITR Filing Key Dates 2026",
       "icon": "📊",
-      "items": [
+      "cards": [
         {
-          "icon": "calendar",
           "value": "31 Jul",
           "label": "ITR-1/2 due (no audit)",
-          "color": "green"
+          "variant": "accent"
         },
         {
-          "icon": "calendar",
           "value": "31 Aug",
-          "label": "ITR-3/4 non-audit",
-          "color": "blue"
+          "label": "ITR-3/4 non-audit"
         },
         {
-          "icon": "alert",
           "value": "₹5,000",
           "label": "Max late penalty",
-          "color": "amber"
+          "variant": "accent"
         },
         {
-          "icon": "check",
           "value": "30 days",
-          "label": "E-verify window",
-          "color": "green"
+          "label": "E-verify window"
         }
       ]
     },
@@ -179,7 +173,8 @@
         "The AIS, or Annual Information Statement, is your friend here. It lists income the department already knows about, from salary to interest to large transactions.",
         "Reconcile your return with the AIS before you submit. If your figures do not match what the department has, that mismatch is the top cause of a notice.",
         "Save a draft as you go. The portal lets you return later, so you do not lose work if you need to fetch a missing document mid-way.",
-        "Use the pre-fill, but never trust it blindly. The portal pulls a lot automatically, yet you are responsible for the final numbers, so verify each one."
+        "Use the pre-fill, but never trust it blindly. The portal pulls a lot automatically, yet you are responsible for the final numbers, so verify each one.",
+        "Take your time on the review screen. A few minutes checking each figure now saves weeks of dealing with a notice later."
       ]
     },
     {
@@ -195,33 +190,27 @@
       ]
     },
     {
-      "type": "stat_grid",
+      "type": "stat_cards",
       "heading": "Filing Essentials",
       "icon": "📊",
-      "items": [
+      "cards": [
         {
-          "icon": "file",
           "value": "Form 16",
           "label": "Salary + TDS summary",
-          "color": "green"
+          "variant": "accent"
         },
         {
-          "icon": "shield",
           "value": "AIS",
-          "label": "All income on record",
-          "color": "blue"
+          "label": "All income on record"
         },
         {
-          "icon": "check",
           "value": "26AS",
           "label": "Tax credit statement",
-          "color": "amber"
+          "variant": "accent"
         },
         {
-          "icon": "wallet",
           "value": "PAN",
-          "label": "Linked, validated bank",
-          "color": "green"
+          "label": "Linked, validated bank"
         }
       ]
     },
@@ -332,7 +321,8 @@
         "Pre-validate your bank account on the portal before filing. A refund can only be credited to a validated account linked to your PAN.",
         "If the refund fails, it is usually a bank detail issue. Fix the account, raise a refund reissue request on the portal, and it is sent again.",
         "Do not fall for messages promising to speed up your refund for a fee. The department never charges for refunds, and such messages are scams.",
-        "Patience helps after filing. Refunds depend on the department's processing queue, which is busiest right after the deadline, so early filers are served sooner in the queue."
+        "Patience helps after filing. Refunds depend on the department's processing queue, which is busiest right after the deadline, so early filers are served sooner in the queue.",
+        "File early in the season if a refund is due. Early returns are processed sooner, so your money comes back faster."
       ]
     },
     {
