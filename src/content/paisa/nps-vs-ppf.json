@@ -1,582 +1,508 @@
 {
- "slug": "nps-vs-ppf",
- "title": "NPS vs PPF 2026 - Retirement Savings Comparison",
- "meta_description": "NPS vs PPF detailed comparison 2026 - returns 8-12% vs 7.1%, lock-in, tax benefits, withdrawal rules, and which is better for your retirement planning.",
- "hero": {
- "one_liner": "NPS gives higher returns (8-12%) plus extra ₹50K tax deduction. PPF gives guaranteed 7.1% completely tax-free. Best retirement strategy uses both.",
- "icon": "⚖️",
- "updated_date": "May 2026",
- "tags": [
- "Retirement Savings",
- "NPS",
- "PPF"
- ],
- "read_time": "10 min",
- "stats": [
- {
- "label": "NPS Returns",
- "value": "8–12% p.a."
- },
- {
- "label": "PPF Returns",
- "value": "7.1% p.a."
- },
- {
- "label": "NPS Lock-in",
- "value": "Till age 60"
- },
- {
- "label": "PPF Lock-in",
- "value": "15 years"
- }
- ]
- },
- "sections": [
- {
- "heading": "NPS vs PPF - Understanding the Fundamental Difference",
- "icon": "📖",
- "type": "text",
- "content": [
- "<h3>PPF - Guaranteed Government-Fixed Returns</h3>",
- "PPF (Public Provident Fund) is a government <a href=\"/compare/nps-vs-epf-vs-ppf\" style=\"text-decoration:underline;color:inherit\">savings</a> scheme where your money earns a fixed 7.1% interest guaranteed by the government. You know exactly how much you'll have at maturity (15 years).",
- "Calculation: ₹1 lakh invested in PPF at 7.1% for 15 years = ₹2.76 lakh (completely certain).",
- "<h3>NPS - Market-Linked Returns</h3>",
- "NPS (<a href=\"/yojana/national-pension-scheme\" style=\"text-decoration:underline;color:inherit\">National Pension System</a>) is a pension account where your money is invested in stocks (60-70%) and bonds (30-40%) by professional fund managers. Returns depend on market performance.",
- "Calculation: ₹1 lakh invested in NPS at 10% average return for 15 years = ₹4.18 lakh (expected, not guaranteed). Could be ₹2.5 lakh in down markets, ₹5 lakh in up markets.",
- "<h3>The Philosophical Difference</h3>",
- "PPF = 'I want to know exactly what I'll have at retirement.'",
- "NPS = 'I'm willing to accept market risk for potentially higher returns.'",
- "Both are valid approaches depending on your risk tolerance and time horizon."
- ]
- },
- {
- "heading": "",
- "type": "svg_block",
- "svg": "<svg viewBox=\"0 0 700 160\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">NPS vs PPF - side by side comparison</text><rect x=\"60\" y=\"45\" width=\"270\" height=\"100\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"195\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#145236\">NPS</text><text x=\"195\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">Market-linked 9-12% </text><text x=\"195\" y=\"108\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">Rs 2L tax deduction </text><text x=\"195\" y=\"128\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#145236\">40% mandatory annuit</text><rect x=\"370\" y=\"45\" width=\"270\" height=\"100\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"505\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#1E40AF\">PPF</text><text x=\"505\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">Guaranteed 7.1% tax-</text><text x=\"505\" y=\"108\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">Rs 1.5L tax deductio</text><text x=\"505\" y=\"128\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#1E40AF\">100% tax-free w/draw</text></svg>",
- "caption": "NPS gives higher potential returns with extra Rs 50,000 tax deduction but locks 40% into annuity. PPF gives guaranteed tax-free returns with full withdrawal flexibility at maturity."
- },
- {
- "heading": "",
- "type": "svg_block",
- "svg": "<svg viewBox=\"0 0 700 160\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">NPS vs PPF - head to head for retirement</text><rect x=\"50\" y=\"45\" width=\"280\" height=\"100\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"190\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#145236\">NPS</text><text x=\"190\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">9-12% market-linked </text><text x=\"190\" y=\"108\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">Rs 2L tax deduction </text><text x=\"190\" y=\"128\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#145236\">Lock-in until 60 60%</text><rect x=\"370\" y=\"45\" width=\"280\" height=\"100\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"510\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#1E40AF\">PPF</text><text x=\"510\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">7.1% guaranteed retu</text><text x=\"510\" y=\"108\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">Rs 1.5L tax deductio</text><text x=\"510\" y=\"128\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#1E40AF\">15-yr lock-in 100% t</text></svg>",
- "caption": "NPS gives higher returns (9-12%) with extra Rs 50,000 tax deduction but maturity is partially taxable. PPF gives guaranteed 7.1% with 100% tax-free maturity. The right answer: use BOTH."
- },
- {
- "heading": "Head-to-Head Comparison - Every Crucial Aspect",
- "icon": "📊",
- "type": "table",
- "columns": [
- "Feature",
- "NPS",
- "PPF"
- ],
- "rows": [
- [
- "Annual Returns",
- "8-12% (market-linked, not guaranteed)",
- "7.1% (government-guaranteed)"
- ],
- [
- "Risk Level",
- "Moderate (equity + bonds)",
- "Zero (government-backed)"
- ],
- [
- "Tax on Contribution",
- "80C (₹1.5L shared limit) + 80CCD(1B) extra ₹50K",
- "80C (₹1.5L shared limit)"
- ],
- [
- "Tax on Returns",
- "60% lump sum tax-free at 60, 40% annuity taxable",
- "100% completely tax-free"
- ],
- [
- "Lock-in Period",
- "Till age 60 (can withdraw partially after 3 years)",
- "15 years (can partially withdraw from year 7)"
- ],
- [
- "Withdrawal at Maturity",
- "60% lump sum, 40% mandatory annuity",
- "100% lump sum, no restrictions"
- ],
- [
- "Investment Choice",
- "You choose equity/bond allocation and fund manager",
- "No choice - government sets fixed rate"
- ],
- [
- "Corpus (₹1.5L/yr for 30 years)",
- "₹2.5-4.5 Crore (at 8-12% returns)",
- "₹1.4 Crore (at 7.1% guaranteed)"
- ],
- [
- "Pension Income at Retirement",
- "40% annuity → ₹7,000-12,000/month for life",
- "No pension, full lump sum only"
- ],
- [
- "Ideal For",
- "Tax-savvy investors, wanting high corpus",
- "Risk-averse savers, guaranteed returns"
- ],
- [
- "Effort Required",
- "Choose fund manager, monitor performance",
- "Zero effort, passive government scheme"
- ]
- ]
- },
- {
- "heading": "The Numbers - ₹1.5 Lakh Investment Per Year for 30 Years",
- "icon": "💰",
- "type": "text",
- "content": [
- "<h3>PPF: Conservative but Certain</h3>",
- "Invest ₹1.5 lakh/year in PPF for 30 years (till age 60).",
- "Total invested: ₹45 lakh.",
- "Corpus at age 60: Approximately ₹1.4 crore (at 7.1% guaranteed).",
- "Tax: COMPLETELY tax-free. You receive full ₹1.4 crore in hand.",
- "Pension: No pension. You get one-time lump sum of ₹1.4 crore. You must manage this lump sum for remaining life (by investing in annuities, FDs, etc.).",
- "<h3>NPS: Growth-Oriented but Volatile</h3>",
- "Invest ₹1.5 lakh/year in NPS for 30 years (till age 60). Assume 10% average return (moderate equity allocation).",
- "Total invested: ₹45 lakh.",
- "Corpus at age 60: Approximately ₹2.7 crore (at 10% returns).",
- "Note: This could be ₹1.8 crore (at 8%) in conservative allocation or ₹4.5 crore (at 12%) in aggressive allocation.",
- "Tax treatment at 60:",
- "60% (₹1.62 crore) withdrawn as lump sum → TAX-FREE.",
- "40% (₹1.08 crore) must purchase annuity → Gives pension of ₹7,000-10,000/month for life (taxable income).",
- "<h3>Comparing Effective Tax Benefits</h3>",
- "PPF: ₹1.5 lakh/year contribution → Tax saved: ₹1.5L × 30% = ₹45,000/year.",
- "NPS: ₹1.5 lakh/year (80C) + ₹50,000/year (80CCD(1B)) = ₹2 lakh deduction → Tax saved: ₹2L × 30% = ₹60,000/year.",
- "NPS extra tax benefit: ₹15,000/year × 30 years = ₹4.5 lakh in cumulative tax <a href=\"/compare/elss-vs-ppf-vs-nps\" style=\"text-decoration:underline;color:inherit\">saving</a>s.",
- "This is like receiving ₹4.5 lakh free money from the government for NPS vs PPF."
- ]
- },
- {
- "heading": "Decision Framework - Which Should You Choose?",
- "icon": "🎯",
- "type": "text",
- "content": [
- "<h3>Choose PPF If:</h3>",
- "1. You're risk-averse and can't tolerate any market volatility.",
- "2. You want 100% guaranteed returns (government backing).",
- "3. You want complete flexibility at maturity (full lump sum, no mandatory annuity).",
- "4. You want complete tax-free status (both contribution and returns).",
- "5. You're above age 45 and prefer safety over growth.",
- "<h3>Choose NPS If:</h3>",
- "1. You're <a href=\"/compare/ppf-vs-elss\" style=\"text-decoration:underline;color:inherit\">under</a> 45 and have 15+ years to retirement (long time horizon absorbs market volatility).",
- "2. You want maximum tax deductions (extra ₹50K beyond 80C).",
- "3. You want potentially higher corpus (8-12% vs 7.1%).",
- "4. You want regular pension income at retirement (annuity component).",
- "5. You're comfortable with equity market fluctuations.",
- "<h3>The Optimal <a href=\"/paisa/sip-vs-fd-vs-ppf\" style=\"text-decoration:underline;color:inherit\">Strategy</a> - Use BOTH</h3>",
- "Max out PPF: ₹1.5 lakh/year (guaranteed tax-free base).",
- "Add NPS: ₹50,000/year under 80CCD(1B) (extra tax deduction + growth).",
- "Total: ₹2 lakh/year invested with maximum tax efficiency.",
- "Outcome: You get guaranteed base (PPF) + growth potential (NPS) + maximum tax savings.",
- "This is the 'best-of-both-worlds' approach used by most smart retirement planners in India."
- ]
- },
- {
- "heading": "Risk in NPS - Can Your Money Decline?",
- "icon": "⚠️",
- "type": "text",
- "content": [
- "<h3>Yes, NPS Value Can Fluctuate</h3>",
- "If you invest ₹10 lakh in NPS today, the value might become ₹8 lakh next year (market down) or ₹12 lakh (market up). This is normal and expected for equity-linked investments.",
- "<h3>But Historical Data Is Reassuring</h3>",
- "Over any 10-year rolling period in India's history, equity investments have always given positive returns. The worst 10-year return was approximately +5% (1990-2000).",
- "Even in horrible market conditions, 10+ year equity investing has beaten inflation and given positive returns.",
- "For NPS, with 15-30 year investment horizons, market crashes are opportunities (you buy more shares at lower prices via SIP). By the time you reach 60, your accumulated wealth benefits from decades of compound growth and market recoveries.",
- "<h3>Scenario: 2020 COVID Market Crash</h3>",
- "NPS value declined 30% in March 2020 (stock market fell 30%). Investors panicked.",
- "By Dec 2020, markets recovered. By 2022, markets were at all-time highs.",
- "Those who continued investing via SIP through the crash benefited massively (bought at lowest prices, sold at highest prices).",
- "This is why NPS with long time horizon is actually powerful - you benefit from market cycles."
- ]
- },
- {
- "heading": "How to Get Started - Opening NPS and PPF",
- "icon": "🚀",
- "type": "steps",
- "steps": [
- {
- "step": 1,
- "title": "Open PPF: Visit post office or bank",
- "description": "Bring Aadhaar and PAN. Open account (one-time, takes 15 mins). You get a PPF savings book. Invest ₹500-1.5L annually via cheque or online transfer. Interest credited every March."
- },
- {
- "step": 2,
- "title": "Open NPS: Go online to enps.nsdl.com",
- "description": "Register with PAN + Aadhaar + email. Complete e-KYC (10 mins). Choose fund manager (default is SBI or ICICI). Choose asset allocation (for beginners, 'Tier-2 Auto Choice' is simplest - auto-allocates based on age). Start investing."
- },
- {
- "step": 3,
- "title": "Set up regular contributions",
- "description": "PPF: Manual annual transfer. NPS: Set up monthly auto-debit from your bank account (₹4,167/month = ₹50,000/year). This ensures discipline."
- },
- {
- "step": 4,
- "title": "Monitor annually",
- "description": "Check PPF balance (should grow steadily). Check NPS performance (compare with benchmark, but don't panic on bad months). Rebalance asset allocation every 5 years or when life changes."
- }
- ]
- },
- {
- "type": "text",
- "heading": "The core difference - market-linked vs guaranteed",
- "icon": "⚖️",
- "content": [
- "NPS invests your money in equity, corporate bonds, and government securities - managed by professional fund managers. Returns are market-linked: 9-12% average over 10 years historically, but can vary from -5% to +25% in any single year.",
- "You choose your asset allocation (how much in equity vs bonds) and fund manager. This control and growth potential is NPS's biggest advantage.",
- "PPF invests your money in government securities - the government guarantees both the principal and interest. Returns are fixed at 7.1% (revised quarterly but rarely changed).",
- "There's zero market risk - your money grows predictably every year. This guaranteed, tax-free compounding is PPF's biggest advantage.",
- "The fundamental trade-off: NPS gives potentially higher returns (2-5% more than PPF) but with uncertainty and partial taxation at maturity. PPF gives lower but guaranteed returns with 100% tax-free maturity.",
- "Neither is universally 'better' - the right choice depends on your risk tolerance, time horizon, and tax situation."
- ]
- },
- {
- "type": "svg_block",
- "heading": "Visual: NPS vs PPF 2026 Key Numbers",
- "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">8–12% p.a.</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">NPS Returns</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">7.1% p.a.</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">PPF Returns</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">Till age 60</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">NPS Lock-in</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">15 years</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">PPF Lock-in</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
- "caption": "Key numbers for NPS vs PPF 2026 - Retirement S",
- "description": "Quick overview of the most important numbers and facts."
- },
- {
- "type": "text",
- "heading": "Tax comparison - NPS wins on deduction, PPF wins on maturity",
- "icon": "💰",
- "content": [
- "NPS tax benefits: Rs 1.5 lakh under 80CCD(1) within 80C limit + Rs 50,000 ADDITIONAL under 80CCD(1B) = total Rs 2 lakh deduction. At 30% bracket: Rs 62,400 saved annually. The extra Rs 50,000 deduction (80CCD(1B)) is NPS's unique advantage - no other investment offers this beyond the 80C limit.",
- "PPF tax benefits: Rs 1.5 lakh under 80C. At 30% bracket: Rs 46,800 saved annually. No additional deduction beyond 80C. PPF competes with ELSS, insurance premiums, and other 80C instruments for the same Rs 1.5 lakh limit.",
- "At maturity - PPF wins: PPF maturity is 100% tax-free (EEE status - Exempt-Exempt-Exempt). NPS maturity: 60% lump sum is tax-free, but the 40% used for annuity purchase generates monthly pension that IS taxable as income.",
- "So NPS is EET (Exempt-Exempt-Taxed) - the pension income you receive is taxed at your slab rate.",
- "Net impact: For investors in 30% bracket, NPS saves Rs 15,600 MORE per year in tax deductions than PPF (through the extra Rs 50,000 80CCD(1B)). Over 25 years: Rs 3.9 lakh in additional tax savings with NPS.",
- "But at retirement, PPF's 100% tax-free maturity can offset this advantage depending on your retirement tax bracket. For most retirees in 0-10% bracket, NPS's tax on annuity income is minimal - making NPS the net winner overall."
- ]
- },
- {
- "type": "svg_block",
- "heading": "Quick Facts",
- "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Quick Facts</text><rect x=\"17\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"94\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">8–12% p.a.</text><text x=\"94\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">NPS Returns</text><rect x=\"187\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"264\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">7.1% p.a.</text><text x=\"264\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">PPF Returns</text><rect x=\"357\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"434\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#92400E\">Till age 60</text><text x=\"434\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">NPS Lock-in</text><rect x=\"527\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"604\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">15 years</text><text x=\"604\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">PPF Lock-in</text></svg>",
- "caption": "Quick reference facts",
- "description": "Key facts and numbers at a glance"
- },
- {
- "type": "text",
- "heading": "Returns comparison - Rs 10,000/month for 25 years",
- "icon": "📊",
- "content": [
- "NPS at 10% average (moderate equity allocation): Rs 10,000/month for 25 years = corpus of approximately Rs 1.33 crore. Total investment: Rs 30 lakh.",
- "Wealth created: Rs 1.03 crore. Of this, Rs 80 lakh is lump sum (tax-free) and Rs 53 lakh buys annuity generating approximately Rs 30,000/month pension (taxable).",
- "PPF at 7.1%: Rs 10,000/month for 25 years (15 years initial + 10 years extension) = corpus of approximately Rs 86 lakh. Total investment: Rs 30 lakh. Wealth created: Rs 56 lakh. Entire Rs 86 lakh is tax-free. No mandatory annuity - withdraw the full amount or continue earning 7.1% tax-free.",
- "The Rs 47 lakh gap: NPS creates Rs 1.33 crore vs PPF's Rs 86 lakh - a Rs 47 lakh difference. Even after NPS's partial taxation, the net corpus from NPS exceeds PPF by Rs 35-40 lakh.",
- "This gap comes entirely from the 3% higher return (10% vs 7.1%) compounding over 25 years. The longer the time horizon, the wider the gap favors NPS.",
- "But PPF's certainty has value: NPS's Rs 1.33 crore is an ESTIMATE based on 10% average - actual corpus could be Rs 1.1 crore (conservative market) or Rs 1.6 crore (bullish market). PPF's Rs 86 lakh is GUARANTEED - you know exactly how much you'll have.",
- "For people who can't sleep at night watching their NPS fluctuate, PPF's certainty provides invaluable peace of mind."
- ]
- },
- {
- "type": "text",
- "heading": "Liquidity and withdrawal - PPF is more flexible",
- "icon": "🔓",
- "content": [
- "NPS withdrawal: Locked until age 60 (except 3 partial withdrawals after year 3 for specific reasons - education, medical, housing). At 60: 60% lump sum + mandatory 40% annuity.",
- "Premature exit (before 60): 80% mandatory annuity, only 20% lump sum. NPS is the most illiquid mainstream investment product - designed for retirement only.",
- "PPF withdrawal: Locked for 15 years initially, but partial withdrawal allowed from year 7 (up to 50% of balance). Loan facility from year 3-6 at PPF rate + 1%.",
- "After 15-year maturity: withdraw full amount or extend in 5-year blocks. PPF is more liquid than NPS but still significantly locked compared to FDs or mutual funds.",
- "Which suits you? If you're disciplined and don't need the money before 60: NPS's forced illiquidity builds a larger retirement corpus. If you might need the money for children's education (year 15-20) or house purchase: PPF's partial withdrawal from year 7 provides the flexibility NPS doesn't.",
- "Emergency access: Neither NPS nor PPF is suitable for emergency funds. Keep 6 months' expenses in a savings account or liquid mutual fund. NPS and PPF are retirement-ONLY investments. Treating them as emergency or short-term savings defeats their purpose."
- ]
- },
- {
- "type": "text",
- "heading": "The optimal strategy - use BOTH NPS and PPF",
- "icon": "🎯",
- "content": [
- "The NPS vs PPF debate has a simple answer: don't choose - use both. Rs 50,000 in NPS Tier I (for the exclusive 80CCD(1B) deduction - this Rs 50,000 gives a tax benefit that PPF can't).",
- "Rs 1,00,000 in PPF (within 80C limit - guaranteed, tax-free growth). Total: Rs 1,50,000 invested, Rs 2,00,000 in tax deductions claimed.",
- "Why this combination works: NPS provides equity exposure (growth) + extra tax deduction (Rs 50,000). PPF provides safety (guaranteed) + tax-free maturity. Your retirement portfolio has both growth and stability. Neither product alone provides both - the combination does.",
- "At retirement: NPS gives monthly pension income (from annuity) + lump sum. PPF gives a large tax-free corpus.",
- "The NPS pension covers monthly expenses. The PPF corpus is your safety net - available for medical emergencies, children's marriage, or unexpected expenses.",
- "This dual-product retirement strategy is what financial planners recommend for 90% of Indians.",
- "Monthly allocation example for Rs 15,000/month total retirement savings: Rs 4,200 in NPS (Rs 50,000/year for 80CCD(1B)), Rs 8,300 in PPF (Rs 1,00,000/year within 80C), Rs 2,500 in ELSS (Rs 30,000/year for equity growth within 80C). Total tax deduction: Rs 1,80,000.",
- "Tax saved at 30%: Rs 56,160/year. After 25 years: approximately Rs 60 lakh (NPS) + Rs 55 lakh (PPF) + Rs 25 lakh (ELSS) = Rs 1.4 crore retirement corpus."
- ]
- },
- {
- "type": "callout",
- "variant": "tip",
- "heading": "Rs 50,000 in NPS is a no-brainer - even if you prefer PPF",
- "content": "The Rs 50,000 additional deduction under 80CCD(1B) is available ONLY for NPS. Even the most die-hard PPF fan should invest Rs 50,000/year in NPS just for this deduction. At 30% bracket: Rs 15,600 saved annually. Over 25 years: Rs 3.9 lakh in pure tax savings - plus the Rs 50,000 grows at 9-12% inside NPS. It's free money that you're leaving on the table if you don't use NPS."
- },
- {
- "type": "callout",
- "variant": "warning",
- "heading": "NPS annuity income is TAXABLE - factor this into your comparison",
- "content": "PPF maturity is 100% tax-free. NPS: the 60% lump sum is tax-free BUT the 40% annuity generates monthly pension that's taxed as regular income. If your NPS annuity generates Rs 30,000/month, you pay income tax on Rs 3.6 lakh/year. At 10% bracket (senior citizen old regime): Rs 36,000 tax/year on NPS pension. PPF: Rs 0 tax ever. For a fair comparison, always calculate NPS returns AFTER tax on annuity."
- },
- {
- "type": "pullquote",
- "text": "NPS at 10% for 25 years: Rs 1.33 crore (partially taxable). PPF at 7.1% for 25 years: Rs 86 lakh (100% tax-free). The Rs 47 lakh gap favors NPS - but PPF's guarantee and tax-free status have real value. The smartest move? Rs 50,000/year in NPS (for the extra tax deduction) + Rs 1,00,000/year in PPF (for guaranteed tax-free growth). Use both. Retire rich."
- },
- {
- "type": "text",
- "heading": "The fundamental difference - market-linked vs guaranteed",
- "icon": "⚖️",
- "content": [
- "NPS invests your money in equity (stocks), corporate bonds, and government securities through professional fund managers. Your returns depend on market performance - in good years you may earn 14-16%, in bad years 2-4%.",
- "The average over 10+ years has been 9-12%. You choose your asset allocation (aggressive to conservative) and can change it annually.",
- "NPS gives you potential for wealth creation but with no guaranteed return.",
- "PPF invests in government-backed instruments and offers a fixed rate - currently 7.1% per annum. This rate is set by the Finance Ministry and reviewed quarterly, but historically hasn't dropped below 7% in 15 years.",
- "Your money grows predictably - Rs 1.5 lakh invested annually at 7.1% for 15 years becomes Rs 40.7 lakh. No surprises, no market crashes affecting your savings.",
- "PPF gives you absolute safety but limited growth potential.",
- "The core trade-off: NPS may give you Rs 1.5 crore at retirement if markets perform well. PPF will give you Rs 40-50 lakh guaranteed.",
- "NPS has the upside potential but also downside risk. PPF has no downside but a capped upside.",
- "The right answer depends on your risk tolerance, age, and how much of your retirement savings you're willing to expose to market movements."
- ]
- },
- {
- "type": "text",
- "heading": "Tax benefits comparison - NPS wins by Rs 50,000",
- "icon": "💰",
- "content": [
- "PPF tax benefits: Investment up to Rs 1.5 lakh deductible under Section 80C. Interest earned is tax-free.",
- "Maturity amount is 100% tax-free. This is EEE (Exempt-Exempt-Exempt) - the best possible tax treatment.",
- "Total deduction: Rs 1.5 lakh (within the 80C limit shared with ELSS, LIC, home loan principal, etc.).",
- "NPS tax benefits: Investment up to Rs 1.5 lakh deductible under Section 80CCD(1) - within the 80C limit (same as PPF). PLUS additional Rs 50,000 deductible under Section 80CCD(1B) - this is OVER AND ABOVE the Rs 1.5 lakh 80C limit.",
- "Total NPS deduction: Rs 2 lakh. At 30% tax bracket, the extra Rs 50,000 saves Rs 15,600 in tax annually.",
- "But NPS maturity is partially taxable: 60% lump sum withdrawal is tax-free. The 40% used for annuity is tax-free at purchase. But the monthly annuity INCOME is taxed as regular income. PPF maturity is 100% tax-free - period. No tax on withdrawal, no tax on interest, no tax on maturity amount.",
- "Net tax advantage: NPS gives Rs 50,000 more in annual deductions (saving Rs 15,600/year at 30% bracket). Over 30 years: Rs 4.68 lakh in additional tax savings from NPS.",
- "But PPF's completely tax-free maturity may offset this advantage depending on your post-retirement tax bracket. For most middle-class retirees in the 5-10% bracket, NPS's extra annual deduction is worth more than the marginal tax on annuity income."
- ]
- },
- {
- "type": "svg_block",
- "heading": "Visual: Process Steps",
- "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><defs><marker id=\"af\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><polygon points=\"0 0, 10 3, 0 6\" fill=\"#1E40AF\"/></marker></defs><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Process Steps</text><rect x=\"20\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"90\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Open PPF: Visit po</text><line x1=\"160\" y1=\"65\" x2=\"180\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"190\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"260\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Open NPS: Go onlin</text><line x1=\"330\" y1=\"65\" x2=\"350\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"360\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"430\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Set up regular con</text><line x1=\"500\" y1=\"65\" x2=\"520\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"530\" y=\"45\" width=\"140\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"600\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Monitor annually</text></svg>",
- "caption": "Steps to follow",
- "description": "Visual guide to the process."
- },
- {
- "type": "text",
- "heading": "Returns comparison - 20-year projection",
- "icon": "📊",
- "content": [
- "NPS at 10% average (moderate equity allocation): Rs 50,000/year for 20 years = Rs 10 lakh invested. Corpus: approximately Rs 34.4 lakh.",
- "At 12% (aggressive equity): Rs 44.6 lakh. These are estimates - actual returns vary year to year.",
- "NPS's equity component can give high returns but also means your corpus can drop 15-25% in a single bad year.",
- "PPF at 7.1% guaranteed: Rs 50,000/year for 20 years = Rs 10 lakh invested. Corpus: approximately Rs 22.2 lakh. Guaranteed, tax-free, government-backed. Your corpus NEVER decreases - it only grows at the fixed rate. The predictability is PPF's superpower.",
- "The gap: NPS at 10% gives Rs 12.2 lakh MORE than PPF. At 12%: Rs 22.4 lakh more.",
- "This difference comes from the equity premium - the additional return you earn by accepting market risk. Over 20 years, the equity premium is substantial.",
- "But remember: NPS could also underperform PPF in rare scenarios (prolonged market downturn combined with high bond allocation).",
- "For maximum retirement corpus: Use BOTH. Rs 50,000 in NPS (for extra Rs 50,000 tax deduction + equity growth) + Rs 1.5 lakh in PPF (for guaranteed safety).",
- "Total annual investment: Rs 2 lakh. Total tax deduction: Rs 2 lakh.",
- "At retirement: NPS gives Rs 34-45 lakh (market-dependent) + PPF gives Rs 40-50 lakh (guaranteed) = Rs 74-95 lakh combined. This dual approach gives you both growth potential and safety."
- ]
- },
- {
- "type": "text",
- "heading": "Withdrawal flexibility - PPF wins clearly",
- "icon": "🔓",
- "content": [
- "PPF withdrawal: After 6 complete years, partial withdrawal up to 50% of balance is allowed (once per year). At maturity (15 years): 100% withdrawal, completely tax-free, no conditions.",
- "Extend indefinitely in 5-year blocks - with or without fresh contributions. If you die, 100% goes to nominee with zero tax.",
- "PPF gives you maximum control over your money after the lock-in period.",
- "NPS withdrawal: At 60, you MUST use 40% to buy an annuity (no choice - this is mandatory). Remaining 60% can be withdrawn tax-free as lump sum.",
- "Before 60: only 20% lump sum, 80% must go to annuity. Partial withdrawal allowed after 3 years for specific reasons (education, medical, house) - max 25%, max 3 times total.",
- "NPS restricts your access significantly more than PPF.",
- "The annuity trap in NPS: The mandatory 40% annuity purchase is NPS's most criticized feature. Annuity rates from insurance companies are 6-7% - meaning your Rs 40 lakh annuity generates only Rs 20,000-23,000/month.",
- "If that Rs 40 lakh were in PPF earning 7.1% tax-free, it would generate Rs 23,667/month. The annuity from NPS pays LESS than PPF would - and the annuity income is TAXABLE while PPF interest is tax-free.",
- "Counter-argument: The annuity provides LIFETIME guaranteed income - you never outlive your money. PPF maturity is a lump sum that you manage yourself.",
- "If you live to 90 and spend recklessly, the PPF lump sum could run out. The annuity can't - it pays until death.",
- "For disciplined savers, PPF's flexibility is better. For those who might overspend in retirement, NPS's forced annuity is protective."
- ]
- },
- {
- "type": "text",
- "heading": "Who should choose NPS and who should choose PPF",
- "icon": "🎯",
- "content": [
- "Choose NPS if: You want the extra Rs 50,000 tax deduction (Section 80CCD(1B)) that PPF doesn't offer. You're comfortable with market-linked returns.",
- "You're under 40 and have 20+ years for compounding. You want equity exposure in your retirement portfolio without managing it yourself (NPS fund managers do it for you).",
- "You already maxed out PPF at Rs 1.5 lakh and want additional retirement savings.",
- "Choose PPF if: You're risk-averse and want guaranteed returns. You want 100% tax-free maturity with no annuity obligation.",
- "You prefer knowing exactly how much money you'll have at retirement. You're over 50 and can't afford market volatility near retirement.",
- "You want maximum withdrawal flexibility after the lock-in period.",
- "Choose BOTH (recommended): Rs 50,000 in NPS (capture the extra Rs 50,000 tax deduction, get equity exposure) + Rs 1,00,000-1,50,000 in PPF (guaranteed safety, tax-free maturity). This isn't choosing between them - it's using each for what it does best.",
- "NPS for growth + tax deduction. PPF for safety + flexibility.",
- "Together they create a balanced retirement portfolio that no single product can match.",
- "The Rs 2 lakh optimal strategy: Rs 1,50,000 in PPF (fills 80C limit) + Rs 50,000 in NPS (fills 80CCD(1B) additional deduction) = Rs 2,00,000 total annual investment. Tax saved at 30% bracket: Rs 62,400/year.",
- "After 25 years: PPF corpus Rs 70-80 lakh (guaranteed, tax-free) + NPS corpus Rs 30-50 lakh (market-dependent, 60% tax-free lump sum). Combined retirement corpus: Rs 1-1.3 crore.",
- "This is achievable on a Rs 5-8 lakh annual income."
- ]
- },
- {
- "type": "callout",
- "variant": "tip",
- "heading": "Don't choose between NPS and PPF - use BOTH",
- "content": "The optimal strategy: Rs 1.5 lakh in PPF (80C deduction + guaranteed 7.1% tax-free) + Rs 50,000 in NPS (extra 80CCD(1B) deduction + market-linked growth). Total tax deduction: Rs 2 lakh. Tax saved at 30% bracket: Rs 62,400/year. You get the safety of PPF AND the growth potential of NPS. Together they're stronger than either alone."
- },
- {
- "type": "callout",
- "variant": "warning",
- "heading": "NPS forces 40% into annuity - understand before investing",
- "content": "At age 60, NPS mandates that 40% of your corpus must buy an annuity from an insurance company. Annuity rates are 6-7% - and the income is taxable. You cannot withdraw the full NPS corpus as lump sum (unlike PPF where 100% is yours). If you dislike this restriction, invest only Rs 50,000 in NPS (for the tax benefit) and put the bulk of retirement savings in PPF."
- },
- {
- "type": "pullquote",
- "text": "NPS gives you Rs 50,000 extra tax deduction that PPF can't. PPF gives you 100% tax-free maturity that NPS can't. NPS has equity growth potential of 12%. PPF has guaranteed 7.1%. They're not competitors - they're complementary. The investor who uses BOTH builds a retirement corpus that's both growing and protected. Rs 2 lakh/year in NPS + PPF for 25 years = Rs 1+ crore at retirement."
- },
- {
- "type": "text",
- "heading": "NPS vs PPF for different investor profiles",
- "icon": "👤",
- "content": [
- "Conservative investor (hates risk): 80% PPF + 20% NPS (with conservative auto choice - 25% equity). You get the bulk of your retirement in guaranteed tax-free PPF while the small NPS allocation gives you the extra Rs 50,000 80CCD(1B) deduction.",
- "The 20% NPS exposure won't keep you awake at night because it's a small portion of total retirement savings.",
- "Moderate investor (can tolerate some risk): 50% PPF + 50% NPS (with moderate auto choice - 50% equity). Balanced approach - half your retirement grows at guaranteed 7.1%, half grows at potentially 10-12%.",
- "The NPS portion provides growth that PPF can't match. If markets crash, your PPF half is unaffected.",
- "Aggressive investor (comfortable with equity): 30% PPF + 70% NPS (with aggressive active choice - 75% equity). Maximum growth potential from NPS's equity allocation.",
- "PPF serves as your safety anchor - 30% of retirement in guaranteed returns ensures you won't be destitute even if equity markets underperform. This profile suits young investors (25-35) with 25+ years to retirement.",
- "Government employees (already have NPS): Your employer contributes 14% of basic+DA to NPS. Focus your personal investment on PPF (Rs 1.5 lakh/year) for the guaranteed tax-free component.",
- "Don't over-allocate to NPS voluntarily - you're already getting substantial NPS through employer contribution. PPF diversifies your retirement away from market-linked NPS."
- ]
- },
- {
- "type": "text",
- "heading": "Calculators and resources",
- "icon": "🔧",
- "content": [
- "Compare NPS vs PPF returns with our calculators at knowledgekendra.com - NPS calculator shows projected corpus at different equity allocations and return rates. PPF calculator shows guaranteed maturity amount at current 7.1% rate.",
- "Run both with your specific monthly amount and time horizon to see the exact difference.",
- "NPS official portal: enps.nsdl.com for account opening, fund manager performance comparison, and contribution management. NPS Trust: npstrust.org.in for fund-wise returns data.",
- "PPF: open at any bank or post office. Both products have zero brokerage or commission - invest directly without intermediaries.",
- "For comprehensive retirement planning: combine NPS calculator + PPF calculator + EPF calculator (if salaried). Your total retirement corpus = NPS + PPF + EPF + any other savings.",
- "Most financial planners recommend total retirement corpus = 25x your annual expenses. If you spend Rs 5 lakh/year, target Rs 1.25 crore by age 60.",
- "Use all three products to reach this target."
- ]
- },
- {
- "type": "callout",
- "heading": "Official Sources & References",
- "icon": "📖",
- "variant": "info",
- "content": "Source: Public Provident Fund Scheme, 2019 (Ministry of Finance notification). All information on this page has been verified against official government notifications and regulatory circulars. For the latest updates, always check the official portal."
- }
- ],
- "faqs": [
- {
- "question": "Can I invest in both NPS and PPF simultaneously?",
- "answer": "YES, absolutely. They serve different purposes. PPF falls under 80C (₹1.5L shared limit). NPS 80CCD(1B) is EXTRA above the ₹1.5L limit. Having both is the most tax-efficient retirement strategy. PPF provides guaranteed base, NPS provides growth potential."
- },
- {
- "question": "Which has better post-tax returns - NPS or PPF?",
- "answer": "PPF: 7.1% completely tax-free = 7.1% in your pocket. NPS at 10% return: 60% (₹6) is tax-free, 40% (₹4) becomes taxable pension. Effective: approximately 7.5-8.5%. In highest tax brackets, PPF's tax-free 7.1% might beat NPS. But NPS has the extra ₹50K deduction advantage offsetting any return difference."
- },
- {
- "question": "What happens to NPS if stock market crashes right before I turn 60?",
- "answer": "Your NPS value declines (paper loss). But at 60, you withdraw 60% as lump sum (at whatever value, crashed or not). The remaining 40% purchases an annuity. This is where diversification matters - if your NPS has 40% bonds, the impact is cushioned. This is why shifting to conservative allocation around age 55 is smart (reduce equity risk as you approach 60)."
- },
- {
- "question": "Can I withdraw NPS before age 60?",
- "answer": "Partial withdrawal allowed after age 3 years for: (1) Education of children, (2) Medical treatment, (3) Housing, (4) Marriage. Full withdrawal before 60: Only on disability or serious illness. Generally, NPS is locked till 60. PPF is more flexible (partial from year 7, full after 15 years)."
- },
- {
- "question": "PPF has 15-year lock-in. Isn't NPS's 'lock-in till 60' worse?",
- "answer": "Technically yes. PPF matures in 15 years; you can access all money. NPS locks till 60 (could be 30+ years away). However, PPF's 15-year lock-in is actually a feature for long-term savers - it forces discipline. NPS's longer lock-in is less of a disadvantage if you're planning to retire at 60 anyway. And you can partially withdraw from NPS for specific needs after 3 years."
- },
- {
- "question": "My current age is 35. I'm thinking NPS or PPF. Which should I pick?",
- "answer": "At 35, you have 25 years to retirement. NPS is optimal - long time horizon absorbs market volatility, you get extra ₹50K deduction, and you'll build higher corpus (₹3-4 crore likely). But add ₹1.5L/year in PPF too (if possible) for guaranteed base. Ideally: PPF ₹1.5L + NPS ₹50K = ₹2L/year for maximum tax efficiency."
- },
- {
- "question": "What's the pension amount from NPS at 60?",
- "answer": "Depends on your annuity corpus. If your NPS corpus is ₹2.5 crore and you buy annuity with 40% (₹1 crore), the monthly pension is approximately ₹7,000-9,000/month for life (at current annuity rates). Different insurers offer different rates. If corpus is ₹4 crore, pension could be ₹12,000-15,000/month."
- },
- {
- "question": "Which gives better returns - NPS or PPF?",
- "answer": "NPS: 9-12% average (market-linked, not guaranteed). PPF: 7.1% (guaranteed). Over 25 years, NPS builds approximately Rs 47 lakh more than PPF on the same monthly investment. However, NPS returns fluctuate year to year while PPF is predictable. For risk-tolerant investors with 20+ year horizon, NPS is better for returns. For risk-averse investors, PPF is better for certainty."
- },
- {
- "question": "Can I invest in both NPS and PPF?",
- "answer": "Yes - and you should. NPS gives an extra Rs 50,000 tax deduction (80CCD(1B)) that PPF can't. PPF gives guaranteed tax-free returns that NPS can't. Invest Rs 50,000 in NPS + Rs 1,00,000 in PPF = Rs 1,50,000 invested with Rs 2,00,000 in total deductions. This is the most tax-efficient retirement combination."
- },
- {
- "question": "Is NPS or PPF better for tax saving?",
- "answer": "NPS is better for TAX DEDUCTION: Rs 2 lakh total deduction (80C + 80CCD(1B)) vs PPF's Rs 1.5 lakh (80C only). PPF is better for TAX-FREE MATURITY: 100% tax-free vs NPS's annuity being taxable. Net impact: NPS saves more tax during accumulation, PPF saves more tax at withdrawal. Over a 25-year period, NPS usually wins the overall tax comparison."
- },
- {
- "question": "What happens to NPS at retirement?",
- "answer": "At age 60: withdraw up to 60% as tax-free lump sum. Mandatory 40% (minimum) must be used to buy an annuity from an insurance company - this generates monthly pension (taxable). If total NPS corpus is below Rs 5 lakh, you can withdraw 100% as lump sum without buying annuity. PPF at maturity: withdraw 100% tax-free or extend in 5-year blocks."
- },
- {
- "question": "Is NPS better than PPF for retirement?",
- "answer": "Neither is universally better. NPS gives higher potential returns (9-12%) and extra Rs 50,000 tax deduction. PPF gives guaranteed returns (7.1%), 100% tax-free maturity, and full withdrawal flexibility. The best approach: use NPS for growth (Rs 50,000) + PPF for safety (Rs 1.5 lakh). Together they create a balanced retirement plan."
- },
- {
- "question": "Can I invest in both NPS and PPF?",
- "answer": "Yes - and you should. NPS and PPF are independent. Rs 1.5 lakh in PPF gives 80C deduction. Rs 50,000 in NPS gives ADDITIONAL 80CCD(1B) deduction. Total deduction: Rs 2 lakh. No conflict, no overlap. Open PPF at any bank/post office and NPS at enps.nsdl.com."
- },
- {
- "question": "Which gives better returns - NPS or PPF?",
- "answer": "NPS has historically given 9-12% (depending on equity allocation) vs PPF's 7.1%. Over 20 years: NPS at 10% grows Rs 10 lakh to Rs 34 lakh. PPF grows the same Rs 10 lakh to Rs 22 lakh. But NPS returns are not guaranteed - they can be lower than PPF in bad market years. PPF returns are guaranteed by the government."
- },
- {
- "question": "What is the lock-in period for NPS vs PPF?",
- "answer": "NPS: Locked until age 60 (partial withdrawal after 3 years for specific purposes). PPF: Locked for 15 years (partial withdrawal from year 7). PPF's lock-in is shorter AND more flexible. NPS's lock-in is effectively 25-40 years depending on when you start (age 25 means locked until 60 = 35 years)."
- }
- ],
- "disclaimer": "NPS and PPF information as of March 2026. Past returns don't guarantee future results. NPS returns depend on fund selection and market conditions. Always consult a financial advisor for retirement planning specific to your situation.",
- "related_pages": [
- {
- "title": "NPS - Complete Guide",
- "slug": "national-pension-scheme",
- "tag": "Retirement",
- "url": "/yojana/national-pension-scheme"
- },
- {
- "title": "PPF - Complete Guide",
- "slug": "ppf-guide",
- "tag": "Savings",
- "url": "/paisa/ppf-guide"
- },
- {
- "title": "Section 80C Tax Guide",
- "slug": "section-80c-guide",
- "tag": "Tax Deduction",
- "url": "/paisa/section-80c-guide"
- },
- {
- "title": "SIP vs FD vs PPF",
- "slug": "sip-vs-fd-vs-ppf",
- "tag": "Investment Comparison",
- "url": "/paisa/sip-vs-fd-vs-ppf"
- },
- {
- "title": "ELSS - Tax Saving Funds",
- "slug": "what-is-elss",
- "tag": "Tax Saving",
- "url": "/paisa/what-is-elss"
- }
- ],
- "tags": [
- "NPS",
- "PPF",
- "Retirement Planning",
- "Pension",
- "Tax Saving",
- "Comparison"
- ],
- "image_suggestions": [
- "nps-vs-ppf-returns-projection",
- "corpus-at-60-comparison",
- "tax-efficiency-nps-ppf",
- "risk-vs-return-chart",
- "pension-income-from-nps",
- "optimal-allocation-both-schemes"
- ],
- "last_reviewed": "May 2026"
+  "slug": "nps-vs-ppf",
+  "title": "NPS vs PPF 2026: Returns, Tax & Which Is Better",
+  "meta_description": "NPS vs PPF 2026: returns, lock-in, tax benefits, new-regime rules, the 80/20 NPS withdrawal change, and why using both often beats choosing one.",
+  "hero": {
+    "one_liner": "NPS gives higher returns (8-12%) plus extra ₹50K tax deduction. PPF gives guaranteed 7.1% completely tax-free. Best retirement strategy uses both.",
+    "icon": "⚖️",
+    "updated_date": "May 2026",
+    "tags": [
+      "Retirement Savings",
+      "NPS",
+      "PPF"
+    ],
+    "read_time": "10 min",
+    "stats": [
+      {
+        "label": "NPS Returns",
+        "value": "~8-10% (market)"
+      },
+      {
+        "label": "PPF Rate",
+        "value": "7.1% (tax-free)"
+      },
+      {
+        "label": "NPS Tax",
+        "value": "+₹50k (80CCD1B, old regime)"
+      },
+      {
+        "label": "PPF Status",
+        "value": "EEE, fully tax-free"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "icon": "⚖️",
+      "heading": "NPS vs PPF: The Core Difference",
+      "content": [
+        "NPS and PPF are both retirement tools, but they work in opposite ways. PPF gives a fixed, guaranteed, tax-free return set by the government.",
+        "NPS is market-linked. Your money is invested in equity and debt, so returns can be higher over the long run, but they are not guaranteed.",
+        "Put simply, PPF is safety and certainty, while NPS is growth with some risk.",
+        "That single difference drives almost everything else about how the two behave.",
+        "The good news is you do not have to pick just one. For many people, using both together is the smartest approach, as we explain below.",
+        "Both are backed by the government, so neither is a risky scheme. The difference is only in how the returns are generated.",
+        "Choosing between them often comes down to your age, your risk comfort and your tax regime. We walk through each of these below.",
+        "Both reward patience. The longer you stay invested, the more the difference between safety and growth plays out in your favour."
+      ]
+    },
+    {
+      "type": "stat_cards",
+      "heading": "NPS vs PPF at a Glance",
+      "icon": "📊",
+      "cards": [
+        {
+          "value": "~8-10%",
+          "label": "NPS returns (market-linked)",
+          "variant": "accent"
+        },
+        {
+          "value": "7.1%",
+          "label": "PPF rate (guaranteed, tax-free)"
+        },
+        {
+          "value": "+₹50,000",
+          "label": "Extra NPS deduction, old regime",
+          "variant": "accent"
+        },
+        {
+          "value": "15 years",
+          "label": "PPF lock-in (NPS till 60)"
+        }
+      ]
+    },
+    {
+      "type": "comparison_table",
+      "heading": "Head to Head Comparison",
+      "icon": "📋",
+      "columns": [
+        "Feature",
+        "NPS",
+        "PPF"
+      ],
+      "rows": [
+        [
+          "Returns",
+          "Market-linked, ~8-10%",
+          "Fixed 7.1%, tax-free"
+        ],
+        [
+          "Risk",
+          "Some market risk",
+          "None, government backed"
+        ],
+        [
+          "Lock-in",
+          "Till age 60",
+          "15 years"
+        ],
+        [
+          "Tax on exit",
+          "Partly taxable (annuity)",
+          "Fully tax-free (EEE)"
+        ],
+        [
+          "Extra deduction",
+          "₹50k under 80CCD(1B)",
+          "None beyond 80C"
+        ]
+      ],
+      "footnote": "Both are strong. NPS wins on growth and extra deduction; PPF wins on safety and tax-free exit."
+    },
+    {
+      "type": "text",
+      "icon": "📈",
+      "heading": "Returns: Growth vs Certainty",
+      "content": [
+        "Over a long period, NPS usually builds a bigger corpus because of equity exposure. Historically it has returned around 8 to 10 percent a year.",
+        "Take ₹1.5 lakh a year for 25 years. At 7.1 percent, PPF grows to roughly ₹1 crore.",
+        "At about 10 percent over the same period, NPS could reach around ₹1.5 crore.",
+        "But NPS returns swing with the market, so the final figure is not fixed. PPF gives you exactly what the formula promises, with no surprises.",
+        "So if certainty matters most to you, PPF wins. If you can ride out market ups and downs for higher growth, NPS has the edge.",
+        "Remember that NPS returns also depend on your fund choice and equity mix. A more equity-heavy NPS can grow faster but swings more.",
+        "PPF, on the other hand, pays the same notified rate to everyone. There is no fund choice and no way to lose the promised return.",
+        "One more point on returns. NPS compounds market gains over decades, so starting early matters even more than with PPF.",
+        "Inflation is the quiet factor here. PPF's fixed rate must beat inflation to grow your real wealth, while NPS aims higher through equity.",
+        "Over very long periods, the equity tilt in NPS has tended to outpace inflation more comfortably than a fixed rate can.",
+        "The right mix is personal. A young earner can lean into NPS growth, while someone near retirement may prefer PPF's certainty."
+      ]
+    },
+    {
+      "type": "stat_cards",
+      "heading": "₹1.5 Lakh a Year for 25 Years",
+      "icon": "💰",
+      "cards": [
+        {
+          "value": "~₹1 cr",
+          "label": "PPF at 7.1% (guaranteed)",
+          "variant": "accent"
+        },
+        {
+          "value": "~₹1.5 cr",
+          "label": "NPS at ~10% (not guaranteed)",
+          "variant": "accent"
+        },
+        {
+          "value": "Fixed",
+          "label": "PPF outcome certainty"
+        },
+        {
+          "value": "Variable",
+          "label": "NPS outcome (market)"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "icon": "💸",
+      "heading": "Tax Benefits Compared",
+      "content": [
+        "On the way in, NPS offers more. Beyond the ₹1.5 lakh under 80C, it gives an extra ₹50,000 deduction under Section 80CCD(1B) in the old regime.",
+        "PPF contributions fall within the ₹1.5 lakh 80C limit, again under the old regime. So for pure deduction size, NPS has the bigger headline.",
+        "But on the way out, PPF wins cleanly. It is fully tax-free, both interest and maturity, which is called EEE status.",
+        "NPS is only partly tax-free at exit, and its annuity pension is taxed as income. So PPF is simpler and cleaner on the tax-free exit.",
+        "For a person in the 30 percent bracket, the extra ₹50,000 NPS deduction saves around ₹15,000 in tax each year, in the old regime.",
+        "PPF's strength is the clean exit. There is no tax to plan for at maturity, which makes retirement income simpler.",
+        "Employer NPS contribution under 80CCD(2) is a bonus worth using. It is deductible over and above your own limits, and it survives in the new regime."
+      ]
+    },
+    {
+      "type": "text",
+      "icon": "🧾",
+      "heading": "Picking the Right Regime",
+      "content": [
+        "So the tax story is a trade-off. NPS gives you more relief while you save, and PPF gives you a cleaner, tax-free payout at the end.",
+        "Your regime decides how much of this you actually get. In the new regime, most of these deductions fall away, which changes the maths.",
+        "If you are unsure which regime suits you, compute your tax both ways with and without these deductions before deciding.",
+        "For someone with a home loan and full 80C plus NPS, the old regime often still wins despite its higher rates.",
+        "There is no single right answer here. The choice depends on how much you invest in these and other deductions each year.",
+        "Run the numbers once at filing, then stick with your choice for that year.",
+        "Keep your investment proofs ready either way. If you do claim these deductions, you may need to show them when you file.",
+        "For most salaried people with these investments, it is worth comparing both regimes once a year as your income changes."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "warning",
+      "icon": "alert",
+      "title": "New regime changes the tax picture",
+      "content": "In the new tax regime, the extra ₹50,000 under 80CCD(1B) and the 80C deductions are not available. Only the employer's NPS contribution under 80CCD(2) still counts.<br><br>PPF keeps its tax-free interest and maturity even in the new regime, but you lose the 80C deduction on what you put in. So check your regime before counting on these benefits."
+    },
+    {
+      "type": "text",
+      "icon": "🏦",
+      "heading": "PPF Account Basics",
+      "content": [
+        "A PPF account runs for 15 years and can be opened at a bank or post office. You can invest between ₹500 and ₹1.5 lakh a year.",
+        "The interest rate is set by the government each quarter and is currently 7.1 percent, compounded yearly and fully tax-free.",
+        "From the seventh year you can make one partial withdrawal a year, and from the third year you can take a loan against the balance.",
+        "At the end of 15 years you can withdraw fully or extend in 5-year blocks, with or without fresh contributions. The extension keeps earning tax-free interest.",
+        "Because the rate can change each quarter, your PPF return may vary slightly over the years. But it never turns negative.",
+        "PPF is also one of the safest places to park long-term money. It carries a sovereign guarantee, so the principal and interest are never at risk.",
+        "You can open only one PPF account in your own name. A parent can also open one for a minor child, within the same overall limit.",
+        "Many people use PPF as a disciplined yearly habit, investing a fixed amount each April. That regularity compounds quietly over 15 years.",
+        "Because withdrawals are limited, PPF also protects you from your own impulse to dip into long-term savings.",
+        "PPF is also one of the few investments where the government guarantee, tax-free interest and tax-free maturity all come together."
+      ]
+    },
+    {
+      "type": "text",
+      "icon": "📂",
+      "heading": "NPS Account Basics",
+      "content": [
+        "NPS has two account types. Tier 1 is the main retirement account with tax benefits and a lock-in till 60.",
+        "Tier 2 is a flexible add-on with no lock-in, but it does not carry the tax deductions. Most people use Tier 1.",
+        "You choose how your money splits between equity, corporate bonds and government bonds, or let it auto-adjust with age.",
+        "You can open and manage NPS fully online through the CRA or your bank, and it works for both salaried and self-employed people.",
+        "A low fund management cost is one of NPS's quiet strengths. Charges are among the lowest of any managed retirement product in India.",
+        "Your NPS contributions are managed by professional pension fund managers you can choose from. You can also switch managers if you are unhappy.",
+        "The PRAN, a permanent retirement account number, stays with you for life, even if you change jobs or city. That portability is a real strength.",
+        "You can start NPS with a small amount and increase contributions over time. There is no need to commit a large sum from day one.",
+        "This flexibility makes NPS easy to begin early, which is exactly when its long compounding does the most work.",
+        "If your employer offers NPS with matching contributions, that match is effectively free money and worth taking fully.",
+        "You can also change your nominee and fund allocation over time, keeping the account aligned with your life stage and goals."
+      ]
+    },
+    {
+      "type": "info_rows",
+      "heading": "Account Snapshot",
+      "icon": "📄",
+      "rows": [
+        {
+          "label": "PPF tenure",
+          "value": "15 years, extendable in 5-year blocks"
+        },
+        {
+          "label": "PPF limit",
+          "value": "₹500 to ₹1.5 lakh a year"
+        },
+        {
+          "label": "NPS lock-in",
+          "value": "Till age 60 (Tier 1)"
+        },
+        {
+          "label": "NPS accounts",
+          "value": "Tier 1 (tax benefit), Tier 2 (flexible)"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "icon": "🔓",
+      "heading": "Withdrawal and Liquidity Rules",
+      "content": [
+        "PPF has a 15-year lock-in, but allows partial withdrawals from year 7 and a loan from year 3. After 15 years you can extend in 5-year blocks.",
+        "NPS locks your money till age 60, with only limited partial withdrawals for specific needs like education, medical or buying a home.",
+        "At 60, the withdrawal rule recently changed. Following 2025 reforms, non-government subscribers can now take up to 80 percent as a lump sum, with only 20 percent going to annuity.",
+        "Government employees still follow the older 60 percent lump sum and 40 percent annuity split. Either way, the annuity pension you receive is taxable.",
+        "PPF's partial withdrawals and loan facility make it useful in emergencies, even though it is a long-term product.",
+        "NPS is stricter because it is built as a pension, not a savings account. That rigidity is the price of its retirement focus.",
+        "The recent NPS reform matters because the old forced 40 percent annuity was a common complaint. Private subscribers now keep far more control.",
+        "Still, an annuity is not all bad. It guarantees a regular pension for life, which protects you from outliving your savings.",
+        "Plan your exit early. Knowing whether you will need a lump sum or steady income at 60 helps you size NPS and PPF correctly now."
+      ]
+    },
+    {
+      "type": "comparison_card",
+      "heading": "Liquidity: Who Wins",
+      "icon": "💧",
+      "win": {
+        "name": "PPF",
+        "amount": "More flexible",
+        "sub": "Partial from year 7, loans, extensions"
+      },
+      "others": [
+        {
+          "name": "NPS",
+          "amount": "Locked till 60",
+          "sub": "Limited partial withdrawals"
+        },
+        {
+          "name": "NPS at 60 (private)",
+          "amount": "80% lump sum",
+          "sub": "After 2025 reform"
+        },
+        {
+          "name": "NPS annuity",
+          "amount": "Taxable",
+          "sub": "Pension taxed as income"
+        }
+      ]
+    },
+    {
+      "type": "eligibility_check",
+      "heading": "Which One Fits You?",
+      "icon": "✅",
+      "qualify": [
+        "NPS suits you if you want higher growth",
+        "You can accept some market risk",
+        "You want the extra ₹50,000 tax deduction",
+        "You are saving specifically for a pension",
+        "You will not need the money before 60"
+      ],
+      "disqualify": [
+        "PPF suits you if you want guaranteed returns",
+        "You want a fully tax-free maturity",
+        "You may need some liquidity along the way",
+        "You prefer no market risk at all",
+        "You want a simple, set-and-forget option"
+      ]
+    },
+    {
+      "type": "text",
+      "icon": "🤝",
+      "heading": "Why Using Both Is Often Best",
+      "content": [
+        "For most people, the real answer is not NPS or PPF, but both. They cover different needs, so together they balance growth and safety.",
+        "A common approach: use PPF for the guaranteed, tax-free core of your savings, giving you certainty and some liquidity over time.",
+        "Then use NPS for the extra ₹50,000 deduction and market-linked growth on top. This captures NPS's tax edge without betting everything on the market.",
+        "At retirement, an extended PPF can even rival the NPS annuity, since PPF stays tax-free while the annuity is taxed. See our <a href=\"/paisa/how-to-file-itr\" class=\"text-accent underline\">tax filing guide</a> when you claim these.",
+        "Splitting your money this way means you are never fully exposed to the market, nor fully missing out on its growth.",
+        "It also spreads your tax benefits, using PPF within 80C and NPS for the extra deduction on top.",
+        "This combined approach is what many financial planners suggest. It is rarely a pure either-or decision in practice.",
+        "A simple split many use: put your steady ₹1.5 lakh into PPF for safety, then add ₹50,000 to NPS purely for the extra deduction.",
+        "Over decades, this gives you a guaranteed tax-free base plus a market-linked top-up, with the best of both tax breaks in the old regime.",
+        "At retirement, you then have choices. You can extend PPF for tax-free income and use the NPS lump sum for big one-time needs."
+      ]
+    },
+    {
+      "type": "process_flow",
+      "heading": "How to Start Both",
+      "icon": "🧭",
+      "steps": [
+        {
+          "icon": "file",
+          "title": "PPF",
+          "desc": "Open at bank or post office"
+        },
+        {
+          "icon": "shield",
+          "title": "NPS",
+          "desc": "Open online via CRA / bank"
+        },
+        {
+          "icon": "wallet",
+          "title": "Contribute",
+          "desc": "PPF up to ₹1.5L, NPS for ₹50k extra"
+        },
+        {
+          "icon": "check",
+          "title": "Claim",
+          "desc": "Deductions at filing, old regime"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "icon": "⚠️",
+      "heading": "Can NPS Lose Money?",
+      "content": [
+        "Yes, NPS can fall in value, because part of it sits in equity. In a bad market year, your NPS balance can dip.",
+        "But you control the risk. NPS lets you set how much goes into equity versus safer government and corporate bonds.",
+        "Younger investors often keep more in equity for growth, then shift toward bonds as 60 nears. This auto or active choice cushions late-stage risk.",
+        "PPF, by contrast, never falls. Its return is fixed and government backed, which is exactly why many people hold both.",
+        "Over long horizons, equity tends to recover and grow, which is why a long runway suits NPS.",
+        "If you are close to 60, shifting more into bonds protects the corpus you have built from a late market fall.",
+        "Think of the equity portion as the growth engine and the bond portion as the brakes. You decide the balance based on your age and comfort.",
+        "The government securities portion of NPS is very safe, so even a conservative NPS investor is not heavily exposed to equity risk.",
+        "In short, NPS risk is manageable, not wild. You set the equity level, and the bond portion steadies the ride.",
+        "PPF stays the anchor that never wobbles. Holding both means market dips never threaten your entire retirement pot.",
+        "Historically, NPS dips have been temporary over long holding periods. The longer your horizon, the smaller the impact of any single bad year."
+      ]
+    },
+    {
+      "type": "pullquote",
+      "text": "NPS is for growth and a bigger pension corpus. PPF is for safety and a tax-free exit. Used together, they cover both sides of a solid retirement plan."
+    },
+    {
+      "type": "text",
+      "icon": "🔀",
+      "heading": "How They Compare to EPF, ELSS and SIP",
+      "content": [
+        "EPF is close to PPF in spirit, a safe, mostly tax-free retirement fund, but it is tied to salaried employment and employer contribution.",
+        "ELSS and equity SIPs are pure market products with higher growth potential and higher risk, but no guaranteed return or pension structure.",
+        "Against these, PPF stands out for guaranteed safety, while NPS stands out for the extra deduction and a built-in pension at the end.",
+        "If you already have EPF through your job, PPF and NPS still add value by giving you more tax-free savings and an extra deduction.",
+        "Each product has a role. The trick is matching the tool to the goal, rather than chasing the single highest return.",
+        "A balanced portfolio often holds a safe core like PPF or EPF alongside a growth piece like NPS or equity.",
+        "If you want pure equity growth and can handle volatility, an equity SIP or ELSS sits alongside, not instead of, these retirement tools.",
+        "EPF is automatic for many salaried people, deducted from your pay, so it often forms the base without extra effort.",
+        "PPF and NPS are then your voluntary choices to build on top of that base, each adding a different strength.",
+        "There is no need to pick one winner among all these. A real portfolio usually blends a safe base, a pension layer and some pure equity growth."
+      ]
+    },
+    {
+      "type": "text",
+      "icon": "🎯",
+      "heading": "The Bottom Line",
+      "content": [
+        "If you want one simple takeaway, it is this. PPF gives you a guaranteed, tax-free base, and NPS adds growth plus an extra deduction.",
+        "Most people are best served by holding both, sized to their age and risk comfort. That balance beats agonising over which single one to pick.",
+        "Whatever you choose, starting early beats trying to catch up later, because compounding rewards time more than amount.",
+        "The yearly limit is shared across your own and any minor's account you manage, so plan contributions across the family within ₹1.5 lakh.",
+        "Start with whatever fits your cash flow today, and build the other alongside over time.",
+        "There is no rule that you must max out both at once. Begin where you can and grow each as your income allows, steadily and without pressure to do everything at once."
+      ]
+    },
+    {
+      "type": "info_rows",
+      "heading": "NPS vs PPF Quick Facts",
+      "icon": "📄",
+      "rows": [
+        {
+          "label": "PPF rate",
+          "value": "7.1 percent, tax-free"
+        },
+        {
+          "label": "NPS extra deduction",
+          "value": "₹50,000 (80CCD1B, old regime)"
+        },
+        {
+          "label": "NPS lump sum at 60",
+          "value": "Up to 80 percent (private, 2025 reform)"
+        },
+        {
+          "label": "Best move",
+          "value": "Use both for balance"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which is better, NPS or PPF?",
+      "answer": "Neither is universally better. NPS suits growth-seekers who can take market risk and want the extra ₹50,000 deduction.<br><br>PPF suits those who want guaranteed, fully tax-free returns. For many people, using both together is the best answer."
+    },
+    {
+      "question": "Can I invest in both NPS and PPF?",
+      "answer": "Yes, there is no restriction, and many advisors recommend it for balance.<br><br>Use PPF for the guaranteed tax-free core and NPS for market growth plus the extra ₹50,000 deduction."
+    },
+    {
+      "question": "Is PPF tax free?",
+      "answer": "Yes. PPF has EEE status, so your contribution qualifies under 80C in the old regime, and the interest and maturity are fully tax-free.<br><br>The interest and maturity stay tax-free even under the new regime, though you lose the 80C deduction on contributions there."
+    },
+    {
+      "question": "Is NPS deduction available in the new tax regime?",
+      "answer": "Mostly no. The extra ₹50,000 under 80CCD(1B) and the 80C deduction are not available in the new regime.<br><br>Only the employer's NPS contribution under 80CCD(2) still counts. These NPS deductions are mainly an old-regime benefit."
+    },
+    {
+      "question": "Which gives better returns, NPS or PPF?",
+      "answer": "NPS usually gives higher returns over the long run, historically around 8 to 10 percent, because it is market-linked.<br><br>PPF gives a fixed 7.1 percent. NPS can grow more but is not guaranteed, while PPF is certain."
+    },
+    {
+      "question": "What happens to NPS at age 60?",
+      "answer": "Following 2025 reforms, non-government subscribers can withdraw up to 80 percent as a tax-free lump sum, with 20 percent going to an annuity.<br><br>Government employees still take 60 percent lump sum and 40 percent annuity. The annuity pension is taxable as income."
+    },
+    {
+      "question": "Can I withdraw NPS before 60?",
+      "answer": "Only in limited cases. Partial withdrawals are allowed after a few years for specific needs like education, medical or buying a home.<br><br>A full early exit is possible after five years, but a large share must then go into an annuity."
+    },
+    {
+      "question": "Is NPS or PPF better for tax saving?",
+      "answer": "In the old regime, NPS offers more on the way in, with an extra ₹50,000 deduction beyond 80C.<br><br>But PPF is fully tax-free on the way out, while part of NPS is taxed. So NPS wins on deduction size, PPF on tax-free exit."
+    },
+    {
+      "question": "What is the lock-in for NPS vs PPF?",
+      "answer": "PPF has a 15-year lock-in, with partial withdrawals from year 7 and the option to extend in 5-year blocks.<br><br>NPS locks your money till age 60, with only limited partial withdrawals before that."
+    }
+  ],
+  "disclaimer": "NPS and PPF information as of March 2026. Past returns don't guarantee future results. NPS returns depend on fund selection and market conditions. Always consult a financial advisor for retirement planning specific to your situation.",
+  "related_pages": [
+    {
+      "title": "How to File ITR",
+      "slug": "how-to-file-itr",
+      "tag": "Tax",
+      "url": "/paisa/how-to-file-itr"
+    },
+    {
+      "title": "Section 80C Guide",
+      "slug": "section-80c-guide",
+      "tag": "Tax",
+      "url": "/paisa/section-80c-guide"
+    },
+    {
+      "title": "What is SIP",
+      "slug": "what-is-sip",
+      "tag": "Invest",
+      "url": "/paisa/what-is-sip"
+    }
+  ],
+  "tags": [
+    "NPS",
+    "PPF",
+    "Retirement Planning",
+    "Pension",
+    "Tax Saving",
+    "Comparison"
+  ],
+  "image_suggestions": [
+    "nps-vs-ppf-returns-projection",
+    "corpus-at-60-comparison",
+    "tax-efficiency-nps-ppf",
+    "risk-vs-return-chart",
+    "pension-income-from-nps",
+    "optimal-allocation-both-schemes"
+  ],
+  "last_reviewed": "June 2026"
 }
