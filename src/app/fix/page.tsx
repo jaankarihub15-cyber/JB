@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { JsonLd, breadcrumbSchema } from "@/components/json-ld";
-import { FixHubClient } from "@/components/fix-hub-client";
+import { FixHubProvider, FixHubBand, FixHubResults } from "@/components/fix-hub-client";
 
 export const metadata: Metadata = {
   title: "Document Mismatch? Fix It Here - KnowledgeKendra",
@@ -13,6 +13,7 @@ export const metadata: Metadata = {
 export default function FixHubPage() {
   return (
     <div className="theme-v2 py-0">
+      <FixHubProvider>
       <JsonLd
         data={breadcrumbSchema([
           { name: "Home", url: "https://knowledgekendra.com" },
@@ -20,8 +21,7 @@ export default function FixHubPage() {
         ])}
       />
 
-      {/* Hero band: heading + intro. Tall bottom padding leaves green space
-          for the search bar (rendered by the client) to sit INSIDE the band. */}
+      {/* Band holds heading + intro + search bar, all INSIDE the green (mockup). */}
       <div className="hero-band-v2">
         <div className="max-w-[1140px] mx-auto px-5 md:px-6">
           <div className="pt-6 text-[12.5px] font-semibold text-[#8FB8A2]">
@@ -37,19 +37,23 @@ export default function FixHubPage() {
               Documents do not match?{" "}
               <span className="text-[#9FE2BE]">Fix it the right way.</span>
             </h1>
-            <p className="text-[15.5px] text-[#BFDCCB] leading-relaxed max-w-[560px]">
+            <p className="text-[15.5px] text-[#BFDCCB] leading-relaxed max-w-[560px] mb-7">
               When an application fails because your name, date of birth or details do not match
               across documents, find the exact verified correction path. Which one to fix, where,
               and the proof you need.
             </p>
           </div>
-          {/* spacer that keeps green band height; search bar overlaps up into this via negative margin */}
-          <div className="h-[120px] md:h-[130px]" />
+          {/* search bar INSIDE band, with green below it */}
+          <div className="pb-16">
+            <FixHubBand />
+          </div>
         </div>
       </div>
 
-      {/* Search-in-band + filter card + showing + cards (client) */}
-      <FixHubClient />
+      {/* Filter card overlaps band edge + results */}
+      <div className="max-w-[1140px] mx-auto px-5 md:px-6">
+        <FixHubResults />
+      </div>
 
       {/* Checker strip */}
       <div className="max-w-[1140px] mx-auto px-5 md:px-6 mt-12">
@@ -77,6 +81,7 @@ export default function FixHubPage() {
           national form.
         </div>
       </div>
+      </FixHubProvider>
     </div>
   );
 }
