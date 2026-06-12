@@ -165,4 +165,35 @@ const COMMON_FAQS: Record<string, QA[]> = {
     { question: "How do I fix the EPF name to match Aadhaar?", answer: "Use Modify Basic Details on the UAN Member Portal. A Joint Declaration with your employer may be needed if the error came from onboarding." },
     { question: "Does EPFO 3.0 make this easier?", answer: "Yes. Many corrections are now self-approved when your Aadhaar is linked, reducing the back-and-forth with employers." },
   ],
+  "aadhaar-bank-name-mismatch": [
+    { question: "Why is my scheme payment failing if my bank is active?", answer: "DBT payments use the NPCI Aadhaar mapper, not your account number. If your name does not match or your account is not seeded, the credit fails even though the account works." },
+    { question: "What is the difference between KYC linking and NPCI seeding?", answer: "KYC linking lets the bank verify you. NPCI seeding tells the government which account should receive your scheme money.<br><br>You need both, and only one account can be seeded for DBT at a time." },
+    { question: "How do I fix a name mismatch with my bank?", answer: "Visit the branch with your Aadhaar, update your KYC to match it, then submit a fresh NPCI consent form to re-seed the account for DBT." },
+    { question: "Where can I check my NPCI status?", answer: "You can check your Aadhaar seeding status at the NPCI BASE portal. If it does not read enabled for DBT, ask the branch to enable the flag." },
+  ],
+  "ration-card-name-correction": [
+    { question: "Is there one national form for ration card correction?", answer: "No. Ration cards are issued by each state, so the form and portal differ. For example, West Bengal uses Form 5 and Gujarat uses Form 6-A." },
+    { question: "What proof do I need?", answer: "Your Aadhaar with the correct name is the mandatory proof in every state, along with your existing ration card." },
+    { question: "Why do ration card corrections get rejected?", answer: "The most common reasons are a blurry document upload and a name that does not match Aadhaar exactly, even by one letter." },
+  ],
+  "caste-certificate-name-mismatch": [
+    { question: "Who corrects a caste certificate?", answer: "The state revenue department issues it, so corrections go through your Tehsildar or SDM, or a state portal like MeeSeva, Nadakacheri or eMitra." },
+    { question: "What happens if the details do not match my other documents?", answer: "Verification is rejected. The certificate details must match your supporting documents and identity proof." },
+    { question: "Can I do this online?", answer: "Many states offer it through their citizen-service portal. The exact route varies, so confirm at the revenue office or a CSC." },
+  ],
+  "income-certificate-mismatch": [
+    { question: "Why was my income certificate rejected?", answer: "If the income you declared does not match your proof, or your name does not match your ID, verification fails." },
+    { question: "How long is an income certificate valid?", answer: "Income certificates are time limited and usually need renewal, so an old one may need re-applying rather than correcting." },
+    { question: "Where do I re-apply?", answer: "At your revenue authority (Tehsildar or SDM) or a state portal such as MeeSeva, Nadakacheri or eMitra, with proof that matches your declaration." },
+  ],
+  "aadhaar-address-change": [
+    { question: "Can I change my Aadhaar address online?", answer: "Yes. Address is the one field you can update online at the myAadhaar portal, using a valid address proof and OTP." },
+    { question: "What counts as address proof?", answer: "Common proofs include a utility bill, passport, bank statement or rent agreement. The document must show your current address clearly." },
+    { question: "Is there a fee?", answer: "Online document update is free until 14 June 2026. After that a fee applies, around \u20B925 to \u20B975 depending on the service and channel." },
+  ],
+  "aadhaar-gender-correction": [
+    { question: "Can I correct my Aadhaar gender online?", answer: "No. Gender, like name and date of birth, cannot be changed online. You need to visit an Aadhaar Seva Kendra." },
+    { question: "What do I need to carry?", answer: "Carry your Aadhaar and a supporting identity document in original. If your mobile is not linked, get that added first." },
+    { question: "Why does a gender mismatch block my claim?", answer: "Services like EPF and bank KYC cross-check gender against Aadhaar, so a mismatch can stop e-KYC and claim processing until fixed." },
+  ],
 };
