@@ -53,7 +53,7 @@
   "eligibility": [
     {
       "label": "Not eligible",
-      "value": "Children not enrolled in school, those with &lt;80% attendance, families with annual income exceeding the state-defined threshold (usually ₹2-3 lakh), children whose mothers receive government pension of ₹2,000 or more, and non-resident children.",
+      "value": "Children not enrolled in school, those with &lt;75% attendance, families with annual income exceeding the state-defined threshold (usually ₹2-3 lakh), children whose mothers receive government pension of ₹2,000 or more, and non-resident children.",
       "highlight": true
     },
     {
@@ -103,8 +103,8 @@
       "items": [
         {
           "icon": "wallet",
-          "value": "₹15,000",
-          "label": "Per child / year",
+          "value": "₹13,000",
+          "label": "Credited / year",
           "color": "green"
         },
         {
@@ -115,14 +115,14 @@
         },
         {
           "icon": "trending",
-          "value": "70 Lakh+",
+          "value": "67 Lakh+",
           "label": "Total beneficiaries",
           "color": "amber"
         },
         {
           "icon": "calendar",
-          "value": "January",
-          "label": "Annual disbursement",
+          "value": "19 June",
+          "label": "2026 disbursement",
           "color": "purple"
         }
       ]
@@ -132,7 +132,7 @@
       "heading": "Ineligibility and Exclusions",
       "icon": "🚫",
       "content": [
-        "Children not enrolled in school, those with <80% attendance, families with annual income exceeding state-defined threshold (usually ₹2-3 lakh), children whose mothers are receiving government <a href=\"/yojana/atal-pension-yojana\" style=\"text-decoration:underline;color:inherit\">pension</a> ≥₹2,000, and non-resident children don't qualify. Additionally, if child is studying through distance learning or is in school but not a bonafide student, Amma Vodi doesn't apply.",
+        "Children not enrolled in school, those with <75% attendance, families with annual income exceeding state-defined threshold (usually ₹2-3 lakh), children whose mothers are receiving government <a href=\"/yojana/atal-pension-yojana\" style=\"text-decoration:underline;color:inherit\">pension</a> ≥₹2,000, and non-resident children don't qualify. Additionally, if child is studying through distance learning or is in school but not a bonafide student, Amma Vodi doesn't apply.",
         "Children in only certain government colleges/schools (recognized institutions) are covered; unrecognized institutions don't qualify."
       ]
     },
@@ -142,7 +142,7 @@
       "icon": "🏫",
       "content": [
         "Schools play crucial role in Amma Vodi implementation. School principals maintain digital attendance records on government portal, which Amma Vodi system automatically cross-checks.",
-        "For a mother to receive benefit, child must have ≥80% attendance during academic year. Teachers track attendance daily; absences are logged.",
+        "For a mother to receive benefit, child must have ≥75% attendance during academic year. Teachers track attendance daily; absences are logged.",
         "This creates dual incentive - mothers are motivated to ensure children attend school regularly, and schools benefit from improved attendance data (which impacts school performance metrics). Schools also conduct regular awareness camps explaining Amma Vodi benefits to parents and help with online application process.",
         "Staff in school offices scan documents and assist mothers without smartphones. Many schools provide offline application forms to illiterate mothers, with principal signing as authorized person.",
         "This collaborative approach has been highly effective - in schools with strong Amma Vodi awareness, enrollment and retention rates improve by 15-22%. The scheme also incentivizes school management to maintain accurate attendance records, improving data quality."
@@ -171,12 +171,12 @@
         },
         {
           "icon": "file",
-          "title": "85% Attendance",
+          "title": "75% Attendance",
           "desc": "School reports"
         },
         {
           "icon": "wallet",
-          "title": "₹15,000 Credited",
+          "title": "₹13,000 Credited",
           "desc": "Direct transfer"
         },
         {
@@ -210,7 +210,7 @@
         "Mother of school-going child in AP",
         "BPL family - White ration card holder",
         "Child in government, aided, or recognised private school",
-        "Minimum 85% attendance maintained",
+        "Minimum 75% attendance maintained",
         "Mother's Aadhaar linked to bank account",
         "Not an income tax payer in the family"
       ],
@@ -220,7 +220,7 @@
         "Owns 4-wheeler (taxi/tractor exempted)",
         "Children in unrecognised institutions",
         "Distance/correspondence learning only",
-        "Below 85% attendance previous year"
+        "Below 75% attendance previous year"
       ]
     },
     {
@@ -240,8 +240,8 @@
     {
       "type": "callout",
       "variant": "warning",
-      "heading": "Amma Vodi - 85% attendance is mandatory",
-      "content": "Your child must maintain minimum 85% attendance throughout the academic year. If attendance drops below this threshold, the benefit for the next year will be withheld.<br><br>Schools submit attendance data to the government portal monthly."
+      "heading": "Amma Vodi - 75% attendance is mandatory",
+      "content": "Your child must maintain minimum 75% attendance throughout the academic year. If attendance drops below this threshold, the benefit for the next year will be withheld.<br><br>Schools submit attendance data to the government portal monthly."
     },
     {
       "type": "text",
@@ -289,7 +289,7 @@
       "heading": "Recent Updates and Scheme Enhancements (2024-2026)",
       "icon": "🔄",
       "content": [
-        "March 2026: Amma Vodi amount increased from ₹15,000 to ₹18,000 annually, effective from next academic year. January 2026: Scheme extended to Class 12 (Intermediate) completion; previously limited to Class 10.",
+        "June 2025: The scheme was renamed Thalliki Vandanam and relaunched. The amount stays ₹15,000 per child, with ₹13,000 credited after a ₹2,000 school development deduction.",
         "Now mothers can claim benefit for same child from Class 1 through Class 12 (13 years total). December 2025: New digital attendance system using biometric/mobile app provides real-time verification instead of annual checklist, reducing fraud and accelerating payment processing to <5 days.",
         "The government also announced 'Amma Vodi Plus' starting",
         "June 2026 - additional ₹5,000/year for mothers of girl children who score >75% in school exams, promoting quality alongside enrollment."
@@ -327,7 +327,7 @@
       "icon": "🎯",
       "content": [
         "Amma Vodi beneficiaries often miss optimization opportunities. First: ensure school attendance is documented - teachers maintain registers; cross-verify yours.",
-        "Some mothers lose payments mid-year due to children absent beyond 20% threshold (80% minimum required). Solution: plan around exams, medical appointments, avoid casual absences.",
+        "Some mothers lose payments mid-year due to children absent beyond 20% threshold (75% minimum required). Solution: plan around exams, medical appointments, avoid casual absences.",
         "Second: update bank account if you change banks - payment delays occur if account details don't sync. Contact your block office 30 days before account change.",
         "Third: verify annual deposit via portal (gsws-nbm.ap.gov.in) - if deposit doesn't appear by June, file complaint within"
       ]
@@ -358,9 +358,9 @@
         "Step 1: Ensure your child is enrolled in a government school, government-aided school, or recognized private school in Andhra Pradesh. The school must be recognized by the Department of School Education.",
         "Step 2: The school headmaster prepares a list of eligible mothers/guardians based on BPL status and attendance records. This list is uploaded to the Amma Vodi portal by the school.",
         "Step 3: District education officials verify the list against BPL databases, Aadhaar records, and income tax records. Mothers who are income tax payers are excluded.",
-        "Step 4: After verification, the ₹15,000 is credited directly to the mother's Aadhaar-linked bank account in January each year. The payment is a single lump sum.",
-        "Step 5: For the next academic year, the process is automatic - as long as the child maintains 85% attendance and the family remains below the poverty line, the benefit continues without re-application.",
-        "COMMON ISSUE: Many mothers report delayed payments (February-March instead of January). This is usually due to Aadhaar-bank linking issues.",
+        "Step 4: After verification, the ₹15,000 is credited directly to the mother's Aadhaar-linked bank account around June each year. The payment is a single lump sum.",
+        "Step 5: For the next academic year, the process is automatic - as long as the child maintains 75% attendance and the family remains below the poverty line, the benefit continues without re-application.",
+        "COMMON ISSUE: Many mothers report delayed payments (later than expected). This is usually due to Aadhaar-bank linking issues.",
         "Visit your bank and confirm that your Aadhaar is properly seeded with your account."
       ]
     },
@@ -464,10 +464,6 @@
     {
       "question": "Why is Rs 2,000 deducted from Thalliki Vandanam?",
       "answer": "Out of the Rs 15,000 annual amount per child, the AP government deducts Rs 2,000 at source for overall development of the educational ecosystem, including school maintenance, hygiene, and sanitation. This was a key change from the original Amma Vodi scheme, where the full Rs 15,000 was credited to mothers."
-    },
-    {
-      "question": "Is Amma Vodi still active in 2026?",
-      "answer": "Yes, Amma Vodi (officially Jagananna Amma Vodi) is active in Andhra Pradesh in 2026 under the YSRCP government's welfare scheme framework. The scheme provides ₹15,000 per year to mothers/guardians who send their children to government schools.<br><br>Payments are made directly to the mother's bank account. To check current payment status or eligibility under the 2025-26 academic year cycle, visit gsws-nbm.ap.gov.in with your Aadhaar number."
     },
     {
       "question": "What is Amma Vodi?",
