@@ -138,6 +138,7 @@ export const FIX_ROUTES: FixRoute[] = [
 export type FixPage = {
   slug: string;
   h1: string;
+  short: string; // short card title
   title: string; // <=60c
   meta: string; // <=160c
   // which route in FIX_ROUTES this page pre-selects
@@ -145,6 +146,9 @@ export type FixPage = {
   wrong: DocId;
   mismatch: MismatchType;
   intro: string;
+  icon: string;
+  group: "id" | "epf" | "education"; // for hub filtering
+  popular?: boolean;
 };
 
 export const FIX_PAGES: FixPage[] = [
@@ -157,6 +161,10 @@ export const FIX_PAGES: FixPage[] = [
     wrong: "pan",
     mismatch: "name",
     intro: "When your Aadhaar and PAN names do not match, PAN linking and bank KYC can fail. Fix the one that is wrong, then let the rest re-sync.",
+    icon: "🆔",
+    group: "id",
+    short: "🪪 Aadhaar / PAN name not matching",
+    popular: true,
   },
   {
     slug: "aadhaar-name-correction",
@@ -167,6 +175,9 @@ export const FIX_PAGES: FixPage[] = [
     wrong: "aadhaar",
     mismatch: "name",
     intro: "If your Aadhaar name is wrong or misspelled, fix it first, because PAN, bank and EPF all check against Aadhaar.",
+    icon: "✍️",
+    group: "id",
+    short: "✍️ Wrong name on Aadhaar",
   },
   {
     slug: "dob-mismatch-aadhaar-epf",
@@ -177,6 +188,9 @@ export const FIX_PAGES: FixPage[] = [
     wrong: "epf",
     mismatch: "dob",
     intro: "A date-of-birth mismatch between Aadhaar and EPF blocks claims. Note that Aadhaar is no longer accepted as DOB proof.",
+    icon: "📅",
+    group: "epf",
+    short: "📅 Date of birth mismatch in EPF",
   },
   {
     slug: "name-mismatch-aadhaar-marksheet",
@@ -187,6 +201,10 @@ export const FIX_PAGES: FixPage[] = [
     wrong: "aadhaar",
     mismatch: "name",
     intro: "Recruitment and admissions reject applications when Aadhaar and the 10th marksheet do not match. Pick the correct one and fix the other.",
+    icon: "🎓",
+    group: "education",
+    short: "🎓 Aadhaar vs 10th marksheet",
+    popular: true,
   },
   {
     slug: "pan-correction-online",
@@ -197,6 +215,9 @@ export const FIX_PAGES: FixPage[] = [
     wrong: "pan",
     mismatch: "name",
     intro: "Fix PAN details through Protean (NSDL) or UTIITSL. The PAN number stays the same and a corrected card is reissued.",
+    icon: "🪪",
+    group: "id",
+    short: "🪪 Fix PAN card details",
   },
   {
     slug: "epf-claim-rejected-name-mismatch",
@@ -207,5 +228,8 @@ export const FIX_PAGES: FixPage[] = [
     wrong: "epf",
     mismatch: "name",
     intro: "If your name differs across Aadhaar, PAN, bank and EPF, the EPFO system auto-rejects withdrawals. Make EPF match Aadhaar.",
+    icon: "💼",
+    group: "epf",
+    short: "💼 EPF claim rejected on name",
   },
 ];
