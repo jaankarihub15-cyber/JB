@@ -20,7 +20,7 @@ export default function FixHubPage() {
         ])}
       />
 
-      {/* Full-width gradient hero band */}
+      {/* Full-width gradient hero band - search sits INSIDE it (mockup style) */}
       <div className="hero-band-v2">
         <div className="max-w-[1140px] mx-auto px-5 md:px-6">
           <div className="pt-6 text-[12.5px] font-semibold text-[#8FB8A2]">
@@ -28,26 +28,26 @@ export default function FixHubPage() {
             <span className="mx-1.5 opacity-60">/</span>
             <b className="text-[#DFF3E8]">Fix</b>
           </div>
-          <div className="pt-12 pb-24 max-w-[640px]">
+          <div className="pt-8 pb-28 max-w-[680px]">
             <span className="inline-block text-[11px] font-bold tracking-wide px-3 py-1.5 rounded-full bg-white/10 border border-white/20 text-[#DFF3E8] mb-4">
               🔧 Application Fix Hub
             </span>
-            <h1 className="text-[30px] md:text-[40px] font-extrabold leading-[1.15] tracking-[-0.5px] text-white mb-3">
+            <h1 className="text-[30px] md:text-[42px] font-extrabold leading-[1.12] tracking-[-0.6px] text-white mb-3">
               Documents do not match?{" "}
               <span className="text-[#9FE2BE]">Fix it the right way.</span>
             </h1>
-            <p className="text-[15.5px] text-[#BFDCCB] leading-relaxed">
+            <p className="text-[15.5px] text-[#BFDCCB] leading-relaxed mb-7 max-w-[560px]">
               When an application fails because your name, date of birth or details do not match
-              across documents, find the exact, verified correction path. Which one to fix, where,
+              across documents, find the exact verified correction path. Which one to fix, where,
               and the proof you need.
             </p>
           </div>
         </div>
       </div>
 
-      {/* Filter bar + cards (client) overlap the band */}
+      {/* Filter card (floats over band) + Showing + cards */}
       <div className="max-w-[1140px] mx-auto px-5 md:px-6 pb-4">
-        <FixHubClient />
+        <FixHubClient query="" />
       </div>
 
       {/* Checker strip */}
@@ -69,7 +69,6 @@ export default function FixHubPage() {
         </div>
       </div>
 
-      {/* Trust note */}
       <div className="max-w-[1140px] mx-auto px-5 md:px-6 pb-14 mt-8">
         <div className="p-4 bg-card-alt border border-border rounded-2xl text-[12.5px] text-text-muted leading-relaxed">
           📋 Every fix is verified against official sources (UIDAI, Income Tax / Protean, EPFO and
