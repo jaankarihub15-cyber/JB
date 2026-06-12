@@ -2,6 +2,8 @@ import { MetadataRoute } from "next";
 import fs from "fs";
 import path from "path";
 
+import { FIX_PAGES } from "@/lib/fix-data";
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = "https://knowledgekendra.com";
   const now = new Date().toISOString();
@@ -20,6 +22,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${baseUrl}/education`, lastModified: now, changeFrequency: "weekly" as const, priority: 0.8 },
     { url: `${baseUrl}/legal`, lastModified: now, changeFrequency: "weekly" as const, priority: 0.8 },
     { url: `${baseUrl}/check-eligibility`, lastModified: now, changeFrequency: "monthly" as const, priority: 0.7 },
+    { url: `${baseUrl}/fix`, lastModified: now, changeFrequency: "monthly" as const, priority: 0.8 },
+    { url: `${baseUrl}/tools`, lastModified: now, changeFrequency: "monthly" as const, priority: 0.7 },
     // Exam category hubs
     { url: `${baseUrl}/exam-categories/banking`, lastModified: now, changeFrequency: "weekly" as const, priority: 0.85 },
     { url: `${baseUrl}/exam-categories/ssc`, lastModified: now, changeFrequency: "weekly" as const, priority: 0.85 },
@@ -121,5 +125,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.8,
   }));
 
-  return [...staticPages, ...calcPages, ...contentPages];
+  const fixPages: MetadataRoute.Sitemap = FIX_PAGES.map((p) => ({
+    url: `${baseUrl}/fix/${p.slug}`,
+    lastModified: now,
+    changeFrequency: "monthly" as const,
+    priority: 0.75,
+  }));
+
+  return [
+    ...fixPages,...staticPages, ...calcPages, ...contentPages];
 }

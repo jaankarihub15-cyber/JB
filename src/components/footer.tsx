@@ -55,6 +55,7 @@ export function Footer() {
               <Link href="/compare" className="text-xs text-text-secondary hover:text-accent transition-colors">Comparisons</Link>
               <Link href="/calculator" className="text-xs text-text-secondary hover:text-accent transition-colors">Calculators</Link>
               <Link href="/tools" className="text-xs text-text-secondary hover:text-accent transition-colors">Free Tools</Link>
+              <Link href="/fix" className="text-xs text-text-secondary hover:text-accent transition-colors">Fix Document Errors</Link>
               <Link href="/books" className="text-xs text-text-secondary hover:text-accent transition-colors">Best Books</Link>
               <Link href="/sarkari-naukri" className="text-xs text-text-secondary hover:text-accent transition-colors">Sarkari Naukri</Link>
               <Link href="/education" className="text-xs text-text-secondary hover:text-accent transition-colors">Education</Link>
