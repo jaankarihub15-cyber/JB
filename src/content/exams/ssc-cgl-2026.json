@@ -960,5 +960,79 @@
     ]
   },
   "last_reviewed": "May 2026",
-  "category": "ssc"
+  "category": "ssc",
+  "status": "form_open",
+  "quick_facts": [
+    {
+      "label": "In-hand salary",
+      "value": "₹44,900+"
+    },
+    {
+      "label": "Vacancies",
+      "value": "12,256"
+    },
+    {
+      "label": "Form closes",
+      "value": "22 Jun 2026"
+    },
+    {
+      "label": "Tier 1",
+      "value": "Aug-Sep 2026"
+    }
+  ],
+  "answer_router": [
+    {
+      "icon": "cash",
+      "title": "Salary",
+      "sub": "₹44,900+ in-hand",
+      "anchor": "salary"
+    },
+    {
+      "icon": "book",
+      "title": "Syllabus",
+      "sub": "Tier 1 + Tier 2",
+      "anchor": "syllabus"
+    },
+    {
+      "icon": "user-check",
+      "title": "Eligibility",
+      "sub": "Graduate, 18-32",
+      "anchor": "eligibility"
+    },
+    {
+      "icon": "calendar",
+      "title": "Dates",
+      "sub": "Form, exam, result",
+      "anchor": "dates"
+    }
+  ],
+  "salary_table": {
+    "intro": "After the 7th Pay Commission, in-hand pay starts around ₹44,900 plus allowances at Level 7. It rises with the post and city HRA.",
+    "rows": [
+      {
+        "post": "Assistant Audit Officer (CAG)",
+        "amount": "₹52,000-60,000"
+      },
+      {
+        "post": "Assistant Section Officer (CSS)",
+        "amount": "₹46,000-55,000"
+      },
+      {
+        "post": "Income Tax Inspector (CBDT)",
+        "amount": "₹44,000-52,000"
+      },
+      {
+        "post": "Inspector, Customs (CBIC)",
+        "amount": "₹44,000-52,000"
+      },
+      {
+        "post": "Auditor (CAG / CGDA)",
+        "amount": "₹29,000-35,000"
+      },
+      {
+        "post": "Tax Assistant (CBDT / CBIC)",
+        "amount": "₹25,000-32,000"
+      }
+    ]
+  }
 }
