@@ -12,11 +12,11 @@
     "status": "active",
     "one_liner": "A complete guide to mutual funds for Indian beginners - learn what they are, which types suit your goals, how to start a SIP with just ₹100, and avoid common mistakes that cost new investors lakhs.",
     "icon": "📈",
-    "updated_date": "May 2026",
+    "updated_date": "June 2026",
     "stats": [
       {
         "label": "Min SIP",
-        "value": "₹100/month"
+        "value": "₹100/mo"
       },
       {
         "label": "AMCs in India",
@@ -28,7 +28,7 @@
       },
       {
         "label": "AUM (2026)",
-        "value": "₹65+ Lakh Cr"
+        "value": "₹80+ Lakh Cr"
       }
     ]
   },
@@ -85,12 +85,30 @@
       ]
     },
     {
-      "heading": "⚙️ Visual: How Mutual Funds Work",
-      "icon": "🔄",
-      "type": "svg_block",
-      "svg": "<svg viewBox=\"0 0 700 320\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\">\n <defs>\n <marker id=\"arrow-mf\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\">\n <polygon points=\"0 0, 10 3, 0 6\" fill=\"#1B6B4A\"/>\n </marker>\n </defs>\n <text x=\"350\" y=\"28\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">How Your Money Grows in a Mutual Fund</text>\n <!-- Step 1: Investors -->\n <rect x=\"30\" y=\"70\" width=\"130\" height=\"80\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n <text x=\"95\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"24\">👥</text>\n <text x=\"95\" y=\"125\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1E40AF\">Investors</text>\n <text x=\"95\" y=\"140\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#1E40AF\">(You + lakhs more)</text>\n <!-- Step 2: Pool -->\n <rect x=\"200\" y=\"70\" width=\"130\" height=\"80\" rx=\"10\" fill=\"#F3E8FF\" stroke=\"#7C3AED\" stroke-width=\"2\"/>\n <text x=\"265\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"24\">💰</text>\n <text x=\"265\" y=\"125\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#6B21A8\">Pooled Money</text>\n <text x=\"265\" y=\"140\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B21A8\">(₹100-1000 Cr)</text>\n <!-- Step 3: Fund Manager -->\n <rect x=\"370\" y=\"70\" width=\"130\" height=\"80\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/>\n <text x=\"435\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"24\">🧑‍💼</text>\n <text x=\"435\" y=\"125\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#C2410C\">Fund Manager</text>\n <text x=\"435\" y=\"140\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#C2410C\">Invests for you</text>\n <!-- Step 4: Securities -->\n <rect x=\"540\" y=\"70\" width=\"130\" height=\"80\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/>\n <text x=\"605\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"24\">📈</text>\n <text x=\"605\" y=\"125\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#145236\">Stocks/Bonds</text>\n <text x=\"605\" y=\"140\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#145236\">40-60 securities</text>\n <!-- Arrows top row -->\n <line x1=\"165\" y1=\"110\" x2=\"195\" y2=\"110\" stroke=\"#1B6B4A\" stroke-width=\"2\" marker-end=\"url(#arrow-mf)\"/>\n <line x1=\"335\" y1=\"110\" x2=\"365\" y2=\"110\" stroke=\"#1B6B4A\" stroke-width=\"2\" marker-end=\"url(#arrow-mf)\"/>\n <line x1=\"505\" y1=\"110\" x2=\"535\" y2=\"110\" stroke=\"#1B6B4A\" stroke-width=\"2\" marker-end=\"url(#arrow-mf)\"/>\n <!-- Step 5: NAV (below) -->\n <rect x=\"150\" y=\"200\" width=\"400\" height=\"80\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/>\n <text x=\"350\" y=\"230\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#145236\">NAV = (Total Assets Expenses) ÷ Total Un</text>\n <text x=\"350\" y=\"255\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#145236\">Calculated daily • You</text>\n <text x=\"350\" y=\"272\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1B6B4A\" font-weight=\"700\">You redeem whenever Un</text>\n <!-- Arrow down -->\n <line x1=\"350\" y1=\"160\" x2=\"350\" y2=\"195\" stroke=\"#1B6B4A\" stroke-width=\"2\" marker-end=\"url(#arrow-mf)\"/>\n <text x=\"360\" y=\"183\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B7280\">produces</text>\n</svg>",
-      "caption": "The complete journey of your money - from investor to securities to wealth",
-      "description": "This is how ₹5,000/month from lakhs of investors becomes a diversified portfolio managed by experts. You don't need to pick stocks yourself."
+      "type": "process_flow",
+      "heading": "⚙️ How your money flows in a mutual fund",
+      "steps": [
+        {
+          "icon": "users",
+          "title": "Many investors pool money",
+          "desc": "Lakhs of people each put in small amounts, from as little as ₹100 a month, into the same scheme."
+        },
+        {
+          "icon": "wallet",
+          "title": "The AMC collects the pool",
+          "desc": "An Asset Management Company gathers this money into a single large fund."
+        },
+        {
+          "icon": "trending",
+          "title": "A fund manager invests it",
+          "desc": "A professional manager buys a diversified mix of stocks, bonds or other securities on your behalf."
+        },
+        {
+          "icon": "sparkles",
+          "title": "Returns flow back to you",
+          "desc": "Gains and losses are shared in proportion to the units you hold. Your unit value, the NAV, moves with the portfolio."
+        }
+      ]
     },
     {
       "heading": "⚖️ Mutual Funds vs Other Investments - Quick Comparison",
@@ -174,7 +192,8 @@
         "Popular: UTI Nifty 50, HDFC Sensex, Nippon India Nifty 50 ETF.",
         "5. Solution-Oriented Funds - Retirement Funds (5-year lock-in or till retirement), Children's Funds (5-year lock-in or till child turns 18).",
         "Useful for goal-linked saving.",
-        "6. International Funds - Invest in US/global stocks (Nasdaq 100, S&P 500 ETFs). Adds currency diversification but complex taxation."
+        "6. International Funds - Invest in US/global stocks (Nasdaq 100, S&P 500 ETFs).",
+        "Adds currency diversification but complex taxation."
       ]
     },
     {
@@ -198,19 +217,34 @@
       "text": "₹10,000/month SIP in a Nifty 50 index fund over 20 years becomes ₹1 Crore. You invested ₹24 lakh. Compounding added ₹76 lakh."
     },
     {
-      "type": "svg_block",
-      "heading": "💡 Visual: What is a Mutual Fund? Key Numbers",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">₹100/month</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Min SIP</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">44 Registered</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">AMCs in India</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">1,500+</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Total Schemes</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">₹65+ Lakh Cr</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">AUM (2026)</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
-      "caption": "Key numbers for What is a Mutual Fund? Complet",
-      "description": "Quick overview of the most important numbers and facts."
+      "type": "stat_cards",
+      "heading": "📊 Mutual funds in India: key numbers",
+      "cards": [
+        {
+          "value": "₹100",
+          "label": "Minimum to start a SIP",
+          "variant": "accent"
+        },
+        {
+          "value": "₹80+ Lakh Cr",
+          "label": "Industry AUM (AMFI, 2026)"
+        },
+        {
+          "value": "40+",
+          "label": "Asset management companies"
+        },
+        {
+          "value": "1,000s",
+          "label": "Schemes across categories"
+        }
+      ]
     },
     {
-      "heading": "📈 Visual: SIP Growth Over 20 Years",
-      "icon": "📈",
-      "type": "svg_block",
-      "svg": "<svg viewBox=\"0 0 700 320\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\">\n <text x=\"350\" y=\"28\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">₹10,000/Month SIP Over 20 Years (at 12% </text>\n <!-- Axes -->\n <line x1=\"60\" y1=\"260\" x2=\"660\" y2=\"260\" stroke=\"#4B5563\" stroke-width=\"1\"/>\n <line x1=\"60\" y1=\"60\" x2=\"60\" y2=\"260\" stroke=\"#4B5563\" stroke-width=\"1\"/>\n <!-- Y-axis labels -->\n <text x=\"50\" y=\"264\" text-anchor=\"end\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B7280\">0</text>\n <text x=\"50\" y=\"224\" text-anchor=\"end\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B7280\">20L</text>\n <text x=\"50\" y=\"184\" text-anchor=\"end\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B7280\">40L</text>\n <text x=\"50\" y=\"144\" text-anchor=\"end\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B7280\">60L</text>\n <text x=\"50\" y=\"104\" text-anchor=\"end\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B7280\">80L</text>\n <text x=\"50\" y=\"64\" text-anchor=\"end\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B7280\">1Cr</text>\n <!-- X-axis labels (years) -->\n <text x=\"120\" y=\"278\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B7280\">5yr</text>\n <text x=\"240\" y=\"278\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B7280\">10yr</text>\n <text x=\"360\" y=\"278\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B7280\">15yr</text>\n <text x=\"480\" y=\"278\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B7280\">20yr</text>\n <text x=\"600\" y=\"278\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B7280\">25yr</text>\n <!-- Grid lines -->\n <line x1=\"60\" y1=\"220\" x2=\"660\" y2=\"220\" stroke=\"#E5E7EB\" stroke-width=\"1\" stroke-dasharray=\"3,3\"/>\n <line x1=\"60\" y1=\"180\" x2=\"660\" y2=\"180\" stroke=\"#E5E7EB\" stroke-width=\"1\" stroke-dasharray=\"3,3\"/>\n <line x1=\"60\" y1=\"140\" x2=\"660\" y2=\"140\" stroke=\"#E5E7EB\" stroke-width=\"1\" stroke-dasharray=\"3,3\"/>\n <line x1=\"60\" y1=\"100\" x2=\"660\" y2=\"100\" stroke=\"#E5E7EB\" stroke-width=\"1\" stroke-dasharray=\"3,3\"/>\n <!-- Invested (linear) line - ₹2.4L/yr growing linearly -->\n <!-- 5yr: ₹12L, 10yr: ₹24L, 15yr: ₹36L, 20yr: ₹48L, 25yr: ₹60L -->\n <polyline points=\"60,260 120,236 180,212 240,212 300,200 360,188 420,188 480,164 540,164 600,140 660,140\" fill=\"none\" stroke=\"#9CA3AF\" stroke-width=\"2\" stroke-dasharray=\"4,4\"/>\n <!-- Wealth (compound) curve -->\n <!-- 5yr: ~₹8L, 10yr: ~₹23L, 15yr: ~₹50L, 20yr: ~₹1Cr, 25yr: ~₹1.9Cr (capped at top) -->\n <path d=\"M 60 260 Q 120 246 180 222 Q 240 190 300 148 Q 360 95 420 75 Q 460 68 500 65\" fill=\"none\" stroke=\"#1B6B4A\" stroke-width=\"3\"/>\n <!-- End values annotation -->\n <circle cx=\"480\" cy=\"65\" r=\"5\" fill=\"#1B6B4A\"/>\n <text x=\"475\" y=\"55\" text-anchor=\"end\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#1B6B4A\">₹1 Crore</text>\n <text x=\"475\" y=\"48\" text-anchor=\"end\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#1B6B4A\">at 20 years</text>\n <circle cx=\"480\" cy=\"164\" r=\"5\" fill=\"#9CA3AF\"/>\n <text x=\"485\" y=\"158\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#6B7280\">₹24L invested</text>\n <!-- Legend -->\n <rect x=\"500\" y=\"210\" width=\"150\" height=\"50\" rx=\"6\" fill=\"#FFFFFF\" stroke=\"#E5E7EB\" stroke-width=\"1\"/>\n <line x1=\"510\" y1=\"222\" x2=\"530\" y2=\"222\" stroke=\"#1B6B4A\" stroke-width=\"3\"/>\n <text x=\"535\" y=\"226\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Wealth (with returns</text>\n <line x1=\"510\" y1=\"242\" x2=\"530\" y2=\"242\" stroke=\"#9CA3AF\" stroke-width=\"2\" stroke-dasharray=\"4,4\"/>\n <text x=\"535\" y=\"246\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Amount invested</text>\n</svg>",
-      "caption": "₹10,000/month in an equity fund grows to ₹1 Crore over 20 years (at 12% CAGR)",
-      "description": "You invested ₹24 lakh across 240 SIP installments. Compounding added ₹76 lakh on top. This is why starting early matters more than how much you invest - time does the heavy lifting."
+      "type": "number_highlight",
+      "heading": "📈 What long-term SIP compounding looks like",
+      "big": "₹1 Crore",
+      "title": "from ₹10,000 a month over 20 years",
+      "desc": "At an assumed 12 percent long-term return, ₹10,000 invested monthly for 20 years puts in about ₹24 lakh of your own money. Compounding adds the rest. Returns are market-linked and not guaranteed, so treat this as an illustration, not a promise."
     },
     {
       "heading": "⚖️ Direct vs Regular Plans - The 1% Difference That Matters",
@@ -236,12 +270,11 @@
       "content": "Choosing Direct plans over Regular plans saves you ₹15+ lakh over 20 years on a ₹10K/month SIP. Use apps like Groww, Kuvera, or Coin - never buy mutual funds through a bank (they push Regular plans with hidden commissions)."
     },
     {
-      "heading": "⚖️ Visual: Direct vs Regular Plan Cost Over 20 Years",
-      "icon": "💰",
-      "type": "svg_block",
-      "svg": "<svg viewBox=\"0 0 700 280\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\">\n <text x=\"350\" y=\"28\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Direct vs Regular Plan 20-Year Impact 1%</text>\n <text x=\"350\" y=\"45\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#6B7280\">₹10,000/month SIP at</text>\n <!-- Direct Plan Bar -->\n <text x=\"100\" y=\"90\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#145236\">Direct Plan</text>\n <text x=\"100\" y=\"107\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#145236\">Expense ratio: 0.5%</text>\n <rect x=\"240\" y=\"80\" width=\"370\" height=\"50\" rx=\"6\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/>\n <text x=\"425\" y=\"113\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"22\" font-weight=\"800\" fill=\"#1B6B4A\">₹1,00,00,000</text>\n <text x=\"620\" y=\"108\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">(₹1 Cr)</text>\n <!-- Regular Plan Bar -->\n <text x=\"100\" y=\"165\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#991B1B\">Regular Plan</text>\n <text x=\"100\" y=\"182\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#991B1B\">Expense ratio: 1.5%</text>\n <rect x=\"240\" y=\"155\" width=\"305\" height=\"50\" rx=\"6\" fill=\"#FEE2E2\" stroke=\"#DC2626\" stroke-width=\"2\"/>\n <text x=\"392\" y=\"188\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"22\" font-weight=\"800\" fill=\"#DC2626\">₹85,00,000</text>\n <text x=\"555\" y=\"183\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#991B1B\">(₹85 L)</text>\n <!-- Loss annotation -->\n <rect x=\"200\" y=\"225\" width=\"300\" height=\"40\" rx=\"8\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/>\n <text x=\"350\" y=\"250\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#C2410C\">₹15 Lakh lost to distributor commissions</text>\n</svg>",
-      "caption": "Same fund, same manager, same returns - but 1% higher fee costs you ₹15 lakh",
-      "description": "This is why choosing Direct plans via Groww, Kuvera, or Coin (instead of buying through a bank or distributor) is the single most important decision for long-term mutual fund investors."
+      "type": "number_highlight",
+      "heading": "⚖️ Why direct plans matter over time",
+      "big": "~₹15 Lakh",
+      "title": "the cost of a 1 percent higher fee over 20 years",
+      "desc": "A direct plan and a regular plan can hold the same portfolio with the same manager. The regular plan just charges a higher fee, and over decades that small gap compounds into a large difference in your final corpus."
     },
     {
       "heading": "💼 Top Mutual Fund AMCs in India - 2026",
@@ -330,7 +363,8 @@
         "Check the fund's equity allocation carefully.",
         "Arbitrage Funds - Technically equity (due to hedged equity exposure), so taxed like equity. A popular way for high earners to park money for 6-12 months with tax efficiency.",
         "International Funds - Taxed as debt funds (your slab rate), regardless of underlying assets. This reduces their appeal.",
-        "ELSS (Tax-Saving Equity Funds) - Investments up to ₹1.5 lakh/year qualify for Section 80C deduction (old tax regime only). 3-year lock-in per SIP installment. Gains taxed as equity.",
+        "ELSS (Tax-Saving Equity Funds) - Investments up to ₹1.5 lakh/year qualify for Section 80C deduction (old tax regime only). 3-year lock-in per SIP installment.",
+        "Gains taxed as equity.",
         "For more details, see our guide on <a href=\"/paisa/what-is-sip\" style=\"text-decoration:underline;color:inherit\">What is SIP?</a>."
       ]
     },
@@ -434,18 +468,11 @@
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "⚙️ Visual: Process Steps",
-      "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><defs><marker id=\"af\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><polygon points=\"0 0, 10 3, 0 6\" fill=\"#1E40AF\"/></marker></defs><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Process Steps</text><rect x=\"16\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"71\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Complete your KYC</text><line x1=\"126\" y1=\"65\" x2=\"142\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"152\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"207\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Download a direct </text><line x1=\"262\" y1=\"65\" x2=\"278\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"288\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"343\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Choose your fund t</text><line x1=\"398\" y1=\"65\" x2=\"414\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"424\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"479\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Pick specific fund</text><line x1=\"534\" y1=\"65\" x2=\"550\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"560\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"615\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">Set up your first </text></svg>",
-      "caption": "Steps to follow",
-      "description": "Visual guide to the process."
-    },
-    {
       "heading": "🚀 The #1 Beginner Myth",
       "icon": "🎯",
       "type": "callout",
       "variant": "tip",
-      "content": "Don't pick a fund based on low NAV. A fund with NAV ₹10 and a fund with NAV ₹100 give identical returns for the same money. NAV is price per unit - it's meaningless. Always compare 5-year returns and expense ratio instead."
+      "content": "Don't pick a fund based on low NAV. A fund with NAV ₹10 and a fund with NAV ₹100 give identical returns for the same money.<br><br>NAV is price per unit - it's meaningless. Always compare 5-year returns and expense ratio instead."
     },
     {
       "heading": "🚀 How to Track and Manage Your Mutual Fund Portfolio",
@@ -527,12 +554,19 @@
     {
       "type": "text",
       "heading": "🚀 How to start investing in mutual funds - 5-minute guide",
-      "icon": "📝",
       "content": [
-        "Step 1: Complete KYC at kra.ndml.in - enter PAN, Aadhaar, and bank details. Video verification takes 30 seconds (hold PAN card, say your name). KYC approval: instant to 24 hours. This is a one-time process valid for all mutual fund investments across all AMCs.",
-        "Step 2: Choose a platform - Groww (groww.in), Kuvera (kuvera.in), or directly from AMC websites. Create an account with the same PAN used for KYC. Registration: 2 minutes. All these platforms offer direct plans (lower expense ratio than regular plans sold by agents).",
+        "Step 1: Complete KYC at kra.ndml.in - enter PAN, Aadhaar, and bank details. Video verification takes 30 seconds (hold PAN card, say your name).",
+        "KYC approval: instant to 24 hours. This is a one-time process valid for all mutual fund investments across all AMCs.",
+        "Step 2: Choose a platform - Groww (groww.in), Kuvera (kuvera.in), or directly from AMC websites. Create an account with the same PAN used for KYC.",
+        "Registration: 2 minutes. All these platforms offer direct plans (lower expense ratio than regular plans sold by agents).",
         "Step 3: Choose your first fund. For absolute beginners: Nifty 50 Index Fund (tracks India's top 50 companies, lowest expense ratio at 0.1-0.2%, no fund manager risk).",
-        "For slightly more adventurous: a flexi-cap fund (invests across large, mid, and small cap - higher return potential). Start with ONE fund - don't diversify until you've invested for at least 6 months and understand how markets move.",
+        "For slightly more adventurous: a flexi-cap fund (invests across large, mid, and small cap - higher return potential). Start with ONE fund - don't diversify until you've invested for at least 6 months and understand how markets move."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "🚀 How to start investing in mutual funds - 5-minute guide (continued)",
+      "content": [
         "Step 4: Start a SIP (Systematic Investment Plan) - minimum Rs 100-500/month. Set monthly auto-debit from your bank account.",
         "Choose any date (1st, 5th, 10th, 15th). The SIP runs automatically every month - zero manual effort.",
         "Increase SIP by 10-20% every year as salary grows (most platforms have 'Step-Up SIP' feature).",
@@ -561,13 +595,19 @@
     {
       "type": "text",
       "heading": "🧾 Mutual fund taxation - simple rules",
-      "icon": "💰",
       "content": [
         "Equity mutual funds (held > 1 year): Long-Term Capital Gains (LTCG) above Rs 1.25 lakh per year taxed at 12.5%. Gains up to Rs 1.25 lakh are completely TAX-FREE.",
         "For most retail investors with Rs 1-5 lakh in mutual funds, the annual gains stay below Rs 1.25 lakh - making equity MF gains effectively tax-free. Held < 1 year: Short-Term Capital Gains (STCG) taxed at 20%.",
         "Debt mutual funds: All gains (regardless of holding period) are taxed at your income tax slab rate - same as FD interest. This change (from April 2023) removed the previous indexation benefit that made debt funds tax-superior to FDs.",
         "Now, for tax purposes, debt MF and FD are equivalent. Choose debt MF for liquidity and professional management, not for tax advantage.",
-        "Hybrid mutual funds (65%+ equity): Taxed as equity funds - LTCG above Rs 1.25 lakh at 12.5% after 1 year. This includes Balanced Advantage Funds, Aggressive Hybrid, and Equity Savings funds. The 65% equity threshold determines the tax treatment - funds below 65% equity are taxed as debt funds.",
+        "Hybrid mutual funds (65%+ equity): Taxed as equity funds - LTCG above Rs 1.25 lakh at 12.5% after 1 year. This includes Balanced Advantage Funds, Aggressive Hybrid, and Equity Savings funds."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "🧾 Mutual fund taxation - simple rules (continued)",
+      "content": [
+        "The 65% equity threshold determines the tax treatment - funds below 65% equity are taxed as debt funds.",
         "Tax harvesting strategy: If your equity MF gains are approaching Rs 1.25 lakh in a financial year, redeem and immediately reinvest - this 'books' the gains tax-free under the Rs 1.25 lakh exemption and resets your cost basis. Repeat every year.",
         "Over 10 years, this simple strategy can save Rs 50,000-2,00,000 in LTCG tax depending on portfolio size. Most platforms (Kuvera, Groww) have automatic tax harvesting alerts.",
         "Dividend vs growth option: Always choose GROWTH option - dividends from mutual funds are added to your income and taxed at your slab rate (up to 30%). Growth option lets your money compound without tax drag.",
@@ -579,109 +619,109 @@
       "heading": "📚 Official Sources & References",
       "icon": "📖",
       "variant": "info",
-      "content": "Source: SEBI Mutual Fund Regulations, 1996 (as amended) & AMFI (Association of Mutual Funds in India). All information on this page has been verified against official government notifications and regulatory circulars. For the latest updates, always check the official portal."
+      "content": "Source: SEBI Mutual Fund Regulations, 1996 (as amended) & AMFI (Association of Mutual Funds in India). All information on this page has been verified against official government notifications and regulatory circulars.<br><br>For the latest updates, always check the official portal."
     }
   ],
   "faqs": [
     {
       "question": "Can I lose all my money in mutual funds?",
-      "answer": "Extremely unlikely but theoretically possible with sectoral/thematic funds. Diversified equity mutual funds have never gone to zero - even during 2008 crash, Nifty 50 dropped 60% then recovered. For diversified funds, your worst-case loss over a 7+ year horizon is historically limited to 20-30% temporarily. Your money is held at SEBI-registered custodians, separate from AMC's own funds, so even if the AMC goes bankrupt, your money is safe."
+      "answer": "Extremely unlikely but theoretically possible with sectoral/thematic funds. Diversified equity mutual funds have never gone to zero - even during 2008 crash, Nifty 50 dropped 60% then recovered.<br><br>For diversified funds, your worst-case loss over a 7+ year horizon is historically limited to 20-30% temporarily. Your money is held at SEBI-registered custodians, separate from AMC's own funds, so even if the AMC goes bankrupt, your money is safe."
     },
     {
       "question": "What is the minimum amount to start mutual funds?",
-      "answer": "₹100/month for SIP in most funds. Some funds accept ₹500 minimum lump sum. You don't need lakhs to start. ₹500/month over 20 years at 12% CAGR becomes ₹5 lakh. ₹5,000/month over 20 years becomes ₹50 lakh. Starting small and increasing with income growth is better than waiting to accumulate 'enough' to invest."
+      "answer": "₹100/month for SIP in most funds. Some funds accept ₹500 minimum lump sum.<br><br>You don't need lakhs to start. ₹500/month over 20 years at 12% CAGR becomes ₹5 lakh.<br><br>₹5,000/month over 20 years becomes ₹50 lakh. Starting small and increasing with income growth is better than waiting to accumulate 'enough' to invest."
     },
     {
       "question": "Mutual fund vs FD - which is better?",
-      "answer": "Depends on goal and timeframe. For goals under 2 years: FD wins (guaranteed returns, zero risk). For goals 3-5 years: Hybrid funds or Balanced Advantage funds beat FD with moderate risk. For goals 5+ years: Equity mutual funds historically outperform FDs by 4-6% annually. Over 20 years, ₹10,000/month in FD (7%) grows to ₹52 lakh; same in equity mutual fund (12%) grows to ₹1 crore. Tax efficiency also favors equity funds (12.5% LTCG vs slab rate on FD interest)."
+      "answer": "Depends on goal and timeframe. For goals under 2 years: FD wins (guaranteed returns, zero risk).<br><br>For goals 3-5 years: Hybrid funds or Balanced Advantage funds beat FD with moderate risk. For goals 5+ years: Equity mutual funds historically outperform FDs by 4-6% annually.<br><br>Over 20 years, ₹10,000/month in FD (7%) grows to ₹52 lakh; same in equity mutual fund (12%) grows to ₹1 crore. Tax efficiency also favors equity funds (12.5% LTCG vs slab rate on FD interest)."
     },
     {
       "question": "What is Direct vs Regular plan?",
-      "answer": "Direct plans have 0.5-1% lower expense ratio because no distributor commission is paid. Same portfolio, same fund manager, just cheaper. Over 20 years, this 1% difference costs you ₹15+ lakh on a ₹10,000/month SIP. Always choose Direct plans via apps like Groww, Kuvera, Coin. If you need advice, pay a SEBI-registered RIA a fixed fee instead of hidden distributor commissions."
+      "answer": "Direct plans have 0.5-1% lower expense ratio because no distributor commission is paid. Same portfolio, same fund manager, just cheaper.<br><br>Over 20 years, this 1% difference costs you ₹15+ lakh on a ₹10,000/month SIP. Always choose Direct plans via apps like Groww, Kuvera, Coin.<br><br>If you need advice, pay a SEBI-registered RIA a fixed fee instead of hidden distributor commissions."
     },
     {
       "question": "Do I need a demat account for mutual funds?",
-      "answer": "No, demat is optional for mutual funds. You can invest directly through AMC websites or platforms like Groww, Kuvera, Coin without a demat. Demat is only needed if you want to hold mutual fund units in demat form (required for some ETFs and closed-ended funds). For regular SIP in open-ended funds, demat is completely unnecessary."
+      "answer": "No, demat is optional for mutual funds. You can invest directly through AMC websites or platforms like Groww, Kuvera, Coin without a demat.<br><br>Demat is only needed if you want to hold mutual fund units in demat form (required for some ETFs and closed-ended funds). For regular SIP in open-ended funds, demat is completely unnecessary."
     },
     {
       "question": "What is NAV and how is it calculated?",
-      "answer": "NAV (Net Asset Value) is the price of one unit of a mutual fund. Calculated daily as: (Total Assets - Expenses) ÷ Total Units Outstanding. If a fund has ₹1,000 crore in assets with 10 crore units outstanding, NAV = ₹100. You buy units at end-of-day NAV, not intraday price. Unlike stock prices, NAV doesn't fluctuate minute-to-minute - it's set once per business day around 10 PM."
+      "answer": "NAV (Net Asset Value) is the price of one unit of a mutual fund. Calculated daily as: (Total Assets - Expenses) ÷ Total Units Outstanding.<br><br>If a fund has ₹1,000 crore in assets with 10 crore units outstanding, NAV = ₹100. You buy units at end-of-day NAV, not intraday price.<br><br>Unlike stock prices, NAV doesn't fluctuate minute-to-minute - it's set once per business day around 10 PM."
     },
     {
       "question": "Should I buy a fund with low NAV?",
-      "answer": "This is the #1 beginner misconception. NAV is NOT like share price. A ₹10 NAV fund and ₹100 NAV fund give the SAME returns for the same money invested. Example: invest ₹10,000 in Fund A (NAV ₹10, get 1000 units) and Fund B (NAV ₹100, get 100 units). Both funds grow 10%: Fund A becomes ₹11,000 (NAV ₹11), Fund B becomes ₹11,000 (NAV ₹110). Same return. Never pick a fund based on low NAV - compare 5-year returns, expense ratio, and consistency."
+      "answer": "This is the #1 beginner misconception. NAV is NOT like share price.<br><br>A ₹10 NAV fund and ₹100 NAV fund give the SAME returns for the same money invested. Example: invest ₹10,000 in Fund A (NAV ₹10, get 1000 units) and Fund B (NAV ₹100, get 100 units).<br><br>Both funds grow 10%: Fund A becomes ₹11,000 (NAV ₹11), Fund B becomes ₹11,000 (NAV ₹110). Same return.<br><br>Never pick a fund based on low NAV - compare 5-year returns, expense ratio, and consistency."
     },
     {
       "question": "What is SIP and why is it popular?",
-      "answer": "SIP (Systematic Investment Plan) is investing a fixed amount monthly into a mutual fund automatically. ₹5,000 SIP debits from your bank on a fixed date and buys fund units. SIP is popular because: (1) Rupee Cost Averaging - you buy more units when markets fall, fewer when high. (2) Discipline - automates investing. (3) Affordability - start with ₹100. (4) Psychology - no market timing needed. Over 20 years, SIP investors outperform lump-sum investors 70% of the time."
+      "answer": "SIP (Systematic Investment Plan) is investing a fixed amount monthly into a mutual fund automatically. ₹5,000 SIP debits from your bank on a fixed date and buys fund units.<br><br>SIP is popular because: (1) Rupee Cost Averaging - you buy more units when markets fall, fewer when high. (2) Discipline - automates investing.<br><br>(3) Affordability - start with ₹100. (4) Psychology - no market timing needed.<br><br>Over 20 years, SIP investors outperform lump-sum investors 70% of the time."
     },
     {
       "question": "What happens if I stop SIP?",
-      "answer": "Nothing bad. Your existing units continue to grow. Just no new investments happen. You can restart anytime. However, stopping SIP during market crashes is the worst timing - that's when you're buying the most units per rupee invested. Smart investors increase SIP during crashes; beginners often panic-stop."
+      "answer": "Nothing bad. Your existing units continue to grow.<br><br>Just no new investments happen. You can restart anytime.<br><br>However, stopping SIP during market crashes is the worst timing - that's when you're buying the most units per rupee invested. Smart investors increase SIP during crashes; beginners often panic-stop."
     },
     {
       "question": "Can I withdraw mutual fund money anytime?",
-      "answer": "Yes for most funds (called 'open-ended'). Redeem via your app; money credits in T+1 to T+3 days depending on fund type. Liquid funds credit same day if redeemed before 1 PM. Exceptions: ELSS funds have 3-year lock-in per SIP installment. Solution-oriented funds (retirement/child) have 5-year lock-in. Don't withdraw equity funds before 3-5 years unless absolutely needed - you'll miss compounding."
+      "answer": "Yes for most funds (called 'open-ended'). Redeem via your app; money credits in T+1 to T+3 days depending on fund type.<br><br>Liquid funds credit same day if redeemed before 1 PM. Exceptions: ELSS funds have 3-year lock-in per SIP installment.<br><br>Solution-oriented funds (retirement/child) have 5-year lock-in. Don't withdraw equity funds before 3-5 years unless absolutely needed - you'll miss compounding."
     },
     {
       "question": "Are mutual funds safe?",
-      "answer": "Yes, mutual funds are heavily regulated by SEBI. Your money is held at independent custodian banks, separate from the AMC's accounts. Even if an AMC collapses, your money is safe - transferred to another AMC. However, mutual funds carry MARKET RISK - NAV can fluctuate daily. Equity fund NAV can drop 20-40% during crashes. This isn't theft or fraud; it's normal market behavior. Safe from fraud, risky from markets - know the difference."
+      "answer": "Yes, mutual funds are heavily regulated by SEBI. Your money is held at independent custodian banks, separate from the AMC's accounts.<br><br>Even if an AMC collapses, your money is safe - transferred to another AMC. However, mutual funds carry MARKET RISK - NAV can fluctuate daily.<br><br>Equity fund NAV can drop 20-40% during crashes. This isn't theft or fraud; it's normal market behavior.<br><br>Safe from fraud, risky from markets - know the difference."
     },
     {
       "question": "What is an expense ratio?",
-      "answer": "The annual fee charged by the AMC for managing the fund. Expressed as a percentage of your investment. Passive index funds: 0.1-0.3%. Active equity funds: 1.0-2.5%. Deducted daily from NAV - you never pay separately. A 1% higher expense ratio reduces your wealth by 20% over 30 years. Always prefer funds with expense ratio under 1% for active funds and under 0.5% for index funds."
+      "answer": "The annual fee charged by the AMC for managing the fund. Expressed as a percentage of your investment.<br><br>Passive index funds: 0.1-0.3%. Active equity funds: 1.0-2.5%.<br><br>Deducted daily from NAV - you never pay separately. A 1% higher expense ratio reduces your wealth by 20% over 30 years.<br><br>Always prefer funds with expense ratio under 1% for active funds and under 0.5% for index funds."
     },
     {
       "question": "What is ELSS and how does it save tax?",
-      "answer": "ELSS (Equity Linked Savings Scheme) is a tax-saving equity mutual fund. Investments up to ₹1.5 lakh/year qualify for Section 80C deduction under OLD tax regime. Under new tax regime (default from FY 2024-25), ELSS doesn't save tax. Has 3-year lock-in per SIP installment. Returns are fully equity-based - historically 12-15% annually. Popular ELSS funds: Quant ELSS, Mirae Asset ELSS, Parag Parikh ELSS."
+      "answer": "ELSS (Equity Linked Savings Scheme) is a tax-saving equity mutual fund. Investments up to ₹1.5 lakh/year qualify for Section 80C deduction under OLD tax regime.<br><br>Under new tax regime (default from FY 2024-25), ELSS doesn't save tax. Has 3-year lock-in per SIP installment.<br><br>Returns are fully equity-based - historically 12-15% annually. Popular ELSS funds: Quant ELSS, Mirae Asset ELSS, Parag Parikh ELSS."
     },
     {
       "question": "Can NRIs invest in Indian mutual funds?",
-      "answer": "Yes, NRIs can invest in most Indian mutual funds through NRE or NRO bank accounts. Required: PAN, NRE/NRO account, FATCA declaration. Restrictions apply for US/Canada NRIs - many AMCs don't accept them due to compliance costs. AMCs that accept US/Canada NRIs: ICICI Prudential, SBI, UTI, L&T. Taxation differs: 20% TDS on STCG and 12.5% TDS on LTCG for NRIs (vs lower for residents)."
+      "answer": "Yes, NRIs can invest in most Indian mutual funds through NRE or NRO bank accounts. Required: PAN, NRE/NRO account, FATCA declaration.<br><br>Restrictions apply for US/Canada NRIs - many AMCs don't accept them due to compliance costs. AMCs that accept US/Canada NRIs: ICICI Prudential, SBI, UTI, L&T.<br><br>Taxation differs: 20% TDS on STCG and 12.5% TDS on LTCG for NRIs (vs lower for residents)."
     },
     {
       "question": "How many mutual funds should I own?",
-      "answer": "3 to 5 for most beginners. Adding more creates duplication with no extra benefit. Ideal portfolio: 1 Nifty 50 Index Fund (50% allocation), 1 Mid Cap or Flexi Cap Fund (25%), 1 International or Small Cap (15-25%), optionally 1 Debt/Hybrid Fund for stability (remaining). Adding 10+ funds gives you a 'fund collection' not a portfolio - most advanced investors stick to 3-5 core holdings."
+      "answer": "3 to 5 for most beginners. Adding more creates duplication with no extra benefit.<br><br>Ideal portfolio: 1 Nifty 50 Index Fund (50% allocation), 1 Mid Cap or Flexi Cap Fund (25%), 1 International or Small Cap (15-25%), optionally 1 Debt/Hybrid Fund for stability (remaining). Adding 10+ funds gives you a 'fund collection' not a portfolio - most advanced investors stick to 3-5 core holdings."
     },
     {
       "question": "What is XIRR in mutual funds?",
-      "answer": "XIRR (Extended Internal Rate of Return) is the annualized return on SIP investments, accounting for different cash flow dates. Since SIP invests different amounts on different dates, simple CAGR doesn't work. XIRR gives the true annual return. Most apps show it automatically. If your SIP shows 15% XIRR, your money is growing 15% annually when accounting for when each installment was invested."
+      "answer": "XIRR (Extended Internal Rate of Return) is the annualized return on SIP investments, accounting for different cash flow dates. Since SIP invests different amounts on different dates, simple CAGR doesn't work.<br><br>XIRR gives the true annual return. Most apps show it automatically.<br><br>If your SIP shows 15% XIRR, your money is growing 15% annually when accounting for when each installment was invested."
     },
     {
       "question": "Is it okay to invest in mutual funds without professional advice?",
-      "answer": "For beginners investing through SIPs in diversified index funds, self-investing is fine. Most beginners overthink fund selection. Just pick a Nifty 50 Index Fund from a large AMC (UTI, HDFC, SBI, ICICI) via a Direct plan on Groww/Kuvera - you'll beat 70% of advisors over 10 years. Professional advice becomes useful when: you have ₹50 lakh+ to invest, complex tax situation, goal-based planning needed, or multiple income sources."
+      "answer": "For beginners investing through SIPs in diversified index funds, self-investing is fine. Most beginners overthink fund selection.<br><br>Just pick a Nifty 50 Index Fund from a large AMC (UTI, HDFC, SBI, ICICI) via a Direct plan on Groww/Kuvera - you'll beat 70% of advisors over 10 years. Professional advice becomes useful when: you have ₹50 lakh+ to invest, complex tax situation, goal-based planning needed, or multiple income sources."
     },
     {
       "question": "What happens to my SIP if the fund manager changes?",
-      "answer": "Usually no immediate impact - the investment philosophy continues for 12-18 months. New fund manager may gradually reshape portfolio. Watch closely for 6-12 months after change. If: returns significantly lag category for 12 months OR new manager announces major strategy shift, consider switching to another fund. Don't panic-exit immediately; give new manager reasonable time."
+      "answer": "Usually no immediate impact - the investment philosophy continues for 12-18 months. New fund manager may gradually reshape portfolio.<br><br>Watch closely for 6-12 months after change. If: returns significantly lag category for 12 months OR new manager announces major strategy shift, consider switching to another fund.<br><br>Don't panic-exit immediately; give new manager reasonable time."
     },
     {
       "question": "Can I invest in US stocks through Indian mutual funds?",
-      "answer": "Yes, via International Funds. Options: Motilal Oswal S&P 500 Index Fund, Franklin US Opportunities Fund, Edelweiss US Technology Fund. Adds currency diversification (rupee depreciation against dollar boosts returns). Warning: taxed as debt funds (slab rate) not equity, so tax-inefficient. Limit to 10-15% of portfolio for diversification only."
+      "answer": "Yes, via International Funds. Options: Motilal Oswal S&P 500 Index Fund, Franklin US Opportunities Fund, Edelweiss US Technology Fund.<br><br>Adds currency diversification (rupee depreciation against dollar boosts returns). Warning: taxed as debt funds (slab rate) not equity, so tax-inefficient.<br><br>Limit to 10-15% of portfolio for diversification only."
     },
     {
       "question": "What is SWP in mutual funds?",
-      "answer": "SWP (Systematic Withdrawal Plan) is the opposite of SIP - withdraw a fixed amount monthly from your fund. Used post-retirement for regular income. Example: Invest ₹50 lakh in Balanced Advantage Fund, set up ₹40,000 monthly SWP. You get regular income; remaining corpus continues to grow. Tax-efficient because only the gain portion (not principal) is taxed."
+      "answer": "SWP (Systematic Withdrawal Plan) is the opposite of SIP - withdraw a fixed amount monthly from your fund. Used post-retirement for regular income.<br><br>Example: Invest ₹50 lakh in Balanced Advantage Fund, set up ₹40,000 monthly SWP. You get regular income; remaining corpus continues to grow.<br><br>Tax-efficient because only the gain portion (not principal) is taxed."
     },
     {
       "question": "Should I redeem mutual funds during market crashes?",
-      "answer": "No, never. Redeeming during crashes converts 'paper loss' into 'real loss.' Markets always recover - 2008 crash, 2020 COVID crash, 2022 correction, all recovered within 12-24 months. If you needed the money, you shouldn't have invested in equity. Equity mutual funds require 5-7+ year mindset. Instead of redeeming during crashes, INCREASE your SIP - you're buying cheap."
+      "answer": "No, never. Redeeming during crashes converts 'paper loss' into 'real loss.' Markets always recover - 2008 crash, 2020 COVID crash, 2022 correction, all recovered within 12-24 months.<br><br>If you needed the money, you shouldn't have invested in equity. Equity mutual funds require 5-7+ year mindset.<br><br>Instead of redeeming during crashes, INCREASE your SIP - you're buying cheap."
     },
     {
       "question": "How are mutual funds taxed in new vs old tax regime?",
-      "answer": "Capital gains taxation is the SAME in both regimes: STCG 20%, LTCG 12.5% (on gains above ₹1.25 lakh/year) for equity funds. The difference is only for tax-saving investments like ELSS: Old regime allows ₹1.5 lakh Section 80C deduction via ELSS; new regime does NOT. If you're in new regime (now default), ELSS loses its tax advantage - still okay as a pure equity fund, but no special benefit."
+      "answer": "Capital gains taxation is the SAME in both regimes: STCG 20%, LTCG 12.5% (on gains above ₹1.25 lakh/year) for equity funds. The difference is only for tax-saving investments like ELSS: Old regime allows ₹1.5 lakh Section 80C deduction via ELSS; new regime does NOT.<br><br>If you're in new regime (now default), ELSS loses its tax advantage - still okay as a pure equity fund, but no special benefit."
     },
     {
       "question": "Where can I track all my mutual funds in one place?",
-      "answer": "Use <a href='https://www.camsonline.com' target='_blank' rel='noopener'>CAMS</a> and <a href='https://www.kfintech.com' target='_blank' rel='noopener'>KFinTech</a> - India's two RTAs (Registrar and Transfer Agents) cover all 44 AMCs. Register once on both, get monthly Consolidated Account Statement (CAS) by email. Alternatively, apps like Groww and Kuvera auto-import all your holdings across AMCs and show unified portfolio."
+      "answer": "Use <a href='https://www.camsonline.com' target='_blank' rel='noopener'>CAMS</a> and <a href='https://www.kfintech.com' target='_blank' rel='noopener'>KFinTech</a> - India's two RTAs (Registrar and Transfer Agents) cover all 44 AMCs. Register once on both, get monthly Consolidated Account Statement (CAS) by email.<br><br>Alternatively, apps like Groww and Kuvera auto-import all your holdings across AMCs and show unified portfolio."
     },
     {
       "question": "What's the difference between AMC and fund manager?",
-      "answer": "AMC (Asset Management Company) is the company that runs the mutual fund business - HDFC AMC, SBI Funds Management, etc. The Fund Manager is an individual employed by the AMC who makes daily investment decisions for a specific fund. One AMC has many fund managers; one fund manager may run multiple schemes. Both matter: AMC for processes/safety, fund manager for performance."
+      "answer": "AMC (Asset Management Company) is the company that runs the mutual fund business - HDFC AMC, SBI Funds Management, etc. The Fund Manager is an individual employed by the AMC who makes daily investment decisions for a specific fund. One AMC has many fund managers; one fund manager may run multiple schemes.<br><br>Both matter: AMC for processes/safety, fund manager for performance."
     },
     {
       "question": "Can students and minors invest in mutual funds?",
-      "answer": "Yes. Students (18+) with PAN can invest directly. Minors (under 18) can have folios opened by a guardian (parent) - minor's PAN and birth proof required. On turning 18, folio is converted with fresh KYC. Students should start small (₹500-1000/month) in a Nifty 50 Index Fund to learn market behavior. The 10+ year compounding advantage for young investors is unbeatable."
+      "answer": "Yes. Students (18+) with PAN can invest directly.<br><br>Minors (under 18) can have folios opened by a guardian (parent) - minor's PAN and birth proof required. On turning 18, folio is converted with fresh KYC.<br><br>Students should start small (₹500-1000/month) in a Nifty 50 Index Fund to learn market behavior. The 10+ year compounding advantage for young investors is unbeatable."
     }
   ],
   "official_portal": {
