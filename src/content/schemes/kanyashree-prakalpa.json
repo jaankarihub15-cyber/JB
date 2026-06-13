@@ -48,24 +48,24 @@
   ],
   "eligibility": [
     {
-      "label": "Age",
-      "value": "K1: unmarried girl aged 13 to 18, enrolled in school (Class 8 to 12).",
-      "highlight": false
+      "label": "K1",
+      "value": "Unmarried girl aged 13 to 18, enrolled in school (Class 8 to 12).",
+      "highlight": true
     },
     {
-      "label": "Age",
-      "value": "K2: unmarried girl aged 18 or above, in education or training.",
-      "highlight": false
+      "label": "K2",
+      "value": "Unmarried girl aged 18 or above, in education or training.",
+      "highlight": true
     },
     {
-      "label": "Education",
-      "value": "K3: girls continuing to postgraduate or professional study.",
+      "label": "K3",
+      "value": "Girls continuing to postgraduate or professional study.",
       "highlight": false
     },
     {
       "label": "Income",
-      "value": "Family annual income up to ₹1.2 lakh (relaxed for orphans and special cases).",
-      "highlight": false
+      "value": "Family annual income up to ₹1.2 lakh (relaxed for special cases).",
+      "highlight": true
     },
     {
       "label": "Residence",
@@ -83,227 +83,26 @@
     "income_max": 120000,
     "notes": "Girl-child education scheme. K1 ages 13-18 in school, K2 one-time at 18+ unmarried, K3 for higher study. Family income under ₹1.2 lakh."
   },
-  "extra_sections": [
-    {
-      "type": "stat_grid",
-      "heading": "Kanyashree Key Numbers",
-      "icon": "📊",
-      "items": [
-        {
-          "icon": "wallet",
-          "value": "₹750/yr",
-          "label": "K1 scholarship",
-          "color": "green"
-        },
-        {
-          "icon": "trophy",
-          "value": "₹25,000",
-          "label": "K2 one-time",
-          "color": "amber"
-        },
-        {
-          "icon": "file",
-          "value": "₹1.2 Lakh",
-          "label": "Income limit",
-          "color": "blue"
-        },
-        {
-          "icon": "calendar",
-          "value": "2013",
-          "label": "Launched",
-          "color": "green"
-        }
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "Kanyashree: three tiers, one goal",
-      "icon": "📖",
-      "content": [
-        "Kanyashree works in three stages that follow a girl's education. K1 is a yearly scholarship of ₹750 for unmarried school girls aged 13 to 18.",
-        "K2 is a one-time grant of ₹25,000 paid at age 18 if she is still unmarried and in education or training. K3 supports those who go on to postgraduate or professional study.",
-        "The aim is simple: keep girls in school, delay marriage to at least 18, and help them study further. The money is paid directly to the girl's bank account."
-      ]
-    },
-    {
-      "type": "comparison_card",
-      "heading": "K1, K2 and K3 compared",
-      "icon": "⚖️",
-      "win": {
-        "name": "K2 one-time grant",
-        "amount": "₹25,000 paid once at age 18",
-        "sub": "For unmarried girls still studying"
-      },
-      "others": [
-        {
-          "name": "K1 annual",
-          "amount": "₹750 every year",
-          "sub": "Ages 13 to 18 in school"
-        },
-        {
-          "name": "K3 postgraduate",
-          "amount": "Higher-study scholarship",
-          "sub": "For university and beyond"
-        }
-      ]
-    },
-    {
-      "type": "eligibility_check",
-      "heading": "Who qualifies for Kanyashree",
-      "icon": "✅",
-      "qualify": [
-        "Unmarried girl aged 13 to 18 in school (K1)",
-        "Unmarried girl aged 18+ in education (K2)",
-        "Continuing to postgraduate study (K3)",
-        "Family income up to ₹1.2 lakh a year",
-        "Permanent West Bengal resident"
-      ],
-      "disqualify": [
-        "Married before the qualifying age",
-        "Family income above ₹1.2 lakh (except special cases)",
-        "Not enrolled in school or study",
-        "Not a West Bengal resident"
-      ]
-    },
-    {
-      "type": "process_flow",
-      "heading": "How to apply for Kanyashree",
-      "icon": "📄",
-      "steps": [
-        {
-          "icon": "file",
-          "title": "Get the form from your school",
-          "desc": "K1 and K2 forms are issued and processed through your school or institution."
-        },
-        {
-          "icon": "check",
-          "title": "Fill and attach documents",
-          "desc": "Add age proof, income certificate, residence proof and your bank details."
-        },
-        {
-          "icon": "users",
-          "title": "Submit to the institution",
-          "desc": "The school verifies and forwards the application to the department."
-        },
-        {
-          "icon": "trending",
-          "title": "Track status online",
-          "desc": "Check the status later at wbkanyashree.gov.in using your details."
-        }
-      ]
-    },
-    {
-      "type": "modern_callout",
-      "variant": "warning",
-      "icon": "alert",
-      "title": "The eligibility rule that disqualifies most applicants",
-      "content": "Marriage before the qualifying age is the single biggest reason for rejection. K1 and K2 both require the girl to be unmarried.<br><br>The whole point of the scheme is to delay marriage and keep girls studying. If a marriage is registered before the milestone, the benefit is lost."
-    },
-    {
-      "type": "pullquote",
-      "icon": "💡",
-      "text": "K3 is the tier most families miss. After K2 at 18, the university scholarship can continue supporting a girl through postgraduate study, but only if she applies for it separately."
-    },
-    {
-      "type": "text",
-      "heading": "How to check Kanyashree status in 2026",
-      "icon": "🔍",
-      "content": [
-        "Status is tracked at the official portal wbkanyashree.gov.in. Use only the official site, not third-party pages, for accurate information.",
-        "You will need your application or ID details to search. The portal shows whether your application is pending, approved or paid.",
-        "If your status is stuck, follow up through your school, which submitted and can chase the application on your behalf."
-      ]
-    },
-    {
-      "type": "info_rows",
-      "heading": "Quick facts: Kanyashree Prakalpa 2026",
-      "icon": "ℹ️",
-      "rows": [
-        {
-          "label": "Scheme type",
-          "value": "Girl-child education cash transfer"
-        },
-        {
-          "label": "Run by",
-          "value": "Women & Child Development Dept, West Bengal"
-        },
-        {
-          "label": "K1",
-          "value": "₹750 a year, ages 13 to 18 in school"
-        },
-        {
-          "label": "K2",
-          "value": "₹25,000 one-time at age 18, unmarried"
-        },
-        {
-          "label": "K3",
-          "value": "University/postgraduate scholarship"
-        },
-        {
-          "label": "Income limit",
-          "value": "Family income up to ₹1.2 lakh a year"
-        },
-        {
-          "label": "Portal",
-          "value": "wbkanyashree.gov.in"
-        }
-      ]
-    }
-  ],
   "how_to_apply": [
     {
       "step": 1,
-      "title": "Collect the K1 or K2 form from",
-      "description": "Collect the K1 or K2 form from your school or institution."
+      "title": "Get the form from your school",
+      "description": "K1 and K2 forms are issued and processed through your school or institution."
     },
     {
       "step": 2,
-      "title": "Fill it and attach age proof",
-      "description": "Fill it and attach age proof, income certificate, residence proof and bank details."
+      "title": "Fill and attach documents",
+      "description": "Add age proof, income certificate, residence proof and your bank details."
     },
     {
       "step": 3,
-      "title": "Submit it to the school",
-      "description": "Submit it to the school, which verifies and forwards it to the department."
+      "title": "Submit to the institution",
+      "description": "The school verifies and forwards the application to the department."
     },
     {
       "step": 4,
-      "title": "Track the status at wbkanyashree",
-      "description": "Track the status at wbkanyashree.gov.in using your details."
-    }
-  ],
-  "faqs": [
-    {
-      "question": "What is the kanyashree university scholarship (K3) and who gets it?",
-      "answer": "K3 is the Kanyashree tier for girls pursuing postgraduate, professional, or research degrees. It pays ₹2,500 per month for Science students and ₹2,000 per month for Arts/Commerce students for the duration of the course.<br><br>You must have previously received K2 (the ₹25,000 one-time grant), be unmarried, and have family income below ₹1.2 lakh/year to apply."
-    },
-    {
-      "question": "What is the kanyashree scheme and what does it cover?",
-      "answer": "Kanyashree Prakalpa is the West Bengal government's scheme for girls' education. It has three tiers: K1 pays ₹1,000/year to school girls (Class 8-12, age 13-18) who stay enrolled and unmarried; K2 pays ₹25,000 as a one-time grant when a girl turns 18 and is still unmarried and in education; K3 pays ₹2,000-2,500/month to girls who progress to postgraduate study."
-    },
-    {
-      "question": "How to check kanyashree status online in 2026?",
-      "answer": "Go to wbkanyashree.gov.in and log in with your Kanyashree registration number and date of birth. Your dashboard shows the current status of your K1, K2, or K3 application: Submitted, Under verification, Approved, or Paid.<br><br>If you have lost your registration number, check with your school or college office - they keep records of all submitted applications."
-    },
-    {
-      "question": "What is the income limit for Kanyashree Prakalpa?",
-      "answer": "The family income limit is ₹1,20,000 per year (₹1.2 lakh) from all sources. This applies to K1, K2, and K3.<br><br>The income is verified through a certificate issued by the BDO (rural) or SDO (urban). The limit is checked at the time of each application, so even if you qualified for K1, your K3 application will be checked against the current family income."
-    },
-    {
-      "question": "Can a girl get K3 without having received K2?",
-      "answer": "No. K3 requires that the applicant previously received K2 (the ₹25,000 one-time grant at age 18). K3 is designed as a continuation for girls who used K2 to support their education.<br><br>If you missed K2 - for example because you married at 18 or because no one informed you - you cannot access K3 retroactively."
-    },
-    {
-      "question": "What is the difference between K1 and K2 Kanyashree?",
-      "answer": "K1 is an annual stipend of ₹1,000/year paid to girls between age 13 and 18 who are enrolled in Class 8 to Class 12 and remain unmarried. K2 is a one-time grant of ₹25,000 paid when a girl turns 18 and is still unmarried and enrolled in education or vocational training.<br><br>K1 is ongoing during school years; K2 is a single payment at the transition to adulthood."
-    },
-    {
-      "question": "How do I apply for Kanyashree at my college or university for K3?",
-      "answer": "Contact the Kanyashree nodal officer at your college or university. Every recognised institution in West Bengal that has K3 applicants is supposed to have a designated nodal officer.<br><br>They will give you the application form, explain which documents to attach (graduation marksheet, K2 registration ID, income certificate, bank passbook, Aadhaar), verify the form, and submit it via the institution's portal login. Apply immediately on admission, not at year-end."
-    },
-    {
-      "question": "What happens if a Kanyashree K2 beneficiary gets married before applying for K3?",
-      "answer": "She becomes ineligible for K3. All Kanyashree tiers require the girl to be unmarried at the time of application.<br><br>A girl who married after receiving K2 cannot apply for K3 even if she is currently enrolled in a postgraduate programme. The scheme is explicitly designed to incentivise unmarried status through each phase of education."
+      "title": "Track status online",
+      "description": "Check the status later at wbkanyashree.gov.in using your details."
     }
   ],
   "official_portal": {
@@ -341,5 +140,359 @@
   "launch_year": 2013,
   "category": "education",
   "state": "west-bengal",
-  "last_reviewed": "June 2026"
+  "last_reviewed": "June 2026",
+  "extra_sections": [
+    {
+      "type": "stat_grid",
+      "heading": "Kanyashree Key Numbers",
+      "icon": "📊",
+      "items": [
+        {
+          "icon": "trophy",
+          "value": "₹1,000/year",
+          "label": "K1 (Annual)",
+          "color": "green"
+        },
+        {
+          "icon": "users",
+          "value": "₹25,000",
+          "label": "K2 (One-Time)",
+          "color": "amber"
+        },
+        {
+          "icon": "calendar",
+          "value": "₹2,500/month",
+          "label": "K3 Science",
+          "color": "blue"
+        },
+        {
+          "icon": "shield",
+          "value": "₹2,000/month",
+          "label": "K3 Arts",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "eligibility_check",
+      "heading": "Who qualifies",
+      "icon": "✅",
+      "qualify": [
+        "Unmarried girl aged 13 to 18 in school (K1)",
+        "Unmarried girl aged 18+ in education (K2)",
+        "Continuing to postgraduate study (K3)",
+        "Family income up to ₹1.2 lakh a year",
+        "Permanent West Bengal resident"
+      ],
+      "disqualify": [
+        "Married before the qualifying age",
+        "Family income above ₹1.2 lakh (except special cases)",
+        "Not enrolled in school or study",
+        "Not a West Bengal resident"
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Kanyashree Prakalpa: Three Tiers, One Goal",
+      "icon": "📖",
+      "content": [
+        "Kanyashree Prakalpa is the West Bengal government's flagship scheme for girls' education and welfare. It has three separate components called K1, K2, and K3, each covering a different stage of a girl's educational journey.",
+        "The scheme is run by the Women and Child Development and Social Welfare Department and operates through schools, colleges, and universities across the state.",
+        "The scheme was launched in 2013 with the primary goal of reducing school dropout rates among girls and preventing child marriage. It has since become one of the most widely recognised state welfare schemes in India and won the United Nations Public Service Award in 2017 for its impact on reducing child marriage rates in West Bengal.",
+        "K1 is the school phase. K2 is the coming-of-age grant.",
+        "K3 is the university phase, and it is the least understood of the three. Most families who benefited from K1 and K2 do not know that K3 exists, and many girls who enrolled in postgraduate courses missed out on K3 simply because no one at their college informed them about it.",
+        "The kanyashree university scholarship (K3) is specifically designed for girls who continue into postgraduate education, professional degrees, or research programmes after completing graduation. It pays ₹2,500 per month for Science students and ₹2,000 per month for Arts and Commerce students, for the duration of the course."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "📄 Kanyashree Prakalpa: Three Tiers, One Goal (continued)",
+      "icon": "📖",
+      "content": [
+        "All three tiers are applied for separately. Getting K1 does not automatically convert to K2, and K2 does not automatically become K3.",
+        "Each tier requires a separate application at the relevant stage - at school for K1, at age 18 for K2, and at the time of postgraduate admission for K3.",
+        "The common thread across all three tiers is the income limit: the girl's family must have an annual income from all sources not exceeding ₹1,20,000 (₹1.2 lakh). This limit applies to K1, K2, and K3.",
+        "If your family's income was below the limit when you applied for K1 but has crossed ₹1.2 lakh by the time you apply for K3, your K3 application will not be approved.",
+        "The scheme is delivered through the schools, colleges, and universities where the beneficiaries study. Applications go through the educational institution, not through a separate government window.",
+        "Your school headmistress or college principal is the entry point for Kanyashree - this is different from most other WB schemes which go through BSK or GP offices.",
+        "The impact of Kanyashree on child marriage rates in West Bengal has been documented across multiple independent studies. Districts with higher Kanyashree enrollment showed steeper declines in child marriages compared to districts with lower enrollment."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "📄 Kanyashree Prakalpa: Three Tiers, One Goal (part 2)",
+      "icon": "📖",
+      "content": [
+        "This is why the UN recognised the scheme - it is one of the better evidence-backed examples of a conditional cash transfer scheme working as intended.",
+        "Kanyashree is separate from the National Scholarship Portal (NSP) scholarships and from the state's own merit-cum-means scholarships. A girl can receive Kanyashree alongside other scholarships - there is no rule against holding multiple scholarships simultaneously, provided each scholarship's individual eligibility conditions are met.",
+        "Kanyashree specifically is not a merit-based scholarship; it is a welfare grant that does not require minimum marks.",
+        "For girls studying in Class 11 and 12 in colleges rather than school boards (some WB colleges run Higher Secondary programmes), the K1 application is made through the college rather than the school. Ensure your institution's Kanyashree nodal officer is aware and accepts K1 applications - some colleges, especially in urban areas, are less familiar with the K1 process than rural schools."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "K1, K2, K3: All Three Tiers Compared",
+      "icon": "📊",
+      "columns": [
+        "Component",
+        "Type",
+        "Amount",
+        "Age / Stage",
+        "Key Condition"
+      ],
+      "rows": [
+        [
+          "K1",
+          "Annual stipend",
+          "₹1,000 per year",
+          "13-18 years, Class 8-12",
+          "Unmarried, enrolled in school, family income ≤₹1.2 lakh"
+        ],
+        [
+          "K2",
+          "One-time grant",
+          "₹25,000",
+          "18 years or above",
+          "Must be unmarried, enrolled in education or vocational training"
+        ],
+        [
+          "K3",
+          "Monthly scholarship",
+          "₹2,500/month (Science) or ₹2,000/month (Arts/Commerce)",
+          "Postgraduate / Professional / Research",
+          "Must have received K2, enrolled in PG/professional course at WB institution"
+        ],
+        [
+          "K3 (special cases)",
+          "Enhanced amount",
+          "Up to ₹60,000 announced for some PG courses",
+          "Check official portal",
+          "Verify current amount at wbkanyashree.gov.in"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Kanyashree University Scholarship (K3): The Full Details",
+      "icon": "🎓",
+      "content": [
+        "K3 is the Kanyashree tier for university and postgraduate education. It applies to girls who complete graduation and enrol in postgraduate, professional (like engineering, law, medicine, MBA), or research programmes at institutions recognised by the Government of West Bengal.",
+        "The monthly amount is ₹2,500 for Science stream postgraduate students and ₹2,000 for Arts, Commerce, and other streams. The scholarship is paid for the duration of the postgraduate course - a two-year MA or MSc course would receive the scholarship for 24 months, subject to continued enrolment and annual renewal.",
+        "To apply for K3, you must have previously received K2 (the ₹25,000 one-time grant). K3 is not available independently - it is designed as a continuation for girls who used K2 to support their education and have now progressed to postgraduate study.",
+        "If you missed K2 at age 18 for any reason, you cannot access K3.",
+        "The K3 application is made through your postgraduate institution. The college or university has a Kanyashree nodal officer who collects applications, verifies them, and submits them to the state.",
+        "Apply immediately on admission - do not wait until the end of the first semester. Late applications may not be accepted for the period before submission."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "📄 Kanyashree University Scholarship (K3): The Full Details (continued)",
+      "icon": "🎓",
+      "content": [
+        "The income verification for K3 is re-done at the time of the K3 application. Even if your family qualified for K1 and K2 under the ₹1.2 lakh income limit, K3 will verify the current income.",
+        "Families where the primary earner received a significant pay rise, inherited property, or started a business since the K1/K2 applications may find that they no longer qualify for K3.",
+        "Bank account for K3 payment: unlike K1 (which sometimes uses a guardian account), K3 requires the scholarship to go to the girl's own bank account. The account must be NEFT-enabled and Aadhaar-linked.",
+        "If you still use a minor's account or a joint account with a parent, update it to a sole individual account before applying for K3.",
+        "Recent news (2025-2026) mentioned an enhanced K3 amount for certain categories - some sources cite up to ₹60,000 per year for specific professional courses. Always verify the current applicable amount for your specific course at wbkanyashree.gov.in before applying, since these amounts can be revised by the state government for new academic years.",
+        "The practical question many postgraduate students have: what if my course is a distance learning or correspondence programme? K3 is designed for regular, full-time postgraduate programmes at recognised institutions."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "info",
+      "icon": "info",
+      "title": "Do not miss K3 after K2",
+      "content": "Many families stop at the K2 grant and never claim K3.<br><br>If the girl continues to higher study, K3 can keep supporting her, but only if she applies for it separately."
+    },
+    {
+      "type": "text",
+      "heading": "📄 Kanyashree University Scholarship (K3): The Full Details (part 2)",
+      "icon": "🎓",
+      "content": [
+        "Distance education courses from institutions like NSOU (Netaji Subhas Open University) may or may not qualify - check with your institution's nodal officer and the official portal, because the eligibility for distance programmes has been a grey area in the scheme's implementation.",
+        "For professional degree courses - like B.Tech continuing to M.Tech, MBBS continuing to MD, or LLB continuing to LLM - K3 covers the postgraduate portion. If you received K2 at 18 and are now in your final year of an undergraduate professional course, you should plan ahead for K3 at the postgraduate stage.",
+        "The gap between K2 receipt and K3 application can be several years, but K3 eligibility does not expire as long as the income and unmarried conditions are met.",
+        "In some cases, girls who received K1 and K2 through schools in rural districts have moved to Kolkata or other cities for their postgraduate education. The K3 application in such cases is made through the city-based institution, not through the rural school or district where K1 and K2 were processed.",
+        "The K3 team at your current university handles the application end-to-end regardless of where your earlier Kanyashree records are."
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "How to Apply for Kanyashree (K1, K2, K3)",
+      "icon": "📝",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Get the application form from your institution",
+          "description": "For K1 and K2, collect the Kanyashree application form from your school headmistress or class teacher. For K3, collect it from the Kanyashree nodal officer at your college or university.<br><br>All forms are also available at wbkanyashree.gov.in. The form requires personal details, educational details, income details, and bank account information."
+        },
+        {
+          "step": 2,
+          "title": "Fill in the form accurately",
+          "description": "Write your name exactly as it appears on your Aadhaar. Fill in your family income from all sources - not just the main earner.<br><br>For K2, state clearly that you are unmarried on the application date. For K3, mention your K2 application ID or registration number - this is mandatory as K3 requires proof of prior K2 receipt.<br><br>Double-check the bank account number and IFSC code - one wrong digit causes payment failure that takes weeks to correct through the institution."
+        },
+        {
+          "step": 3,
+          "title": "Attach required documents",
+          "description": "K1 documents: Aadhaar card, school enrollment proof, bank passbook copy (can be a minor's account), income certificate. K2 documents: Aadhaar card, age proof (turning 18 or already 18), unmarried status declaration, bank passbook, income certificate.<br><br>K3 documents: Aadhaar card, graduation marksheet, postgraduate enrollment proof, K2 registration ID, bank passbook, income certificate. Ensure the income certificate is dated within the last 12 months - an older certificate will typically be rejected."
+        },
+        {
+          "step": 4,
+          "title": "Submit through the institution",
+          "description": "Submit the completed form to the school headmistress or college Kanyashree nodal officer. They will verify your documents, sign off, and submit the application to the state via the online portal.<br><br>You will receive an acknowledgment with your Kanyashree registration number. Keep this number safe - it is your permanent Kanyashree ID used across K1, K2, and K3, and it is the only identifier for online status checks.<br><br>Write it down in multiple places; do not rely only on a single piece of paper."
+        },
+        {
+          "step": 5,
+          "title": "Check your kanyashree status online",
+          "description": "Go to wbkanyashree.gov.in and use the student login section. Enter your registration number and date of birth to log in.<br><br>The dashboard shows your application status for each tier (K1/K2/K3): applied, verified, approved, or payment initiated. Check status after 4-6 weeks of application submission.<br><br>If the status is stuck at 'applied' for more than 2 months without moving to 'under verification', contact your institution's Kanyashree nodal officer - in most cases, the application has not been submitted from the institution's side yet, even though you completed your paperwork. Institutional delays are the most common cause of stalled applications."
+        }
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "warning",
+      "icon": "alert",
+      "title": "Eligibility Rule That Disqualifies Most Applicants",
+      "content": "The single biggest reason for Kanyashree rejection is marriage. All three tiers require the girl to be unmarried at the time of application.<br><br>K1 requires unmarried status throughout the school years. K2 specifically confirms unmarried status at age 18.<br><br>K3 requires unmarried status at the time of postgraduate application.<br><br>This means a girl who married after receiving K2 cannot apply for K3 - even if she is now pursuing a postgraduate degree. The scheme is structured to be a continuous incentive for girls to stay unmarried and in education."
+    },
+    {
+      "type": "pullquote",
+      "icon": "💬",
+      "text": "K1 is applied for at school, often by the teacher on the student's behalf. K2 is applied for at 18, usually with parental support.<br><br>K3 is applied for at a college or university, often in a new city, with no teacher proactively helping. The result is that thousands of eligible girls in postgraduate courses miss K3 simply because no one told them it existed or how to apply through their institution."
+    },
+    {
+      "type": "text",
+      "heading": "How to Check Kanyashree Status in 2026",
+      "icon": "🔍",
+      "content": [
+        "The official kanyashree status check portal is wbkanyashree.gov.in. On the homepage, look for the student login option.",
+        "Log in using your Kanyashree registration number and date of birth. The dashboard will show the current status of your application for each tier you have applied for.",
+        "Status labels to understand: 'Submitted' means your institution sent the application but state-level verification has not started. 'Under verification' means the state is checking your documents.",
+        "'Approved' means the state approved your application and the grant will be paid. 'Paid' means the money has been transferred to your bank account.",
+        "If your status has shown 'Submitted' for more than two months without moving to 'Under verification', it likely means your institution's submission has a technical issue or is stuck in the institutional verification queue. Contact the Kanyashree nodal officer at your school or college to check the submission status from their side.",
+        "A common reason for status stuck at 'Under verification': the income certificate attached to your application has expired or is from a non-competent authority. Kanyashree requires the income certificate to be issued by the BDO (Block Development Officer) for rural areas or SDO (Sub-Divisional Officer) for urban areas.",
+        "A certificate from a private authority or sarpanch is not acceptable."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "📄 How to Check Kanyashree Status in 2026 (continued)",
+      "icon": "🔍",
+      "content": [
+        "If your application shows 'Rejected', the portal or the institution should have a rejection reason. Common rejection reasons: already married, income above limit, age proof mismatch, or Aadhaar-bank mismatch.",
+        "Each of these has a specific remedy. Do not reapply without fixing the underlying issue, or the second application will be rejected for the same reason.",
+        "For K3 status specifically, some universities have their own internal Kanyashree tracking systems because of the volume of applications. Your university's Kanyashree nodal officer can often tell you the status faster than the public portal, especially for applications submitted in the current academic year.",
+        "If you lost your Kanyashree registration number, go to your school or college office. The institution records all submitted Kanyashree applications along with the registration numbers.",
+        "Your registration number can also sometimes be retrieved from the portal using your Aadhaar number or date of birth through the 'Forgot Registration Number' option if available.",
+        "Bank account issues are the second most common reason why Kanyashree payments are delayed even after approval. For K1, some applicants used a minor's savings account that was jointly held with a parent."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "📄 How to Check Kanyashree Status in 2026 (part 2)",
+      "icon": "🔍",
+      "content": [
+        "When that account was closed after the girl turned 18 and opened an adult account, the bank details in the Kanyashree system were never updated. If this is your situation, contact your institution's nodal officer with your new bank passbook to get the bank details updated in the system.",
+        "Kanyashree also has a grievance redressal mechanism. If you have a specific complaint - such as a payment being approved on the portal but not credited to your account - you can file a grievance at wbkanyashree.gov.in under the 'Grievance' or 'Complaint' section.",
+        "Alternatively, the district Kanyashree Monitoring Cell (set up in each district) handles in-person complaints. Contact the district women and child development office in your area for the Monitoring Cell details.",
+        "For applicants preparing documents: the income certificate must be issued by the competent authority - BDO for rural areas, SDO or Executive Officer for urban areas, and a Municipal Council officer for municipal areas. Self-declared income affidavits signed before a notary are not accepted.",
+        "Some districts have been strict about this and have rejected applications where the income certificate was from an unauthorised source. Get the official certificate from the government office before applying.",
+        "A lesser-known aspect of K2: the girl does not have to use the ₹25,000 for education. There is no requirement to show how the money was spent."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "📄 How to Check Kanyashree Status in 2026 (part 3)",
+      "icon": "🔍",
+      "content": [
+        "The purpose is financial support at the age of 18, and the condition is educational enrollment and unmarried status at the time of claiming - not at the time of spending. Many families use K2 to clear debt, buy household necessities, or save for future education.",
+        "This is all within the scheme's intent.",
+        "For K1 specifically, the annual payment of ₹1,000 is cumulative over the years of school enrollment. A girl enrolled from Class 8 through Class 12 receives ₹1,000 each year for five years - a total of ₹5,000 over her school career.",
+        "Each year requires a fresh application renewal through the school, and the girl must remain unmarried and enrolled throughout. Missing one year's renewal means losing that year's payment - there is no backdating.",
+        "Girls who belong to Scheduled Caste, Scheduled Tribe, or Minority communities may be eligible for additional state scholarships alongside Kanyashree. The WB Minorities Development and Finance Corporation and the SC/ST Welfare Department both run separate scholarship schemes.",
+        "Receiving those does not disqualify a girl from Kanyashree - the schemes are complementary and can be held simultaneously."
+      ]
+    },
+    {
+      "type": "info_rows",
+      "heading": "Quick Facts: Kanyashree Prakalpa 2026",
+      "icon": "ℹ️",
+      "rows": [
+        {
+          "label": "Scheme type",
+          "value": "Girls' education and welfare scheme with three tiers (K1, K2, K3)"
+        },
+        {
+          "label": "Run by",
+          "value": "Women and Child Development and Social Welfare Department, West Bengal"
+        },
+        {
+          "label": "K1 amount",
+          "value": "₹1,000 per year for Class 8-12 girls (age 13-18)"
+        },
+        {
+          "label": "K2 amount",
+          "value": "₹25,000 one-time grant at age 18 for unmarried girls"
+        },
+        {
+          "label": "K3 amount",
+          "value": "₹2,500/month (Science) or ₹2,000/month (Arts) for PG/professional students"
+        },
+        {
+          "label": "Income limit",
+          "value": "Family annual income ≤ ₹1,20,000 from all sources"
+        },
+        {
+          "label": "Key condition",
+          "value": "Girl must be unmarried at time of application for all three tiers"
+        },
+        {
+          "label": "Portal",
+          "value": "wbkanyashree.gov.in"
+        },
+        {
+          "label": "Application route",
+          "value": "Through school (K1/K2) or college/university (K3) - not BSK or GP"
+        },
+        {
+          "label": "K3 prerequisite",
+          "value": "Must have previously received K2 to be eligible for K3"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the kanyashree university scholarship (K3) and who gets it?",
+      "answer": "K3 is the Kanyashree tier for girls pursuing postgraduate, professional, or research degrees. It pays ₹2,500 per month for Science students and ₹2,000 per month for Arts/Commerce students for the duration of the course.<br><br>You must have previously received K2 (the ₹25,000 one-time grant), be unmarried, and have family income below ₹1.2 lakh/year to apply."
+    },
+    {
+      "question": "What is the kanyashree scheme and what does it cover?",
+      "answer": "Kanyashree Prakalpa is the West Bengal government's scheme for girls' education. It has three tiers: K1 pays ₹1,000/year to school girls (Class 8-12, age 13-18) who stay enrolled and unmarried; K2 pays ₹25,000 as a one-time grant when a girl turns 18 and is still unmarried and in education; K3 pays ₹2,000-2,500/month to girls who progress to postgraduate study."
+    },
+    {
+      "question": "How to check kanyashree status online in 2026?",
+      "answer": "Go to wbkanyashree.gov.in and log in with your Kanyashree registration number and date of birth. Your dashboard shows the current status of your K1, K2, or K3 application: Submitted, Under verification, Approved, or Paid.<br><br>If you have lost your registration number, check with your school or college office - they keep records of all submitted applications."
+    },
+    {
+      "question": "What is the income limit for Kanyashree Prakalpa?",
+      "answer": "The family income limit is ₹1,20,000 per year (₹1.2 lakh) from all sources. This applies to K1, K2, and K3.<br><br>The income is verified through a certificate issued by the BDO (rural) or SDO (urban). The limit is checked at the time of each application, so even if you qualified for K1, your K3 application will be checked against the current family income."
+    },
+    {
+      "question": "Can a girl get K3 without having received K2?",
+      "answer": "No. K3 requires that the applicant previously received K2 (the ₹25,000 one-time grant at age 18). K3 is designed as a continuation for girls who used K2 to support their education.<br><br>If you missed K2 - for example because you married at 18 or because no one informed you - you cannot access K3 retroactively."
+    },
+    {
+      "question": "What is the difference between K1 and K2 Kanyashree?",
+      "answer": "K1 is an annual stipend of ₹1,000/year paid to girls between age 13 and 18 who are enrolled in Class 8 to Class 12 and remain unmarried. K2 is a one-time grant of ₹25,000 paid when a girl turns 18 and is still unmarried and enrolled in education or vocational training.<br><br>K1 is ongoing during school years; K2 is a single payment at the transition to adulthood."
+    },
+    {
+      "question": "How do I apply for Kanyashree at my college or university for K3?",
+      "answer": "Contact the Kanyashree nodal officer at your college or university. Every recognised institution in West Bengal that has K3 applicants is supposed to have a designated nodal officer.<br><br>They will give you the application form, explain which documents to attach (graduation marksheet, K2 registration ID, income certificate, bank passbook, Aadhaar), verify the form, and submit it via the institution's portal login. Apply immediately on admission, not at year-end."
+    },
+    {
+      "question": "What happens if a Kanyashree K2 beneficiary gets married before applying for K3?",
+      "answer": "She becomes ineligible for K3. All Kanyashree tiers require the girl to be unmarried at the time of application.<br><br>A girl who married after receiving K2 cannot apply for K3 even if she is currently enrolled in a postgraduate programme. The scheme is explicitly designed to incentivise unmarried status through each phase of education."
+    }
+  ]
 }

@@ -49,18 +49,18 @@
   "eligibility": [
     {
       "label": "Age",
-      "value": "Aged between 18 and 45 years.",
-      "highlight": false
+      "value": "Between 18 and 45 years.",
+      "highlight": true
     },
     {
       "label": "Education",
       "value": "Passed at least Class 8.",
-      "highlight": false
+      "highlight": true
     },
     {
-      "label": "Residence",
-      "value": "Fully unemployed and registered on the West Bengal Employment Bank.",
-      "highlight": false
+      "label": "Employment",
+      "value": "Fully unemployed and registered on the WB Employment Bank.",
+      "highlight": true
     },
     {
       "label": "Household",
@@ -81,208 +81,28 @@
     "age_min": 18,
     "age_max": 45,
     "income_max": null,
-    "notes": "Unemployment allowance. Must be registered on the WB Employment Bank, Class 8 pass, fully unemployed, one per family."
+    "notes": "Unemployment allowance. Registered on the WB Employment Bank, Class 8 pass, fully unemployed, one per family."
   },
-  "extra_sections": [
-    {
-      "type": "stat_grid",
-      "heading": "Yuvashree Key Numbers",
-      "icon": "📊",
-      "items": [
-        {
-          "icon": "wallet",
-          "value": "₹1,500",
-          "label": "Per month",
-          "color": "green"
-        },
-        {
-          "icon": "users",
-          "value": "18-45",
-          "label": "Age range",
-          "color": "amber"
-        },
-        {
-          "icon": "file",
-          "value": "Class 8",
-          "label": "Minimum pass",
-          "color": "blue"
-        },
-        {
-          "icon": "calendar",
-          "value": "2013",
-          "label": "Launched",
-          "color": "green"
-        }
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "What Yuvashree is and who runs it",
-      "icon": "📖",
-      "content": [
-        "Yuvashree Prakalpa pays ₹1,500 a month to unemployed youth in West Bengal who are registered on the state Employment Bank. The Labour Department runs it.",
-        "It was launched in 2013 to give educated but jobless young people some financial support while they search for steady work. The money is paid directly to the beneficiary's bank account.",
-        "Registration on the Employment Bank is the first and most important step. Without an active Employment Bank profile, you cannot be considered for the allowance."
-      ]
-    },
-    {
-      "type": "eligibility_check",
-      "heading": "Who qualifies for Yuvashree",
-      "icon": "✅",
-      "qualify": [
-        "Aged 18 to 45 years",
-        "Passed at least Class 8",
-        "Fully unemployed right now",
-        "Registered on the WB Employment Bank",
-        "Permanent resident of West Bengal"
-      ],
-      "disqualify": [
-        "Already employed or self-employed",
-        "Another family member already receiving it",
-        "Not registered on the Employment Bank",
-        "Below 18 or above 45 years",
-        "Not a West Bengal resident"
-      ]
-    },
-    {
-      "type": "process_flow",
-      "heading": "How to apply for Yuvashree",
-      "icon": "📝",
-      "steps": [
-        {
-          "icon": "file",
-          "title": "Register on the Employment Bank",
-          "desc": "Create a job-seeker profile at employmentbankwb.gov.in with your personal and education details."
-        },
-        {
-          "icon": "check",
-          "title": "Complete verification",
-          "desc": "Your registration is verified before it becomes fully active for scheme benefits."
-        },
-        {
-          "icon": "users",
-          "title": "Apply for Yuvashree",
-          "desc": "Once active, apply for the Yuvashree allowance through the same Employment Bank account."
-        },
-        {
-          "icon": "calendar",
-          "title": "Submit self-declaration",
-          "desc": "Every six months, submit the self-declaration form confirming you are still unemployed."
-        }
-      ]
-    },
-    {
-      "type": "modern_callout",
-      "variant": "info",
-      "icon": "info",
-      "title": "It is not simply first come first served",
-      "content": "Many people believe the allowance is given purely in the order of applying. That is not accurate.<br><br>Selection is made from registered, eligible candidates, so not everyone who applies receives the allowance. Keeping your Employment Bank profile accurate and updated improves your chances."
-    },
-    {
-      "type": "text",
-      "heading": "Common problems with the Yuvashree application",
-      "icon": "⚠️",
-      "content": [
-        "The most common issue is an incomplete or unverified Employment Bank profile. If verification is pending, your application cannot move forward.",
-        "Another frequent problem is a bank account not linked to Aadhaar, which blocks the direct transfer. Link your Aadhaar to your account before applying.",
-        "Missing the six-monthly self-declaration can pause your allowance. Mark the dates and submit on time to keep payments running."
-      ]
-    },
-    {
-      "type": "pullquote",
-      "icon": "💡",
-      "text": "Yuvashree is tied to the Employment Bank, not a one-off form. If your Employment Bank profile lapses or your details are wrong, the allowance stops, no matter how long you have been registered."
-    },
-    {
-      "type": "info_rows",
-      "heading": "Quick facts: Yuvashree Prakalpa 2026",
-      "icon": "ℹ️",
-      "rows": [
-        {
-          "label": "Scheme type",
-          "value": "Monthly unemployment allowance"
-        },
-        {
-          "label": "Run by",
-          "value": "Labour Department, West Bengal"
-        },
-        {
-          "label": "Allowance",
-          "value": "₹1,500 a month via DBT"
-        },
-        {
-          "label": "Age",
-          "value": "18 to 45 years"
-        },
-        {
-          "label": "Education",
-          "value": "Class 8 pass minimum"
-        },
-        {
-          "label": "Apply via",
-          "value": "WB Employment Bank portal"
-        },
-        {
-          "label": "Per family",
-          "value": "Only one member"
-        }
-      ]
-    }
-  ],
   "how_to_apply": [
     {
       "step": 1,
-      "title": "Register as a job seeker on the",
-      "description": "Register as a job seeker on the West Bengal Employment Bank portal."
+      "title": "Register on the Employment Bank",
+      "description": "Create a job-seeker profile at employmentbankwb.gov.in with your personal and education details."
     },
     {
       "step": 2,
-      "title": "Complete the verification of your registration",
-      "description": "Complete the verification of your registration."
+      "title": "Complete verification",
+      "description": "Your registration is verified before it becomes fully active for scheme benefits."
     },
     {
       "step": 3,
-      "title": "Apply for the Yuvashree allowance through your",
-      "description": "Apply for the Yuvashree allowance through your active Employment Bank account."
+      "title": "Apply for Yuvashree",
+      "description": "Once active, apply for the Yuvashree allowance through the same Employment Bank account."
     },
     {
       "step": 4,
-      "title": "Submit the self-declaration form every six months",
-      "description": "Submit the self-declaration form every six months to keep the allowance running."
-    }
-  ],
-  "faqs": [
-    {
-      "question": "What is the yuvashree prakalpa scheme and who runs it?",
-      "answer": "Yuvashree Prakalpa is the West Bengal government's unemployment allowance scheme that pays ₹1,500 per month to eligible unemployed youth aged 18 to 45 years. It is run by the Employment Bank of West Bengal and applications are made through the portal employmentbankwb.gov.in.<br><br>Applicants must be registered job seekers on the Employment Bank."
-    },
-    {
-      "question": "How to fill the yuvashree prakalpa 2026 application form?",
-      "answer": "First, register as a Job Seeker on employmentbankwb.gov.in by clicking New Enrollment. After completing and verifying your registration, log in with your Job Seeker ID, navigate to the Yuvashree Prakalpa section, and fill the application form.<br><br>You need to declare you are completely unemployed and confirm no other family member is receiving Yuvashree. Submit and note your application reference number."
-    },
-    {
-      "question": "What is the yuvashree form fill up process step by step?",
-      "answer": "Step 1: Go to employmentbankwb.gov.in. Step 2: Click New Enrollment and register as a Job Seeker with your personal, educational, and bank details.<br><br>Step 3: Log in and complete your profile. Step 4: Apply for Yuvashree from your dashboard by filling the unemployment allowance application.<br><br>Step 5: Wait for field verification by the Employment Exchange. Step 6: Check your waiting list serial number once approved."
-    },
-    {
-      "question": "What is the difference between Yuvashree and Banglar Yuva Sathi?",
-      "answer": "Both pay ₹1,500/month to unemployed youth. Yuvashree covers ages 18-45; Banglar Yuva Sathi covers 21-40.<br><br>They cannot both be claimed at the same time. Yuvashree is the older Employment Bank-linked scheme; Banglar Yuva Sathi is a newer 2026 scheme.<br><br>If you are aged 18-20 or 41-45, only Yuvashree is available to you."
-    },
-    {
-      "question": "How to check yuvashree waiting list serial number?",
-      "answer": "Go to employmentbankwb.gov.in/check_annx3_waiting.php and enter your Job Seeker ID. The page will show your serial number in the district waiting list.<br><br>A lower serial number means you are closer to receiving payments. The list is updated periodically and you do not need to reapply - just wait for your serial number to come up."
-    },
-    {
-      "question": "Can I apply for Yuvashree if I passed only Class 8?",
-      "answer": "Yes. The minimum educational requirement for Yuvashree Prakalpa is passing Class 8.<br><br>Applicants who have passed Class 8, Class 10, Class 12, graduation, or any higher level are all eligible. During Employment Bank registration, enter your actual highest qualification."
-    },
-    {
-      "question": "What happens if I find a job while receiving Yuvashree?",
-      "answer": "You must update your employment status on the Employment Bank portal immediately. Continuing to receive the ₹1,500 monthly allowance after finding employment is treated as misuse of the scheme and the amount can be recovered.<br><br>The scheme is intended to support you during unemployment - when employment begins, the allowance should stop."
-    },
-    {
-      "question": "Can two siblings in the same family both get Yuvashree?",
-      "answer": "No. Only one member per family can receive the Yuvashree allowance at a time. If both siblings apply, the system will detect it during verification and only one will be approved.<br><br>Decide in advance which family member will apply and ensure only that person submits the application."
+      "title": "Submit self-declaration",
+      "description": "Every six months, submit the self-declaration form confirming you are still unemployed."
     }
   ],
   "official_portal": {
@@ -320,5 +140,380 @@
   "launch_year": 2013,
   "category": "employment",
   "state": "west-bengal",
-  "last_reviewed": "June 2026"
+  "last_reviewed": "June 2026",
+  "extra_sections": [
+    {
+      "type": "stat_grid",
+      "heading": "Yuvashree Key Numbers",
+      "icon": "📊",
+      "items": [
+        {
+          "icon": "trophy",
+          "value": "₹1,500",
+          "label": "Monthly Allowance",
+          "color": "green"
+        },
+        {
+          "icon": "users",
+          "value": "18-45 years",
+          "label": "Age Range",
+          "color": "amber"
+        },
+        {
+          "icon": "calendar",
+          "value": "Class 8 pass",
+          "label": "Min. Education",
+          "color": "blue"
+        },
+        {
+          "icon": "shield",
+          "value": "Until employed",
+          "label": "Max Duration",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "eligibility_check",
+      "heading": "Who qualifies",
+      "icon": "✅",
+      "qualify": [
+        "Aged 18 to 45 years",
+        "Passed at least Class 8",
+        "Fully unemployed right now",
+        "Registered on the WB Employment Bank",
+        "Permanent West Bengal resident"
+      ],
+      "disqualify": [
+        "Already employed or self-employed",
+        "Another family member already getting it",
+        "Not registered on the Employment Bank",
+        "Below 18 or above 45",
+        "Not a West Bengal resident"
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "What Is the Yuvashree Prakalpa Scheme",
+      "icon": "📖",
+      "content": [
+        "Yuvashree Prakalpa is the West Bengal government's unemployment allowance scheme for youth who are registered job seekers and have not been able to find work. The scheme pays ₹1,500 per month directly to the eligible beneficiary's bank account via DBT (Direct Benefit Transfer).",
+        "The scheme is administered through the Employment Bank of West Bengal, which is the state's centralised platform for job seekers and employment-related government schemes. Every applicant must first register as a Job Seeker on employmentbankwb.gov.in before they can apply for the Yuvashree allowance.",
+        "Yuvashree was launched to support educated unemployed youth during the period between completing their education and finding stable employment. It is not a skill stipend or training payment - it is a cash allowance intended to help youth meet basic living expenses while they continue their job search.",
+        "The scheme is one member per family. If a family has two unemployed youth, only one can receive the Yuvashree allowance.",
+        "This is checked at the time of verification and families where more than one member has applied are filtered down to one. The family member who applied first - by Employment Bank registration date - typically gets priority, though district offices may have their own resolution practice."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "📄 What Is the Yuvashree Prakalpa Scheme (continued)",
+      "icon": "📖",
+      "content": [
+        "In 2026, the West Bengal government launched a new scheme called Banglar Yuva Sathi, which also pays ₹1,500 per month to unemployed youth. Yuvashree and Banglar Yuva Sathi are separate schemes - they cannot be claimed simultaneously.",
+        "The key practical difference is age: Banglar Yuva Sathi covers ages 21 to 40, while Yuvashree covers 18 to 45. This means youth aged 18-20 and those aged 41-45 can only access Yuvashree, not Banglar Yuva Sathi.",
+        "The allowance continues until the beneficiary finds employment or reaches the end of their eligibility period. Beneficiaries are required to renew their registration on the Employment Bank periodically and update their employment status.",
+        "If someone finds a job and continues to receive Yuvashree, this constitutes misuse of the scheme and the amount must be returned.",
+        "Payment is made to the bank account linked to the beneficiary's Employment Bank registration. The account must be Aadhaar-seeded and capable of receiving NEFT transfers.",
+        "Cooperative bank accounts that don't support NEFT will face transfer failures, so applicants should ensure they have an account in a nationalised or scheduled commercial bank.",
+        "Yuvashree is linked to the broader Employment Bank ecosystem, which is also used for government job notifications, skill development programmes, and career fairs in West Bengal. Registering on Employment Bank for Yuvashree also gives access to these other services, which many applicants overlook."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "📄 What Is the Yuvashree Prakalpa Scheme (part 2)",
+      "icon": "📖",
+      "content": [
+        "The Employment Bank regularly posts government job opportunities across various departments, and a registered job seeker can apply for these directly through the portal.",
+        "The scheme does not require proof of job-seeking activity like applications submitted or interviews attended. It is not conditional on participation in training or skill building.",
+        "This simplicity is both a strength and a criticism of the scheme - critics argue that it should be tied to upskilling, while proponents argue that attaching conditions makes it harder to access for the most economically vulnerable.",
+        "The ₹1,500 monthly amount has remained unchanged since the scheme was launched. Given inflation over the years, the real value of the benefit has declined.",
+        "Several reports and political discussions have raised the question of revising the amount upward, particularly in comparison with the central government's similar schemes. As of June 2026, the amount remains ₹1,500.",
+        "Check wb.gov.in or employmentbankwb.gov.in for any announcements on revisions."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "warning",
+      "icon": "alert",
+      "title": "Yuvashree vs Banglar Yuva Sathi: Which One Applies to You",
+      "content": "If you are aged 21 to 40 and have not yet registered under any unemployment scheme, check Banglar Yuva Sathi first. It is the newer scheme (2026) and may have a more streamlined application process.<br><br>If you are aged 18-20 or 41-45, Yuvashree is your only option. You cannot receive both.<br><br>If you are already a Yuvashree beneficiary, you are not eligible for Banglar Yuva Sathi. Existing Yuvashree registrations are not automatically migrated to the new scheme."
+    },
+    {
+      "type": "table",
+      "heading": "Yuvashree Prakalpa Eligibility 2026",
+      "icon": "✅",
+      "columns": [
+        "Condition",
+        "Requirement"
+      ],
+      "rows": [
+        [
+          "Age",
+          "18 to 45 years"
+        ],
+        [
+          "Domicile",
+          "Permanent resident of West Bengal"
+        ],
+        [
+          "Employment status",
+          "Completely unemployed (no regular or part-time employment)"
+        ],
+        [
+          "Education",
+          "Passed Class 8 or higher"
+        ],
+        [
+          "Registration",
+          "Must be registered as Job Seeker on Employment Bank portal"
+        ],
+        [
+          "Family limit",
+          "Only one member per family can receive the benefit"
+        ],
+        [
+          "Bank account",
+          "Own account, Aadhaar-seeded, NEFT-enabled"
+        ],
+        [
+          "Dual benefit",
+          "Cannot receive both Yuvashree and Banglar Yuva Sathi simultaneously"
+        ]
+      ]
+    },
+    {
+      "type": "steps",
+      "heading": "How to Fill the Yuvashree Prakalpa 2026 Application Form",
+      "icon": "📝",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Register as a Job Seeker on Employment Bank",
+          "description": "Visit employmentbankwb.gov.in. Click 'New Enrollment Job Seeker'.<br><br>Read and accept the terms and conditions. Fill in the registration form with your personal details, educational qualifications, and address.<br><br>Upload the required documents. Click Save to submit.<br><br>You will receive a Job Seeker ID (also called the Employment Bank Registration Number) as an acknowledgment."
+        },
+        {
+          "step": 2,
+          "title": "Log in and complete your profile",
+          "description": "Use your Job Seeker ID and password to log in to the portal. Complete your educational qualification details - the system accepts Class 8 pass and above.<br><br>Add your bank account details ensuring the account is Aadhaar-linked. The more complete your profile, the faster your application moves through verification."
+        },
+        {
+          "step": 3,
+          "title": "Apply for the Yuvashree Allowance",
+          "description": "After completing registration, look for the Yuvashree Prakalpa application option in the Job Seeker dashboard. Fill in the Yuvashree application form online.<br><br>You will need to declare your employment status (completely unemployed) and confirm that no other family member is receiving the Yuvashree allowance. Submit the form and note the application reference number."
+        },
+        {
+          "step": 4,
+          "title": "Verification by Employment Exchange",
+          "description": "Your application goes to the local Employment Exchange office for verification. An officer may visit or call to confirm your employment status and residence.<br><br>This step can take several weeks depending on the volume of applications in your district. Ensure your mobile number and address are correct in the portal."
+        },
+        {
+          "step": 5,
+          "title": "Approval and waiting list",
+          "description": "After verification, approved applicants are placed on a district-wise waiting list. The Yuvashree waiting list is publicly visible at employmentbankwb.gov.in/check_annx3_waiting.php - you can check your serial number by entering your Job Seeker ID.<br><br>Allowance payment begins after your turn comes in the waiting list, subject to budget availability."
+        },
+        {
+          "step": 6,
+          "title": "Renewal and continued compliance",
+          "description": "You must renew your Employment Bank registration annually and confirm your unemployed status. If you find employment - formal or informal, part-time or full-time - you are required to update your status in the portal.<br><br>Failure to update employment status while continuing to receive the allowance is treated as misuse of the scheme."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "The Employment Bank Waiting List and What It Means",
+      "icon": "💡",
+      "content": [
+        "One reality that surprises first-time applicants: the Yuvashree allowance does not begin the moment your application is approved. Approved applicants go onto a district-level waiting list, and payments begin only when budget is allocated and your serial number is reached.",
+        "The waiting list is district-specific. A district with fewer applicants and adequate budget allocation may have a shorter wait than a district with high unemployment rates and a long existing list.",
+        "In some districts, the wait between approval and first payment has historically stretched to several months.",
+        "The state releases Yuvashree payment tranches periodically, typically quarterly. When a new tranche is released, a batch of beneficiaries at the top of the waiting list moves from 'approved' to 'payment initiated'.",
+        "This explains why waiting list positions can seem static for weeks and then jump suddenly. If you see your serial number drop significantly in a short time, it means a new tranche was released.",
+        "You can check your waiting list serial number at employmentbankwb.gov.in/check_annx3_waiting.php. Enter your Job Seeker ID to see where you stand.",
+        "The list is updated periodically as new payments begin and new applicants join. A lower serial number means payment is closer.",
+        "The waiting list is not a rejection. It simply means your application is approved and in queue."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "info",
+      "icon": "info",
+      "title": "Keep your Employment Bank profile active",
+      "content": "The allowance is tied to your Employment Bank registration, not a one-time form.<br><br>If your profile lapses or details are wrong, the payment stops, so update it whenever something changes."
+    },
+    {
+      "type": "text",
+      "heading": "📄 The Employment Bank Waiting List and What It Means (continued)",
+      "icon": "💡",
+      "content": [
+        "Do not reapply - that creates a duplicate entry, not a faster queue position. If your serial number is on the list, your application is valid and payment will begin when the state releases the next tranche for your district.",
+        "If you have been on the waiting list for more than six months without movement, you can raise a query at your nearest Employment Exchange office. Bring your Job Seeker ID printout, Aadhaar, and bank passbook.",
+        "The officer can check whether your file has any technical issue - such as a failed Aadhaar-to-bank link - that might be holding up your entry into the payment queue.",
+        "Districts with higher populations and more registered job seekers - such as Murshidabad, Malda, Birbhum, and parts of South and North 24 Parganas - tend to have longer waiting lists. Youth from these districts should register early and not wait until they urgently need the allowance before applying, because the wait can be significant."
+      ]
+    },
+    {
+      "type": "pullquote",
+      "icon": "💬",
+      "text": "The Yuvashree application form is only one step. The more important step is your Employment Bank registration.<br><br>Without an active, verified Job Seeker ID, the allowance application cannot be submitted. Applicants who skip or rush the registration step often find that their Yuvashree application is stuck because underlying registration data is incomplete."
+    },
+    {
+      "type": "text",
+      "heading": "Common Problems With the Yuvashree Application and How to Fix Them",
+      "icon": "🔧",
+      "content": [
+        "Before troubleshooting any specific problem, confirm one thing first: is your Job Seeker registration status 'verified' or still 'pending'? This single check resolves about half of all reported Yuvashree issues.",
+        "Log in to employmentbankwb.gov.in and look at your profile status. If it says anything other than verified or active, fix that first - nothing else will work until the base registration is in order.",
+        "The most frequent issue: applicant says they applied but the application is not visible on the portal. This usually means the Job Seeker registration was not fully completed or not verified.",
+        "Go back to employmentbankwb.gov.in, log in with your Job Seeker ID, and check whether your registration status shows as 'verified' or still shows as 'pending'. An unverified registration blocks the Yuvashree application.",
+        "Name mismatch between Aadhaar and Employment Bank registration is another common block. During registration, if you typed your name slightly differently from how it appears on Aadhaar, the Aadhaar-linked DBT transfer will fail.",
+        "Check the name in your Employment Bank profile, compare it with your Aadhaar, and if they differ, update the Employment Bank profile to match exactly.",
+        "Educational qualification entry errors cause a specific type of rejection: an applicant who is actually a graduate may have accidentally listed Class 10 as their highest qualification. The system does not automatically query certificate databases - it goes by what you enter."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "📄 Common Problems With the Yuvashree Application and How to Fix Them (continued)",
+      "icon": "🔧",
+      "content": [
+        "If your qualification is listed incorrectly and this is pointed out during field verification, it creates a delay. Enter your actual highest qualification during registration.",
+        "Multiple registrations are a problem that many applicants don't know they've created. If you registered once, forgot your Job Seeker ID, then registered again with a slightly different name or mobile number, you now have two registrations.",
+        "The system may flag this as a duplicate. Contact your nearest Employment Exchange to get duplicate records merged or the inactive record deactivated.",
+        "Payment credited to a closed or dormant account is a less common but frustrating scenario. If your account was closed after you registered and before payment began, the NEFT transfer will fail and be returned to the government account.",
+        "Update your bank account details in the Employment Bank portal before payments begin. If a payment has already been sent to the wrong account, contact your bank and the BSK with your Applicant ID and bank statement.",
+        "Mobile number not linked to Aadhaar causes an invisible problem: OTP-based verifications in the system will not reach you. Make sure the mobile number registered in your Aadhaar is the same one you use on the Employment Bank portal.",
+        "If you changed your number, update it in both Aadhaar (via myaadhaar.uidai.gov.in) and Employment Bank."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "After Getting Yuvashree: What Changes",
+      "icon": "🔄",
+      "content": [
+        "Once payments begin, you will receive ₹1,500 on a scheduled date each month. The payment reference in your bank statement will show a government or PFMS identifier.",
+        "Keep this as your income record.",
+        "You must log in to your Employment Bank account periodically to confirm your employment status. Most districts require annual renewal of the job seeker registration.",
+        "If you miss the renewal window, your active status lapses and payments may stop until you complete the renewal.",
+        "The employment bank also lists job opportunities and skill development programmes. Being on Yuvashree does not disqualify you from applying for government jobs or private jobs - it is not a scheme that penalises employment, it is a scheme that stops paying when you find work.",
+        "Transition from Yuvashree to employment is the intended outcome, not an exception.",
+        "If you find work - even informal work that pays regularly - you are required to update your employment status on the portal. Continuing to claim Yuvashree after finding employment is a misuse of the scheme.",
+        "The verification system does periodically cross-check with employer PF records and other databases, so undeclared employment can result in recovery of the amount paid during the employed period.",
+        "Yuvashree does not have a formal maximum duration in years, but it is tied to your job seeker status. Once you update your status as employed, the allowance stops."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "📄 After Getting Yuvashree: What Changes (continued)",
+      "icon": "🔄",
+      "content": [
+        "If you lose the job and become unemployed again, you need to update your status back and the allowance may resume, subject to your continuing eligibility and budget availability.",
+        "For income tax purposes, the ₹1,500/month Yuvashree allowance is a state government welfare payment and is not taxable. However, if you also have other income sources, those need to be declared separately.",
+        "The Yuvashree allowance itself does not have TDS deducted at source.",
+        "West Bengal also runs skill development centres under various names (including those connected to the Employment Bank) that offer certificate courses in trades like computer applications, mobile repair, electrical work, beauty and wellness, and automotive servicing. Being a Yuvashree beneficiary does not automatically enroll you in these, but the Employment Bank portal is the gateway to finding and applying for them.",
+        "These courses are often free or subsidised and completing one improves your employability while you continue receiving the allowance.",
+        "Applicants from marginalised communities - Scheduled Castes, Scheduled Tribes, OBC, and minorities - should check whether there are any priority queue arrangements in their district. Some districts prioritise applicants from these categories in the waiting list, similar to how reservation works in government employment.",
+        "Your Employment Bank registration captures your category, and this information flows into the waiting list management."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "📄 After Getting Yuvashree: What Changes (part 2)",
+      "icon": "🔄",
+      "content": [
+        "A final clarification on the 'one per family' rule: 'family' in this context typically means the household sharing the same ration card. If a son and his parents live separately with separate ration cards, they may be treated as separate families.",
+        "If they share a ration card, only one of them can receive Yuvashree. This is relevant for joint families where multiple young adults are unemployed - check with your Employment Exchange office on how family unit is defined for your specific case.",
+        "One aspect many applicants overlook: the Employment Bank registration form asks for your residential address in detail. When field verification officers visit, they check that the address matches what is on the ration card or Aadhaar.",
+        "If you recently moved - say from your hometown to Kolkata for job seeking - make sure the address in your Employment Bank profile reflects your current actual residence, and that you can demonstrate this residence when an officer visits.",
+        "Yuvashree payments, once they start, come monthly. If a payment is missed in a given month, it could be due to a system issue on the PFMS side, a bank holiday delay, or a temporary technical hold in the Employment Bank system."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "📄 After Getting Yuvashree: What Changes (part 3)",
+      "icon": "🔄",
+      "content": [
+        "Check your bank statement first - sometimes the credit arrives a few days after the expected date. If a payment is more than 10 days late, visit your local Employment Exchange with your passbook to inquire."
+      ]
+    },
+    {
+      "type": "info_rows",
+      "heading": "Quick Facts: Yuvashree Prakalpa 2026",
+      "icon": "ℹ️",
+      "rows": [
+        {
+          "label": "Scheme type",
+          "value": "Monthly unemployment allowance for registered job seekers"
+        },
+        {
+          "label": "Implementing body",
+          "value": "Employment Bank of West Bengal"
+        },
+        {
+          "label": "Monthly amount",
+          "value": "₹1,500 per month via DBT"
+        },
+        {
+          "label": "Age eligibility",
+          "value": "18 to 45 years"
+        },
+        {
+          "label": "Minimum education",
+          "value": "Class 8 pass"
+        },
+        {
+          "label": "Domicile",
+          "value": "Permanent resident of West Bengal only"
+        },
+        {
+          "label": "Family limit",
+          "value": "One member per family"
+        },
+        {
+          "label": "Portal",
+          "value": "employmentbankwb.gov.in"
+        },
+        {
+          "label": "Waiting list check",
+          "value": "employmentbankwb.gov.in/check_annx3_waiting.php"
+        },
+        {
+          "label": "Dual benefit",
+          "value": "Cannot receive Yuvashree and Banglar Yuva Sathi simultaneously"
+        }
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the yuvashree prakalpa scheme and who runs it?",
+      "answer": "Yuvashree Prakalpa is the West Bengal government's unemployment allowance scheme that pays ₹1,500 per month to eligible unemployed youth aged 18 to 45 years. It is run by the Employment Bank of West Bengal and applications are made through the portal employmentbankwb.gov.in.<br><br>Applicants must be registered job seekers on the Employment Bank."
+    },
+    {
+      "question": "How to fill the yuvashree prakalpa 2026 application form?",
+      "answer": "First, register as a Job Seeker on employmentbankwb.gov.in by clicking New Enrollment. After completing and verifying your registration, log in with your Job Seeker ID, navigate to the Yuvashree Prakalpa section, and fill the application form.<br><br>You need to declare you are completely unemployed and confirm no other family member is receiving Yuvashree. Submit and note your application reference number."
+    },
+    {
+      "question": "What is the yuvashree form fill up process step by step?",
+      "answer": "Step 1: Go to employmentbankwb.gov.in. Step 2: Click New Enrollment and register as a Job Seeker with your personal, educational, and bank details.<br><br>Step 3: Log in and complete your profile. Step 4: Apply for Yuvashree from your dashboard by filling the unemployment allowance application.<br><br>Step 5: Wait for field verification by the Employment Exchange. Step 6: Check your waiting list serial number once approved."
+    },
+    {
+      "question": "What is the difference between Yuvashree and Banglar Yuva Sathi?",
+      "answer": "Both pay ₹1,500/month to unemployed youth. Yuvashree covers ages 18-45; Banglar Yuva Sathi covers 21-40.<br><br>They cannot both be claimed at the same time. Yuvashree is the older Employment Bank-linked scheme; Banglar Yuva Sathi is a newer 2026 scheme.<br><br>If you are aged 18-20 or 41-45, only Yuvashree is available to you."
+    },
+    {
+      "question": "How to check yuvashree waiting list serial number?",
+      "answer": "Go to employmentbankwb.gov.in/check_annx3_waiting.php and enter your Job Seeker ID. The page will show your serial number in the district waiting list.<br><br>A lower serial number means you are closer to receiving payments. The list is updated periodically and you do not need to reapply - just wait for your serial number to come up."
+    },
+    {
+      "question": "Can I apply for Yuvashree if I passed only Class 8?",
+      "answer": "Yes. The minimum educational requirement for Yuvashree Prakalpa is passing Class 8.<br><br>Applicants who have passed Class 8, Class 10, Class 12, graduation, or any higher level are all eligible. During Employment Bank registration, enter your actual highest qualification."
+    },
+    {
+      "question": "What happens if I find a job while receiving Yuvashree?",
+      "answer": "You must update your employment status on the Employment Bank portal immediately. Continuing to receive the ₹1,500 monthly allowance after finding employment is treated as misuse of the scheme and the amount can be recovered.<br><br>The scheme is intended to support you during unemployment - when employment begins, the allowance should stop."
+    },
+    {
+      "question": "Can two siblings in the same family both get Yuvashree?",
+      "answer": "No. Only one member per family can receive the Yuvashree allowance at a time. If both siblings apply, the system will detect it during verification and only one will be approved.<br><br>Decide in advance which family member will apply and ensure only that person submits the application."
+    }
+  ]
 }
