@@ -47,11 +47,31 @@
     "It was launched to ease the financial burden of marriage for poor families and to discourage child marriage. The money is paid directly to the bride's own bank account."
   ],
   "eligibility": [
-    "Bride aged 18 or above on the marriage date, unmarried at application, and this must be her first marriage.",
-    "Proposed groom aged 21 or above.",
-    "Permanent resident of West Bengal (born in WB, or resident 5+ years, or parents are permanent WB residents).",
-    "Family annual income from all sources not more than ₹1.5 lakh.",
-    "Bride must have her own NEFT-enabled bank account in her sole name."
+    {
+      "label": "Age",
+      "value": "Bride aged 18 or above on the marriage date, unmarried at application, and this must be her first marriage.",
+      "highlight": false
+    },
+    {
+      "label": "Age",
+      "value": "Proposed groom aged 21 or above.",
+      "highlight": false
+    },
+    {
+      "label": "Residence",
+      "value": "Permanent resident of West Bengal (born in WB, or resident 5+ years, or parents are permanent WB residents).",
+      "highlight": false
+    },
+    {
+      "label": "Income",
+      "value": "Family annual income from all sources not more than ₹1.5 lakh.",
+      "highlight": false
+    },
+    {
+      "label": "Marital status",
+      "value": "Bride must have her own NEFT-enabled bank account in her sole name.",
+      "highlight": false
+    }
   ],
   "eligibility_filters": {
     "states": [
@@ -230,11 +250,31 @@
     }
   ],
   "how_to_apply": [
-    "Collect the form from a Bangla Sahayata Kendra, Gram Panchayat, Block Development Office, or download it via bsk.wb.gov.in.",
-    "Fill in the bride's details, the groom's name and age, and the proposed marriage date accurately.",
-    "Attach age proof, income certificate, residence proof, bank passbook copy, and photographs.",
-    "Submit at the local BDO, SDO, or Municipal office between 30 and 60 days before the wedding.",
-    "Collect the signed acknowledgement slip and note your Applicant ID to track status later."
+    {
+      "step": 1,
+      "title": "Collect the form from a Bangla Sahayata",
+      "description": "Collect the form from a Bangla Sahayata Kendra, Gram Panchayat, Block Development Office, or download it via bsk.wb.gov.in."
+    },
+    {
+      "step": 2,
+      "title": "Fill in the bride's details",
+      "description": "Fill in the bride's details, the groom's name and age, and the proposed marriage date accurately."
+    },
+    {
+      "step": 3,
+      "title": "Attach age proof",
+      "description": "Attach age proof, income certificate, residence proof, bank passbook copy, and photographs."
+    },
+    {
+      "step": 4,
+      "title": "Submit at the local BDO",
+      "description": "Submit at the local BDO, SDO, or Municipal office between 30 and 60 days before the wedding."
+    },
+    {
+      "step": 5,
+      "title": "Collect the signed acknowledgement slip and note",
+      "description": "Collect the signed acknowledgement slip and note your Applicant ID to track status later."
+    }
   ],
   "faqs": [
     {

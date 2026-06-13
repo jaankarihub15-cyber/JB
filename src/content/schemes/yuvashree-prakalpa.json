@@ -47,11 +47,31 @@
     "The goal is to support educated but jobless young people while they look for work. The allowance reaches the beneficiary's bank account by direct transfer."
   ],
   "eligibility": [
-    "Aged between 18 and 45 years.",
-    "Passed at least Class 8.",
-    "Fully unemployed and registered on the West Bengal Employment Bank.",
-    "Only one member per family can receive the allowance.",
-    "Permanent resident of West Bengal."
+    {
+      "label": "Age",
+      "value": "Aged between 18 and 45 years.",
+      "highlight": false
+    },
+    {
+      "label": "Education",
+      "value": "Passed at least Class 8.",
+      "highlight": false
+    },
+    {
+      "label": "Residence",
+      "value": "Fully unemployed and registered on the West Bengal Employment Bank.",
+      "highlight": false
+    },
+    {
+      "label": "Household",
+      "value": "Only one member per family can receive the allowance.",
+      "highlight": false
+    },
+    {
+      "label": "Residence",
+      "value": "Permanent resident of West Bengal.",
+      "highlight": false
+    }
   ],
   "eligibility_filters": {
     "states": [
@@ -210,10 +230,26 @@
     }
   ],
   "how_to_apply": [
-    "Register as a job seeker on the West Bengal Employment Bank portal.",
-    "Complete the verification of your registration.",
-    "Apply for the Yuvashree allowance through your active Employment Bank account.",
-    "Submit the self-declaration form every six months to keep the allowance running."
+    {
+      "step": 1,
+      "title": "Register as a job seeker on the",
+      "description": "Register as a job seeker on the West Bengal Employment Bank portal."
+    },
+    {
+      "step": 2,
+      "title": "Complete the verification of your registration",
+      "description": "Complete the verification of your registration."
+    },
+    {
+      "step": 3,
+      "title": "Apply for the Yuvashree allowance through your",
+      "description": "Apply for the Yuvashree allowance through your active Employment Bank account."
+    },
+    {
+      "step": 4,
+      "title": "Submit the self-declaration form every six months",
+      "description": "Submit the self-declaration form every six months to keep the allowance running."
+    }
   ],
   "faqs": [
     {

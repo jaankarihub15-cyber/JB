@@ -47,11 +47,31 @@
     "As of 2026 the amount is ₹1,500 a month for general category women and ₹1,700 for SC/ST women, after a ₹500 rise in the February 2026 budget. The money is paid by direct transfer to the woman's bank account."
   ],
   "eligibility": [
-    "Woman aged between 25 and 60 years.",
-    "Permanent resident of West Bengal from an economically weaker household.",
-    "Aadhaar linked to the bank account, with Swasthya Sathi enrolment.",
-    "Not a government employee or pensioner, and the household has no tax-paying member.",
-    "For general category, household land holding within the prescribed limit."
+    {
+      "label": "Age",
+      "value": "Woman aged between 25 and 60 years.",
+      "highlight": false
+    },
+    {
+      "label": "Residence",
+      "value": "Permanent resident of West Bengal from an economically weaker household.",
+      "highlight": false
+    },
+    {
+      "label": "Bank/Aadhaar",
+      "value": "Aadhaar linked to the bank account, with Swasthya Sathi enrolment.",
+      "highlight": false
+    },
+    {
+      "label": "Employment",
+      "value": "Not a government employee or pensioner, and the household has no tax-paying member.",
+      "highlight": false
+    },
+    {
+      "label": "Household",
+      "value": "For general category, household land holding within the prescribed limit.",
+      "highlight": false
+    }
   ],
   "eligibility_filters": {
     "states": [
@@ -210,10 +230,26 @@
     }
   ],
   "how_to_apply": [
-    "Apply through a Duare Sarkar camp or the socialsecurity.wb.gov.in portal when applications are open.",
-    "Provide Aadhaar, bank details, Swasthya Sathi and residence proof.",
-    "Ensure your Aadhaar is linked to your bank account for the transfer to work.",
-    "Track the application and payment status on the official portal."
+    {
+      "step": 1,
+      "title": "Apply through a Duare Sarkar camp or",
+      "description": "Apply through a Duare Sarkar camp or the socialsecurity.wb.gov.in portal when applications are open."
+    },
+    {
+      "step": 2,
+      "title": "Provide Aadhaar",
+      "description": "Provide Aadhaar, bank details, Swasthya Sathi and residence proof."
+    },
+    {
+      "step": 3,
+      "title": "Ensure your Aadhaar is linked to your",
+      "description": "Ensure your Aadhaar is linked to your bank account for the transfer to work."
+    },
+    {
+      "step": 4,
+      "title": "Track the application and payment status on",
+      "description": "Track the application and payment status on the official portal."
+    }
   ],
   "faqs": [
     {

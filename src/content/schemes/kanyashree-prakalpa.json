@@ -47,11 +47,31 @@
     "K1 is a yearly scholarship for school girls, K2 is a one-time grant at 18, and K3 supports higher studies. It is run by the Department of Women and Child Development and Social Welfare."
   ],
   "eligibility": [
-    "K1: unmarried girl aged 13 to 18, enrolled in school (Class 8 to 12).",
-    "K2: unmarried girl aged 18 or above, in education or training.",
-    "K3: girls continuing to postgraduate or professional study.",
-    "Family annual income up to ₹1.2 lakh (relaxed for orphans and special cases).",
-    "Permanent resident of West Bengal."
+    {
+      "label": "Age",
+      "value": "K1: unmarried girl aged 13 to 18, enrolled in school (Class 8 to 12).",
+      "highlight": false
+    },
+    {
+      "label": "Age",
+      "value": "K2: unmarried girl aged 18 or above, in education or training.",
+      "highlight": false
+    },
+    {
+      "label": "Education",
+      "value": "K3: girls continuing to postgraduate or professional study.",
+      "highlight": false
+    },
+    {
+      "label": "Income",
+      "value": "Family annual income up to ₹1.2 lakh (relaxed for orphans and special cases).",
+      "highlight": false
+    },
+    {
+      "label": "Residence",
+      "value": "Permanent resident of West Bengal.",
+      "highlight": false
+    }
   ],
   "eligibility_filters": {
     "states": [
@@ -110,29 +130,20 @@
       "heading": "K1, K2 and K3 compared",
       "icon": "⚖️",
       "win": {
-        "label": "K2 one-time grant",
-        "points": [
-          "₹25,000 paid once at age 18",
-          "For unmarried girls still studying",
-          "The most valued tier by families"
-        ]
+        "name": "K2 one-time grant",
+        "amount": "₹25,000 paid once at age 18",
+        "sub": "For unmarried girls still studying"
       },
       "others": [
         {
-          "label": "K1 annual",
-          "points": [
-            "₹750 every year",
-            "Ages 13 to 18 in school",
-            "Paid while enrolled"
-          ]
+          "name": "K1 annual",
+          "amount": "₹750 every year",
+          "sub": "Ages 13 to 18 in school"
         },
         {
-          "label": "K3 postgraduate",
-          "points": [
-            "Higher-study scholarship",
-            "For university and beyond",
-            "Amount varies by course"
-          ]
+          "name": "K3 postgraduate",
+          "amount": "Higher-study scholarship",
+          "sub": "For university and beyond"
         }
       ]
     },
@@ -240,10 +251,26 @@
     }
   ],
   "how_to_apply": [
-    "Collect the K1 or K2 form from your school or institution.",
-    "Fill it and attach age proof, income certificate, residence proof and bank details.",
-    "Submit it to the school, which verifies and forwards it to the department.",
-    "Track the status at wbkanyashree.gov.in using your details."
+    {
+      "step": 1,
+      "title": "Collect the K1 or K2 form from",
+      "description": "Collect the K1 or K2 form from your school or institution."
+    },
+    {
+      "step": 2,
+      "title": "Fill it and attach age proof",
+      "description": "Fill it and attach age proof, income certificate, residence proof and bank details."
+    },
+    {
+      "step": 3,
+      "title": "Submit it to the school",
+      "description": "Submit it to the school, which verifies and forwards it to the department."
+    },
+    {
+      "step": 4,
+      "title": "Track the status at wbkanyashree",
+      "description": "Track the status at wbkanyashree.gov.in using your details."
+    }
   ],
   "faqs": [
     {
