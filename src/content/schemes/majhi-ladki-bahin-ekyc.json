@@ -49,9 +49,21 @@
     "Doing it yourself, on the official site, also keeps your details safe. The whole process is meant to take only a few minutes once your Aadhaar and mobile are linked."
   ],
   "eligibility": [
-    "You are already an approved Majhi Ladki Bahin beneficiary.",
-    "Your Aadhaar is linked to a mobile number to receive the OTP.",
-    "Your Aadhaar is seeded to your bank account so payments can arrive."
+    {
+      "label": "Status",
+      "value": "You are already an approved Majhi Ladki Bahin beneficiary.",
+      "highlight": false
+    },
+    {
+      "label": "Bank/Aadhaar",
+      "value": "Your Aadhaar is linked to a mobile number to receive the OTP.",
+      "highlight": false
+    },
+    {
+      "label": "Bank/Aadhaar",
+      "value": "Your Aadhaar is seeded to your bank account so payments can arrive.",
+      "highlight": false
+    }
   ],
   "eligibility_filters": {
     "states": [
@@ -354,10 +366,26 @@
     }
   ],
   "how_to_apply": [
-    "Open ladakibahin.maharashtra.gov.in during the annual eKYC window.",
-    "Go to the eKYC section and enter your Aadhaar number.",
-    "Verify the OTP sent to your Aadhaar-linked mobile.",
-    "Answer the verification questions carefully and submit to get confirmation."
+    {
+      "step": 1,
+      "title": "Open ladakibahin",
+      "description": "Open ladakibahin.maharashtra.gov.in during the annual eKYC window."
+    },
+    {
+      "step": 2,
+      "title": "Go to the eKYC section and enter",
+      "description": "Go to the eKYC section and enter your Aadhaar number."
+    },
+    {
+      "step": 3,
+      "title": "Verify the OTP sent to your Aadhaar-linked",
+      "description": "Verify the OTP sent to your Aadhaar-linked mobile."
+    },
+    {
+      "step": 4,
+      "title": "Answer the verification questions carefully and submit",
+      "description": "Answer the verification questions carefully and submit to get confirmation."
+    }
   ],
   "faqs": [
     {
