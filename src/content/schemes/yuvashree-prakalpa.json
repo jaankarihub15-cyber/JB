@@ -198,7 +198,8 @@
       "content": [
         "Yuvashree Prakalpa is the West Bengal government's unemployment allowance scheme for youth who are registered job seekers and have not been able to find work. The scheme pays ₹1,500 per month directly to the eligible beneficiary's bank account via DBT (Direct Benefit Transfer).",
         "The scheme is administered through the Employment Bank of West Bengal, which is the state's centralised platform for job seekers and employment-related government schemes. Every applicant must first register as a Job Seeker on employmentbankwb.gov.in before they can apply for the Yuvashree allowance.",
-        "Yuvashree was launched to support educated unemployed youth during the period between completing their education and finding stable employment. It is not a skill stipend or training payment - it is a cash allowance intended to help youth meet basic living expenses while they continue their job search."
+        "Yuvashree was launched to support educated unemployed youth during the period between completing their education and finding stable employment. It is not a skill stipend or training payment - it is a cash allowance intended to help youth meet basic living expenses while they continue their job search.",
+        "Yuvashree is not a training stipend. It is a plain cash allowance to help you cover basic costs while you keep searching for work."
       ]
     },
     {
@@ -206,26 +207,51 @@
       "heading": "📄 What Is the Yuvashree Prakalpa Scheme (more)",
       "content": [
         "The scheme is one member per family. If a family has two unemployed youth, only one can receive the Yuvashree allowance.",
-        "This is checked at the time of verification and families where more than one member has applied are filtered down to one. The family member who applied first - by Employment Bank registration date - typically gets priority, though district offices may have their own resolution practice."
+        "This is checked at the time of verification and families where more than one member has applied are filtered down to one. The family member who applied first - by Employment Bank registration date - typically gets priority, though district offices may have their own resolution practice.",
+        "The one per family rule is checked at verification, not when you apply. If two siblings both registered, the office usually keeps the earlier registration and drops the later one.",
+        "Family here generally means the people sharing one ration card. Siblings living separately on different ration cards are often treated as separate families."
       ]
     },
     {
-      "type": "text",
-      "heading": "📄 What Is the Yuvashree Prakalpa Scheme (continued)",
-      "content": [
-        "In 2026, the West Bengal government launched a new scheme called Banglar Yuva Sathi, which also pays ₹1,500 per month to unemployed youth. Yuvashree and Banglar Yuva Sathi are separate schemes - they cannot be claimed simultaneously.",
-        "The key practical difference is age: Banglar Yuva Sathi covers ages 21 to 40, while Yuvashree covers 18 to 45. This means youth aged 18-20 and those aged 41-45 can only access Yuvashree, not Banglar Yuva Sathi.",
-        "The allowance continues until the beneficiary finds employment or reaches the end of their eligibility period. Beneficiaries are required to renew their registration on the Employment Bank periodically and update their employment status.",
-        "If someone finds a job and continues to receive Yuvashree, this constitutes misuse of the scheme and the amount must be returned."
+      "type": "icon_list",
+      "heading": "Yuvashree vs Banglar Yuva Sathi",
+      "items": [
+        {
+          "icon": "info",
+          "title": "Both pay ₹1,500 a month",
+          "sub": "Banglar Yuva Sathi, launched in 2026, also pays ₹1,500 to unemployed youth. The two cannot be claimed together."
+        },
+        {
+          "icon": "calendar",
+          "title": "Age is the key difference",
+          "sub": "Banglar Yuva Sathi covers ages 21 to 40. Yuvashree covers 18 to 45."
+        },
+        {
+          "icon": "users",
+          "title": "Who gets only Yuvashree",
+          "sub": "Youth aged 18 to 20 and 41 to 45 can access Yuvashree but not Banglar Yuva Sathi."
+        }
       ]
     },
     {
-      "type": "text",
-      "heading": "📄 What Is the Yuvashree Prakalpa Scheme (more 2)",
-      "content": [
-        "Payment is made to the bank account linked to the beneficiary's Employment Bank registration. The account must be Aadhaar-seeded and capable of receiving NEFT transfers.",
-        "Cooperative bank accounts that don't support NEFT will face transfer failures, so applicants should ensure they have an account in a nationalised or scheduled commercial bank.",
-        "Yuvashree is linked to the broader Employment Bank ecosystem, which is also used for government job notifications, skill development programmes, and career fairs in West Bengal. Registering on Employment Bank for Yuvashree also gives access to these other services, which many applicants overlook."
+      "type": "icon_list",
+      "heading": "Bank Account Rules",
+      "items": [
+        {
+          "icon": "shield",
+          "title": "Aadhaar-seeded account",
+          "sub": "Payment goes to the account linked to your Employment Bank registration. It must be Aadhaar-seeded."
+        },
+        {
+          "icon": "alert",
+          "title": "NEFT-capable bank only",
+          "sub": "Cooperative banks without NEFT face transfer failures. Use a nationalised or scheduled commercial bank."
+        },
+        {
+          "icon": "sparkles",
+          "title": "Employment Bank extras",
+          "sub": "The same registration unlocks government job notifications, skill programmes, and career fairs."
+        }
       ]
     },
     {
@@ -237,7 +263,8 @@
         "This simplicity is both a strength and a criticism of the scheme - critics argue that it should be tied to upskilling, while proponents argue that attaching conditions makes it harder to access for the most economically vulnerable.",
         "The ₹1,500 monthly amount has remained unchanged since the scheme was launched. Given inflation over the years, the real value of the benefit has declined.",
         "Several reports and political discussions have raised the question of revising the amount upward, particularly in comparison with the central government's similar schemes. As of June 2026, the amount remains ₹1,500.",
-        "Check wb.gov.in or employmentbankwb.gov.in for any announcements on revisions."
+        "Check wb.gov.in or employmentbankwb.gov.in for any announcements on revisions.",
+        "The scheme does not ask for proof of job-seeking activity like interviews attended or applications sent. That simplicity is deliberate, so the most vulnerable youth are not shut out by paperwork."
       ]
     },
     {
@@ -328,13 +355,29 @@
       ]
     },
     {
-      "type": "text",
-      "heading": "The Employment Bank Waiting List and What It Means",
-      "content": [
-        "One reality that surprises first-time applicants: the Yuvashree allowance does not begin the moment your application is approved. Approved applicants go onto a district-level waiting list, and payments begin only when budget is allocated and your serial number is reached.",
-        "The waiting list is district-specific. A district with fewer applicants and adequate budget allocation may have a shorter wait than a district with high unemployment rates and a long existing list.",
-        "In some districts, the wait between approval and first payment has historically stretched to several months.",
-        "The state releases Yuvashree payment tranches periodically, typically quarterly. When a new tranche is released, a batch of beneficiaries at the top of the waiting list moves from 'approved' to 'payment initiated'."
+      "type": "process_flow",
+      "heading": "How the Waiting List Works",
+      "steps": [
+        {
+          "icon": "file",
+          "title": "Approved",
+          "desc": "Your application is approved, but payment does not start immediately."
+        },
+        {
+          "icon": "users",
+          "title": "District waiting list",
+          "desc": "You join a district queue. Wait time depends on local budget and list length."
+        },
+        {
+          "icon": "calendar",
+          "title": "Quarterly tranches",
+          "desc": "The state releases payment tranches periodically, usually quarterly."
+        },
+        {
+          "icon": "wallet",
+          "title": "Payment initiated",
+          "desc": "When a tranche reaches your serial number, your status moves to payment initiated."
+        }
       ]
     },
     {
@@ -344,7 +387,10 @@
         "This explains why waiting list positions can seem static for weeks and then jump suddenly. If you see your serial number drop significantly in a short time, it means a new tranche was released.",
         "You can check your waiting list serial number at employmentbankwb.gov.in/check_annx3_waiting.php. Enter your Job Seeker ID to see where you stand.",
         "The list is updated periodically as new payments begin and new applicants join. A lower serial number means payment is closer.",
-        "The waiting list is not a rejection. It simply means your application is approved and in queue."
+        "The waiting list is not a rejection. It simply means your application is approved and in queue.",
+        "A low serial number is not a rejection. It means your file is approved and waiting for the next district tranche to reach your position.",
+        "If your number has not moved for months, that is budget timing, not a fault in your file. Reapplying only creates a duplicate, so avoid it.",
+        "Districts with many job seekers, like Murshidabad, Malda, and parts of the 24 Parganas, tend to have longer lists. If you live in one of these, register early rather than waiting until you urgently need the money."
       ]
     },
     {
@@ -355,13 +401,24 @@
       "content": "The allowance is tied to your Employment Bank registration, not a one-time form.<br><br>If your profile lapses or details are wrong, the payment stops, so update it whenever something changes."
     },
     {
-      "type": "text",
-      "heading": "📄 The Employment Bank Waiting List and What It Means (continued)",
-      "content": [
-        "Do not reapply - that creates a duplicate entry, not a faster queue position. If your serial number is on the list, your application is valid and payment will begin when the state releases the next tranche for your district.",
-        "If you have been on the waiting list for more than six months without movement, you can raise a query at your nearest Employment Exchange office. Bring your Job Seeker ID printout, Aadhaar, and bank passbook.",
-        "The officer can check whether your file has any technical issue - such as a failed Aadhaar-to-bank link - that might be holding up your entry into the payment queue.",
-        "Districts with higher populations and more registered job seekers - such as Murshidabad, Malda, Birbhum, and parts of South and North 24 Parganas - tend to have longer waiting lists. Youth from these districts should register early and not wait until they urgently need the allowance before applying, because the wait can be significant."
+      "type": "icon_list",
+      "heading": "If You Are Stuck on the Waiting List",
+      "items": [
+        {
+          "icon": "alert",
+          "title": "Do not reapply",
+          "sub": "A second application creates a duplicate, not a faster queue position."
+        },
+        {
+          "icon": "file",
+          "title": "After six months, query in person",
+          "sub": "Visit your Employment Exchange with your Job Seeker ID printout, Aadhaar, and bank passbook."
+        },
+        {
+          "icon": "shield",
+          "title": "Check for a technical hold",
+          "sub": "The officer can spot issues like a failed Aadhaar-to-bank link blocking your entry."
+        }
       ]
     },
     {
@@ -376,26 +433,50 @@
         "Before troubleshooting any specific problem, confirm one thing first: is your Job Seeker registration status 'verified' or still 'pending'? This single check resolves about half of all reported Yuvashree issues.",
         "Log in to employmentbankwb.gov.in and look at your profile status. If it says anything other than verified or active, fix that first - nothing else will work until the base registration is in order.",
         "The most frequent issue: applicant says they applied but the application is not visible on the portal. This usually means the Job Seeker registration was not fully completed or not verified.",
-        "Go back to employmentbankwb.gov.in, log in with your Job Seeker ID, and check whether your registration status shows as 'verified' or still shows as 'pending'. An unverified registration blocks the Yuvashree application."
+        "Go back to employmentbankwb.gov.in, log in with your Job Seeker ID, and check whether your registration status shows as 'verified' or still shows as 'pending'. An unverified registration blocks the Yuvashree application.",
+        "Before troubleshooting anything else, confirm your Job Seeker registration shows verified, not pending. An unverified base registration silently blocks the whole Yuvashree application."
       ]
     },
     {
-      "type": "text",
-      "heading": "📄 Common Problems With the Yuvashree Application and How to Fix Them (more)",
-      "content": [
-        "Name mismatch between Aadhaar and Employment Bank registration is another common block. During registration, if you typed your name slightly differently from how it appears on Aadhaar, the Aadhaar-linked DBT transfer will fail.",
-        "Check the name in your Employment Bank profile, compare it with your Aadhaar, and if they differ, update the Employment Bank profile to match exactly.",
-        "Educational qualification entry errors cause a specific type of rejection: an applicant who is actually a graduate may have accidentally listed Class 10 as their highest qualification. The system does not automatically query certificate databases - it goes by what you enter."
+      "type": "icon_list",
+      "heading": "Common Application Blocks",
+      "items": [
+        {
+          "icon": "alert",
+          "title": "Registration not verified",
+          "sub": "An unverified Job Seeker registration blocks the Yuvashree application. Fix this first."
+        },
+        {
+          "icon": "users",
+          "title": "Name mismatch with Aadhaar",
+          "sub": "If your Employment Bank name differs from Aadhaar, the DBT transfer fails. Update it to match exactly."
+        },
+        {
+          "icon": "file",
+          "title": "Wrong qualification entered",
+          "sub": "Listing Class 10 instead of graduate causes rejection. Enter your actual highest qualification."
+        }
       ]
     },
     {
-      "type": "text",
-      "heading": "📄 Common Problems With the Yuvashree Application and How to Fix Them (continued)",
-      "content": [
-        "If your qualification is listed incorrectly and this is pointed out during field verification, it creates a delay. Enter your actual highest qualification during registration.",
-        "Multiple registrations are a problem that many applicants don't know they've created. If you registered once, forgot your Job Seeker ID, then registered again with a slightly different name or mobile number, you now have two registrations.",
-        "The system may flag this as a duplicate. Contact your nearest Employment Exchange to get duplicate records merged or the inactive record deactivated.",
-        "Payment credited to a closed or dormant account is a less common but frustrating scenario. If your account was closed after you registered and before payment began, the NEFT transfer will fail and be returned to the government account."
+      "type": "icon_list",
+      "heading": "More Reasons Payments Fail",
+      "items": [
+        {
+          "icon": "users",
+          "title": "Duplicate registrations",
+          "sub": "Registering twice flags a duplicate. Ask your Employment Exchange to merge or deactivate the extra record."
+        },
+        {
+          "icon": "wallet",
+          "title": "Closed or dormant account",
+          "sub": "A returned NEFT transfer means the account was closed. Update your bank details before payments begin."
+        },
+        {
+          "icon": "alert",
+          "title": "Mobile not linked to Aadhaar",
+          "sub": "OTP verifications will not reach you. Match the mobile on Aadhaar and the Employment Bank portal."
+        }
       ]
     },
     {
@@ -404,7 +485,9 @@
       "content": [
         "Update your bank account details in the Employment Bank portal before payments begin. If a payment has already been sent to the wrong account, contact your bank and the BSK with your Applicant ID and bank statement.",
         "Mobile number not linked to Aadhaar causes an invisible problem: OTP-based verifications in the system will not reach you. Make sure the mobile number registered in your Aadhaar is the same one you use on the Employment Bank portal.",
-        "If you changed your number, update it in both Aadhaar (via myaadhaar.uidai.gov.in) and Employment Bank."
+        "If you changed your number, update it in both Aadhaar (via myaadhaar.uidai.gov.in) and Employment Bank.",
+        "Make sure the mobile on your Employment Bank profile is the one linked to your Aadhaar. If the two differ, the OTP checks never reach you and the file stalls quietly.",
+        "If you changed your number, update it in both Aadhaar and the Employment Bank profile on the same day. Keeping them in sync prevents the most common verification failure."
       ]
     },
     {
@@ -416,7 +499,8 @@
         "You must log in to your Employment Bank account periodically to confirm your employment status. Most districts require annual renewal of the job seeker registration.",
         "If you miss the renewal window, your active status lapses and payments may stop until you complete the renewal.",
         "The employment bank also lists job opportunities and skill development programmes. Being on Yuvashree does not disqualify you from applying for government jobs or private jobs - it is not a scheme that penalises employment, it is a scheme that stops paying when you find work.",
-        "Transition from Yuvashree to employment is the intended outcome, not an exception."
+        "Transition from Yuvashree to employment is the intended outcome, not an exception.",
+        "Once payments begin, the ₹1,500 lands on a scheduled date each month with a government or PFMS reference in your statement. Keep that as your income record."
       ]
     },
     {
@@ -425,7 +509,9 @@
       "content": [
         "If you find work - even informal work that pays regularly - you are required to update your employment status on the portal. Continuing to claim Yuvashree after finding employment is a misuse of the scheme.",
         "The verification system does periodically cross-check with employer PF records and other databases, so undeclared employment can result in recovery of the amount paid during the employed period.",
-        "Yuvashree does not have a formal maximum duration in years, but it is tied to your job seeker status. Once you update your status as employed, the allowance stops."
+        "Yuvashree does not have a formal maximum duration in years, but it is tied to your job seeker status. Once you update your status as employed, the allowance stops.",
+        "If you find work, even casual work that pays regularly, update your status on the portal. The system cross-checks PF records, and an undeclared job can lead to recovery of the months you were paid.",
+        "Being on Yuvashree does not bar you from applying for any job. It is not a scheme that penalises work, it simply stops paying once you find a job."
       ]
     },
     {
@@ -444,7 +530,9 @@
       "content": [
         "These courses are often free or subsidised and completing one improves your employability while you continue receiving the allowance.",
         "Applicants from marginalised communities - Scheduled Castes, Scheduled Tribes, OBC, and minorities - should check whether there are any priority queue arrangements in their district. Some districts prioritise applicants from these categories in the waiting list, similar to how reservation works in government employment.",
-        "Your Employment Bank registration captures your category, and this information flows into the waiting list management."
+        "Your Employment Bank registration captures your category, and this information flows into the waiting list management.",
+        "Applicants from SC, ST, OBC, and minority categories should ask their Employment Exchange whether a priority queue applies in their district. Your registered category already feeds into how the waiting list is managed.",
+        "West Bengal also runs free or subsidised skill courses through the Employment Bank, in trades like computer applications, electrical work, and beauty and wellness. Finishing one improves your chances while you still draw the allowance."
       ]
     },
     {
@@ -453,7 +541,8 @@
       "content": [
         "A final clarification on the 'one per family' rule: 'family' in this context typically means the household sharing the same ration card. If a son and his parents live separately with separate ration cards, they may be treated as separate families.",
         "If they share a ration card, only one of them can receive Yuvashree. This is relevant for joint families where multiple young adults are unemployed - check with your Employment Exchange office on how family unit is defined for your specific case.",
-        "One aspect many applicants overlook: the Employment Bank registration form asks for your residential address in detail. When field verification officers visit, they check that the address matches what is on the ration card or Aadhaar."
+        "One aspect many applicants overlook: the Employment Bank registration form asks for your residential address in detail. When field verification officers visit, they check that the address matches what is on the ration card or Aadhaar.",
+        "For the one per family check, family usually means the people on one ration card. A son and his parents on separate ration cards may count as separate families, so confirm your case with the Employment Exchange."
       ]
     },
     {
@@ -550,7 +639,19 @@
     },
     {
       "question": "Can two siblings in the same family both get Yuvashree?",
-      "answer": "No. Only one member per family can receive the Yuvashree allowance at a time. If both siblings apply, the system will detect it during verification and only one will be approved.<br><br>Decide in advance which family member will apply and ensure only that person submits the application."
+      "answer": "No, only one member per family can receive the Yuvashree allowance at a time. If both siblings apply, the system will detect it during verification and only one will be approved.<br><br>Decide in advance which family member will apply and ensure only that person submits the application."
+    },
+    {
+      "question": "Can I get both Yuvashree and Banglar Yuva Sathi?",
+      "answer": "No, the two cannot be claimed together. Both pay ₹1,500 a month, so you take the one your age fits: Yuvashree covers 18 to 45 and Banglar Yuva Sathi covers 21 to 40."
+    },
+    {
+      "question": "Why has my waiting list number not moved for months?",
+      "answer": "Payments start only when the state releases the next district tranche, usually quarterly. A static number means your file is approved and queued, not rejected, so do not reapply."
+    },
+    {
+      "question": "Do I need to renew my Yuvashree registration?",
+      "answer": "Yes, most districts require annual renewal of your job seeker registration with your employment status kept updated. If you miss the renewal window, your active status lapses and payments can stop until you complete it."
     }
   ]
 }

@@ -93,7 +93,8 @@
       "content": [
         "For you, the takeaway is simple. Treat the eKYC window like a bill that must be paid on time, because missing it costs you the monthly money.",
         "The state has said clearly the scheme will continue, with a large budget set aside. So the money is there; eKYC is simply the gate you walk through to keep receiving your share.",
-        "Some women ignore eKYC thinking one missed month is harmless. In reality a missed verification can drop you from the list, and getting back on is far harder than staying on."
+        "Some women ignore eKYC thinking one missed month is harmless. In reality a missed verification can drop you from the list, and getting back on is far harder than staying on.",
+        "A missed month is not harmless. If you skip the window, your name can drop from the list, and getting back on is far harder than staying on."
       ]
     },
     {
@@ -153,14 +154,24 @@
       ]
     },
     {
-      "type": "text",
-      "heading": "🏢 Can you do eKYC offline?",
-      "content": [
-        "Not everyone has a smartphone or a stable connection, and that is fine. You can complete eKYC offline with help.",
-        "Visit an Anganwadi centre, a Setu Suvidha Kendra, or a Common Service Centre with your Aadhaar card and your Aadhaar-linked mobile. The worker there helps you do the same Aadhaar and OTP step.",
-        "This route is genuinely free at government centres. If anyone at a private shop asks for money to do your eKYC, walk away and use an Anganwadi instead.",
-        "Carry your original Aadhaar and, if you have it, your application acknowledgement. The centre will not need much else for a routine yearly check.",
-        "The offline route is also the safest for older women or anyone unsure with phones. A trusted Anganwadi worker doing it in front of you beats a stranger doing it for a fee."
+      "type": "icon_list",
+      "heading": "Doing eKYC Offline",
+      "items": [
+        {
+          "icon": "shield",
+          "title": "Free at government centres",
+          "sub": "Visit an Anganwadi, Setu Suvidha Kendra, or CSC with your Aadhaar and Aadhaar-linked mobile."
+        },
+        {
+          "icon": "alert",
+          "title": "Never pay a private shop",
+          "sub": "If anyone asks for money to do your eKYC, walk away and use an Anganwadi instead."
+        },
+        {
+          "icon": "users",
+          "title": "Best for older women",
+          "sub": "A trusted worker doing it in front of you beats a stranger doing it for a fee. Take a family member along."
+        }
       ]
     },
     {
@@ -168,7 +179,11 @@
       "heading": "🏢 Can you do eKYC offline? (more)",
       "content": [
         "Take a family member along if you can. A second person helps you read the verification questions carefully and remember what was submitted.",
-        "Government centres handle thousands of these, so the staff know the common errors. That experience alone can save you a rejected attempt."
+        "Government centres handle thousands of these, so the staff know the common errors. That experience alone can save you a rejected attempt.",
+        "Going with someone you trust also means a second set of eyes on the final confirmation screen. Two people rarely miss the same mistake.",
+        "At a government centre the staff have done thousands of these checks, so they spot common errors fast. That experience alone can save you a rejected attempt.",
+        "If you do eKYC at a CSC, ask for a printed or SMS acknowledgement before you leave. A walk-in without proof is hard to trace if a question comes up later.",
+        "A feature phone works fine for the offline route, since the OTP arrives by SMS. The centre worker handles the on-screen part, so a smartphone is not required."
       ]
     },
     {
@@ -178,7 +193,9 @@
         "A few minutes of preparation saves a lot of frustration. Keep your Aadhaar card and your application details within reach before you start.",
         "Make sure the mobile that receives your OTP is the one linked to your Aadhaar, and that it has signal and some balance. Many failed attempts are simply an OTP going to an old number.",
         "Know the answer to the family government-service question in advance. Decide it calmly at home, not in a hurry on the portal.",
-        "If your name has changed after marriage, make sure your Aadhaar and bank reflect the same name. A mismatch between the two is a quiet but common cause of failure."
+        "If your name has changed after marriage, make sure your Aadhaar and bank reflect the same name. A mismatch between the two is a quiet but common cause of failure.",
+        "Charge your phone before you begin. A screen that dies in the middle of an OTP means starting the whole check again.",
+        "Read the government-service question slowly. It asks whether anyone in your family holds a government job, and answering it wrongly is a common reason eligible women get removed."
       ]
     },
     {
@@ -187,7 +204,10 @@
       "content": [
         "It also helps to have your bank account number and the linked mobile noted somewhere. If the portal asks you to confirm a detail, you will not be hunting for it.",
         "Do the eKYC when you have ten quiet minutes, not while cooking or travelling. Rushing is exactly when the wrong option gets ticked.",
-        "If you completed eKYC in an earlier round, the yearly one feels familiar. The screens are the same, so a little memory from last time speeds it up."
+        "If you completed eKYC in an earlier round, the yearly one feels familiar. The screens are the same, so a little memory from last time speeds it up.",
+        "If you share one phone in the house, do the eKYC when that phone is free. You do not want the OTP arriving while someone else is using it.",
+        "Note your bank account number and its linked mobile somewhere handy before you start. If the portal asks you to confirm a detail, you will not be left hunting for it.",
+        "Keep the eKYC SMS and your Application ID with your bank passbook. When next year's window opens, everything you need is in one reach."
       ]
     },
     {
@@ -204,7 +224,9 @@
         "eKYC runs on an annual cycle. After the earlier deadline closed on 30 April 2026, the next mandatory verification window is expected to open around June to July 2026.",
         "The government reopens this window roughly the same time each year, usually for about two months. Because exact dates shift, always confirm the current window on the official portal.",
         "The safest habit is to complete eKYC as soon as the window opens. Leaving it to the last week is when the portal is most overloaded.",
-        "The first round ran from September 2025 and was extended four times before closing on 30 April 2026. That history tells you the government does give extra time, but you should never count on it."
+        "The first round ran from September 2025 and was extended four times before closing on 30 April 2026. That history tells you the government does give extra time, but you should never count on it.",
+        "Treat the expected June to July window as a reminder, not a promise. The portal is the only place that shows the confirmed dates for your year.",
+        "Do not count on last year's four extensions repeating. They happened because many women were left out, not because the rule eased, so act in the first two weeks."
       ]
     },
     {
@@ -214,19 +236,34 @@
         "From now on, plan for a regular yearly window rather than a single event. Each year the verification reopens, usually for around two months.",
         "Watch the official portal and local Anganwadi announcements as June begins. The moment the window is confirmed open, do your eKYC and stop worrying about it for the year.",
         "One more thing about timing. The four extensions last year happened because so many women were left out, not because the rule was relaxed.",
-        "So while extra time may come again, the smart move is to act in the first two weeks. People who wait for an extension are the ones who lose out when none arrives."
+        "So while extra time may come again, the smart move is to act in the first two weeks. People who wait for an extension are the ones who lose out when none arrives.",
+        "If you miss the window entirely, do not assume the scheme has dropped you for good. Check the portal and your nearest Anganwadi, because a correction route sometimes opens for genuine cases."
       ]
     },
     {
-      "type": "text",
-      "heading": "🔁 First eKYC vs the yearly re-check",
-      "content": [
-        "Your very first eKYC confirmed you into the scheme. The yearly re-check is lighter, but just as compulsory.",
-        "Each year the state reopens the window to confirm you are still eligible and still alive in the records. Nothing about your bank or Aadhaar should change if your details are stable.",
-        "If your mobile, bank, or address changed during the year, fix those first. An out-of-date detail is the most common reason a yearly re-check suddenly fails.",
-        "Set a simple yearly reminder on your phone for June. Treating it as a fixed annual task means you never scramble at a deadline again.",
-        "A small comfort: if your details have not changed all year, the yearly check is quick and usually passes the first time.",
-        "Problems mostly hit women whose mobile, bank, or Aadhaar details drifted out of sync. Keeping those three matching is the whole secret to a painless re-check."
+      "type": "process_flow",
+      "heading": "First eKYC vs the Yearly Re-check",
+      "steps": [
+        {
+          "icon": "check",
+          "title": "First eKYC",
+          "desc": "This confirmed you into the scheme when you joined."
+        },
+        {
+          "icon": "calendar",
+          "title": "Yearly re-check",
+          "desc": "Lighter but compulsory. The state reopens the window to confirm you are still eligible."
+        },
+        {
+          "icon": "alert",
+          "title": "Update changed details first",
+          "desc": "Fix any change to mobile, bank, or address before the re-check, or it can fail."
+        },
+        {
+          "icon": "sparkles",
+          "title": "Set a June reminder",
+          "desc": "If your details are stable, the yearly check is quick and usually passes the first time."
+        }
       ]
     },
     {
@@ -246,14 +283,24 @@
       ]
     },
     {
-      "type": "text",
-      "heading": "🔧 Portal not opening or OTP not coming",
-      "content": [
-        "When everyone rushes to the portal near a deadline, the server slows down and pages may go blank. This is traffic, not a problem with your application.",
-        "Try again in early morning or late at night when fewer people are online. The same eKYC link works at any hour.",
-        "If the OTP does not arrive, the usual cause is that your mobile number is not linked to your Aadhaar. Update it at an Aadhaar centre, then try eKYC again.",
-        "If the page loads blank or freezes, do not refresh repeatedly or open it on many devices. That adds to the load and can lock you out temporarily.",
-        "Close the page, wait a while, and try once in a quiet hour. A single clean attempt at 6 am works better than twenty attempts at 8 pm."
+      "type": "icon_list",
+      "heading": "Portal or OTP Not Working",
+      "items": [
+        {
+          "icon": "calendar",
+          "title": "Portal slow near deadline",
+          "sub": "Heavy traffic blanks the page. Try early morning or late night; the same link works any hour."
+        },
+        {
+          "icon": "shield",
+          "title": "OTP not arriving",
+          "sub": "Usually your mobile is not Aadhaar-linked. Update it at an Aadhaar centre, then retry."
+        },
+        {
+          "icon": "x",
+          "title": "Do not spam refresh",
+          "sub": "Repeated refreshes or many devices can lock you out. One clean attempt in a quiet hour works best."
+        }
       ]
     },
     {
@@ -272,16 +319,27 @@
       "heading": "📉 Why missing eKYC is so costly",
       "big": "68 Lakh",
       "title": "accounts were removed after the last deadline",
-      "desc": "After the April 2026 deadline closed, about 68 lakh accounts that had not completed eKYC were removed from the list. Around 1.88 crore verified women kept receiving their ₹1,500. The gap between those two numbers is what one missed eKYC can cost."
+      "desc": "After the April 2026 deadline closed, about 68 lakh accounts that had not completed eKYC were removed from the list. Around 1.88 crore verified women kept receiving their ₹1,500 each month."
     },
     {
-      "type": "text",
-      "heading": "🚪 My account was removed: what now",
-      "content": [
-        "After the April 2026 deadline, around 68 lakh accounts that did not complete eKYC were closed. If yours was removed, do not panic and do not pay any agent.",
-        "If you were removed by mistake, for example from the wrongly answered government-service question, call helpline 181 with your Application ID. Many genuinely eligible women had their payments restored after review.",
-        "Visit the nearest Women and Child Development office, Anganwadi centre, or CSC. They can check your case and guide a correction where one is allowed.",
-        "First, confirm it is really removed and not just a delayed payment. Enter your Aadhaar in the eKYC section: if it sends an OTP, your name is still on the list."
+      "type": "icon_list",
+      "heading": "If Your Account Was Removed",
+      "items": [
+        {
+          "icon": "alert",
+          "title": "Confirm it is really removed",
+          "sub": "Enter your Aadhaar in the eKYC section. If it sends an OTP, your name is still on the list."
+        },
+        {
+          "icon": "file",
+          "title": "Call 181 with your Application ID",
+          "sub": "Many genuinely eligible women had payments restored after review, especially the wrong government-service answer."
+        },
+        {
+          "icon": "users",
+          "title": "Visit a WCD office or CSC",
+          "sub": "They can check your case and guide a correction where one is allowed."
+        }
       ]
     },
     {
@@ -291,18 +349,30 @@
         "If you see the message that the Aadhaar is not in the list, that is when you act. Note your Application ID and the exact message before you call.",
         "When you call 181 or visit the office, be calm and specific. Say whether you think it was the government-service question or a genuine eligibility issue, because the fix differs for each.",
         "Keep any SMS you received during earlier eKYC rounds. Proof that you tried or completed it before can help your case during a review.",
-        "Act quickly once you confirm removal. Review windows and correction modules are open only for limited periods, so the sooner you raise it, the better your chances."
+        "Act quickly once you confirm removal. Review windows and correction modules are open only for limited periods, so the sooner you raise it, the better your chances.",
+        "When you call 181 or visit the office, be specific about whether it was the government service question or a genuine eligibility issue. The correction path differs for each.",
+        "If the office gives you a token or reference for a correction request, write it down. That reference is how you follow up if the first attempt does not resolve it."
       ]
     },
     {
-      "type": "text",
-      "heading": "⚠️ Mistakes that cost women their payment",
-      "content": [
-        "The biggest mistake is waiting for the last day. The portal is slowest then, and if a problem appears you have no time to fix it.",
-        "The second is trusting an agent or an unofficial website. They may take your money, your OTP, or both, and your eKYC still will not be valid.",
-        "The third is assuming silence means success. Always wait for the on-screen confirmation and the SMS, and note them down as proof.",
-        "Finally, never share your OTP with anyone who calls claiming to help. The government never asks for your OTP over a phone call, and sharing it can empty your account.",
-        "Another quiet mistake is changing your bank account and not updating it everywhere. If the scheme still points to your old account, the money goes nowhere useful."
+      "type": "icon_list",
+      "heading": "Mistakes That Cost Women Their Payment",
+      "items": [
+        {
+          "icon": "calendar",
+          "title": "Waiting for the last day",
+          "sub": "The portal is slowest then, leaving no time to fix a problem."
+        },
+        {
+          "icon": "x",
+          "title": "Trusting an agent or fake site",
+          "sub": "They may take your money or OTP, and the eKYC still will not be valid."
+        },
+        {
+          "icon": "alert",
+          "title": "Never share your OTP",
+          "sub": "The government never asks for it by phone. Sharing it can empty your account."
+        }
       ]
     },
     {
@@ -310,18 +380,30 @@
       "heading": "⚠ Mistakes that cost women their payment (more)",
       "content": [
         "Keep one stable Aadhaar-seeded account for the scheme. Consistency across Aadhaar, mobile and bank is what keeps payments smooth year after year.",
-        "In short, do it early, do it on the official site, and confirm it went through. Those three habits prevent almost every eKYC problem women face."
+        "In short, do it early, do it on the official site, and confirm it went through. Those three habits prevent almost every eKYC problem women face.",
+        "Keep a small folder, on paper or on your phone, with your Aadhaar, bank passbook, and every eKYC SMS. When a question comes up a year later, everything you need is in one place.",
+        "If you ever move home, update the address on your records too. A stale address can complicate an offline visit or a field check later."
       ]
     },
     {
-      "type": "text",
-      "heading": "💸 eKYC done but payment still not arriving",
-      "content": [
-        "Completing eKYC confirms your eligibility, but the money only reaches an Aadhaar-seeded bank account. These are two different links.",
-        "Check your Aadhaar to bank seeding status and, if it is not active, visit your bank to complete it. Payments resume once the seeding is in place.",
-        "After that, check status on the portal under your earlier applications, and look for the credit in the Aadhaar-linked account, not a different one.",
-        "A useful mental model is two doors. eKYC opens the first door that says you are eligible, and Aadhaar bank seeding opens the second door that lets the money actually walk in.",
-        "Many women clear the first and forget the second. They see eKYC complete on screen, assume all is done, and then wonder why the account stays empty."
+      "type": "process_flow",
+      "heading": "Why Payment Can Stall After eKYC",
+      "steps": [
+        {
+          "icon": "check",
+          "title": "eKYC confirms eligibility",
+          "desc": "This opens the first door: it says you are eligible."
+        },
+        {
+          "icon": "wallet",
+          "title": "Aadhaar-bank seeding pays",
+          "desc": "The money only reaches an Aadhaar-seeded account. This is the second door."
+        },
+        {
+          "icon": "file",
+          "title": "Check seeding status",
+          "desc": "If it is not active, your bank can complete it. Payments resume once seeding is in place."
+        }
       ]
     },
     {
@@ -331,7 +413,9 @@
         "Ask your bank to confirm your account is Aadhaar-seeded and set to receive DBT. This one visit resolves most after-eKYC payment delays.",
         "If the credit shows in your statement with a PFMS or government reference, that is your confirmation. Save a screenshot for your own records.",
         "If a month genuinely goes missing even after eKYC and seeding are fine, raise it through the official grievance route rather than waiting silently.",
-        "Note the month, your Application ID, and your last successful payment date. Specific details get cases resolved far faster than a vague complaint."
+        "Note the month, your Application ID, and your last successful payment date. Specific details get cases resolved far faster than a vague complaint.",
+        "If you moved bank branches or your account went dormant, sort that out before the next payment date. Money sent to a stale account simply bounces back and adds a month of delay.",
+        "Note the missing month, your Application ID, and your last successful payment date before you complain. Specific details get a case resolved far faster than a vague one."
       ]
     },
     {
@@ -342,7 +426,9 @@
         "Your monthly ₹1,500 continues to the Aadhaar-seeded bank account as before. If a month is missed, check status on the portal before assuming anything is wrong.",
         "There is no separate certificate to collect and no office visit needed if everything went through online. Simple is the goal here.",
         "Treat the confirmation SMS like a receipt. If a question ever comes up about whether you completed eKYC, that message is your proof.",
-        "Beyond that, no news is good news. A quiet account that keeps crediting ₹1,500 each month means your eKYC did its job."
+        "Beyond that, no news is good news. A quiet account that keeps crediting ₹1,500 each month means your eKYC did its job.",
+        "Tell one trusted family member that your eKYC is done and where the confirmation is saved. If you ever cannot check yourself, they can confirm it for you.",
+        "Photograph the final confirmation screen, not just the SMS. A clear screenshot of the success message is the fastest proof if a review ever asks."
       ]
     },
     {
@@ -446,7 +532,7 @@
     },
     {
       "question": "Do I have to pay anyone for eKYC?",
-      "answer": "No. eKYC is completely free on the official portal. Never pay an agent, and never share your OTP with anyone."
+      "answer": "No, eKYC is completely free on the official portal. Never pay an agent, and never share your OTP with anyone."
     },
     {
       "question": "How do I check if my name is still on the Ladki Bahin list?",
@@ -455,6 +541,38 @@
     {
       "question": "How often do I need to do Ladki Bahin eKYC?",
       "answer": "eKYC is an annual requirement. You need to complete it once each year in the verification window to keep receiving the monthly payment."
+    },
+    {
+      "question": "Can someone else do my eKYC for me?",
+      "answer": "At a government centre a worker can help you complete the same Aadhaar and OTP step in front of you. Never hand your Aadhaar and OTP to a private shop or stranger for a fee."
+    },
+    {
+      "question": "What documents do I need for offline eKYC?",
+      "answer": "Carry your original Aadhaar and your Aadhaar linked mobile. If you have it, bring your application acknowledgement, though a routine yearly check needs little else."
+    },
+    {
+      "question": "What if I do not have a smartphone for eKYC?",
+      "answer": "You can complete it offline at an Anganwadi, Setu Suvidha Kendra, or CSC with your Aadhaar and Aadhaar linked mobile. A feature phone works, since the OTP comes by SMS and the worker handles the screen."
+    },
+    {
+      "question": "Will the missed months come after I complete eKYC?",
+      "answer": "Once eKYC and Aadhaar to bank seeding are both in place, the monthly ₹1,500 resumes. Whether earlier missed months are paid as arrears depends on the state's decision for that round, so check the portal and keep your records."
+    },
+    {
+      "question": "What is my proof that eKYC is done?",
+      "answer": "The on-screen success message and the confirmation SMS are your proof. Save a screenshot of the success screen and keep the SMS, as these settle any later question during a review."
+    },
+    {
+      "question": "Do I need to do eKYC if my details have not changed?",
+      "answer": "Yes, the yearly check is mandatory even when nothing changed. If your mobile, bank, and Aadhaar are all in sync, it is quick and usually passes on the first try."
+    },
+    {
+      "question": "Can I do eKYC at any time of day?",
+      "answer": "Yes, the same eKYC link works at any hour. Early morning or late at night is best near a deadline, when the portal is less crowded."
+    },
+    {
+      "question": "Can I change my bank account during eKYC?",
+      "answer": "eKYC verifies your identity, it does not change your bank details. To switch the account that receives the ₹1,500, update the Aadhaar to bank seeding at your bank so the new account is the one mapped for DBT."
     }
   ],
   "official_portal": {
