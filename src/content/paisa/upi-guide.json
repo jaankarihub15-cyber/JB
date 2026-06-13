@@ -35,7 +35,7 @@
     {
       "type": "text",
       "icon": "📱",
-      "heading": "What UPI Is",
+      "heading": "🏦 What UPI Is",
       "content": [
         "UPI, or Unified Payments Interface, lets you send and receive money instantly between bank accounts using just a phone.",
         "You do not need to share your account number or IFSC. A simple UPI ID or a QR scan is enough to pay anyone.",
@@ -53,7 +53,7 @@
     {
       "type": "text",
       "icon": "🚀",
-      "heading": "How to Start Using UPI",
+      "heading": "🚀 How to Start Using UPI",
       "content": [
         "Getting started is quick. Download a UPI app, allow it to verify your mobile number, which must match the one in your bank.",
         "Select your bank, and the app finds your account automatically. You then set your UPI PIN using your debit card details.",
@@ -70,7 +70,7 @@
     },
     {
       "type": "stat_cards",
-      "heading": "UPI at a Glance",
+      "heading": "📊 UPI at a Glance",
       "icon": "📊",
       "cards": [
         {
@@ -96,7 +96,7 @@
     {
       "type": "text",
       "icon": "📏",
-      "heading": "UPI Transaction Limits",
+      "heading": "💰 UPI Transaction Limits",
       "content": [
         "For most users, the standard UPI limit is ₹1 lakh per day, and usually ₹1 lakh per single transaction too.",
         "There is also a count cap of around 20 transactions a day. Hit either limit and further payments wait until the next day.",
@@ -113,7 +113,7 @@
     },
     {
       "type": "comparison_table",
-      "heading": "Limits by Category",
+      "heading": "🗂️ Limits by Category",
       "icon": "📋",
       "columns": [
         "Type",
@@ -147,7 +147,7 @@
     {
       "type": "text",
       "icon": "💸",
-      "heading": "Is UPI Free? Charges and GST",
+      "heading": "💰 Is UPI Free? Charges and GST",
       "content": [
         "For normal users, UPI is completely free. Sending money bank to bank, or paying a shop by UPI, costs you nothing.",
         "There is no GST on your UPI payments. The talk of an 18 percent tax does not apply to ordinary person to person or merchant payments.",
@@ -171,7 +171,7 @@
     },
     {
       "type": "stat_cards",
-      "heading": "What UPI Actually Costs You",
+      "heading": "💰 What UPI Actually Costs You",
       "icon": "🧾",
       "cards": [
         {
@@ -197,7 +197,7 @@
     {
       "type": "text",
       "icon": "🆔",
-      "heading": "What Is a UPI ID",
+      "heading": "💡 What Is a UPI ID",
       "content": [
         "A UPI ID, also called a VPA or virtual payment address, is your unique payment handle, like name@bank.",
         "It lets people pay you without knowing your bank account number. You just share the ID or your QR code.",
@@ -215,7 +215,7 @@
     {
       "type": "text",
       "icon": "🔐",
-      "heading": "What Is a UPI PIN",
+      "heading": "💡 What Is a UPI PIN",
       "content": [
         "A UPI PIN is the secret 4 or 6 digit code you set to approve every payment. No money moves without it.",
         "You create it once when linking your bank, using your debit card details, and then enter it for each transaction.",
@@ -231,7 +231,7 @@
     },
     {
       "type": "eligibility_check",
-      "heading": "Safe vs Risky UPI Habits",
+      "heading": "⚠️ Safe vs Risky UPI Habits",
       "icon": "🛡️",
       "qualify": [
         "Enter your PIN only to send money",
@@ -251,7 +251,7 @@
     {
       "type": "text",
       "icon": "⚠️",
-      "heading": "Common UPI Scams to Avoid",
+      "heading": "🚫 Common UPI Scams to Avoid",
       "content": [
         "The golden rule: you never need a PIN to receive money. Scammers reverse this to trick you into paying them.",
         "A common trick is a fake payment screenshot, where a buyer claims to have paid but actually has not. Always check your own app, not their screenshot.",
@@ -268,7 +268,7 @@
     },
     {
       "type": "icon_list",
-      "heading": "Scam Red Flags",
+      "heading": "🚫 Scam Red Flags",
       "icon": "🚩",
       "items": [
         {
@@ -295,7 +295,7 @@
     },
     {
       "type": "process_flow",
-      "heading": "How a UPI Payment Works",
+      "heading": "⚙️ How a UPI Payment Works",
       "icon": "🧭",
       "steps": [
         {
@@ -323,7 +323,7 @@
     {
       "type": "text",
       "icon": "🔢",
-      "heading": "UTR and Reference Numbers",
+      "heading": "📐 UTR and Reference Numbers",
       "content": [
         "Every UPI payment generates a unique reference number, often called the UTR or RRN. Think of it as your digital receipt.",
         "You can find it in your transaction history. It proves the payment was made and identifies that exact transfer.",
@@ -343,7 +343,7 @@
     {
       "type": "text",
       "icon": "✨",
-      "heading": "Useful UPI Features",
+      "heading": "🏦 Useful UPI Features",
       "content": [
         "UPI has grown beyond simple transfers. UPI Lite lets you make small payments quickly without entering a PIN, useful for tiny amounts.",
         "A UPI mandate lets you pre-approve recurring payments, like a SIP or a subscription, so they happen automatically.",
@@ -357,7 +357,7 @@
     },
     {
       "type": "info_rows",
-      "heading": "UPI Terms Made Simple",
+      "heading": "🏦 UPI Terms Made Simple",
       "icon": "📄",
       "rows": [
         {
@@ -381,7 +381,7 @@
     {
       "type": "text",
       "icon": "🔧",
-      "heading": "When UPI Is Not Working",
+      "heading": "📅 When UPI Is Not Working",
       "content": [
         "Sometimes a payment fails or the app shows UPI down. Most often this is a temporary server or bank issue that clears on its own.",
         "If money is debited but not received, do not panic. Failed UPI payments are usually auto-reversed within a few hours to a few days.",
@@ -397,7 +397,7 @@
     {
       "type": "text",
       "icon": "🎯",
-      "heading": "The Bottom Line",
+      "heading": "🎯 The Bottom Line",
       "content": [
         "UPI has made paying and receiving money in India fast, free and simple for everyone with a phone.",
         "Know your limits: ₹1 lakh a day for most users, with higher caps only for specific categories. Normal use costs you nothing.",
@@ -409,7 +409,7 @@
     },
     {
       "type": "info_rows",
-      "heading": "UPI Quick Facts",
+      "heading": "📊 UPI Quick Facts",
       "icon": "📄",
       "rows": [
         {
