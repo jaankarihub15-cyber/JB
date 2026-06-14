@@ -62,6 +62,11 @@ const nextConfig: NextConfig = {
         destination: '/yojana/sikho-kamao-yojana',
         permanent: true,
       },
+      {
+        source: '/sarkari-naukri/age-relaxation-rules',
+        destination: '/guide/age-relaxation',
+        permanent: true,
+      },
     ];
   },
 };

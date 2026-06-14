@@ -110,7 +110,7 @@ export default async function BooksExamPage({ params }: Props) {
             <SectionHeading icon={subject.icon}>{subject.name} books</SectionHeading>
             <p className="text-sm text-text-muted -mt-2 mb-4">{subject.intro}</p>
 
-            {ncert.length > 0 & (
+            {ncert.length > 0 && (
               <>
                 <div className="flex items-center gap-2 mb-3">
                   <span className="text-xs font-bold px-2.5 py-1 rounded-full bg-blue-light text-blue-dark">
@@ -126,7 +126,7 @@ export default async function BooksExamPage({ params }: Props) {
               </>
             )}
 
-            {standard.length > 0 & (
+            {standard.length > 0 && (
               <>
                 <div className="flex items-center gap-2 mb-3">
                   <span className="text-xs font-bold px-2.5 py-1 rounded-full bg-accent-light text-accent-dark">
@@ -157,7 +157,7 @@ export default async function BooksExamPage({ params }: Props) {
       </div>
 
       {/* Related exam cross-link */}
-      {b.related_exam_slug & (
+      {b.related_exam_slug && (
         <Link
           href={`/exam/${b.related_exam_slug}`}
           className="block mb-8 bg-accent-light border border-accent/30 rounded-2xl p-4 text-sm text-accent-dark font-semibold hover:bg-accent-light/70"
@@ -202,7 +202,7 @@ function BookCard({ bk }: { bk: any }) {
         <p className="text-[13.5px] text-text-secondary mb-3 leading-relaxed">{bk.why}</p>
         <div className="flex flex-wrap gap-2 items-center">
           <span className={`text-[11px] font-semibold px-2.5 py-1 rounded-xl ${badge.cls}`}>{badge.label}</span>
-          {bk.beginner_friendly & (
+          {bk.beginner_friendly && (
             <span className="text-[11px] font-semibold px-2.5 py-1 rounded-xl bg-accent-light text-accent-dark">
               Beginner OK
             </span>
