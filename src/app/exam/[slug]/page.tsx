@@ -13,7 +13,6 @@ import { getExamBySlug, getAllExamSlugs } from "@/lib/content";
 import {
   Breadcrumb, SectionHeading, Card, InfoRow, StepCard, FAQ, Tag,
 } from "@/components/ui";
-import { ExamTabs } from "@/components/exam-tabs";
 import { JsonLd, faqSchema, breadcrumbSchema } from "@/components/json-ld";
 import type { Metadata } from "next";
 
@@ -148,12 +147,6 @@ export default async function ExamDetailPage({ params }: Props) {
 
             {/* SALARY FIRST */}
             <SalaryLead salary={e.salary_table} posts={e.major_posts} />
-
-            {/* EXAM PREP TABS */}
-            <ExamTabs data={{
-              syllabus: e.exam_prep?.syllabus, books: e.exam_prep?.books,
-              study_plan: e.exam_prep?.study_plan, quiz: e.exam_prep?.quiz,
-            }} />
 
             {/* KEY DETAILS */}
             {e.key_details && e.key_details.length > 0 && (
