@@ -69,6 +69,7 @@ export default async function ExamDetailPage({ params }: Props) {
     { id: "overview", text: "📋 Overview" },
     ...(e.exam_pattern?.length > 0 ? [{ id: "syllabus", text: "📘 Syllabus" }] : []),
     ...(e.important_dates?.length > 0 ? [{ id: "dates", text: "📅 Dates" }] : []),
+    ...(e.exam_prep?.books?.length > 0 ? [{ id: "books", text: "📖 Books" }] : []),
     ...(e.preparation_tips?.length > 0 ? [{ id: "prep", text: "📚 Prep" }] : []),
     ...(e.faqs?.length > 0 ? [{ id: "faqs", text: "❓ FAQs" }] : []),
   ];
@@ -131,7 +132,7 @@ export default async function ExamDetailPage({ params }: Props) {
       {/* STICKY CHIP NAV */}
       <nav className="lg:hidden sticky top-0 z-20 bg-white/95 backdrop-blur border-b border-border">
         <div className="max-w-[1140px] mx-auto px-5 md:px-6">
-          <div className="flex gap-1.5 overflow-x-auto whitespace-nowrap py-2.5">
+          <div className="flex gap-1.5 flex-wrap py-2.5">
             {navItems.map((it, i) => (
               <a key={it.id} href={`#${it.id}`} className={`text-[12px] font-semibold px-3.5 py-2 rounded-[10px] shrink-0 no-underline transition-colors ${i === 0 ? "bg-accent-light text-accent" : "text-text-muted hover:bg-card-alt"}`}>{it.text}</a>
             ))}
@@ -236,6 +237,21 @@ export default async function ExamDetailPage({ params }: Props) {
                 <SecTag s="prep" />
                 <SectionHeading icon="📚">Preparation Strategy</SectionHeading>
                 <Card className="px-6 py-5">{e.preparation_tips.map((tip: string, i: number) => (<div key={i} className={`py-3 text-base text-text-secondary leading-relaxed flex gap-3 ${i < e.preparation_tips.length - 1 ? "border-b border-border" : ""}`}><span className="text-accent font-bold shrink-0">{i + 1}.</span><span dangerouslySetInnerHTML={{ __html: tip }} /></div>))}</Card>
+              </div>
+            )}
+
+            {/* BOOKS */}
+            {e.exam_prep?.books && e.exam_prep.books.length > 0 && (
+              <div id="books" className="mt-6 scroll-mt-16">
+                <div className="inline-flex items-center gap-1.5 text-[10.5px] font-extrabold tracking-[0.07em] uppercase px-3 py-1.5 rounded-[10px] bg-[#FEF3C7] text-[#92400E] mb-3">📖 Books</div>
+                <SectionHeading icon="📖">Recommended Books</SectionHeading>
+                <Card className="px-6 py-5">
+                  {e.exam_prep.books.map((book: any, i: number) => (
+                    <div key={i} className={`py-3 text-base text-text-secondary leading-relaxed ${i < e.exam_prep.books.length - 1 ? "border-b border-border" : ""}`}>
+                      {typeof book === "string" ? <span dangerouslySetInnerHTML={{ __html: book }} /> : <><span className="font-semibold text-text">{book.title}</span>{book.author && <span className="text-text-muted"> — {book.author}</span>}{book.note && <div className="text-sm text-text-muted mt-1">{book.note}</div>}</>}
+                    </div>
+                  ))}
+                </Card>
               </div>
             )}
 
