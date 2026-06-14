@@ -2,27 +2,25 @@
 
 import { useState, useEffect } from "react";
 
-// ── Smart chip nav: tracks active section via IntersectionObserver ──
-// Uses the same rootMargin as TocSidebarV2 (proven to work on paisa pages).
+// ── Smart chip nav: tracks which section is at the top of the viewport ──
 export function ExamChipNav({ items }: { items: { id: string; text: string }[] }) {
   const [activeId, setActiveId] = useState("");
 
   useEffect(() => {
-    const observer = new IntersectionObserver(
-      (entries) => {
-        entries.forEach((entry) => {
-          if (entry.isIntersecting) {
-            setActiveId(entry.target.id);
-          }
-        });
-      },
-      { rootMargin: "-80px 0px -70% 0px" }
-    );
-    items.forEach((item) => {
-      const el = document.getElementById(item.id);
-      if (el) observer.observe(el);
-    });
-    return () => observer.disconnect();
+    const OFFSET = 180; // header (64) + chip bar (~100) + buffer
+    const handleScroll = () => {
+      let current = "";
+      for (const item of items) {
+        const el = document.getElementById(item.id);
+        if (!el) continue;
+        const top = el.getBoundingClientRect().top;
+        if (top <= OFFSET) current = item.id;
+      }
+      setActiveId(current);
+    };
+    window.addEventListener("scroll", handleScroll, { passive: true });
+    handleScroll();
+    return () => window.removeEventListener("scroll", handleScroll);
   }, [items]);
 
   if (!items || items.length < 2) return null;
