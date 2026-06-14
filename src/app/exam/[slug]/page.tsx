@@ -7,7 +7,7 @@ import { SourceCitations } from "@/components/source-citations";
 import { PdfSummary } from "@/components/pdf-summary";
 import { HeroV2 } from "@/components/hero-v2";
 import { TocSidebarV2 } from "@/components/toc-sidebar-v2";
-import { SalaryLead, ExamChipNav } from "@/components/exam-answer-layer";
+import { SalaryLead, ExamChipNav, DashboardStrip } from "@/components/exam-answer-layer";
 import { notFound } from "next/navigation";
 import { getExamBySlug, getAllExamSlugs } from "@/lib/content";
 import {
@@ -59,19 +59,6 @@ export default async function ExamDetailPage({ params }: Props) {
     ...(e.faqs?.length > 0 ? [{ id: "faqs", text: "❓ FAQs" }] : []),
   ];
 
-  // HeroV2 right-side box: build from status + dates + salary
-  const deadline = e.important_dates?.find((d: any) => /deadline/i.test(d.label));
-  const primaryStat = deadline
-    ? { label: e.status === "form_open" ? "Form open · Deadline" : "Next deadline", value: deadline.value, sub: e.hero?.stats?.map((s: any) => `${s.label}: ${s.value}`).join(" · ") }
-    : e.hero?.stats?.[0]
-      ? { label: e.hero.stats[0].label, value: e.hero.stats[0].value, sub: e.hero.stats.slice(1).map((s: any) => `${s.label}: ${s.value}`).join(" · ") }
-      : undefined;
-
-  const quickActions = [
-    ...(e.official_portal?.url && e.official_portal.url !== "#" ? [{ label: "📋 Apply on " + e.official_portal.name, href: e.official_portal.url, primary: true }] : []),
-    ...(hasSalary ? [{ label: "💰 Check Salary", href: "#salary" }] : []),
-  ];
-
   // Badge text (longer, as Ash requested)
   const badge = e.hero?.badge || `${e.hero?.icon || "🎯"} ${e.category || e.title.split(":")[0]} ${new Date().getFullYear()}`;
 
@@ -107,9 +94,8 @@ export default async function ExamDetailPage({ params }: Props) {
             subtitle={e.hero?.one_liner || e.meta_description}
             badge={badge}
             updatedDate={e.hero?.updated_date}
-            primaryStat={primaryStat}
-            quickActions={quickActions.length > 0 ? quickActions : undefined}
           />
+          <DashboardStrip facts={e.quick_facts} />
           </div>
         </div>
       </div>

@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 
-// ── Click-only chip nav. Tap = highlight + scroll. No scroll tracking. ──
+// ── Click-only chip nav ──
 export function ExamChipNav({ items }: { items: { id: string; text: string }[] }) {
   const [activeId, setActiveId] = useState("");
 
@@ -28,6 +28,24 @@ export function ExamChipNav({ items }: { items: { id: string; text: string }[] }
         </div>
       </div>
     </nav>
+  );
+}
+
+// ── Dashboard strip (inside hero band, dark glass) ──
+export function DashboardStrip({ facts }: { facts?: { label: string; value: string }[] }) {
+  if (!facts || facts.length === 0) return null;
+  return (
+    <div className="grid grid-cols-4 gap-px rounded-[14px] overflow-hidden border border-white/10 mt-4 mb-2 bg-white/[0.06]">
+      {facts.slice(0, 4).map((f) => {
+        const isDeadline = /deadline|last date|closes/i.test(f.label);
+        return (
+          <div key={f.label} className="bg-black/15 px-2.5 py-3 md:px-4">
+            <div className="text-[9.5px] font-semibold uppercase tracking-wide text-[#8FB8A2]">{f.label}</div>
+            <div className={`text-[14px] md:text-[16px] font-extrabold mt-1 leading-tight ${isDeadline ? "text-[#FCA5A5]" : "text-white"}`}>{f.value}</div>
+          </div>
+        );
+      })}
+    </div>
   );
 }
 
