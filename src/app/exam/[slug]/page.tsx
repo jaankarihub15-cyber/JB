@@ -130,7 +130,7 @@ export default async function ExamDetailPage({ params }: Props) {
       </div>
 
       {/* STICKY CHIP NAV */}
-      <nav className="lg:hidden sticky top-0 z-20 bg-white/95 backdrop-blur border-b border-border">
+      <nav className="lg:hidden sticky top-16 z-20 bg-white/95 backdrop-blur border-b border-border">
         <div className="max-w-[1140px] mx-auto px-5 md:px-6">
           <div className="flex gap-1.5 flex-wrap py-2.5">
             {navItems.map((it, i) => (
