@@ -7,7 +7,7 @@ import { SourceCitations } from "@/components/source-citations";
 import { PdfSummary } from "@/components/pdf-summary";
 import { HeroV2 } from "@/components/hero-v2";
 import { TocSidebarV2 } from "@/components/toc-sidebar-v2";
-import { SalaryLead } from "@/components/exam-answer-layer";
+import { SalaryLead, ExamChipNav } from "@/components/exam-answer-layer";
 import { notFound } from "next/navigation";
 import { getExamBySlug, getAllExamSlugs } from "@/lib/content";
 import {
@@ -129,16 +129,8 @@ export default async function ExamDetailPage({ params }: Props) {
         </div>
       </div>
 
-      {/* STICKY CHIP NAV */}
-      <nav className="lg:hidden sticky top-16 z-20 bg-white/95 backdrop-blur border-b border-border">
-        <div className="max-w-[1140px] mx-auto px-5 md:px-6">
-          <div className="flex gap-1.5 flex-wrap py-2.5">
-            {navItems.map((it, i) => (
-              <a key={it.id} href={`#${it.id}`} className={`text-[12px] font-semibold px-3.5 py-2 rounded-[10px] shrink-0 no-underline transition-colors ${i === 0 ? "bg-accent-light text-accent" : "text-text-muted hover:bg-card-alt"}`}>{it.text}</a>
-            ))}
-          </div>
-        </div>
-      </nav>
+      {/* STICKY CHIP NAV (client component with active tracking) */}
+      <ExamChipNav items={navItems} />
 
       {/* CONTENT + TOC SIDEBAR */}
       <div className="max-w-[1140px] mx-auto px-5 md:px-6 pb-6 relative z-10">
@@ -151,7 +143,7 @@ export default async function ExamDetailPage({ params }: Props) {
 
             {/* KEY DETAILS */}
             {e.key_details && e.key_details.length > 0 && (
-              <div id="overview" className="mt-6 scroll-mt-16">
+              <div id="overview" className="mt-6 scroll-mt-40">
                 <SecTag s="elig" />
                 <SectionHeading icon="📋">Key Details</SectionHeading>
                 <Card>{e.key_details.map((d: any) => (<InfoRow key={d.label} label={d.label} value={d.value} highlight={d.highlight} />))}</Card>
@@ -160,7 +152,7 @@ export default async function ExamDetailPage({ params }: Props) {
 
             {/* EXAM PATTERN */}
             {e.exam_pattern && e.exam_pattern.length > 0 && e.exam_pattern.map((tier: any, ti: number) => (
-              <div key={tier.tier_name} id={ti === 0 ? "syllabus" : undefined} className={ti === 0 ? "mt-6 scroll-mt-16" : "mt-4"}>
+              <div key={tier.tier_name} id={ti === 0 ? "syllabus" : undefined} className={ti === 0 ? "mt-6 scroll-mt-40" : "mt-4"}>
                 {ti === 0 && <SecTag s="syllabus" />}
                 <SectionHeading icon="📝">{tier.tier_name}</SectionHeading>
                 <Card className="px-6 py-5">
@@ -224,7 +216,7 @@ export default async function ExamDetailPage({ params }: Props) {
 
             {/* IMPORTANT DATES */}
             {e.important_dates && e.important_dates.length > 0 && (
-              <div id="dates" className="mt-6 scroll-mt-16">
+              <div id="dates" className="mt-6 scroll-mt-40">
                 <SecTag s="dates" />
                 <SectionHeading icon="📅">Important Dates</SectionHeading>
                 <Card>{e.important_dates.map((d: any) => (<InfoRow key={d.label} label={d.label} value={d.value} highlight={d.highlight} />))}</Card>
@@ -233,7 +225,7 @@ export default async function ExamDetailPage({ params }: Props) {
 
             {/* PREPARATION */}
             {e.preparation_tips && e.preparation_tips.length > 0 && (
-              <div id="prep" className="mt-6 scroll-mt-16">
+              <div id="prep" className="mt-6 scroll-mt-40">
                 <SecTag s="prep" />
                 <SectionHeading icon="📚">Preparation Strategy</SectionHeading>
                 <Card className="px-6 py-5">{e.preparation_tips.map((tip: string, i: number) => (<div key={i} className={`py-3 text-base text-text-secondary leading-relaxed flex gap-3 ${i < e.preparation_tips.length - 1 ? "border-b border-border" : ""}`}><span className="text-accent font-bold shrink-0">{i + 1}.</span><span dangerouslySetInnerHTML={{ __html: tip }} /></div>))}</Card>
@@ -242,7 +234,7 @@ export default async function ExamDetailPage({ params }: Props) {
 
             {/* BOOKS */}
             {e.exam_prep?.books && e.exam_prep.books.length > 0 && (
-              <div id="books" className="mt-6 scroll-mt-16">
+              <div id="books" className="mt-6 scroll-mt-40">
                 <div className="inline-flex items-center gap-1.5 text-[10.5px] font-extrabold tracking-[0.07em] uppercase px-3 py-1.5 rounded-[10px] bg-[#FEF3C7] text-[#92400E] mb-3">📖 Books</div>
                 <SectionHeading icon="📖">Recommended Books</SectionHeading>
                 <Card className="px-6 py-5">
@@ -256,7 +248,7 @@ export default async function ExamDetailPage({ params }: Props) {
             )}
 
             {/* FAQS */}
-            <div id="faqs" className="mt-6 scroll-mt-16">
+            <div id="faqs" className="mt-6 scroll-mt-40">
               <SecTag s="faqs" />
               <SectionHeading icon="❓">Frequently Asked Questions</SectionHeading>
             </div>
