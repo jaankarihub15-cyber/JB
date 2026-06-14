@@ -115,6 +115,7 @@ export default async function ExamDetailPage({ params }: Props) {
           <div className="pt-6">
             <Breadcrumb items={[{ label: "Home", href: "/" }, { label: "Exam", href: "/exam" }, { label: e.title }]} />
           </div>
+          <div className="-mb-6 md:-mb-10">
           <HeroV2
             title={e.title}
             subtitle={e.hero?.one_liner || e.meta_description}
@@ -123,11 +124,12 @@ export default async function ExamDetailPage({ params }: Props) {
             primaryStat={primaryStat}
             quickActions={quickActions.length > 0 ? quickActions : undefined}
           />
+          </div>
         </div>
       </div>
 
       {/* STICKY CHIP NAV */}
-      <nav className="sticky top-0 z-20 bg-white/95 backdrop-blur border-b border-border">
+      <nav className="lg:hidden sticky top-0 z-20 bg-white/95 backdrop-blur border-b border-border">
         <div className="max-w-[1140px] mx-auto px-5 md:px-6">
           <div className="flex gap-1.5 overflow-x-auto whitespace-nowrap py-2.5">
             {navItems.map((it, i) => (
