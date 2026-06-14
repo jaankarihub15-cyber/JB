@@ -1,27 +1,38 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 
-// ── Smart chip nav: tracks which section is at the top of the viewport ──
 export function ExamChipNav({ items }: { items: { id: string; text: string }[] }) {
   const [activeId, setActiveId] = useState("");
+  const pauseRef = useRef(false);
 
   useEffect(() => {
-    const OFFSET = 180; // header (64) + chip bar (~100) + buffer
+    const OFFSET = 180;
     const handleScroll = () => {
-      let current = "";
+      if (pauseRef.current) return;
+      let pick = "";
+      let bestTop = -Infinity;
       for (const item of items) {
         const el = document.getElementById(item.id);
         if (!el) continue;
         const top = el.getBoundingClientRect().top;
-        if (top <= OFFSET) current = item.id;
+        // Pick the section closest to the top that has scrolled past OFFSET
+        if (top <= OFFSET && top > bestTop) {
+          bestTop = top;
+          pick = item.id;
+        }
       }
-      setActiveId(current);
+      if (pick) setActiveId(pick);
     };
     window.addEventListener("scroll", handleScroll, { passive: true });
-    handleScroll();
     return () => window.removeEventListener("scroll", handleScroll);
   }, [items]);
+
+  const handleClick = (id: string) => {
+    setActiveId(id);
+    pauseRef.current = true;
+    setTimeout(() => { pauseRef.current = false; }, 1000);
+  };
 
   if (!items || items.length < 2) return null;
   return (
@@ -32,6 +43,7 @@ export function ExamChipNav({ items }: { items: { id: string; text: string }[] }
             <a
               key={it.id}
               href={`#${it.id}`}
+              onClick={() => handleClick(it.id)}
               className={`text-[12px] font-semibold px-3.5 py-2 rounded-[10px] shrink-0 no-underline transition-colors ${
                 activeId === it.id
                   ? "bg-accent-light text-accent"
@@ -47,7 +59,6 @@ export function ExamChipNav({ items }: { items: { id: string; text: string }[] }
   );
 }
 
-// ── Salary-first lead section ──
 export function SalaryLead({ salary, posts }: {
   salary?: { intro?: string; rows?: { post: string; amount: string }[] };
   posts?: { post: string; in_hand_salary: string }[];
