@@ -41,21 +41,6 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   };
 }
 
-// Section color scheme
-const SEC = {
-  salary:  { emoji: "💰", label: "Salary",     bg: "bg-accent-light",  tx: "text-accent" },
-  syllabus:{ emoji: "📘", label: "Syllabus & Pattern", bg: "bg-[#FEF3C7]", tx: "text-[#92400E]" },
-  elig:    { emoji: "✅", label: "Eligibility", bg: "bg-[#DBEAFE]",     tx: "text-[#1E40AF]" },
-  dates:   { emoji: "📅", label: "Dates",       bg: "bg-[#FEE2E2]",    tx: "text-[#991B1B]" },
-  prep:    { emoji: "📚", label: "Preparation", bg: "bg-[#EDE9FE]",    tx: "text-[#6D28D9]" },
-  faqs:    { emoji: "❓", label: "Quick Answers",bg: "bg-[#F5F5F2]",   tx: "text-text-muted" },
-};
-
-function SecTag({ s }: { s: keyof typeof SEC }) {
-  const c = SEC[s];
-  return <div className={`inline-flex items-center gap-1.5 text-[10.5px] font-extrabold tracking-[0.07em] uppercase px-3 py-1.5 rounded-[10px] ${c.bg} ${c.tx} mb-3`}>{c.emoji} {c.label}</div>;
-}
-
 export default async function ExamDetailPage({ params }: Props) {
   const { slug } = await params;
   const e = getExamBySlug(slug) as any;
@@ -66,11 +51,11 @@ export default async function ExamDetailPage({ params }: Props) {
   // Build nav items for sticky chips + TOC sidebar
   const navItems: { id: string; text: string }[] = [
     ...(hasSalary ? [{ id: "salary", text: "💰 Salary" }] : []),
-    { id: "overview", text: "📋 Overview" },
+    ...(e.key_details?.length > 0 ? [{ id: "eligibility", text: "✅ Eligibility" }] : []),
     ...(e.exam_pattern?.length > 0 ? [{ id: "syllabus", text: "📘 Syllabus" }] : []),
     ...(e.important_dates?.length > 0 ? [{ id: "dates", text: "📅 Dates" }] : []),
-    ...(e.exam_prep?.books?.length > 0 ? [{ id: "books", text: "📖 Books" }] : []),
     ...(e.preparation_tips?.length > 0 ? [{ id: "prep", text: "📚 Prep" }] : []),
+    ...(e.exam_prep?.books?.length > 0 ? [{ id: "books", text: "📖 Books" }] : []),
     ...(e.faqs?.length > 0 ? [{ id: "faqs", text: "❓ FAQs" }] : []),
   ];
 
@@ -141,11 +126,10 @@ export default async function ExamDetailPage({ params }: Props) {
             {/* SALARY FIRST */}
             <SalaryLead salary={e.salary_table} posts={e.major_posts} />
 
-            {/* KEY DETAILS */}
+            {/* ELIGIBILITY */}
             {e.key_details && e.key_details.length > 0 && (
-              <div id="overview" className="mt-6 scroll-mt-40">
-                <SecTag s="elig" />
-                <SectionHeading icon="📋">Key Details</SectionHeading>
+              <div id="eligibility" className="mt-6 scroll-mt-40">
+                <SectionHeading icon="✅">Eligibility &amp; Key Details</SectionHeading>
                 <Card>{e.key_details.map((d: any) => (<InfoRow key={d.label} label={d.label} value={d.value} highlight={d.highlight} />))}</Card>
               </div>
             )}
@@ -153,7 +137,6 @@ export default async function ExamDetailPage({ params }: Props) {
             {/* EXAM PATTERN */}
             {e.exam_pattern && e.exam_pattern.length > 0 && e.exam_pattern.map((tier: any, ti: number) => (
               <div key={tier.tier_name} id={ti === 0 ? "syllabus" : undefined} className={ti === 0 ? "mt-6 scroll-mt-40" : "mt-4"}>
-                {ti === 0 && <SecTag s="syllabus" />}
                 <SectionHeading icon="📝">{tier.tier_name}</SectionHeading>
                 <Card className="px-6 py-5">
                   {tier.description && (<p className="text-base text-text-secondary leading-[1.75] mb-5" dangerouslySetInnerHTML={{ __html: tier.description }} />)}
@@ -217,7 +200,6 @@ export default async function ExamDetailPage({ params }: Props) {
             {/* IMPORTANT DATES */}
             {e.important_dates && e.important_dates.length > 0 && (
               <div id="dates" className="mt-6 scroll-mt-40">
-                <SecTag s="dates" />
                 <SectionHeading icon="📅">Important Dates</SectionHeading>
                 <Card>{e.important_dates.map((d: any) => (<InfoRow key={d.label} label={d.label} value={d.value} highlight={d.highlight} />))}</Card>
               </div>
@@ -226,7 +208,6 @@ export default async function ExamDetailPage({ params }: Props) {
             {/* PREPARATION */}
             {e.preparation_tips && e.preparation_tips.length > 0 && (
               <div id="prep" className="mt-6 scroll-mt-40">
-                <SecTag s="prep" />
                 <SectionHeading icon="📚">Preparation Strategy</SectionHeading>
                 <Card className="px-6 py-5">{e.preparation_tips.map((tip: string, i: number) => (<div key={i} className={`py-3 text-base text-text-secondary leading-relaxed flex gap-3 ${i < e.preparation_tips.length - 1 ? "border-b border-border" : ""}`}><span className="text-accent font-bold shrink-0">{i + 1}.</span><span dangerouslySetInnerHTML={{ __html: tip }} /></div>))}</Card>
               </div>
@@ -249,7 +230,6 @@ export default async function ExamDetailPage({ params }: Props) {
 
             {/* FAQS */}
             <div id="faqs" className="mt-6 scroll-mt-40">
-              <SecTag s="faqs" />
               <SectionHeading icon="❓">Frequently Asked Questions</SectionHeading>
             </div>
             <Card>{e.faqs.map((f: any) => (<FAQ key={f.question} question={f.question} answer={f.answer} />))}</Card>
