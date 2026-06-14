@@ -1,19 +1,22 @@
 "use client";
 
-import { useState, useEffect, useRef } from "react";
+import { useState, useEffect } from "react";
 
 // ── Smart chip nav: tracks active section via IntersectionObserver ──
+// Uses the same rootMargin as TocSidebarV2 (proven to work on paisa pages).
 export function ExamChipNav({ items }: { items: { id: string; text: string }[] }) {
-  const [activeId, setActiveId] = useState(items[0]?.id || "");
-  const navRef = useRef<HTMLDivElement>(null);
+  const [activeId, setActiveId] = useState("");
 
   useEffect(() => {
     const observer = new IntersectionObserver(
       (entries) => {
-        const visible = entries.find((e) => e.isIntersecting);
-        if (visible) setActiveId(visible.target.id);
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            setActiveId(entry.target.id);
+          }
+        });
       },
-      { rootMargin: "-160px 0px -60% 0px" }
+      { rootMargin: "-80px 0px -70% 0px" }
     );
     items.forEach((item) => {
       const el = document.getElementById(item.id);
@@ -22,22 +25,14 @@ export function ExamChipNav({ items }: { items: { id: string; text: string }[] }
     return () => observer.disconnect();
   }, [items]);
 
-  // Auto-scroll the active chip into view within the nav
-  useEffect(() => {
-    if (!navRef.current) return;
-    const active = navRef.current.querySelector(`[data-id="${activeId}"]`);
-    if (active) active.scrollIntoView({ block: "nearest", inline: "center", behavior: "smooth" });
-  }, [activeId]);
-
   if (!items || items.length < 2) return null;
   return (
     <nav className="lg:hidden sticky top-16 z-20 bg-white/95 backdrop-blur border-b border-border">
       <div className="max-w-[1140px] mx-auto px-5 md:px-6">
-        <div ref={navRef} className="flex gap-1.5 flex-wrap py-2.5">
+        <div className="flex gap-1.5 flex-wrap py-2.5">
           {items.map((it) => (
             <a
               key={it.id}
-              data-id={it.id}
               href={`#${it.id}`}
               className={`text-[12px] font-semibold px-3.5 py-2 rounded-[10px] shrink-0 no-underline transition-colors ${
                 activeId === it.id
