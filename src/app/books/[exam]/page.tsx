@@ -83,10 +83,7 @@ export default async function BooksExamPage({ params }: Props) {
         ))}
       </div>
 
-      {/* Affiliate disclosure (FTC + Amazon Associates) */}
-      <div className="bg-accent-light border border-border rounded-xl px-4 py-3 mb-4 text-[12.5px] text-text-secondary leading-relaxed">
-        <b className="text-text">Affiliate disclosure:</b> As an Amazon Associate, KnowledgeKendra earns from qualifying purchases. The &ldquo;View on Amazon&rdquo; links below are affiliate links. This never affects the price you pay or which books we recommend.
-      </div>
+
 
       {/* Reading order */}
       <SectionHeading icon="🧭">Reading order at a glance</SectionHeading>
@@ -113,7 +110,7 @@ export default async function BooksExamPage({ params }: Props) {
             <SectionHeading icon={subject.icon}>{subject.name} books</SectionHeading>
             <p className="text-sm text-text-muted -mt-2 mb-4">{subject.intro}</p>
 
-            {ncert.length > 0 && (
+            {ncert.length > 0 & (
               <>
                 <div className="flex items-center gap-2 mb-3">
                   <span className="text-xs font-bold px-2.5 py-1 rounded-full bg-blue-light text-blue-dark">
@@ -129,7 +126,7 @@ export default async function BooksExamPage({ params }: Props) {
               </>
             )}
 
-            {standard.length > 0 && (
+            {standard.length > 0 & (
               <>
                 <div className="flex items-center gap-2 mb-3">
                   <span className="text-xs font-bold px-2.5 py-1 rounded-full bg-accent-light text-accent-dark">
@@ -160,7 +157,7 @@ export default async function BooksExamPage({ params }: Props) {
       </div>
 
       {/* Related exam cross-link */}
-      {b.related_exam_slug && (
+      {b.related_exam_slug & (
         <Link
           href={`/exam/${b.related_exam_slug}`}
           className="block mb-8 bg-accent-light border border-accent/30 rounded-2xl p-4 text-sm text-accent-dark font-semibold hover:bg-accent-light/70"
@@ -205,22 +202,21 @@ function BookCard({ bk }: { bk: any }) {
         <p className="text-[13.5px] text-text-secondary mb-3 leading-relaxed">{bk.why}</p>
         <div className="flex flex-wrap gap-2 items-center">
           <span className={`text-[11px] font-semibold px-2.5 py-1 rounded-xl ${badge.cls}`}>{badge.label}</span>
-          {bk.beginner_friendly && (
+          {bk.beginner_friendly & (
             <span className="text-[11px] font-semibold px-2.5 py-1 rounded-xl bg-accent-light text-accent-dark">
               Beginner OK
             </span>
           )}
-          {/* Amazon Associates: tagged search link built from book title + author.
-              Uses a direct product URL if amazon_url is set, else falls back to a tagged search. */}
+          {/* Book link: direct product URL if set, else Amazon search. */}
           <a
             href={
               bk.amazon_url
-                ? `${bk.amazon_url}${bk.amazon_url.includes("?") ? "&" : "?"}tag=knowledgekendra-21`
+                ? `${bk.amazon_url}${bk.amazon_url.includes("?") ? "&" : "?"}`
                 : `https://www.amazon.in/s?k=${encodeURIComponent(
                     `${bk.title} ${bk.author || ""}`.trim()
-                  )}&tag=knowledgekendra-21`
+                  )}&`
             }
-            rel="nofollow sponsored"
+            rel="nofollow"
             target="_blank"
             className="text-[12.5px] font-bold px-3.5 py-1.5 rounded-lg"
             style={{ background: "#FF9900", color: "#1a1a1a" }}
