@@ -134,10 +134,13 @@ export default async function ExamDetailPage({ params }: Props) {
               </div>
             )}
 
-            {/* EXAM PATTERN */}
-            {e.exam_pattern && e.exam_pattern.length > 0 && e.exam_pattern.map((tier: any, ti: number) => (
-              <div key={tier.tier_name} id={ti === 0 ? "syllabus" : undefined} className={ti === 0 ? "mt-6 scroll-mt-40" : "mt-4"}>
-                <SectionHeading icon="📝">{tier.tier_name}</SectionHeading>
+            {/* SYLLABUS & EXAM PATTERN */}
+            {e.exam_pattern && e.exam_pattern.length > 0 && (
+              <div id="syllabus" className="mt-6 scroll-mt-40">
+                <SectionHeading icon="📘">Syllabus &amp; Exam Pattern</SectionHeading>
+                {e.exam_pattern.map((tier: any, ti: number) => (
+                  <div key={tier.tier_name} className={ti > 0 ? "mt-4" : ""}>
+                    <SectionHeading icon="📝">{tier.tier_name}</SectionHeading>
                 <Card className="px-6 py-5">
                   {tier.description && (<p className="text-base text-text-secondary leading-[1.75] mb-5" dangerouslySetInnerHTML={{ __html: tier.description }} />)}
                   {tier.subjects.map((sub: any) => (
@@ -151,6 +154,8 @@ export default async function ExamDetailPage({ params }: Props) {
                 </Card>
               </div>
             ))}
+              </div>
+            )}
 
             {/* POSTS FULL DETAIL (only if salary_table exists, avoiding duplicate) */}
             {e.salary_table?.rows?.length > 0 && e.major_posts && e.major_posts.length > 0 && (
