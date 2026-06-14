@@ -112,10 +112,11 @@ export default async function ExamDetailPage({ params }: Props) {
       {/* V2 HERO BAND */}
       <div className="hero-band-v2">
         <div className="max-w-[1140px] mx-auto px-5 md:px-6">
-          <div className="pt-6">
+          <div className="pt-6 flex justify-between items-start">
             <Breadcrumb items={[{ label: "Home", href: "/" }, { label: "Exam", href: "/exam" }, { label: e.title }]} />
+            <SaveForLater slug={slug} title={e.title} url={`/exam/${slug}`} />
           </div>
-          <div className="-mb-6 md:-mb-10">
+          <div className="-mb-10 md:-mb-16">
           <HeroV2
             title={e.title}
             subtitle={e.hero?.one_liner || e.meta_description}
@@ -144,8 +145,6 @@ export default async function ExamDetailPage({ params }: Props) {
         <div className="lg:grid lg:grid-cols-[240px_minmax(0,1fr)_180px] lg:gap-10 lg:items-start mt-4">
           <TocSidebarV2 items={navItems} />
           <div className="min-w-0">
-
-            <div className="flex justify-end mb-2"><SaveForLater slug={slug} title={e.title} url={`/exam/${slug}`} /></div>
 
             {/* SALARY FIRST */}
             <SalaryLead salary={e.salary_table} posts={e.major_posts} />
