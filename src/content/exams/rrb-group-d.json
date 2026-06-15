@@ -688,5 +688,40 @@
       "value": "18–33 years"
     }
   ],
-  "status": "upcoming"
+  "status": "upcoming",
+  "eligibility_data": {
+    "reference_date": "As per notification",
+    "default_education": "10th pass from recognised board",
+    "relaxations": [
+      {
+        "category": "OBC",
+        "years": 3
+      },
+      {
+        "category": "SC/ST",
+        "years": 5
+      },
+      {
+        "category": "PwD",
+        "years": 10
+      }
+    ],
+    "posts": [
+      {
+        "post": "Track Maintainer Grade-IV",
+        "min_age": 18,
+        "max_age": 33
+      },
+      {
+        "post": "Helper/Assistant in Workshops",
+        "min_age": 18,
+        "max_age": 33
+      },
+      {
+        "post": "Porter",
+        "min_age": 18,
+        "max_age": 33
+      }
+    ]
+  }
 }

@@ -677,5 +677,35 @@
       "value": "18–25 years"
     }
   ],
-  "status": "upcoming"
+  "status": "upcoming",
+  "eligibility_data": {
+    "reference_date": "As per notification",
+    "default_education": "10th pass from recognised board",
+    "relaxations": [
+      {
+        "category": "OBC",
+        "years": 3
+      },
+      {
+        "category": "SC/ST",
+        "years": 5
+      },
+      {
+        "category": "PwD",
+        "years": 10
+      }
+    ],
+    "posts": [
+      {
+        "post": "Multi Tasking Staff (MTS)",
+        "min_age": 18,
+        "max_age": 25
+      },
+      {
+        "post": "Havaldar (CBIC)",
+        "min_age": 18,
+        "max_age": 25
+      }
+    ]
+  }
 }

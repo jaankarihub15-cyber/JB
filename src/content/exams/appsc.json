@@ -975,5 +975,65 @@
       "value": "₹56K–2L/mo"
     }
   ],
-  "status": "upcoming"
+  "status": "upcoming",
+  "eligibility_data": {
+    "reference_date": "As per notification",
+    "default_education": "Bachelor's degree from any recognised university",
+    "relaxations": [
+      {
+        "category": "OBC",
+        "years": 3
+      },
+      {
+        "category": "SC/ST",
+        "years": 5
+      },
+      {
+        "category": "PwD",
+        "years": 10
+      }
+    ],
+    "posts": [
+      {
+        "post": "Deputy Collector (Group 1)",
+        "min_age": 18,
+        "max_age": 47
+      },
+      {
+        "post": "DSP (Group 1)",
+        "min_age": 18,
+        "max_age": 47
+      },
+      {
+        "post": "Revenue Divisional Officer",
+        "min_age": 18,
+        "max_age": 47
+      },
+      {
+        "post": "Joint Collector",
+        "min_age": 18,
+        "max_age": 47
+      },
+      {
+        "post": "Tehsildar (Group 2)",
+        "min_age": 18,
+        "max_age": 47
+      },
+      {
+        "post": "Municipal Commissioner (Group 2)",
+        "min_age": 18,
+        "max_age": 47
+      },
+      {
+        "post": "Sub-Registrar (Group 2)",
+        "min_age": 18,
+        "max_age": 47
+      },
+      {
+        "post": "Assistant Director (Various) (Group 1)",
+        "min_age": 18,
+        "max_age": 47
+      }
+    ]
+  }
 }

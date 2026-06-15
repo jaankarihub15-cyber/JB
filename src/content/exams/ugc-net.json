@@ -626,5 +626,17 @@
       "value": "₹31,000/mo"
     }
   ],
-  "status": "upcoming"
+  "status": "upcoming",
+  "eligibility_data": {
+    "reference_date": "As per notification",
+    "default_education": "Master's degree",
+    "relaxations": [],
+    "posts": [
+      {
+        "post": "UGC NET",
+        "min_age": 17,
+        "max_age": 65
+      }
+    ]
+  }
 }

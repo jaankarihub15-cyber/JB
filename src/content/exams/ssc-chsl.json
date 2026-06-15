@@ -680,5 +680,45 @@
       "value": "₹20–35K/mo"
     }
   ],
-  "status": "upcoming"
+  "status": "upcoming",
+  "eligibility_data": {
+    "reference_date": "As per notification",
+    "default_education": "12th pass (10+2) from recognised board",
+    "relaxations": [
+      {
+        "category": "OBC",
+        "years": 3
+      },
+      {
+        "category": "SC/ST",
+        "years": 5
+      },
+      {
+        "category": "PwD",
+        "years": 10
+      }
+    ],
+    "posts": [
+      {
+        "post": "Lower Division Clerk (LDC) / Junior Secretariat Assistant (JSA)",
+        "min_age": 18,
+        "max_age": 27
+      },
+      {
+        "post": "Postal Assistant / Sorting Assistant",
+        "min_age": 18,
+        "max_age": 27
+      },
+      {
+        "post": "Data Entry Operator (DEO)",
+        "min_age": 18,
+        "max_age": 27
+      },
+      {
+        "post": "DEO Grade A",
+        "min_age": 18,
+        "max_age": 27
+      }
+    ]
+  }
 }

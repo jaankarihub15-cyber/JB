@@ -665,5 +665,17 @@
       "value": "₹2,400"
     }
   ],
-  "status": "upcoming"
+  "status": "upcoming",
+  "eligibility_data": {
+    "reference_date": "As per notification",
+    "default_education": "Bachelor's degree from any recognised university",
+    "relaxations": [],
+    "posts": [
+      {
+        "post": "CAT",
+        "min_age": 17,
+        "max_age": 65
+      }
+    ]
+  }
 }

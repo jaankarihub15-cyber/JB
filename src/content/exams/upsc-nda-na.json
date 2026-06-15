@@ -687,5 +687,45 @@
       "value": "₹56K+ basic"
     }
   ],
-  "status": "upcoming"
+  "status": "upcoming",
+  "eligibility_data": {
+    "reference_date": "As per notification",
+    "default_education": "Bachelor's degree from any recognised university",
+    "relaxations": [
+      {
+        "category": "OBC",
+        "years": 3
+      },
+      {
+        "category": "SC/ST",
+        "years": 5
+      },
+      {
+        "category": "PwD",
+        "years": 10
+      }
+    ],
+    "posts": [
+      {
+        "post": "Officer (Lieutenant) via IMA - Indian Military Academy",
+        "min_age": 20,
+        "max_age": 25
+      },
+      {
+        "post": "Officer (Sub-Lieutenant) via Naval Academy",
+        "min_age": 20,
+        "max_age": 25
+      },
+      {
+        "post": "Officer (Flying Officer) via Air Force Academy",
+        "min_age": 20,
+        "max_age": 25
+      },
+      {
+        "post": "Officer (Lieutenant) via OTA - Officers Training Academy (SSC)",
+        "min_age": 20,
+        "max_age": 25
+      }
+    ]
+  }
 }

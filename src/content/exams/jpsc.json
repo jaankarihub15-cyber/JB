@@ -814,5 +814,65 @@
       "value": "April 12, 2026"
     }
   ],
-  "status": "upcoming"
+  "status": "upcoming",
+  "eligibility_data": {
+    "reference_date": "As per notification",
+    "default_education": "Bachelor's degree from any recognised university",
+    "relaxations": [
+      {
+        "category": "OBC",
+        "years": 3
+      },
+      {
+        "category": "SC/ST",
+        "years": 5
+      },
+      {
+        "category": "PwD",
+        "years": 10
+      }
+    ],
+    "posts": [
+      {
+        "post": "Deputy Collector",
+        "min_age": 21,
+        "max_age": 37
+      },
+      {
+        "post": "Deputy Superintendent of Police (DSP)",
+        "min_age": 21,
+        "max_age": 37
+      },
+      {
+        "post": "Block Development Officer (BDO)",
+        "min_age": 21,
+        "max_age": 37
+      },
+      {
+        "post": "Circle Officer",
+        "min_age": 21,
+        "max_age": 37
+      },
+      {
+        "post": "Assistant Commissioner (Excise)",
+        "min_age": 21,
+        "max_age": 37
+      },
+      {
+        "post": "Sub-Registrar",
+        "min_age": 21,
+        "max_age": 37
+      },
+      {
+        "post": "Assistant Municipal Commissioner",
+        "min_age": 21,
+        "max_age": 37
+      },
+      {
+        "post": "Health Officer (District)",
+        "min_age": 21,
+        "max_age": 37
+      }
+    ]
+  }
 }

@@ -795,5 +795,50 @@
       "value": "Rs 56K-2.5L/mo"
     }
   ],
-  "status": "upcoming"
+  "status": "upcoming",
+  "eligibility_data": {
+    "reference_date": "As per notification",
+    "default_education": "Bachelor's degree from any recognised university",
+    "relaxations": [
+      {
+        "category": "OBC",
+        "years": 3
+      },
+      {
+        "category": "SC/ST",
+        "years": 5
+      },
+      {
+        "category": "PwD",
+        "years": 10
+      }
+    ],
+    "posts": [
+      {
+        "post": "IAS (Indian Administrative Service)",
+        "min_age": 21,
+        "max_age": 32
+      },
+      {
+        "post": "IPS (Indian Police Service)",
+        "min_age": 21,
+        "max_age": 32
+      },
+      {
+        "post": "IFS (Indian Foreign Service)",
+        "min_age": 21,
+        "max_age": 32
+      },
+      {
+        "post": "IRS (Indian Revenue Service)",
+        "min_age": 21,
+        "max_age": 32
+      },
+      {
+        "post": "IRTS (Indian Railway Traffic Service)",
+        "min_age": 21,
+        "max_age": 32
+      }
+    ]
+  }
 }

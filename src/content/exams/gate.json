@@ -663,5 +663,17 @@
       "value": "₹40–80K/mo"
     }
   ],
-  "status": "upcoming"
+  "status": "upcoming",
+  "eligibility_data": {
+    "reference_date": "As per notification",
+    "default_education": "B.E./B.Tech or equivalent from recognised institution",
+    "relaxations": [],
+    "posts": [
+      {
+        "post": "GATE",
+        "min_age": 17,
+        "max_age": 65
+      }
+    ]
+  }
 }

@@ -792,5 +792,17 @@
       "value": "Pen & Paper (OMR)"
     }
   ],
-  "status": "upcoming"
+  "status": "upcoming",
+  "eligibility_data": {
+    "reference_date": "As per notification",
+    "default_education": "12th pass (10+2) from recognised board",
+    "relaxations": [],
+    "posts": [
+      {
+        "post": "NEET UG",
+        "min_age": 17,
+        "max_age": 65
+      }
+    ]
+  }
 }

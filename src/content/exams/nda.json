@@ -671,5 +671,18 @@
       "value": "Rs 56,100/mo"
     }
   ],
-  "status": "upcoming"
+  "status": "upcoming",
+  "eligibility_data": {
+    "reference_date": "As per notification",
+    "default_education": "12th pass (10+2) from recognised board",
+    "relaxations": [],
+    "posts": [
+      {
+        "post": "NDA 2",
+        "min_age": 16,
+        "max_age": 19,
+        "note": "Unmarried male candidates only. Age as per notification date."
+      }
+    ]
+  }
 }

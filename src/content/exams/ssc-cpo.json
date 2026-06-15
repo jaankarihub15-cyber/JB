@@ -663,5 +663,35 @@
       "value": "₹35–50K/mo"
     }
   ],
-  "status": "upcoming"
+  "status": "upcoming",
+  "eligibility_data": {
+    "reference_date": "As per notification",
+    "default_education": "Bachelor's degree from any recognised university",
+    "relaxations": [
+      {
+        "category": "OBC",
+        "years": 3
+      },
+      {
+        "category": "SC/ST",
+        "years": 5
+      },
+      {
+        "category": "PwD",
+        "years": 10
+      }
+    ],
+    "posts": [
+      {
+        "post": "Sub Inspector - Delhi Police",
+        "min_age": 20,
+        "max_age": 30
+      },
+      {
+        "post": "Sub Inspector - CAPF (BSF, CRPF, CISF, ITBP, SSB)",
+        "min_age": 20,
+        "max_age": 30
+      }
+    ]
+  }
 }

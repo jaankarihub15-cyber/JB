@@ -688,5 +688,40 @@
       "value": "7 CAPFs + NIA + SSF"
     }
   ],
-  "status": "upcoming"
+  "status": "upcoming",
+  "eligibility_data": {
+    "reference_date": "As per notification",
+    "default_education": "10th pass from recognised board",
+    "relaxations": [
+      {
+        "category": "OBC",
+        "years": 3
+      },
+      {
+        "category": "SC/ST",
+        "years": 5
+      },
+      {
+        "category": "PwD",
+        "years": 10
+      }
+    ],
+    "posts": [
+      {
+        "post": "Constable (GD) - BSF",
+        "min_age": 18,
+        "max_age": 23
+      },
+      {
+        "post": "Constable (GD) - CRPF",
+        "min_age": 18,
+        "max_age": 23
+      },
+      {
+        "post": "Constable (GD) - CISF",
+        "min_age": 18,
+        "max_age": 23
+      }
+    ]
+  }
 }

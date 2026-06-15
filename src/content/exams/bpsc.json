@@ -847,5 +847,45 @@
       "value": "₹56K–2L/mo"
     }
   ],
-  "status": "upcoming"
+  "status": "upcoming",
+  "eligibility_data": {
+    "reference_date": "As per notification",
+    "default_education": "Bachelor's degree from any recognised university",
+    "relaxations": [
+      {
+        "category": "OBC",
+        "years": 3
+      },
+      {
+        "category": "SC/ST",
+        "years": 5
+      },
+      {
+        "category": "PwD",
+        "years": 10
+      }
+    ],
+    "posts": [
+      {
+        "post": "Sub-Divisional Officer (SDO/SDM)",
+        "min_age": 20,
+        "max_age": 37
+      },
+      {
+        "post": "Deputy SP (DSP)",
+        "min_age": 20,
+        "max_age": 37
+      },
+      {
+        "post": "Circle Officer (CO)",
+        "min_age": 20,
+        "max_age": 37
+      },
+      {
+        "post": "District Officer (Various specialized)",
+        "min_age": 20,
+        "max_age": 37
+      }
+    ]
+  }
 }

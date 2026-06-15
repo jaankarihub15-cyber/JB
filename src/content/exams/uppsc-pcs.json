@@ -858,5 +858,45 @@
       "value": "5+ Lakh"
     }
   ],
-  "status": "upcoming"
+  "status": "upcoming",
+  "eligibility_data": {
+    "reference_date": "As per notification",
+    "default_education": "Bachelor's degree from any recognised university",
+    "relaxations": [
+      {
+        "category": "OBC",
+        "years": 3
+      },
+      {
+        "category": "SC/ST",
+        "years": 5
+      },
+      {
+        "category": "PwD",
+        "years": 10
+      }
+    ],
+    "posts": [
+      {
+        "post": "Sub-Divisional Magistrate (SDM)",
+        "min_age": 21,
+        "max_age": 40
+      },
+      {
+        "post": "Deputy SP (DSP)",
+        "min_age": 21,
+        "max_age": 40
+      },
+      {
+        "post": "Block Development Officer (BDO)",
+        "min_age": 21,
+        "max_age": 40
+      },
+      {
+        "post": "Treasury Officer",
+        "min_age": 21,
+        "max_age": 40
+      }
+    ]
+  }
 }
