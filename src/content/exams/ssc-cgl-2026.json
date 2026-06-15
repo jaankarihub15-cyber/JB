@@ -1328,5 +1328,38 @@
     "New sectional timing in Tier 2: each session now has a fixed time (no overall pool).",
     "AAO and AAccO posts reintroduced after being absent in recent cycles.",
     "Vacancies increased to 12,256, up from 8,415 in the previous cycle."
-  ]
+  ],
+  "cutoff_data": {
+    "total_questions": 100,
+    "marks_per_question": 2,
+    "negative_per_wrong": 0.5,
+    "safe_buffer": 20,
+    "cutoffs": [
+      {
+        "category": "General",
+        "year": 2024,
+        "score": 142
+      },
+      {
+        "category": "OBC",
+        "year": 2024,
+        "score": 126
+      },
+      {
+        "category": "SC",
+        "year": 2024,
+        "score": 120
+      },
+      {
+        "category": "ST",
+        "year": 2024,
+        "score": 108
+      },
+      {
+        "category": "PwD",
+        "year": 2024,
+        "score": 98
+      }
+    ]
+  }
 }

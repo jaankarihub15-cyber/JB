@@ -9,6 +9,7 @@ import { HeroV2 } from "@/components/hero-v2";
 import { TocSidebarV2 } from "@/components/toc-sidebar-v2";
 import { SalaryLead, ExamChipNav, DashboardStrip } from "@/components/exam-answer-layer";
 import { ExamEligibilityChecker } from "@/components/exam-eligibility-checker";
+import { ExamScoreCalculator } from "@/components/exam-score-calculator";
 import { notFound } from "next/navigation";
 import { getExamBySlug, getAllExamSlugs } from "@/lib/content";
 import {
@@ -169,6 +170,9 @@ export default async function ExamDetailPage({ params }: Props) {
                 )}
               </div>
             )}
+
+            {/* SCORE CALCULATOR (hides when cutoff_data absent) */}
+            <ExamScoreCalculator data={e.cutoff_data} />
 
             {/* POSTS FULL DETAIL (only if salary_table exists, avoiding duplicate) */}
             {e.salary_table?.rows?.length > 0 && e.major_posts && e.major_posts.length > 0 && (
