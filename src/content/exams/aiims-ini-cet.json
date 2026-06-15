@@ -1,6 +1,6 @@
 {
   "slug": "aiims-ini-cet",
-  "title": "AIIMS INI-CET 2026: Medical Residency Entrance, ₹55,000/month",
+  "title": "AIIMS INI-CET 2026: PG Medical Entrance, ₹55K/month",
   "meta_description": "AIIMS INI-CET postgraduate medical entrance exam. 3000+ MD/MS seats. ₹55,000/month resident salary. Online 200 MCQs.",
   "hero": {
     "status": "active",
@@ -58,9 +58,34 @@
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "",
-      "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">AIIMS INI-CET</text><rect x=\"20\" y=\"40\" width=\"153\" height=\"65\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"96\" y=\"65\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">Twice/year</text><text x=\"96\" y=\"90\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Frequency</text><rect x=\"188\" y=\"40\" width=\"153\" height=\"65\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"264\" y=\"65\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">7+ AIIMS</text><text x=\"264\" y=\"90\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Institutes</text><rect x=\"356\" y=\"40\" width=\"153\" height=\"65\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"432\" y=\"65\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">3 hours</text><text x=\"432\" y=\"90\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Duration</text><rect x=\"524\" y=\"40\" width=\"153\" height=\"65\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"600\" y=\"65\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">200 MCQs</text><text x=\"600\" y=\"90\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Questions</text></svg>"
+      "type": "stat_grid",
+      "heading": "INI-CET at a Glance",
+      "items": [
+        {
+          "icon": "📝",
+          "value": "200",
+          "label": "Questions",
+          "color": "green"
+        },
+        {
+          "icon": "⏱️",
+          "value": "2 Hours",
+          "label": "Duration",
+          "color": "blue"
+        },
+        {
+          "icon": "🏥",
+          "value": "3000+",
+          "label": "PG Seats",
+          "color": "green"
+        },
+        {
+          "icon": "💰",
+          "value": "₹55,000+",
+          "label": "Monthly Stipend",
+          "color": "amber"
+        }
+      ]
     },
     {
       "type": "text",
@@ -96,42 +121,31 @@
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "",
-      "svg": "<svg viewBox=\"0 0 700 110\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Exam Process</text><rect x=\"28\" y=\"40\" width=\"140\" height=\"55\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"98\" y=\"62\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#1B6B4A\">Register</text><text x=\"98\" y=\"82\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#4B5563\">Online portal</text><text x=\"173\" y=\"72\" font-family=\"sans-serif\" font-size=\"18\" fill=\"#1B6B4A\">→</text><rect x=\"196\" y=\"40\" width=\"140\" height=\"55\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"266\" y=\"62\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#1B6B4A\">Admit card</text><text x=\"266\" y=\"82\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#4B5563\">Download</text><text x=\"341\" y=\"72\" font-family=\"sans-serif\" font-size=\"18\" fill=\"#1B6B4A\">→</text><rect x=\"364\" y=\"40\" width=\"140\" height=\"55\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"434\" y=\"62\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#1B6B4A\">Appear exam</text><text x=\"434\" y=\"82\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#4B5563\">CBT mode</text><text x=\"509\" y=\"72\" font-family=\"sans-serif\" font-size=\"18\" fill=\"#1B6B4A\">→</text><rect x=\"532\" y=\"40\" width=\"140\" height=\"55\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"602\" y=\"62\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#1B6B4A\">Counseling</text><text x=\"602\" y=\"82\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#4B5563\">Merit-based</text></svg>"
-    },
-    {
-      "type": "text",
-      "heading": "Books and Resources",
-      "icon": "📚",
-      "content": [
-        "Start with NCERT textbooks Classes 6-12 as the foundation. Then use Laxmikanth (Polity), Ramesh Singh (Economy), Bipan Chandra (Modern History), Majid Husain (Geography).",
-        "For Quantitative Aptitude, R.S. Aggarwal is the standard.",
-        "Online resources are equally important. YouTube channels like Unacademy and Drishti IAS offer free lectures.",
-        "Join a test series - mock tests are the best predictor of exam success. Complete at least 30-50 full-length mocks before the exam.",
-        "Previous year papers are the most underrated resource. Solve at least 10 years' papers to understand the pattern, difficulty level, and frequently tested topics.",
-        "Many questions repeat with minor variations."
+      "type": "icon_list",
+      "heading": "Top Study Resources",
+      "items": [
+        {
+          "icon": "📚",
+          "title": "Marrow / PrepLadder",
+          "sub": "Video lectures + QBank. Most popular among toppers."
+        },
+        {
+          "icon": "📖",
+          "title": "DAMS / BHATIA",
+          "sub": "Classroom coaching with test series."
+        },
+        {
+          "icon": "📝",
+          "title": "Previous Year Papers",
+          "sub": "Last 5 years INI-CET papers are the best practice."
+        }
       ]
     },
     {
-      "type": "text",
-      "heading": "Daily Preparation Strategy",
-      "icon": "📅",
-      "content": [
-        "MORNING (6-9 AM): Study new topics - History, Geography, Polity. Take notes in your own words for better retention during revision.",
-        "MID-DAY (10 AM-1 PM): Practice problems and previous year papers. Mathematics, Reasoning, and subject-specific problem sets.",
-        "Time yourself to simulate exam conditions.",
-        "AFTERNOON (2-5 PM): Current affairs and revision. Read The Hindu or Indian Express, make notes on important events, revise morning topics using flashcards.",
-        "EVENING (6-9 PM): Mock tests and analysis. Take sectional or full-length mocks.",
-        "Spend equal time analyzing mistakes - understanding why you got each question wrong is more valuable than the test itself.",
-        "Consistency beats intensity. 6-8 focused hours daily for 6 months beats 14 hours for 2 months.",
-        "Take one day off per week to avoid burnout."
-      ]
-    },
-    {
-      "type": "svg_block",
-      "heading": "",
-      "svg": "<svg viewBox=\"0 0 700 260\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Exam Calendar</text><line x1=\"60\" y1=\"40\" x2=\"60\" y2=\"250\" stroke=\"#1B6B4A\" stroke-width=\"3\"/><circle cx=\"60\" cy=\"55\" r=\"10\" fill=\"#1B6B4A\"/><text x=\"60\" y=\"60\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"white\">1</text><text x=\"85\" y=\"52\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">Jan/Jul</text><text x=\"85\" y=\"70\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#4B5563\">Registration opens</text><circle cx=\"60\" cy=\"110\" r=\"10\" fill=\"#1B6B4A\"/><text x=\"60\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"white\">2</text><text x=\"85\" y=\"107\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">Feb/Aug</text><text x=\"85\" y=\"125\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#4B5563\">Admit card release</text><circle cx=\"60\" cy=\"165\" r=\"10\" fill=\"#1B6B4A\"/><text x=\"60\" y=\"170\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"white\">3</text><text x=\"85\" y=\"162\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">Mar/Sep</text><text x=\"85\" y=\"180\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#4B5563\">Exam conducted</text><circle cx=\"60\" cy=\"220\" r=\"10\" fill=\"#1B6B4A\"/><text x=\"60\" y=\"225\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"white\">4</text><text x=\"85\" y=\"217\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">Apr/Oct</text><text x=\"85\" y=\"235\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#4B5563\">Results & counseling</text></svg>"
+      "type": "modern_callout",
+      "variant": "tip",
+      "title": "Clinical subjects carry 55% of marks",
+      "content": "Medicine, Surgery, and OBG alone account for nearly 50 questions. Prioritise these three subjects in your last 2 months of revision."
     },
     {
       "type": "text",
@@ -154,11 +168,34 @@
       "content": "Start your preparation at least 6 months before the exam. Focus on previous year papers, maintain a consistent study schedule, and join a reliable test series.<br><br>Most successful candidates attempt the exam 2-3 times before clearing."
     },
     {
-      "type": "svg_block",
-      "heading": "Visual: AIIMS INI-CET 2026 Key Numbers",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">AIIMS, JIPMER, NIM</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Institutes</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">3000+ PG positions</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Seats</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">Online MCQ</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Exam Type</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">200 questions</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Questions</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
-      "caption": "Key numbers for AIIMS INI-CET 2026: Medical Re",
-      "description": "Quick overview of the most important numbers and facts."
+      "type": "stat_grid",
+      "heading": "Key Numbers",
+      "items": [
+        {
+          "icon": "🎯",
+          "value": "50%+",
+          "label": "Clinical Qs",
+          "color": "green"
+        },
+        {
+          "icon": "📊",
+          "value": "120-130",
+          "label": "Gen Cutoff",
+          "color": "blue"
+        },
+        {
+          "icon": "🏛️",
+          "value": "5+",
+          "label": "Institutes",
+          "color": "amber"
+        },
+        {
+          "icon": "📅",
+          "value": "2x/year",
+          "label": "Exam Frequency",
+          "color": "green"
+        }
+      ]
     },
     {
       "type": "text",
@@ -177,9 +214,30 @@
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "",
-      "svg": "<svg viewBox=\"0 0 700 250\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Eligibility</text><rect x=\"40\" y=\"45\" width=\"620\" height=\"28\" rx=\"6\" fill=\"#F0FDF4\"/><text x=\"55\" y=\"64\" font-family=\"sans-serif\" font-size=\"14\" fill=\"#1B6B4A\">✓</text><text x=\"78\" y=\"64\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#374151\">MBBS degree completed</text><rect x=\"40\" y=\"80\" width=\"620\" height=\"28\" rx=\"6\" fill=\"#FFFFFF\"/><text x=\"55\" y=\"99\" font-family=\"sans-serif\" font-size=\"14\" fill=\"#1B6B4A\">✓</text><text x=\"78\" y=\"99\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#374151\">MCI/NMC recognized col</text><rect x=\"40\" y=\"115\" width=\"620\" height=\"28\" rx=\"6\" fill=\"#F0FDF4\"/><text x=\"55\" y=\"134\" font-family=\"sans-serif\" font-size=\"14\" fill=\"#1B6B4A\">✓</text><text x=\"78\" y=\"134\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#374151\">Indian citizenship</text><rect x=\"40\" y=\"150\" width=\"620\" height=\"28\" rx=\"6\" fill=\"#FFFFFF\"/><text x=\"55\" y=\"169\" font-family=\"sans-serif\" font-size=\"14\" fill=\"#1B6B4A\">✓</text><text x=\"78\" y=\"169\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#374151\">Valid internship compl</text><rect x=\"40\" y=\"185\" width=\"620\" height=\"28\" rx=\"6\" fill=\"#F0FDF4\"/><text x=\"55\" y=\"204\" font-family=\"sans-serif\" font-size=\"14\" fill=\"#1B6B4A\">✓</text><text x=\"78\" y=\"204\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#374151\">No upper age limit</text><rect x=\"40\" y=\"220\" width=\"620\" height=\"28\" rx=\"6\" fill=\"#FFFFFF\"/><text x=\"55\" y=\"239\" font-family=\"sans-serif\" font-size=\"14\" fill=\"#1B6B4A\">✓</text><text x=\"78\" y=\"239\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#374151\">Regn state medical cou</text></svg>"
+      "type": "process_flow",
+      "heading": "Career Path After INI-CET",
+      "steps": [
+        {
+          "icon": "📋",
+          "title": "Clear INI-CET",
+          "desc": "Score above cutoff in 200 MCQ exam."
+        },
+        {
+          "icon": "🎓",
+          "title": "3-Year Residency",
+          "desc": "MD/MS training at AIIMS/JIPMER/NIMHANS."
+        },
+        {
+          "icon": "🏥",
+          "title": "Practice or Super-specialty",
+          "desc": "Join hospital or pursue DM/MCh."
+        },
+        {
+          "icon": "💰",
+          "title": "Consultant Level",
+          "desc": "₹2-5 lakh/month in private, ₹1-2 lakh government."
+        }
+      ]
     },
     {
       "type": "text",
@@ -194,6 +252,37 @@
         "JIPMER and NIMHANS follow similar structures but with slightly different rotations. The academic component includes presentations at conferences, publishing research papers, and appearing for board exams at end of residency.",
         "The exam at residency end (MD/MS exam) is rigorous - you're tested on case discussions, viva, and written papers. Pass rate is high if you've attended regularly and studied, but failures do occur if you're casual.",
         "Living conditions at residential quarters are basic but acceptable. Most residents manage well despite demanding schedules because the brand value and learning outcomes justify it."
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "Top Specialties by Competition",
+      "items": [
+        {
+          "icon": "❤️",
+          "title": "General Medicine",
+          "sub": "Highest competition. Needs top 50 rank for AIIMS Delhi."
+        },
+        {
+          "icon": "🔪",
+          "title": "General Surgery",
+          "sub": "High competition. Strong clinical skills required."
+        },
+        {
+          "icon": "🩺",
+          "title": "Dermatology",
+          "sub": "Extremely competitive. Limited seats across all INIs."
+        },
+        {
+          "icon": "👁️",
+          "title": "Ophthalmology",
+          "sub": "Moderate competition. Good work-life balance."
+        },
+        {
+          "icon": "🦴",
+          "title": "Orthopaedics",
+          "sub": "Moderate. Growing demand in private sector."
+        }
       ]
     },
     {
@@ -215,9 +304,10 @@
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "",
-      "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">At a Glance</text><rect x=\"20\" y=\"40\" width=\"153\" height=\"65\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"96\" y=\"65\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">AIIMS Delhi</text><text x=\"96\" y=\"90\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Exam Body</text><rect x=\"188\" y=\"40\" width=\"153\" height=\"65\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"264\" y=\"65\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">Computer-based</text><text x=\"264\" y=\"90\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Mode</text><rect x=\"356\" y=\"40\" width=\"153\" height=\"65\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"432\" y=\"65\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">+1, -1/3</text><text x=\"432\" y=\"90\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Marking</text><rect x=\"524\" y=\"40\" width=\"153\" height=\"65\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"600\" y=\"65\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">English</text><text x=\"600\" y=\"90\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Language</text></svg>"
+      "type": "modern_callout",
+      "variant": "info",
+      "title": "Scoring Strategy",
+      "content": "Attempt 160-170 questions with 75%+ accuracy. Skipping 30-40 low-confidence questions is better than losing marks to negative marking.<br><br>Focus on image-based questions. INI-CET has more clinical images than NEET PG."
     },
     {
       "type": "text",
@@ -231,6 +321,20 @@
         "The cutoff varies slightly per notification and specialty. I analyzed three years of data: higher competition in April-May exams (post-NEET season) compared to October-November exams.",
         "Fewer doctors appear in monsoon months, so cutoffs are relatively lower then. Strategic exam timing can help.",
         "Category-wise quotas apply: General (60%), OBC (27%), SC (15%), ST (7.5%). Cutoffs are separate for each category, so OBC/SC/ST candidates have relatively easier cutoffs but compete within their category."
+      ]
+    },
+    {
+      "type": "eligibility_check",
+      "heading": "INI-CET Eligibility Quick Check",
+      "qualify": [
+        "MBBS from NMC-recognised college",
+        "Completed or completing internship",
+        "Indian citizen or OCI"
+      ],
+      "disqualify": [
+        "MBBS not yet completed",
+        "College not NMC-listed",
+        "Internship not done by joining date"
       ]
     },
     {
@@ -262,6 +366,12 @@
         "Peer discussions clarify doubts. However, too much social media browsing kills productivity - limit it to 15 minutes daily.",
         "Video lectures: YouTube channels covering PG medical topics exist, but be selective. Too many lectures waste time; focus on your weak areas only."
       ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "warning",
+      "title": "INI-CET vs NEET PG: different question style",
+      "content": "INI-CET asks more clinical scenario and image-based questions than NEET PG. Students who only practice NEET-style MCQs often struggle with INI-CET.<br><br>Solve previous INI-CET papers separately. Do not assume NEET PG prep is enough."
     },
     {
       "type": "text",
@@ -328,6 +438,18 @@
     {
       "question": "When is the next AIIMS INI-CET 2026 exam?",
       "answer": "Check the official notification on the conducting body's website for the latest exam schedule. Notifications are usually released 2-3 months before the exam date."
+    },
+    {
+      "question": "What is the difference between INI-CET and NEET PG?",
+      "answer": "INI-CET is for admission to AIIMS, JIPMER, NIMHANS, and other INIs. NEET PG is for all other medical colleges.<br><br>INI-CET is generally considered harder with more clinical and image-based questions."
+    },
+    {
+      "question": "How many times can I attempt INI-CET?",
+      "answer": "There is no limit on attempts. The exam is conducted twice a year (May and November). You can appear as many times as you want."
+    },
+    {
+      "question": "What is a good INI-CET score for AIIMS Delhi?",
+      "answer": "For popular MD branches at AIIMS Delhi, you typically need a rank within the top 100-200. The cutoff varies by subject and category."
     }
   ],
   "disclaimer": "Information is for educational purposes. Verify details from the official source before taking action.",
@@ -363,9 +485,164 @@
   ],
   "image_suggestions": [],
   "last_reviewed": "May 2026",
-  "key_details": [],
-  "exam_pattern": [],
-  "major_posts": [],
+  "key_details": [
+    {
+      "label": "Conducting Body",
+      "value": "AIIMS New Delhi"
+    },
+    {
+      "label": "Education Required",
+      "value": "MBBS/BDS from recognised institution (MCI/NMC listed)",
+      "highlight": true
+    },
+    {
+      "label": "Internship",
+      "value": "Must have completed or completing internship by joining date",
+      "highlight": true
+    },
+    {
+      "label": "Age Limit",
+      "value": "No upper age limit"
+    },
+    {
+      "label": "Exam Mode",
+      "value": "Online MCQ (Computer Based Test)"
+    },
+    {
+      "label": "Total Questions",
+      "value": "200 questions in 2 hours (36 seconds per question)"
+    },
+    {
+      "label": "Negative Marking",
+      "value": "Yes, 1/3 mark deducted per wrong answer"
+    },
+    {
+      "label": "Frequency",
+      "value": "Twice a year (May and November cycles)"
+    },
+    {
+      "label": "Participating Institutes",
+      "value": "AIIMS (all), JIPMER, NIMHANS, PGIMER, SCTIMST"
+    }
+  ],
+  "exam_pattern": [
+    {
+      "tier_name": "INI-CET Online Exam (2 hours)",
+      "description": "Single paper, 200 MCQs across all MBBS subjects. No sectional division. Merit-based seat allocation.",
+      "subjects": [
+        {
+          "name": "Pre-clinical (Anatomy, Physiology, Biochemistry)",
+          "questions": 40,
+          "marks": 40,
+          "topics": [
+            {
+              "name": "Anatomy (Gross + Micro)",
+              "high": true
+            },
+            {
+              "name": "Physiology (General + Neuro)",
+              "high": true
+            },
+            {
+              "name": "Biochemistry",
+              "high": false
+            }
+          ]
+        },
+        {
+          "name": "Para-clinical (Pathology, Pharma, Micro, Forensic)",
+          "questions": 50,
+          "marks": 50,
+          "topics": [
+            {
+              "name": "Pathology",
+              "high": true
+            },
+            {
+              "name": "Pharmacology",
+              "high": true
+            },
+            {
+              "name": "Microbiology",
+              "high": false
+            },
+            {
+              "name": "Forensic Medicine",
+              "high": false
+            }
+          ]
+        },
+        {
+          "name": "Clinical (Medicine, Surgery, OBG, Paediatrics, etc.)",
+          "questions": 110,
+          "marks": 110,
+          "topics": [
+            {
+              "name": "Medicine",
+              "high": true
+            },
+            {
+              "name": "Surgery",
+              "high": true
+            },
+            {
+              "name": "OBG",
+              "high": true
+            },
+            {
+              "name": "Paediatrics",
+              "high": false
+            },
+            {
+              "name": "Ophthalmology",
+              "high": false
+            },
+            {
+              "name": "ENT",
+              "high": false
+            },
+            {
+              "name": "Orthopaedics",
+              "high": false
+            },
+            {
+              "name": "Radiology",
+              "high": false
+            },
+            {
+              "name": "Psychiatry",
+              "high": false
+            },
+            {
+              "name": "Dermatology",
+              "high": false
+            }
+          ]
+        }
+      ],
+      "total_questions": 200,
+      "total_marks": 200,
+      "duration": "2 hours",
+      "negative_marking": "1/3 mark deducted per wrong answer"
+    }
+  ],
+  "major_posts": [
+    {
+      "post": "Junior Resident (Year 1)",
+      "in_hand_salary": "₹55,000-65,000",
+      "department": "AIIMS/JIPMER"
+    },
+    {
+      "post": "Junior Resident (Year 2)",
+      "in_hand_salary": "₹60,000-70,000",
+      "department": "AIIMS/JIPMER"
+    },
+    {
+      "post": "Senior Resident",
+      "in_hand_salary": "₹80,000-1,00,000",
+      "department": "AIIMS/JIPMER"
+    }
+  ],
   "important_dates": [
     {
       "label": "Registration Opens",
@@ -408,5 +685,58 @@
       "value": "200 questions"
     }
   ],
-  "status": "upcoming"
+  "status": "upcoming",
+  "eligibility_data": {
+    "reference_date": "As per notification",
+    "default_education": "MBBS/BDS from NMC-recognised institution with completed internship",
+    "relaxations": [],
+    "posts": [
+      {
+        "post": "MD/MS (AIIMS)",
+        "min_age": 22,
+        "max_age": 99
+      },
+      {
+        "post": "MD/MS (JIPMER)",
+        "min_age": 22,
+        "max_age": 99
+      },
+      {
+        "post": "MD/MS (NIMHANS)",
+        "min_age": 22,
+        "max_age": 99
+      },
+      {
+        "post": "DM/MCh (Super-specialty)",
+        "min_age": 25,
+        "max_age": 99,
+        "note": "Requires MD/MS degree"
+      }
+    ]
+  },
+  "changes_2026": [
+    "No major changes to INI-CET pattern from 2025. 200 MCQs in 2 hours remains the same.",
+    "Online registration on aiimsexams.ac.in. Two sessions per year (May and November)."
+  ],
+  "salary_table": {
+    "intro": "PG residents at AIIMS and INIs receive a monthly stipend plus allowances. It increases with each year of residency.",
+    "rows": [
+      {
+        "post": "Junior Resident (Year 1)",
+        "amount": "₹55,000-65,000"
+      },
+      {
+        "post": "Junior Resident (Year 2)",
+        "amount": "₹60,000-70,000"
+      },
+      {
+        "post": "Junior Resident (Year 3)",
+        "amount": "₹65,000-75,000"
+      },
+      {
+        "post": "Senior Resident (Post-MD)",
+        "amount": "₹80,000-1,00,000"
+      }
+    ]
+  }
 }
