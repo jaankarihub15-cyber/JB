@@ -1,596 +1,664 @@
 {
- "slug": "cuet-ug",
- "title": "CUET UG 2026 - Common University Entrance Test",
- "meta_description": "CUET UG 2026: 200+ universities (Delhi, JNU, BHU). May 11–31, 2026. Section-wise MCQs on NCERT. Delhi DU, JNU minimum cutoffs.",
- "hero": {
- "status": "upcoming",
- "one_liner": "Single entrance exam for 200+ universities including Delhi University, JNU, BHU, Jamia Millia, and 40+ National Law Universities",
- "icon": "🏫",
- "updated_date": "May 2026",
- "stats": [
- {
- "label": "Universities",
- "value": "200+"
- },
- {
- "label": "Exam Dates",
- "value": "May 11–31, 2026"
- },
- {
- "label": "Applicants",
- "value": "15+ Lakh"
- },
- {
- "label": "Mode",
- "value": "CBT (Online)"
- }
- ]
- },
- "quick_actions": [
- {
- "icon": "📝",
- "label": "Apply at NTA",
- "url": "https://cuet.nta.nic.in/"
- },
- {
- "icon": "📞",
- "label": "NTA Helpline",
- "url": "tel:011-40759000"
- }
- ],
- "what_is_it": [
- "CUET UG (Common University Entrance Test) introduced in 2022 replaced merit-based admissions (12th marks) at Central Universities (Delhi University, JNU, BHU, etc.) with a standardized entrance exam. Conducted by NTA (National Testing Agency) in computer-based format across multiple sessions. Before CUET, Delhi University had 99%+ cutoffs in board marks - creating unfair scenario where only top 0.5% students could enter. CUET democratized access: 12th board marks are now secondary; entrance exam score determines merit. With 15+ lakh applicants and 200+ participating universities, CUET is among India's largest entrance exams.",
- "CUET UG structure: Section IA/IB (Languages - 13 options), Section II (Domain Subjects - choose up to 6 from 27), Section III (General Test). Each section has MCQs with questions based on NCERT Level 12 standards - conceptual clarity matters, not memorization. For language: grammar, comprehension, vocabulary from 12th NCERT books. For domain subjects (like Economics, History, Geography): stick to NCERT - beyond NCERT is rarely asked. General Test covers: General Knowledge, Current Affairs, Logical Reasoning, Quantitative Reasoning. Unlike CUET, there's no essay/descriptive component.",
- "Universities set their own CUET cut-offs. Delhi University top colleges (SRCC, St. Stephen's, Hindu, LSR) require 99–99.5 percentile. JNU requires 95+ percentile. BHU requires 90+ percentile. For engineering: IIT-based universities (Delhi, BHU have engineering) have higher cutoffs than others. For law: top NLUs (NLSIU, NALSAR) through CLAT separate; CUET applies to law programs at general universities. Merit list preparation: Each university weighs CUET score + board marks + interview (if applicable) differently - check each university's admission policy."
- ],
- "key_details": [
- {
- "label": "Conducting Body",
- "value": "NTA (National Testing Agency)",
- "highlight": false
- },
- {
- "label": "Eligibility",
- "value": "12th pass from any recognized board (appearing also eligible)",
- "highlight": true
- },
- {
- "label": "Exam Mode",
- "value": "CBT (Computer-Based Test)",
- "highlight": false
- },
- {
- "label": "Section Structure",
- "value": "Section IA/IB (Languages) + Section II (Domain, choose 6) + Section III (General)",
- "highlight": true
- },
- {
- "label": "Question Type",
- "value": "MCQs (40 per subject attempted, out of 50 offered)",
- "highlight": false
- },
- {
- "label": "Marking",
- "value": "+5 for correct, -1 for wrong, 0 for unattempted",
- "highlight": true
- },
- {
- "label": "Duration",
- "value": "45 minutes per section",
- "highlight": false
- },
- {
- "label": "Universities Accepting",
- "value": "All 45 Central Universities + 150+ state/private universities",
- "highlight": true
- }
- ],
- "exam_pattern": [
- {
- "tier_name": "CUET UG (Multi-day, Multi-session)",
- "description": "Attempt max 6 domain subjects. Each section 45 min. Choose sections per university requirements.",
- "subjects": [
- {
- "name": "Section IA: Language 1 (choose 1 of 13)",
- "questions": 40,
- "marks": 200
- },
- {
- "name": "Section IB: Language 2 (optional)",
- "questions": 40,
- "marks": 200
- },
- {
- "name": "Section II: Domain Subjects (choose up to 6 from 27)",
- "questions": 40,
- "marks": 200
- },
- {
- "name": "Section III: General Test",
- "questions": 50,
- "marks": 250
- }
- ],
- "total_questions": 0,
- "total_marks": "Varies by subject selection",
- "duration": "45 min per section",
- "negative_marking": "-1 for wrong, 0 for blank"
- }
- ],
- "major_posts": [
- {
- "post": "BA/BSc at Delhi University",
- "pay_level": "Premier brand - DU degree recognized globally",
- "in_hand_salary": "Further education-dependent; DU graduates at top colleges earn ₹8–15 LPA in IT/Finance",
- "department": "SRCC, Hindu, LSR, St. Stephen's, Miranda House, Ramjas, Ramakrishna Mission"
- },
- {
- "post": "JNU Undergraduate Programs",
- "pay_level": "World-class faculty, research orientation",
- "in_hand_salary": "JNU graduates pursue research, civil services, journalism, earning ₹5–10 LPA initially",
- "department": "School of Arts, Social Sciences, Languages, Performing Arts"
- },
- {
- "post": "BHU Varanasi Programs",
- "pay_level": "Residential campus, holistic development",
- "in_hand_salary": "BHU engineering graduates: ₹8–12 LPA. Arts graduates: ₹5–8 LPA.",
- "department": "Engineering, Arts, Science, Law"
- }
- ],
- "extra_sections": [
- {
- "heading": "Top Universities: CUET Cutoff Ranges (2025 Data)",
- "icon": "📊",
- "type": "table",
- "columns": [
- "University",
- "College/Program",
- "CUET Percentile (Gen)",
- "Board Marks Weight",
- "Interview Required"
- ],
- "rows": [
- [
- "Delhi University",
- "SRCC (Commerce)",
- "99–99.5",
- "20%",
- "No (for most)"
- ],
- [
- "Delhi University",
- "St. Stephen's",
- "98–99",
- "30%",
- "Yes (Supernumerary)"
- ],
- [
- "Delhi University",
- "Hindu",
- "97–98",
- "25%",
- "No"
- ],
- [
- "JNU",
- "All Programs",
- "95–97",
- "33%",
- "No"
- ],
- [
- "BHU",
- "Engineering",
- "94–96",
- "30%",
- "No"
- ],
- [
- "BHU",
- "Arts/Science",
- "90–92",
- "30%",
- "No"
- ],
- [
- "Jamia Millia",
- "All",
- "85–90",
- "40%",
- "Some programs"
- ]
- ]
- },
- {
- "heading": "",
- "type": "svg_block",
- "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">CUET UG gateway 250+ central universitie</text><rect x=\"50\" y=\"50\" width=\"180\" height=\"75\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"140\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#145236\">Section 1A</text><text x=\"140\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#145236\">Languages (13 option</text><rect x=\"260\" y=\"50\" width=\"180\" height=\"75\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"350\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1E40AF\">Section 2</text><text x=\"350\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#1E40AF\">Domain subjects (max</text><rect x=\"470\" y=\"50\" width=\"180\" height=\"75\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"560\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#C2410C\">Section 3</text><text x=\"560\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#C2410C\">General Test (option</text></svg>",
- "caption": "CUET UG replaced individual university entrance exams. One exam, one application - admission to DU, JNU, BHU, Jamia, and 250+ central universities."
- },
- {
- "heading": "CUET Strategy: Subject Selection Guide",
- "icon": "🎓",
- "type": "text",
- "content": [
- "<p>Step 1: Target Universities & Programs - Before CUET registration, shortlist 5–7 universities with their specific programs. DU: SRCC (commerce), St.",
- "Stephen's (versatile), Hindu (sciences), Ramakrishna Mission (all streams). JNU: All programs competitive.",
- "BHU: Engineering + humanities. Jamia: Engineering + humanities.",
- "Each has different subject requirements.</p>",
- "<p>Step 2: Check Exact Subject Requirements - Critical step many students miss. DU's SRCC requires: English (mandatory) + Economics, Accounting, Business Studies (you need 3 of 4).",
- "BHU Engineering requires: Physics, Chemistry, Math, Language. JNU has flexibility - most programs accept interdisciplinary subject combinations.",
- "Check official <a href=\"/exam/afcat\" style=\"text-decoration:underline;color:inherit\">admission</a> notices on university websites.</p>",
- "<p>Step 3: Strategic Subject Selection - Choose 6 subjects that: (1) You're strong in (aim for 95%+ in each), (2) Satisfy requirements of your top 3 universities, (3) Minimize overlap (reduce prep load).",
- "Example strategy for commerce-legal studies path: English (mandatory, top colleges need it), Economics (commerce + law), Political Science (law + social sciences), History (liberal arts, JNU), Accounting (commerce), Business Studies (commerce).",
- "This 6-subject combo covers: DU commerce, JNU multi-disciplinary, Jamia law.</p>",
- "<p>Stream-wise Combinations: Commerce: English + Economics + Accounting + Business Studies + Math/Statistics + Computer Science (flexibility in last 2).",
- "Science: English + Physics + Chemistry + Biology + Math + Computer Science (all 6 usually required).",
- "Humanities: English + History + Geography + Political Science + Economics + Psychology/Sociology (flexibility in final choices).",
- "Interdisciplinary (trending): English + Economics + Computer Science + Psychology + Environmental Studies + Media Studies (attractive for research-oriented universities like JNU)."
- ]
- },
- {
- "type": "text",
- "heading": "Why CUET changed everything",
- "icon": "🎓",
- "content": [
- "Before CUET, Delhi University admission was based on 12th board marks - students needed 99%+ cutoffs for top colleges. CUET levelled the field by making admission exam-based, regardless of which board you studied under. A CBSE student and a state board student now compete on the same exam.",
- "CUET is NTA-conducted (same body as JEE and NEET) and follows NCERT Class 12 syllabus. Questions are MCQ-based and relatively easier than JEE/NEET.",
- "If you've studied NCERT textbooks thoroughly, you can score well without coaching. This makes it the most accessible gateway to India's best universities."
- ]
- },
- {
- "type": "callout",
- "variant": "tip",
- "heading": "Strategy for maximum university options",
- "content": "Choose 5-6 domain subjects that cover maximum university programs. For example: English + Economics + Political Science + History + Mathematics covers BA (Hons) applications across DU, JNU, BHU, and most central universities. Check each university's required subjects before selecting - don't choose subjects randomly."
- },
- {
- "type": "callout",
- "variant": "info",
- "heading": "CUET 2026 expected timeline",
- "content": "Registration: February-March 2026. Admit card: April 2026. Exam: May 2026 (multiple shifts across 2-3 weeks). Results: June 2026. Counselling: July-August 2026. Check cuet.nta.nic.in for official dates. Apply to multiple universities through the common application - one CUET score, multiple admissions."
- },
- {
- "type": "svg_block",
- "heading": "Visual: Key Numbers",
- "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">200+</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Universities</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">May 11–31, 2026</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Exam Dates</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">15+ Lakh</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Applicants</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">CBT (Online)</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Mode</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
- "caption": "Key facts",
- "description": "Quick overview."
- },
- {
- "type": "text",
- "heading": "CUET UG Exam Structure - Sections and Subjects Explained",
- "content": [
- "The Common University <a href=\"/exam/cat-2026\" style=\"text-decoration:underline;color:inherit\">Entrance</a> Test for Undergraduate admissions is conducted by the National Testing Agency and is used by over 250 central, state, and private universities across India for their undergraduate admissions. Understanding the exam structure is essential because CUET offers more flexibility than most entrance exams.",
- "Section 1A tests Language proficiency through Reading Comprehension in 13 different languages including English, Hindi, Tamil, Telugu, Kannada, Malayalam, Marathi, Gujarati, Bengali, Assamese, Punjabi, Odia, and Urdu. Candidates must choose one language from this section. The questions test comprehension, vocabulary, grammar, and textual analysis based on passages. There are 50 questions from which candidates attempt 40.",
- "Section 1B offers 20 additional languages for candidates who want to be tested in a language not available in Section 1A. This section is optional and relevant for universities that require proficiency in specific regional or foreign languages.",
- "Section 2 is the domain-specific section covering 27 subjects including Physics, Chemistry, Mathematics, Biology, Accountancy, Business Studies, Economics, History, Political Science, Geography, Psychology, Sociology, Computer Science, and more. Candidates can choose up to 6 domain subjects based on the requirements of the universities and programs they are applying to. Each subject has 50 questions from which 40 must be attempted.",
- "Section 3 tests General Aptitude covering General Knowledge, Current Affairs, Quantitative Reasoning, Logical Reasoning, and Numerical Ability. This section has 60 questions from which 50 must be attempted. Not all universities require Section 3 - check the specific admission criteria of your target universities."
- ]
- },
- {
- "type": "svg_block",
- "heading": "Quick Facts",
- "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Quick Facts</text><rect x=\"17\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"94\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">200+</text><text x=\"94\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Universities</text><rect x=\"187\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"264\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">May 11–31, 2026</text><text x=\"264\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Exam Dates</text><rect x=\"357\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"434\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#92400E\">15+ Lakh</text><text x=\"434\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Applicants</text><rect x=\"527\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"604\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">CBT (Online)</text><text x=\"604\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Mode</text></svg>",
- "caption": "Quick reference facts",
- "description": "Key facts and numbers at a glance"
- },
- {
- "type": "text",
- "heading": "How Universities Use CUET Scores for Admission",
- "content": [
- "Different universities weigh CUET scores differently in their admission process. Understanding these variations is critical for strategic application planning.",
- "Delhi University uses CUET scores as the sole criterion for undergraduate admissions across all programs. Your CUET percentile in the relevant domain subject directly determines whether you get admission. For example, BA Economics admission depends on your CUET Economics score, while BSc Physics depends on your CUET Physics score. Language section scores may also be considered for certain programs.",
- "Jawaharlal Nehru University uses a combination of CUET scores and internal criteria for some programs. Banaras Hindu University, Aligarh Muslim University, and other central universities each have their own weightage system - some use CUET scores exclusively while others combine them with Class 12 marks or additional university-level tests.",
- "Private universities like Amity, Lovely Professional University, and Chandigarh University have also joined the CUET framework, offering students a single exam path to multiple institutions. However, each university may accept scores from different subject combinations, so research your target universities' requirements before selecting subjects.",
- "The CUET scoring system uses percentiles rather than raw marks for ranking candidates. This normalizes scores across multiple exam sessions and shifts, ensuring candidates who took the exam on different days are compared fairly. Universities set their own cutoff percentiles based on the number of seats and applications received."
- ]
- },
- {
- "type": "text",
- "heading": "Subject-Wise Preparation Strategy",
- "content": [
- "CUET domain subjects are based on the NCERT Class 12 syllabus. This is both a challenge and an advantage - candidates who have studied NCERT textbooks thoroughly already have most of the preparation done. The key is to master NCERT content and then practice with CUET-specific question patterns.",
- "For Science subjects, focus on NCERT textbook examples and back exercises. Physics questions in CUET tend to be conceptual rather than calculation-heavy - understanding principles, laws, and their applications is more important than solving complex numerical problems. Chemistry covers both Physical, Organic, and Inorganic Chemistry with a mix of theoretical and numerical questions. Biology questions are largely factual and directly based on NCERT content.",
- "For Commerce subjects, Accountancy questions test practical problem-solving with journal entries, ledger posting, financial statement preparation, and ratio analysis. Business Studies is entirely theoretical - memorize NCERT chapters thoroughly. Economics covers both Micro and Macro Economics with conceptual questions and basic numerical problems.",
- "For Humanities subjects, History focuses on themes from the NCERT textbooks - Ancient, Medieval, and Modern Indian History with emphasis on understanding historical processes rather than memorizing dates. Political Science covers Indian Constitution, political theory, and international relations. Geography tests both physical and human geography concepts with map-based questions.",
- "The Language section requires no specific textbook preparation - it tests reading comprehension and language skills developed over years. However, practicing 2 to 3 reading passages daily in the month before the exam significantly improves speed and accuracy."
- ]
- },
- {
- "type": "callout",
- "heading": "How Many Subjects Should You Choose",
- "content": "CUET allows you to appear for up to 6 domain subjects, but attempting too many can spread your preparation thin. The optimal strategy is to select 3 to 4 subjects that align with your target university requirements. Check the admission brochures of your top 5 university-program combinations and identify the common subjects required across all of them. Prepare these 3 to 4 subjects deeply rather than attempting 6 subjects superficially. Remember that universities only look at the specific subject scores they require - your other subject scores are irrelevant to them."
- },
- {
- "type": "text",
- "heading": "Three-Month Preparation Plan for CUET UG",
- "content": [
- "Month 1 is dedicated to completing NCERT textbooks for all chosen domain subjects. Read each chapter carefully, make notes of key concepts, definitions, formulas, and important facts. For Science subjects, solve all NCERT in-text and back exercise questions. For Commerce and Humanities subjects, prepare answer frameworks for common question types. Complete the Language section preparation by practicing 1 to 2 reading passages daily.",
- "Month 2 shifts to practice and revision. Solve previous year CUET question papers and NTA-released sample papers for each subject. Identify topics where you consistently lose marks and revisit those NCERT chapters. Take subject-wise mock tests to build familiarity with the exam interface and question patterns. For General Aptitude (Section 3), start practicing GK, current affairs, logical reasoning, and quantitative aptitude questions from standard reference books.",
- "Month 3 is the mock test and revision phase. Take 2 to 3 full-length CUET simulations weekly covering all your chosen sections in sequence. Review your performance after each mock - focus on improving accuracy rather than attempting more questions (since you only need to attempt 40 out of 50 in each subject, skipping difficult questions is a valid strategy). Revise NCERT notes twice during this month. In the final week, focus on current affairs updates, formula revision, and getting adequate rest before the exam.",
- "For more details, see our guide on <a href=\"/exam/ugc-net\" style=\"text-decoration:underline;color:inherit\">UGC NET 2026</a>.",
- "For more details, see our guide on <a href=\"/exam/jee-main\" style=\"text-decoration:underline;color:inherit\">JEE Main 2026</a>.",
- "For more details, see our guide on <a href=\"/exam/neet-ug\" style=\"text-decoration:underline;color:inherit\">NEET UG 2026</a>."
- ]
- },
- {
- "type": "text",
- "heading": "Common Mistakes Students Make in CUET",
- "content": [
- "The biggest mistake is ignoring NCERT and relying on coaching material or reference books. CUET questions are directly based on NCERT content - coaching institutes may teach advanced concepts that never appear in the exam while missing basic NCERT facts that do appear. Treat NCERT as your primary source and use reference material only for additional practice questions.",
- "Selecting too many domain subjects dilutes preparation quality. Each additional subject requires 50 to 80 hours of dedicated preparation. Students who choose 6 subjects often score average marks across all subjects, while those who focus on 3 to 4 subjects score high in each. Since universities only consider relevant subject scores, high scores in fewer subjects beat average scores in many subjects.",
- "Neglecting the language section is another common error. Many students assume English comprehension requires no preparation since they have been studying in English throughout school. However, CUET language questions are time-pressured and test specific comprehension skills like inference, tone identification, and vocabulary in context. Without practice, candidates waste time on the language section and lose crucial minutes.",
- "Poor time allocation during the exam costs marks unnecessarily. With 40 questions to attempt from 50 in each subject section, spending more than 2 minutes on any single question is wasteful. Mark difficult questions for review, move on, and return to them only after completing all easy and moderate questions. This strategy ensures you maximize marks from questions you can definitely solve."
- ]
- },
- {
- "type": "svg_block",
- "heading": "Visual: Exam Pattern",
- "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Exam Pattern</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">200</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Section IA: Language</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">40 Qs</text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">200</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Section IB: Language</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">40 Qs</text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">200</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Section II: Domain S</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">40 Qs</text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">250</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Section III: General</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">50 Qs</text></svg>",
- "caption": "Paper structure",
- "description": "Subject-wise marks."
- },
- {
- "type": "text",
- "heading": "CUET vs Board Exams - Understanding the Difference",
- "content": [
- "A fundamental shift students must make is understanding that CUET tests differently than board exams even though the syllabus is the same. Board exams reward detailed descriptive answers and step-by-step solutions. CUET uses multiple-choice questions that test recognition, application, and elimination skills rather than written expression.",
- "In board exams, partial marks are awarded for showing working steps even if the final answer is wrong. In CUET, only the final answer matters - and wrong answers carry negative marking. This means the test-taking strategy is fundamentally different. In boards, attempting every question maximizes marks. In CUET, strategic skipping of uncertain questions protects your score from negative marking losses.",
- "Board exam toppers do not automatically become CUET toppers. The skill of quickly identifying the correct answer among four options, managing time across multiple subjects in a single sitting, and maintaining focus during a 3-hour computer-based test are different from the skills rewarded in a traditional board exam. Students who practice extensively with MCQ formats and timed mock tests develop these specific skills."
- ]
- },
- {
- "type": "pullquote",
- "text": "CUET has democratized university admissions in India - a student from a small-town school with an unknown board now competes on equal footing with students from elite city schools for seats at Delhi University and JNU."
- },
- {
- "type": "text",
- "heading": "Best Books and Resources for CUET UG",
- "content": [
- "The single most important resource for every CUET domain subject is the NCERT textbook for that subject. No coaching material, guide, or reference book should take priority over NCERT. Read each chapter multiple times, highlight key definitions and concepts, and solve all in-text and end-of-chapter questions.",
- "For additional MCQ practice, Arihant's CUET subject-wise guide series provides practice questions aligned with the exam pattern. Disha Publications also offers comprehensive CUET preparation books with solved and unsolved papers. NTA's own practice papers and previous year question papers are freely available on the official CUET website - these are the most authentic representation of actual exam difficulty.",
- "For General Aptitude preparation, any standard GK book like Lucent's combined with daily current affairs updates covers the General Knowledge portion. For Logical Reasoning and Quantitative Aptitude within Section 3, RS Aggarwal's reasoning and math books provide more than enough practice. The Section 3 difficulty level is moderate - significantly easier than competitive exams like CAT or SSC CGL.",
- "Online platforms like Testbook, Adda247, and Careers360 offer CUET-specific mock test series. Taking at least 10 full-length simulations before the exam is strongly recommended. These platforms also provide detailed performance analysis showing your percentile, time per question, and accuracy per topic - data that helps you target weak areas efficiently."
- ]
- },
- {
- "type": "text",
- "heading": "CUET Registration and Application Process",
- "content": [
- "CUET UG registration opens annually on the NTA website at cuet.nta.nic.in, typically between February and April. The process is entirely online and involves several steps that must be completed carefully since errors can affect your exam and admission.",
- "Create an account on the NTA portal using a valid email and mobile number. Fill in personal details, educational qualifications, and preferred exam languages. Select the universities you want to apply to - you can choose multiple universities through a single CUET application. Select the subjects and sections you want to appear for based on the requirements of your chosen universities.",
- "Upload a recent passport-size photograph and signature in the specified format and file size. Pay the application fee online - the fee varies by category (General, OBC, SC/ST, PwBD). Download and save the confirmation page after successful submission. Correction windows are usually provided by NTA for fixing errors in the application, but relying on correction windows is risky since they have limited timeframes."
- ]
- },
- {
- "type": "text",
- "heading": "University-Wise Cutoff Trends and What They Mean",
- "content": [
- "CUET cutoff percentiles vary dramatically across universities, programs, and categories. Understanding these trends helps you set realistic targets and choose a balanced mix of aspirational and safety universities in your application.",
- "Delhi University's most popular programs like BA Economics at SRCC, BA English at St. Stephen's, and BSc Physics at Hindu College historically see cutoff percentiles above 95 to 98 for General category candidates. These programs are extremely competitive and require near-perfect scores in the relevant domain subjects. However, less popular DU colleges offer the same degree with cutoffs in the 80 to 90 percentile range - the degree value for employment purposes is often similar.",
- "Central universities outside Delhi like BHU, AMU, JNU, and Hyderabad University generally have lower cutoffs than DU for comparable programs. A student who scores 90th percentile in their domain subjects has excellent chances at these institutions even if DU admission is uncertain. Applying to a mix of DU and non-DU central universities maximizes your admission probability.",
- "State and private universities that have joined CUET often have significantly lower cutoffs, sometimes accepting candidates in the 60th to 75th percentile range. While these institutions may not carry the same brand value as DU or JNU, they offer quality education and the CUET-based admission provides a standardized selection process."
- ]
- },
- {
- "type": "callout",
- "heading": "Exam Day Essentials",
- "content": "Carry your CUET admit card printout and one original government-issued photo ID to the exam center. Reach at least 60 minutes before the reporting time printed on your admit card. Electronic devices including mobile phones, smartwatches, and calculators are strictly prohibited inside the exam hall. Carry a transparent water bottle and basic stationery for rough work. The exam is conducted on computers provided at the center - no personal laptops or devices are used."
- },
- {
- "type": "svg_block",
- "heading": "CUET UG Section Pattern",
- "icon": "📋",
- "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">CUET UG Three Sections</text><rect x=\"30\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"130\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">Section 1A Language</text><rect x=\"250\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"350\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Section 2 Domain Subje</text><rect x=\"470\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"570\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#92400E\">Section 3 General Test</text></svg>",
- "caption": "CUET replaced individual university entrance exams for 250+ central universities",
- "description": "NCERT Class 12 syllabus is the foundation for all domain subject papers."
- }
- ],
- "important_dates": [
- {
- "label": "Registration Closed",
- "value": "February 26, 2026",
- "highlight": false
- },
- {
- "label": "Exam Dates",
- "value": "May 11–31, 2026 (multi-day)",
- "highlight": true
- },
- {
- "label": "City Slip Release",
- "value": "April first week, 2026",
- "highlight": false
- },
- {
- "label": "Admit Card",
- "value": "May 8, 2026 (approx)",
- "highlight": false
- },
- {
- "label": "Result",
- "value": "June 2026",
- "highlight": false
- },
- {
- "label": "Counselling",
- "value": "July–August 2026",
- "highlight": false
- }
- ],
- "preparation_tips": [
- "NCERT 12th textbooks are your core material - read them thoroughly. CUET doesn't go beyond NCERT in difficulty. If you know 12th NCERT well, CUET will be straightforward. Solve all textbook exercises.",
- "Domain subjects are 60% of CUET score (6 × 200 = 1,200 marks out of 1,900 total). Focus 70% of preparation on domain subjects. General Test is 250 marks - important but secondary.",
- "Current affairs: 30–40 questions in General Test from current affairs (2024–2026). Read The Hindu or Indian Express for 30 min daily, 6 months before exam. Make short notes on major events, policy changes, international news.",
- "Practice official NTA mock tests - CUET interface and question pattern are specific. Taking mocks helps you familiarize with: negative marking impact, time management (45 min per section), subject-wise strategy. Take 10–15 full-length mocks by June 2026."
- ],
- "faqs": [
- {
- "question": "Is CUET mandatory for all Central Universities?",
- "answer": "Yes. Since 2022, CUET is mandatory for all Central University undergraduate admissions (except deemed universities). 12th board marks alone don't determine admission. However, board marks are still considered (20–40% weight) alongside CUET score and interview (if applicable)."
- },
- {
- "question": "How to manage 6 subjects + General Test in CUET?",
- "answer": "Total sections: 3–4 (Language 1 mandatory + optional Language 2 + Domain subjects + General Test). You don't attempt all on same day - CUET is held across multiple days/sessions (May 11–31). Check admit card for your allotted day and session. Each session covers specific sections."
- },
- {
- "question": "If I score 90 percentile, can I get Delhi University?",
- "answer": "Possibly, but depends on your subject scores, board marks (20–30% weight), and specific college cutoff. SRCC (commerce) at DU requires 99+ percentile - 90 percentile won't suffice. But other DU colleges (like Ramakrishna Mission) might accept 90. Check each college's specific cutoff."
- },
- {
- "question": "Can I apply to multiple universities with one CUET score?",
- "answer": "Yes! CUET score is valid across all 200+ participating universities. You take CUET once; then apply separately to each university's counselling/admission portal. Each university conducts its own merit list based on CUET score + board marks + interview (if applicable)."
- },
- {
- "question": "Is CUET easier than JEE/NEET?",
- "answer": "Yes, significantly. CUET tests NCERT Class 12 level knowledge - straightforward questions without the complexity of JEE/NEET. A student who has studied NCERT thoroughly can score 90%+ in CUET without coaching. JEE/NEET require months of specialized coaching and advanced problem-solving skills."
- },
- {
- "question": "Can I apply to multiple universities through CUET?",
- "answer": "Yes. One CUET score is accepted by 250+ central universities. You can apply to as many universities as you want through their respective portals using your CUET score. Each university has its own counselling process and cutoffs. Apply broadly to maximize your chances of getting into your preferred program."
- },
- {
- "question": "Is coaching necessary for CUET?",
- "answer": "Not for most students. If you've studied NCERT textbooks of Class 11-12 thoroughly, self-preparation with previous year papers is sufficient. Free resources: NTA's official mock tests, NCERT PDFs (free at ncert.nic.in), YouTube channels for subject-specific revision. Coaching helps only if you need structured study discipline."
- }
- ],
- "official_portal": {
- "name": "CUET UG - NTA",
- "url": "https://cuet.nta.nic.in"
- },
- "related_pages": [
- {
- "title": "JEE Main 2026",
- "slug": "jee-main",
- "tag": "Engineering",
- "url": "/exam/jee-main"
- },
- {
- "title": "NEET UG 2026",
- "slug": "neet-ug",
- "tag": "Medical",
- "url": "/exam/neet-ug"
- },
- {
- "title": "CLAT 2026",
- "slug": "clat-2026",
- "tag": "Law",
- "url": "/exam/clat-2026"
- }
- ],
- "tags": [
- "CUET",
- "University Entrance",
- "DU",
- "JNU",
- "BHU",
- "NTA",
- "Undergraduate"
- ],
- "image_suggestions": [
- "Delhi University North/South campus",
- "JNU campus New Delhi",
- "BHU Varanasi campus",
- "SRCC Delhi college building",
- "St. Stephen's Delhi campus",
- "Computer-based exam CBT screenshot",
- "NCERT 12th textbooks stack",
- "Students in university lecture hall"
- ],
- "exam_prep": {
- "syllabus": [
- {
- "subject": "Section IA: Language (13 languages)",
- "topics": "Reading comprehension, vocabulary, grammar, sentence correction, rearrangement. Choose any language from 13 options.",
- "questions": 50,
- "marks": 200,
- "tag": "English"
- },
- {
- "subject": "Section II: Domain Subjects",
- "topics": "Choose up to 6 subjects from 27 options. Questions based on NCERT 12th syllabus of that subject. Popular: Physics, Chemistry, Biology, Maths, Economics, Accountancy, History, Political Science.",
- "questions": 40,
- "marks": 200,
- "tag": "Science"
- },
- {
- "subject": "Section III: General Test",
- "topics": "General knowledge, current affairs, quantitative reasoning, logical reasoning, numerical ability, general mental ability",
- "questions": 60,
- "marks": 200,
- "tag": "GK"
- }
- ],
- "books": [
- {
- "title": "NCERT Textbooks (Class 12)",
- "author": "NCERT",
- "subject": "All domain subjects (most important)"
- },
- {
- "title": "CUET Guide",
- "author": "Arihant / Disha Publications",
- "subject": "All sections"
- },
- {
- "title": "Previous Year CUET Papers",
- "author": "NTA/Arihant",
- "subject": "Practice"
- },
- {
- "title": "Objective General English",
- "author": "S.P. Bakshi",
- "subject": "English/Language"
- }
- ],
- "study_plan": [
- {
- "period": "Month 1-3: NCERT Mastery",
- "tasks": "CUET is 100% NCERT-based for domain subjects. Read NCERT 12th textbooks thoroughly for your chosen subjects. Make chapter-wise notes. Solve NCERT back exercises. Language section - practice comprehension and grammar."
- },
- {
- "period": "Month 4-5: Practice + General Test",
- "tasks": "Solve CUET previous year papers (2022-2025). General test preparation - current affairs, basic maths, reasoning. Practice MCQs from Arihant/Disha CUET guide. Focus on your top 3 domain subjects."
- },
- {
- "period": "Month 6: Mocks",
- "tasks": "Full mock tests weekly. Time management - each section is 45-60 minutes. Focus on accuracy since there's negative marking. Revise NCERT notes. Target: 180+ per section for top central universities."
- }
- ],
- "quiz": [
- {
- "question": "CUET UG is mandatory for admission to:",
- "options": [
- "IITs",
- "Central Universities",
- "State Universities",
- "Private Universities"
- ],
- "answer": 1
- },
- {
- "question": "CUET is conducted by:",
- "options": [
- "UGC",
- "CBSE",
- "NTA",
- "AICTE"
- ],
- "answer": 2
- },
- {
- "question": "How many domain subjects can you choose in CUET?",
- "options": [
- "3",
- "4",
- "5",
- "6"
- ],
- "answer": 3
- }
- ]
- },
- "last_reviewed": "May 2026",
- "category": "other"
+  "slug": "cuet-ug",
+  "title": "CUET UG 2026 - Common University Entrance Test",
+  "meta_description": "CUET UG 2026: 200+ universities (Delhi, JNU, BHU). May 11–31, 2026. Section-wise MCQs on NCERT. Delhi DU, JNU minimum cutoffs.",
+  "hero": {
+    "status": "upcoming",
+    "one_liner": "Single entrance exam for 200+ universities including Delhi University, JNU, BHU, Jamia Millia, and 40+ National Law Universities",
+    "icon": "🏫",
+    "updated_date": "May 2026",
+    "stats": [
+      {
+        "label": "Universities",
+        "value": "200+"
+      },
+      {
+        "label": "Exam Dates",
+        "value": "May 11–31, 2026"
+      },
+      {
+        "label": "Applicants",
+        "value": "15+ Lakh"
+      },
+      {
+        "label": "Mode",
+        "value": "CBT (Online)"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "📝",
+      "label": "Apply at NTA",
+      "url": "https://cuet.nta.nic.in/"
+    },
+    {
+      "icon": "📞",
+      "label": "NTA Helpline",
+      "url": "tel:011-40759000"
+    }
+  ],
+  "what_is_it": [
+    "CUET UG (Common University Entrance Test) introduced in 2022 replaced merit-based admissions (12th marks) at Central Universities (Delhi University, JNU, BHU, etc.) with a standardized entrance exam. Conducted by NTA (National Testing Agency) in computer-based format across multiple sessions. Before CUET, Delhi University had 99%+ cutoffs in board marks - creating unfair scenario where only top 0.5% students could enter. CUET democratized access: 12th board marks are now secondary; entrance exam score determines merit. With 15+ lakh applicants and 200+ participating universities, CUET is among India's largest entrance exams.",
+    "CUET UG structure: Section IA/IB (Languages - 13 options), Section II (Domain Subjects - choose up to 6 from 27), Section III (General Test). Each section has MCQs with questions based on NCERT Level 12 standards - conceptual clarity matters, not memorization. For language: grammar, comprehension, vocabulary from 12th NCERT books. For domain subjects (like Economics, History, Geography): stick to NCERT - beyond NCERT is rarely asked. General Test covers: General Knowledge, Current Affairs, Logical Reasoning, Quantitative Reasoning. Unlike CUET, there's no essay/descriptive component.",
+    "Universities set their own CUET cut-offs. Delhi University top colleges (SRCC, St. Stephen's, Hindu, LSR) require 99–99.5 percentile. JNU requires 95+ percentile. BHU requires 90+ percentile. For engineering: IIT-based universities (Delhi, BHU have engineering) have higher cutoffs than others. For law: top NLUs (NLSIU, NALSAR) through CLAT separate; CUET applies to law programs at general universities. Merit list preparation: Each university weighs CUET score + board marks + interview (if applicable) differently - check each university's admission policy."
+  ],
+  "key_details": [
+    {
+      "label": "Conducting Body",
+      "value": "NTA (National Testing Agency)",
+      "highlight": false
+    },
+    {
+      "label": "Eligibility",
+      "value": "12th pass from any recognized board (appearing also eligible)",
+      "highlight": true
+    },
+    {
+      "label": "Exam Mode",
+      "value": "CBT (Computer-Based Test)",
+      "highlight": false
+    },
+    {
+      "label": "Section Structure",
+      "value": "Section IA/IB (Languages) + Section II (Domain, choose 6) + Section III (General)",
+      "highlight": true
+    },
+    {
+      "label": "Question Type",
+      "value": "MCQs (40 per subject attempted, out of 50 offered)",
+      "highlight": false
+    },
+    {
+      "label": "Marking",
+      "value": "+5 for correct, -1 for wrong, 0 for unattempted",
+      "highlight": true
+    },
+    {
+      "label": "Duration",
+      "value": "45 minutes per section",
+      "highlight": false
+    },
+    {
+      "label": "Universities Accepting",
+      "value": "All 45 Central Universities + 150+ state/private universities",
+      "highlight": true
+    }
+  ],
+  "exam_pattern": [
+    {
+      "tier_name": "CUET UG (Multi-day, Multi-session)",
+      "description": "Attempt max 6 domain subjects. Each section 45 min. Choose sections per university requirements.",
+      "subjects": [
+        {
+          "name": "Section IA: Language 1 (choose 1 of 13)",
+          "questions": 40,
+          "marks": 200
+        },
+        {
+          "name": "Section IB: Language 2 (optional)",
+          "questions": 40,
+          "marks": 200
+        },
+        {
+          "name": "Section II: Domain Subjects (choose up to 6 from 27)",
+          "questions": 40,
+          "marks": 200
+        },
+        {
+          "name": "Section III: General Test",
+          "questions": 50,
+          "marks": 250
+        }
+      ],
+      "total_questions": 0,
+      "total_marks": "Varies by subject selection",
+      "duration": "45 min per section",
+      "negative_marking": "-1 for wrong, 0 for blank"
+    }
+  ],
+  "major_posts": [
+    {
+      "post": "BA/BSc at Delhi University",
+      "pay_level": "Premier brand - DU degree recognized globally",
+      "in_hand_salary": "Further education-dependent; DU graduates at top colleges earn ₹8–15 LPA in IT/Finance",
+      "department": "SRCC, Hindu, LSR, St. Stephen's, Miranda House, Ramjas, Ramakrishna Mission"
+    },
+    {
+      "post": "JNU Undergraduate Programs",
+      "pay_level": "World-class faculty, research orientation",
+      "in_hand_salary": "JNU graduates pursue research, civil services, journalism, earning ₹5–10 LPA initially",
+      "department": "School of Arts, Social Sciences, Languages, Performing Arts"
+    },
+    {
+      "post": "BHU Varanasi Programs",
+      "pay_level": "Residential campus, holistic development",
+      "in_hand_salary": "BHU engineering graduates: ₹8–12 LPA. Arts graduates: ₹5–8 LPA.",
+      "department": "Engineering, Arts, Science, Law"
+    }
+  ],
+  "extra_sections": [
+    {
+      "heading": "Top Universities: CUET Cutoff Ranges (2025 Data)",
+      "icon": "📊",
+      "type": "table",
+      "columns": [
+        "University",
+        "College/Program",
+        "CUET Percentile (Gen)",
+        "Board Marks Weight",
+        "Interview Required"
+      ],
+      "rows": [
+        [
+          "Delhi University",
+          "SRCC (Commerce)",
+          "99–99.5",
+          "20%",
+          "No (for most)"
+        ],
+        [
+          "Delhi University",
+          "St. Stephen's",
+          "98–99",
+          "30%",
+          "Yes (Supernumerary)"
+        ],
+        [
+          "Delhi University",
+          "Hindu",
+          "97–98",
+          "25%",
+          "No"
+        ],
+        [
+          "JNU",
+          "All Programs",
+          "95–97",
+          "33%",
+          "No"
+        ],
+        [
+          "BHU",
+          "Engineering",
+          "94–96",
+          "30%",
+          "No"
+        ],
+        [
+          "BHU",
+          "Arts/Science",
+          "90–92",
+          "30%",
+          "No"
+        ],
+        [
+          "Jamia Millia",
+          "All",
+          "85–90",
+          "40%",
+          "Some programs"
+        ]
+      ]
+    },
+    {
+      "heading": "",
+      "type": "svg_block",
+      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">CUET UG gateway 250+ central universitie</text><rect x=\"50\" y=\"50\" width=\"180\" height=\"75\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"140\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#145236\">Section 1A</text><text x=\"140\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#145236\">Languages (13 option</text><rect x=\"260\" y=\"50\" width=\"180\" height=\"75\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"350\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1E40AF\">Section 2</text><text x=\"350\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#1E40AF\">Domain subjects (max</text><rect x=\"470\" y=\"50\" width=\"180\" height=\"75\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"560\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#C2410C\">Section 3</text><text x=\"560\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#C2410C\">General Test (option</text></svg>",
+      "caption": "CUET UG replaced individual university entrance exams. One exam, one application - admission to DU, JNU, BHU, Jamia, and 250+ central universities."
+    },
+    {
+      "heading": "CUET Strategy: Subject Selection Guide",
+      "icon": "🎓",
+      "type": "text",
+      "content": [
+        "<p>Step 1: Target Universities & Programs - Before CUET registration, shortlist 5–7 universities with their specific programs. DU: SRCC (commerce), St.",
+        "Stephen's (versatile), Hindu (sciences), Ramakrishna Mission (all streams). JNU: All programs competitive.",
+        "BHU: Engineering + humanities. Jamia: Engineering + humanities.",
+        "Each has different subject requirements.</p>",
+        "<p>Step 2: Check Exact Subject Requirements - Critical step many students miss. DU's SRCC requires: English (mandatory) + Economics, Accounting, Business Studies (you need 3 of 4).",
+        "BHU Engineering requires: Physics, Chemistry, Math, Language. JNU has flexibility - most programs accept interdisciplinary subject combinations.",
+        "Check official <a href=\"/exam/afcat\" style=\"text-decoration:underline;color:inherit\">admission</a> notices on university websites.</p>",
+        "<p>Step 3: Strategic Subject Selection - Choose 6 subjects that: (1) You're strong in (aim for 95%+ in each), (2) Satisfy requirements of your top 3 universities, (3) Minimize overlap (reduce prep load).",
+        "Example strategy for commerce-legal studies path: English (mandatory, top colleges need it), Economics (commerce + law), Political Science (law + social sciences), History (liberal arts, JNU), Accounting (commerce), Business Studies (commerce).",
+        "This 6-subject combo covers: DU commerce, JNU multi-disciplinary, Jamia law.</p>",
+        "<p>Stream-wise Combinations: Commerce: English + Economics + Accounting + Business Studies + Math/Statistics + Computer Science (flexibility in last 2).",
+        "Science: English + Physics + Chemistry + Biology + Math + Computer Science (all 6 usually required).",
+        "Humanities: English + History + Geography + Political Science + Economics + Psychology/Sociology (flexibility in final choices).",
+        "Interdisciplinary (trending): English + Economics + Computer Science + Psychology + Environmental Studies + Media Studies (attractive for research-oriented universities like JNU)."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Why CUET changed everything",
+      "icon": "🎓",
+      "content": [
+        "Before CUET, Delhi University admission was based on 12th board marks - students needed 99%+ cutoffs for top colleges. CUET levelled the field by making admission exam-based, regardless of which board you studied under.",
+        "A CBSE student and a state board student now compete on the same exam.",
+        "CUET is NTA-conducted (same body as JEE and NEET) and follows NCERT Class 12 syllabus. Questions are MCQ-based and relatively easier than JEE/NEET.",
+        "If you've studied NCERT textbooks thoroughly, you can score well without coaching. This makes it the most accessible gateway to India's best universities."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "heading": "Strategy for maximum university options",
+      "content": "Choose 5-6 domain subjects that cover maximum university programs. For example: English + Economics + Political Science + History + Mathematics covers BA (Hons) applications across DU, JNU, BHU, and most central universities.<br><br>Check each university's required subjects before selecting - don't choose subjects randomly."
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "heading": "CUET 2026 expected timeline",
+      "content": "Registration: February-March 2026. Admit card: April 2026.<br><br>Exam: May 2026 (multiple shifts across 2-3 weeks). Results: June 2026.<br><br>Counselling: July-August 2026. Check cuet.nta.nic.in for official dates.<br><br>Apply to multiple universities through the common application - one CUET score, multiple admissions."
+    },
+    {
+      "type": "svg_block",
+      "heading": "Visual: Key Numbers",
+      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">200+</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Universities</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">May 11–31, 2026</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Exam Dates</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">15+ Lakh</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Applicants</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">CBT (Online)</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Mode</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
+      "caption": "Key facts",
+      "description": "Quick overview."
+    },
+    {
+      "type": "text",
+      "heading": "CUET UG Exam Structure - Sections and Subjects Explained",
+      "content": [
+        "The Common University <a href=\"/exam/cat-2026\" style=\"text-decoration:underline;color:inherit\">Entrance</a> Test for Undergraduate admissions is conducted by the National Testing Agency and is used by over 250 central, state, and private universities across India for their undergraduate admissions. Understanding the exam structure is essential because CUET offers more flexibility than most entrance exams.",
+        "Section 1A tests Language proficiency through Reading Comprehension in 13 different languages including English, Hindi, Tamil, Telugu, Kannada, Malayalam, Marathi, Gujarati, Bengali, Assamese, Punjabi, Odia, and Urdu. Candidates must choose one language from this section.",
+        "The questions test comprehension, vocabulary, grammar, and textual analysis based on passages. There are 50 questions from which candidates attempt 40.",
+        "Section 1B offers 20 additional languages for candidates who want to be tested in a language not available in Section 1A. This section is optional and relevant for universities that require proficiency in specific regional or foreign languages.",
+        "Section 2 is the domain-specific section covering 27 subjects including Physics, Chemistry, Mathematics, Biology, Accountancy, Business Studies, Economics, History, Political Science, Geography, Psychology, Sociology, Computer Science, and more. Candidates can choose up to 6 domain subjects based on the requirements of the universities and programs they are applying to.",
+        "Each subject has 50 questions from which 40 must be attempted.",
+        "Section 3 tests General Aptitude covering General Knowledge, Current Affairs, Quantitative Reasoning, Logical Reasoning, and Numerical Ability. This section has 60 questions from which 50 must be attempted.",
+        "Not all universities require Section 3 - check the specific admission criteria of your target universities."
+      ]
+    },
+    {
+      "type": "svg_block",
+      "heading": "Quick Facts",
+      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Quick Facts</text><rect x=\"17\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"94\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">200+</text><text x=\"94\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Universities</text><rect x=\"187\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"264\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">May 11–31, 2026</text><text x=\"264\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Exam Dates</text><rect x=\"357\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"434\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#92400E\">15+ Lakh</text><text x=\"434\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Applicants</text><rect x=\"527\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"604\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">CBT (Online)</text><text x=\"604\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Mode</text></svg>",
+      "caption": "Quick reference facts",
+      "description": "Key facts and numbers at a glance"
+    },
+    {
+      "type": "text",
+      "heading": "How Universities Use CUET Scores for Admission",
+      "content": [
+        "Different universities weigh CUET scores differently in their admission process. Understanding these variations is critical for strategic application planning.",
+        "Delhi University uses CUET scores as the sole criterion for undergraduate admissions across all programs. Your CUET percentile in the relevant domain subject directly determines whether you get admission.",
+        "For example, BA Economics admission depends on your CUET Economics score, while BSc Physics depends on your CUET Physics score. Language section scores may also be considered for certain programs.",
+        "Jawaharlal Nehru University uses a combination of CUET scores and internal criteria for some programs. Banaras Hindu University, Aligarh Muslim University, and other central universities each have their own weightage system - some use CUET scores exclusively while others combine them with Class 12 marks or additional university-level tests.",
+        "Private universities like Amity, Lovely Professional University, and Chandigarh University have also joined the CUET framework, offering students a single exam path to multiple institutions. However, each university may accept scores from different subject combinations, so research your target universities' requirements before selecting subjects.",
+        "The CUET scoring system uses percentiles rather than raw marks for ranking candidates. This normalizes scores across multiple exam sessions and shifts, ensuring candidates who took the exam on different days are compared fairly.",
+        "Universities set their own cutoff percentiles based on the number of seats and applications received."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Subject-Wise Preparation Strategy",
+      "content": [
+        "CUET domain subjects are based on the NCERT Class 12 syllabus. This is both a challenge and an advantage - candidates who have studied NCERT textbooks thoroughly already have most of the preparation done.",
+        "The key is to master NCERT content and then practice with CUET-specific question patterns.",
+        "For Science subjects, focus on NCERT textbook examples and back exercises. Physics questions in CUET tend to be conceptual rather than calculation-heavy - understanding principles, laws, and their applications is more important than solving complex numerical problems.",
+        "Chemistry covers both Physical, Organic, and Inorganic Chemistry with a mix of theoretical and numerical questions. Biology questions are largely factual and directly based on NCERT content.",
+        "For Commerce subjects, Accountancy questions test practical problem-solving with journal entries, ledger posting, financial statement preparation, and ratio analysis. Business Studies is entirely theoretical - memorize NCERT chapters thoroughly.",
+        "Economics covers both Micro and Macro Economics with conceptual questions and basic numerical problems.",
+        "For Humanities subjects, History focuses on themes from the NCERT textbooks - Ancient, Medieval, and Modern Indian History with emphasis on understanding historical processes rather than memorizing dates. Political Science covers Indian Constitution, political theory, and international relations.",
+        "Geography tests both physical and human geography concepts with map-based questions.",
+        "The Language section requires no specific textbook preparation - it tests reading comprehension and language skills developed over years. However, practicing 2 to 3 reading passages daily in the month before the exam significantly improves speed and accuracy."
+      ]
+    },
+    {
+      "type": "callout",
+      "heading": "How Many Subjects Should You Choose",
+      "content": "CUET allows you to appear for up to 6 domain subjects, but attempting too many can spread your preparation thin. The optimal strategy is to select 3 to 4 subjects that align with your target university requirements.<br><br>Check the admission brochures of your top 5 university-program combinations and identify the common subjects required across all of them. Prepare these 3 to 4 subjects deeply rather than attempting 6 subjects superficially.<br><br>Remember that universities only look at the specific subject scores they require - your other subject scores are irrelevant to them."
+    },
+    {
+      "type": "text",
+      "heading": "Three-Month Preparation Plan for CUET UG",
+      "content": [
+        "Month 1 is dedicated to completing NCERT textbooks for all chosen domain subjects. Read each chapter carefully, make notes of key concepts, definitions, formulas, and important facts.",
+        "For Science subjects, solve all NCERT in-text and back exercise questions. For Commerce and Humanities subjects, prepare answer frameworks for common question types.",
+        "Complete the Language section preparation by practicing 1 to 2 reading passages daily.",
+        "Month 2 shifts to practice and revision. Solve previous year CUET question papers and NTA-released sample papers for each subject.",
+        "Identify topics where you consistently lose marks and revisit those NCERT chapters. Take subject-wise mock tests to build familiarity with the exam interface and question patterns.",
+        "For General Aptitude (Section 3), start practicing GK, current affairs, logical reasoning, and quantitative aptitude questions from standard reference books.",
+        "Month 3 is the mock test and revision phase. Take 2 to 3 full-length CUET simulations weekly covering all your chosen sections in sequence.",
+        "Review your performance after each mock - focus on improving accuracy rather than attempting more questions (since you only need to attempt 40 out of 50 in each subject, skipping difficult questions is a valid strategy). Revise NCERT notes twice during this month.",
+        "In the final week, focus on current affairs updates, formula revision, and getting adequate rest before the exam.",
+        "For more details, see our guide on <a href=\"/exam/ugc-net\" style=\"text-decoration:underline;color:inherit\">UGC NET 2026</a>.",
+        "For more details, see our guide on <a href=\"/exam/jee-main\" style=\"text-decoration:underline;color:inherit\">JEE Main 2026</a>.",
+        "For more details, see our guide on <a href=\"/exam/neet-ug\" style=\"text-decoration:underline;color:inherit\">NEET UG 2026</a>."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Common Mistakes Students Make in CUET",
+      "content": [
+        "The biggest mistake is ignoring NCERT and relying on coaching material or reference books. CUET questions are directly based on NCERT content - coaching institutes may teach advanced concepts that never appear in the exam while missing basic NCERT facts that do appear.",
+        "Treat NCERT as your primary source and use reference material only for additional practice questions.",
+        "Selecting too many domain subjects dilutes preparation quality. Each additional subject requires 50 to 80 hours of dedicated preparation.",
+        "Students who choose 6 subjects often score average marks across all subjects, while those who focus on 3 to 4 subjects score high in each. Since universities only consider relevant subject scores, high scores in fewer subjects beat average scores in many subjects.",
+        "Neglecting the language section is another common error. Many students assume English comprehension requires no preparation since they have been studying in English throughout school.",
+        "However, CUET language questions are time-pressured and test specific comprehension skills like inference, tone identification, and vocabulary in context. Without practice, candidates waste time on the language section and lose crucial minutes.",
+        "Poor time allocation during the exam costs marks unnecessarily. With 40 questions to attempt from 50 in each subject section, spending more than 2 minutes on any single question is wasteful.",
+        "Mark difficult questions for review, move on, and return to them only after completing all easy and moderate questions. This strategy ensures you maximize marks from questions you can definitely solve."
+      ]
+    },
+    {
+      "type": "svg_block",
+      "heading": "Visual: Exam Pattern",
+      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Exam Pattern</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">200</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Section IA: Language</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">40 Qs</text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">200</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Section IB: Language</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">40 Qs</text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">200</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Section II: Domain S</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">40 Qs</text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">250</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Section III: General</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">50 Qs</text></svg>",
+      "caption": "Paper structure",
+      "description": "Subject-wise marks."
+    },
+    {
+      "type": "text",
+      "heading": "CUET vs Board Exams - Understanding the Difference",
+      "content": [
+        "A fundamental shift students must make is understanding that CUET tests differently than board exams even though the syllabus is the same. Board exams reward detailed descriptive answers and step-by-step solutions.",
+        "CUET uses multiple-choice questions that test recognition, application, and elimination skills rather than written expression.",
+        "In board exams, partial marks are awarded for showing working steps even if the final answer is wrong. In CUET, only the final answer matters - and wrong answers carry negative marking.",
+        "This means the test-taking strategy is fundamentally different. In boards, attempting every question maximizes marks.",
+        "In CUET, strategic skipping of uncertain questions protects your score from negative marking losses.",
+        "Board exam toppers do not automatically become CUET toppers. The skill of quickly identifying the correct answer among four options, managing time across multiple subjects in a single sitting, and maintaining focus during a 3-hour computer-based test are different from the skills rewarded in a traditional board exam.",
+        "Students who practice extensively with MCQ formats and timed mock tests develop these specific skills."
+      ]
+    },
+    {
+      "type": "pullquote",
+      "text": "CUET has democratized university admissions in India - a student from a small-town school with an unknown board now competes on equal footing with students from elite city schools for seats at Delhi University and JNU."
+    },
+    {
+      "type": "text",
+      "heading": "Best Books and Resources for CUET UG",
+      "content": [
+        "The single most important resource for every CUET domain subject is the NCERT textbook for that subject. No coaching material, guide, or reference book should take priority over NCERT.",
+        "Read each chapter multiple times, highlight key definitions and concepts, and solve all in-text and end-of-chapter questions.",
+        "For additional MCQ practice, Arihant's CUET subject-wise guide series provides practice questions aligned with the exam pattern. Disha Publications also offers comprehensive CUET preparation books with solved and unsolved papers.",
+        "NTA's own practice papers and previous year question papers are freely available on the official CUET website - these are the most authentic representation of actual exam difficulty.",
+        "For General Aptitude preparation, any standard GK book like Lucent's combined with daily current affairs updates covers the General Knowledge portion. For Logical Reasoning and Quantitative Aptitude within Section 3, RS Aggarwal's reasoning and math books provide more than enough practice.",
+        "The Section 3 difficulty level is moderate - significantly easier than competitive exams like CAT or SSC CGL.",
+        "Online platforms like Testbook, Adda247, and Careers360 offer CUET-specific mock test series. Taking at least 10 full-length simulations before the exam is strongly recommended.",
+        "These platforms also provide detailed performance analysis showing your percentile, time per question, and accuracy per topic - data that helps you target weak areas efficiently."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "CUET Registration and Application Process",
+      "content": [
+        "CUET UG registration opens annually on the NTA website at cuet.nta.nic.in, typically between February and April. The process is entirely online and involves several steps that must be completed carefully since errors can affect your exam and admission.",
+        "Create an account on the NTA portal using a valid email and mobile number. Fill in personal details, educational qualifications, and preferred exam languages.",
+        "Select the universities you want to apply to - you can choose multiple universities through a single CUET application. Select the subjects and sections you want to appear for based on the requirements of your chosen universities.",
+        "Upload a recent passport-size photograph and signature in the specified format and file size. Pay the application fee online - the fee varies by category (General, OBC, SC/ST, PwBD).",
+        "Download and save the confirmation page after successful submission. Correction windows are usually provided by NTA for fixing errors in the application, but relying on correction windows is risky since they have limited timeframes."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "University-Wise Cutoff Trends and What They Mean",
+      "content": [
+        "CUET cutoff percentiles vary dramatically across universities, programs, and categories. Understanding these trends helps you set realistic targets and choose a balanced mix of aspirational and safety universities in your application.",
+        "Delhi University's most popular programs like BA Economics at SRCC, BA English at St. Stephen's, and BSc Physics at Hindu College historically see cutoff percentiles above 95 to 98 for General category candidates. These programs are extremely competitive and require near-perfect scores in the relevant domain subjects.",
+        "However, less popular DU colleges offer the same degree with cutoffs in the 80 to 90 percentile range - the degree value for employment purposes is often similar.",
+        "Central universities outside Delhi like BHU, AMU, JNU, and Hyderabad University generally have lower cutoffs than DU for comparable programs. A student who scores 90th percentile in their domain subjects has excellent chances at these institutions even if DU admission is uncertain.",
+        "Applying to a mix of DU and non-DU central universities maximizes your admission probability.",
+        "State and private universities that have joined CUET often have significantly lower cutoffs, sometimes accepting candidates in the 60th to 75th percentile range. While these institutions may not carry the same brand value as DU or JNU, they offer quality education and the CUET-based admission provides a standardized selection process."
+      ]
+    },
+    {
+      "type": "callout",
+      "heading": "Exam Day Essentials",
+      "content": "Carry your CUET admit card printout and one original government-issued photo ID to the exam center. Reach at least 60 minutes before the reporting time printed on your admit card.<br><br>Electronic devices including mobile phones, smartwatches, and calculators are strictly prohibited inside the exam hall. Carry a transparent water bottle and basic stationery for rough work.<br><br>The exam is conducted on computers provided at the center - no personal laptops or devices are used."
+    },
+    {
+      "type": "svg_block",
+      "heading": "CUET UG Section Pattern",
+      "icon": "📋",
+      "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">CUET UG Three Sections</text><rect x=\"30\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"130\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">Section 1A Language</text><rect x=\"250\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"350\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Section 2 Domain Subje</text><rect x=\"470\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"570\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#92400E\">Section 3 General Test</text></svg>",
+      "caption": "CUET replaced individual university entrance exams for 250+ central universities",
+      "description": "NCERT Class 12 syllabus is the foundation for all domain subject papers."
+    }
+  ],
+  "important_dates": [
+    {
+      "label": "Registration Closed",
+      "value": "February 26, 2026",
+      "highlight": false
+    },
+    {
+      "label": "Exam Dates",
+      "value": "May 11–31, 2026 (multi-day)",
+      "highlight": true
+    },
+    {
+      "label": "City Slip Release",
+      "value": "April first week, 2026",
+      "highlight": false
+    },
+    {
+      "label": "Admit Card",
+      "value": "May 8, 2026 (approx)",
+      "highlight": false
+    },
+    {
+      "label": "Result",
+      "value": "June 2026",
+      "highlight": false
+    },
+    {
+      "label": "Counselling",
+      "value": "July–August 2026",
+      "highlight": false
+    }
+  ],
+  "preparation_tips": [
+    "NCERT 12th textbooks are your core material - read them thoroughly. CUET doesn't go beyond NCERT in difficulty. If you know 12th NCERT well, CUET will be straightforward. Solve all textbook exercises.",
+    "Domain subjects are 60% of CUET score (6 × 200 = 1,200 marks out of 1,900 total). Focus 70% of preparation on domain subjects. General Test is 250 marks - important but secondary.",
+    "Current affairs: 30–40 questions in General Test from current affairs (2024–2026). Read The Hindu or Indian Express for 30 min daily, 6 months before exam. Make short notes on major events, policy changes, international news.",
+    "Practice official NTA mock tests - CUET interface and question pattern are specific. Taking mocks helps you familiarize with: negative marking impact, time management (45 min per section), subject-wise strategy. Take 10–15 full-length mocks by June 2026."
+  ],
+  "faqs": [
+    {
+      "question": "Is CUET mandatory for all Central Universities?",
+      "answer": "Yes. Since 2022, CUET is mandatory for all Central University undergraduate admissions (except deemed universities).<br><br>12th board marks alone don't determine admission. However, board marks are still considered (20–40% weight) alongside CUET score and interview (if applicable)."
+    },
+    {
+      "question": "How to manage 6 subjects + General Test in CUET?",
+      "answer": "Total sections: 3–4 (Language 1 mandatory + optional Language 2 + Domain subjects + General Test). You don't attempt all on same day - CUET is held across multiple days/sessions (May 11–31).<br><br>Check admit card for your allotted day and session. Each session covers specific sections."
+    },
+    {
+      "question": "If I score 90 percentile, can I get Delhi University?",
+      "answer": "Possibly, but depends on your subject scores, board marks (20–30% weight), and specific college cutoff. SRCC (commerce) at DU requires 99+ percentile - 90 percentile won't suffice.<br><br>But other DU colleges (like Ramakrishna Mission) might accept 90. Check each college's specific cutoff."
+    },
+    {
+      "question": "Can I apply to multiple universities with one CUET score?",
+      "answer": "Yes! CUET score is valid across all 200+ participating universities.<br><br>You take CUET once; then apply separately to each university's counselling/admission portal. Each university conducts its own merit list based on CUET score + board marks + interview (if applicable)."
+    },
+    {
+      "question": "Is CUET easier than JEE/NEET?",
+      "answer": "Yes, significantly. CUET tests NCERT Class 12 level knowledge - straightforward questions without the complexity of JEE/NEET.<br><br>A student who has studied NCERT thoroughly can score 90%+ in CUET without coaching. JEE/NEET require months of specialized coaching and advanced problem-solving skills."
+    },
+    {
+      "question": "Can I apply to multiple universities through CUET?",
+      "answer": "Yes. One CUET score is accepted by 250+ central universities.<br><br>You can apply to as many universities as you want through their respective portals using your CUET score. Each university has its own counselling process and cutoffs.<br><br>Apply broadly to maximize your chances of getting into your preferred program."
+    },
+    {
+      "question": "Is coaching necessary for CUET?",
+      "answer": "Not for most students. If you've studied NCERT textbooks of Class 11-12 thoroughly, self-preparation with previous year papers is sufficient.<br><br>Free resources: NTA's official mock tests, NCERT PDFs (free at ncert.nic.in), YouTube channels for subject-specific revision. Coaching helps only if you need structured study discipline."
+    }
+  ],
+  "official_portal": {
+    "name": "CUET UG - NTA",
+    "url": "https://cuet.nta.nic.in"
+  },
+  "related_pages": [
+    {
+      "title": "JEE Main 2026",
+      "slug": "jee-main",
+      "tag": "Engineering",
+      "url": "/exam/jee-main"
+    },
+    {
+      "title": "NEET UG 2026",
+      "slug": "neet-ug",
+      "tag": "Medical",
+      "url": "/exam/neet-ug"
+    },
+    {
+      "title": "CLAT 2026",
+      "slug": "clat-2026",
+      "tag": "Law",
+      "url": "/exam/clat-2026"
+    }
+  ],
+  "tags": [
+    "CUET",
+    "University Entrance",
+    "DU",
+    "JNU",
+    "BHU",
+    "NTA",
+    "Undergraduate"
+  ],
+  "image_suggestions": [
+    "Delhi University North/South campus",
+    "JNU campus New Delhi",
+    "BHU Varanasi campus",
+    "SRCC Delhi college building",
+    "St. Stephen's Delhi campus",
+    "Computer-based exam CBT screenshot",
+    "NCERT 12th textbooks stack",
+    "Students in university lecture hall"
+  ],
+  "exam_prep": {
+    "syllabus": [
+      {
+        "subject": "Section IA: Language (13 languages)",
+        "topics": "Reading comprehension, vocabulary, grammar, sentence correction, rearrangement. Choose any language from 13 options.",
+        "questions": 50,
+        "marks": 200,
+        "tag": "English"
+      },
+      {
+        "subject": "Section II: Domain Subjects",
+        "topics": "Choose up to 6 subjects from 27 options. Questions based on NCERT 12th syllabus of that subject. Popular: Physics, Chemistry, Biology, Maths, Economics, Accountancy, History, Political Science.",
+        "questions": 40,
+        "marks": 200,
+        "tag": "Science"
+      },
+      {
+        "subject": "Section III: General Test",
+        "topics": "General knowledge, current affairs, quantitative reasoning, logical reasoning, numerical ability, general mental ability",
+        "questions": 60,
+        "marks": 200,
+        "tag": "GK"
+      }
+    ],
+    "books": [
+      {
+        "title": "NCERT Textbooks (Class 12)",
+        "author": "NCERT",
+        "subject": "All domain subjects (most important)"
+      },
+      {
+        "title": "CUET Guide",
+        "author": "Arihant / Disha Publications",
+        "subject": "All sections"
+      },
+      {
+        "title": "Previous Year CUET Papers",
+        "author": "NTA/Arihant",
+        "subject": "Practice"
+      },
+      {
+        "title": "Objective General English",
+        "author": "S.P. Bakshi",
+        "subject": "English/Language"
+      }
+    ],
+    "study_plan": [
+      {
+        "period": "Month 1-3: NCERT Mastery",
+        "tasks": "CUET is 100% NCERT-based for domain subjects. Read NCERT 12th textbooks thoroughly for your chosen subjects. Make chapter-wise notes. Solve NCERT back exercises. Language section - practice comprehension and grammar."
+      },
+      {
+        "period": "Month 4-5: Practice + General Test",
+        "tasks": "Solve CUET previous year papers (2022-2025). General test preparation - current affairs, basic maths, reasoning. Practice MCQs from Arihant/Disha CUET guide. Focus on your top 3 domain subjects."
+      },
+      {
+        "period": "Month 6: Mocks",
+        "tasks": "Full mock tests weekly. Time management - each section is 45-60 minutes. Focus on accuracy since there's negative marking. Revise NCERT notes. Target: 180+ per section for top central universities."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "CUET UG is mandatory for admission to:",
+        "options": [
+          "IITs",
+          "Central Universities",
+          "State Universities",
+          "Private Universities"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "CUET is conducted by:",
+        "options": [
+          "UGC",
+          "CBSE",
+          "NTA",
+          "AICTE"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "How many domain subjects can you choose in CUET?",
+        "options": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "answer": 3
+      }
+    ]
+  },
+  "last_reviewed": "May 2026",
+  "category": "other",
+  "salary_table": {
+    "intro": "In-hand salary ranges from BHU engineering graduates: ₹8–12 LPA. Arts graduates: ₹5–8 LPA. to Further education-dependent; DU graduates at top colleges earn ₹8–15 LPA in IT/Finance depending on the post and city.",
+    "rows": [
+      {
+        "post": "BA/BSc at Delhi University",
+        "amount": "Further education-dependent; DU graduates at top colleges earn ₹8–15 LPA in IT/Finance"
+      },
+      {
+        "post": "JNU Undergraduate Programs",
+        "amount": "JNU graduates pursue research, civil services, journalism, earning ₹5–10 LPA initially"
+      },
+      {
+        "post": "BHU Varanasi Programs",
+        "amount": "BHU engineering graduates: ₹8–12 LPA. Arts graduates: ₹5–8 LPA."
+      }
+    ]
+  },
+  "quick_facts": [
+    {
+      "label": "Universities",
+      "value": "200+"
+    },
+    {
+      "label": "Exam Dates",
+      "value": "May 11–31, 2026"
+    },
+    {
+      "label": "Applicants",
+      "value": "15+ Lakh"
+    },
+    {
+      "label": "Mode",
+      "value": "CBT (Online)"
+    }
+  ],
+  "status": "upcoming"
 }

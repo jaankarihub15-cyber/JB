@@ -1,655 +1,701 @@
 {
- "slug": "afcat",
- "title": "AFCAT 2026 - Air Force Common Admission Test",
- "meta_description": "AFCAT 2026 - become an Air Force officer. Flying/Technical/Ground Duty branches. Exam pattern, salary ₹56K+, flying allowance, and SSB interview.",
- "hero": {
- "status": "upcoming",
- "one_liner": "Officer entry into Indian Air Force through AFCAT - Flying Branch (pilots), Technical Branch (engineers), Ground Duty Branch (admin/logistics).",
- "icon": "✈️",
- "updated_date": "May 2026",
- "stats": [
- {
- "label": "AFCAT 1",
- "value": "Jan 31, 2026 (Done)"
- },
- {
- "label": "AFCAT 2",
- "value": "Aug 2026 (Expected)"
- },
- {
- "label": "Salary",
- "value": "₹56K+ basic"
- },
- {
- "label": "Flying Allow.",
- "value": "₹25K+/month"
- }
- ]
- },
- "quick_actions": [
- {
- "icon": "📝",
- "label": "Apply at IAF",
- "url": "https://afcat.cdac.in/"
- },
- {
- "icon": "📞",
- "label": "IAF Recruitment",
- "url": "tel:011-23010231"
- }
- ],
- "what_is_it": [
- "AFCAT (Air Force Common Admission Test) is the official entrance exam for recruiting officers in the Indian Air Force (IAF). Conducted twice yearly (typically February and August), AFCAT offers pathways to three distinct officer branches: Flying Branch (to become fighter/transport/helicopter pilots), Technical Branch (for engineering officers managing aircraft systems and maintenance), and Ground Duty Branch (for administrative, logistics, accounts, education, and meteorology officers). AFCAT is the primary route for officer entry post-graduation - alternative routes include NDA (after 12th) and CDS (combined defense services).",
- "The AFCAT selection process involves two major stages: (1) Written Test: 100 MCQs in 2 hours testing General Awareness, Verbal Ability, Numerical Ability, and Reasoning/Military Aptitude. This is a screening test with moderate difficulty. (2) AFSB (Air Force Selection Board): A 5-day intense process conducted at Air Force stations including psychological tests, group discussions, interviews, and medical examination. Flying candidates additionally undergo PABT (Pilot Aptitude Battery Test) and medical exam at Air Force Center of Medical Examination. The entire selection is merit-based with no preference for family background or connections.",
- "Starting salary as a Flying Officer is at Level 10 of Indian pay scale (₹56,100 basic) plus Flying Allowance (₹25,000/month for pilots) and other allowances, totaling approximately ₹90,000-1,20,000/month for pilots. Technical and Ground Duty officers earn ₹80,000-95,000/month. The glamour of the Air Force uniform, the thrill of flying fighter jets (for pilots), the security of government service, and rapid promotions make AFCAT highly attractive. Many AFCAT aspirants are driven by childhood dreams of flying, combined with job security and societal respect.",
- "AFCAT 2026 has two cycles: AFCAT 1 (conducted January 31, 2026 - now completed) and AFCAT 2 (expected August 2026, with notification likely in June). Candidates can appear for multiple AFCAT cycles and can apply for multiple branches simultaneously (Flying + Technical + Ground Duty). If selected for Flying and not found suitable during training, candidates may be offered Technical or Ground Duty options, allowing career flexibility."
- ],
- "key_details": [
- {
- "label": "Conducting Body",
- "value": "Indian Air Force",
- "highlight": false
- },
- {
- "label": "Flying Branch Age",
- "value": "20-24 years. Graduate + Physics & Mathematics at 12th level. 60% marks required.",
- "highlight": true
- },
- {
- "label": "Technical Branch Age",
- "value": "20-26 years. B.E./B.Tech in Aeronautical/Mechanical/Electrical/Electronics/Computer Engineering. 60% required.",
- "highlight": true
- },
- {
- "label": "Ground Duty Age",
- "value": "20-26 years. Graduate in any stream. MBA/MCA/MA/MSc for specific posts. 60% required.",
- "highlight": false
- },
- {
- "label": "Selection Stages",
- "value": "Written Test → AFSB Interview (5 days) → Medical Exam → Final Merit",
- "highlight": true
- },
- {
- "label": "Service Type",
- "value": "Short Service Commission (14 years) or Permanent Commission (till retirement at 60)",
- "highlight": false
- },
- {
- "label": "PABT",
- "value": "Pilot Aptitude Battery Test - unique for Flying Branch candidates",
- "highlight": true
- },
- {
- "label": "AFCAT Frequency",
- "value": "Twice per year: February and August cycles",
- "highlight": true
- }
- ],
- "exam_pattern": [
- {
- "tier_name": "AFCAT Written Test (2 hours - 120 minutes)",
- "description": "100 MCQs distributed across 4 sections. Online exam at designated IAF exam centers. Moderate difficulty compared to CDS/NDA. Focus on speed and accuracy.",
- "subjects": [
- {
- "name": "General Awareness",
- "questions": 25,
- "marks": 75
- },
- {
- "name": "Verbal Ability in English",
- "questions": 25,
- "marks": 75
- },
- {
- "name": "Numerical Ability",
- "questions": 18,
- "marks": 54
- },
- {
- "name": "Reasoning & Military Aptitude",
- "questions": 32,
- "marks": 96
- }
- ],
- "total_questions": 100,
- "total_marks": 300,
- "duration": "120 minutes",
- "negative_marking": "-1 mark deducted per wrong answer. Each question carries 3 marks. +3 for correct, 0 for unattempted."
- }
- ],
- "major_posts": [
- {
- "post": "Flying Officer - Pilot (Fighter/Transport/Helicopter)",
- "pay_level": "Level 10 (₹56,100 basic)",
- "in_hand_salary": "₹95,000-1,20,000/month (with Flying Allowance ₹25,000)",
- "department": "Indian Air Force - Flying Branch"
- },
- {
- "post": "Flying Officer - Technical (Aero/Elec/Mechanical Engineer)",
- "pay_level": "Level 10",
- "in_hand_salary": "₹80,000-95,000/month",
- "department": "Indian Air Force - Technical Branch"
- },
- {
- "post": "Flying Officer - Ground Duty (Admin/Logistics/Education)",
- "pay_level": "Level 10",
- "in_hand_salary": "₹80,000-95,000/month",
- "department": "Indian Air Force - Ground Duty Branch"
- }
- ],
- "extra_sections": [
- {
- "heading": "Three AFCAT Branches - Selection Criteria & Lifestyle",
- "icon": "✈️",
- "type": "table",
- "columns": [
- "Branch",
- "Eligibility",
- "Role",
- "Salary/Perks",
- "Lifestyle"
- ],
- "rows": [
- [
- "Flying",
- "Graduate + Physics/Maths at 12th, age 20-24, 60% marks",
- "Pilot of fighter/transport/helicopter",
- "₹95-120K/mo with flying allowance",
- "High physical demand, frequent transfers, thrill & risk"
- ],
- [
- "Technical",
- "B.E./B.Tech (Aero/Mech/Elec), age 20-26, 60% marks",
- "Aircraft engineer, maintenance, radar systems",
- "₹80-95K/mo",
- "Office-based initially, field postings, technical work"
- ],
- [
- "Ground Duty",
- "Any graduate, MBA/MCA for specific posts, age 20-26",
- "Admin, accounts, logistics, education, met",
- "₹80-95K/mo",
- "Office-based, stable, less physical demand"
- ]
- ]
- },
- {
- "heading": "",
- "type": "svg_block",
- "svg": "<svg viewBox=\"0 0 700 160\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">AFCAT 3 branches in the Indian Air Force</text><rect x=\"30\" y=\"50\" width=\"200\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"130\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#1E40AF\">Flying Branch</text><text x=\"130\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">Fighter/transport/he</text><text x=\"130\" y=\"118\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">pilot training at AF</text><rect x=\"250\" y=\"50\" width=\"200\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"350\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#145236\">Ground Duty (Tech)</text><text x=\"350\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">Aeronautical/electro</text><text x=\"350\" y=\"118\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">engineering officers</text><rect x=\"470\" y=\"50\" width=\"200\" height=\"90\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"570\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#C2410C\">Ground Duty (Non-Tech)</text><text x=\"570\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#C2410C\">Administration, logi</text><text x=\"570\" y=\"118\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#C2410C\">accounts, education</text></svg>",
- "caption": "Flying Branch is the most competitive (requires pilot aptitude). Ground Duty Technical needs engineering degree. Ground Duty Non-Technical is open to any graduate."
- },
- {
- "heading": "AFCAT Written vs AFSB - Equal Importance",
- "icon": "📝",
- "type": "text",
- "content": [
- "<h3>Written Test - Screening Only</h3><p>AFCAT written test is moderate difficulty (easier than NDA, comparable to CDS). It's primarily a screening exam - clearing cutoff (typically 40-50% for top candidates) gets you AFSB call.",
- "Once you're in AFSB, written test score carries minimal weightage (10-15%). This means: Your written score is important to qualify for AFSB, but once at AFSB, interview performance matters much more.</p>",
- "<h3>AFSB - Personality & Officer Quality Assessment</h3><p>The 5-day AFSB process is where actual selection happens. Components: (1) Group discussions on current affairs and defense topics, (2) Psychological tests (FSOT, WAT, TAT), (3) Personal interview (15-20 minutes), (4) Medical examination.",
- "Each component is scored. AFSB assesses: Officer Like Qualities (OLQs) - leadership, decision-making, temperament, patriotism, adaptability.",
- "A brilliant written test scorer can fail AFSB if they lack leadership or communication skills. Conversely, average written scorers with strong personality and communication can crack AFSB."
- ]
- },
- {
- "heading": "Flying Branch vs Other Branches - Career Trajectory",
- "icon": "💼",
- "type": "table",
- "columns": [
- "Career Aspect",
- "Flying Branch Pilot",
- "Technical Branch",
- "Ground Duty"
- ],
- "rows": [
- [
- "Entry Requirements",
- "Most stringent - vision, medical, aptitude",
- "Engineering degree required",
- "Any graduate"
- ],
- [
- "Promotion Speed",
- "Fast - from Flying Officer to Group Captain in 20 years",
- "Moderate",
- "Moderate"
- ],
- [
- "Salary Ceiling",
- "Highest due to flying allowance",
- "Same Level 10 scale",
- "Same Level 10 scale"
- ],
- [
- "Posting Locations",
- "Air Force bases across India + possibly Siachen/high altitude",
- "Air Force bases, technical organizations",
- "Air Force HQ, bases, varied"
- ],
- [
- "Physical Demand",
- "Very high - ejection risk, G-forces, high stress",
- "Moderate",
- "Low"
- ],
- [
- "Post-Retirement Options",
- "Pilot training instructor, defense contractor (high pay)",
- "Technical consultant, aerospace industry",
- "Civil services, business"
- ]
- ]
- },
- {
- "type": "text",
- "heading": "AFCAT exam pattern and selection process",
- "icon": "📝",
- "content": [
- "AFCAT (Air Force <a href=\"/exam/cuet-ug\" style=\"text-decoration:underline;color:inherit\">Common</a> Admission Test) is conducted twice a year by the Indian Air Force for commissioning officers in all three branches. The written exam has 100 MCQs in 2 hours covering General Awareness (military history, current affairs, geography, politics), Verbal Ability (comprehension, error detection, sentence completion, synonyms/antonyms), Numerical Ability (decimal fractions, ratio, profit-loss, simple interest, percentage, averages), and Reasoning and Military Aptitude Test (spatial, verbal, and non-verbal reasoning).",
- "After clearing the written exam, shortlisted candidates appear for AFSB (Air Force Selection Board) - a 5-day assessment identical to SSB. Day 1 is screening (OIR test + PPDT), Days 2-4 cover psychology tests (TAT, WAT, SRT, SD), group tasks (GD, GPE, PGT, HGT, individual obstacles, command task), and Day 5 is the personal interview with the board president.",
- "For Flying Branch candidates, there's an additional CPSS (Computerized Pilot Selection System) test that evaluates hand-eye coordination, instrument comprehension, spatial orientation, and multi-tasking ability. CPSS is extremely selective - only 15-20% of AFSB-recommended candidates clear it.",
- "If you fail CPSS, you can opt for Ground Duty branch instead.",
- "Medical examination follows AFSB recommendation. Flying Branch has the strictest medical standards - 6/6 vision in both eyes without glasses (LASIK accepted if done 6+ months before), no color blindness, perfect ear-nose-throat health, and cardiovascular fitness.",
- "Ground Duty medical standards are relatively relaxed - 6/9 in better eye, 6/18 in worse eye."
- ]
- },
- {
- "type": "text",
- "heading": "Eligibility for each branch",
- "icon": "📋",
- "content": [
- "Flying Branch: Age 20-24 years (upper age relaxation for candidates holding valid and current Commercial Pilot License - up to 26 years). Educational qualification: Bachelor's degree in any discipline with Physics and Mathematics at 10+2 level OR B.Tech/BE degree.",
- "Minimum 60% aggregate in graduation. This is the only branch where 10+2 subject requirement matters.",
- "Ground Duty (Technical): Age 20-26 years. Engineering degree (B.Tech/BE) in specified branches - Aeronautical, Mechanical, Electrical, Electronics, Computer Science, IT, and related disciplines.",
- "Minimum 60% aggregate. Tech officers maintain and repair aircraft, radar systems, communication equipment, and weapon systems - the backbone of Air Force operations.",
- "Ground Duty (Non-Technical): Age 20-26 years. Any Bachelor's degree with minimum 60% aggregate.",
- "This branch covers Administration (base management, human resources, logistics), Accounts (financial management, audit), Education (training, instruction), and Meteorology (weather forecasting for flight operations). The most accessible branch for graduates from any background.",
- "Women are eligible for all three branches including Flying Branch since 2016. Women fighter pilots serve in the IAF today.",
- "Physical standards for women are different from men but the selection process (AFCAT + AFSB) is identical. There is no separate quota - women compete on merit alongside male candidates."
- ]
- },
- {
- "type": "svg_block",
- "heading": "Visual: Key Numbers",
- "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">Jan 31, 2026 (Done</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">AFCAT 1</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">Aug 2026 (Expected</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">AFCAT 2</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">₹56K+ basic</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Salary</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">₹25K+/month</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Flying Allow.</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
- "caption": "Key facts",
- "description": "Quick overview."
- },
- {
- "type": "text",
- "heading": "AFCAT preparation strategy - 4 months",
- "icon": "📅",
- "content": [
- "Month 1 (Foundation): General Awareness - read 2 newspaper articles daily covering defense news, international relations, and Indian geography. Start with Lucent's GK for static awareness.",
- "Verbal Ability - practice 2 reading comprehension passages daily and review grammar rules (subject-verb agreement, tenses, articles). Start basic reasoning practice from RS Aggarwal.",
- "Month 2 (Practice): Numerical Ability - complete arithmetic topics from RS Aggarwal (percentage, ratio, profit-loss, SI/CI, averages, time-work). These are at Class 10 level - don't waste time on advanced math.",
- "<a href=\"/yojana/agnipath-scheme\" style=\"text-decoration:underline;color:inherit\">Military</a> Aptitude - practice spatial reasoning (3D visualization, mirror/water images, pattern completion). Take 1 sectional mock test per week.",
- "Month 3 (Mock intensive): Take 2 full-length AFCAT mocks per week. After each mock, analyze time per section and accuracy.",
- "The cutoff is typically 140-160 out of 300 (varies by year and branch). Focus on your weakest section - improving from 50% to 70% accuracy in one section adds more marks than improving from 80% to 90% in another.",
- "Month 4 (AFSB preparation): Once you clear AFCAT, you have 2-3 months before AFSB. Start group discussions on current affairs topics.",
- "Practice writing stories for picture perception (PPDT). Work on physical fitness - the group tasks at AFSB are physically demanding.",
- "Read about Officer Like Qualities (OLQs) - initiative, determination, courage, communication, and teamwork."
- ]
- },
- {
- "type": "svg_block",
- "heading": "Quick Facts",
- "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Quick Facts</text><rect x=\"17\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"94\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">Jan 31, 2026 (Done</text><text x=\"94\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">AFCAT 1</text><rect x=\"187\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"264\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">Aug 2026 (Expected</text><text x=\"264\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">AFCAT 2</text><rect x=\"357\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"434\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#92400E\">₹56K+ basic</text><text x=\"434\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Salary</text><rect x=\"527\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"604\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">₹25K+/month</text><text x=\"604\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Flying Allow.</text></svg>",
- "caption": "Quick reference facts",
- "description": "Key facts and numbers at a glance"
- },
- {
- "type": "text",
- "heading": "Air Force officer life and career",
- "icon": "✈️",
- "content": [
- "Starting salary: Flying Officer (equivalent to Lieutenant) earns Rs 56,100 basic + Flying Allowance (Rs 25,000 for flying branch) + Military Service Pay Rs 15,500 + DA + HRA. Total monthly for Flying Branch: Rs 1.2-1.5 lakh.",
- "Ground Duty: Rs 1.0-1.2 lakh. Free accommodation on Air Force stations, medical for family, canteen facilities, and 60 days annual leave.",
- "Flying Branch career: After training at Air Force Academy Dundigal (Hyderabad) for 74 weeks, you're posted to an operational squadron flying fighters (Rafale, Sukhoi-30, Tejas), transport (C-17, C-130J), or helicopters (Apache, Chinook, Mi-17). Fighter pilots are the elite - combat training, air exercises, and potential deployment.",
- "Transport and helicopter pilots support logistics, humanitarian operations, and special forces missions.",
- "Ground Duty career: Tech officers work on aircraft maintenance, avionics, radar systems, and weapon systems at Air Force stations and depots. Non-tech officers manage station administration, logistics, education, and meteorology.",
- "Both branches have clear promotion paths: Flying Officer → Flight Lieutenant (4 years) → Squadron Leader (6 years) → Wing Commander (13 years) → Group Captain → Air Commodore.",
- "Permanent Commission vs Short Service Commission: AFCAT offers both PC (permanent - serve until retirement age 54-60) and SSC (short - 14 years with option to convert to PC after 10 years or exit with gratuity and pension benefits). Flying Branch is always PC.",
- "Ground Duty can be PC or SSC depending on the notification. SSC gives you flexibility to exit and join the corporate world with military leadership experience - highly valued by companies."
- ]
- },
- {
- "type": "text",
- "heading": "AFCAT vs NDA vs CDS - which to choose for Air Force",
- "icon": "⚖️",
- "content": [
- "NDA (after 12th, age 16.5-19.5): 3 years NDA + 1.5 years AFA = 4.5 years training. Youngest entry. Permanent commission only. Must have Physics and Math in 12th for Air Force. Best choice if you're certain about Air Force from school age.",
- "CDS (after graduation, age 20-26): Written exam by UPSC + SSB. Training at AFA for 74 weeks. Both PC and SSC available. Same final rank and career as NDA entry. Best choice for graduates who missed NDA or decided on Air Force during/after college.",
- "AFCAT (after graduation, age 20-26): Written exam by IAF + AFSB. Training at AFA for 74 weeks. Conducted twice a year (CDS is once a year). AFCAT is easier than CDS written exam and has more attempts per year. Best choice for graduates who want maximum attempts at Air Force entry.",
- "Strategy for maximum chances: If you're in 12th with Physics+Math, attempt NDA twice (NDA I in April, NDA II in September). If you're in college/graduated, attempt CDS (once/year) + AFCAT (twice/year) simultaneously - that's 3 attempts per year at Air Force officer entry.",
- "The AFSB/SSB preparation is identical for all three entries.",
- "For more details, see our guide on <a href=\"/exam/nda\" style=\"text-decoration:underline;color:inherit\">NDA Exam 2026</a>.",
- "For more details, see our guide on <a href=\"/exam/upsc-nda-na\" style=\"text-decoration:underline;color:inherit\">UPSC CDS 2026</a>.",
- "For more details, see our guide on <a href=\"/exam/ssc-gd-constable\" style=\"text-decoration:underline;color:inherit\">SSC GD Constable 2026</a>."
- ]
- },
- {
- "type": "text",
- "heading": "Books and resources for AFCAT",
- "icon": "📚",
- "content": [
- "Written exam: Arihant AFCAT Guide (comprehensive - covers all sections with previous year papers), Pathfinder AFCAT by Arihant (practice-focused), RS Aggarwal Quantitative Aptitude (for numerical section), Lucent's GK (static awareness). For military current affairs, follow the IAF official website and Defense Research Wing YouTube channels.",
- "AFSB preparation: 'Let's Crack SSB Interview' by Wing Commander Arjun Rawat (best overall SSB guide), 'Crack SSB' by Dr. N.K.",
- "Natarajan (psychology tests explained). Practice PPDT stories daily - write a story for any random image in 4 minutes.",
- "Join a local SSB coaching for group task practice - solo preparation is insufficient for group dynamics assessment.",
- "Free resources: IAF Agniveer app (official - has practice questions and awareness material), previous year AFCAT papers on careerairforce.nic.in, YouTube channels like SSBCrackExams and MKC for AFSB guidance. The IAF also conducts periodic awareness programs at colleges - attend these for direct interaction with serving officers."
- ]
- },
- {
- "type": "callout",
- "variant": "info",
- "heading": "AFCAT 2026 expected schedule",
- "content": "AFCAT 1/2026: Notification in December 2025, exam in February 2026, AFSB in April-June 2026. AFCAT 2/2026: Notification in June 2026, exam in August 2026, AFSB in October-December 2026. Check careerairforce.nic.in for official notifications. Apply for both cycles - each attempt is independent."
- },
- {
- "type": "callout",
- "variant": "tip",
- "heading": "The CPSS advantage for Flying Branch",
- "content": "If you clear CPSS (Computerized Pilot Selection System), your chances of final recommendation increase dramatically - CPSS-cleared candidates have a 60-70% recommendation rate at AFSB vs 10-15% overall. CPSS tests innate pilot aptitude that can't be coached. If you have strong hand-eye coordination and spatial awareness, Flying Branch is your best shot at an Air Force career."
- },
- {
- "type": "svg_block",
- "heading": "Visual: Exam Pattern",
- "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Exam Pattern</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">75</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">General Awareness</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">25 Qs</text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">75</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Verbal Ability in En</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">25 Qs</text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">54</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Numerical Ability</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">18 Qs</text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">96</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Reasoning & Military</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">32 Qs</text></svg>",
- "caption": "Paper structure",
- "description": "Subject-wise marks."
- },
- {
- "type": "pullquote",
- "text": "An Air Force officer earns Rs 1.2 lakh/month starting salary, flies multi-million dollar aircraft, lives on beautiful Air Force stations, and retires with full pension at 54. No MBA or engineering job offers this combination of salary, adventure, respect, and lifetime security."
- },
- {
- "type": "text",
- "heading": "Section-wise detailed preparation",
- "icon": "🎯",
- "content": [
- "General Awareness (25 questions, 75 marks): This section carries the highest weightage and is the most unpredictable. Cover: History of Indian Air Force (formation in 1932, major operations - Safed Sagar, Meghdoot, Balakot), defense current affairs (new aircraft inductions, joint exercises with other countries, border developments), Indian and world geography (capitals, rivers, mountain ranges, international organizations), sports (Olympics, Commonwealth Games, major tournaments), and science and technology (space missions, nuclear programs, DRDO developments).",
- "IAF-specific questions appear in every AFCAT paper - know the Air Force Day (October 8), motto ('Touch the sky with glory'), major air bases (Ambala, Jodhpur, Halwara, Tezpur), and recent aircraft acquisitions (Rafale, S-400, Tejas Mark 2). These are guaranteed marks that most candidates miss because they focus only on general GK.",
- "Verbal Ability (25 questions, 75 marks): Reading Comprehension (2 passages, 10 questions - read the passage first, then answer, don't skim), Error Detection (grammar rules - subject-verb agreement, tense, preposition, article), Sentence Completion (vocabulary in context), Synonyms/Antonyms (know 500 common English words with multiple meanings), and Idioms/Phrases (memorize 100 most common English idioms).",
- "For verbal improvement, read The Hindu editorial page daily - not for content but for sentence structure, vocabulary, and comprehension practice. Underline 5 new words each day, look up meanings, and use them in sentences.",
- "Within 3 months, your English accuracy will jump from 50% to 80%. Grammar rules from Wren and Martin - focus on chapters 1-15 (parts of speech, tenses, voice, narration).",
- "Numerical Ability (18 questions, 54 marks): All questions are Class 10 arithmetic level. Topics: Decimal Fractions, Ratio and Proportion, Percentage, Profit and Loss, Simple Interest, Average, Time-Distance-Speed, and basic Algebra.",
- "AFCAT numerical questions are simpler than SSC CGL or banking exams. If you can do basic arithmetic quickly and accurately, this section is 40+ marks guaranteed.",
- "Speed matters more than difficulty here. Learn shortcuts: 1/8 = 12.5%, 1/6 = 16.67%, 1/7 = 14.28% - memorizing these fraction-percentage conversions saves 30 seconds per question.",
- "Practice 20 numerical questions daily for 6 weeks. Don't waste time on advanced mathematics - AFCAT never tests calculus, trigonometry, or complex algebra.",
- "Reasoning and Military Aptitude (32 questions, 96 marks): This is the highest-scoring section for prepared candidates. Covers: Number Series (find the pattern in number sequences), Analogy (word and number pair relationships), Odd One Out (classify and eliminate), Direction and Distance Sense, Coding-Decoding, Non-verbal Reasoning (figure series, pattern completion, mirror images), and Military Aptitude (spatial awareness, 3D visualization, embedded figures).",
- "Military Aptitude questions are unique to AFCAT - they test spatial intelligence that's crucial for pilot aptitude. Practice with 3D block counting, cube cutting, and figure rotation exercises.",
- "These are the same cognitive skills tested in CPSS later. If you score well here, your CPSS clearing probability also increases."
- ]
- },
- {
- "type": "text",
- "heading": "Physical fitness and medical standards",
- "icon": "💪",
- "content": [
- "AFSB physical standards: Height - minimum 162.5 cm for Flying Branch (men), 152 cm (women). Ground Duty: 157.5 cm (men), 152 cm (women).",
- "Weight proportional to height (BMI 18-25). Leg length minimum 99 cm for Flying Branch (critical for cockpit ergonomics).",
- "Sitting height 81.5-96 cm for Flying Branch.",
- "Vision requirements - the most common rejection reason: Flying Branch requires 6/6 in both eyes WITHOUT glasses or contact lenses. LASIK/PRK is accepted if done at least 6 months before AFSB and vision has stabilized.",
- "No color blindness (tested with Ishihara charts). Ground Duty Technical: 6/6 in better eye, 6/18 in worse eye (correctable to 6/6 with glasses).",
- "Ground Duty Non-Tech: 6/9 in better eye, 6/24 in worse eye (correctable).",
- "If you're considering Flying Branch and currently wear glasses, consult an ophthalmologist about LASIK feasibility NOW - don't wait until after clearing AFCAT. LASIK costs Rs 30,000-60,000 per eye and takes 6 months to stabilize. Planning ahead gives you time to meet the vision standard.",
- "Dental fitness: All 14 dental points must be present and functional. Missing teeth, severe cavities, or orthodontic treatment in progress can lead to temporary unfitness.",
- "Get dental issues fixed well before the medical exam. ENT (Ear, Nose, Throat): No hearing loss, no deviated nasal septum that affects breathing, no chronic sinusitis."
- ]
- },
- {
- "type": "text",
- "heading": "Post-retirement career options for IAF officers",
- "icon": "🔄",
- "content": [
- "IAF officers retire between age 54-60 depending on rank. Post-retirement life is well-supported: pension for life (under NPS for post-2004 recruits), ECHS medical coverage at military hospitals, canteen and mess facilities retained, and a strong alumni network.",
- "Corporate sector: IAF officers are highly valued for leadership, discipline, crisis management, and technical skills. Flying Branch officers join as aviation consultants, airline management, aerospace companies (HAL, Boeing India, Airbus India), and aviation safety regulators.",
- "Ground Duty Tech officers join defense manufacturing, IT consulting, and project management roles. Typical corporate salary: Rs 15-40 LPA depending on rank and specialization.",
- "Civil aviation: Retired fighter and transport pilots can join airlines as commercial pilots after obtaining ATPL (Airline Transport Pilot License). Many IAF pilots fly for Air India, IndiGo, and Vistara after retirement - earning Rs 4-8 lakh/month as senior captains.",
- "This makes IAF Flying Branch one of the few careers where post-retirement income can exceed in-service income.",
- "Entrepreneurship and consulting: Defense consulting (advising companies on military procurement, strategy, and compliance), starting training academies for defense aspirants, aviation training schools, and adventure tourism companies. The discipline and project execution skills from IAF service translate exceptionally well into entrepreneurship."
- ]
- },
- {
- "type": "text",
- "heading": "Common AFCAT mistakes to avoid",
- "icon": "⚠️",
- "content": [
- "Mistake 1: Ignoring the Military Aptitude section. This section carries 96 marks - the highest among all four sections. Many candidates from non-defense backgrounds skip spatial reasoning practice and lose 40-50 marks. Dedicate 30 minutes daily to figure series, embedded figures, and 3D visualization exercises.",
- "Mistake 2: Not checking branch eligibility before applying. Flying Branch requires Physics and Math at 10+2 level - if you took commerce or arts without math, you cannot apply for Flying regardless of your graduation. Check eligibility criteria carefully before starting preparation to avoid wasting months on the wrong branch.",
- "Mistake 3: Preparing for AFCAT written exam only. AFCAT written is just the first filter - AFSB is where most candidates fail (85% rejection rate). Start personality development, group discussion practice, and physical fitness training from day one of AFCAT preparation, not after clearing the written exam."
- ]
- },
- {
- "type": "svg_block",
- "heading": "AFCAT Entry Branches",
- "icon": "✈️",
- "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">Air Force Branches Through AFCAT</text><rect x=\"20\" y=\"45\" width=\"155\" height=\"40\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#1B6B4A\">Flying Branch</text><rect x=\"185\" y=\"45\" width=\"155\" height=\"40\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"262\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#1E40AF\">Technical Ground</text><rect x=\"350\" y=\"45\" width=\"155\" height=\"40\" rx=\"8\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"427\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#92400E\">Administration</text><rect x=\"515\" y=\"45\" width=\"160\" height=\"40\" rx=\"8\" fill=\"#F3E8FF\" stroke=\"#7C3AED\" stroke-width=\"2\"/><text x=\"595\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#5B21B6\">Education Branch</text></svg>",
- "caption": "Flying branch has the most competitive selection with AFSB interview",
- "description": "Starting pay for Flying Officer is approx ₹56,100 under 7th CPC plus allowances."
- }
- ],
- "important_dates": [
- {
- "label": "AFCAT 1 2026 Exam",
- "value": "January 31, 2026 (Completed)",
- "highlight": false
- },
- {
- "label": "AFCAT 2 2026 Notification",
- "value": "June 2026 (Expected)",
- "highlight": true
- },
- {
- "label": "AFCAT 2 2026 Exam",
- "value": "August 2026 (Expected)",
- "highlight": true
- },
- {
- "label": "AFSB Interviews",
- "value": "September-November 2026 (Expected)",
- "highlight": false
- },
- {
- "label": "Final Appointment",
- "value": "December-January 2027",
- "highlight": false
- }
- ],
- "preparation_tips": [
- "AFCAT written test is moderate difficulty - easier than NDA/CDS. Focus on: English grammar and vocabulary (25 marks), current affairs with defense focus (25 marks), basic mathematics (18 marks), and reasoning with spatial/military aptitude (32 marks). Don't over-prepare - spend 2-3 months on AFCAT written, then shift focus to AFSB preparation which is more important.",
- "Military Aptitude & Reasoning questions are unique to AFCAT - spatial reasoning (3D rotations, perspective views), direction sense, and group judgment scenarios. Practice with AFCAT-specific mock tests. These questions don't appear in other exams like CAT/IBPS. Standard competitive exam practice won't help here - AFCAT mocks are essential.",
- "Current affairs with defense angle is heavily tested. Follow: Defense Ministry announcements, Indian Air Force press releases, defense capabilities of India and neighboring countries, major defense projects (Tejas, Akash, etc.), and global military developments. Read Indian Express defense section weekly. In interview, defense knowledge is crucial - being unaware of India's latest fighter jets or missile systems is a red flag.",
- "AFSB preparation (5-day board) is where real selection happens. Prepare: Officer Like Qualities (decision-making, leadership, maturity), group discussion skills, current affairs depth, physical fitness (AFSB has PE tests), and confidence. Many written test scorers fail AFSB due to poor communication or lack of presence. Join AFSB-specific coaching 1-2 months before board for guidance on group discussions, interview technique, and psychological test familiarization.",
- "For Flying Branch: PABT (Pilot Aptitude Battery) is a separate test conducted at Air Force Center. It tests hand-eye coordination, spatial awareness, and instrument comprehension. If you fail PABT even once, you're permanently ineligible for Flying Branch. Prepare by: Flight simulator games, 3D visualization puzzles, direction-finding exercises. This is a make-or-break component for pilots."
- ],
- "faqs": [
- {
- "question": "Can I become a fighter pilot through AFCAT?",
- "answer": "Yes. AFCAT Flying Branch is one primary pathway to becoming a fighter pilot. After selection, you undergo 74 weeks of training at Air Force Academy, Dundigal. Post-graduation, you receive initial flying training (ab initio), then advanced training. Fighter/Transport/Helicopter allocation depends on your training performance - top performers are typically allocated to fighters. Another path: NDA (after 12th) is more prestigious for pilot entry but requires appearing at 17. AFCAT is the post-graduation alternative."
- },
- {
- "question": "AFCAT vs NDA vs CDS for Air Force entry?",
- "answer": "Three paths: (1) NDA - After 12th (age 16.5-19.5), 3 years NDA + 1 year AFA training. Entry at 22 as commissioned officer. Most prestigious. (2) CDS - After graduation (age 20-24 for Flying), 74 weeks AFA training. Entry at 22-25. (3) AFCAT - After graduation (age 20-24 for Flying), same 74 weeks AFA training. NDA is the premium choice (top students). CDS and AFCAT are equivalent post-graduation options. NDA has higher competition but prestigious. Choose based on: If you can appear at 17, do NDA. If graduating, choose AFCAT."
- },
- {
- "question": "I wear glasses. Can I apply for AFCAT Flying Branch?",
- "answer": "Flying Branch has strict vision requirement: 6/6 in each eye WITHOUT glasses/contacts. If your vision is below 6/6 uncorrected, you're not eligible for Flying. However, PRK/LASIK refractive surgery is now accepted with conditions: (1) At least 1 year post-surgery, (2) Vision stable at 6/6 uncorrected, (3) No regression, (4) No complications. Technical and Ground Duty have relaxed vision standards (corrected vision 6/9 acceptable). Many gifted students with glasses pursue Technical or Ground Duty instead of Flying."
- },
- {
- "question": "What's the salary difference between Flying and Ground Duty?",
- "answer": "Basic pay (Level 10) is identical. The difference is Flying Allowance: Pilots get ₹25,000/month extra. Over a 14-year Short Service Commission (SSC), this is ₹25K × 12 × 14 = ₹42 lakh in additional earnings. Pilots also get faster promotions and prestige. However, pilots face higher risk and extreme physical demands. Ground Duty offers stability, less stress, and still respectable salary. Choose based on: Risk appetite, physical fitness, career goals, and family considerations."
- },
- {
- "question": "I scored well in AFCAT written but failed AFSB. Can I retry?",
- "answer": "Yes. AFSB rejection is not permanent. You can appear for the next AFCAT cycle (6 months later) and attempt AFSB again. Many candidates crack AFSB on 2nd or 3rd attempt after improving communication, group discussion skills, and current affairs knowledge. Your written test score doesn't carry over - each AFCAT cycle is independent. Use AFSB feedback to identify weak areas (leadership? Communication? Confidence?) and work specifically on them."
- },
- {
- "question": "What is the AFCAT cutoff score?",
- "answer": "AFCAT cutoff varies by branch and year. Typical ranges: Flying Branch 180-200 out of 300, Ground Duty Technical 140-160, Ground Duty Non-Technical 150-170. The cutoff changes based on number of vacancies and applicant quality. Aim for 200+ to be safe across all branches."
- },
- {
- "question": "Can commerce graduates apply for AFCAT?",
- "answer": "Yes - for Ground Duty Non-Technical branch. Any Bachelor's degree with 60% aggregate qualifies. Commerce graduates can join Administration, Accounts, or Education branches. Ground Duty Technical requires engineering degree only. Flying Branch needs Physics+Math at 10+2 level regardless of graduation stream."
- },
- {
- "question": "Is AFCAT conducted online or offline?",
- "answer": "AFCAT is conducted as an online Computer Based Test (CBT) at designated exam centers across India. You answer on a computer screen - no paper. Practice with the mock test available on careerairforce.nic.in to get comfortable with the interface before the actual exam."
- },
- {
- "question": "How many times can I attempt AFCAT?",
- "answer": "No limit on attempts as long as you're within the age bracket (20-24 for Flying, 20-26 for Ground Duty). AFCAT is conducted twice a year, giving you potentially 4-12 attempts depending on your branch. Each attempt is independent - previous results don't affect future applications."
- }
- ],
- "official_portal": {
- "name": "AFCAT Portal - Indian Air Force",
- "url": "https://afcat.cdac.in"
- },
- "related_pages": [
- {
- "title": "NDA Exam 2026",
- "slug": "nda",
- "tag": "Defence",
- "url": "/exam/nda"
- },
- {
- "title": "UPSC CDS 2026",
- "slug": "upsc-nda-na",
- "tag": "Defence",
- "url": "/exam/upsc-nda-na"
- },
- {
- "title": "Agnipath Scheme",
- "slug": "agnipath-scheme",
- "tag": "Defence",
- "url": "/yojana/agnipath-scheme"
- },
- {
- "title": "SSC GD Constable",
- "slug": "ssc-gd-constable",
- "tag": "Defence",
- "url": "/exam/ssc-gd-constable"
- }
- ],
- "tags": [
- "AFCAT",
- "Air Force",
- "IAF",
- "Pilot",
- "Flying",
- "Defence",
- "Officer Entry"
- ],
- "image_suggestions": [
- "Indian fighter jet (Tejas) in flight",
- "Air Force pilot in cockpit",
- "AFSB selection board process",
- "Air Force Academy training",
- "IAF base and aircraft",
- "Officer in uniform with medals"
- ],
- "exam_prep": {
- "syllabus": [
- {
- "subject": "General Awareness",
- "topics": "History, geography, polity, economics, current affairs, sports, awards, defence-related GK, basic science, Indian Air Force knowledge",
- "questions": 25,
- "marks": 75,
- "tag": "GK"
- },
- {
- "subject": "Verbal Ability in English",
- "topics": "Comprehension, error detection, sentence completion, synonym/antonym, testing of vocabulary, idioms & phrases",
- "questions": 25,
- "marks": 75,
- "tag": "English"
- },
- {
- "subject": "Numerical Ability",
- "topics": "Decimal & fractions, percentage, average, ratio, profit & loss, SI/CI, time & distance, time & work, number system & series",
- "questions": 18,
- "marks": 54,
- "tag": "Maths"
- },
- {
- "subject": "Reasoning & Military Aptitude",
- "topics": "Verbal & non-verbal reasoning, sequence & series, coding-decoding, analogy, direction, pattern completion, spatial ability",
- "questions": 32,
- "marks": 96,
- "tag": "Reasoning"
- }
- ],
- "books": [
- {
- "title": "AFCAT Guide",
- "author": "Arihant Publications",
- "subject": "All-in-one"
- },
- {
- "title": "Lucent's GK",
- "author": "Lucent Publications",
- "subject": "GK"
- },
- {
- "title": "Quantitative Aptitude",
- "author": "R.S. Aggarwal",
- "subject": "Maths"
- },
- {
- "title": "Word Power Made Easy",
- "author": "Norman Lewis",
- "subject": "English"
- }
- ],
- "study_plan": [
- {
- "period": "Month 1-2: Foundation + IAF Knowledge",
- "tasks": "Study all 4 sections from Arihant AFCAT guide. Learn about IAF - aircraft (Rafale, Sukhoi, Tejas), commands, air bases, ranks, recent operations. English vocabulary 20 words/day. Basic maths practice."
- },
- {
- "period": "Month 3-4: Practice + EKT (if applicable)",
- "tasks": "Solve previous AFCAT papers. If applying for technical branch, prepare for Engineering Knowledge Test (EKT) - branch-specific questions. Current affairs focusing on defence news. Mock tests weekly."
- },
- {
- "period": "Month 5: AFSB Preparation",
- "tasks": "If written exam clears, prepare for Air Force Selection Board (AFSB) - similar to SSB. Psychological tests, group tasks, personal interview. Stay physically fit. Know why you want to join IAF - genuine motivation matters."
- }
- ],
- "quiz": [
- {
- "question": "AFCAT stands for:",
- "options": [
- "Air Force Common Aptitude Test",
- "Air Force Combined Admission Test",
- "Armed Forces Common Aptitude Test",
- "Air Force Competitive Aptitude Test"
- ],
- "answer": 0
- },
- {
- "question": "Tejas is a:",
- "options": [
- "Helicopter",
- "Transport aircraft",
- "Light Combat Aircraft",
- "UAV"
- ],
- "answer": 2
- },
- {
- "question": "The motto of Indian Air Force is:",
- "options": [
- "Service Before Self",
- "Touch the Sky with Glory",
- "Always Ready",
- "Valour and Victory"
- ],
- "answer": 1
- }
- ]
- },
- "last_reviewed": "May 2026",
- "category": "defense"
+  "slug": "afcat",
+  "title": "AFCAT 2026 - Air Force Common Admission Test",
+  "meta_description": "AFCAT 2026 - become an Air Force officer. Flying/Technical/Ground Duty branches. Exam pattern, salary ₹56K+, flying allowance, and SSB interview.",
+  "hero": {
+    "status": "upcoming",
+    "one_liner": "Officer entry into Indian Air Force through AFCAT - Flying Branch (pilots), Technical Branch (engineers), Ground Duty Branch (admin/logistics).",
+    "icon": "✈️",
+    "updated_date": "May 2026",
+    "stats": [
+      {
+        "label": "AFCAT 1",
+        "value": "Jan 31, 2026 (Done)"
+      },
+      {
+        "label": "AFCAT 2",
+        "value": "Aug 2026 (Expected)"
+      },
+      {
+        "label": "Salary",
+        "value": "₹56K+ basic"
+      },
+      {
+        "label": "Flying Allow.",
+        "value": "₹25K+/month"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "📝",
+      "label": "Apply at IAF",
+      "url": "https://afcat.cdac.in/"
+    },
+    {
+      "icon": "📞",
+      "label": "IAF Recruitment",
+      "url": "tel:011-23010231"
+    }
+  ],
+  "what_is_it": [
+    "AFCAT (Air Force Common Admission Test) is the official entrance exam for recruiting officers in the Indian Air Force (IAF). Conducted twice yearly (typically February and August), AFCAT offers pathways to three distinct officer branches: Flying Branch (to become fighter/transport/helicopter pilots), Technical Branch (for engineering officers managing aircraft systems and maintenance), and Ground Duty Branch (for administrative, logistics, accounts, education, and meteorology officers). AFCAT is the primary route for officer entry post-graduation - alternative routes include NDA (after 12th) and CDS (combined defense services).",
+    "The AFCAT selection process involves two major stages: (1) Written Test: 100 MCQs in 2 hours testing General Awareness, Verbal Ability, Numerical Ability, and Reasoning/Military Aptitude. This is a screening test with moderate difficulty. (2) AFSB (Air Force Selection Board): A 5-day intense process conducted at Air Force stations including psychological tests, group discussions, interviews, and medical examination. Flying candidates additionally undergo PABT (Pilot Aptitude Battery Test) and medical exam at Air Force Center of Medical Examination. The entire selection is merit-based with no preference for family background or connections.",
+    "Starting salary as a Flying Officer is at Level 10 of Indian pay scale (₹56,100 basic) plus Flying Allowance (₹25,000/month for pilots) and other allowances, totaling approximately ₹90,000-1,20,000/month for pilots. Technical and Ground Duty officers earn ₹80,000-95,000/month. The glamour of the Air Force uniform, the thrill of flying fighter jets (for pilots), the security of government service, and rapid promotions make AFCAT highly attractive. Many AFCAT aspirants are driven by childhood dreams of flying, combined with job security and societal respect.",
+    "AFCAT 2026 has two cycles: AFCAT 1 (conducted January 31, 2026 - now completed) and AFCAT 2 (expected August 2026, with notification likely in June). Candidates can appear for multiple AFCAT cycles and can apply for multiple branches simultaneously (Flying + Technical + Ground Duty). If selected for Flying and not found suitable during training, candidates may be offered Technical or Ground Duty options, allowing career flexibility."
+  ],
+  "key_details": [
+    {
+      "label": "Conducting Body",
+      "value": "Indian Air Force",
+      "highlight": false
+    },
+    {
+      "label": "Flying Branch Age",
+      "value": "20-24 years. Graduate + Physics & Mathematics at 12th level. 60% marks required.",
+      "highlight": true
+    },
+    {
+      "label": "Technical Branch Age",
+      "value": "20-26 years. B.E./B.Tech in Aeronautical/Mechanical/Electrical/Electronics/Computer Engineering. 60% required.",
+      "highlight": true
+    },
+    {
+      "label": "Ground Duty Age",
+      "value": "20-26 years. Graduate in any stream. MBA/MCA/MA/MSc for specific posts. 60% required.",
+      "highlight": false
+    },
+    {
+      "label": "Selection Stages",
+      "value": "Written Test → AFSB Interview (5 days) → Medical Exam → Final Merit",
+      "highlight": true
+    },
+    {
+      "label": "Service Type",
+      "value": "Short Service Commission (14 years) or Permanent Commission (till retirement at 60)",
+      "highlight": false
+    },
+    {
+      "label": "PABT",
+      "value": "Pilot Aptitude Battery Test - unique for Flying Branch candidates",
+      "highlight": true
+    },
+    {
+      "label": "AFCAT Frequency",
+      "value": "Twice per year: February and August cycles",
+      "highlight": true
+    }
+  ],
+  "exam_pattern": [
+    {
+      "tier_name": "AFCAT Written Test (2 hours - 120 minutes)",
+      "description": "100 MCQs distributed across 4 sections. Online exam at designated IAF exam centers. Moderate difficulty compared to CDS/NDA. Focus on speed and accuracy.",
+      "subjects": [
+        {
+          "name": "General Awareness",
+          "questions": 25,
+          "marks": 75
+        },
+        {
+          "name": "Verbal Ability in English",
+          "questions": 25,
+          "marks": 75
+        },
+        {
+          "name": "Numerical Ability",
+          "questions": 18,
+          "marks": 54
+        },
+        {
+          "name": "Reasoning & Military Aptitude",
+          "questions": 32,
+          "marks": 96
+        }
+      ],
+      "total_questions": 100,
+      "total_marks": 300,
+      "duration": "120 minutes",
+      "negative_marking": "-1 mark deducted per wrong answer. Each question carries 3 marks. +3 for correct, 0 for unattempted."
+    }
+  ],
+  "major_posts": [
+    {
+      "post": "Flying Officer - Pilot (Fighter/Transport/Helicopter)",
+      "pay_level": "Level 10 (₹56,100 basic)",
+      "in_hand_salary": "₹95,000-1,20,000/month (with Flying Allowance ₹25,000)",
+      "department": "Indian Air Force - Flying Branch"
+    },
+    {
+      "post": "Flying Officer - Technical (Aero/Elec/Mechanical Engineer)",
+      "pay_level": "Level 10",
+      "in_hand_salary": "₹80,000-95,000/month",
+      "department": "Indian Air Force - Technical Branch"
+    },
+    {
+      "post": "Flying Officer - Ground Duty (Admin/Logistics/Education)",
+      "pay_level": "Level 10",
+      "in_hand_salary": "₹80,000-95,000/month",
+      "department": "Indian Air Force - Ground Duty Branch"
+    }
+  ],
+  "extra_sections": [
+    {
+      "heading": "Three AFCAT Branches - Selection Criteria & Lifestyle",
+      "icon": "✈️",
+      "type": "table",
+      "columns": [
+        "Branch",
+        "Eligibility",
+        "Role",
+        "Salary/Perks",
+        "Lifestyle"
+      ],
+      "rows": [
+        [
+          "Flying",
+          "Graduate + Physics/Maths at 12th, age 20-24, 60% marks",
+          "Pilot of fighter/transport/helicopter",
+          "₹95-120K/mo with flying allowance",
+          "High physical demand, frequent transfers, thrill & risk"
+        ],
+        [
+          "Technical",
+          "B.E./B.Tech (Aero/Mech/Elec), age 20-26, 60% marks",
+          "Aircraft engineer, maintenance, radar systems",
+          "₹80-95K/mo",
+          "Office-based initially, field postings, technical work"
+        ],
+        [
+          "Ground Duty",
+          "Any graduate, MBA/MCA for specific posts, age 20-26",
+          "Admin, accounts, logistics, education, met",
+          "₹80-95K/mo",
+          "Office-based, stable, less physical demand"
+        ]
+      ]
+    },
+    {
+      "heading": "",
+      "type": "svg_block",
+      "svg": "<svg viewBox=\"0 0 700 160\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">AFCAT 3 branches in the Indian Air Force</text><rect x=\"30\" y=\"50\" width=\"200\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"130\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#1E40AF\">Flying Branch</text><text x=\"130\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">Fighter/transport/he</text><text x=\"130\" y=\"118\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">pilot training at AF</text><rect x=\"250\" y=\"50\" width=\"200\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"350\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#145236\">Ground Duty (Tech)</text><text x=\"350\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">Aeronautical/electro</text><text x=\"350\" y=\"118\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">engineering officers</text><rect x=\"470\" y=\"50\" width=\"200\" height=\"90\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"570\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#C2410C\">Ground Duty (Non-Tech)</text><text x=\"570\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#C2410C\">Administration, logi</text><text x=\"570\" y=\"118\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#C2410C\">accounts, education</text></svg>",
+      "caption": "Flying Branch is the most competitive (requires pilot aptitude). Ground Duty Technical needs engineering degree. Ground Duty Non-Technical is open to any graduate."
+    },
+    {
+      "heading": "AFCAT Written vs AFSB - Equal Importance",
+      "icon": "📝",
+      "type": "text",
+      "content": [
+        "<h3>Written Test - Screening Only</h3><p>AFCAT written test is moderate difficulty (easier than NDA, comparable to CDS). It's primarily a screening exam - clearing cutoff (typically 40-50% for top candidates) gets you AFSB call.",
+        "Once you're in AFSB, written test score carries minimal weightage (10-15%). This means: Your written score is important to qualify for AFSB, but once at AFSB, interview performance matters much more.</p>",
+        "<h3>AFSB - Personality & Officer Quality Assessment</h3><p>The 5-day AFSB process is where actual selection happens. Components: (1) Group discussions on current affairs and defense topics, (2) Psychological tests (FSOT, WAT, TAT), (3) Personal interview (15-20 minutes), (4) Medical examination.",
+        "Each component is scored. AFSB assesses: Officer Like Qualities (OLQs) - leadership, decision-making, temperament, patriotism, adaptability.",
+        "A brilliant written test scorer can fail AFSB if they lack leadership or communication skills. Conversely, average written scorers with strong personality and communication can crack AFSB."
+      ]
+    },
+    {
+      "heading": "Flying Branch vs Other Branches - Career Trajectory",
+      "icon": "💼",
+      "type": "table",
+      "columns": [
+        "Career Aspect",
+        "Flying Branch Pilot",
+        "Technical Branch",
+        "Ground Duty"
+      ],
+      "rows": [
+        [
+          "Entry Requirements",
+          "Most stringent - vision, medical, aptitude",
+          "Engineering degree required",
+          "Any graduate"
+        ],
+        [
+          "Promotion Speed",
+          "Fast - from Flying Officer to Group Captain in 20 years",
+          "Moderate",
+          "Moderate"
+        ],
+        [
+          "Salary Ceiling",
+          "Highest due to flying allowance",
+          "Same Level 10 scale",
+          "Same Level 10 scale"
+        ],
+        [
+          "Posting Locations",
+          "Air Force bases across India + possibly Siachen/high altitude",
+          "Air Force bases, technical organizations",
+          "Air Force HQ, bases, varied"
+        ],
+        [
+          "Physical Demand",
+          "Very high - ejection risk, G-forces, high stress",
+          "Moderate",
+          "Low"
+        ],
+        [
+          "Post-Retirement Options",
+          "Pilot training instructor, defense contractor (high pay)",
+          "Technical consultant, aerospace industry",
+          "Civil services, business"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "AFCAT exam pattern and selection process",
+      "icon": "📝",
+      "content": [
+        "AFCAT (Air Force <a href=\"/exam/cuet-ug\" style=\"text-decoration:underline;color:inherit\">Common</a> Admission Test) is conducted twice a year by the Indian Air Force for commissioning officers in all three branches. The written exam has 100 MCQs in 2 hours covering General Awareness (military history, current affairs, geography, politics), Verbal Ability (comprehension, error detection, sentence completion, synonyms/antonyms), Numerical Ability (decimal fractions, ratio, profit-loss, simple interest, percentage, averages), and Reasoning and Military Aptitude Test (spatial, verbal, and non-verbal reasoning).",
+        "After clearing the written exam, shortlisted candidates appear for AFSB (Air Force Selection Board) - a 5-day assessment identical to SSB. Day 1 is screening (OIR test + PPDT), Days 2-4 cover psychology tests (TAT, WAT, SRT, SD), group tasks (GD, GPE, PGT, HGT, individual obstacles, command task), and Day 5 is the personal interview with the board president.",
+        "For Flying Branch candidates, there's an additional CPSS (Computerized Pilot Selection System) test that evaluates hand-eye coordination, instrument comprehension, spatial orientation, and multi-tasking ability. CPSS is extremely selective - only 15-20% of AFSB-recommended candidates clear it.",
+        "If you fail CPSS, you can opt for Ground Duty branch instead.",
+        "Medical examination follows AFSB recommendation. Flying Branch has the strictest medical standards - 6/6 vision in both eyes without glasses (LASIK accepted if done 6+ months before), no color blindness, perfect ear-nose-throat health, and cardiovascular fitness.",
+        "Ground Duty medical standards are relatively relaxed - 6/9 in better eye, 6/18 in worse eye."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Eligibility for each branch",
+      "icon": "📋",
+      "content": [
+        "Flying Branch: Age 20-24 years (upper age relaxation for candidates holding valid and current Commercial Pilot License - up to 26 years). Educational qualification: Bachelor's degree in any discipline with Physics and Mathematics at 10+2 level OR B.Tech/BE degree.",
+        "Minimum 60% aggregate in graduation. This is the only branch where 10+2 subject requirement matters.",
+        "Ground Duty (Technical): Age 20-26 years. Engineering degree (B.Tech/BE) in specified branches - Aeronautical, Mechanical, Electrical, Electronics, Computer Science, IT, and related disciplines.",
+        "Minimum 60% aggregate. Tech officers maintain and repair aircraft, radar systems, communication equipment, and weapon systems - the backbone of Air Force operations.",
+        "Ground Duty (Non-Technical): Age 20-26 years. Any Bachelor's degree with minimum 60% aggregate.",
+        "This branch covers Administration (base management, human resources, logistics), Accounts (financial management, audit), Education (training, instruction), and Meteorology (weather forecasting for flight operations). The most accessible branch for graduates from any background.",
+        "Women are eligible for all three branches including Flying Branch since 2016. Women fighter pilots serve in the IAF today.",
+        "Physical standards for women are different from men but the selection process (AFCAT + AFSB) is identical. There is no separate quota - women compete on merit alongside male candidates."
+      ]
+    },
+    {
+      "type": "svg_block",
+      "heading": "Visual: Key Numbers",
+      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">Jan 31, 2026 (Done</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">AFCAT 1</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">Aug 2026 (Expected</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">AFCAT 2</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">₹56K+ basic</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Salary</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">₹25K+/month</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Flying Allow.</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
+      "caption": "Key facts",
+      "description": "Quick overview."
+    },
+    {
+      "type": "text",
+      "heading": "AFCAT preparation strategy - 4 months",
+      "icon": "📅",
+      "content": [
+        "Month 1 (Foundation): General Awareness - read 2 newspaper articles daily covering defense news, international relations, and Indian geography. Start with Lucent's GK for static awareness.",
+        "Verbal Ability - practice 2 reading comprehension passages daily and review grammar rules (subject-verb agreement, tenses, articles). Start basic reasoning practice from RS Aggarwal.",
+        "Month 2 (Practice): Numerical Ability - complete arithmetic topics from RS Aggarwal (percentage, ratio, profit-loss, SI/CI, averages, time-work). These are at Class 10 level - don't waste time on advanced math.",
+        "<a href=\"/yojana/agnipath-scheme\" style=\"text-decoration:underline;color:inherit\">Military</a> Aptitude - practice spatial reasoning (3D visualization, mirror/water images, pattern completion). Take 1 sectional mock test per week.",
+        "Month 3 (Mock intensive): Take 2 full-length AFCAT mocks per week. After each mock, analyze time per section and accuracy.",
+        "The cutoff is typically 140-160 out of 300 (varies by year and branch). Focus on your weakest section - improving from 50% to 70% accuracy in one section adds more marks than improving from 80% to 90% in another.",
+        "Month 4 (AFSB preparation): Once you clear AFCAT, you have 2-3 months before AFSB. Start group discussions on current affairs topics.",
+        "Practice writing stories for picture perception (PPDT). Work on physical fitness - the group tasks at AFSB are physically demanding.",
+        "Read about Officer Like Qualities (OLQs) - initiative, determination, courage, communication, and teamwork."
+      ]
+    },
+    {
+      "type": "svg_block",
+      "heading": "Quick Facts",
+      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Quick Facts</text><rect x=\"17\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"94\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">Jan 31, 2026 (Done</text><text x=\"94\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">AFCAT 1</text><rect x=\"187\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"264\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">Aug 2026 (Expected</text><text x=\"264\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">AFCAT 2</text><rect x=\"357\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"434\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#92400E\">₹56K+ basic</text><text x=\"434\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Salary</text><rect x=\"527\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"604\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">₹25K+/month</text><text x=\"604\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Flying Allow.</text></svg>",
+      "caption": "Quick reference facts",
+      "description": "Key facts and numbers at a glance"
+    },
+    {
+      "type": "text",
+      "heading": "Air Force officer life and career",
+      "icon": "✈️",
+      "content": [
+        "Starting salary: Flying Officer (equivalent to Lieutenant) earns Rs 56,100 basic + Flying Allowance (Rs 25,000 for flying branch) + Military Service Pay Rs 15,500 + DA + HRA. Total monthly for Flying Branch: Rs 1.2-1.5 lakh.",
+        "Ground Duty: Rs 1.0-1.2 lakh. Free accommodation on Air Force stations, medical for family, canteen facilities, and 60 days annual leave.",
+        "Flying Branch career: After training at Air Force Academy Dundigal (Hyderabad) for 74 weeks, you're posted to an operational squadron flying fighters (Rafale, Sukhoi-30, Tejas), transport (C-17, C-130J), or helicopters (Apache, Chinook, Mi-17). Fighter pilots are the elite - combat training, air exercises, and potential deployment.",
+        "Transport and helicopter pilots support logistics, humanitarian operations, and special forces missions.",
+        "Ground Duty career: Tech officers work on aircraft maintenance, avionics, radar systems, and weapon systems at Air Force stations and depots. Non-tech officers manage station administration, logistics, education, and meteorology.",
+        "Both branches have clear promotion paths: Flying Officer → Flight Lieutenant (4 years) → Squadron Leader (6 years) → Wing Commander (13 years) → Group Captain → Air Commodore.",
+        "Permanent Commission vs Short Service Commission: AFCAT offers both PC (permanent - serve until retirement age 54-60) and SSC (short - 14 years with option to convert to PC after 10 years or exit with gratuity and pension benefits). Flying Branch is always PC.",
+        "Ground Duty can be PC or SSC depending on the notification. SSC gives you flexibility to exit and join the corporate world with military leadership experience - highly valued by companies."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "AFCAT vs NDA vs CDS - which to choose for Air Force",
+      "icon": "⚖️",
+      "content": [
+        "NDA (after 12th, age 16.5-19.5): 3 years NDA + 1.5 years AFA = 4.5 years training. Youngest entry.",
+        "Permanent commission only. Must have Physics and Math in 12th for Air Force.",
+        "Best choice if you're certain about Air Force from school age.",
+        "CDS (after graduation, age 20-26): Written exam by UPSC + SSB. Training at AFA for 74 weeks.",
+        "Both PC and SSC available. Same final rank and career as NDA entry.",
+        "Best choice for graduates who missed NDA or decided on Air Force during/after college.",
+        "AFCAT (after graduation, age 20-26): Written exam by IAF + AFSB. Training at AFA for 74 weeks.",
+        "Conducted twice a year (CDS is once a year). AFCAT is easier than CDS written exam and has more attempts per year.",
+        "Best choice for graduates who want maximum attempts at Air Force entry.",
+        "Strategy for maximum chances: If you're in 12th with Physics+Math, attempt NDA twice (NDA I in April, NDA II in September). If you're in college/graduated, attempt CDS (once/year) + AFCAT (twice/year) simultaneously - that's 3 attempts per year at Air Force officer entry.",
+        "The AFSB/SSB preparation is identical for all three entries.",
+        "For more details, see our guide on <a href=\"/exam/nda\" style=\"text-decoration:underline;color:inherit\">NDA Exam 2026</a>.",
+        "For more details, see our guide on <a href=\"/exam/upsc-nda-na\" style=\"text-decoration:underline;color:inherit\">UPSC CDS 2026</a>.",
+        "For more details, see our guide on <a href=\"/exam/ssc-gd-constable\" style=\"text-decoration:underline;color:inherit\">SSC GD Constable 2026</a>."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Books and resources for AFCAT",
+      "icon": "📚",
+      "content": [
+        "Written exam: Arihant AFCAT Guide (comprehensive - covers all sections with previous year papers), Pathfinder AFCAT by Arihant (practice-focused), RS Aggarwal Quantitative Aptitude (for numerical section), Lucent's GK (static awareness). For military current affairs, follow the IAF official website and Defense Research Wing YouTube channels.",
+        "AFSB preparation: 'Let's Crack SSB Interview' by Wing Commander Arjun Rawat (best overall SSB guide), 'Crack SSB' by Dr. N.K.",
+        "Natarajan (psychology tests explained). Practice PPDT stories daily - write a story for any random image in 4 minutes.",
+        "Join a local SSB coaching for group task practice - solo preparation is insufficient for group dynamics assessment.",
+        "Free resources: IAF Agniveer app (official - has practice questions and awareness material), previous year AFCAT papers on careerairforce.nic.in, YouTube channels like SSBCrackExams and MKC for AFSB guidance. The IAF also conducts periodic awareness programs at colleges - attend these for direct interaction with serving officers."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "heading": "AFCAT 2026 expected schedule",
+      "content": "AFCAT 1/2026: Notification in December 2025, exam in February 2026, AFSB in April-June 2026. AFCAT 2/2026: Notification in June 2026, exam in August 2026, AFSB in October-December 2026.<br><br>Check careerairforce.nic.in for official notifications. Apply for both cycles - each attempt is independent."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "heading": "The CPSS advantage for Flying Branch",
+      "content": "If you clear CPSS (Computerized Pilot Selection System), your chances of final recommendation increase dramatically - CPSS-cleared candidates have a 60-70% recommendation rate at AFSB vs 10-15% overall. CPSS tests innate pilot aptitude that can't be coached.<br><br>If you have strong hand-eye coordination and spatial awareness, Flying Branch is your best shot at an Air Force career."
+    },
+    {
+      "type": "svg_block",
+      "heading": "Visual: Exam Pattern",
+      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Exam Pattern</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">75</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">General Awareness</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">25 Qs</text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">75</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Verbal Ability in En</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">25 Qs</text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">54</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Numerical Ability</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">18 Qs</text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">96</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Reasoning & Military</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">32 Qs</text></svg>",
+      "caption": "Paper structure",
+      "description": "Subject-wise marks."
+    },
+    {
+      "type": "pullquote",
+      "text": "An Air Force officer earns Rs 1.2 lakh/month starting salary, flies multi-million dollar aircraft, lives on beautiful Air Force stations, and retires with full pension at 54. No MBA or engineering job offers this combination of salary, adventure, respect, and lifetime security."
+    },
+    {
+      "type": "text",
+      "heading": "Section-wise detailed preparation",
+      "icon": "🎯",
+      "content": [
+        "General Awareness (25 questions, 75 marks): This section carries the highest weightage and is the most unpredictable. Cover: History of Indian Air Force (formation in 1932, major operations - Safed Sagar, Meghdoot, Balakot), defense current affairs (new aircraft inductions, joint exercises with other countries, border developments), Indian and world geography (capitals, rivers, mountain ranges, international organizations), sports (Olympics, Commonwealth Games, major tournaments), and science and technology (space missions, nuclear programs, DRDO developments).",
+        "IAF-specific questions appear in every AFCAT paper - know the Air Force Day (October 8), motto ('Touch the sky with glory'), major air bases (Ambala, Jodhpur, Halwara, Tezpur), and recent aircraft acquisitions (Rafale, S-400, Tejas Mark 2). These are guaranteed marks that most candidates miss because they focus only on general GK.",
+        "Verbal Ability (25 questions, 75 marks): Reading Comprehension (2 passages, 10 questions - read the passage first, then answer, don't skim), Error Detection (grammar rules - subject-verb agreement, tense, preposition, article), Sentence Completion (vocabulary in context), Synonyms/Antonyms (know 500 common English words with multiple meanings), and Idioms/Phrases (memorize 100 most common English idioms).",
+        "For verbal improvement, read The Hindu editorial page daily - not for content but for sentence structure, vocabulary, and comprehension practice. Underline 5 new words each day, look up meanings, and use them in sentences.",
+        "Within 3 months, your English accuracy will jump from 50% to 80%. Grammar rules from Wren and Martin - focus on chapters 1-15 (parts of speech, tenses, voice, narration).",
+        "Numerical Ability (18 questions, 54 marks): All questions are Class 10 arithmetic level. Topics: Decimal Fractions, Ratio and Proportion, Percentage, Profit and Loss, Simple Interest, Average, Time-Distance-Speed, and basic Algebra.",
+        "AFCAT numerical questions are simpler than SSC CGL or banking exams. If you can do basic arithmetic quickly and accurately, this section is 40+ marks guaranteed.",
+        "Speed matters more than difficulty here. Learn shortcuts: 1/8 = 12.5%, 1/6 = 16.67%, 1/7 = 14.28% - memorizing these fraction-percentage conversions saves 30 seconds per question.",
+        "Practice 20 numerical questions daily for 6 weeks. Don't waste time on advanced mathematics - AFCAT never tests calculus, trigonometry, or complex algebra.",
+        "Reasoning and Military Aptitude (32 questions, 96 marks): This is the highest-scoring section for prepared candidates. Covers: Number Series (find the pattern in number sequences), Analogy (word and number pair relationships), Odd One Out (classify and eliminate), Direction and Distance Sense, Coding-Decoding, Non-verbal Reasoning (figure series, pattern completion, mirror images), and Military Aptitude (spatial awareness, 3D visualization, embedded figures).",
+        "Military Aptitude questions are unique to AFCAT - they test spatial intelligence that's crucial for pilot aptitude. Practice with 3D block counting, cube cutting, and figure rotation exercises.",
+        "These are the same cognitive skills tested in CPSS later. If you score well here, your CPSS clearing probability also increases."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Physical fitness and medical standards",
+      "icon": "💪",
+      "content": [
+        "AFSB physical standards: Height - minimum 162.5 cm for Flying Branch (men), 152 cm (women). Ground Duty: 157.5 cm (men), 152 cm (women).",
+        "Weight proportional to height (BMI 18-25). Leg length minimum 99 cm for Flying Branch (critical for cockpit ergonomics).",
+        "Sitting height 81.5-96 cm for Flying Branch.",
+        "Vision requirements - the most common rejection reason: Flying Branch requires 6/6 in both eyes WITHOUT glasses or contact lenses. LASIK/PRK is accepted if done at least 6 months before AFSB and vision has stabilized.",
+        "No color blindness (tested with Ishihara charts). Ground Duty Technical: 6/6 in better eye, 6/18 in worse eye (correctable to 6/6 with glasses).",
+        "Ground Duty Non-Tech: 6/9 in better eye, 6/24 in worse eye (correctable).",
+        "If you're considering Flying Branch and currently wear glasses, consult an ophthalmologist about LASIK feasibility NOW - don't wait until after clearing AFCAT. LASIK costs Rs 30,000-60,000 per eye and takes 6 months to stabilize.",
+        "Planning ahead gives you time to meet the vision standard.",
+        "Dental fitness: All 14 dental points must be present and functional. Missing teeth, severe cavities, or orthodontic treatment in progress can lead to temporary unfitness.",
+        "Get dental issues fixed well before the medical exam. ENT (Ear, Nose, Throat): No hearing loss, no deviated nasal septum that affects breathing, no chronic sinusitis."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Post-retirement career options for IAF officers",
+      "icon": "🔄",
+      "content": [
+        "IAF officers retire between age 54-60 depending on rank. Post-retirement life is well-supported: pension for life (under NPS for post-2004 recruits), ECHS medical coverage at military hospitals, canteen and mess facilities retained, and a strong alumni network.",
+        "Corporate sector: IAF officers are highly valued for leadership, discipline, crisis management, and technical skills. Flying Branch officers join as aviation consultants, airline management, aerospace companies (HAL, Boeing India, Airbus India), and aviation safety regulators.",
+        "Ground Duty Tech officers join defense manufacturing, IT consulting, and project management roles. Typical corporate salary: Rs 15-40 LPA depending on rank and specialization.",
+        "Civil aviation: Retired fighter and transport pilots can join airlines as commercial pilots after obtaining ATPL (Airline Transport Pilot License). Many IAF pilots fly for Air India, IndiGo, and Vistara after retirement - earning Rs 4-8 lakh/month as senior captains.",
+        "This makes IAF Flying Branch one of the few careers where post-retirement income can exceed in-service income.",
+        "Entrepreneurship and consulting: Defense consulting (advising companies on military procurement, strategy, and compliance), starting training academies for defense aspirants, aviation training schools, and adventure tourism companies. The discipline and project execution skills from IAF service translate exceptionally well into entrepreneurship."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Common AFCAT mistakes to avoid",
+      "icon": "⚠️",
+      "content": [
+        "Mistake 1: Ignoring the Military Aptitude section. This section carries 96 marks - the highest among all four sections.",
+        "Many candidates from non-defense backgrounds skip spatial reasoning practice and lose 40-50 marks. Dedicate 30 minutes daily to figure series, embedded figures, and 3D visualization exercises.",
+        "Mistake 2: Not checking branch eligibility before applying. Flying Branch requires Physics and Math at 10+2 level - if you took commerce or arts without math, you cannot apply for Flying regardless of your graduation.",
+        "Check eligibility criteria carefully before starting preparation to avoid wasting months on the wrong branch.",
+        "Mistake 3: Preparing for AFCAT written exam only. AFCAT written is just the first filter - AFSB is where most candidates fail (85% rejection rate).",
+        "Start personality development, group discussion practice, and physical fitness training from day one of AFCAT preparation, not after clearing the written exam."
+      ]
+    },
+    {
+      "type": "svg_block",
+      "heading": "AFCAT Entry Branches",
+      "icon": "✈️",
+      "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">Air Force Branches Through AFCAT</text><rect x=\"20\" y=\"45\" width=\"155\" height=\"40\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#1B6B4A\">Flying Branch</text><rect x=\"185\" y=\"45\" width=\"155\" height=\"40\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"262\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#1E40AF\">Technical Ground</text><rect x=\"350\" y=\"45\" width=\"155\" height=\"40\" rx=\"8\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"427\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#92400E\">Administration</text><rect x=\"515\" y=\"45\" width=\"160\" height=\"40\" rx=\"8\" fill=\"#F3E8FF\" stroke=\"#7C3AED\" stroke-width=\"2\"/><text x=\"595\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#5B21B6\">Education Branch</text></svg>",
+      "caption": "Flying branch has the most competitive selection with AFSB interview",
+      "description": "Starting pay for Flying Officer is approx ₹56,100 under 7th CPC plus allowances."
+    }
+  ],
+  "important_dates": [
+    {
+      "label": "AFCAT 1 2026 Exam",
+      "value": "January 31, 2026 (Completed)",
+      "highlight": false
+    },
+    {
+      "label": "AFCAT 2 2026 Notification",
+      "value": "June 2026 (Expected)",
+      "highlight": true
+    },
+    {
+      "label": "AFCAT 2 2026 Exam",
+      "value": "August 2026 (Expected)",
+      "highlight": true
+    },
+    {
+      "label": "AFSB Interviews",
+      "value": "September-November 2026 (Expected)",
+      "highlight": false
+    },
+    {
+      "label": "Final Appointment",
+      "value": "December-January 2027",
+      "highlight": false
+    }
+  ],
+  "preparation_tips": [
+    "AFCAT written test is moderate difficulty - easier than NDA/CDS. Focus on: English grammar and vocabulary (25 marks), current affairs with defense focus (25 marks), basic mathematics (18 marks), and reasoning with spatial/military aptitude (32 marks). Don't over-prepare - spend 2-3 months on AFCAT written, then shift focus to AFSB preparation which is more important.",
+    "Military Aptitude & Reasoning questions are unique to AFCAT - spatial reasoning (3D rotations, perspective views), direction sense, and group judgment scenarios. Practice with AFCAT-specific mock tests. These questions don't appear in other exams like CAT/IBPS. Standard competitive exam practice won't help here - AFCAT mocks are essential.",
+    "Current affairs with defense angle is heavily tested. Follow: Defense Ministry announcements, Indian Air Force press releases, defense capabilities of India and neighboring countries, major defense projects (Tejas, Akash, etc.), and global military developments. Read Indian Express defense section weekly. In interview, defense knowledge is crucial - being unaware of India's latest fighter jets or missile systems is a red flag.",
+    "AFSB preparation (5-day board) is where real selection happens. Prepare: Officer Like Qualities (decision-making, leadership, maturity), group discussion skills, current affairs depth, physical fitness (AFSB has PE tests), and confidence. Many written test scorers fail AFSB due to poor communication or lack of presence. Join AFSB-specific coaching 1-2 months before board for guidance on group discussions, interview technique, and psychological test familiarization.",
+    "For Flying Branch: PABT (Pilot Aptitude Battery) is a separate test conducted at Air Force Center. It tests hand-eye coordination, spatial awareness, and instrument comprehension. If you fail PABT even once, you're permanently ineligible for Flying Branch. Prepare by: Flight simulator games, 3D visualization puzzles, direction-finding exercises. This is a make-or-break component for pilots."
+  ],
+  "faqs": [
+    {
+      "question": "Can I become a fighter pilot through AFCAT?",
+      "answer": "Yes. AFCAT Flying Branch is one primary pathway to becoming a fighter pilot.<br><br>After selection, you undergo 74 weeks of training at Air Force Academy, Dundigal. Post-graduation, you receive initial flying training (ab initio), then advanced training.<br><br>Fighter/Transport/Helicopter allocation depends on your training performance - top performers are typically allocated to fighters. Another path: NDA (after 12th) is more prestigious for pilot entry but requires appearing at 17.<br><br>AFCAT is the post-graduation alternative."
+    },
+    {
+      "question": "AFCAT vs NDA vs CDS for Air Force entry?",
+      "answer": "Three paths: (1) NDA - After 12th (age 16.5-19.5), 3 years NDA + 1 year AFA training. Entry at 22 as commissioned officer.<br><br>Most prestigious. (2) CDS - After graduation (age 20-24 for Flying), 74 weeks AFA training.<br><br>Entry at 22-25. (3) AFCAT - After graduation (age 20-24 for Flying), same 74 weeks AFA training.<br><br>NDA is the premium choice (top students). CDS and AFCAT are equivalent post-graduation options.<br><br>NDA has higher competition but prestigious. Choose based on: If you can appear at 17, do NDA.<br><br>If graduating, choose AFCAT."
+    },
+    {
+      "question": "I wear glasses. Can I apply for AFCAT Flying Branch?",
+      "answer": "Flying Branch has strict vision requirement: 6/6 in each eye WITHOUT glasses/contacts. If your vision is below 6/6 uncorrected, you're not eligible for Flying.<br><br>However, PRK/LASIK refractive surgery is now accepted with conditions: (1) At least 1 year post-surgery, (2) Vision stable at 6/6 uncorrected, (3) No regression, (4) No complications. Technical and Ground Duty have relaxed vision standards (corrected vision 6/9 acceptable).<br><br>Many gifted students with glasses pursue Technical or Ground Duty instead of Flying."
+    },
+    {
+      "question": "What's the salary difference between Flying and Ground Duty?",
+      "answer": "Basic pay (Level 10) is identical. The difference is Flying Allowance: Pilots get ₹25,000/month extra.<br><br>Over a 14-year Short Service Commission (SSC), this is ₹25K × 12 × 14 = ₹42 lakh in additional earnings. Pilots also get faster promotions and prestige.<br><br>However, pilots face higher risk and extreme physical demands. Ground Duty offers stability, less stress, and still respectable salary.<br><br>Choose based on: Risk appetite, physical fitness, career goals, and family considerations."
+    },
+    {
+      "question": "I scored well in AFCAT written but failed AFSB. Can I retry?",
+      "answer": "Yes. AFSB rejection is not permanent.<br><br>You can appear for the next AFCAT cycle (6 months later) and attempt AFSB again. Many candidates crack AFSB on 2nd or 3rd attempt after improving communication, group discussion skills, and current affairs knowledge.<br><br>Your written test score doesn't carry over - each AFCAT cycle is independent. Use AFSB feedback to identify weak areas (leadership?<br><br>Communication? Confidence?) and work specifically on them."
+    },
+    {
+      "question": "What is the AFCAT cutoff score?",
+      "answer": "AFCAT cutoff varies by branch and year. Typical ranges: Flying Branch 180-200 out of 300, Ground Duty Technical 140-160, Ground Duty Non-Technical 150-170.<br><br>The cutoff changes based on number of vacancies and applicant quality. Aim for 200+ to be safe across all branches."
+    },
+    {
+      "question": "Can commerce graduates apply for AFCAT?",
+      "answer": "Yes - for Ground Duty Non-Technical branch. Any Bachelor's degree with 60% aggregate qualifies.<br><br>Commerce graduates can join Administration, Accounts, or Education branches. Ground Duty Technical requires engineering degree only.<br><br>Flying Branch needs Physics+Math at 10+2 level regardless of graduation stream."
+    },
+    {
+      "question": "Is AFCAT conducted online or offline?",
+      "answer": "AFCAT is conducted as an online Computer Based Test (CBT) at designated exam centers across India. You answer on a computer screen - no paper.<br><br>Practice with the mock test available on careerairforce.nic.in to get comfortable with the interface before the actual exam."
+    },
+    {
+      "question": "How many times can I attempt AFCAT?",
+      "answer": "No limit on attempts as long as you're within the age bracket (20-24 for Flying, 20-26 for Ground Duty). AFCAT is conducted twice a year, giving you potentially 4-12 attempts depending on your branch.<br><br>Each attempt is independent - previous results don't affect future applications."
+    }
+  ],
+  "official_portal": {
+    "name": "AFCAT Portal - Indian Air Force",
+    "url": "https://afcat.cdac.in"
+  },
+  "related_pages": [
+    {
+      "title": "NDA Exam 2026",
+      "slug": "nda",
+      "tag": "Defence",
+      "url": "/exam/nda"
+    },
+    {
+      "title": "UPSC CDS 2026",
+      "slug": "upsc-nda-na",
+      "tag": "Defence",
+      "url": "/exam/upsc-nda-na"
+    },
+    {
+      "title": "Agnipath Scheme",
+      "slug": "agnipath-scheme",
+      "tag": "Defence",
+      "url": "/yojana/agnipath-scheme"
+    },
+    {
+      "title": "SSC GD Constable",
+      "slug": "ssc-gd-constable",
+      "tag": "Defence",
+      "url": "/exam/ssc-gd-constable"
+    }
+  ],
+  "tags": [
+    "AFCAT",
+    "Air Force",
+    "IAF",
+    "Pilot",
+    "Flying",
+    "Defence",
+    "Officer Entry"
+  ],
+  "image_suggestions": [
+    "Indian fighter jet (Tejas) in flight",
+    "Air Force pilot in cockpit",
+    "AFSB selection board process",
+    "Air Force Academy training",
+    "IAF base and aircraft",
+    "Officer in uniform with medals"
+  ],
+  "exam_prep": {
+    "syllabus": [
+      {
+        "subject": "General Awareness",
+        "topics": "History, geography, polity, economics, current affairs, sports, awards, defence-related GK, basic science, Indian Air Force knowledge",
+        "questions": 25,
+        "marks": 75,
+        "tag": "GK"
+      },
+      {
+        "subject": "Verbal Ability in English",
+        "topics": "Comprehension, error detection, sentence completion, synonym/antonym, testing of vocabulary, idioms & phrases",
+        "questions": 25,
+        "marks": 75,
+        "tag": "English"
+      },
+      {
+        "subject": "Numerical Ability",
+        "topics": "Decimal & fractions, percentage, average, ratio, profit & loss, SI/CI, time & distance, time & work, number system & series",
+        "questions": 18,
+        "marks": 54,
+        "tag": "Maths"
+      },
+      {
+        "subject": "Reasoning & Military Aptitude",
+        "topics": "Verbal & non-verbal reasoning, sequence & series, coding-decoding, analogy, direction, pattern completion, spatial ability",
+        "questions": 32,
+        "marks": 96,
+        "tag": "Reasoning"
+      }
+    ],
+    "books": [
+      {
+        "title": "AFCAT Guide",
+        "author": "Arihant Publications",
+        "subject": "All-in-one"
+      },
+      {
+        "title": "Lucent's GK",
+        "author": "Lucent Publications",
+        "subject": "GK"
+      },
+      {
+        "title": "Quantitative Aptitude",
+        "author": "R.S. Aggarwal",
+        "subject": "Maths"
+      },
+      {
+        "title": "Word Power Made Easy",
+        "author": "Norman Lewis",
+        "subject": "English"
+      }
+    ],
+    "study_plan": [
+      {
+        "period": "Month 1-2: Foundation + IAF Knowledge",
+        "tasks": "Study all 4 sections from Arihant AFCAT guide. Learn about IAF - aircraft (Rafale, Sukhoi, Tejas), commands, air bases, ranks, recent operations. English vocabulary 20 words/day. Basic maths practice."
+      },
+      {
+        "period": "Month 3-4: Practice + EKT (if applicable)",
+        "tasks": "Solve previous AFCAT papers. If applying for technical branch, prepare for Engineering Knowledge Test (EKT) - branch-specific questions. Current affairs focusing on defence news. Mock tests weekly."
+      },
+      {
+        "period": "Month 5: AFSB Preparation",
+        "tasks": "If written exam clears, prepare for Air Force Selection Board (AFSB) - similar to SSB. Psychological tests, group tasks, personal interview. Stay physically fit. Know why you want to join IAF - genuine motivation matters."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "AFCAT stands for:",
+        "options": [
+          "Air Force Common Aptitude Test",
+          "Air Force Combined Admission Test",
+          "Armed Forces Common Aptitude Test",
+          "Air Force Competitive Aptitude Test"
+        ],
+        "answer": 0
+      },
+      {
+        "question": "Tejas is a:",
+        "options": [
+          "Helicopter",
+          "Transport aircraft",
+          "Light Combat Aircraft",
+          "UAV"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "The motto of Indian Air Force is:",
+        "options": [
+          "Service Before Self",
+          "Touch the Sky with Glory",
+          "Always Ready",
+          "Valour and Victory"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  "last_reviewed": "May 2026",
+  "category": "defense",
+  "salary_table": {
+    "intro": "In-hand salary ranges from ₹80,000-95,000/month to ₹95,000-1,20,000/month (with Flying Allowance ₹25,000) depending on the post and city.",
+    "rows": [
+      {
+        "post": "Flying Officer - Pilot (Fighter/Transport/Helicopter)",
+        "amount": "₹95,000-1,20,000/month (with Flying Allowance ₹25,000)"
+      },
+      {
+        "post": "Flying Officer - Technical (Aero/Elec/Mechanical Engineer)",
+        "amount": "₹80,000-95,000/month"
+      },
+      {
+        "post": "Flying Officer - Ground Duty (Admin/Logistics/Education)",
+        "amount": "₹80,000-95,000/month"
+      }
+    ]
+  },
+  "quick_facts": [
+    {
+      "label": "AFCAT 1",
+      "value": "Jan 31, 2026 (Done)"
+    },
+    {
+      "label": "AFCAT 2",
+      "value": "Aug 2026 (Expected)"
+    },
+    {
+      "label": "Salary",
+      "value": "₹56K+ basic"
+    },
+    {
+      "label": "Flying Allow.",
+      "value": "₹25K+/month"
+    }
+  ],
+  "status": "upcoming"
 }

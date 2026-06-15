@@ -1,646 +1,691 @@
 {
- "slug": "upsc-nda-na",
- "title": "UPSC CDS 2026 - Combined Defence Services",
- "meta_description": "UPSC CDS 2026 - Officer entry into Indian Army, Navy, Air Force. IMA, Naval Academy, OTA posts. Exam pattern, salary ₹56K+, SSB interview.",
- "hero": {
- "status": "upcoming",
- "one_liner": "Officer entry into Indian Armed Forces for graduates - join IMA, Naval Academy, Air Force Academy, or OTA through UPSC CDS exam",
- "icon": "🎖️",
- "updated_date": "May 2026",
- "stats": [
- {
- "label": "CDS I Written",
- "value": "April 12, 2026"
- },
- {
- "label": "Vacancies",
- "value": "~451"
- },
- {
- "label": "Education",
- "value": "Graduation"
- },
- {
- "label": "Salary",
- "value": "₹56K+ basic"
- }
- ]
- },
- "quick_actions": [
- {
- "icon": "📝",
- "label": "Apply at UPSC",
- "url": "https://upsconline.nic.in/"
- },
- {
- "icon": "📘",
- "label": "CDS Notification",
- "url": "https://upsc.gov.in"
- },
- {
- "icon": "📞",
- "label": "UPSC Helpline",
- "url": "tel:011-23381125"
- }
- ],
- "what_is_it": [
- "UPSC CDS (Combined Defence Services) examination is conducted twice annually to recruit graduates for officer-level entry into the Indian Military Academy (IMA - Army), Naval Academy, Air Force Academy, and Officers Training Academy (OTA). CDS I 2026 written exam is scheduled for April 12, 2026, with 451 vacancies announced. It's the PRIMARY path for graduates to become military officers without going through NDA (which is for 12th-pass candidates).",
- "CDS has two selection stages: Written Exam (UPSC-conducted) testing English, General Knowledge, and Elementary Mathematics; and SSB Interview (5-day personality assessment, group tasks, individual tests). The written exam is relatively straightforward (high school level) - the real challenge is SSB, which eliminates ~70% of candidates through group discussions, obstacle courses, and psychological evaluation.",
- "IMA and OTA entries are open to graduates of ANY stream (Arts, Commerce, Science, Law, etc.). Naval Academy requires Engineering degree. Air Force Academy requires Bachelor's degree with Physics + Mathematics at 12th level. OTA offers Short Service Commission (14 years) while IMA, Naval Academy, and AFA offer Permanent Commission (entire service). After commissioning, officers start at rank of Lieutenant with basic pay ₹56,100/month.",
- "CDS is considered an elite examination due to the prestige of military service. Officers get: Permanent employment, generous leave, international exposure, medical benefits for family, pension, and opportunity to serve the nation. The entry salary is identical to IAS (₹56,100 basic), but military life involves unique challenges and structured career progression."
- ],
- "key_details": [
- {
- "label": "Conducting Body",
- "value": "UPSC (Union Public Service Commission)",
- "highlight": false
- },
- {
- "label": "IMA/OTA Education",
- "value": "Any Bachelor's degree (any stream) with 50%+ marks",
- "highlight": true
- },
- {
- "label": "Naval Academy Education",
- "value": "Engineering (BE/BTech) degree required. 50%+ marks.",
- "highlight": true
- },
- {
- "label": "Air Force Academy Education",
- "value": "Bachelor's with Physics + Maths at 12th level (or BE/BTech). 50%+ marks.",
- "highlight": true
- },
- {
- "label": "Age Limit",
- "value": "IMA/AFA: 20-25 years. Naval: 19-25 years. OTA: 20-27 years.",
- "highlight": false
- },
- {
- "label": "Gender",
- "value": "IMA/Naval/AFA: Men only. OTA: Men AND Women (first time 2024).",
- "highlight": true
- },
- {
- "label": "Exam Fee",
- "value": "₹200 (exempted for Women/SC/ST)",
- "highlight": false
- }
- ],
- "exam_pattern": [
- {
- "tier_name": "Written Exam - English, GK, Math (6 hours total, 3 papers)",
- "description": "Three papers of 2 hours each. Total 300 marks (100+100+100). OTA candidates write only 2 papers (English + GK, 200 marks; no Math). Standard 10th-12th class difficulty level.",
- "subjects": [
- {
- "name": "English (2 hours, 120 Qs)",
- "questions": 120,
- "marks": 100
- },
- {
- "name": "General Knowledge (2 hours, 120 Qs)",
- "questions": 120,
- "marks": 100
- },
- {
- "name": "Elementary Mathematics (2 hours, 100 Qs)",
- "questions": 100,
- "marks": 100
- }
- ],
- "total_questions": 340,
- "total_marks": "300 (IMA/Naval/AFA) or 200 (OTA)",
- "duration": "6 hours (2+2+2) or 4 hours (OTA)",
- "negative_marking": "1/3rd of marks per wrong answer"
- }
- ],
- "major_posts": [
- {
- "post": "Officer (Lieutenant) via IMA - Indian Military Academy",
- "pay_level": "Level 10 (₹56,100–1,77,500 basic pay scale)",
- "in_hand_salary": "₹70,000–90,000/month + quarters, medical, canteen benefits",
- "department": "Indian Army - various corps and branches"
- },
- {
- "post": "Officer (Sub-Lieutenant) via Naval Academy",
- "pay_level": "Level 10",
- "in_hand_salary": "₹70,000–90,000/month + naval perks",
- "department": "Indian Navy - various branches and ships"
- },
- {
- "post": "Officer (Flying Officer) via Air Force Academy",
- "pay_level": "Level 10",
- "in_hand_salary": "₹70,000–90,000/month + aviation allowance",
- "department": "Indian Air Force - pilots and officers"
- },
- {
- "post": "Officer (Lieutenant) via OTA - Officers Training Academy (SSC)",
- "pay_level": "Level 10",
- "in_hand_salary": "₹70,000–90,000/month (14-year service commitment)",
- "department": "Indian Army - non-permanent commission officer"
- }
- ],
- "extra_sections": [
- {
- "heading": "IMA vs OTA vs NDA - Military Officer Entries Compared",
- "icon": "⚖️",
- "type": "table",
- "columns": [
- "Aspect",
- "IMA (CDS Entry)",
- "OTA (CDS Entry)",
- "NDA (12th Pass Entry)"
- ],
- "rows": [
- [
- "Entry Qualification",
- "Bachelor's degree",
- "Bachelor's degree",
- "12th pass"
- ],
- [
- "Age Limit",
- "20-25 years",
- "20-27 years",
- "16.5-19.5 years"
- ],
- [
- "Service Type",
- "Permanent Commission",
- "Short Service Commission (14 years, extendable)",
- "Permanent Commission (via SSB + training)"
- ],
- [
- "Training Duration",
- "18 months at IMA Dehradun",
- "49 weeks at OTA Chennai",
- "3 years at NDA Khadakvasla + 1 year training"
- ],
- [
- "Entry Rank",
- "Lieutenant (full officer)",
- "Lieutenant (temporary commission)",
- "Cadet → Lieutenant (more senior than CDS entry)"
- ],
- [
- "Seniority",
- "Junior to NDA counterparts",
- "More junior than IMA",
- "Senior to IMA/OTA by 1-2 years of service"
- ],
- [
- "Career Ceiling",
- "Lt General / General",
- "Lt Colonel (can convert to permanent)",
- "Same as IMA (Lt General/General)"
- ],
- [
- "Best For",
- "Lifelong military career, full officer training",
- "Military experience + civilian career flexibility",
- "Younger aspirants, more senior in rank"
- ]
- ]
- },
- {
- "heading": "",
- "type": "svg_block",
- "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">UPSC NDA/NA written exam + SSB interview</text><rect x=\"50\" y=\"50\" width=\"190\" height=\"75\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"145\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#145236\">Paper I: Math</text><text x=\"145\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">120 MCQs | 300 marks</text><rect x=\"260\" y=\"50\" width=\"190\" height=\"75\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"355\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1E40AF\">Paper II: GAT</text><text x=\"355\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">150 MCQs | 600 marks</text><rect x=\"470\" y=\"50\" width=\"190\" height=\"75\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"565\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#C2410C\">SSB Interview</text><text x=\"565\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#C2410C\">5-day assessment 900</text></svg>",
- "caption": "NDA written exam is conducted by UPSC twice a year (April + September). Candidates who clear the written exam are called for SSB Interview - a rigorous 5-day assessment of Officer Like Qualities."
- },
- {
- "heading": "CDS vs NDA - Complete Comparison for Officer Aspirants",
- "icon": "🔄",
- "type": "text",
- "content": [
- "<h3>If You Missed NDA During 12th (CDS is Your Second Chance)</h3>",
- "NDA is for 12th-pass candidates (16.5-19.5 years). If you're now 20-22 years with a Bachelor's degree, CDS is your entry into <a href=\"/yojana/agnipath-scheme\" style=\"text-decoration:underline;color:inherit\">military</a> service as an officer.",
- "Don't worry about missing NDA - CDS-entry officers eventually reach the same positions (General, Air Chief Marshal, Naval Commander), though they start junior by 1-2 years.",
- "<h3>Training & Officer Development</h3>",
- "NDA: 3 years of military training at academy + 1 year specialized training = 4 years total before commission. You get a FREE degree during NDA.",
- "CDS (IMA): 18 months of intensive officer training + immediately commissioned. CDS (OTA): 49 weeks quick officer training + 14-year commitment.",
- "OTA is the fastest path to officer rank.",
- "<h3>Key Differences</h3>",
- "Exam Difficulty: CDS written exam is EASIER than NDA (no advanced mathematics, simpler GK). SSB interview is identical - equally challenging.",
- "Seniority: NDA-entry officers are senior to CDS-entry by ~1-2 years of service. Both paths lead to same ranks eventually.",
- "Career Path: NDA = Lifelong permanent commission. CDS OTA = 14 years SSC with option to convert to permanent.",
- "<h3>Why Choose CDS Over NDA?</h3>",
- "You already have a degree (age advantage, maturity). CDS is easier to crack than NDA (fewer competitors, simpler syllabus).",
- "OTA is fastest route to officer commission (49 weeks vs 4 years for NDA)."
- ]
- },
- {
- "heading": "SSB Interview - The Real Challenge",
- "icon": "🎯",
- "type": "text",
- "content": [
- "<h3>What is SSB?</h3>",
- "Service Selection Board (SSB) is a 5-day intensive interview conducted by Indian Armed <a href=\"/exam/afcat\" style=\"text-decoration:underline;color:inherit\">Force</a>s. It's not a traditional 'Q&A' interview - it's a personality and aptitude assessment through: Group discussions, individual presentations, outdoor obstacle courses, psychometric tests, formal interview.",
- "About 70% of candidates are rejected at SSB; clearing written exam ≠ selection.",
- "<h3>Five Days of Assessment</h3>",
- "Day 1: Screening (Officer Like Qualities verbal test + written matrices). Candidates scoring low here are 'released' (rejected).",
- "Day 2-4: Group tasks (group discussion, outdoor group tasks like bridge building, command tasks). Assessors watch: leadership, decision-making, teamwork, communication.",
- "Day 5: Final interview (personal background, career goals, psychological evaluation). Officers assess your suitability as a military officer.",
- "<h3>Officer Like Qualities (OLQs) Assessed</h3>",
- "Officer Intelligence (analytical thinking), Logical Reasoning, Emotional Maturity (handling stress), Courage (moral + physical), Leadership (influencing others), Teamwork, Adaptability, Awareness (general knowledge), Communication (clear expression), Motivation (why military). SSB rewards: Balanced personality, good communication, leadership potential, emotional stability.",
- "<h3>Preparation Strategy</h3>",
- "(1) Start physical fitness 6 months before SSB (running, obstacle practice). (2) Develop opinions on national issues (military, politics, economy, foreign relations). (3) Practice group discussions - speak clearly, listen actively, don't dominate.",
- "(4) Read biographies of military leaders. (5) Work on your story (why you want to serve, military family background, etc.). (6) Mock SSB interviews with coaching institutes."
- ]
- },
- {
- "type": "text",
- "heading": "UPSC NDA/NA - the youngest officer entry in Indian defence",
- "icon": "🎖️",
- "content": [
- "UPSC conducts the NDA (National Defence Academy) and NA (Naval Academy) exam twice a year for admission to the tri-service academy at Khadakwasla, Pune (NDA) and Indian Naval Academy at Ezhimala, Kerala (NA). This is the youngest officer entry point in the Indian Armed Forces - candidates join at age 16.5-19.5, straight after 12th class, for a 3-year degree + military training program.",
- "NDA admits cadets for all three <a href=\"/exam/upsc-cse\" style=\"text-decoration:underline;color:inherit\">services</a> - Army, Navy, and Air Force. The Naval Academy (NA) is a separate entry for the 10+2 Cadet Entry Scheme of the Indian Navy.",
- "Both use the same written exam conducted by UPSC. After clearing the written exam, candidates undergo a 5-day SSB (Services Selection Board) interview that tests Officer Like Qualities through psychological tests, group tasks, and personal interview.",
- "The exam is open to unmarried male and female candidates who have passed or are appearing in 12th class. For Army wing: any stream (arts, commerce, science).",
- "For Navy and Air Force wings: Physics and Mathematics in 12th are mandatory. Approximately 5-6 lakh candidates appear for each NDA exam, competing for 370-400 seats - making it one of India's most competitive exams per seat."
- ]
- },
- {
- "type": "svg_block",
- "heading": "Visual: Key Numbers",
- "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">April 12, 2026</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">CDS I Written</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">~451</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Vacancies</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">Graduation</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Education</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">₹56K+ basic</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Salary</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
- "caption": "Key facts",
- "description": "Quick overview."
- },
- {
- "type": "text",
- "heading": "Written exam pattern - Mathematics + GAT",
- "icon": "📝",
- "content": [
- "Paper I - Mathematics (300 marks, 2.5 hours, 120 MCQs): Covers Class 11-12 level math - Algebra (quadratic equations, sequences, complex numbers, permutations), Matrices and Determinants, Trigonometry (identities, inverse functions, properties of triangles), Coordinate Geometry (2D - straight lines, circles, parabola, ellipse, hyperbola), Calculus (limits, differentiation, integration, differential equations), Vector Algebra, and Statistics and Probability. Marking: +2.5 correct, -0.83 wrong.",
- "Paper II - General Ability Test (600 marks, 2.5 hours, 150 MCQs): Divided into Part A (English - 200 marks) and Part B (General Knowledge - 400 marks). English tests comprehension, grammar, vocabulary, and sentence structure at intermediate level.",
- "GK covers Physics (100 marks), Chemistry (60 marks), General Science (40 marks), History (80 marks), Geography (60 marks), and Current Events (60 marks). Marking: +4 correct, -1.33 wrong.",
- "The Mathematics paper is the biggest differentiator. Arts stream students can apply for Army wing but struggle with the math paper - it's at Class 12 science math level.",
- "If you're from commerce or arts background and targeting NDA, you MUST study Class 11-12 NCERT Mathematics thoroughly. Without math preparation, clearing the written exam is nearly impossible even with a perfect GAT score.",
- "Total written exam marks: 900 (300 Math + 600 GAT). The written exam cutoff typically ranges from 340-370 out of 900 for general category.",
- "This means you need approximately 40% overall - but you must score reasonably in both papers. Scoring 250 in GAT but 50 in Math won't clear the cutoff.",
- "Aim for 150+ in Math and 200+ in GAT for a comfortable clearance."
- ]
- },
- {
- "type": "svg_block",
- "heading": "Quick Facts",
- "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Quick Facts</text><rect x=\"17\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"94\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">April 12, 2026</text><text x=\"94\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">CDS I Written</text><rect x=\"187\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"264\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">~451</text><text x=\"264\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Vacancies</text><rect x=\"357\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"434\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#92400E\">Graduation</text><text x=\"434\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Education</text><rect x=\"527\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"604\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">₹56K+ basic</text><text x=\"604\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Salary</text></svg>",
- "caption": "Quick reference facts",
- "description": "Key facts and numbers at a glance"
- },
- {
- "type": "text",
- "heading": "SSB Interview - the 5-day selection process",
- "icon": "👤",
- "content": [
- "Day 1 - Screening: Officer Intelligence Rating (OIR) test - verbal and non-verbal reasoning MCQs testing mental agility. Picture Perception and Description Test (PPDT) - you see a hazy picture for 30 seconds, write a story in 4 minutes, narrate it to your group, and participate in group discussion to arrive at a common story.",
- "Approximately 50-60% of candidates are screened OUT on Day 1.",
- "Day 2 - Psychology Tests: Thematic Apperception Test (TAT - write stories for 12 pictures, 4 minutes each), Word Association Test (WAT - write a sentence for each of 60 words flashed for 15 seconds each), Situation Reaction Test (SRT - write reactions to 60 everyday situations in 30 minutes), and Self Description Test (SD - describe how parents, teachers, and friends see you). These tests reveal your personality subconsciously - don't try to fake responses.",
- "Days 3-4 - Group Testing: Group Discussion (GD on current topics), Group Planning Exercise (GPE - analyze a problem and devise a plan as a group), Progressive Group Task (PGT - physical outdoor tasks completed as a team using planks, ropes, and drums), Half Group Task, Individual Obstacles (cross 10 physical obstacles - wall climbing, rope balancing, ditch jumping), Command Task (you lead a small team through a physical challenge), and Final Group Task.",
- "Day 5 - Personal Interview: 30-45 minute one-on-one interview with the Interviewing Officer (IO). Covers personal history, family, education, hobbies, current affairs, defence knowledge, and situational questions.",
- "The IO tests your motivation for joining defence, leadership potential, and intellectual depth. Common questions: Why do you want to join the armed forces?",
- "What will you do if you're not selected? Describe a situation where you showed courage.",
- "SSB success rate: Only 10-15% of screened-in candidates (those who clear Day 1) receive final recommendation. The key is CONSISTENCY - your psychology tests, group behavior, and interview should all reflect the same personality.",
- "The SSB is testing whether you have Officer Like Qualities (OLQs) - initiative, courage, determination, social adaptability, cooperation, communication, and organizing ability."
- ]
- },
- {
- "type": "text",
- "heading": "NDA exam preparation - 6-month plan for Class 11-12 students",
- "icon": "📅",
- "content": [
- "Month 1-2 (Math foundation): Complete NCERT Class 11 Mathematics - Algebra, Trigonometry, Coordinate Geometry, Statistics. Solve RS Aggarwal NDA Mathematics chapter-wise.",
- "Math is 300 out of 900 marks and the most practice-dependent section. Start daily newspaper reading for GK and English improvement.",
- "Begin light physical training - running 2km, pushups, pullups.",
- "Month 3-4 (GK + English): Complete NCERT Class 12 Mathematics (Calculus, Vectors, Probability, 3D Geometry). Start GK preparation - NCERT History Class 6-12, Geography Class 6-12, Science Class 9-10.",
- "Practice English grammar from Wren & Martin - focus on sentence correction, comprehension, and vocabulary. Increase physical training - 5km runs, swimming practice.",
- "Month 5 (Mock tests): Take 2 full-length NDA mock tests per week. Analyze mistakes - which math topics lose you the most marks?",
- "Which GK areas are consistently weak? Revise accordingly.",
- "Physical fitness should approach SSB standard - 2.4km in under 12 minutes, 10+ pullups, 30+ pushups, swimming 100 meters.",
- "Month 6 (Final revision): Daily mock test in the last 2 weeks. Math formula sheet revision every morning.",
- "GK fact sheet revision. Current affairs compilation for last 6 months.",
- "Practice PPDT story writing with random images. Sleep well, eat well - both the written exam and SSB are mentally and physically demanding.",
- "For more details, see our guide on <a href=\"/exam/nda\" style=\"text-decoration:underline;color:inherit\">NDA Exam 2026</a>.",
- "For more details, see our guide on <a href=\"/exam/ssc-gd-constable\" style=\"text-decoration:underline;color:inherit\">SSC GD Constable 2026</a>."
- ]
- },
- {
- "type": "text",
- "heading": "NDA I vs NDA II - which to attempt",
- "icon": "⚖️",
- "content": [
- "UPSC conducts NDA twice a year: NDA I (notification in December, exam in April) and NDA II (notification in June, exam in September). Both exams are identical in pattern, difficulty, and vacancy count.",
- "You can appear for BOTH in the same year - there's no restriction. Appearing for both doubles your chances of selection.",
- "Strategic approach: Treat NDA I (April) as your primary attempt - you've had the entire school year to prepare. Treat NDA II (September) as your improved attempt - analyze NDA I mistakes and fix them in the 5-month gap.",
- "Many successful NDA cadets cleared on their NDA II attempt after learning from NDA I experience.",
- "You get a maximum of 2 NDA attempts per year, and the age limit allows approximately 4 attempts total (2 per year for 2 years after 12th). Don't waste any attempt - register for every eligible NDA exam.",
- "The registration fee is Rs 100 (free for SC/ST and women) - negligible cost for a life-changing opportunity.",
- "If you clear the written exam for both NDA I and NDA II, you attend SSB for both. If recommended in both, you join NDA with the earlier course.",
- "Having multiple SSB attempts also increases your chances - SSB performance improves dramatically from first to second attempt as you understand the process and reduce nervousness."
- ]
- },
- {
- "type": "text",
- "heading": "After NDA - training, commissioning, and career",
- "icon": "✈️",
- "content": [
- "NDA training: 3 years at NDA Khadakwasla, Pune. Cadets pursue a BA/BSc/BCom degree from JNU alongside military training.",
- "The training includes academics, physical training, weapon training, drill, adventure activities (paragliding, scuba diving, rock climbing), sports, and leadership development. NDA is a tri-service academy - Army, Navy, and Air Force cadets train together for the first 2 years.",
- "Post-NDA service academy: Army cadets go to IMA Dehradun (1 year), Navy cadets to INA Ezhimala (1 year), Air Force cadets to AFA Dundigal (1.5 years). Upon successful completion, you're commissioned as a permanent officer - Lieutenant (Army), Sub-Lieutenant (Navy), or Flying Officer (Air Force).",
- "Permanent commission means you serve until retirement age (54-60 depending on rank).",
- "Career and salary: Starting salary as Lieutenant: Rs 56,100 basic + Military Service Pay Rs 15,500 + DA + various allowances. Total monthly: Rs 80,000-1,00,000 for Army/Navy officers, Rs 1,00,000-1,20,000 for Air Force (additional flying/technical allowances).",
- "Free accommodation, medical for life, canteen, subsidized education for children, and 60 days annual leave.",
- "The NDA advantage: Officers who enter through NDA build the longest military careers (joining at 19-20, retiring at 54-60 = 34-40 years of service). They reach the highest ranks (NDA alumni include former Army Chiefs, Navy Chiefs, and Air Chiefs).",
- "The 3-year shared training creates lifelong bonds - your NDA coursemates become Generals, Admirals, and Air Marshals over the next 3 decades. No other entry point offers this combination of career length and network depth."
- ]
- },
- {
- "type": "svg_block",
- "heading": "Visual: Exam Pattern",
- "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Exam Pattern</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">100</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">English (2 hours, 12</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">120 Qs</text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">100</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">General Knowledge (2</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">120 Qs</text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">100</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Elementary Mathemati</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">100 Qs</text></svg>",
- "caption": "Paper structure",
- "description": "Subject-wise marks."
- },
- {
- "type": "text",
- "heading": "Books and resources for UPSC NDA",
- "icon": "📚",
- "content": [
- "Mathematics: Pathfinder NDA/NA Mathematics by Arihant (comprehensive - covers entire syllabus with solved examples and practice problems), RS Aggarwal NDA Mathematics (alternative - more practice-focused). For calculus specifically, RD Sharma Class 12 Mathematics provides excellent foundation.",
- "Solve ALL NCERT examples and exercises for Class 11-12 Math before moving to NDA-specific books.",
- "General Ability Test: Lucent's General Knowledge (covers history, geography, polity, science, economy), Wren & Martin English Grammar (the definitive English grammar reference), NCERT Class 6-12 History and Geography textbooks (GK questions are heavily NCERT-based), and any current affairs monthly magazine. For Physics and Chemistry: NCERT Class 11-12 covers 90% of NDA science questions.",
- "Previous year papers: Available free on UPSC website (upsc.gov.in) - solve papers from 2015-2025. NDA has strong pattern consistency - certain math topics (trigonometry applications, coordinate geometry, probability) and GK areas (Indian freedom movement, world geography, physics concepts) appear every year.",
- "Analyzing 5 years of papers reveals 60-70% of the exam's structure.",
- "SSB preparation: 'Let's Crack SSB Interview' by Wing Commander Arjun Rawat (best overall SSB guide), 'Crack the SSB' by Dr. N.K.",
- "Natarajan (psychology tests explained). Practice PPDT stories daily.",
- "Join an SSB coaching for group task practice if available in your city - solo preparation is insufficient for the group dynamics assessment. YouTube channels: SSBCrackExams, MKC Academy, and Cavalier India."
- ]
- },
- {
- "type": "callout",
- "variant": "info",
- "heading": "UPSC NDA 2026 schedule",
- "content": "NDA I 2026: Notification December 2025, exam April 2026, SSB June-September 2026. NDA II 2026: Notification June 2026, exam September 2026, SSB November 2026-February 2027. Apply at upsc.gov.in → Online Application. Fee: Rs 100 (exempted for SC/ST and women candidates). Both male and female candidates are eligible."
- },
- {
- "type": "callout",
- "variant": "tip",
- "heading": "Appear for BOTH NDA I and NDA II every year",
- "content": "You can appear for both NDA I (April) and NDA II (September) in the same year. Each attempt is independent - appearing in NDA I doesn't affect NDA II eligibility. With 2 attempts per year and approximately 4 total attempts in your eligible age window, every missed attempt is a wasted opportunity. The Rs 100 fee is negligible. Register for every eligible NDA exam - even if you feel underprepared, the exam experience is invaluable."
- },
- {
- "type": "pullquote",
- "text": "At 19, NDA cadets command respect that most people don't earn in a lifetime. By 24, they're officers leading platoons. By 35, they're commanding companies of 120 soldiers. By 50, they're Colonels and Brigadiers shaping national defence strategy. NDA isn't just a career entry - it's a 35-year journey from cadet to General that starts with a single UPSC exam in Class 12."
- },
- {
- "type": "text",
- "heading": "NDA vs CDS vs AFCAT - choosing the right defence entry",
- "icon": "🔄",
- "content": [
- "NDA (after 12th, age 16.5-19.5): Youngest entry. 3 years NDA + 1-1.5 years service academy = 4-4.5 years training. Permanent commission.",
- "Best for students certain about defence from school age. Longest career in uniform due to earliest joining age.",
- "The NDA bond - 3 years of shared training - creates the deepest professional friendships in Indian armed forces.",
- "CDS (after graduation, age 19-25): Combined Defence Services exam by UPSC. Shorter training: 18 months at IMA (Army), 1 year at INA (Navy), 1.5 years at AFA (Air Force).",
- "Both PC and SSC available. Best for graduates who discovered defence interest during or after college.",
- "CDS officers reach the same ranks as NDA officers after commissioning - the career paths converge.",
- "AFCAT (after graduation, age 20-26): Air Force-specific entry. Written exam by IAF (not UPSC) + AFSB. Both PC and SSC. Conducted twice a year (vs CDS once). Best for graduates who want maximum attempts at Air Force specifically. AFCAT written is generally considered easier than CDS written.",
- "Strategy for maximum chances: If you're in 12th - attempt NDA I and NDA II (2 attempts/year). If you're in college/graduated - attempt CDS (once/year) + AFCAT (twice/year) = 3 attempts/year at officer entry.",
- "SSB preparation is identical for all three entries - clearing SSB once teaches you the process for all future attempts."
- ]
- },
- {
- "type": "svg_block",
- "heading": "NDA vs CDS Entry",
- "icon": "🎖️",
- "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">NDA vs CDS Armed Forces Entry</text><rect x=\"50\" y=\"50\" width=\"280\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"190\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">NDA After 12th Age 16.</text><rect x=\"370\" y=\"50\" width=\"280\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"510\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">CDS After graduation A</text></svg>",
- "caption": "NDA is the younger entry with free degree and 4 years of training",
- "description": "Both lead to permanent commission in Army, Navy, or Air Force."
- }
- ],
- "important_dates": [
- {
- "label": "CDS I 2026 Written Exam",
- "value": "April 12, 2026",
- "highlight": true
- },
- {
- "label": "Application Deadline",
- "value": "December 30, 2025 (already passed; check CDS II 2026 dates)",
- "highlight": false
- },
- {
- "label": "SSB Interview",
- "value": "May-July 2026 (after written result)",
- "highlight": false
- },
- {
- "label": "CDS II 2026",
- "value": "September 13, 2026 (expected)",
- "highlight": true
- },
- {
- "label": "Training Commencement",
- "value": "January (CDS I) / July (CDS II) of following year",
- "highlight": false
- }
- ],
- "preparation_tips": [
- "CDS English is language-focused: grammar, vocabulary, comprehension, sentence structure. Study: <a href='https://www.amazon.in/Objective-English-Grammar-Usage-Proficiency/dp/9390205619/'>Wren & Martin</a>, practice synonyms/antonyms, reading comprehension passages, sentence correction. This is easier than competitive exams like UPSC.",
- "General Knowledge covers static (history, geography, polity) and current affairs. Study: NCERT 6-12, monthly newspapers (6 months), monthly GK magazines. Focus: Indian military history, defence policies, current defence initiatives, geo-political developments. CDS GK is broader than banking exams but narrower than UPSC.",
- "Mathematics is 'Elementary' (10th class level) - much easier than NDA. Topics: arithmetic, algebra, trigonometry (basic), geometry, mensuration, statistics. Don't over-prepare this; focus on speed + accuracy. Spend 30 mins daily.",
- "SSB preparation is CRITICAL and must start BEFORE written exam results. Read about OLQs, practice group discussions daily, develop national awareness, improve communication skills, and build physical fitness. Many candidates clear written exam but fail SSB. Coaching institutes offer mock SSBs - take at least 3-4 mock sessions."
- ],
- "faqs": [
- {
- "question": "I have a non-engineering degree. Can I join the Air Force through CDS?",
- "answer": "Yes, through OTA. However, note: Air Force Academy (AFA) through CDS requires Physics + Maths at 12th level (or BE/BTech in any field). If your graduation didn't include Physics+Maths, you can't apply for AFA. But you CAN apply for IMA (Army) or OTA with any degree. Check your eligibility carefully."
- },
- {
- "question": "Can women apply for CDS?",
- "answer": "Women can apply for OTA (since 2024, for the first time). IMA, Naval Academy, and Air Force Academy are currently for men only (as of 2026). Women can join the Air Force through AFCAT exam and Navy through specific women officer entries - check service websites for latest updates on gender-inclusive recruitment."
- },
- {
- "question": "What is the expected CDS written exam cutoff?",
- "answer": "Cutoffs vary: IMA typically 110-130 out of 300, OTA 90-110 out of 200. These are relatively low (36-43% for IMA) - the real challenge is SSB. Focus on clearing the cutoff comfortably (150+/300 is safe), then prepare thoroughly for SSB."
- },
- {
- "question": "OTA - can I leave after 14 years?",
- "answer": "Yes. OTA officers serve 14 years with option to extend. They can also apply for Permanent Commission conversion. After leaving, you receive gratuity + pension (if 20+ years of service). Many SSC officers transition to civil services, corporate careers, or further military service after their tenure."
- },
- {
- "question": "How important is physical fitness for CDS?",
- "answer": "Very important. You must pass SSB physical tasks (5-km run in specified time, obstacle course, endurance tests) and military medical (vision 6/6 in better eye, 6/9 in worse eye with correction; no color blindness; weight proportionate to height). Start fitness training 6 months before SSB. Running 3-5 km daily is essential."
- },
- {
- "question": "CDS salary - is it lower than banking?",
- "answer": "Starting salary is identical: ₹56,100 basic (₹70-90K in-hand with allowances). But banking exams like SBI PO start at ₹48,480 basic (₹80-82K in-hand including allowances). Military salary grows slower initially, but benefits (free quarters, medical, transport) add significant value. After 10 years, military pay is comparable to banking."
- },
- {
- "question": "IMA officer vs IAS officer - which is better?",
- "answer": "Different roles: IAS = civilian administrator (highest power in governance, Cabinet Secretary level). IMA officer = military commander (Gen commanding armies, highest: Chief of Defence Staff). Salaries comparable, but IAS has more political influence; military has global authority. Choose: Civil governance (IAS) vs national defence (IMA)."
- },
- {
- "question": "What is the NDA age limit?",
- "answer": "16.5 to 19.5 years on the first day of the month of commencement of the course. For NDA I 2026 (course starting January 2027): born between July 2, 2007 and July 1, 2010. Check the specific notification for exact date ranges. No age relaxation for any category - the age limit is strict."
- },
- {
- "question": "Can girls apply for NDA?",
- "answer": "Yes - since 2022, women candidates are eligible for NDA. Women can join all three services (Army, Navy, Air Force) through NDA. The written exam, SSB process, and training are identical for male and female candidates. Physical fitness standards for women are different (relaxed timings and heights) but the selection criteria for Officer Like Qualities are the same."
- },
- {
- "question": "Is NDA exam difficult?",
- "answer": "The written exam is at Class 11-12 level - not inherently difficult for well-prepared students. The real challenge is the SSB interview where only 10-15% of screened-in candidates get recommended. Mathematics is the hardest part of the written exam for non-science students. With 4-6 months of focused preparation, clearing the written exam is achievable for any 12th pass student."
- },
- {
- "question": "What is the NDA written exam cutoff?",
- "answer": "Typically 340-370 out of 900 for general category (varies each year). SC/ST cutoff is 10-15% lower. The cutoff includes both Paper I (Math) and Paper II (GAT) combined. You must score reasonably in both papers - an extremely low score in either paper may lead to rejection even if the total crosses the cutoff."
- }
- ],
- "official_portal": {
- "name": "UPSC CDS Official",
- "url": "https://upsc.gov.in"
- },
- "related_pages": [
- {
- "title": "NDA Exam 2026",
- "slug": "nda",
- "tag": "Defence",
- "url": "/exam/nda"
- },
- {
- "title": "Agnipath Scheme",
- "slug": "agnipath-scheme",
- "tag": "Defence",
- "url": "/yojana/agnipath-scheme"
- },
- {
- "title": "UPSC Civil Services",
- "slug": "upsc-cse",
- "tag": "UPSC",
- "url": "/exam/upsc-cse"
- },
- {
- "title": "SSC GD Constable",
- "slug": "ssc-gd-constable",
- "tag": "Defence",
- "url": "/exam/ssc-gd-constable"
- }
- ],
- "tags": [
- "CDS",
- "Defence",
- "Army",
- "Navy",
- "Air Force",
- "UPSC",
- "Officer",
- "IMA",
- "OTA",
- "Military Service"
- ],
- "image_suggestions": [
- "IMA Dehradun buildings and training grounds",
- "Officer cadets in military uniform",
- "Naval Academy naval officer",
- "Air Force Academy fighter jets",
- "OTA Chennai training center",
- "SSB group discussion assessment",
- "Obstacle course at military academy",
- "Written exam answer script",
- "Military officer commissioned ceremony",
- "Career progression chart from Lieutenant to General"
- ],
- "exam_prep": {
- "syllabus": [
- {
- "subject": "Mathematics",
- "topics": "Algebra, matrices & determinants, trigonometry, analytical geometry (2D & 3D), differential calculus, integral calculus, vector algebra, statistics & probability",
- "questions": 120,
- "marks": 300,
- "tag": "Maths"
- },
- {
- "subject": "General Ability Test (GAT)",
- "topics": "English (grammar, vocabulary, comprehension), physics, chemistry, biology, history, geography, current affairs, general science",
- "questions": 150,
- "marks": 600,
- "tag": "GK"
- }
- ],
- "books": [
- {
- "title": "NDA Mathematics",
- "author": "R.S. Aggarwal / Pathfinder",
- "subject": "Maths"
- },
- {
- "title": "Lucent's General Knowledge",
- "author": "Lucent Publications",
- "subject": "GK"
- },
- {
- "title": "NCERT Science (9th-10th)",
- "author": "NCERT",
- "subject": "Science"
- },
- {
- "title": "Arihant NDA Guide",
- "author": "Arihant Publications",
- "subject": "All-in-one"
- },
- {
- "title": "Word Power Made Easy",
- "author": "Norman Lewis",
- "subject": "English"
- }
- ],
- "study_plan": [
- {
- "period": "Month 1-3: Maths + Science Foundation",
- "tasks": "NDA maths is 12th-level. Complete: algebra, trigonometry, calculus from NCERT 11-12. Science from NCERT 9-10. English vocabulary 20 words/day. Physical fitness training - NDA has SSB interview with physical tests."
- },
- {
- "period": "Month 4-5: GAT + Current Affairs",
- "tasks": "History (modern India focus), geography (India + world), polity basics. Current affairs of last 1 year. Practice English comprehension daily. Mock tests for maths speed."
- },
- {
- "period": "Month 6: Mocks + SSB Prep",
- "tasks": "Full mocks weekly. If written exam clears, SSB interview preparation - personality tests, group discussions, interviews, physical tasks. Read about defence forces, current military operations."
- }
- ],
- "quiz": [
- {
- "question": "NDA exam is conducted by:",
- "options": [
- "NDA",
- "UPSC",
- "Indian Army",
- "Ministry of Defence"
- ],
- "answer": 1
- },
- {
- "question": "The minimum age to appear for NDA is:",
- "options": [
- "15.5 years",
- "16.5 years",
- "17 years",
- "18 years"
- ],
- "answer": 1
- },
- {
- "question": "sin²θ + cos²θ = ?",
- "options": [
- "0",
- "1",
- "2",
- "sin2θ"
- ],
- "answer": 1
- }
- ]
- },
- "last_reviewed": "May 2026",
- "category": "upsc"
+  "slug": "upsc-nda-na",
+  "title": "UPSC CDS 2026 - Combined Defence Services",
+  "meta_description": "UPSC CDS 2026 - Officer entry into Indian Army, Navy, Air Force. IMA, Naval Academy, OTA posts. Exam pattern, salary ₹56K+, SSB interview.",
+  "hero": {
+    "status": "upcoming",
+    "one_liner": "Officer entry into Indian Armed Forces for graduates - join IMA, Naval Academy, Air Force Academy, or OTA through UPSC CDS exam",
+    "icon": "🎖️",
+    "updated_date": "May 2026",
+    "stats": [
+      {
+        "label": "CDS I Written",
+        "value": "April 12, 2026"
+      },
+      {
+        "label": "Vacancies",
+        "value": "~451"
+      },
+      {
+        "label": "Education",
+        "value": "Graduation"
+      },
+      {
+        "label": "Salary",
+        "value": "₹56K+ basic"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "📝",
+      "label": "Apply at UPSC",
+      "url": "https://upsconline.nic.in/"
+    },
+    {
+      "icon": "📘",
+      "label": "CDS Notification",
+      "url": "https://upsc.gov.in"
+    },
+    {
+      "icon": "📞",
+      "label": "UPSC Helpline",
+      "url": "tel:011-23381125"
+    }
+  ],
+  "what_is_it": [
+    "UPSC CDS (Combined Defence Services) examination is conducted twice annually to recruit graduates for officer-level entry into the Indian Military Academy (IMA - Army), Naval Academy, Air Force Academy, and Officers Training Academy (OTA). CDS I 2026 written exam is scheduled for April 12, 2026, with 451 vacancies announced. It's the PRIMARY path for graduates to become military officers without going through NDA (which is for 12th-pass candidates).",
+    "CDS has two selection stages: Written Exam (UPSC-conducted) testing English, General Knowledge, and Elementary Mathematics; and SSB Interview (5-day personality assessment, group tasks, individual tests). The written exam is relatively straightforward (high school level) - the real challenge is SSB, which eliminates ~70% of candidates through group discussions, obstacle courses, and psychological evaluation.",
+    "IMA and OTA entries are open to graduates of ANY stream (Arts, Commerce, Science, Law, etc.). Naval Academy requires Engineering degree. Air Force Academy requires Bachelor's degree with Physics + Mathematics at 12th level. OTA offers Short Service Commission (14 years) while IMA, Naval Academy, and AFA offer Permanent Commission (entire service). After commissioning, officers start at rank of Lieutenant with basic pay ₹56,100/month.",
+    "CDS is considered an elite examination due to the prestige of military service. Officers get: Permanent employment, generous leave, international exposure, medical benefits for family, pension, and opportunity to serve the nation. The entry salary is identical to IAS (₹56,100 basic), but military life involves unique challenges and structured career progression."
+  ],
+  "key_details": [
+    {
+      "label": "Conducting Body",
+      "value": "UPSC (Union Public Service Commission)",
+      "highlight": false
+    },
+    {
+      "label": "IMA/OTA Education",
+      "value": "Any Bachelor's degree (any stream) with 50%+ marks",
+      "highlight": true
+    },
+    {
+      "label": "Naval Academy Education",
+      "value": "Engineering (BE/BTech) degree required. 50%+ marks.",
+      "highlight": true
+    },
+    {
+      "label": "Air Force Academy Education",
+      "value": "Bachelor's with Physics + Maths at 12th level (or BE/BTech). 50%+ marks.",
+      "highlight": true
+    },
+    {
+      "label": "Age Limit",
+      "value": "IMA/AFA: 20-25 years. Naval: 19-25 years. OTA: 20-27 years.",
+      "highlight": false
+    },
+    {
+      "label": "Gender",
+      "value": "IMA/Naval/AFA: Men only. OTA: Men AND Women (first time 2024).",
+      "highlight": true
+    },
+    {
+      "label": "Exam Fee",
+      "value": "₹200 (exempted for Women/SC/ST)",
+      "highlight": false
+    }
+  ],
+  "exam_pattern": [
+    {
+      "tier_name": "Written Exam - English, GK, Math (6 hours total, 3 papers)",
+      "description": "Three papers of 2 hours each. Total 300 marks (100+100+100). OTA candidates write only 2 papers (English + GK, 200 marks; no Math). Standard 10th-12th class difficulty level.",
+      "subjects": [
+        {
+          "name": "English (2 hours, 120 Qs)",
+          "questions": 120,
+          "marks": 100
+        },
+        {
+          "name": "General Knowledge (2 hours, 120 Qs)",
+          "questions": 120,
+          "marks": 100
+        },
+        {
+          "name": "Elementary Mathematics (2 hours, 100 Qs)",
+          "questions": 100,
+          "marks": 100
+        }
+      ],
+      "total_questions": 340,
+      "total_marks": "300 (IMA/Naval/AFA) or 200 (OTA)",
+      "duration": "6 hours (2+2+2) or 4 hours (OTA)",
+      "negative_marking": "1/3rd of marks per wrong answer"
+    }
+  ],
+  "major_posts": [
+    {
+      "post": "Officer (Lieutenant) via IMA - Indian Military Academy",
+      "pay_level": "Level 10 (₹56,100–1,77,500 basic pay scale)",
+      "in_hand_salary": "₹70,000–90,000/month + quarters, medical, canteen benefits",
+      "department": "Indian Army - various corps and branches"
+    },
+    {
+      "post": "Officer (Sub-Lieutenant) via Naval Academy",
+      "pay_level": "Level 10",
+      "in_hand_salary": "₹70,000–90,000/month + naval perks",
+      "department": "Indian Navy - various branches and ships"
+    },
+    {
+      "post": "Officer (Flying Officer) via Air Force Academy",
+      "pay_level": "Level 10",
+      "in_hand_salary": "₹70,000–90,000/month + aviation allowance",
+      "department": "Indian Air Force - pilots and officers"
+    },
+    {
+      "post": "Officer (Lieutenant) via OTA - Officers Training Academy (SSC)",
+      "pay_level": "Level 10",
+      "in_hand_salary": "₹70,000–90,000/month (14-year service commitment)",
+      "department": "Indian Army - non-permanent commission officer"
+    }
+  ],
+  "extra_sections": [
+    {
+      "heading": "IMA vs OTA vs NDA - Military Officer Entries Compared",
+      "icon": "⚖️",
+      "type": "table",
+      "columns": [
+        "Aspect",
+        "IMA (CDS Entry)",
+        "OTA (CDS Entry)",
+        "NDA (12th Pass Entry)"
+      ],
+      "rows": [
+        [
+          "Entry Qualification",
+          "Bachelor's degree",
+          "Bachelor's degree",
+          "12th pass"
+        ],
+        [
+          "Age Limit",
+          "20-25 years",
+          "20-27 years",
+          "16.5-19.5 years"
+        ],
+        [
+          "Service Type",
+          "Permanent Commission",
+          "Short Service Commission (14 years, extendable)",
+          "Permanent Commission (via SSB + training)"
+        ],
+        [
+          "Training Duration",
+          "18 months at IMA Dehradun",
+          "49 weeks at OTA Chennai",
+          "3 years at NDA Khadakvasla + 1 year training"
+        ],
+        [
+          "Entry Rank",
+          "Lieutenant (full officer)",
+          "Lieutenant (temporary commission)",
+          "Cadet → Lieutenant (more senior than CDS entry)"
+        ],
+        [
+          "Seniority",
+          "Junior to NDA counterparts",
+          "More junior than IMA",
+          "Senior to IMA/OTA by 1-2 years of service"
+        ],
+        [
+          "Career Ceiling",
+          "Lt General / General",
+          "Lt Colonel (can convert to permanent)",
+          "Same as IMA (Lt General/General)"
+        ],
+        [
+          "Best For",
+          "Lifelong military career, full officer training",
+          "Military experience + civilian career flexibility",
+          "Younger aspirants, more senior in rank"
+        ]
+      ]
+    },
+    {
+      "heading": "",
+      "type": "svg_block",
+      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">UPSC NDA/NA written exam + SSB interview</text><rect x=\"50\" y=\"50\" width=\"190\" height=\"75\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"145\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#145236\">Paper I: Math</text><text x=\"145\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">120 MCQs | 300 marks</text><rect x=\"260\" y=\"50\" width=\"190\" height=\"75\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"355\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1E40AF\">Paper II: GAT</text><text x=\"355\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">150 MCQs | 600 marks</text><rect x=\"470\" y=\"50\" width=\"190\" height=\"75\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"565\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#C2410C\">SSB Interview</text><text x=\"565\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#C2410C\">5-day assessment 900</text></svg>",
+      "caption": "NDA written exam is conducted by UPSC twice a year (April + September). Candidates who clear the written exam are called for SSB Interview - a rigorous 5-day assessment of Officer Like Qualities."
+    },
+    {
+      "heading": "CDS vs NDA - Complete Comparison for Officer Aspirants",
+      "icon": "🔄",
+      "type": "text",
+      "content": [
+        "<h3>If You Missed NDA During 12th (CDS is Your Second Chance)</h3>",
+        "NDA is for 12th-pass candidates (16.5-19.5 years). If you're now 20-22 years with a Bachelor's degree, CDS is your entry into <a href=\"/yojana/agnipath-scheme\" style=\"text-decoration:underline;color:inherit\">military</a> service as an officer.",
+        "Don't worry about missing NDA - CDS-entry officers eventually reach the same positions (General, Air Chief Marshal, Naval Commander), though they start junior by 1-2 years.",
+        "<h3>Training & Officer Development</h3>",
+        "NDA: 3 years of military training at academy + 1 year specialized training = 4 years total before commission. You get a FREE degree during NDA.",
+        "CDS (IMA): 18 months of intensive officer training + immediately commissioned. CDS (OTA): 49 weeks quick officer training + 14-year commitment.",
+        "OTA is the fastest path to officer rank.",
+        "<h3>Key Differences</h3>",
+        "Exam Difficulty: CDS written exam is EASIER than NDA (no advanced mathematics, simpler GK). SSB interview is identical - equally challenging.",
+        "Seniority: NDA-entry officers are senior to CDS-entry by ~1-2 years of service. Both paths lead to same ranks eventually.",
+        "Career Path: NDA = Lifelong permanent commission. CDS OTA = 14 years SSC with option to convert to permanent.",
+        "<h3>Why Choose CDS Over NDA?</h3>",
+        "You already have a degree (age advantage, maturity). CDS is easier to crack than NDA (fewer competitors, simpler syllabus).",
+        "OTA is fastest route to officer commission (49 weeks vs 4 years for NDA)."
+      ]
+    },
+    {
+      "heading": "SSB Interview - The Real Challenge",
+      "icon": "🎯",
+      "type": "text",
+      "content": [
+        "<h3>What is SSB?</h3>",
+        "Service Selection Board (SSB) is a 5-day intensive interview conducted by Indian Armed <a href=\"/exam/afcat\" style=\"text-decoration:underline;color:inherit\">Force</a>s. It's not a traditional 'Q&A' interview - it's a personality and aptitude assessment through: Group discussions, individual presentations, outdoor obstacle courses, psychometric tests, formal interview.",
+        "About 70% of candidates are rejected at SSB; clearing written exam ≠ selection.",
+        "<h3>Five Days of Assessment</h3>",
+        "Day 1: Screening (Officer Like Qualities verbal test + written matrices). Candidates scoring low here are 'released' (rejected).",
+        "Day 2-4: Group tasks (group discussion, outdoor group tasks like bridge building, command tasks). Assessors watch: leadership, decision-making, teamwork, communication.",
+        "Day 5: Final interview (personal background, career goals, psychological evaluation). Officers assess your suitability as a military officer.",
+        "<h3>Officer Like Qualities (OLQs) Assessed</h3>",
+        "Officer Intelligence (analytical thinking), Logical Reasoning, Emotional Maturity (handling stress), Courage (moral + physical), Leadership (influencing others), Teamwork, Adaptability, Awareness (general knowledge), Communication (clear expression), Motivation (why military). SSB rewards: Balanced personality, good communication, leadership potential, emotional stability.",
+        "<h3>Preparation Strategy</h3>",
+        "(1) Start physical fitness 6 months before SSB (running, obstacle practice). (2) Develop opinions on national issues (military, politics, economy, foreign relations).",
+        "(3) Practice group discussions - speak clearly, listen actively, don't dominate.",
+        "(4) Read biographies of military leaders. (5) Work on your story (why you want to serve, military family background, etc.).",
+        "(6) Mock SSB interviews with coaching institutes."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "UPSC NDA/NA - the youngest officer entry in Indian defence",
+      "icon": "🎖️",
+      "content": [
+        "UPSC conducts the NDA (National Defence Academy) and NA (Naval Academy) exam twice a year for admission to the tri-service academy at Khadakwasla, Pune (NDA) and Indian Naval Academy at Ezhimala, Kerala (NA). This is the youngest officer entry point in the Indian Armed Forces - candidates join at age 16.5-19.5, straight after 12th class, for a 3-year degree + military training program.",
+        "NDA admits cadets for all three <a href=\"/exam/upsc-cse\" style=\"text-decoration:underline;color:inherit\">services</a> - Army, Navy, and Air Force. The Naval Academy (NA) is a separate entry for the 10+2 Cadet Entry Scheme of the Indian Navy.",
+        "Both use the same written exam conducted by UPSC. After clearing the written exam, candidates undergo a 5-day SSB (Services Selection Board) interview that tests Officer Like Qualities through psychological tests, group tasks, and personal interview.",
+        "The exam is open to unmarried male and female candidates who have passed or are appearing in 12th class. For Army wing: any stream (arts, commerce, science).",
+        "For Navy and Air Force wings: Physics and Mathematics in 12th are mandatory. Approximately 5-6 lakh candidates appear for each NDA exam, competing for 370-400 seats - making it one of India's most competitive exams per seat."
+      ]
+    },
+    {
+      "type": "svg_block",
+      "heading": "Visual: Key Numbers",
+      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">April 12, 2026</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">CDS I Written</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">~451</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Vacancies</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">Graduation</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Education</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">₹56K+ basic</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Salary</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
+      "caption": "Key facts",
+      "description": "Quick overview."
+    },
+    {
+      "type": "text",
+      "heading": "Written exam pattern - Mathematics + GAT",
+      "icon": "📝",
+      "content": [
+        "Paper I - Mathematics (300 marks, 2.5 hours, 120 MCQs): Covers Class 11-12 level math - Algebra (quadratic equations, sequences, complex numbers, permutations), Matrices and Determinants, Trigonometry (identities, inverse functions, properties of triangles), Coordinate Geometry (2D - straight lines, circles, parabola, ellipse, hyperbola), Calculus (limits, differentiation, integration, differential equations), Vector Algebra, and Statistics and Probability. Marking: +2.5 correct, -0.83 wrong.",
+        "Paper II - General Ability Test (600 marks, 2.5 hours, 150 MCQs): Divided into Part A (English - 200 marks) and Part B (General Knowledge - 400 marks). English tests comprehension, grammar, vocabulary, and sentence structure at intermediate level.",
+        "GK covers Physics (100 marks), Chemistry (60 marks), General Science (40 marks), History (80 marks), Geography (60 marks), and Current Events (60 marks). Marking: +4 correct, -1.33 wrong.",
+        "The Mathematics paper is the biggest differentiator. Arts stream students can apply for Army wing but struggle with the math paper - it's at Class 12 science math level.",
+        "If you're from commerce or arts background and targeting NDA, you MUST study Class 11-12 NCERT Mathematics thoroughly. Without math preparation, clearing the written exam is nearly impossible even with a perfect GAT score.",
+        "Total written exam marks: 900 (300 Math + 600 GAT). The written exam cutoff typically ranges from 340-370 out of 900 for general category.",
+        "This means you need approximately 40% overall - but you must score reasonably in both papers. Scoring 250 in GAT but 50 in Math won't clear the cutoff.",
+        "Aim for 150+ in Math and 200+ in GAT for a comfortable clearance."
+      ]
+    },
+    {
+      "type": "svg_block",
+      "heading": "Quick Facts",
+      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Quick Facts</text><rect x=\"17\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"94\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">April 12, 2026</text><text x=\"94\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">CDS I Written</text><rect x=\"187\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"264\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">~451</text><text x=\"264\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Vacancies</text><rect x=\"357\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"434\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#92400E\">Graduation</text><text x=\"434\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Education</text><rect x=\"527\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"604\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">₹56K+ basic</text><text x=\"604\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Salary</text></svg>",
+      "caption": "Quick reference facts",
+      "description": "Key facts and numbers at a glance"
+    },
+    {
+      "type": "text",
+      "heading": "SSB Interview - the 5-day selection process",
+      "icon": "👤",
+      "content": [
+        "Day 1 - Screening: Officer Intelligence Rating (OIR) test - verbal and non-verbal reasoning MCQs testing mental agility. Picture Perception and Description Test (PPDT) - you see a hazy picture for 30 seconds, write a story in 4 minutes, narrate it to your group, and participate in group discussion to arrive at a common story.",
+        "Approximately 50-60% of candidates are screened OUT on Day 1.",
+        "Day 2 - Psychology Tests: Thematic Apperception Test (TAT - write stories for 12 pictures, 4 minutes each), Word Association Test (WAT - write a sentence for each of 60 words flashed for 15 seconds each), Situation Reaction Test (SRT - write reactions to 60 everyday situations in 30 minutes), and Self Description Test (SD - describe how parents, teachers, and friends see you). These tests reveal your personality subconsciously - don't try to fake responses.",
+        "Days 3-4 - Group Testing: Group Discussion (GD on current topics), Group Planning Exercise (GPE - analyze a problem and devise a plan as a group), Progressive Group Task (PGT - physical outdoor tasks completed as a team using planks, ropes, and drums), Half Group Task, Individual Obstacles (cross 10 physical obstacles - wall climbing, rope balancing, ditch jumping), Command Task (you lead a small team through a physical challenge), and Final Group Task.",
+        "Day 5 - Personal Interview: 30-45 minute one-on-one interview with the Interviewing Officer (IO). Covers personal history, family, education, hobbies, current affairs, defence knowledge, and situational questions.",
+        "The IO tests your motivation for joining defence, leadership potential, and intellectual depth. Common questions: Why do you want to join the armed forces?",
+        "What will you do if you're not selected? Describe a situation where you showed courage.",
+        "SSB success rate: Only 10-15% of screened-in candidates (those who clear Day 1) receive final recommendation. The key is CONSISTENCY - your psychology tests, group behavior, and interview should all reflect the same personality.",
+        "The SSB is testing whether you have Officer Like Qualities (OLQs) - initiative, courage, determination, social adaptability, cooperation, communication, and organizing ability."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "NDA exam preparation - 6-month plan for Class 11-12 students",
+      "icon": "📅",
+      "content": [
+        "Month 1-2 (Math foundation): Complete NCERT Class 11 Mathematics - Algebra, Trigonometry, Coordinate Geometry, Statistics. Solve RS Aggarwal NDA Mathematics chapter-wise.",
+        "Math is 300 out of 900 marks and the most practice-dependent section. Start daily newspaper reading for GK and English improvement.",
+        "Begin light physical training - running 2km, pushups, pullups.",
+        "Month 3-4 (GK + English): Complete NCERT Class 12 Mathematics (Calculus, Vectors, Probability, 3D Geometry). Start GK preparation - NCERT History Class 6-12, Geography Class 6-12, Science Class 9-10.",
+        "Practice English grammar from Wren & Martin - focus on sentence correction, comprehension, and vocabulary. Increase physical training - 5km runs, swimming practice.",
+        "Month 5 (Mock tests): Take 2 full-length NDA mock tests per week. Analyze mistakes - which math topics lose you the most marks?",
+        "Which GK areas are consistently weak? Revise accordingly.",
+        "Physical fitness should approach SSB standard - 2.4km in under 12 minutes, 10+ pullups, 30+ pushups, swimming 100 meters.",
+        "Month 6 (Final revision): Daily mock test in the last 2 weeks. Math formula sheet revision every morning.",
+        "GK fact sheet revision. Current affairs compilation for last 6 months.",
+        "Practice PPDT story writing with random images. Sleep well, eat well - both the written exam and SSB are mentally and physically demanding.",
+        "For more details, see our guide on <a href=\"/exam/nda\" style=\"text-decoration:underline;color:inherit\">NDA Exam 2026</a>.",
+        "For more details, see our guide on <a href=\"/exam/ssc-gd-constable\" style=\"text-decoration:underline;color:inherit\">SSC GD Constable 2026</a>."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "NDA I vs NDA II - which to attempt",
+      "icon": "⚖️",
+      "content": [
+        "UPSC conducts NDA twice a year: NDA I (notification in December, exam in April) and NDA II (notification in June, exam in September). Both exams are identical in pattern, difficulty, and vacancy count.",
+        "You can appear for BOTH in the same year - there's no restriction. Appearing for both doubles your chances of selection.",
+        "Strategic approach: Treat NDA I (April) as your primary attempt - you've had the entire school year to prepare. Treat NDA II (September) as your improved attempt - analyze NDA I mistakes and fix them in the 5-month gap.",
+        "Many successful NDA cadets cleared on their NDA II attempt after learning from NDA I experience.",
+        "You get a maximum of 2 NDA attempts per year, and the age limit allows approximately 4 attempts total (2 per year for 2 years after 12th). Don't waste any attempt - register for every eligible NDA exam.",
+        "The registration fee is Rs 100 (free for SC/ST and women) - negligible cost for a life-changing opportunity.",
+        "If you clear the written exam for both NDA I and NDA II, you attend SSB for both. If recommended in both, you join NDA with the earlier course.",
+        "Having multiple SSB attempts also increases your chances - SSB performance improves dramatically from first to second attempt as you understand the process and reduce nervousness."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "After NDA - training, commissioning, and career",
+      "icon": "✈️",
+      "content": [
+        "NDA training: 3 years at NDA Khadakwasla, Pune. Cadets pursue a BA/BSc/BCom degree from JNU alongside military training.",
+        "The training includes academics, physical training, weapon training, drill, adventure activities (paragliding, scuba diving, rock climbing), sports, and leadership development. NDA is a tri-service academy - Army, Navy, and Air Force cadets train together for the first 2 years.",
+        "Post-NDA service academy: Army cadets go to IMA Dehradun (1 year), Navy cadets to INA Ezhimala (1 year), Air Force cadets to AFA Dundigal (1.5 years). Upon successful completion, you're commissioned as a permanent officer - Lieutenant (Army), Sub-Lieutenant (Navy), or Flying Officer (Air Force).",
+        "Permanent commission means you serve until retirement age (54-60 depending on rank).",
+        "Career and salary: Starting salary as Lieutenant: Rs 56,100 basic + Military Service Pay Rs 15,500 + DA + various allowances. Total monthly: Rs 80,000-1,00,000 for Army/Navy officers, Rs 1,00,000-1,20,000 for Air Force (additional flying/technical allowances).",
+        "Free accommodation, medical for life, canteen, subsidized education for children, and 60 days annual leave.",
+        "The NDA advantage: Officers who enter through NDA build the longest military careers (joining at 19-20, retiring at 54-60 = 34-40 years of service). They reach the highest ranks (NDA alumni include former Army Chiefs, Navy Chiefs, and Air Chiefs).",
+        "The 3-year shared training creates lifelong bonds - your NDA coursemates become Generals, Admirals, and Air Marshals over the next 3 decades. No other entry point offers this combination of career length and network depth."
+      ]
+    },
+    {
+      "type": "svg_block",
+      "heading": "Visual: Exam Pattern",
+      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Exam Pattern</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">100</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">English (2 hours, 12</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">120 Qs</text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">100</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">General Knowledge (2</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">120 Qs</text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">100</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Elementary Mathemati</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">100 Qs</text></svg>",
+      "caption": "Paper structure",
+      "description": "Subject-wise marks."
+    },
+    {
+      "type": "text",
+      "heading": "Books and resources for UPSC NDA",
+      "icon": "📚",
+      "content": [
+        "Mathematics: Pathfinder NDA/NA Mathematics by Arihant (comprehensive - covers entire syllabus with solved examples and practice problems), RS Aggarwal NDA Mathematics (alternative - more practice-focused). For calculus specifically, RD Sharma Class 12 Mathematics provides excellent foundation.",
+        "Solve ALL NCERT examples and exercises for Class 11-12 Math before moving to NDA-specific books.",
+        "General Ability Test: Lucent's General Knowledge (covers history, geography, polity, science, economy), Wren & Martin English Grammar (the definitive English grammar reference), NCERT Class 6-12 History and Geography textbooks (GK questions are heavily NCERT-based), and any current affairs monthly magazine. For Physics and Chemistry: NCERT Class 11-12 covers 90% of NDA science questions.",
+        "Previous year papers: Available free on UPSC website (upsc.gov.in) - solve papers from 2015-2025. NDA has strong pattern consistency - certain math topics (trigonometry applications, coordinate geometry, probability) and GK areas (Indian freedom movement, world geography, physics concepts) appear every year.",
+        "Analyzing 5 years of papers reveals 60-70% of the exam's structure.",
+        "SSB preparation: 'Let's Crack SSB Interview' by Wing Commander Arjun Rawat (best overall SSB guide), 'Crack the SSB' by Dr. N.K.",
+        "Natarajan (psychology tests explained). Practice PPDT stories daily.",
+        "Join an SSB coaching for group task practice if available in your city - solo preparation is insufficient for the group dynamics assessment. YouTube channels: SSBCrackExams, MKC Academy, and Cavalier India."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "info",
+      "heading": "UPSC NDA 2026 schedule",
+      "content": "NDA I 2026: Notification December 2025, exam April 2026, SSB June-September 2026. NDA II 2026: Notification June 2026, exam September 2026, SSB November 2026-February 2027.<br><br>Apply at upsc.gov.in → Online Application. Fee: Rs 100 (exempted for SC/ST and women candidates).<br><br>Both male and female candidates are eligible."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "heading": "Appear for BOTH NDA I and NDA II every year",
+      "content": "You can appear for both NDA I (April) and NDA II (September) in the same year. Each attempt is independent - appearing in NDA I doesn't affect NDA II eligibility.<br><br>With 2 attempts per year and approximately 4 total attempts in your eligible age window, every missed attempt is a wasted opportunity. The Rs 100 fee is negligible.<br><br>Register for every eligible NDA exam - even if you feel underprepared, the exam experience is invaluable."
+    },
+    {
+      "type": "pullquote",
+      "text": "At 19, NDA cadets command respect that most people don't earn in a lifetime. By 24, they're officers leading platoons. By 35, they're commanding companies of 120 soldiers. By 50, they're Colonels and Brigadiers shaping national defence strategy. NDA isn't just a career entry - it's a 35-year journey from cadet to General that starts with a single UPSC exam in Class 12."
+    },
+    {
+      "type": "text",
+      "heading": "NDA vs CDS vs AFCAT - choosing the right defence entry",
+      "icon": "🔄",
+      "content": [
+        "NDA (after 12th, age 16.5-19.5): Youngest entry. 3 years NDA + 1-1.5 years service academy = 4-4.5 years training.",
+        "Permanent commission.",
+        "Best for students certain about defence from school age. Longest career in uniform due to earliest joining age.",
+        "The NDA bond - 3 years of shared training - creates the deepest professional friendships in Indian armed forces.",
+        "CDS (after graduation, age 19-25): Combined Defence Services exam by UPSC. Shorter training: 18 months at IMA (Army), 1 year at INA (Navy), 1.5 years at AFA (Air Force).",
+        "Both PC and SSC available. Best for graduates who discovered defence interest during or after college.",
+        "CDS officers reach the same ranks as NDA officers after commissioning - the career paths converge.",
+        "AFCAT (after graduation, age 20-26): Air Force-specific entry. Written exam by IAF (not UPSC) + AFSB.",
+        "Both PC and SSC. Conducted twice a year (vs CDS once).",
+        "Best for graduates who want maximum attempts at Air Force specifically. AFCAT written is generally considered easier than CDS written.",
+        "Strategy for maximum chances: If you're in 12th - attempt NDA I and NDA II (2 attempts/year). If you're in college/graduated - attempt CDS (once/year) + AFCAT (twice/year) = 3 attempts/year at officer entry.",
+        "SSB preparation is identical for all three entries - clearing SSB once teaches you the process for all future attempts."
+      ]
+    },
+    {
+      "type": "svg_block",
+      "heading": "NDA vs CDS Entry",
+      "icon": "🎖️",
+      "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">NDA vs CDS Armed Forces Entry</text><rect x=\"50\" y=\"50\" width=\"280\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"190\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">NDA After 12th Age 16.</text><rect x=\"370\" y=\"50\" width=\"280\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"510\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">CDS After graduation A</text></svg>",
+      "caption": "NDA is the younger entry with free degree and 4 years of training",
+      "description": "Both lead to permanent commission in Army, Navy, or Air Force."
+    }
+  ],
+  "important_dates": [
+    {
+      "label": "CDS I 2026 Written Exam",
+      "value": "April 12, 2026",
+      "highlight": true
+    },
+    {
+      "label": "Application Deadline",
+      "value": "December 30, 2025 (already passed; check CDS II 2026 dates)",
+      "highlight": false
+    },
+    {
+      "label": "SSB Interview",
+      "value": "May-July 2026 (after written result)",
+      "highlight": false
+    },
+    {
+      "label": "CDS II 2026",
+      "value": "September 13, 2026 (expected)",
+      "highlight": true
+    },
+    {
+      "label": "Training Commencement",
+      "value": "January (CDS I) / July (CDS II) of following year",
+      "highlight": false
+    }
+  ],
+  "preparation_tips": [
+    "CDS English is language-focused: grammar, vocabulary, comprehension, sentence structure. Study: <a href='https://www.amazon.in/Objective-English-Grammar-Usage-Proficiency/dp/9390205619/'>Wren & Martin</a>, practice synonyms/antonyms, reading comprehension passages, sentence correction. This is easier than competitive exams like UPSC.",
+    "General Knowledge covers static (history, geography, polity) and current affairs. Study: NCERT 6-12, monthly newspapers (6 months), monthly GK magazines. Focus: Indian military history, defence policies, current defence initiatives, geo-political developments. CDS GK is broader than banking exams but narrower than UPSC.",
+    "Mathematics is 'Elementary' (10th class level) - much easier than NDA. Topics: arithmetic, algebra, trigonometry (basic), geometry, mensuration, statistics. Don't over-prepare this; focus on speed + accuracy. Spend 30 mins daily.",
+    "SSB preparation is CRITICAL and must start BEFORE written exam results. Read about OLQs, practice group discussions daily, develop national awareness, improve communication skills, and build physical fitness. Many candidates clear written exam but fail SSB. Coaching institutes offer mock SSBs - take at least 3-4 mock sessions."
+  ],
+  "faqs": [
+    {
+      "question": "I have a non-engineering degree. Can I join the Air Force through CDS?",
+      "answer": "Yes, through OTA. However, note: Air Force Academy (AFA) through CDS requires Physics + Maths at 12th level (or BE/BTech in any field).<br><br>If your graduation didn't include Physics+Maths, you can't apply for AFA. But you CAN apply for IMA (Army) or OTA with any degree.<br><br>Check your eligibility carefully."
+    },
+    {
+      "question": "Can women apply for CDS?",
+      "answer": "Women can apply for OTA (since 2024, for the first time). IMA, Naval Academy, and Air Force Academy are currently for men only (as of 2026).<br><br>Women can join the Air Force through AFCAT exam and Navy through specific women officer entries - check service websites for latest updates on gender-inclusive recruitment."
+    },
+    {
+      "question": "What is the expected CDS written exam cutoff?",
+      "answer": "Cutoffs vary: IMA typically 110-130 out of 300, OTA 90-110 out of 200. These are relatively low (36-43% for IMA) - the real challenge is SSB.<br><br>Focus on clearing the cutoff comfortably (150+/300 is safe), then prepare thoroughly for SSB."
+    },
+    {
+      "question": "OTA - can I leave after 14 years?",
+      "answer": "Yes. OTA officers serve 14 years with option to extend.<br><br>They can also apply for Permanent Commission conversion. After leaving, you receive gratuity + pension (if 20+ years of service).<br><br>Many SSC officers transition to civil services, corporate careers, or further military service after their tenure."
+    },
+    {
+      "question": "How important is physical fitness for CDS?",
+      "answer": "Very important. You must pass SSB physical tasks (5-km run in specified time, obstacle course, endurance tests) and military medical (vision 6/6 in better eye, 6/9 in worse eye with correction; no color blindness; weight proportionate to height).<br><br>Start fitness training 6 months before SSB. Running 3-5 km daily is essential."
+    },
+    {
+      "question": "CDS salary - is it lower than banking?",
+      "answer": "Starting salary is identical: ₹56,100 basic (₹70-90K in-hand with allowances). But banking exams like SBI PO start at ₹48,480 basic (₹80-82K in-hand including allowances).<br><br>Military salary grows slower initially, but benefits (free quarters, medical, transport) add significant value. After 10 years, military pay is comparable to banking."
+    },
+    {
+      "question": "IMA officer vs IAS officer - which is better?",
+      "answer": "Different roles: IAS = civilian administrator (highest power in governance, Cabinet Secretary level). IMA officer = military commander (Gen commanding armies, highest: Chief of Defence Staff).<br><br>Salaries comparable, but IAS has more political influence; military has global authority. Choose: Civil governance (IAS) vs national defence (IMA)."
+    },
+    {
+      "question": "What is the NDA age limit?",
+      "answer": "16.5 to 19.5 years on the first day of the month of commencement of the course. For NDA I 2026 (course starting January 2027): born between July 2, 2007 and July 1, 2010.<br><br>Check the specific notification for exact date ranges. No age relaxation for any category - the age limit is strict."
+    },
+    {
+      "question": "Can girls apply for NDA?",
+      "answer": "Yes - since 2022, women candidates are eligible for NDA. Women can join all three services (Army, Navy, Air Force) through NDA.<br><br>The written exam, SSB process, and training are identical for male and female candidates. Physical fitness standards for women are different (relaxed timings and heights) but the selection criteria for Officer Like Qualities are the same."
+    },
+    {
+      "question": "Is NDA exam difficult?",
+      "answer": "The written exam is at Class 11-12 level - not inherently difficult for well-prepared students. The real challenge is the SSB interview where only 10-15% of screened-in candidates get recommended.<br><br>Mathematics is the hardest part of the written exam for non-science students. With 4-6 months of focused preparation, clearing the written exam is achievable for any 12th pass student."
+    },
+    {
+      "question": "What is the NDA written exam cutoff?",
+      "answer": "Typically 340-370 out of 900 for general category (varies each year). SC/ST cutoff is 10-15% lower.<br><br>The cutoff includes both Paper I (Math) and Paper II (GAT) combined. You must score reasonably in both papers - an extremely low score in either paper may lead to rejection even if the total crosses the cutoff."
+    }
+  ],
+  "official_portal": {
+    "name": "UPSC CDS Official",
+    "url": "https://upsc.gov.in"
+  },
+  "related_pages": [
+    {
+      "title": "NDA Exam 2026",
+      "slug": "nda",
+      "tag": "Defence",
+      "url": "/exam/nda"
+    },
+    {
+      "title": "Agnipath Scheme",
+      "slug": "agnipath-scheme",
+      "tag": "Defence",
+      "url": "/yojana/agnipath-scheme"
+    },
+    {
+      "title": "UPSC Civil Services",
+      "slug": "upsc-cse",
+      "tag": "UPSC",
+      "url": "/exam/upsc-cse"
+    },
+    {
+      "title": "SSC GD Constable",
+      "slug": "ssc-gd-constable",
+      "tag": "Defence",
+      "url": "/exam/ssc-gd-constable"
+    }
+  ],
+  "tags": [
+    "CDS",
+    "Defence",
+    "Army",
+    "Navy",
+    "Air Force",
+    "UPSC",
+    "Officer",
+    "IMA",
+    "OTA",
+    "Military Service"
+  ],
+  "image_suggestions": [
+    "IMA Dehradun buildings and training grounds",
+    "Officer cadets in military uniform",
+    "Naval Academy naval officer",
+    "Air Force Academy fighter jets",
+    "OTA Chennai training center",
+    "SSB group discussion assessment",
+    "Obstacle course at military academy",
+    "Written exam answer script",
+    "Military officer commissioned ceremony",
+    "Career progression chart from Lieutenant to General"
+  ],
+  "exam_prep": {
+    "syllabus": [
+      {
+        "subject": "Mathematics",
+        "topics": "Algebra, matrices & determinants, trigonometry, analytical geometry (2D & 3D), differential calculus, integral calculus, vector algebra, statistics & probability",
+        "questions": 120,
+        "marks": 300,
+        "tag": "Maths"
+      },
+      {
+        "subject": "General Ability Test (GAT)",
+        "topics": "English (grammar, vocabulary, comprehension), physics, chemistry, biology, history, geography, current affairs, general science",
+        "questions": 150,
+        "marks": 600,
+        "tag": "GK"
+      }
+    ],
+    "books": [
+      {
+        "title": "NDA Mathematics",
+        "author": "R.S. Aggarwal / Pathfinder",
+        "subject": "Maths"
+      },
+      {
+        "title": "Lucent's General Knowledge",
+        "author": "Lucent Publications",
+        "subject": "GK"
+      },
+      {
+        "title": "NCERT Science (9th-10th)",
+        "author": "NCERT",
+        "subject": "Science"
+      },
+      {
+        "title": "Arihant NDA Guide",
+        "author": "Arihant Publications",
+        "subject": "All-in-one"
+      },
+      {
+        "title": "Word Power Made Easy",
+        "author": "Norman Lewis",
+        "subject": "English"
+      }
+    ],
+    "study_plan": [
+      {
+        "period": "Month 1-3: Maths + Science Foundation",
+        "tasks": "NDA maths is 12th-level. Complete: algebra, trigonometry, calculus from NCERT 11-12. Science from NCERT 9-10. English vocabulary 20 words/day. Physical fitness training - NDA has SSB interview with physical tests."
+      },
+      {
+        "period": "Month 4-5: GAT + Current Affairs",
+        "tasks": "History (modern India focus), geography (India + world), polity basics. Current affairs of last 1 year. Practice English comprehension daily. Mock tests for maths speed."
+      },
+      {
+        "period": "Month 6: Mocks + SSB Prep",
+        "tasks": "Full mocks weekly. If written exam clears, SSB interview preparation - personality tests, group discussions, interviews, physical tasks. Read about defence forces, current military operations."
+      }
+    ],
+    "quiz": [
+      {
+        "question": "NDA exam is conducted by:",
+        "options": [
+          "NDA",
+          "UPSC",
+          "Indian Army",
+          "Ministry of Defence"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "The minimum age to appear for NDA is:",
+        "options": [
+          "15.5 years",
+          "16.5 years",
+          "17 years",
+          "18 years"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "sin²θ + cos²θ = ?",
+        "options": [
+          "0",
+          "1",
+          "2",
+          "sin2θ"
+        ],
+        "answer": 1
+      }
+    ]
+  },
+  "last_reviewed": "May 2026",
+  "category": "upsc",
+  "salary_table": {
+    "intro": "In-hand salary ranges from ₹70,000–90,000/month (14-year service commitment) to ₹70,000–90,000/month + quarters, medical, canteen benefits depending on the post and city.",
+    "rows": [
+      {
+        "post": "Officer (Lieutenant) via IMA - Indian Military Academy",
+        "amount": "₹70,000–90,000/month + quarters, medical, canteen benefits"
+      },
+      {
+        "post": "Officer (Sub-Lieutenant) via Naval Academy",
+        "amount": "₹70,000–90,000/month + naval perks"
+      },
+      {
+        "post": "Officer (Flying Officer) via Air Force Academy",
+        "amount": "₹70,000–90,000/month + aviation allowance"
+      },
+      {
+        "post": "Officer (Lieutenant) via OTA - Officers Training Academy (SSC)",
+        "amount": "₹70,000–90,000/month (14-year service commitment)"
+      }
+    ]
+  },
+  "quick_facts": [
+    {
+      "label": "CDS I Written",
+      "value": "April 12, 2026"
+    },
+    {
+      "label": "Vacancies",
+      "value": "~451"
+    },
+    {
+      "label": "Education",
+      "value": "Graduation"
+    },
+    {
+      "label": "Salary",
+      "value": "₹56K+ basic"
+    }
+  ],
+  "status": "upcoming"
 }
