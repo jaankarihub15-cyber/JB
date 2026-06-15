@@ -119,7 +119,7 @@ export default async function ExamDetailPage({ params }: Props) {
             {e.changes_2026 && e.changes_2026.length > 0 && (
               <div className="mt-6 p-4 rounded-xl bg-[#FEFCE8] border border-[#FDE68A]">
                 <div className="text-[13px] font-bold text-[#92400E] mb-2">⚡ What's different in 2026?</div>
-                {e.changes_2026.map((c: string, i: number) => (
+                {(e.changes_2026 || []).map((c: string, i: number) => (
                   <p key={i} className="text-sm text-[#78350F] leading-relaxed mb-1" dangerouslySetInnerHTML={{ __html: c }} />
                 ))}
               </div>
@@ -130,7 +130,7 @@ export default async function ExamDetailPage({ params }: Props) {
               <div id="eligibility" className="mt-6 scroll-mt-40">
                 <SectionHeading icon="✅">Eligibility &amp; Key Details</SectionHeading>
                 <ExamEligibilityChecker data={e.eligibility_data} />
-                <Card>{e.key_details.map((d: any) => (<InfoRow key={d.label} label={d.label} value={d.value} highlight={d.highlight} />))}</Card>
+                <Card>{(e.key_details || []).map((d: any) => (<InfoRow key={d.label} label={d.label} value={d.value} highlight={d.highlight} />))}</Card>
               </div>
             )}
 
@@ -139,12 +139,12 @@ export default async function ExamDetailPage({ params }: Props) {
               <div id="syllabus" className="mt-6 scroll-mt-40">
                 <SectionHeading icon="📘">Syllabus &amp; Exam Pattern</SectionHeading>
                 <div className="rounded-xl p-4 bg-[#FEF2F2] border border-[#FECACA] mb-4 text-sm font-semibold text-[#991B1B] flex items-start gap-2">⚠️ Negative marking applies in all tiers. Guessing costs you marks.</div>
-                {e.exam_pattern.map((tier: any, ti: number) => (
+                {(e.exam_pattern || []).map((tier: any, ti: number) => (
                   <div key={tier.tier_name} className={ti > 0 ? "mt-4" : ""}>
                     <SectionHeading icon="📝">{tier.tier_name}</SectionHeading>
                 <Card className="px-6 py-5">
                   {tier.description && (<p className="text-sm text-text-secondary leading-relaxed mb-4">{tier.description}</p>)}
-                  {tier.subjects.map((sub: any) => (
+                  {(tier.subjects || []).map((sub: any) => (
                     <div key={sub.name} className="border-t border-border py-3">
                       <div className="flex justify-between text-base">
                         <span className="text-text font-semibold" dangerouslySetInnerHTML={{ __html: sub.name }} />
@@ -183,7 +183,7 @@ export default async function ExamDetailPage({ params }: Props) {
               <>
                 <SectionHeading icon="💰">Posts & Salary (Full Detail)</SectionHeading>
                 <Card className="px-6 py-5">
-                  {e.major_posts.map((p: any) => (
+                  {(e.major_posts || []).map((p: any) => (
                     <div key={p.post} className="flex justify-between items-center py-3 border-b border-border text-base">
                       <div><span className="text-text font-medium" dangerouslySetInnerHTML={{ __html: p.post }} /><span className="text-text-muted ml-2 text-sm" dangerouslySetInnerHTML={{ __html: `(${p.department})` }} /></div>
                       <span className="text-accent font-semibold">{p.in_hand_salary}</span>
@@ -201,12 +201,12 @@ export default async function ExamDetailPage({ params }: Props) {
               <Fragment key={idx}>
               <div id={sectionId}>
                 {!["svg_block","stat_grid","process_flow","icon_list","timeline","comparison_card","bar_chart","number_highlight","modern_callout","quick_action_grid","eligibility_check"].includes(section.type) && <SectionHeading icon={section.icon}>{section.heading}</SectionHeading>}
-                {section.type === "text" && section.content.map((para: string, i: number) => (<p key={i} className="text-base text-text-secondary leading-[1.75] mb-5" dangerouslySetInnerHTML={{ __html: para }} />))}
-                {section.type === "steps" && (<Card>{section.steps.map((step: any) => (<StepCard key={step.step} number={step.step} title={step.title} description={step.description} />))}</Card>)}
+                {section.type === "text" && (section.content || []).map((para: string, i: number) => (<p key={i} className="text-base text-text-secondary leading-[1.75] mb-5" dangerouslySetInnerHTML={{ __html: para }} />))}
+                {section.type === "steps" && (<Card>{(section.steps || []).map((step: any) => (<StepCard key={step.step} number={step.step} title={step.title} description={step.description} />))}</Card>)}
                 {section.type === "table" && (
-                  <div className="overflow-x-auto"><table className="w-full border-collapse card overflow-hidden text-sm"><thead><tr className="bg-card-alt">{section.columns.map((col: string) => (<th key={col} className="px-4 py-3 text-left font-semibold text-text border-b border-border">{col}</th>))}</tr></thead><tbody>{section.rows.map((row: string[], ri: number) => (<tr key={ri}>{row.map((cell: string, ci: number) => (<td key={ci} className={`px-4 py-3 border-b border-border ${ci === 0 ? "font-medium text-text" : "text-text-secondary"}`} dangerouslySetInnerHTML={{ __html: cell }} />))}</tr>))}</tbody></table></div>
+                  <div className="overflow-x-auto"><table className="w-full border-collapse card overflow-hidden text-sm"><thead><tr className="bg-card-alt">{(section.columns || []).map((col: string) => (<th key={col} className="px-4 py-3 text-left font-semibold text-text border-b border-border">{col}</th>))}</tr></thead><tbody>{(section.rows || []).map((row: string[], ri: number) => (<tr key={ri}>{(row || []).map((cell: string, ci: number) => (<td key={ci} className={`px-4 py-3 border-b border-border ${ci === 0 ? "font-medium text-text" : "text-text-secondary"}`} dangerouslySetInnerHTML={{ __html: cell }} />))}</tr>))}</tbody></table></div>
                 )}
-                {section.type === "info_rows" && (<Card>{section.rows.map((row: any) => (<InfoRow key={row.label} label={row.label} value={row.value} highlight={row.highlight} />))}</Card>)}
+                {section.type === "info_rows" && (<Card>{(section.rows || []).map((row: any) => (<InfoRow key={row.label} label={row.label} value={row.value} highlight={row.highlight} />))}</Card>)}
                 {section.type === "svg_block" && (<div className="my-6">{section.caption && (<p className="text-xs text-text-muted mb-2 text-center italic">{section.caption}</p>)}<div className="card p-4 flex justify-center overflow-x-auto" dangerouslySetInnerHTML={{ __html: section.svg }} />{section.description && (<p className="text-sm text-text-secondary mt-3" dangerouslySetInnerHTML={{ __html: section.description }} />)}</div>)}
                 {section.type === "callout" && (
                   <div className="my-5 rounded-r-lg p-4" style={{ borderLeft: `4px solid ${section.variant === "warning" ? "#DC2626" : section.variant === "tip" ? "#EA580C" : section.variant === "info" ? "#2563EB" : "#1B6B4A"}`, backgroundColor: section.variant === "warning" ? "#FEE2E2" : section.variant === "tip" ? "#FFF7ED" : section.variant === "info" ? "#DBEAFE" : "#DCFCE7" }}>
@@ -216,7 +216,7 @@ export default async function ExamDetailPage({ params }: Props) {
                 )}
                 <SchemeBlock section={section} />
                 {section.type === "pullquote" && (<blockquote className="my-6 border-l-4 border-accent pl-5 py-2"><p className="text-lg font-semibold text-text leading-snug italic" dangerouslySetInnerHTML={{ __html: section.text }} />{section.attribution && (<footer className="text-xs text-text-muted mt-2 not-italic">— {section.attribution}</footer>)}</blockquote>)}
-                {section.type === "stat_cards" && (<div className="my-5 grid grid-cols-2 md:grid-cols-4 gap-3">{section.cards.map((card: any, i: number) => (<div key={i} className={`card p-4 text-center ${card.variant === "accent" ? "bg-accent-light border-accent" : ""}`}><p className={`text-2xl font-bold ${card.variant === "accent" ? "text-accent" : "text-text"}`}>{card.value}</p><p className="text-xs text-text-muted mt-1">{card.label}</p></div>))}</div>)}
+                {section.type === "stat_cards" && (<div className="my-5 grid grid-cols-2 md:grid-cols-4 gap-3">{(section.cards || []).map((card: any, i: number) => (<div key={i} className={`card p-4 text-center ${card.variant === "accent" ? "bg-accent-light border-accent" : ""}`}><p className={`text-2xl font-bold ${card.variant === "accent" ? "text-accent" : "text-text"}`}>{card.value}</p><p className="text-xs text-text-muted mt-1">{card.label}</p></div>))}</div>)}
                 {section.type === "divider" && (<div className="my-8 flex items-center gap-3"><div className="flex-1 h-px bg-border"></div>{section.label && <span className="text-xs text-text-muted uppercase tracking-wider font-semibold">{section.label}</span>}<div className="flex-1 h-px bg-border"></div></div>)}
               </div>
               {idx === 0 && <ResizerCTA />}
@@ -227,7 +227,7 @@ export default async function ExamDetailPage({ params }: Props) {
             {e.important_dates && e.important_dates.length > 0 && (
               <div id="dates" className="mt-6 scroll-mt-40">
                 <SectionHeading icon="📅">Important Dates</SectionHeading>
-                <Card>{e.important_dates.map((d: any) => (<InfoRow key={d.label} label={d.label} value={d.value} highlight={d.highlight} />))}</Card>
+                <Card>{(e.important_dates || []).map((d: any) => (<InfoRow key={d.label} label={d.label} value={d.value} highlight={d.highlight} />))}</Card>
               </div>
             )}
 
@@ -235,7 +235,7 @@ export default async function ExamDetailPage({ params }: Props) {
             {e.preparation_tips && e.preparation_tips.length > 0 && (
               <div id="prep" className="mt-6 scroll-mt-40">
                 <SectionHeading icon="📚">Preparation Strategy</SectionHeading>
-                <Card className="px-6 py-5">{e.preparation_tips.map((tip: string, i: number) => (<div key={i} className={`py-3 text-base text-text-secondary leading-relaxed flex gap-3 ${i < e.preparation_tips.length - 1 ? "border-b border-border" : ""}`}><span className="text-accent font-bold shrink-0">{i + 1}.</span><span dangerouslySetInnerHTML={{ __html: tip }} /></div>))}</Card>
+                <Card className="px-6 py-5">{(e.preparation_tips || []).map((tip: string, i: number) => (<div key={i} className={`py-3 text-base text-text-secondary leading-relaxed flex gap-3 ${i < e.preparation_tips.length - 1 ? "border-b border-border" : ""}`}><span className="text-accent font-bold shrink-0">{i + 1}.</span><span dangerouslySetInnerHTML={{ __html: tip }} /></div>))}</Card>
               </div>
             )}
 
@@ -245,7 +245,7 @@ export default async function ExamDetailPage({ params }: Props) {
                 <div className="inline-flex items-center gap-1.5 text-[10.5px] font-extrabold tracking-[0.07em] uppercase px-3 py-1.5 rounded-[10px] bg-[#FEF3C7] text-[#92400E] mb-3">📖 Books</div>
                 <SectionHeading icon="📖">Recommended Books</SectionHeading>
                 <Card className="px-6 py-5">
-                  {e.exam_prep.books.map((book: any, i: number) => (
+                  {(e.exam_prep?.books || []).map((book: any, i: number) => (
                     <div key={i} className={`py-3 text-base text-text-secondary leading-relaxed ${i < e.exam_prep.books.length - 1 ? "border-b border-border" : ""}`}>
                       {typeof book === "string" ? <span dangerouslySetInnerHTML={{ __html: book }} /> : <><span className="font-semibold text-text">{book.title}</span>{book.author && <span className="text-text-muted"> — {book.author}</span>}{book.note && <div className="text-sm text-text-muted mt-1">{book.note}</div>}</>}
                     </div>
@@ -258,7 +258,7 @@ export default async function ExamDetailPage({ params }: Props) {
             <div id="faqs" className="mt-6 scroll-mt-40">
               <SectionHeading icon="❓">Frequently Asked Questions</SectionHeading>
             </div>
-            <Card>{e.faqs.map((f: any) => (<FAQ key={f.question} question={f.question} answer={f.answer} />))}</Card>
+            <Card>{(e.faqs || []).map((f: any) => (<FAQ key={f.question} question={f.question} answer={f.answer} />))}</Card>
 
             {/* OFFICIAL PORTAL */}
             {e.official_portal?.url && e.official_portal.url !== "#" && (
@@ -271,7 +271,7 @@ export default async function ExamDetailPage({ params }: Props) {
             {/* RELATED */}
             {e.related_pages && e.related_pages.length > 0 && (
               <><SectionHeading icon="🔗">Related Exams</SectionHeading>
-              <div className="flex gap-3 overflow-x-auto pb-2">{e.related_pages.map((r: any) => (<a key={r.slug} href={r.url || `/exam/${r.slug}`} className="card px-5 py-4 min-w-[200px] shrink-0 hover:border-accent/30 no-underline"><Tag className="bg-blue-light">{r.tag}</Tag><div className="text-base font-medium text-text mt-2">{r.title}</div></a>))}</div></>
+              <div className="flex gap-3 overflow-x-auto pb-2">{(e.related_pages || []).map((r: any) => (<a key={r.slug} href={r.url || `/exam/${r.slug}`} className="card px-5 py-4 min-w-[200px] shrink-0 hover:border-accent/30 no-underline"><Tag className="bg-blue-light">{r.tag}</Tag><div className="text-base font-medium text-text mt-2">{r.title}</div></a>))}</div></>
             )}
 
             {/* FOOTER */}
