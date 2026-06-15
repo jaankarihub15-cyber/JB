@@ -1,7 +1,7 @@
 {
   "slug": "appsc",
   "title": "APPSC Group 1 2026: Salary Rs 85K-1L, 91 Vacancies, 15 Aug",
-  "meta_description": "APPSC Group 1 2026: 91 vacancies (Deputy Collector, DSP). Notification 15 Aug 2026. Basic Rs 61,960-1,51,370 (AP RPS 2022). In-hand Rs 85K-1L. Telugu compulsory.",
+  "meta_description": "APPSC Group 1 2026: 91 vacancies (Deputy Collector, DSP). Notification 15 Aug 2026. Basic Rs 61,960-1,51,370 (AP RPS 2022). In-hand Rs 85K-1L.",
   "hero": {
     "status": "upcoming",
     "one_liner": "Andhra Pradesh state civil services - Group 1 for Deputy Collector/DSP, Group 2 for Tehsildar/Municipal Commissioner through APPSC",
@@ -107,13 +107,73 @@
       "subjects": [
         {
           "name": "General Studies + AP Specific",
-          "questions": 90,
-          "marks": 90
+          "questions": 120,
+          "marks": 120,
+          "topics": [
+            {
+              "name": "Indian History",
+              "high": true
+            },
+            {
+              "name": "AP History & Culture",
+              "high": true
+            },
+            {
+              "name": "Indian Polity",
+              "high": true
+            },
+            {
+              "name": "AP Governance",
+              "high": true
+            },
+            {
+              "name": "Indian Geography",
+              "high": false
+            },
+            {
+              "name": "AP Geography",
+              "high": false
+            },
+            {
+              "name": "Indian Economy",
+              "high": false
+            },
+            {
+              "name": "AP Economy & Schemes",
+              "high": true
+            },
+            {
+              "name": "Current Affairs (National + AP)",
+              "high": true
+            },
+            {
+              "name": "General Science",
+              "high": false
+            }
+          ]
         },
         {
           "name": "Mental Ability & Aptitude",
-          "questions": 60,
-          "marks": 60
+          "questions": 30,
+          "marks": 30,
+          "topics": [
+            {
+              "name": "Reasoning",
+              "high": true
+            },
+            {
+              "name": "Data Interpretation",
+              "high": true
+            },
+            {
+              "name": "Analytical Ability",
+              "high": false
+            },
+            {
+              "name": "Number Series",
+              "high": false
+            }
+          ]
         }
       ],
       "total_questions": 150,
@@ -128,22 +188,90 @@
         {
           "name": "GS-I (History, Culture, Geography)",
           "questions": 0,
-          "marks": 150
+          "marks": 150,
+          "topics": [
+            {
+              "name": "AP History & Heritage",
+              "high": true
+            },
+            {
+              "name": "Indian Freedom Movement",
+              "high": true
+            },
+            {
+              "name": "World Geography",
+              "high": false
+            },
+            {
+              "name": "AP Geography",
+              "high": true
+            }
+          ]
         },
         {
           "name": "GS-II (Governance, Constitution, Law)",
           "questions": 0,
-          "marks": 150
+          "marks": 150,
+          "topics": [
+            {
+              "name": "Indian Constitution",
+              "high": true
+            },
+            {
+              "name": "AP Governance",
+              "high": true
+            },
+            {
+              "name": "Social Justice",
+              "high": false
+            },
+            {
+              "name": "International Relations",
+              "high": false
+            }
+          ]
         },
         {
           "name": "GS-III (Economy, Science, Technology)",
           "questions": 0,
-          "marks": 150
+          "marks": 150,
+          "topics": [
+            {
+              "name": "Indian Economy",
+              "high": true
+            },
+            {
+              "name": "AP Budget & Economy",
+              "high": true
+            },
+            {
+              "name": "Science & Technology",
+              "high": false
+            },
+            {
+              "name": "Environment",
+              "high": false
+            }
+          ]
         },
         {
           "name": "Telugu Language Paper",
           "questions": 0,
-          "marks": 75
+          "marks": 150,
+          "topics": [
+            {
+              "name": "Essay in Telugu",
+              "high": true
+            },
+            {
+              "name": "Comprehension",
+              "high": false
+            },
+            {
+              "name": "Translation",
+              "high": false
+            }
+          ]
         }
       ],
       "total_questions": 0,
@@ -924,36 +1052,36 @@
     "intro": "In-hand salary ranges from Rs 75,000-95,000 starting (with DA, HRA, TA) to Rs 75,000-95,000 starting (with DA, HRA, TA) depending on the post and city.",
     "rows": [
       {
-        "post": "Deputy Collector (Group 1)",
-        "amount": "Rs 75,000-95,000 starting (with DA, HRA, TA)"
+        "post": "Deputy Collector",
+        "amount": "₹75,000-95,000"
       },
       {
-        "post": "DSP (Group 1)",
-        "amount": "Rs 75,000-95,000 starting (with DA, HRA, TA)"
+        "post": "DSP",
+        "amount": "₹75,000-95,000"
       },
       {
         "post": "Revenue Divisional Officer",
-        "amount": "Rs 75,000-95,000 starting (with DA, HRA, TA)"
+        "amount": "₹75,000-95,000"
       },
       {
         "post": "Joint Collector",
-        "amount": "Rs 75,000-95,000 starting (with DA, HRA, TA)"
+        "amount": "₹75,000-95,000"
       },
       {
-        "post": "Tehsildar (Group 2)",
-        "amount": "Rs 75,000-95,000 starting (with DA, HRA, TA)"
+        "post": "Tehsildar",
+        "amount": "₹75,000-95,000"
       },
       {
-        "post": "Municipal Commissioner (Group 2)",
-        "amount": "Rs 75,000-95,000 starting (with DA, HRA, TA)"
+        "post": "Municipal Commissioner",
+        "amount": "₹75,000-95,000"
       },
       {
-        "post": "Sub-Registrar (Group 2)",
-        "amount": "Rs 75,000-95,000 starting (with DA, HRA, TA)"
+        "post": "Sub-Registrar",
+        "amount": "₹75,000-95,000"
       },
       {
-        "post": "Assistant Director (Various) (Group 1)",
-        "amount": "Rs 75,000-95,000 starting (with DA, HRA, TA)"
+        "post": "Assistant Director",
+        "amount": "₹75,000-95,000"
       }
     ]
   },
@@ -1035,5 +1163,10 @@
         "max_age": 47
       }
     ]
-  }
+  },
+  "changes_2026": [
+    "91 vacancies notified for Group 1 Services 2026.",
+    "Notification expected 15 August 2026. Prelims likely in November-December.",
+    "No changes to exam pattern or syllabus from 2025 cycle."
+  ]
 }
