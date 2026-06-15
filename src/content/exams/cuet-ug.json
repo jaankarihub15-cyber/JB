@@ -6,7 +6,7 @@
     "status": "upcoming",
     "one_liner": "Single entrance exam for 200+ universities including Delhi University, JNU, BHU, Jamia Millia, and 40+ National Law Universities",
     "icon": "🏫",
-    "updated_date": "May 2026",
+    "updated_date": "June 2026",
     "stats": [
       {
         "label": "Universities",
@@ -91,24 +91,65 @@
       "description": "Attempt max 6 domain subjects. Each section 45 min. Choose sections per university requirements.",
       "subjects": [
         {
-          "name": "Section IA: Language 1 (choose 1 of 13)",
-          "questions": 40,
-          "marks": 200
-        },
-        {
-          "name": "Section IB: Language 2 (optional)",
-          "questions": 40,
-          "marks": 200
-        },
-        {
-          "name": "Section II: Domain Subjects (choose up to 6 from 27)",
-          "questions": 40,
-          "marks": 200
-        },
-        {
-          "name": "Section III: General Test",
+          "name": "Section IA - Language (13 options)",
           "questions": 50,
-          "marks": 250
+          "marks": 200,
+          "topics": [
+            {
+              "name": "Reading Comprehension",
+              "high": true
+            },
+            {
+              "name": "Grammar & Vocabulary",
+              "high": true
+            },
+            {
+              "name": "Literary Aptitude",
+              "high": false
+            }
+          ]
+        },
+        {
+          "name": "Section II - Domain Subjects (27 options)",
+          "questions": 45,
+          "marks": 200,
+          "topics": [
+            {
+              "name": "NCERT Class 11-12 content",
+              "high": true
+            },
+            {
+              "name": "Application-based MCQs",
+              "high": true
+            },
+            {
+              "name": "Choose up to 6 subjects",
+              "high": false
+            }
+          ]
+        },
+        {
+          "name": "Section III - General Test",
+          "questions": 60,
+          "marks": 200,
+          "topics": [
+            {
+              "name": "General Knowledge & Current Affairs",
+              "high": true
+            },
+            {
+              "name": "Quantitative Reasoning",
+              "high": true
+            },
+            {
+              "name": "Logical & Analytical Reasoning",
+              "high": false
+            },
+            {
+              "name": "General Mental Ability",
+              "high": false
+            }
+          ]
         }
       ],
       "total_questions": 0,
@@ -138,6 +179,15 @@
     }
   ],
   "extra_sections": [
+    {
+      "type": "text",
+      "heading": "What is CUET? Full Form and Overview",
+      "icon": "🎓",
+      "content": [
+        "CUET stands for Common University Entrance Test. It is a national-level entrance exam conducted by NTA for undergraduate admissions to 200+ central, state, and private universities including Delhi University, JNU, BHU, and Jamia.",
+        "CUET replaced the individual university entrance exams from 2022 onwards. One exam, one score, applied across hundreds of universities."
+      ]
+    },
     {
       "heading": "Top Universities: CUET Cutoff Ranges (2025 Data)",
       "icon": "📊",
@@ -202,10 +252,34 @@
       ]
     },
     {
-      "heading": "",
-      "type": "svg_block",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">CUET UG gateway 250+ central universitie</text><rect x=\"50\" y=\"50\" width=\"180\" height=\"75\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"140\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#145236\">Section 1A</text><text x=\"140\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#145236\">Languages (13 option</text><rect x=\"260\" y=\"50\" width=\"180\" height=\"75\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"350\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1E40AF\">Section 2</text><text x=\"350\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#1E40AF\">Domain subjects (max</text><rect x=\"470\" y=\"50\" width=\"180\" height=\"75\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"560\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#C2410C\">Section 3</text><text x=\"560\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#C2410C\">General Test (option</text></svg>",
-      "caption": "CUET UG replaced individual university entrance exams. One exam, one application - admission to DU, JNU, BHU, Jamia, and 250+ central universities."
+      "type": "stat_grid",
+      "heading": "CUET UG 2026 at a Glance",
+      "items": [
+        {
+          "icon": "🏫",
+          "value": "200+",
+          "label": "Universities",
+          "color": "green"
+        },
+        {
+          "icon": "📝",
+          "value": "MCQ",
+          "label": "Question Type",
+          "color": "blue"
+        },
+        {
+          "icon": "📚",
+          "value": "NCERT",
+          "label": "Syllabus Base",
+          "color": "green"
+        },
+        {
+          "icon": "💰",
+          "value": "₹750",
+          "label": "Gen Fee (3 subjects)",
+          "color": "amber"
+        }
+      ]
     },
     {
       "heading": "CUET Strategy: Subject Selection Guide",
@@ -227,6 +301,12 @@
         "Humanities: English + History + Geography + Political Science + Economics + Psychology/Sociology (flexibility in final choices).",
         "Interdisciplinary (trending): English + Economics + Computer Science + Psychology + Environmental Studies + Media Studies (attractive for research-oriented universities like JNU)."
       ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "info",
+      "title": "CUET 2026 Application Fee",
+      "content": "Up to 3 subjects: ₹750 (Gen), ₹650 (OBC/EWS), ₹550 (SC/ST/PwD). 4-6 subjects: ₹1,500 (Gen).<br><br>More subjects = slightly higher fee. Payment online on cuet.nta.nic.in."
     },
     {
       "type": "text",
@@ -252,11 +332,29 @@
       "content": "Registration: February-March 2026. Admit card: April 2026.<br><br>Exam: May 2026 (multiple shifts across 2-3 weeks). Results: June 2026.<br><br>Counselling: July-August 2026. Check cuet.nta.nic.in for official dates.<br><br>Apply to multiple universities through the common application - one CUET score, multiple admissions."
     },
     {
-      "type": "svg_block",
-      "heading": "Visual: Key Numbers",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">200+</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Universities</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">May 11–31, 2026</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Exam Dates</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">15+ Lakh</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Applicants</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">CBT (Online)</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Mode</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
-      "caption": "Key facts",
-      "description": "Quick overview."
+      "type": "icon_list",
+      "heading": "Best Preparation Resources",
+      "items": [
+        {
+          "icon": "📚",
+          "title": "NCERT Books (Class 11-12)",
+          "sub": "90% of CUET questions come directly from NCERT. This is your primary source."
+        },
+        {
+          "icon": "📖",
+          "title": "NTA Mock Tests (cuet.nta.nic.in)",
+          "sub": "Free official practice tests. Use these to get familiar with the NTA interface."
+        },
+        {
+          "icon": "📝",
+          "title": "CUET Previous Year Papers",
+          "sub": "Solve 2022, 2023, 2024, and 2025 papers to understand the difficulty level."
+        }
+      ]
+    },
+    {
+      "type": "pullquote",
+      "text": "One exam, 200+ universities. CUET replaced dozens of individual entrance exams. A single good score opens DU, JNU, BHU, Jamia, and every central university."
     },
     {
       "type": "text",
@@ -273,11 +371,10 @@
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "Quick Facts",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Quick Facts</text><rect x=\"17\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"94\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">200+</text><text x=\"94\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Universities</text><rect x=\"187\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"264\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">May 11–31, 2026</text><text x=\"264\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Exam Dates</text><rect x=\"357\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"434\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#92400E\">15+ Lakh</text><text x=\"434\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Applicants</text><rect x=\"527\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"604\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">CBT (Online)</text><text x=\"604\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Mode</text></svg>",
-      "caption": "Quick reference facts",
-      "description": "Key facts and numbers at a glance"
+      "type": "modern_callout",
+      "variant": "tip",
+      "title": "CUET is NCERT-based. Coaching is optional.",
+      "content": "Unlike JEE or NEET, CUET questions are directly from NCERT textbooks. A student who thoroughly reads NCERT can score 700+ without any coaching.<br><br>Focus on understanding concepts, not memorising. NTA tests application, not rote learning."
     },
     {
       "type": "text",
@@ -291,6 +388,21 @@
         "The CUET scoring system uses percentiles rather than raw marks for ranking candidates. This normalizes scores across multiple exam sessions and shifts, ensuring candidates who took the exam on different days are compared fairly.",
         "Universities set their own cutoff percentiles based on the number of seats and applications received."
       ]
+    },
+    {
+      "type": "text",
+      "heading": "CUET Cutoff for Top Universities",
+      "icon": "📊",
+      "content": [
+        "Delhi University top colleges (Hindu, SRCC, Miranda, LSR) need 750+ out of 800 in relevant subjects. JNU, BHU, and Jamia have lower cutoffs varying by course.",
+        "Each university sets its own cutoff and merit list. A CUET score of 650+ opens most central university options outside the top DU colleges."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "title": "CUET Previous Year Papers",
+      "content": "CUET started in 2022, so only 3-4 years of papers exist. Solve all of them.<br><br>The difficulty is moderate (NCERT-level) but time pressure is real with 40-50 questions per subject in 45 minutes."
     },
     {
       "type": "text",
@@ -331,6 +443,19 @@
       ]
     },
     {
+      "type": "eligibility_check",
+      "heading": "CUET UG Eligibility Quick Check",
+      "qualify": [
+        "12th pass from any recognised board",
+        "No age limit (NTA level)",
+        "Any stream can apply for any subject"
+      ],
+      "disqualify": [
+        "12th result not yet declared",
+        "Individual university may have minimum % requirement"
+      ]
+    },
+    {
       "type": "text",
       "heading": "Common Mistakes Students Make in CUET",
       "content": [
@@ -345,11 +470,34 @@
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "Visual: Exam Pattern",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Exam Pattern</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">200</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Section IA: Language</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">40 Qs</text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">200</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Section IB: Language</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">40 Qs</text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">200</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Section II: Domain S</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">40 Qs</text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">250</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Section III: General</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">50 Qs</text></svg>",
-      "caption": "Paper structure",
-      "description": "Subject-wise marks."
+      "type": "stat_grid",
+      "heading": "CUET Competition",
+      "items": [
+        {
+          "icon": "👥",
+          "value": "15L+",
+          "label": "Applicants",
+          "color": "red"
+        },
+        {
+          "icon": "🏛️",
+          "value": "DU/JNU/BHU",
+          "label": "Top Universities",
+          "color": "green"
+        },
+        {
+          "icon": "📊",
+          "value": "700+",
+          "label": "Good Score/800",
+          "color": "amber"
+        },
+        {
+          "icon": "📅",
+          "value": "May 2026",
+          "label": "Exam Window",
+          "color": "blue"
+        }
+      ]
     },
     {
       "type": "text",
@@ -394,6 +542,12 @@
       ]
     },
     {
+      "type": "modern_callout",
+      "variant": "info",
+      "title": "CUET Age Limit",
+      "content": "CUET UG has no upper age limit set by NTA. Individual universities may have their own age criteria.<br><br>Check the specific university's admission brochure."
+    },
+    {
       "type": "text",
       "heading": "University-Wise Cutoff Trends and What They Mean",
       "content": [
@@ -411,12 +565,30 @@
       "content": "Carry your CUET admit card printout and one original government-issued photo ID to the exam center. Reach at least 60 minutes before the reporting time printed on your admit card.<br><br>Electronic devices including mobile phones, smartwatches, and calculators are strictly prohibited inside the exam hall. Carry a transparent water bottle and basic stationery for rough work.<br><br>The exam is conducted on computers provided at the center - no personal laptops or devices are used."
     },
     {
-      "type": "svg_block",
-      "heading": "CUET UG Section Pattern",
-      "icon": "📋",
-      "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">CUET UG Three Sections</text><rect x=\"30\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"130\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">Section 1A Language</text><rect x=\"250\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"350\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Section 2 Domain Subje</text><rect x=\"470\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"570\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#92400E\">Section 3 General Test</text></svg>",
-      "caption": "CUET replaced individual university entrance exams for 250+ central universities",
-      "description": "NCERT Class 12 syllabus is the foundation for all domain subject papers."
+      "type": "process_flow",
+      "heading": "CUET to University Admission",
+      "steps": [
+        {
+          "icon": "📋",
+          "title": "Register on cuet.nta.nic.in",
+          "desc": "Choose up to 6 domain subjects + languages + General Test."
+        },
+        {
+          "icon": "📝",
+          "title": "CUET Exam (May)",
+          "desc": "Computer-based MCQs. Multiple slots across 20 days."
+        },
+        {
+          "icon": "📊",
+          "title": "NTA Score (Percentile)",
+          "desc": "Normalised percentile score, not raw marks."
+        },
+        {
+          "icon": "🎓",
+          "title": "University Counselling",
+          "desc": "Each university sets its own cutoff and admission process."
+        }
+      ]
     }
   ],
   "important_dates": [
@@ -485,6 +657,26 @@
     {
       "question": "Is coaching necessary for CUET?",
       "answer": "Not for most students. If you've studied NCERT textbooks of Class 11-12 thoroughly, self-preparation with previous year papers is sufficient.<br><br>Free resources: NTA's official mock tests, NCERT PDFs (free at ncert.nic.in), YouTube channels for subject-specific revision. Coaching helps only if you need structured study discipline."
+    },
+    {
+      "question": "What is the full form of CUET?",
+      "answer": "CUET stands for Common University Entrance Test. It is conducted by NTA for undergraduate admissions to 200+ universities including DU, JNU, and BHU."
+    },
+    {
+      "question": "Is CUET based on NCERT?",
+      "answer": "Yes. CUET domain subject questions are directly from NCERT Class 11 and 12 textbooks.<br><br>Students who thoroughly study NCERT can score well without coaching."
+    },
+    {
+      "question": "What is the CUET fee?",
+      "answer": "Up to 3 subjects: ₹750 (Gen). 4-6 subjects: ₹1,500 (Gen).<br><br>SC/ST/PwD get reduced fees. Payment online through cuet.nta.nic.in."
+    },
+    {
+      "question": "Is there an age limit for CUET UG?",
+      "answer": "NTA does not set any age limit for CUET UG. Individual universities may have their own criteria.<br><br>Check the university admission brochure."
+    },
+    {
+      "question": "How many subjects can I choose in CUET?",
+      "answer": "You can choose up to 6 domain subjects from Section II, plus languages from Section IA/IB, plus the General Test (Section III). Choose subjects based on the university course you are applying to."
     }
   ],
   "official_portal": {
@@ -623,22 +815,26 @@
       }
     ]
   },
-  "last_reviewed": "May 2026",
+  "last_reviewed": "June 2026",
   "category": "other",
   "salary_table": {
-    "intro": "In-hand salary ranges from BHU engineering graduates: ₹8–12 LPA. Arts graduates: ₹5–8 LPA. to Further education-dependent; DU graduates at top colleges earn ₹8–15 LPA in IT/Finance depending on the post and city.",
+    "intro": "CUET is for university admissions, not jobs. Graduate salaries depend on university, course, and career path.",
     "rows": [
       {
-        "post": "BA/BSc at Delhi University",
-        "amount": "Further education-dependent; DU graduates at top colleges earn ₹8–15 LPA in IT/Finance"
+        "post": "DU Graduate (top college)",
+        "amount": "₹8-15L/year"
       },
       {
-        "post": "JNU Undergraduate Programs",
-        "amount": "JNU graduates pursue research, civil services, journalism, earning ₹5–10 LPA initially"
+        "post": "JNU Graduate",
+        "amount": "₹5-10L/year"
       },
       {
-        "post": "BHU Varanasi Programs",
-        "amount": "BHU engineering graduates: ₹8–12 LPA. Arts graduates: ₹5–8 LPA."
+        "post": "BHU Graduate",
+        "amount": "₹5-12L/year"
+      },
+      {
+        "post": "Central University (avg)",
+        "amount": "₹4-8L/year"
       }
     ]
   },
@@ -660,5 +856,23 @@
       "value": "CBT (Online)"
     }
   ],
-  "status": "upcoming"
+  "status": "upcoming",
+  "eligibility_data": {
+    "reference_date": "As per notification",
+    "default_education": "12th pass from any recognised board",
+    "relaxations": [],
+    "posts": [
+      {
+        "post": "CUET UG (General)",
+        "min_age": 0,
+        "max_age": 99,
+        "note": "No age limit by NTA. Check university-specific criteria."
+      }
+    ]
+  },
+  "changes_2026": [
+    "CUET UG 2026 exam window: May 11-31, 2026.",
+    "NTA conducting body remains the same. Register on cuet.nta.nic.in.",
+    "No major pattern changes from 2025. NCERT-based MCQs across all subjects."
+  ]
 }
