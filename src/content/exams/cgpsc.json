@@ -1,6 +1,6 @@
 {
   "slug": "cgpsc",
-  "title": "CGPSC 2026 - Chhattisgarh State Services Exam",
+  "title": "CGPSC 2026: SSE Syllabus, Cutoff & CG Salary",
   "meta_description": "CGPSC SSE 2026: Prelims Feb 22, Mains May 16–19. Deputy Collector, DSP. Tribal culture, Bastar, mining. 238+ vacancies.",
   "hero": {
     "status": "upcoming",
@@ -106,14 +106,66 @@
       "description": "Paper 1: GS (200 marks). Paper 2: CSAT (200 marks, qualifying). Duration: 2 hours each. Negative marking: 1/3rd per wrong.",
       "subjects": [
         {
-          "name": "Paper 1: GS + Chhattisgarh-specific",
+          "name": "General Studies",
           "questions": 100,
-          "marks": 200
+          "marks": 200,
+          "topics": [
+            {
+              "name": "CG History & Culture",
+              "high": true
+            },
+            {
+              "name": "CG Geography & Minerals",
+              "high": true
+            },
+            {
+              "name": "Indian Polity",
+              "high": true
+            },
+            {
+              "name": "Indian History",
+              "high": false
+            },
+            {
+              "name": "Indian Geography",
+              "high": false
+            },
+            {
+              "name": "General Science",
+              "high": false
+            },
+            {
+              "name": "Current Affairs (CG + National)",
+              "high": true
+            },
+            {
+              "name": "Indian Economy",
+              "high": false
+            }
+          ]
         },
         {
-          "name": "Paper 2: CSAT (Qualifying)",
+          "name": "CSAT (Aptitude)",
           "questions": 100,
-          "marks": 200
+          "marks": 200,
+          "topics": [
+            {
+              "name": "Comprehension",
+              "high": true
+            },
+            {
+              "name": "Reasoning",
+              "high": true
+            },
+            {
+              "name": "Data Interpretation",
+              "high": false
+            },
+            {
+              "name": "Decision Making",
+              "high": false
+            }
+          ]
         }
       ],
       "total_questions": 200,
@@ -214,24 +266,60 @@
   ],
   "extra_sections": [
     {
-      "heading": "Chhattisgarh State-Specific Topics",
+      "type": "text",
+      "heading": "What is CGPSC? Full Form and Overview",
+      "icon": "📋",
+      "content": [
+        "CGPSC stands for Chhattisgarh Public Service Commission. It conducts the State Services Examination (SSE) for recruiting officers like Deputy Collectors, DSPs, and Block Development Officers in Chhattisgarh.",
+        "CGPSC SSE is Chhattisgarh's equivalent of UPSC CSE. The exam has three stages: Prelims (MCQ), Mains (descriptive), and Interview."
+      ]
+    },
+    {
+      "heading": "Chhattisgarh-Specific Topics for CGPSC",
       "icon": "📍",
       "type": "text",
       "content": [
         "<h3>Bastar Region & Tribal Culture</h3><p>Bastar district (southern Chhattisgarh) is unique - home to Gond, Abhuj Maria, Dhurwa, and other tribal communities with distinct cultural practices.",
         "Bastar Dussehra (September–October) is the most famous festival - unlike other Dussehra celebrations, Bastar Dussehra honors the forest deity instead of Ram's victory, reflecting tribal animistic beliefs.",
         "The Madai ritual (biennial gathering of Muria Gond tribe for community decision-making) represents tribal governance systems. Chhattisgarh's 39.2% tribal population makes tribal culture central to <a href=\"/exam/mppsc\" style=\"text-decoration:underline;color:inherit\">state</a> identity.",
-        "CGPSC expects knowledge of tribal art forms, marriage customs, agricultural practices (shifting cultivation in some areas), and forest-based livelihoods.</p>",
+        "CGPSC expects knowledge of tribal art forms, marriage customs, agricultural practices (shifting cultivation in some areas), and forest-based livelihoods.</p>"
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "info",
+      "title": "Focus on CG-specific content",
+      "content": "CGPSC weights Chhattisgarh-specific questions heavily in both Prelims and Mains. Generic UPSC prep alone will not be enough."
+    },
+    {
+      "type": "text",
+      "heading": "Chhattisgarh-Specific Topics for CGPSC (continued)",
+      "icon": "📍",
+      "content": [
         "<h3><a href=\"/exam/tnpsc\" style=\"text-decoration:underline;color:inherit\">State</a> Formation & Political History</h3><p>Chhattisgarh was created on November 1, 2000, by bifurcating Madhya Pradesh. Before this, Chhattisgarh was known as 'Dakshin Kosala' in ancient texts and was part of various empires: Satavahana, Vakataka, Kalachuri, and finally British colonial rule.",
         "Key figures in state formation: Atal <a href=\"/exam/bpsc\" style=\"text-decoration:underline;color:inherit\">Bihar</a>i Vajpayee (PM who approved bifurcation), Digvijay Singh (last CM of united MP). The first CM of Chhattisgarh was Ajit Jogi (2000–2003).",
         "CGPSC asks historical questions about Chhattisgarh's ancient kingdoms, medieval rulers, colonial period governance, and modern <a href=\"/exam/appsc\" style=\"text-decoration:underline;color:inherit\">state</a> formation movement.</p>",
         "<h3>Mineral Resources & Mining Industry</h3><p>Chhattisgarh is India's mineral treasure - produces 30% of India's iron ore, 10% of coal, 35% of limestone, 30% of tin, 40% of dolomite. Major mining regions: Dalli-Rajhara (iron ore - Chhattisgarh's richest), Korba (coal), Raigarh (coal), Rajnandgaon (limestone).",
-        "Mining contributes significantly to state revenue but creates environmental and social challenges: water pollution, dust emissions, displacement of tribal communities.",
+        "Mining contributes significantly to state revenue but creates environmental and social challenges: water pollution, dust emissions, displacement of tribal communities."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "CG Culture, Tribal Areas and Mining Economy",
+      "icon": "🏛️",
+      "content": [
         "CGPSC emphasizes: (1) location and type of mines, (2) economic contribution, (3) environmental impact and mitigation measures, (4) rehabilitation of displaced persons under MMDR (Mines and Minerals Development and Regulation) Act.</p>",
         "<h3>Bhilai Steel Plant & Industrial Development</h3><p>Bhilai Steel Plant (BSP), established in 1959 with Soviet technical assistance, is India's largest steel producer and a symbol of Chhattisgarh's industrial prowess. It's a major employment hub (15,000+ workers) and contributor to state economy.",
         "NTPC Korba (coal-fired thermal plant) and Korba Aluminium Smelter are other major industries. These plants have made Chhattisgarh an industrial powerhouse but also created pollution in Korba and Raipur.",
         "CGPSC questions link industrial development to: labor welfare, environmental responsibility, skill development, and state economic growth.</p>",
-        "<h3>Rice Bowl of India - Agriculture & Food Security</h3><p>Chhattisgarh produces 15% of India's rice despite having only 3% of cultivated land - this is achieved through high yields and agricultural technology adoption. Major crops: rice (Kharif and Rabi), soybean, cotton, sugarcane.",
+        "<h3>Rice Bowl of India - Agriculture & Food Security</h3><p>Chhattisgarh produces 15% of India's rice despite having only 3% of cultivated land - this is achieved through high yields and agricultural technology adoption. Major crops: rice (Kharif and Rabi), soybean, cotton, sugarcane."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "",
+      "icon": "",
+      "content": [
         "Chhattisgarh's agricultural success is due to: favorable climate (600–1,600 mm annual rainfall), plains and river basins (Mahanadi, Godavari, Narmada), government support (minimum support price, subsidized inputs), and Green Revolution adoption. The state has a food surplus position and exports rice nationally.",
         "Ironically, despite producing so much food, parts of Chhattisgarh (especially tribal areas) face malnutrition - a socio-economic paradox CGPSC explores.</p>",
         "<h3>Naxal-Affected Areas & Development Challenges</h3><p>Southern and eastern Chhattisgarh (Bastar, Sukma, Dantewada, Bijapur) are severely affected by Naxal insurgency. The underlying causes: tribal land dispossession, mining displacement, poverty, lack of development.",
@@ -240,10 +328,34 @@
       ]
     },
     {
-      "heading": "",
-      "type": "svg_block",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">CGPSC - Chhattisgarh State Services exam</text><rect x=\"50\" y=\"50\" width=\"190\" height=\"75\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"145\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#145236\">Prelims</text><text x=\"145\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">GS + Aptitude | MCQ</text><rect x=\"260\" y=\"50\" width=\"190\" height=\"75\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"355\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1E40AF\">Mains</text><text x=\"355\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">7 papers Descriptive</text><rect x=\"470\" y=\"50\" width=\"190\" height=\"75\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"565\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#C2410C\">Interview</text><text x=\"565\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#C2410C\">Personality test</text></svg>",
-      "caption": "CGPSC recruits for Chhattisgarh Administrative Service, CG Police Service, and allied services. Carved from MP in 2000, Chhattisgarh has 32% tribal population and is India's largest rice-producing state."
+      "type": "stat_grid",
+      "heading": "CGPSC at a Glance",
+      "items": [
+        {
+          "icon": "📝",
+          "value": "200",
+          "label": "Prelims Qs",
+          "color": "green"
+        },
+        {
+          "icon": "📄",
+          "value": "7 Papers",
+          "label": "Mains",
+          "color": "blue"
+        },
+        {
+          "icon": "💰",
+          "value": "₹75K-1L",
+          "label": "In-hand",
+          "color": "green"
+        },
+        {
+          "icon": "👥",
+          "value": "238+",
+          "label": "Vacancies",
+          "color": "amber"
+        }
+      ]
     },
     {
       "heading": "CGPSC Prelims Cutoff Trends",
@@ -367,11 +479,25 @@
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "Visual: Key Numbers",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">238–239</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Vacancies</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">February 22, 2026</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Prelims Date</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">May 16–19, 2026</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Mains Dates</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">₹56K–2L/mo</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Salary</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
-      "caption": "Key facts",
-      "description": "Quick overview."
+      "type": "icon_list",
+      "heading": "Best Books for CGPSC",
+      "items": [
+        {
+          "icon": "📚",
+          "title": "CG Samanya Gyan (Upkar/Arihant)",
+          "sub": "CG-specific GK: tribal culture, Bastar, minerals, state schemes."
+        },
+        {
+          "icon": "📖",
+          "title": "Laxmikanth (Indian Polity)",
+          "sub": "Essential for both Prelims and Mains Paper II."
+        },
+        {
+          "icon": "📝",
+          "title": "CGPSC Previous Year Papers (10 years)",
+          "sub": "CG-specific questions repeat themes. Most important resource."
+        }
+      ]
     },
     {
       "type": "text",
@@ -388,11 +514,10 @@
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "Quick Facts",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Quick Facts</text><rect x=\"17\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"94\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">238–239</text><text x=\"94\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Vacancies</text><rect x=\"187\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"264\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">February 22, 2026</text><text x=\"264\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Prelims Date</text><rect x=\"357\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"434\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#92400E\">May 16–19, 2026</text><text x=\"434\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Mains Dates</text><rect x=\"527\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"604\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">₹56K–2L/mo</text><text x=\"604\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Salary</text></svg>",
-      "caption": "Quick reference facts",
-      "description": "Key facts and numbers at a glance"
+      "type": "modern_callout",
+      "variant": "tip",
+      "title": "CG-specific GK is what separates toppers",
+      "content": "Unlike UPSC, CGPSC heavily tests Chhattisgarh-specific knowledge: tribal festivals, mining districts, state welfare schemes, Bastar geography.<br><br>Generic GK prep is not enough. Dedicate 30% of your time to CG-specific material."
     },
     {
       "type": "text",
@@ -407,6 +532,25 @@
         "CG Art and Culture: Panthi dance (traditional folk dance of Satnami community), Karma dance (tribal harvest festival dance), Raut Nacha (Yadav community celebratory dance), Sua Nacha (women's harvest dance). Festivals: Hareli (first festival of CG calendar - agricultural beginning), Teeja (married women's festival), Pola (bull worship), and Chherchhera (charity and sharing festival on Paush Purnima).",
         "Temple architecture: Bhoramdeo temple (Chhattisgarh's Khajuraho), Rajim temples (Triveni Sangam - confluence of Mahanadi, Pairi, and Sondur rivers)."
       ]
+    },
+    {
+      "type": "pullquote",
+      "text": "CGPSC is one of the few state PSC exams where tribal culture, local geography, and state-specific schemes carry more weight than national-level GK."
+    },
+    {
+      "type": "text",
+      "heading": "CGPSC Cut Off: Previous Year Marks",
+      "icon": "📊",
+      "content": [
+        "CGPSC Prelims cutoff for General category is typically 55-65% (110-130 out of 200). Reserved categories have lower cutoffs with SC/ST at roughly 45-55%.",
+        "Mains cutoff depends on the total of all papers plus interview. Final merit is based on Mains + Interview combined score."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "title": "CGPSC Previous Year Question Papers",
+      "content": "Solving the last 10 years of CGPSC Prelims papers is essential. CG-specific GK themes (tribal areas, minerals, state schemes) repeat consistently.<br><br>Papers are available on psc.cg.gov.in and coaching platforms. Analyze which CG topics appear most frequently."
     },
     {
       "type": "text",
@@ -461,11 +605,34 @@
       "content": "CGPSC conducts the State Service Exam annually (sometimes with 1-2 year gaps). Notification on psc.cg.gov.in typically 3-4 months before Prelims.<br><br>Registration fee: Rs 400 for general, Rs 300 for OBC from CG, Rs 200 for SC/ST from CG. Exam medium: Hindi and English.<br><br>Results published on psc.cg.gov.in within 6-8 weeks of each stage."
     },
     {
-      "type": "svg_block",
-      "heading": "Visual: Exam Pattern",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Exam Pattern</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">200</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Paper 1: GS + Chhatt</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">100 Qs</text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">200</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Paper 2: CSAT (Quali</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">100 Qs</text></svg>",
-      "caption": "Paper structure",
-      "description": "Subject-wise marks."
+      "type": "stat_grid",
+      "heading": "Competition Snapshot",
+      "items": [
+        {
+          "icon": "👥",
+          "value": "1.5L+",
+          "label": "Applicants",
+          "color": "red"
+        },
+        {
+          "icon": "🎯",
+          "value": "238+",
+          "label": "Vacancies",
+          "color": "green"
+        },
+        {
+          "icon": "📊",
+          "value": "1:600",
+          "label": "Selection Ratio",
+          "color": "amber"
+        },
+        {
+          "icon": "🎤",
+          "value": "Yes",
+          "label": "Interview",
+          "color": "blue"
+        }
+      ]
     },
     {
       "type": "callout",
@@ -491,6 +658,12 @@
         "Coaching: Raipur has growing CGPSC coaching options - Rau's IAS (Raipur branch), Drishti IAS (online with CG-specific modules), Aditya Academy Raipur, and Shankar IAS online. Fees: Rs 20,000-50,000 for 6-12 month programs.",
         "Bilaspur also has coaching centers. Self-study is very viable for CGPSC given the no-Optional format - standard GS books + CG GK books + daily newspaper covers the entire syllabus."
       ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "info",
+      "title": "CGPSC Age Limit",
+      "content": "General: 21-28 years (up to 33 for CG domicile). OBC: +3 years.<br><br>SC/ST: +5 years. No attempt limit for any category."
     },
     {
       "type": "text",
@@ -521,12 +694,30 @@
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "CGPSC Post Categories",
-      "icon": "📊",
-      "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">CGPSC State Services Posts</text><rect x=\"50\" y=\"50\" width=\"280\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"190\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">Deputy Collector DSP ₹</text><rect x=\"370\" y=\"50\" width=\"280\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"510\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Naib Tehsildar BDO ₹44</text></svg>",
-      "caption": "CGPSC is the gateway to Chhattisgarh state administration",
-      "description": "Pattern similar to UPSC but focused on CG state affairs."
+      "type": "process_flow",
+      "heading": "CGPSC Selection Process",
+      "steps": [
+        {
+          "icon": "📋",
+          "title": "Apply on psc.cg.gov.in",
+          "desc": "Online registration during notification window."
+        },
+        {
+          "icon": "📝",
+          "title": "Prelims (200 MCQs)",
+          "desc": "Screening test. GS + CSAT, 2 papers."
+        },
+        {
+          "icon": "📄",
+          "title": "Mains (7 Papers)",
+          "desc": "Descriptive papers including Hindi, English, Essay, GS, and Optional."
+        },
+        {
+          "icon": "🎤",
+          "title": "Interview",
+          "desc": "Personality test by CGPSC board."
+        }
+      ]
     }
   ],
   "important_dates": [
@@ -608,6 +799,22 @@
     {
       "question": "Does CGPSC have Optional subject?",
       "answer": "No - CGPSC Mains has NO Optional subject. All 7 papers are General Studies and Hindi.<br><br>This is a significant structural difference from UPSC, MPPSC, UPPSC, and most other state PSCs that have Optional subjects worth 200-400 marks. The all-GS format rewards candidates with broad knowledge across subjects rather than deep expertise in one area."
+    },
+    {
+      "question": "What is the full form of CGPSC?",
+      "answer": "CGPSC stands for Chhattisgarh Public Service Commission. It conducts the State Services Examination (SSE) for civil services recruitment in Chhattisgarh."
+    },
+    {
+      "question": "How many attempts are allowed in CGPSC?",
+      "answer": "There is no limit on the number of attempts. You can appear as many times as you want within the age limit (21-28 for General, extended for reserved categories and CG domicile)."
+    },
+    {
+      "question": "Is CGPSC exam tough?",
+      "answer": "CGPSC is moderately tough. The CG-specific GK portion is unique and requires dedicated preparation beyond generic UPSC material.<br><br>With 1.5 lakh+ applicants for 238 posts, the competition ratio is roughly 1:600."
+    },
+    {
+      "question": "Where can I get CGPSC previous year papers?",
+      "answer": "Previous year papers are available on psc.cg.gov.in (official) and coaching platforms. Solving 10 years of papers is the most effective preparation strategy for CG-specific GK."
     }
   ],
   "official_portal": {
@@ -746,35 +953,35 @@
     "rows": [
       {
         "post": "Deputy Collector",
-        "amount": "₹75,000–1,05,000/month"
+        "amount": "₹75K-1.05L"
       },
       {
         "post": "Deputy Superintendent of Police (DSP)",
-        "amount": "₹75,000–1,05,000/month"
+        "amount": "₹75K-1.05L"
       },
       {
         "post": "Naib Tehsildar",
-        "amount": "₹60,000–85,000/month"
+        "amount": "₹60,000–85,000"
       },
       {
         "post": "Assistant Commissioner (Sales Tax)",
-        "amount": "₹75,000–1,05,000/month"
+        "amount": "₹75K-1.05L"
       },
       {
         "post": "Mining Engineer",
-        "amount": "₹75,000–1,05,000/month"
+        "amount": "₹75K-1.05L"
       },
       {
         "post": "Forest Range Officer",
-        "amount": "₹75,000–1,05,000/month"
+        "amount": "₹75K-1.05L"
       },
       {
         "post": "District Health Officer",
-        "amount": "₹75,000–1,05,000/month"
+        "amount": "₹75K-1.05L"
       },
       {
         "post": "Superintendent of Jails",
-        "amount": "₹75,000–1,05,000/month"
+        "amount": "₹75K-1.05L"
       }
     ]
   },
@@ -856,5 +1063,10 @@
         "max_age": 35
       }
     ]
-  }
+  },
+  "changes_2026": [
+    "CGPSC SSE 2026: Prelims held 22 Feb. Mains scheduled 16-19 May 2026.",
+    "238+ vacancies notified for Deputy Collector, DSP, and other state services.",
+    "No changes to exam pattern or syllabus from the previous cycle."
+  ]
 }
