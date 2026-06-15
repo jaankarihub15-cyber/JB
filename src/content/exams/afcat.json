@@ -311,33 +311,23 @@
       ]
     },
     {
-      "type": "comparison_card",
-      "heading": "AFCAT Entry Branches at a Glance",
-      "win": {
-        "title": "Flying Branch",
-        "items": [
-          "Most competitive selection",
-          "Requires PABT + CPSS clearance",
-          "₹56K basic + ₹25K flying allowance",
-          "Fighter/Transport/Helicopter streams"
-        ]
-      },
-      "others": [
+      "type": "icon_list",
+      "heading": "AFCAT Entry Branches",
+      "items": [
         {
-          "title": "Technical Branch",
-          "items": [
-            "B.E./B.Tech required",
-            "₹56K basic + technical allowance",
-            "Maintenance/IT/Signals"
-          ]
+          "icon": "✈️",
+          "title": "Flying Branch (Pilot)",
+          "sub": "Age 20-24. Graduate + Physics & Maths at 12th. Most competitive. ₹56K basic + ₹25K flying allowance."
         },
         {
-          "title": "Ground Duty",
-          "items": [
-            "Any graduate can apply",
-            "₹56K basic",
-            "Admin/Logistics/Education/Meteorology"
-          ]
+          "icon": "🔧",
+          "title": "Technical Branch",
+          "sub": "Age 20-26. B.E./B.Tech in Aero/Mech/Elec/CS. ₹56K basic + technical allowance."
+        },
+        {
+          "icon": "📋",
+          "title": "Ground Duty (Admin/Logistics/Education)",
+          "sub": "Age 20-26. Any graduate. ₹56K basic. Desk-based roles in IAF stations."
         }
       ]
     },
@@ -409,7 +399,20 @@
       "content": [
         "AFCAT (Air Force <a href=\"/exam/cuet-ug\" style=\"text-decoration:underline;color:inherit\">Common</a> Admission Test) is conducted twice a year by the Indian Air Force for commissioning officers in all three branches. The written exam has 100 MCQs in 2 hours covering General Awareness (military history, current affairs, geography, politics), Verbal Ability (comprehension, error detection, sentence completion, synonyms/antonyms), Numerical Ability (decimal fractions, ratio, profit-loss, simple interest, percentage, averages), and Reasoning and Military Aptitude Test (spatial, verbal, and non-verbal reasoning).",
         "After clearing the written exam, shortlisted candidates appear for AFSB (Air Force Selection Board) - a 5-day assessment identical to SSB. Day 1 is screening (OIR test + PPDT), Days 2-4 cover psychology tests (TAT, WAT, SRT, SD), group tasks (GD, GPE, PGT, HGT, individual obstacles, command task), and Day 5 is the personal interview with the board president.",
-        "For Flying Branch candidates, there's an additional CPSS (Computerized Pilot Selection System) test that evaluates hand-eye coordination, instrument comprehension, spatial orientation, and multi-tasking ability. CPSS is extremely selective - only 15-20% of AFSB-recommended candidates clear it.",
+        "For Flying Branch candidates, there's an additional CPSS (Computerized Pilot Selection System) test that evaluates hand-eye coordination, instrument comprehension, spatial orientation, and multi-tasking ability. CPSS is extremely selective - only 15-20% of AFSB-recommended candidates clear it."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "warning",
+      "title": "AFSB is harder than the written test",
+      "content": "Most candidates clear AFCAT written but fail at AFSB. The 5-day interview tests personality, leadership, and psychological fitness.<br><br>Start preparing for AFSB from day one, not after clearing the written."
+    },
+    {
+      "type": "text",
+      "heading": "Selection beyond the written test",
+      "icon": "🎖️",
+      "content": [
         "If you fail CPSS, you can opt for Ground Duty branch instead.",
         "Medical examination follows AFSB recommendation. Flying Branch has the strictest medical standards - 6/6 vision in both eyes without glasses (LASIK accepted if done 6+ months before), no color blindness, perfect ear-nose-throat health, and cardiovascular fitness.",
         "Ground Duty medical standards are relatively relaxed - 6/9 in better eye, 6/18 in worse eye."
@@ -501,6 +504,10 @@
           "sub": "Short Service initially, Permanent Commission possible"
         }
       ]
+    },
+    {
+      "type": "pullquote",
+      "text": "An Air Force officer's career is not just a job. It is a lifestyle of discipline, adventure, and service to the nation."
     },
     {
       "type": "text",
