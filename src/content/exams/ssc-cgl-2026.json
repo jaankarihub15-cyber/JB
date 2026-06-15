@@ -1100,5 +1100,85 @@
         "amount": "₹25,000-32,000"
       }
     ]
-  }
+  },
+  "eligibility_data": {
+    "reference_date": "1 January 2026",
+    "default_education": "Bachelor's degree from any recognised university",
+    "relaxations": [
+      {
+        "category": "OBC",
+        "years": 3
+      },
+      {
+        "category": "SC/ST",
+        "years": 5
+      },
+      {
+        "category": "PwD",
+        "years": 10
+      },
+      {
+        "category": "Ex-Servicemen",
+        "years": 3
+      }
+    ],
+    "posts": [
+      {
+        "post": "Tax Assistant",
+        "min_age": 18,
+        "max_age": 27
+      },
+      {
+        "post": "Auditor (CAG/CGDA)",
+        "min_age": 18,
+        "max_age": 27
+      },
+      {
+        "post": "Divisional Accountant",
+        "min_age": 18,
+        "max_age": 27
+      },
+      {
+        "post": "Assistant Section Officer",
+        "min_age": 18,
+        "max_age": 30
+      },
+      {
+        "post": "Income Tax Inspector",
+        "min_age": 18,
+        "max_age": 30
+      },
+      {
+        "post": "Inspector, Customs (CBIC)",
+        "min_age": 18,
+        "max_age": 30
+      },
+      {
+        "post": "Sub Inspector (CBI)",
+        "min_age": 18,
+        "max_age": 30
+      },
+      {
+        "post": "Asst Enforcement Officer",
+        "min_age": 18,
+        "max_age": 30
+      },
+      {
+        "post": "Assistant Audit Officer",
+        "min_age": 18,
+        "max_age": 30
+      },
+      {
+        "post": "Statistical Investigator",
+        "min_age": 20,
+        "max_age": 32,
+        "note": "Requires 60% in 12th Maths"
+      }
+    ]
+  },
+  "changes_2026": [
+    "New sectional timing in Tier 2: each session now has a fixed time (no overall pool).",
+    "AAO and AAccO posts reintroduced after being absent in recent cycles.",
+    "Vacancies increased to 12,256, up from 8,415 in the previous cycle."
+  ]
 }

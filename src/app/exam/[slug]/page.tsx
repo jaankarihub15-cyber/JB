@@ -8,6 +8,7 @@ import { PdfSummary } from "@/components/pdf-summary";
 import { HeroV2 } from "@/components/hero-v2";
 import { TocSidebarV2 } from "@/components/toc-sidebar-v2";
 import { SalaryLead, ExamChipNav, DashboardStrip } from "@/components/exam-answer-layer";
+import { ExamEligibilityChecker } from "@/components/exam-eligibility-checker";
 import { notFound } from "next/navigation";
 import { getExamBySlug, getAllExamSlugs } from "@/lib/content";
 import {
@@ -112,10 +113,21 @@ export default async function ExamDetailPage({ params }: Props) {
             {/* SALARY FIRST */}
             <SalaryLead salary={e.salary_table} posts={e.major_posts} />
 
+            {/* WHAT'S CHANGED (optional callout, hides when absent) */}
+            {e.changes_2026 && e.changes_2026.length > 0 && (
+              <div className="mt-6 p-4 rounded-xl bg-[#FEFCE8] border border-[#FDE68A]">
+                <div className="text-[13px] font-bold text-[#92400E] mb-2">⚡ What's different in 2026?</div>
+                {e.changes_2026.map((c: string, i: number) => (
+                  <p key={i} className="text-sm text-[#78350F] leading-relaxed mb-1" dangerouslySetInnerHTML={{ __html: c }} />
+                ))}
+              </div>
+            )}
+
             {/* ELIGIBILITY */}
             {e.key_details && e.key_details.length > 0 && (
               <div id="eligibility" className="mt-6 scroll-mt-40">
                 <SectionHeading icon="✅">Eligibility &amp; Key Details</SectionHeading>
+                <ExamEligibilityChecker data={e.eligibility_data} />
                 <Card>{e.key_details.map((d: any) => (<InfoRow key={d.label} label={d.label} value={d.value} highlight={d.highlight} />))}</Card>
               </div>
             )}
