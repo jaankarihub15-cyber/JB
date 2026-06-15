@@ -89,27 +89,163 @@
   "exam_pattern": [
     {
       "tier_name": "AFCAT Written Test (2 hours - 120 minutes)",
-      "description": "100 MCQs distributed across 4 sections. Online exam at designated IAF exam centers. Moderate difficulty compared to CDS/NDA. Focus on speed and accuracy.",
+      "description": "Online MCQ test. No sectional time limit. Negative marking of 1 mark per wrong answer.",
       "subjects": [
         {
           "name": "General Awareness",
           "questions": 25,
-          "marks": 75
+          "marks": 75,
+          "topics": [
+            {
+              "name": "Defence & IAF Current Affairs",
+              "high": true
+            },
+            {
+              "name": "History (India + World)",
+              "high": true
+            },
+            {
+              "name": "Indian Polity",
+              "high": false
+            },
+            {
+              "name": "Geography",
+              "high": false
+            },
+            {
+              "name": "General Science (Physics)",
+              "high": true
+            },
+            {
+              "name": "Sports & Awards",
+              "high": false
+            },
+            {
+              "name": "Books & Authors",
+              "high": false
+            },
+            {
+              "name": "Static GK",
+              "high": false
+            }
+          ]
         },
         {
           "name": "Verbal Ability in English",
           "questions": 25,
-          "marks": 75
+          "marks": 75,
+          "topics": [
+            {
+              "name": "Reading Comprehension",
+              "high": true
+            },
+            {
+              "name": "Error Detection",
+              "high": true
+            },
+            {
+              "name": "Sentence Completion",
+              "high": false
+            },
+            {
+              "name": "Synonyms / Antonyms",
+              "high": false
+            },
+            {
+              "name": "Idioms & Phrases",
+              "high": true
+            },
+            {
+              "name": "Cloze Test",
+              "high": false
+            },
+            {
+              "name": "Paragraph Rearrangement",
+              "high": false
+            }
+          ]
         },
         {
           "name": "Numerical Ability",
           "questions": 18,
-          "marks": 54
+          "marks": 54,
+          "topics": [
+            {
+              "name": "Ratio & Proportion",
+              "high": true
+            },
+            {
+              "name": "Percentage",
+              "high": true
+            },
+            {
+              "name": "Average",
+              "high": false
+            },
+            {
+              "name": "Profit & Loss",
+              "high": false
+            },
+            {
+              "name": "Time & Work",
+              "high": false
+            },
+            {
+              "name": "Time, Speed & Distance",
+              "high": false
+            },
+            {
+              "name": "Simple & Compound Interest",
+              "high": true
+            },
+            {
+              "name": "Number System",
+              "high": false
+            }
+          ]
         },
         {
           "name": "Reasoning & Military Aptitude",
           "questions": 32,
-          "marks": 96
+          "marks": 96,
+          "topics": [
+            {
+              "name": "Analogy",
+              "high": true
+            },
+            {
+              "name": "Series (Number & Letter)",
+              "high": true
+            },
+            {
+              "name": "Coding-Decoding",
+              "high": true
+            },
+            {
+              "name": "Blood Relations",
+              "high": false
+            },
+            {
+              "name": "Direction Sense",
+              "high": false
+            },
+            {
+              "name": "Venn Diagrams",
+              "high": false
+            },
+            {
+              "name": "Mathematical Operations",
+              "high": false
+            },
+            {
+              "name": "Mirror & Water Images",
+              "high": false
+            },
+            {
+              "name": "Figure Completion",
+              "high": false
+            }
+          ]
         }
       ],
       "total_questions": 100,
@@ -175,10 +311,35 @@
       ]
     },
     {
-      "heading": "",
-      "type": "svg_block",
-      "svg": "<svg viewBox=\"0 0 700 160\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">AFCAT 3 branches in the Indian Air Force</text><rect x=\"30\" y=\"50\" width=\"200\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"130\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#1E40AF\">Flying Branch</text><text x=\"130\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">Fighter/transport/he</text><text x=\"130\" y=\"118\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">pilot training at AF</text><rect x=\"250\" y=\"50\" width=\"200\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"350\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#145236\">Ground Duty (Tech)</text><text x=\"350\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">Aeronautical/electro</text><text x=\"350\" y=\"118\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">engineering officers</text><rect x=\"470\" y=\"50\" width=\"200\" height=\"90\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"570\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#C2410C\">Ground Duty (Non-Tech)</text><text x=\"570\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#C2410C\">Administration, logi</text><text x=\"570\" y=\"118\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#C2410C\">accounts, education</text></svg>",
-      "caption": "Flying Branch is the most competitive (requires pilot aptitude). Ground Duty Technical needs engineering degree. Ground Duty Non-Technical is open to any graduate."
+      "type": "comparison_card",
+      "heading": "AFCAT Entry Branches at a Glance",
+      "win": {
+        "title": "Flying Branch",
+        "items": [
+          "Most competitive selection",
+          "Requires PABT + CPSS clearance",
+          "₹56K basic + ₹25K flying allowance",
+          "Fighter/Transport/Helicopter streams"
+        ]
+      },
+      "others": [
+        {
+          "title": "Technical Branch",
+          "items": [
+            "B.E./B.Tech required",
+            "₹56K basic + technical allowance",
+            "Maintenance/IT/Signals"
+          ]
+        },
+        {
+          "title": "Ground Duty",
+          "items": [
+            "Any graduate can apply",
+            "₹56K basic",
+            "Admin/Logistics/Education/Meteorology"
+          ]
+        }
+      ]
     },
     {
       "heading": "AFCAT Written vs AFSB - Equal Importance",
@@ -256,7 +417,7 @@
     },
     {
       "type": "text",
-      "heading": "Eligibility for each branch",
+      "heading": "AFCAT Age Limit and Eligibility by Branch",
       "icon": "📋",
       "content": [
         "Flying Branch: Age 20-24 years (upper age relaxation for candidates holding valid and current Commercial Pilot License - up to 26 years). Educational qualification: Bachelor's degree in any discipline with Physics and Mathematics at 10+2 level OR B.Tech/BE degree.",
@@ -270,11 +431,34 @@
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "Visual: Key Numbers",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">Jan 31, 2026 (Done</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">AFCAT 1</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">Aug 2026 (Expected</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">AFCAT 2</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">₹56K+ basic</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Salary</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">₹25K+/month</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Flying Allow.</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
-      "caption": "Key facts",
-      "description": "Quick overview."
+      "type": "stat_grid",
+      "heading": "AFCAT Key Numbers",
+      "items": [
+        {
+          "icon": "📝",
+          "value": "100",
+          "label": "Questions",
+          "color": "green"
+        },
+        {
+          "icon": "⏱️",
+          "value": "2 Hours",
+          "label": "Duration",
+          "color": "blue"
+        },
+        {
+          "icon": "💰",
+          "value": "₹56,100+",
+          "label": "Basic Pay",
+          "color": "green"
+        },
+        {
+          "icon": "✈️",
+          "value": "₹25,000+",
+          "label": "Flying Allowance",
+          "color": "amber"
+        }
+      ]
     },
     {
       "type": "text",
@@ -293,11 +477,30 @@
       ]
     },
     {
-      "type": "svg_block",
+      "type": "icon_list",
       "heading": "Quick Facts",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Quick Facts</text><rect x=\"17\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"94\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">Jan 31, 2026 (Done</text><text x=\"94\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">AFCAT 1</text><rect x=\"187\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"264\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">Aug 2026 (Expected</text><text x=\"264\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">AFCAT 2</text><rect x=\"357\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"434\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#92400E\">₹56K+ basic</text><text x=\"434\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Salary</text><rect x=\"527\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"604\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">₹25K+/month</text><text x=\"604\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Flying Allow.</text></svg>",
-      "caption": "Quick reference facts",
-      "description": "Key facts and numbers at a glance"
+      "items": [
+        {
+          "icon": "📅",
+          "title": "Twice a year",
+          "sub": "AFCAT 1 (Feb) and AFCAT 2 (Aug)"
+        },
+        {
+          "icon": "🎓",
+          "title": "Graduate required",
+          "sub": "60% in relevant stream for Technical"
+        },
+        {
+          "icon": "🏥",
+          "title": "Strict medical",
+          "sub": "Vision, hearing, and fitness standards enforced"
+        },
+        {
+          "icon": "⏳",
+          "title": "14-year commission",
+          "sub": "Short Service initially, Permanent Commission possible"
+        }
+      ]
     },
     {
       "type": "text",
@@ -360,11 +563,34 @@
       "content": "If you clear CPSS (Computerized Pilot Selection System), your chances of final recommendation increase dramatically - CPSS-cleared candidates have a 60-70% recommendation rate at AFSB vs 10-15% overall. CPSS tests innate pilot aptitude that can't be coached.<br><br>If you have strong hand-eye coordination and spatial awareness, Flying Branch is your best shot at an Air Force career."
     },
     {
-      "type": "svg_block",
-      "heading": "Visual: Exam Pattern",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Exam Pattern</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">75</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">General Awareness</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">25 Qs</text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">75</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Verbal Ability in En</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">25 Qs</text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">54</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Numerical Ability</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">18 Qs</text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">96</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Reasoning & Military</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">32 Qs</text></svg>",
-      "caption": "Paper structure",
-      "description": "Subject-wise marks."
+      "type": "stat_grid",
+      "heading": "Exam Pattern Summary",
+      "items": [
+        {
+          "icon": "📊",
+          "value": "3",
+          "label": "Sections",
+          "color": "blue"
+        },
+        {
+          "icon": "📝",
+          "value": "100 Qs",
+          "label": "Total Questions",
+          "color": "green"
+        },
+        {
+          "icon": "🏆",
+          "value": "300",
+          "label": "Total Marks",
+          "color": "green"
+        },
+        {
+          "icon": "⚠️",
+          "value": "-1",
+          "label": "Negative/Wrong",
+          "color": "red"
+        }
+      ]
     },
     {
       "type": "pullquote",
@@ -372,15 +598,41 @@
     },
     {
       "type": "text",
-      "heading": "Section-wise detailed preparation",
+      "heading": "AFCAT Preparation: General Awareness and Verbal",
       "icon": "🎯",
       "content": [
         "General Awareness (25 questions, 75 marks): This section carries the highest weightage and is the most unpredictable. Cover: History of Indian Air Force (formation in 1932, major operations - Safed Sagar, Meghdoot, Balakot), defense current affairs (new aircraft inductions, joint exercises with other countries, border developments), Indian and world geography (capitals, rivers, mountain ranges, international organizations), sports (Olympics, Commonwealth Games, major tournaments), and science and technology (space missions, nuclear programs, DRDO developments).",
         "IAF-specific questions appear in every AFCAT paper - know the Air Force Day (October 8), motto ('Touch the sky with glory'), major air bases (Ambala, Jodhpur, Halwara, Tezpur), and recent aircraft acquisitions (Rafale, S-400, Tejas Mark 2). These are guaranteed marks that most candidates miss because they focus only on general GK.",
-        "Verbal Ability (25 questions, 75 marks): Reading Comprehension (2 passages, 10 questions - read the passage first, then answer, don't skim), Error Detection (grammar rules - subject-verb agreement, tense, preposition, article), Sentence Completion (vocabulary in context), Synonyms/Antonyms (know 500 common English words with multiple meanings), and Idioms/Phrases (memorize 100 most common English idioms).",
+        "Verbal Ability (25 questions, 75 marks): Reading Comprehension (2 passages, 10 questions - read the passage first, then answer, don't skim), Error Detection (grammar rules - subject-verb agreement, tense, preposition, article), Sentence Completion (vocabulary in context), Synonyms/Antonyms (know 500 common English words with multiple meanings), and Idioms/Phrases (memorize 100 most common English idioms)."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "info",
+      "title": "GA is the highest-scoring AFCAT section",
+      "content": "General Awareness carries 75 marks out of 300 and has the most predictable question types. Focus on IAF history, current defense news, and static GK from the last 6 months."
+    },
+    {
+      "type": "text",
+      "heading": "AFCAT Verbal and Reasoning Preparation",
+      "icon": "📖",
+      "content": [
         "For verbal improvement, read The Hindu editorial page daily - not for content but for sentence structure, vocabulary, and comprehension practice. Underline 5 new words each day, look up meanings, and use them in sentences.",
         "Within 3 months, your English accuracy will jump from 50% to 80%. Grammar rules from Wren and Martin - focus on chapters 1-15 (parts of speech, tenses, voice, narration).",
-        "Numerical Ability (18 questions, 54 marks): All questions are Class 10 arithmetic level. Topics: Decimal Fractions, Ratio and Proportion, Percentage, Profit and Loss, Simple Interest, Average, Time-Distance-Speed, and basic Algebra.",
+        "Numerical Ability (18 questions, 54 marks): All questions are Class 10 arithmetic level. Topics: Decimal Fractions, Ratio and Proportion, Percentage, Profit and Loss, Simple Interest, Average, Time-Distance-Speed, and basic Algebra."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "title": "AFCAT Preparation Priority",
+      "content": "General Awareness carries 75 marks and is the most scoring section. Start with current affairs (last 6 months) and IAF-specific knowledge.<br><br>Numerical Ability and Reasoning require practice over theory. Solve 20 questions daily from previous year papers."
+    },
+    {
+      "type": "text",
+      "heading": "AFCAT Preparation: Numerical and Reasoning",
+      "icon": "📚",
+      "content": [
         "AFCAT numerical questions are simpler than SSC CGL or banking exams. If you can do basic arithmetic quickly and accurately, this section is 40+ marks guaranteed.",
         "Speed matters more than difficulty here. Learn shortcuts: 1/8 = 12.5%, 1/6 = 16.67%, 1/7 = 14.28% - memorizing these fraction-percentage conversions saves 30 seconds per question.",
         "Practice 20 numerical questions daily for 6 weeks. Don't waste time on advanced mathematics - AFCAT never tests calculus, trigonometry, or complex algebra.",
@@ -433,12 +685,30 @@
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "AFCAT Entry Branches",
-      "icon": "✈️",
-      "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">Air Force Branches Through AFCAT</text><rect x=\"20\" y=\"45\" width=\"155\" height=\"40\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#1B6B4A\">Flying Branch</text><rect x=\"185\" y=\"45\" width=\"155\" height=\"40\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"262\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#1E40AF\">Technical Ground</text><rect x=\"350\" y=\"45\" width=\"155\" height=\"40\" rx=\"8\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"427\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#92400E\">Administration</text><rect x=\"515\" y=\"45\" width=\"160\" height=\"40\" rx=\"8\" fill=\"#F3E8FF\" stroke=\"#7C3AED\" stroke-width=\"2\"/><text x=\"595\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#5B21B6\">Education Branch</text></svg>",
-      "caption": "Flying branch has the most competitive selection with AFSB interview",
-      "description": "Starting pay for Flying Officer is approx ₹56,100 under 7th CPC plus allowances."
+      "type": "process_flow",
+      "heading": "Path to Becoming an Air Force Officer",
+      "steps": [
+        {
+          "icon": "📋",
+          "title": "AFCAT Written Test",
+          "desc": "100 MCQs in 2 hours. Clear the cutoff."
+        },
+        {
+          "icon": "🎖️",
+          "title": "AFSB Interview (5 days)",
+          "desc": "Psychological tests, group tasks, personal interview."
+        },
+        {
+          "icon": "🏥",
+          "title": "Medical Examination",
+          "desc": "Strict physical and vision standards."
+        },
+        {
+          "icon": "✈️",
+          "title": "Merit List & Training",
+          "desc": "Posted to Air Force Academy, Dundigal for training."
+        }
+      ]
     }
   ],
   "important_dates": [
@@ -697,5 +967,58 @@
       "value": "₹25K+/month"
     }
   ],
-  "status": "upcoming"
+  "status": "upcoming",
+  "eligibility_data": {
+    "reference_date": "As per notification",
+    "default_education": "Bachelor's degree from a recognised university",
+    "relaxations": [],
+    "posts": [
+      {
+        "post": "Flying Branch (Pilot)",
+        "min_age": 20,
+        "max_age": 24,
+        "education": "Graduate with Physics & Maths at 10+2 level",
+        "note": "Must clear PABT and CPSS"
+      },
+      {
+        "post": "Technical Branch (Aeronautical)",
+        "min_age": 20,
+        "max_age": 26,
+        "education": "B.E./B.Tech in Aeronautical/Mechanical/Electrical"
+      },
+      {
+        "post": "Technical Branch (Electronics)",
+        "min_age": 20,
+        "max_age": 26,
+        "education": "B.E./B.Tech in Electronics/CS/IT"
+      },
+      {
+        "post": "Ground Duty (Admin)",
+        "min_age": 20,
+        "max_age": 26
+      },
+      {
+        "post": "Ground Duty (Logistics)",
+        "min_age": 20,
+        "max_age": 26
+      },
+      {
+        "post": "Ground Duty (Education)",
+        "min_age": 20,
+        "max_age": 26,
+        "education": "Any graduate with 50%+, M.Ed/MA/MSc preferred"
+      },
+      {
+        "post": "Ground Duty (Meteorology)",
+        "min_age": 20,
+        "max_age": 26,
+        "education": "PG in any Science or Geography or equivalent"
+      }
+    ]
+  },
+  "changes_2026": [
+    "AFCAT 1 2026 was conducted on 31 January 2026. AFCAT 2 expected in August 2026.",
+    "Online application process remains the same. Apply on afcat.cdac.in.",
+    "No changes to exam pattern, syllabus, or selection process from 2025."
+  ]
 }
