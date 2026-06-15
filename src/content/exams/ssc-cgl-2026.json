@@ -98,27 +98,175 @@
   "exam_pattern": [
     {
       "tier_name": "Tier 1 - Screening Exam (60 minutes)",
-      "description": "Tier 1 is a qualifying exam only - it determines whether you proceed to Tier 2. Your Tier 1 score does NOT count in the final merit. You only need to clear the cutoff. The exam has 100 objective (MCQ) questions across 4 sections, with a total of 200 marks and 60 minutes duration. There is negative marking of 0.50 marks for each wrong answer.",
+      "description": "Screening only. Your Tier 1 score does NOT count in final merit.",
       "subjects": [
         {
           "name": "General Intelligence & Reasoning",
           "questions": 25,
-          "marks": 50
+          "marks": 50,
+          "topics": [
+            {
+              "name": "Analogy",
+              "high": true
+            },
+            {
+              "name": "Series",
+              "high": true
+            },
+            {
+              "name": "Coding-Decoding",
+              "high": true
+            },
+            {
+              "name": "Classification",
+              "high": false
+            },
+            {
+              "name": "Matrix",
+              "high": false
+            },
+            {
+              "name": "Syllogism",
+              "high": false
+            },
+            {
+              "name": "Blood Relation",
+              "high": false
+            },
+            {
+              "name": "Direction Sense",
+              "high": false
+            },
+            {
+              "name": "Venn Diagram",
+              "high": false
+            },
+            {
+              "name": "Paper Folding",
+              "high": false
+            }
+          ]
         },
         {
           "name": "General Awareness",
           "questions": 25,
-          "marks": 50
+          "marks": 50,
+          "topics": [
+            {
+              "name": "Current Affairs (6 months)",
+              "high": true
+            },
+            {
+              "name": "Indian Polity",
+              "high": true
+            },
+            {
+              "name": "History",
+              "high": false
+            },
+            {
+              "name": "Geography",
+              "high": false
+            },
+            {
+              "name": "Economy",
+              "high": false
+            },
+            {
+              "name": "General Science",
+              "high": false
+            },
+            {
+              "name": "Static GK",
+              "high": false
+            }
+          ]
         },
         {
           "name": "Quantitative Aptitude",
           "questions": 25,
-          "marks": 50
+          "marks": 50,
+          "topics": [
+            {
+              "name": "Algebra",
+              "high": true
+            },
+            {
+              "name": "Geometry",
+              "high": true
+            },
+            {
+              "name": "Data Interpretation",
+              "high": true
+            },
+            {
+              "name": "Profit & Loss",
+              "high": false
+            },
+            {
+              "name": "Time & Work",
+              "high": false
+            },
+            {
+              "name": "Mensuration",
+              "high": false
+            },
+            {
+              "name": "Number System",
+              "high": false
+            },
+            {
+              "name": "Percentage",
+              "high": false
+            },
+            {
+              "name": "Ratio & Proportion",
+              "high": false
+            },
+            {
+              "name": "Trigonometry",
+              "high": false
+            }
+          ]
         },
         {
           "name": "English Comprehension",
           "questions": 25,
-          "marks": 50
+          "marks": 50,
+          "topics": [
+            {
+              "name": "Reading Comprehension",
+              "high": true
+            },
+            {
+              "name": "Cloze Test",
+              "high": true
+            },
+            {
+              "name": "Sentence Rearrangement",
+              "high": false
+            },
+            {
+              "name": "Error Spotting",
+              "high": false
+            },
+            {
+              "name": "Idioms & Phrases",
+              "high": false
+            },
+            {
+              "name": "Synonyms / Antonyms",
+              "high": false
+            },
+            {
+              "name": "One Word Substitution",
+              "high": false
+            },
+            {
+              "name": "Fill in the Blanks",
+              "high": false
+            }
+          ]
         }
       ],
       "total_questions": 100,
@@ -128,7 +276,7 @@
     },
     {
       "tier_name": "Tier 2 - Final Merit Exam (3 sessions, same day)",
-      "description": "Tier 2 is the main exam that decides your final rank and post allocation. It consists of three sessions conducted on the same day. Session 1 (Mathematical Abilities + Reasoning) and Session 2 (English + General Awareness) are the main scoring papers. Session 3 (Computer Knowledge) is qualifying only. There is also a DEST (Data Entry Speed Test) module for certain posts.",
+      "description": "Decides your final rank and post. Session 3 (Computer) is qualifying only.",
       "subjects": [
         {
           "name": "Session 1: Mathematical Abilities (30 Qs, 90 min) + Reasoning (30 Qs, 90 min)",

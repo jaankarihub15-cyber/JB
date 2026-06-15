@@ -136,22 +136,37 @@ export default async function ExamDetailPage({ params }: Props) {
             {e.exam_pattern && e.exam_pattern.length > 0 && (
               <div id="syllabus" className="mt-6 scroll-mt-40">
                 <SectionHeading icon="📘">Syllabus &amp; Exam Pattern</SectionHeading>
+                <div className="rounded-xl p-4 bg-[#FEF2F2] border border-[#FECACA] mb-4 text-sm font-semibold text-[#991B1B] flex items-start gap-2">⚠️ Negative marking applies in all tiers. Guessing costs you marks.</div>
                 {e.exam_pattern.map((tier: any, ti: number) => (
                   <div key={tier.tier_name} className={ti > 0 ? "mt-4" : ""}>
                     <SectionHeading icon="📝">{tier.tier_name}</SectionHeading>
                 <Card className="px-6 py-5">
-                  {tier.description && (<p className="text-base text-text-secondary leading-[1.75] mb-5" dangerouslySetInnerHTML={{ __html: tier.description }} />)}
+                  {tier.description && (<p className="text-sm text-text-secondary leading-relaxed mb-4">{tier.description}</p>)}
                   {tier.subjects.map((sub: any) => (
-                    <div key={sub.name} className="flex justify-between py-3 border-b border-border text-base">
-                      <span className="text-text" dangerouslySetInnerHTML={{ __html: sub.name }} />
-                      <span className="text-text-muted whitespace-nowrap">{sub.questions} Qs · {sub.marks} marks</span>
+                    <div key={sub.name} className="border-t border-border py-3">
+                      <div className="flex justify-between text-base">
+                        <span className="text-text font-semibold" dangerouslySetInnerHTML={{ __html: sub.name }} />
+                        <span className="text-text-muted whitespace-nowrap">{sub.questions} Qs · {sub.marks} marks</span>
+                      </div>
+                      {sub.topics && sub.topics.length > 0 && (
+                        <div className="flex flex-wrap gap-1.5 mt-2">
+                          {sub.topics.map((t: any) => (
+                            <span key={t.name} className={`text-[10.5px] font-medium px-2.5 py-1 rounded-lg ${t.high ? "bg-[#FEF3C7] text-[#92400E] font-semibold" : "bg-[#F7F7F5] text-text-muted"}`}>{t.name}</span>
+                          ))}
+                        </div>
+                      )}
                     </div>
                   ))}
                   <div className="flex justify-between pt-4 text-lg font-semibold text-accent"><span>Total</span><span>{tier.total_questions} Qs · {tier.total_marks} marks · {tier.duration}</span></div>
-                  <div className="text-base text-orange mt-3">⚠️ Negative marking: {tier.negative_marking}</div>
+                  <div className="text-sm text-[#991B1B] mt-3">⚠️ {tier.negative_marking}</div>
                 </Card>
               </div>
             ))}
+                {e.exam_pattern[0]?.subjects?.[0]?.topics && (
+                  <div className="p-3 rounded-xl bg-[#F7F7F5] text-[12px] text-text-muted leading-relaxed mt-2">
+                    <b className="text-text">💡</b> Topics marked in <span className="inline-block text-[10px] font-semibold px-2 py-0.5 rounded bg-[#FEF3C7] text-[#92400E]">amber</span> appear most frequently in previous year papers. Start your prep there.
+                  </div>
+                )}
               </div>
             )}
 
