@@ -33,6 +33,15 @@
   "extra_sections": [
     {
       "type": "text",
+      "heading": "What is INI-CET Exam?",
+      "icon": "🏥",
+      "content": [
+        "INI-CET (Institute of National Importance Combined Entrance Test) is the entrance exam for postgraduate medical courses (MD/MS/DM/MCh) at India's top medical institutions: all AIIMS, JIPMER Puducherry, NIMHANS Bengaluru, PGIMER Chandigarh, and SCTIMST Trivandrum.",
+        "It is conducted by AIIMS New Delhi twice a year (May and November sessions). The exam has 200 MCQs in 2 hours from all MBBS subjects."
+      ]
+    },
+    {
+      "type": "text",
       "heading": "What is AIIMS INI-CET? Exam Overview",
       "icon": "❓",
       "content": [
@@ -56,6 +65,12 @@
         "The only strict requirement is completion of one year of compulsory internship before exam date. Don't apply if internship is pending; your result will be cancelled if discovered later.",
         "Registration with the Medical Council or National Medical Commission is not mandatory at application, but becomes necessary before admission to the residency program."
       ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "info",
+      "title": "INI-CET is separate from NEET PG",
+      "content": "INI-CET covers only AIIMS, JIPMER, NIMHANS, PGIMER and SCTIMST. For all other medical colleges, you need NEET PG.<br><br>Many students appear for both exams since the syllabus overlaps significantly."
     },
     {
       "type": "stat_grid",
@@ -354,6 +369,15 @@
     },
     {
       "type": "text",
+      "heading": "INI-CET Counselling Process",
+      "icon": "📋",
+      "content": [
+        "After results, AIIMS conducts a centralized online counselling. You fill preferences for institute + branch combinations and seats are allocated based on merit rank.",
+        "Counselling happens in 2-3 rounds. Unreported or surrendered seats move to the next round. If you get a lower-preference seat in Round 1, you can participate in Round 2 for upgradation."
+      ]
+    },
+    {
+      "type": "text",
       "heading": "Study Resources, Coaching & Mock Tests",
       "icon": "💡",
       "content": [
@@ -450,6 +474,18 @@
     {
       "question": "What is a good INI-CET score for AIIMS Delhi?",
       "answer": "For popular MD branches at AIIMS Delhi, you typically need a rank within the top 100-200. The cutoff varies by subject and category."
+    },
+    {
+      "question": "What is INI-CET exam?",
+      "answer": "INI-CET is the entrance exam for PG medical admissions at AIIMS (all branches), JIPMER, NIMHANS, PGIMER, and SCTIMST. It has 200 MCQs in 2 hours.<br><br>It is conducted by AIIMS New Delhi twice a year and is separate from NEET PG."
+    },
+    {
+      "question": "How many students appear for INI-CET?",
+      "answer": "Around 40,000 to 50,000 candidates appear for INI-CET each session. With approximately 3,000+ seats across all participating institutes, the effective competition ratio is roughly 1 in 15."
+    },
+    {
+      "question": "How is INI-CET counselling done?",
+      "answer": "AIIMS conducts centralized online counselling. You rank your preferred institute and branch combinations. Seats are allotted based on your rank in 2-3 rounds.<br><br>Unreported seats move to the next round. You can upgrade your seat in subsequent rounds."
     }
   ],
   "disclaimer": "Information is for educational purposes. Verify details from the official source before taking action.",

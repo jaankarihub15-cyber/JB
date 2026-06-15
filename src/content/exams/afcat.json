@@ -276,6 +276,15 @@
   ],
   "extra_sections": [
     {
+      "type": "text",
+      "heading": "What is AFCAT?",
+      "icon": "✈️",
+      "content": [
+        "AFCAT (Air Force Common Admission Test) is the entry exam for becoming a commissioned officer in the Indian Air Force. It is conducted twice a year by the IAF.",
+        "Through AFCAT, you can join the Flying Branch (pilot), Technical Branch (engineering), or Ground Duty Branch (admin, logistics, education, meteorology)."
+      ]
+    },
+    {
       "heading": "Three AFCAT Branches - Selection Criteria & Lifestyle",
       "icon": "✈️",
       "type": "table",
@@ -410,6 +419,40 @@
     },
     {
       "type": "text",
+      "heading": "AFCAT Cut Off: What Score Do You Need?",
+      "icon": "📊",
+      "content": [
+        "AFCAT cutoff typically ranges from 140-170 out of 300, varying by cycle. The cutoff is not published officially but estimated from candidate data.",
+        "For the Flying Branch, a higher AFCAT score improves your chance of getting shortlisted for AFSB. Technical and Ground Duty branches have slightly lower effective cutoffs."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "title": "AFCAT Previous Year Papers are your best resource",
+      "content": "Solving the last 10 years of AFCAT papers reveals repeating patterns, especially in GK and English. The difficulty level stays consistent across cycles.<br><br>Download papers from the official AFCAT website or coaching platforms like Testbook and Adda247."
+    },
+    {
+      "type": "text",
+      "heading": "What is EKT in AFCAT?",
+      "icon": "🔧",
+      "content": [
+        "EKT (Engineering Knowledge Test) is an additional paper for Technical Branch candidates. It has 50 MCQs in 45 minutes, covering your engineering stream (Mechanical, Electrical, Electronics, CS, Aeronautical).",
+        "EKT is conducted on the same day as AFCAT. Your combined AFCAT + EKT score is used for Technical Branch shortlisting.",
+        "Flying and Ground Duty candidates do not take EKT."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "AFCAT: Short Service vs Permanent Commission",
+      "icon": "🎖️",
+      "content": [
+        "AFCAT entry is through Short Service Commission (SSC) initially, which is 14 years. After completing the initial tenure, you can apply for Permanent Commission (PC) if vacancies exist.",
+        "Flying Branch officers are more likely to get PC than Ground Duty. Technical Branch officers can also transition to PC based on performance and vacancy."
+      ]
+    },
+    {
+      "type": "text",
       "heading": "Selection beyond the written test",
       "icon": "🎖️",
       "content": [
@@ -504,6 +547,10 @@
           "sub": "Short Service initially, Permanent Commission possible"
         }
       ]
+    },
+    {
+      "type": "pullquote",
+      "text": "AFCAT is the only exam where a graduate from any stream can become an IAF officer. NDA requires 12th pass, CDS requires graduation, but only AFCAT offers the Flying Branch to graduates."
     },
     {
       "type": "pullquote",
@@ -788,6 +835,26 @@
     {
       "question": "How many times can I attempt AFCAT?",
       "answer": "No limit on attempts as long as you're within the age bracket (20-24 for Flying, 20-26 for Ground Duty). AFCAT is conducted twice a year, giving you potentially 4-12 attempts depending on your branch.<br><br>Each attempt is independent - previous results don't affect future applications."
+    },
+    {
+      "question": "What is AFCAT exam?",
+      "answer": "AFCAT (Air Force Common Admission Test) is the entrance exam to become a commissioned officer in the Indian Air Force. It covers GK, English, Numerical Ability, and Reasoning.<br><br>It is conducted twice a year. Clearing AFCAT is the first step, followed by AFSB interview and medical."
+    },
+    {
+      "question": "Is AFCAT exam tough?",
+      "answer": "AFCAT written test is moderate difficulty, comparable to CDS and easier than NDA. The real challenge is the AFSB interview, which has a low selection rate.<br><br>With 3-4 months of focused preparation using previous year papers, most graduates can clear the written test."
+    },
+    {
+      "question": "What is EKT in AFCAT?",
+      "answer": "EKT (Engineering Knowledge Test) is an extra paper for Technical Branch candidates. It has 50 MCQs in 45 minutes from your engineering stream.<br><br>Only B.E./B.Tech candidates applying for Technical Branch need to take EKT. Flying and Ground Duty candidates are exempt."
+    },
+    {
+      "question": "Is AFCAT a short service or permanent commission?",
+      "answer": "AFCAT entry starts as Short Service Commission (SSC) for 14 years. After the initial tenure, officers can apply for Permanent Commission based on vacancies and performance."
+    },
+    {
+      "question": "What is the AFCAT cut off score?",
+      "answer": "The cutoff typically ranges from 140 to 170 out of 300, depending on the cycle. SSC does not publish official cutoffs, but this range is estimated from candidate data."
     }
   ],
   "official_portal": {
