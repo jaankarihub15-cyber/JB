@@ -1,6 +1,6 @@
 {
   "slug": "clat-2026",
-  "title": "CLAT 2026 - Law Entrance Exam",
+  "title": "CLAT 2026: Exam Date, NLU Cutoff, Syllabus & Fees",
   "meta_description": "CLAT 2026 Dec 7, 2025. 22 National Law Universities. 150 passage-based MCQs. BA LLB & LLM. Top NLU: NLSIU, NALSAR, NUJS.",
   "hero": {
     "status": "upcoming",
@@ -93,27 +93,109 @@
         {
           "name": "English Language",
           "questions": 28,
-          "marks": 28
+          "marks": 28,
+          "topics": [
+            {
+              "name": "Reading Comprehension (passages)",
+              "high": true
+            },
+            {
+              "name": "Grammar & Vocabulary (in context)",
+              "high": true
+            },
+            {
+              "name": "Sentence Correction",
+              "high": false
+            }
+          ]
         },
         {
-          "name": "Current Affairs & General Knowledge",
+          "name": "Current Affairs & GK",
           "questions": 35,
-          "marks": 35
+          "marks": 35,
+          "topics": [
+            {
+              "name": "Current Events (12 months)",
+              "high": true
+            },
+            {
+              "name": "Art & Culture",
+              "high": false
+            },
+            {
+              "name": "International Affairs",
+              "high": true
+            },
+            {
+              "name": "Government Policies",
+              "high": false
+            }
+          ]
         },
         {
           "name": "Legal Reasoning",
           "questions": 35,
-          "marks": 35
+          "marks": 35,
+          "topics": [
+            {
+              "name": "Constitutional Law Principles",
+              "high": true
+            },
+            {
+              "name": "Legal Propositions (passage-based)",
+              "high": true
+            },
+            {
+              "name": "Landmark Judgments",
+              "high": false
+            },
+            {
+              "name": "Contract & Tort Basics",
+              "high": false
+            }
+          ]
         },
         {
           "name": "Logical Reasoning",
           "questions": 28,
-          "marks": 28
+          "marks": 28,
+          "topics": [
+            {
+              "name": "Critical Reasoning (passage)",
+              "high": true
+            },
+            {
+              "name": "Syllogisms",
+              "high": false
+            },
+            {
+              "name": "Assumptions & Inferences",
+              "high": true
+            },
+            {
+              "name": "Strengthening/Weakening Arguments",
+              "high": false
+            }
+          ]
         },
         {
           "name": "Quantitative Techniques",
           "questions": 14,
-          "marks": 14
+          "marks": 14,
+          "topics": [
+            {
+              "name": "Data Interpretation (passage)",
+              "high": true
+            },
+            {
+              "name": "Percentages & Ratios",
+              "high": false
+            },
+            {
+              "name": "Basic Arithmetic",
+              "high": false
+            }
+          ]
         }
       ],
       "total_questions": 150,
@@ -145,6 +227,15 @@
     }
   ],
   "extra_sections": [
+    {
+      "type": "text",
+      "heading": "What is CLAT? Full Form and Overview",
+      "icon": "⚖️",
+      "content": [
+        "CLAT stands for Common Law Admission Test. It is the national-level entrance exam for admission to 5-year BA LLB and 1-year LLM programs at 22 National Law Universities (NLUs) across India.",
+        "CLAT is conducted by the Consortium of NLUs. The exam has 150 passage-based MCQs in 2 hours, testing English, current affairs, legal reasoning, logical reasoning, and quantitative techniques."
+      ]
+    },
     {
       "heading": "Top NLUs: Cutoff Ranks & Placements (2025 Data)",
       "icon": "🏆",
@@ -216,10 +307,34 @@
       ]
     },
     {
-      "heading": "",
-      "type": "svg_block",
-      "svg": "<svg viewBox=\"0 0 700 160\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">CLAT 2026 exam pattern - UG</text><rect x=\"30\" y=\"50\" width=\"125\" height=\"90\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"93\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#145236\">English</text><text x=\"93\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"18\" font-weight=\"800\" fill=\"#1B6B4A\">22-26</text><text x=\"93\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#145236\">questions</text><rect x=\"168\" y=\"50\" width=\"125\" height=\"90\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"231\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#1E40AF\">Current Affairs</text><text x=\"231\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"18\" font-weight=\"800\" fill=\"#2563EB\">28-32</text><text x=\"231\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#1E40AF\">questions</text><rect x=\"306\" y=\"50\" width=\"125\" height=\"90\" rx=\"8\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"369\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#C2410C\">Legal Reasoning</text><text x=\"369\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"18\" font-weight=\"800\" fill=\"#EA580C\">28-32</text><text x=\"369\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#C2410C\">questions</text><rect x=\"444\" y=\"50\" width=\"125\" height=\"90\" rx=\"8\" fill=\"#F3E8FF\" stroke=\"#7C3AED\" stroke-width=\"2\"/><text x=\"507\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#6B21A8\">Logical Reas.</text><text x=\"507\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"18\" font-weight=\"800\" fill=\"#7C3AED\">22-26</text><text x=\"507\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#6B21A8\">questions</text><rect x=\"582\" y=\"50\" width=\"95\" height=\"90\" rx=\"8\" fill=\"#1B6B4A\"/><text x=\"630\" y=\"75\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"white\">Quant</text><text x=\"630\" y=\"95\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"18\" font-weight=\"800\" fill=\"white\">10-14</text><text x=\"630\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#DCFCE7\">questions</text></svg>",
-      "caption": "CLAT UG has 120 questions in 2 hours. All passage-based - no standalone MCQs. Current Affairs + Legal Reasoning carry the most weight."
+      "type": "stat_grid",
+      "heading": "CLAT 2026 at a Glance",
+      "items": [
+        {
+          "icon": "📝",
+          "value": "150",
+          "label": "Questions",
+          "color": "green"
+        },
+        {
+          "icon": "⏱️",
+          "value": "2 Hours",
+          "label": "Duration",
+          "color": "blue"
+        },
+        {
+          "icon": "🏛️",
+          "value": "22",
+          "label": "NLUs",
+          "color": "green"
+        },
+        {
+          "icon": "💰",
+          "value": "₹4,000",
+          "label": "Gen Fee",
+          "color": "amber"
+        }
+      ]
     },
     {
       "heading": "CLAT Success Formula & Study Plan",
@@ -244,6 +359,12 @@
         "Sleep well. Avoid learning new concepts this late; focus on refinement.",
         "December exam day: calm, hydrated, confident."
       ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "info",
+      "title": "CLAT 2026 Registration Fee",
+      "content": "General/OBC/EWS: ₹4,000. SC/ST/BPL/PwD: ₹3,500.<br><br>Payment online through consortiumofnlus.ac.in during registration window."
     },
     {
       "type": "text",
@@ -277,11 +398,34 @@
       "content": "Months 1-2: Build reading speed and comprehension - read 2 newspaper editorials daily. Start legal reasoning practice with past papers.<br><br>Months 3-4: Focus on current affairs compilation (last 12 months), logical reasoning practice sets. Months 5-6: Full-length mock tests (2-3 per week), analyze mistakes, revise weak areas.<br><br>No coaching needed if you're disciplined with newspapers and mock tests."
     },
     {
-      "type": "svg_block",
-      "heading": "Visual: Key Numbers",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">December 7, 2025</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Exam Date</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">22</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">NLUs</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">~3,500</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Total Seats</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">75,000+</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Applicants</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
-      "caption": "Key facts",
-      "description": "Quick overview."
+      "type": "icon_list",
+      "heading": "Best Books for CLAT",
+      "items": [
+        {
+          "icon": "📚",
+          "title": "Word Power Made Easy",
+          "sub": "Essential for English vocabulary section."
+        },
+        {
+          "icon": "📖",
+          "title": "Legal Aptitude (AP Bhardwaj)",
+          "sub": "Legal reasoning and legal GK for beginners."
+        },
+        {
+          "icon": "📝",
+          "title": "CLAT Previous Year Papers (5 years)",
+          "sub": "Passage-based format changed in 2020. Only post-2020 papers are relevant."
+        },
+        {
+          "icon": "📰",
+          "title": "The Hindu / Indian Express (daily)",
+          "sub": "Current affairs and reading comprehension practice. Non-negotiable."
+        }
+      ]
+    },
+    {
+      "type": "pullquote",
+      "text": "CLAT is the only national-level law entrance. One exam, 22 NLUs. Your rank decides which law school you get."
     },
     {
       "type": "callout",
@@ -290,11 +434,10 @@
       "content": "CLAT: Accepted by 23 NLUs. 120 questions, 2 hours.<br><br>Single exam for multiple colleges. AILET: Only for NLU Delhi.<br><br>150 questions, 1.5 hours. Harder than CLAT.<br><br>LSAT India: Accepted by Jindal, some private colleges. Logical reasoning heavy, no GK.<br><br>Attempt all three - the preparation overlaps 70%."
     },
     {
-      "type": "svg_block",
-      "heading": "CLAT 2026 - Law Entrance Facts",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">CLAT 2026 - Law Ent</text><rect x=\"17\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"94\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">December 7, 2025</text><text x=\"94\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Exam Date</text><rect x=\"187\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"264\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">22</text><text x=\"264\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">NLUs</text><rect x=\"357\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"434\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#92400E\">~3,500</text><text x=\"434\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Total Seats</text><rect x=\"527\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"604\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">75,000+</text><text x=\"604\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Applicants</text></svg>",
-      "caption": "Quick reference facts",
-      "description": "Key facts and numbers at a glance"
+      "type": "modern_callout",
+      "variant": "tip",
+      "title": "CLAT is 100% passage-based since 2020",
+      "content": "Every question in CLAT is based on a passage. There are no standalone MCQs.<br><br>This means reading speed and comprehension matter more than memorized facts.<br><br>Practice reading 3-4 passages daily from newspapers and legal journals to build speed."
     },
     {
       "type": "text",
@@ -308,7 +451,23 @@
         "Current Affairs and General Knowledge (28-32 questions): Highest weightage section. Covers events from the last 18 months across national politics, international relations, economy, science, sports, and awards.",
         "The questions are passage-based - they'll give you a paragraph about an event and ask inference questions. You need to recognize the event to answer quickly.",
         "Maintain a current affairs diary - write 5 bullet points daily covering the day's top news. Weekly, compile a 1-page summary.",
-        "Monthly, review and revise. By exam time, you'll have 12-18 months of organized notes.",
+        "Monthly, review and revise. By exam time, you'll have 12-18 months of organized notes."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "CLAT Cutoff for Top NLUs",
+      "icon": "📊",
+      "content": [
+        "NLSIU Bangalore (rank 1 NLU) typically needs 120+ out of 150, roughly top 50-80 rank. NALSAR Hyderabad needs 115+, NUJS Kolkata needs 110+.",
+        "Newer NLUs accept ranks up to 2,000-3,000. The cutoff drops significantly after the top 5 NLUs, so even a score of 90-100 gets you a good law school."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "CLAT Preparation: Legal Reasoning and GK",
+      "icon": "📖",
+      "content": [
         "This systematic approach beats last-minute cramming of static GK compilations.",
         "Legal Reasoning (28-32 questions): This section doesn't test knowledge of law - it tests your ability to apply legal principles given in the passage. You'll read a principle (like 'a person is liable for negligence if they owed a duty of care and breached it') and then answer questions about hypothetical scenarios.",
         "Pure analytical thinking - no prior legal knowledge needed.",
@@ -319,6 +478,12 @@
         "Quantitative Techniques (10-14 questions): The easiest section - basic arithmetic, percentages, ratios, data interpretation at Class 10 level. Most law aspirants fear math but CLAT quant is genuinely simple.",
         "Practice 20 questions daily from any Class 10 math book for 2 months and you'll score 10+ out of 14."
       ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "title": "CLAT Previous Year Papers",
+      "content": "Only papers from 2020 onwards are useful. CLAT completely changed its format to passage-based questions in 2020, making pre-2020 papers irrelevant.<br><br>Download from consortiumofnlus.ac.in. Focus on analyzing the passage types and question patterns."
     },
     {
       "type": "text",
@@ -381,11 +546,48 @@
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "Visual: Exam Pattern",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Exam Pattern</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">28</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">English Language</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">28 Qs</text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">35</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Current Affairs & Ge</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">35 Qs</text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">35</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Legal Reasoning</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">35 Qs</text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">28</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Logical Reasoning</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">28 Qs</text></svg>",
-      "caption": "Paper structure",
-      "description": "Subject-wise marks."
+      "type": "eligibility_check",
+      "heading": "CLAT Eligibility Quick Check",
+      "qualify": [
+        "12th pass from any recognised board (45% Gen, 40% SC/ST)",
+        "No age limit for UG (BA LLB)",
+        "Any stream (Science/Commerce/Arts)"
+      ],
+      "disqualify": [
+        "Below 45% in 12th (40% for SC/ST)",
+        "No 12th marksheet yet",
+        "For LLM: need LLB degree with 50%"
+      ]
+    },
+    {
+      "type": "stat_grid",
+      "heading": "Competition Snapshot",
+      "items": [
+        {
+          "icon": "👥",
+          "value": "70,000+",
+          "label": "Applicants",
+          "color": "red"
+        },
+        {
+          "icon": "🎯",
+          "value": "3,000+",
+          "label": "NLU Seats",
+          "color": "green"
+        },
+        {
+          "icon": "📊",
+          "value": "120+",
+          "label": "NLSIU Cutoff",
+          "color": "amber"
+        },
+        {
+          "icon": "💼",
+          "value": "₹15-25L",
+          "label": "Avg NLU Package",
+          "color": "green"
+        }
+      ]
     },
     {
       "type": "text",
@@ -442,6 +644,15 @@
     },
     {
       "type": "text",
+      "heading": "CLAT PG: LLM Entrance Through CLAT",
+      "icon": "🎓",
+      "content": [
+        "CLAT PG is the separate exam for 1-year LLM admissions at NLUs. It has 120 MCQs in 2 hours, testing constitutional law, jurisprudence, and other law subjects.",
+        "Eligibility: LLB or 5-year BA LLB degree with 50% marks (45% for SC/ST). The same CLAT registration covers both UG and PG applications."
+      ]
+    },
+    {
+      "type": "text",
       "heading": "CLAT for PG (LLM) - the postgraduate entry",
       "icon": "🎓",
       "content": [
@@ -452,16 +663,71 @@
       ]
     },
     {
+      "type": "icon_list",
+      "heading": "Top NLUs Accepting CLAT Score",
+      "items": [
+        {
+          "icon": "🥇",
+          "title": "NLSIU Bangalore",
+          "sub": "Rank 1 NLU. Avg package ₹20-25 lakh. Cutoff: top 50 rank."
+        },
+        {
+          "icon": "🥈",
+          "title": "NALSAR Hyderabad",
+          "sub": "Rank 2. Strong corporate law placements. Cutoff: top 100."
+        },
+        {
+          "icon": "🥉",
+          "title": "NUJS Kolkata (WBNUJS)",
+          "sub": "Rank 3. Excellent faculty. Cutoff: top 150."
+        },
+        {
+          "icon": "4️⃣",
+          "title": "NLU Delhi",
+          "sub": "Does NOT accept CLAT. Has its own AILET exam."
+        },
+        {
+          "icon": "5️⃣",
+          "title": "GNLU, RMLNLU, HNLU, CNLU & 15 more",
+          "sub": "Accept CLAT ranks 200-3,000+. Good options beyond top 3."
+        }
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "warning",
+      "title": "NLU Delhi does NOT accept CLAT",
+      "content": "NLU Delhi conducts AILET (All India Law Entrance Test) separately. If NLU Delhi is your target, prepare for both CLAT and AILET."
+    },
+    {
       "type": "pullquote",
       "text": "CLAT is the single exam that opens the doors to all National Law Universities - a five-year investment that produces some of India's highest-paid professionals in corporate law, litigation, and policy."
     },
     {
-      "type": "svg_block",
-      "heading": "CLAT Section-Wise Marks",
-      "icon": "📊",
-      "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">CLAT UG Paper Pattern 150 Marks</text><rect x=\"20\" y=\"45\" width=\"125\" height=\"40\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"82\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#1B6B4A\">English 28-32Q</text><rect x=\"155\" y=\"45\" width=\"125\" height=\"40\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"217\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#1E40AF\">GK/CA 35-39Q</text><rect x=\"290\" y=\"45\" width=\"125\" height=\"40\" rx=\"8\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"352\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#92400E\">Legal Apt 35-39Q</text><rect x=\"425\" y=\"45\" width=\"125\" height=\"40\" rx=\"8\" fill=\"#F3E8FF\" stroke=\"#7C3AED\" stroke-width=\"2\"/><text x=\"487\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#5B21B6\">Logical 28-32Q</text><rect x=\"560\" y=\"45\" width=\"115\" height=\"40\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"617\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#1B6B4A\">Quant 13-17Q</text></svg>",
-      "caption": "CLAT is passage-based so reading speed and comprehension are more important than rote learning",
-      "description": "Legal aptitude has highest weightage, focus here for maximum score improvement."
+      "type": "process_flow",
+      "heading": "CLAT to NLU: The Full Journey",
+      "steps": [
+        {
+          "icon": "📋",
+          "title": "Register on consortiumofnlus.ac.in",
+          "desc": "Fee ₹4,000 (Gen), ₹3,500 (SC/ST). Oct-Nov typically."
+        },
+        {
+          "icon": "📝",
+          "title": "CLAT Exam (Dec)",
+          "desc": "150 passage-based MCQs in 2 hours. 5 sections."
+        },
+        {
+          "icon": "📊",
+          "title": "Score & NLU Preference",
+          "desc": "Results in Jan. Fill NLU + course preferences."
+        },
+        {
+          "icon": "🎓",
+          "title": "Counselling & Admission",
+          "desc": "Allotment based on rank + preference. 5-year BA LLB begins Jul."
+        }
+      ]
     }
   ],
   "important_dates": [
@@ -528,6 +794,26 @@
     {
       "question": "Can I prepare for CLAT and UPSC simultaneously?",
       "answer": "Yes, and many students do. CLAT's current affairs and legal reasoning preparation overlaps significantly with UPSC GS Paper 2 (polity, governance, constitution).<br><br>A 5-year law degree from an NLU is excellent preparation for UPSC - many IAS toppers are law graduates. The analytical and writing skills developed in law school directly help in UPSC Mains."
+    },
+    {
+      "question": "What is the full form of CLAT?",
+      "answer": "CLAT stands for Common Law Admission Test. It is the national entrance exam for 5-year BA LLB and 1-year LLM at 22 National Law Universities across India."
+    },
+    {
+      "question": "Is CLAT exam tough?",
+      "answer": "CLAT is moderately tough. The difficulty is not in the subject knowledge but in reading speed.<br><br>All 150 questions are passage-based, so you need to read and process passages quickly.<br><br>With 6 months of newspaper reading + mock practice, most 12th-pass students can score well."
+    },
+    {
+      "question": "What is the CLAT fee?",
+      "answer": "CLAT registration fee is ₹4,000 for General/OBC/EWS and ₹3,500 for SC/ST/BPL/PwD. Payment is online through consortiumofnlus.ac.in."
+    },
+    {
+      "question": "Does NLU Delhi accept CLAT?",
+      "answer": "No. NLU Delhi (National Law University Delhi) does NOT accept CLAT scores.<br><br>It conducts its own entrance exam called AILET (All India Law Entrance Test)."
+    },
+    {
+      "question": "Is there an age limit for CLAT?",
+      "answer": "No. CLAT has no upper age limit for UG (BA LLB) admissions.<br><br>The only requirement is 12th pass with 45% marks (40% for SC/ST)."
     }
   ],
   "official_portal": {
@@ -695,7 +981,7 @@
       },
       {
         "post": "NLU Graduate - Litigation",
-        "amount": "Variable based on cases won"
+        "amount": "₹5-50L/year (varies)"
       },
       {
         "post": "NLU Graduate - In-house Counsel (MNC)",
@@ -703,7 +989,7 @@
       },
       {
         "post": "NLU Graduate - Judicial Service",
-        "amount": "₹80,000–1,20,000/month + judicial power"
+        "amount": "₹80K-1.2L"
       }
     ]
   },
@@ -725,5 +1011,29 @@
       "value": "75,000+"
     }
   ],
-  "status": "upcoming"
+  "status": "upcoming",
+  "eligibility_data": {
+    "reference_date": "As per notification",
+    "default_education": "12th pass from any recognised board (45% Gen, 40% SC/ST)",
+    "relaxations": [],
+    "posts": [
+      {
+        "post": "BA LLB (5-year UG)",
+        "min_age": 0,
+        "max_age": 99,
+        "note": "No age limit"
+      },
+      {
+        "post": "LLM (1-year PG)",
+        "min_age": 0,
+        "max_age": 99,
+        "education": "LLB degree with 50% marks (45% SC/ST)"
+      }
+    ]
+  },
+  "changes_2026": [
+    "CLAT 2026 expected in December 2025 or early 2026. Registration typically opens October.",
+    "No changes to passage-based format from CLAT 2025. 150 MCQs, 2 hours, 5 sections.",
+    "22 NLUs accept CLAT score. NLU Delhi uses separate AILET exam."
+  ]
 }
