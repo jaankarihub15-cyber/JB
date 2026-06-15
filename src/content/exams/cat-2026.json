@@ -1,6 +1,6 @@
 {
   "slug": "cat-2026",
-  "title": "CAT 2026 - MBA Entrance Exam",
+  "title": "CAT 2026: Exam Date, Syllabus, IIM Cutoff & Fees",
   "meta_description": "CAT 2026 - IIM MBA entrance exam with 200+ word details on exam pattern, VARC/DILR/QA sections, cutoff for top IIMs, fees, and preparation strategy.",
   "hero": {
     "status": "upcoming",
@@ -97,19 +97,85 @@
       "description": "Each of the 3 sections has a mandatory 40-minute window. You cannot switch between sections or carry over unused time. Section 1: VARC (24 questions), Section 2: DILR (20 questions), Section 3: QA (22 questions). Mix of MCQs and TITA format.",
       "subjects": [
         {
-          "name": "VARC - Verbal Ability & Reading Comprehension (24 Qs: 20 MCQ, 4 TITA)",
+          "name": "VARC (Verbal Ability & Reading Comprehension)",
           "questions": 24,
-          "marks": 72
+          "marks": 72,
+          "topics": [
+            {
+              "name": "Reading Comprehension (4 passages)",
+              "high": true
+            },
+            {
+              "name": "Para Jumbles",
+              "high": true
+            },
+            {
+              "name": "Para Summary",
+              "high": true
+            },
+            {
+              "name": "Odd Sentence Out",
+              "high": false
+            },
+            {
+              "name": "Sentence Completion",
+              "high": false
+            }
+          ]
         },
         {
-          "name": "DILR - Data Interpretation & Logical Reasoning (20 Qs: 16 MCQ, 4 TITA)",
+          "name": "DILR (Data Interpretation & Logical Reasoning)",
           "questions": 20,
-          "marks": 60
+          "marks": 60,
+          "topics": [
+            {
+              "name": "Sets (4-5 questions each)",
+              "high": true
+            },
+            {
+              "name": "Tables & Charts",
+              "high": true
+            },
+            {
+              "name": "Arrangements & Schedules",
+              "high": true
+            },
+            {
+              "name": "Games & Tournaments",
+              "high": false
+            },
+            {
+              "name": "Routes & Networks",
+              "high": false
+            }
+          ]
         },
         {
-          "name": "QA - Quantitative Ability (22 Qs: 18 MCQ, 4 TITA)",
+          "name": "QA (Quantitative Ability)",
           "questions": 22,
-          "marks": 66
+          "marks": 66,
+          "topics": [
+            {
+              "name": "Arithmetic (Percentages, Ratios)",
+              "high": true
+            },
+            {
+              "name": "Algebra",
+              "high": true
+            },
+            {
+              "name": "Geometry & Mensuration",
+              "high": true
+            },
+            {
+              "name": "Number Systems",
+              "high": false
+            },
+            {
+              "name": "Modern Math (P&C, Probability)",
+              "high": false
+            }
+          ]
         }
       ],
       "total_questions": 66,
@@ -146,6 +212,15 @@
   ],
   "extra_sections": [
     {
+      "type": "text",
+      "heading": "What is CAT Exam? Full Form and Overview",
+      "icon": "📋",
+      "content": [
+        "CAT stands for Common Admission Test. It is the entrance exam for MBA/PGDM admissions at all 20+ IIMs and 1,000+ other B-schools across India.",
+        "CAT is conducted once a year (November/December) by one of the IIMs on a rotational basis. It is a computer-based test with 66 questions in 2 hours, divided into 3 sections: VARC, DILR, and QA."
+      ]
+    },
+    {
       "heading": "VARC Strategy - Reading Comprehension Dominance",
       "icon": "📖",
       "type": "text",
@@ -158,10 +233,34 @@
       ]
     },
     {
-      "heading": "",
-      "type": "svg_block",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">CAT - gateway to IIMs and top B-schools</text><rect x=\"30\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"130\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#145236\">VARC</text><text x=\"130\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">24 Qs | 40 min</text><rect x=\"250\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"350\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1E40AF\">DILR</text><text x=\"350\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">20 Qs | 40 min</text><rect x=\"470\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"570\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#C2410C\">QA</text><text x=\"570\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#C2410C\">22 Qs | 40 min</text></svg>",
-      "caption": "CAT has 66 questions in 120 minutes across 3 sections with sectional time limits. 99+ percentile needed for IIM-ABC. 95+ for other IIMs. Marking: +3 correct, -1 wrong for MCQs, no negative for TITA."
+      "type": "stat_grid",
+      "heading": "CAT 2026 at a Glance",
+      "items": [
+        {
+          "icon": "📝",
+          "value": "66",
+          "label": "Questions",
+          "color": "green"
+        },
+        {
+          "icon": "⏱️",
+          "value": "2 Hours",
+          "label": "Duration",
+          "color": "blue"
+        },
+        {
+          "icon": "🏛️",
+          "value": "20+",
+          "label": "IIMs",
+          "color": "green"
+        },
+        {
+          "icon": "💰",
+          "value": "₹2,400",
+          "label": "Gen Fee",
+          "color": "amber"
+        }
+      ]
     },
     {
       "heading": "DILR Strategy - Diverse Set Types",
@@ -173,6 +272,12 @@
         "<h3>Time Allocation in DILR</h3><p>With 20 questions in 40 minutes (2 minutes per question), you can attempt only 12-14 questions comfortably. The strategy: (1) Spend 3-4 minutes on a set to determine if it's solvable, (2) If difficult, skip and move, (3) Never spend 8+ minutes on a single set, (4) Solve 3 sets completely (12 questions) at 100% accuracy rather than 5 sets at 60% accuracy.",
         "Your 9-10 percentile gain comes from accurate completion of 3 sets, not from attempt quantity."
       ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "info",
+      "title": "CAT 2026 Registration Fee",
+      "content": "General/OBC: ₹2,400. SC/ST/PwD: ₹1,200.<br><br>Payment online via iimcat.ac.in during the registration window (typically August-September)."
     },
     {
       "heading": "Post-CAT Selection Process at IIMs",
@@ -243,11 +348,34 @@
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "Visual: Key Numbers",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">Nov 29, 2026</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Exam Date</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">2.5+ Lakh</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Applicants</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">~6,000</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">IIM Seats</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">₹2,400</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Fee</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
-      "caption": "Key facts",
-      "description": "Quick overview."
+      "type": "icon_list",
+      "heading": "Best Books for CAT Preparation",
+      "items": [
+        {
+          "icon": "📚",
+          "title": "Arun Sharma (Quantitative Aptitude)",
+          "sub": "The go-to QA book. Covers all difficulty levels with shortcuts."
+        },
+        {
+          "icon": "📖",
+          "title": "Word Power Made Easy (VARC)",
+          "sub": "Vocabulary building. Essential for Reading Comprehension."
+        },
+        {
+          "icon": "📝",
+          "title": "Previous Year Papers (10 years)",
+          "sub": "The single most important resource. CAT pattern is highly consistent."
+        },
+        {
+          "icon": "🖥️",
+          "title": "IMS/TIME/CL Mock Tests",
+          "sub": "Take 30+ full mocks. Simulating real CAT conditions is non-negotiable."
+        }
+      ]
+    },
+    {
+      "type": "pullquote",
+      "text": "CAT tests speed, not knowledge. The math is 10th-12th level. The English is newspaper level. The real challenge is solving 66 questions in 120 minutes under pressure."
     },
     {
       "type": "text",
@@ -266,11 +394,20 @@
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "CAT 2026 - MBA Entrance E Facts",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">CAT 2026 - MBA Entr</text><rect x=\"17\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"94\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">Nov 29, 2026</text><text x=\"94\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Exam Date</text><rect x=\"187\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"264\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">2.5+ Lakh</text><text x=\"264\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Applicants</text><rect x=\"357\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"434\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#92400E\">~6,000</text><text x=\"434\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">IIM Seats</text><rect x=\"527\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"604\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">₹2,400</text><text x=\"604\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Fee</text></svg>",
-      "caption": "Quick reference facts",
-      "description": "Key facts and numbers at a glance"
+      "type": "modern_callout",
+      "variant": "tip",
+      "title": "Mocks matter more than books for CAT",
+      "content": "After the basics, your score improvement comes from mocks, not more theory. Take 30+ full-length mocks and analyze each one for 2-3 hours.<br><br>The analysis is where the learning happens, not the test itself."
+    },
+    {
+      "type": "text",
+      "heading": "CAT Cutoff for Top IIMs: What Percentile Do You Need?",
+      "icon": "📊",
+      "content": [
+        "IIM Ahmedabad, Bangalore, and Calcutta need 99+ percentile. IIM Lucknow, Kozhikode, and Indore need 97-98 percentile.",
+        "Newer IIMs accept 90-95 percentile.",
+        "But percentile alone does not get you in. IIMs use a composite score: CAT percentile (40-50%) + academics (20-30%) + work experience, gender diversity, and other factors."
+      ]
     },
     {
       "type": "text",
@@ -288,6 +425,12 @@
         "Revise QA formula sheet daily. Practice speed reading for RC.",
         "The difference between 95 and 99 percentile is usually strategy and speed, not knowledge."
       ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "title": "CAT Previous Year Question Papers",
+      "content": "CAT papers from 2015-2024 are available on iimcat.ac.in (official response sheets). These are the most accurate practice material because the actual difficulty level varies significantly from coaching mock tests."
     },
     {
       "type": "text",
@@ -337,17 +480,54 @@
       ]
     },
     {
+      "type": "eligibility_check",
+      "heading": "CAT Eligibility Quick Check",
+      "qualify": [
+        "Bachelor's degree (any stream) with 50% marks",
+        "Final year students can apply",
+        "No age limit, no attempt limit"
+      ],
+      "disqualify": [
+        "Below 50% in graduation (45% for SC/ST)",
+        "No bachelor's degree",
+        "Distance learning: check individual IIM policy"
+      ]
+    },
+    {
       "type": "callout",
       "variant": "info",
       "heading": "CAT 2026 expected schedule",
       "content": "Registration: August 2026 at iimcat.ac.in. Exam date: Last Sunday of November 2026 (typically November 29).<br><br>Results: January 2027. IIM shortlists: February 2027.<br><br>WAT-PI: March-April 2027. Final results: May 2027.<br><br>Fee: Rs 2,400 for general, Rs 1,200 for SC/ST/PwD."
     },
     {
-      "type": "svg_block",
-      "heading": "Visual: Exam Pattern",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Exam Pattern</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">72</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">VARC - Verbal Abilit</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">24 Qs</text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">60</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">DILR - Data Interpre</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">20 Qs</text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">66</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">QA - Quantitative Ab</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">22 Qs</text></svg>",
-      "caption": "Paper structure",
-      "description": "Subject-wise marks."
+      "type": "stat_grid",
+      "heading": "CAT Competition Snapshot",
+      "items": [
+        {
+          "icon": "👥",
+          "value": "2.5L+",
+          "label": "Applicants",
+          "color": "red"
+        },
+        {
+          "icon": "🎯",
+          "value": "5,000+",
+          "label": "IIM Seats",
+          "color": "green"
+        },
+        {
+          "icon": "📊",
+          "value": "99+",
+          "label": "%ile for IIM A/B/C",
+          "color": "amber"
+        },
+        {
+          "icon": "💼",
+          "value": "₹25-35L",
+          "label": "Avg Placement",
+          "color": "green"
+        }
+      ]
     },
     {
       "type": "callout",
@@ -374,6 +554,16 @@
     },
     {
       "type": "text",
+      "heading": "How CAT Percentile is Calculated",
+      "icon": "📐",
+      "content": [
+        "CAT percentile is NOT your percentage of marks. A 99 percentile means you scored better than 99% of all test-takers.",
+        "With 2.5 lakh applicants, 99 percentile means roughly top 2,500.",
+        "Each section (VARC, DILR, QA) has a separate sectional percentile. IIMs set sectional cutoffs, so you cannot afford to bomb any one section even if your overall score is high."
+      ]
+    },
+    {
+      "type": "text",
       "heading": "Non-IIM MBA options through CAT",
       "icon": "🏛️",
       "content": [
@@ -385,6 +575,12 @@
         "Executive MBA options: For professionals with 5+ years of experience who don't want to leave their jobs, IIM-ABC offer 1-year Executive MBA (PGPX/EPGP) programs. These accept GMAT scores (not CAT) and cost Rs 30-35 lakh.",
         "Average placement: Rs 35-50 LPA. The 1-year format means you lose only 1 year of salary vs 2 years for regular MBA."
       ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "info",
+      "title": "CAT Age Limit: There is None",
+      "content": "CAT has no upper age limit. Anyone with a bachelor's degree (50% marks, 45% for SC/ST) from a recognized university can apply.<br><br>Working professionals in their 30s and 40s regularly take CAT."
     },
     {
       "type": "text",
@@ -400,12 +596,35 @@
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "CAT Score vs IIM Admission",
-      "icon": "🎯",
-      "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">CAT Percentile Needed for Top IIMs</text><rect x=\"30\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"130\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">IIM ABC 99.5+ percenti</text><rect x=\"250\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"350\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">IIM IIML K I 98+ perce</text><rect x=\"470\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"570\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#92400E\">New IIMs 95+ percentil</text></svg>",
-      "caption": "CAT percentile is just the first filter, IIMs also weigh academics, work experience, and diversity",
-      "description": "IIM A, B, C admit profiles typically have 98-100 percentile."
+      "type": "process_flow",
+      "heading": "CAT to IIM: The Full Journey",
+      "steps": [
+        {
+          "icon": "📋",
+          "title": "Register on iimcat.ac.in",
+          "desc": "Aug-Sep. Fee ₹2,400 (Gen), ₹1,200 (SC/ST)."
+        },
+        {
+          "icon": "📝",
+          "title": "CAT Exam (Nov/Dec)",
+          "desc": "66 MCQs + TITA in 2 hours. Computer-based, 3 slots."
+        },
+        {
+          "icon": "📊",
+          "title": "Percentile & Shortlist",
+          "desc": "Results in Jan. IIMs shortlist using CAT + academics + diversity."
+        },
+        {
+          "icon": "🎤",
+          "title": "WAT/PI Rounds (Feb-Apr)",
+          "desc": "Written Ability Test + Personal Interview at each IIM."
+        },
+        {
+          "icon": "🎓",
+          "title": "Final Admit (May-Jun)",
+          "desc": "Offers based on composite score. 2-year MBA begins Jul."
+        }
+      ]
     }
   ],
   "important_dates": [
@@ -487,6 +706,30 @@
     {
       "question": "Is CAT harder than GMAT?",
       "answer": "Different, not directly comparable. CAT QA is harder than GMAT Quant (especially geometry and number theory).<br><br>GMAT Verbal is harder than CAT VARC for Indian students (GMAT tests American English at a higher level). CAT DILR has no GMAT equivalent - it's unique to CAT.<br><br>For Indian B-schools, CAT is the right exam. For international MBA, take GMAT."
+    },
+    {
+      "question": "What is the full form of CAT?",
+      "answer": "CAT stands for Common Admission Test. It is conducted by IIMs for MBA admissions to all IIMs and 1,000+ other B-schools in India."
+    },
+    {
+      "question": "Is CAT exam tough?",
+      "answer": "CAT is considered one of the toughest MBA entrance exams in India. The difficulty is not in the concepts (mostly 10th-12th level math and English) but in time pressure: 66 questions in 120 minutes with tricky options.<br><br>With 6-8 months of disciplined preparation, an average graduate can score 90+ percentile."
+    },
+    {
+      "question": "What is the CAT exam fee?",
+      "answer": "CAT registration fee is ₹2,400 for General/OBC candidates and ₹1,200 for SC/ST/PwD candidates. Payment is online through the official iimcat.ac.in portal."
+    },
+    {
+      "question": "What percentile is needed for IIM Ahmedabad?",
+      "answer": "IIM Ahmedabad typically requires 99+ percentile in CAT with no sectional cutoff below 80-85 percentile. But percentile alone is not enough.<br><br>IIM-A uses a composite score including academics, work experience, and diversity factors."
+    },
+    {
+      "question": "Is there an age limit for CAT?",
+      "answer": "No. CAT has no upper age limit.<br><br>The only requirement is a bachelor's degree with 50% marks (45% for SC/ST). Working professionals of any age can appear."
+    },
+    {
+      "question": "How is CAT percentile calculated?",
+      "answer": "CAT percentile indicates what percentage of test-takers you scored better than. A 99 percentile means you are in the top 1%.<br><br>It is NOT your percentage of marks.<br><br>Each section has a separate percentile. IIMs set sectional cutoffs, so you must score well in all three sections."
     }
   ],
   "official_portal": {
@@ -630,19 +873,19 @@
     "intro": "In-hand salary ranges from ₹1.2-2.1 lakh/month to ₹2.3-2.9 lakh/month median (with benefits) depending on the post and city.",
     "rows": [
       {
-        "post": "MBA from IIM A/B/C (Top 3)",
-        "amount": "₹2.3-2.9 lakh/month median (with benefits)"
+        "post": "IIM A/B/C",
+        "amount": "₹2.3-2.9 lakh/month"
       },
       {
-        "post": "MBA from IIM L/I/K (Tier 2)",
+        "post": "IIM L/I/K (Tier 2)",
         "amount": "₹1.8-2.3 lakh/month"
       },
       {
-        "post": "MBA from newer IIMs (Tier 3)",
+        "post": "newer IIMs (Tier 3)",
         "amount": "₹1.2-1.7 lakh/month"
       },
       {
-        "post": "MBA from top non-IIM B-schools",
+        "post": "top non-IIM B-schools",
         "amount": "₹1.2-2.1 lakh/month"
       }
     ]
@@ -677,5 +920,10 @@
         "max_age": 65
       }
     ]
-  }
+  },
+  "changes_2026": [
+    "CAT 2026 is expected in November/December. Registration typically opens August-September on iimcat.ac.in.",
+    "No major changes to exam pattern from CAT 2024. 66 questions, 2 hours, 3 sections.",
+    "Conducting IIM for CAT 2026 not yet announced."
+  ]
 }
