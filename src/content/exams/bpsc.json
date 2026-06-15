@@ -87,9 +87,47 @@
       "description": "150 MCQs on General Studies - history, geography, polity, economy, science, current affairs, and Bihar-specific topics. This is a qualifying round. No CSAT in BPSC is a major advantage over UPSC. Recent cycles (67th, 68th, 69th) had NO negative marking; verify for 72nd CCE.",
       "subjects": [
         {
-          "name": "General Studies (GS)",
+          "name": "General Studies",
           "questions": 150,
-          "marks": 150
+          "marks": 150,
+          "topics": [
+            {
+              "name": "Bihar Current Affairs",
+              "high": true
+            },
+            {
+              "name": "Indian History",
+              "high": true
+            },
+            {
+              "name": "Indian Polity",
+              "high": true
+            },
+            {
+              "name": "Indian Geography",
+              "high": false
+            },
+            {
+              "name": "Bihar Geography & Economy",
+              "high": true
+            },
+            {
+              "name": "General Science",
+              "high": false
+            },
+            {
+              "name": "Indian Economy",
+              "high": false
+            },
+            {
+              "name": "National + International Events",
+              "high": true
+            },
+            {
+              "name": "Mental Ability & Reasoning",
+              "high": false
+            }
+          ]
         }
       ],
       "total_questions": 150,
@@ -102,24 +140,84 @@
       "description": "Descriptive papers. GS Paper 1 & 2 (300+300 = 600 marks), Optional Subject (100 marks), Hindi Qualifying (100 marks, need 30% to qualify). Total merit determined by Mains + Interview only.",
       "subjects": [
         {
-          "name": "GS Paper 1: History, Polity, Geography, Science",
+          "name": "GS Paper I (Indian History, Geography, Polity)",
           "questions": 0,
-          "marks": 300
+          "marks": 300,
+          "topics": [
+            {
+              "name": "Bihar History & Culture",
+              "high": true
+            },
+            {
+              "name": "Indian Freedom Movement",
+              "high": true
+            },
+            {
+              "name": "Indian Geography",
+              "high": false
+            },
+            {
+              "name": "Indian Polity & Governance",
+              "high": true
+            }
+          ]
         },
         {
-          "name": "GS Paper 2: Economy, Bihar-specific, Current Affairs",
+          "name": "GS Paper II (Economy, Science, Social Development)",
           "questions": 0,
-          "marks": 300
+          "marks": 300,
+          "topics": [
+            {
+              "name": "Indian Economy & Bihar Economy",
+              "high": true
+            },
+            {
+              "name": "Agriculture in Bihar",
+              "high": true
+            },
+            {
+              "name": "Science & Technology",
+              "high": false
+            },
+            {
+              "name": "Disaster Management",
+              "high": false
+            }
+          ]
         },
         {
-          "name": "Optional Subject (from BPSC approved list)",
+          "name": "General Hindi",
           "questions": 0,
-          "marks": 100
+          "marks": 100,
+          "topics": [
+            {
+              "name": "Essay",
+              "high": true
+            },
+            {
+              "name": "Grammar",
+              "high": false
+            },
+            {
+              "name": "Comprehension",
+              "high": false
+            }
+          ]
         },
         {
-          "name": "Hindi (Qualifying - need 30% minimum)",
+          "name": "Optional Subject Paper",
           "questions": 0,
-          "marks": 100
+          "marks": 300,
+          "topics": [
+            {
+              "name": "Student's chosen subject",
+              "high": true
+            },
+            {
+              "name": "34 optional subjects available",
+              "high": false
+            }
+          ]
         }
       ],
       "total_questions": 0,
@@ -813,19 +911,19 @@
     "rows": [
       {
         "post": "Sub-Divisional Officer (SDO/SDM)",
-        "amount": "₹80,000–1,00,000/month"
+        "amount": "₹80K-1L"
       },
       {
         "post": "Deputy SP (DSP)",
-        "amount": "₹80,000–1,00,000/month"
+        "amount": "₹80K-1L"
       },
       {
         "post": "Circle Officer (CO)",
-        "amount": "₹75,000–90,000/month"
+        "amount": "₹75-90K"
       },
       {
         "post": "District Officer (Various specialized)",
-        "amount": "₹75,000–90,000/month"
+        "amount": "₹75-90K"
       }
     ]
   },
@@ -887,5 +985,10 @@
         "max_age": 37
       }
     ]
-  }
+  },
+  "changes_2026": [
+    "72nd CCE notification released 5 May 2026 with 1,189 vacancies.",
+    "Prelims scheduled for 26 July 2026. Mains 21-25 November 2026.",
+    "No changes to exam pattern or syllabus from the 71st CCE cycle."
+  ]
 }
