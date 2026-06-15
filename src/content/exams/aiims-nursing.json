@@ -1,6 +1,6 @@
 {
   "slug": "aiims-nursing",
-  "title": "AIIMS Nursing 2026: BSc Nursing & MSc Entrance - Pattern, Cutoff & Preparation",
+  "title": "AIIMS BSc Nursing 2026: Entrance, Syllabus & Salary",
   "meta_description": "AIIMS nursing entrance: BSc Nursing (4-year), MSc Nursing specializations, Staff Nurse recruitment. Cutoff, syllabus, salary ₹35-50K, and complete preparation g",
   "hero": {
     "status": "active",
@@ -115,9 +115,34 @@
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "",
-      "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">AIIMS Nursing</text><rect x=\"20\" y=\"40\" width=\"153\" height=\"65\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"96\" y=\"65\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">~200/year</text><text x=\"96\" y=\"90\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Seats</text><rect x=\"188\" y=\"40\" width=\"153\" height=\"65\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"264\" y=\"65\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">7 AIIMS</text><text x=\"264\" y=\"90\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Institutes</text><rect x=\"356\" y=\"40\" width=\"153\" height=\"65\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"432\" y=\"65\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">B.Sc Nursing</text><text x=\"432\" y=\"90\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Course</text><rect x=\"524\" y=\"40\" width=\"153\" height=\"65\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"600\" y=\"65\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">4 years</text><text x=\"600\" y=\"90\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Duration</text></svg>"
+      "type": "stat_grid",
+      "heading": "AIIMS Nursing at a Glance",
+      "items": [
+        {
+          "icon": "📝",
+          "value": "200",
+          "label": "Questions",
+          "color": "green"
+        },
+        {
+          "icon": "🎓",
+          "value": "500+",
+          "label": "Seats/Year",
+          "color": "blue"
+        },
+        {
+          "icon": "💰",
+          "value": "₹35-50K",
+          "label": "Starting Salary",
+          "color": "green"
+        },
+        {
+          "icon": "📊",
+          "value": "140-160",
+          "label": "BSc Cutoff",
+          "color": "amber"
+        }
+      ]
     },
     {
       "type": "text",
@@ -151,9 +176,25 @@
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "",
-      "svg": "<svg viewBox=\"0 0 700 110\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Admission Process</text><rect x=\"28\" y=\"40\" width=\"140\" height=\"55\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"98\" y=\"62\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#1B6B4A\">Apply online</text><text x=\"98\" y=\"82\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#4B5563\">AIIMS portal</text><text x=\"173\" y=\"72\" font-family=\"sans-serif\" font-size=\"18\" fill=\"#1B6B4A\">→</text><rect x=\"196\" y=\"40\" width=\"140\" height=\"55\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"266\" y=\"62\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#1B6B4A\">Entrance exam</text><text x=\"266\" y=\"82\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#4B5563\">CBT mode</text><text x=\"341\" y=\"72\" font-family=\"sans-serif\" font-size=\"18\" fill=\"#1B6B4A\">→</text><rect x=\"364\" y=\"40\" width=\"140\" height=\"55\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"434\" y=\"62\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#1B6B4A\">Merit list</text><text x=\"434\" y=\"82\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#4B5563\">Category-wise</text><text x=\"509\" y=\"72\" font-family=\"sans-serif\" font-size=\"18\" fill=\"#1B6B4A\">→</text><rect x=\"532\" y=\"40\" width=\"140\" height=\"55\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"602\" y=\"62\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#1B6B4A\">Counseling</text><text x=\"602\" y=\"82\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" fill=\"#4B5563\">Seat allotment</text></svg>"
+      "type": "icon_list",
+      "heading": "Best Books for AIIMS Nursing",
+      "items": [
+        {
+          "icon": "📚",
+          "title": "NCERT (11th & 12th PCB)",
+          "sub": "The foundation. 60% questions come directly from NCERT."
+        },
+        {
+          "icon": "📖",
+          "title": "Trueman's Biology",
+          "sub": "Extra depth for biology. Covers AIIMS-level questions."
+        },
+        {
+          "icon": "📝",
+          "title": "Previous Year Papers (10 years)",
+          "sub": "Most important resource. Pattern repeats significantly."
+        }
+      ]
     },
     {
       "type": "text",
@@ -171,9 +212,14 @@
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "",
-      "svg": "<svg viewBox=\"0 0 700 260\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Dates</text><line x1=\"60\" y1=\"40\" x2=\"60\" y2=\"250\" stroke=\"#1B6B4A\" stroke-width=\"3\"/><circle cx=\"60\" cy=\"55\" r=\"10\" fill=\"#1B6B4A\"/><text x=\"60\" y=\"60\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"white\">1</text><text x=\"85\" y=\"52\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">Apr-May</text><text x=\"85\" y=\"70\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#4B5563\">Appln window opens</text><circle cx=\"60\" cy=\"110\" r=\"10\" fill=\"#1B6B4A\"/><text x=\"60\" y=\"115\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"white\">2</text><text x=\"85\" y=\"107\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">Jun-Jul</text><text x=\"85\" y=\"125\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#4B5563\">Admit card released</text><circle cx=\"60\" cy=\"165\" r=\"10\" fill=\"#1B6B4A\"/><text x=\"60\" y=\"170\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"white\">3</text><text x=\"85\" y=\"162\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">Jul-Aug</text><text x=\"85\" y=\"180\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#4B5563\">Entrance exam conduc</text><circle cx=\"60\" cy=\"220\" r=\"10\" fill=\"#1B6B4A\"/><text x=\"60\" y=\"225\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"white\">4</text><text x=\"85\" y=\"217\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">Aug-Sep</text><text x=\"85\" y=\"235\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#4B5563\">Results counseling</text></svg>"
+      "type": "modern_callout",
+      "variant": "tip",
+      "title": "Biology carries the most weight",
+      "content": "60 questions from Biology vs 60 from Physics and 60 from Chemistry. But Biology questions are easier to score on.<br><br>Start with Biology, secure those marks, then focus on Physics which is typically the hardest section."
+    },
+    {
+      "type": "pullquote",
+      "text": "AIIMS-trained nurses are recognized globally. The tag opens doors to hospital jobs, research positions, and international nursing certifications."
     },
     {
       "type": "callout",
@@ -197,11 +243,34 @@
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "Visual: AIIMS Nursing 2026 Key Numbers",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">500-600 (All Cente</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Annual AIIMS Nursing</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">80,000+</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Total Applicants</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">140-160/200</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">BSc Nursing Cutoff</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
-      "caption": "Key numbers for AIIMS Nursing 2026: BSc Nursin",
-      "description": "Quick overview of the most important numbers and facts."
+      "type": "stat_grid",
+      "heading": "Competition Snapshot",
+      "items": [
+        {
+          "icon": "👥",
+          "value": "80,000+",
+          "label": "Applicants",
+          "color": "red"
+        },
+        {
+          "icon": "🎯",
+          "value": "500-600",
+          "label": "Seats",
+          "color": "green"
+        },
+        {
+          "icon": "📈",
+          "value": "1:150",
+          "label": "Selection Ratio",
+          "color": "amber"
+        },
+        {
+          "icon": "⏱️",
+          "value": "2 Hours",
+          "label": "Exam Duration",
+          "color": "blue"
+        }
+      ]
     },
     {
       "type": "text",
@@ -226,9 +295,30 @@
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "",
-      "svg": "<svg viewBox=\"0 0 700 250\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Requirements</text><rect x=\"40\" y=\"45\" width=\"620\" height=\"28\" rx=\"6\" fill=\"#F0FDF4\"/><text x=\"55\" y=\"64\" font-family=\"sans-serif\" font-size=\"14\" fill=\"#1B6B4A\">✓</text><text x=\"78\" y=\"64\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#374151\">10+2 PCB (Physics, Che</text><rect x=\"40\" y=\"80\" width=\"620\" height=\"28\" rx=\"6\" fill=\"#FFFFFF\"/><text x=\"55\" y=\"99\" font-family=\"sans-serif\" font-size=\"14\" fill=\"#1B6B4A\">✓</text><text x=\"78\" y=\"99\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#374151\">Min 60% PCB (55% reser</text><rect x=\"40\" y=\"115\" width=\"620\" height=\"28\" rx=\"6\" fill=\"#F0FDF4\"/><text x=\"55\" y=\"134\" font-family=\"sans-serif\" font-size=\"14\" fill=\"#1B6B4A\">✓</text><text x=\"78\" y=\"134\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#374151\">Age 17-25 years at adm</text><rect x=\"40\" y=\"150\" width=\"620\" height=\"28\" rx=\"6\" fill=\"#FFFFFF\"/><text x=\"55\" y=\"169\" font-family=\"sans-serif\" font-size=\"14\" fill=\"#1B6B4A\">✓</text><text x=\"78\" y=\"169\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#374151\">Indian citizenship</text><rect x=\"40\" y=\"185\" width=\"620\" height=\"28\" rx=\"6\" fill=\"#F0FDF4\"/><text x=\"55\" y=\"204\" font-family=\"sans-serif\" font-size=\"14\" fill=\"#1B6B4A\">✓</text><text x=\"78\" y=\"204\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#374151\">Medical fitness cert</text><rect x=\"40\" y=\"220\" width=\"620\" height=\"28\" rx=\"6\" fill=\"#FFFFFF\"/><text x=\"55\" y=\"239\" font-family=\"sans-serif\" font-size=\"14\" fill=\"#1B6B4A\">✓</text><text x=\"78\" y=\"239\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#374151\">Character cert school</text></svg>"
+      "type": "process_flow",
+      "heading": "AIIMS Nursing Career Path",
+      "steps": [
+        {
+          "icon": "📋",
+          "title": "Clear Entrance Exam",
+          "desc": "Score 140+ in 200 MCQs for General category."
+        },
+        {
+          "icon": "🎓",
+          "title": "4-Year BSc Nursing",
+          "desc": "Clinical training at AIIMS campus hospitals."
+        },
+        {
+          "icon": "🏥",
+          "title": "Staff Nurse / Nursing Officer",
+          "desc": "Direct posting at AIIMS. ₹35-50K starting."
+        },
+        {
+          "icon": "📈",
+          "title": "MSc / Superintendent",
+          "desc": "Promotion path to ₹60-80K with specialization."
+        }
+      ]
     },
     {
       "type": "text",
@@ -297,9 +387,10 @@
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "",
-      "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Quick Facts</text><rect x=\"20\" y=\"40\" width=\"153\" height=\"65\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"96\" y=\"65\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">₹8,000/month</text><text x=\"96\" y=\"90\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Stipend</text><rect x=\"188\" y=\"40\" width=\"153\" height=\"65\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"264\" y=\"65\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">Provided free</text><text x=\"264\" y=\"90\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Hostel</text><rect x=\"356\" y=\"40\" width=\"153\" height=\"65\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"432\" y=\"65\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">₹1,000/year</text><text x=\"432\" y=\"90\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Fee</text><rect x=\"524\" y=\"40\" width=\"153\" height=\"65\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"600\" y=\"65\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">5 years service</text><text x=\"600\" y=\"90\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Bond</text></svg>"
+      "type": "modern_callout",
+      "variant": "info",
+      "title": "AIIMS BSc Nursing vs other nursing entrances",
+      "content": "AIIMS is harder than JIPMER and state nursing entrances. The question level is closer to NEET UG for PCB subjects.<br><br>However, the career benefits (AIIMS tag, higher salary, better facilities) make the extra preparation worthwhile."
     },
     {
       "type": "text",
@@ -369,6 +460,32 @@
       ]
     },
     {
+      "type": "timeline",
+      "heading": "AIIMS Nursing Application Timeline",
+      "rows": [
+        {
+          "date": "Jan-Feb",
+          "event": "Notification released on aiimsexams.ac.in"
+        },
+        {
+          "date": "Feb-Mar",
+          "event": "Online application window (4-6 weeks)"
+        },
+        {
+          "date": "May-Jun",
+          "event": "Admit card download"
+        },
+        {
+          "date": "Jun-Jul",
+          "event": "Entrance exam conducted"
+        },
+        {
+          "date": "Jul-Aug",
+          "event": "Result and counselling"
+        }
+      ]
+    },
+    {
       "type": "text",
       "heading": "AIIMS Nursing Exam Day Strategy and Time Management",
       "icon": "⏱️",
@@ -381,6 +498,20 @@
         "Practice this elimination technique during your mock tests so it becomes automatic during the actual exam.",
         "Carry your admit card, valid photo ID (Aadhaar or passport), and two passport-size photographs. Reach the exam centre at least 60 minutes before the reporting time.",
         "Latecomers are not permitted under any circumstances. Keep a transparent water bottle and wear comfortable clothing without pockets, as strict frisking is conducted at AIIMS exam centres."
+      ]
+    },
+    {
+      "type": "eligibility_check",
+      "heading": "AIIMS Nursing Eligibility Quick Check",
+      "qualify": [
+        "12th pass with PCB (60%, 50% SC/ST)",
+        "Age 17-25 (General)",
+        "Indian citizen"
+      ],
+      "disqualify": [
+        "Below 60% in 12th PCB",
+        "Over 25 (General) without category relaxation",
+        "Arts/Commerce stream"
       ]
     },
     {
@@ -432,6 +563,18 @@
     {
       "question": "When is the next AIIMS Nursing 2026 exam?",
       "answer": "Check the official notification on the conducting body's website for the latest exam schedule. Notifications are usually released 2-3 months before the exam date."
+    },
+    {
+      "question": "What is the AIIMS BSc Nursing cutoff for General category?",
+      "answer": "The cutoff typically ranges from 140 to 160 out of 200. It varies by AIIMS center and year."
+    },
+    {
+      "question": "Can I apply for AIIMS Nursing after GNM?",
+      "answer": "GNM holders can apply for MSc Nursing or Staff Nurse recruitment. BSc Nursing entrance requires 12th pass with PCB."
+    },
+    {
+      "question": "Is AIIMS Nursing harder than JIPMER Nursing?",
+      "answer": "Yes, AIIMS questions are generally harder, especially in Physics. The competition is also higher due to the AIIMS brand value and better salary."
     }
   ],
   "disclaimer": "Information is for educational purposes. Verify details from the official source before taking action.",
@@ -461,9 +604,172 @@
   ],
   "image_suggestions": [],
   "last_reviewed": "May 2026",
-  "key_details": [],
-  "exam_pattern": [],
-  "major_posts": [],
+  "key_details": [
+    {
+      "label": "Conducting Body",
+      "value": "AIIMS New Delhi"
+    },
+    {
+      "label": "Programs",
+      "value": "BSc Nursing (4 years), MSc Nursing, Staff Nurse",
+      "highlight": true
+    },
+    {
+      "label": "Education Required",
+      "value": "12th pass with PCB, 60% marks (50% SC/ST)",
+      "highlight": true
+    },
+    {
+      "label": "Age Limit",
+      "value": "17-25 years (General). OBC: 28, SC/ST: 30"
+    },
+    {
+      "label": "Exam Mode",
+      "value": "Online MCQ (Computer Based Test)"
+    },
+    {
+      "label": "Questions",
+      "value": "200 MCQs in 2 hours"
+    },
+    {
+      "label": "Negative Marking",
+      "value": "1/3 mark deducted per wrong answer"
+    },
+    {
+      "label": "Seats",
+      "value": "500-600 across all AIIMS centers annually"
+    }
+  ],
+  "exam_pattern": [
+    {
+      "tier_name": "AIIMS BSc Nursing Entrance (2 hours)",
+      "description": "200 MCQs from 12th level PCB + General Knowledge. Single merit list.",
+      "subjects": [
+        {
+          "name": "Physics",
+          "questions": 60,
+          "marks": 60,
+          "topics": [
+            {
+              "name": "Mechanics",
+              "high": true
+            },
+            {
+              "name": "Optics",
+              "high": true
+            },
+            {
+              "name": "Thermodynamics",
+              "high": false
+            },
+            {
+              "name": "Electricity",
+              "high": false
+            },
+            {
+              "name": "Modern Physics",
+              "high": false
+            }
+          ]
+        },
+        {
+          "name": "Chemistry",
+          "questions": 60,
+          "marks": 60,
+          "topics": [
+            {
+              "name": "Organic Chemistry",
+              "high": true
+            },
+            {
+              "name": "Physical Chemistry",
+              "high": true
+            },
+            {
+              "name": "Inorganic Chemistry",
+              "high": false
+            },
+            {
+              "name": "Biochemistry Basics",
+              "high": false
+            }
+          ]
+        },
+        {
+          "name": "Biology (Botany + Zoology)",
+          "questions": 60,
+          "marks": 60,
+          "topics": [
+            {
+              "name": "Human Physiology",
+              "high": true
+            },
+            {
+              "name": "Genetics",
+              "high": true
+            },
+            {
+              "name": "Cell Biology",
+              "high": false
+            },
+            {
+              "name": "Ecology",
+              "high": false
+            },
+            {
+              "name": "Plant Physiology",
+              "high": false
+            }
+          ]
+        },
+        {
+          "name": "General Knowledge + Aptitude",
+          "questions": 20,
+          "marks": 20,
+          "topics": [
+            {
+              "name": "Current Affairs",
+              "high": true
+            },
+            {
+              "name": "Nursing Aptitude",
+              "high": false
+            },
+            {
+              "name": "General Science",
+              "high": false
+            }
+          ]
+        }
+      ],
+      "total_questions": 200,
+      "total_marks": 200,
+      "duration": "2 hours",
+      "negative_marking": "1/3 mark deducted per wrong answer"
+    }
+  ],
+  "major_posts": [
+    {
+      "post": "Staff Nurse",
+      "in_hand_salary": "₹35,000-45,000",
+      "department": "AIIMS"
+    },
+    {
+      "post": "Nursing Officer",
+      "in_hand_salary": "₹40,000-55,000",
+      "department": "AIIMS"
+    },
+    {
+      "post": "Sister Grade II",
+      "in_hand_salary": "₹45,000-60,000",
+      "department": "AIIMS"
+    },
+    {
+      "post": "Nursing Superintendent",
+      "in_hand_salary": "₹60,000-80,000",
+      "department": "AIIMS"
+    }
+  ],
   "important_dates": [
     {
       "label": "Application Window",
@@ -502,5 +808,63 @@
       "value": "140-160/200"
     }
   ],
-  "status": "upcoming"
+  "status": "upcoming",
+  "eligibility_data": {
+    "reference_date": "As per notification",
+    "default_education": "12th pass with Physics, Chemistry, Biology (60% marks, 50% for SC/ST)",
+    "relaxations": [
+      {
+        "category": "OBC",
+        "years": 3
+      },
+      {
+        "category": "SC/ST",
+        "years": 5
+      }
+    ],
+    "posts": [
+      {
+        "post": "BSc Nursing (4-year)",
+        "min_age": 17,
+        "max_age": 25
+      },
+      {
+        "post": "MSc Nursing",
+        "min_age": 20,
+        "max_age": 35,
+        "education": "BSc Nursing with 1 year clinical experience"
+      },
+      {
+        "post": "Staff Nurse",
+        "min_age": 18,
+        "max_age": 30,
+        "education": "BSc/GNM Nursing with registration"
+      }
+    ]
+  },
+  "salary_table": {
+    "intro": "AIIMS nursing salaries are among the highest in government nursing. Pay depends on the position and experience.",
+    "rows": [
+      {
+        "post": "Staff Nurse (Level 7)",
+        "amount": "₹35,000-45,000"
+      },
+      {
+        "post": "Nursing Officer (Level 8)",
+        "amount": "₹40,000-55,000"
+      },
+      {
+        "post": "Sister Grade II (Level 8)",
+        "amount": "₹45,000-60,000"
+      },
+      {
+        "post": "Nursing Superintendent",
+        "amount": "₹60,000-80,000"
+      }
+    ]
+  },
+  "changes_2026": [
+    "No major changes to AIIMS Nursing entrance pattern from 2025.",
+    "Application through aiimsexams.ac.in. Check notification for exact dates."
+  ]
 }
