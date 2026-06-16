@@ -127,59 +127,34 @@
     },
     {
       "type": "table",
-      "heading": "Vahli Dikri Yojana: Instalment Schedule and Conditions",
-      "content": {
-        "headers": [
-          "Instalment",
-          "Amount",
-          "When Released",
-          "Key Condition"
+      "heading": "Vahli Dikri Yojana: Instalment Schedule",
+      "columns": [
+        "Stage",
+        "Amount",
+        "Condition"
+      ],
+      "rows": [
+        [
+          "Class 1 Admission",
+          "₹4,000",
+          "Girl enrolled in Class 1"
         ],
-        "rows": [
-          [
-            "1st Instalment",
-            "Rs 4,000",
-            "When the girl enrolls in Class 1",
-            "School enrollment certificate required in a recognised school"
-          ],
-          [
-            "2nd Instalment",
-            "Rs 6,000",
-            "When the girl enrolls in Class 9",
-            "Continued school enrollment and regular attendance"
-          ],
-          [
-            "3rd Instalment",
-            "Rs 1,00,000",
-            "When the girl turns 18 years old",
-            "Must be unmarried; must have passed Class 10 or equivalent"
-          ],
-          [
-            "Total Benefit",
-            "Rs 1,10,000 per daughter",
-            "Over approximately 12 to 13 years from birth",
-            "All three milestone conditions must be met separately"
-          ],
-          [
-            "Who Qualifies",
-            "First and second daughters only",
-            "Family income below Rs 2 lakh per year",
-            "Girl born on or after 2 August 2019; Gujarat resident"
-          ],
-          [
-            "Payment Mode",
-            "Direct Benefit Transfer",
-            "Aadhaar-linked bank account",
-            "Account must be active and Aadhaar-seeded at each disbursement"
-          ],
-          [
-            "How to Apply",
-            "Anganwadi centre or online",
-            "emahilakalyan.gujarat.gov.in",
-            "Documents must include income certificate and girl's birth certificate"
-          ]
+        [
+          "Class 9 Admission",
+          "₹6,000",
+          "Girl enrolled in Class 9"
+        ],
+        [
+          "Age 18",
+          "₹1,00,000",
+          "Girl is unmarried at age 18"
+        ],
+        [
+          "Total",
+          "₹1,10,000",
+          "All three stages combined"
         ]
-      }
+      ]
     },
     {
       "type": "modern_callout",
@@ -347,11 +322,6 @@
         "When claiming the second instalment at Class 9, the family must provide proof of enrollment from the school. This is typically a school admission receipt or an enrollment confirmation issued by the school principal.",
         "The WCD office or ICDS supervisor will specify the exact document format required for each instalment claim. Asking the supervisor in advance what documents will be needed for the upcoming milestone saves time at the actual claim stage."
       ]
-    },
-    {
-      "type": "icon_list",
-      "heading": "Vahli Dikri Yojana Gujarat: Quick Reference",
-      "items": []
     }
   ],
   "faqs": [
