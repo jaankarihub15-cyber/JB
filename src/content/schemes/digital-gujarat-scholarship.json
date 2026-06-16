@@ -529,5 +529,76 @@
       "slug": "vahli-dikri-yojana",
       "tag": "Gujarat"
     }
+  ],
+  "eligibility": [
+    {
+      "label": "Who can apply",
+      "value": "SC, ST, OBC, SEBC, Minority, EBC students of Gujarat studying in recognised institutions"
+    },
+    {
+      "label": "Income limit",
+      "value": "Varies by scheme. SC: no limit. ST/OBC/SEBC: ₹2.5 lakh/year. Minority: ₹2 lakh/year. EBC: ₹6 lakh/year"
+    },
+    {
+      "label": "Domicile",
+      "value": "Must be a Gujarat resident with valid domicile proof"
+    },
+    {
+      "label": "Education",
+      "value": "Currently enrolled in a recognised school or college (Class 1 to PhD level)"
+    },
+    {
+      "label": "Bank account",
+      "value": "Bank account in student name, linked to Aadhaar for DBT"
+    },
+    {
+      "label": "Not eligible",
+      "value": "Students already receiving scholarship from another source for the same course. Failed or detained students."
+    }
+  ],
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Register on the portal",
+      "description": "Go to digitalgujarat.gov.in. Click New User and register with your mobile number and Aadhaar."
+    },
+    {
+      "step": 2,
+      "title": "Complete your profile",
+      "description": "Fill personal details, address, caste, income, education, and bank account. Profile must be 100% complete."
+    },
+    {
+      "step": 3,
+      "title": "Select scholarship scheme",
+      "description": "Choose the scholarship matching your category and education level from the scheme list."
+    },
+    {
+      "step": 4,
+      "title": "Upload documents",
+      "description": "Upload scanned copies of Aadhaar, caste certificate, income certificate, marksheet, bonafide, and bank passbook."
+    },
+    {
+      "step": 5,
+      "title": "Submit and track",
+      "description": "Review all details, submit the application, and note your application number for status tracking."
+    }
+  ],
+  "important_dates": [
+    {
+      "label": "Portal Opens (typical)",
+      "value": "July-August for new academic year cycle"
+    },
+    {
+      "label": "Pre-matric Last Date",
+      "value": "October (varies by year)"
+    },
+    {
+      "label": "Post-matric Last Date",
+      "value": "November-December (varies by year)"
+    },
+    {
+      "label": "Disbursement",
+      "value": "4-6 weeks after approval, via DBT"
+    }
   ]
 }
