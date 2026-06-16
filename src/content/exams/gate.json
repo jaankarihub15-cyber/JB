@@ -180,10 +180,25 @@
       ]
     },
     {
-      "heading": "",
-      "type": "svg_block",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">GATE - 3 career paths from one exam</text><rect x=\"50\" y=\"50\" width=\"190\" height=\"75\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"145\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#145236\">MTech/ME</text><text x=\"145\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">IITs, NITs, IISc</text><rect x=\"260\" y=\"50\" width=\"190\" height=\"75\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"355\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1E40AF\">PSU Jobs</text><text x=\"355\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">ONGC, IOCL, NTPC</text><rect x=\"470\" y=\"50\" width=\"190\" height=\"75\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"565\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#C2410C\">PhD/Research</text><text x=\"565\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#C2410C\">CSIR, DRDO, ISRO</text></svg>",
-      "caption": "GATE score is valid for 3 years. Use it for MTech admission, PSU recruitment, or PhD fellowships. Many candidates take GATE primarily for PSU jobs."
+      "type": "process_flow",
+      "heading": "Three career paths from one GATE score",
+      "steps": [
+        {
+          "icon": "🎓",
+          "title": "M.Tech / M.E.",
+          "desc": "Admission to IITs, NITs and IISc on your GATE score."
+        },
+        {
+          "icon": "🏭",
+          "title": "PSU jobs",
+          "desc": "Direct recruitment at ONGC, IOCL, NTPC and 25+ PSUs, starting around ₹50K/month."
+        },
+        {
+          "icon": "🔬",
+          "title": "PhD / research",
+          "desc": "Fellowships at CSIR, DRDO and ISRO, with about ₹31K/month stipend."
+        }
+      ]
     },
     {
       "heading": "GATE for PSU Jobs - How It Works",
@@ -216,6 +231,12 @@
       ]
     },
     {
+      "type": "number_highlight",
+      "big": "700+",
+      "title": "GATE score for top PSUs (general category)",
+      "desc": "Top PSUs like ONGC and IOCL want roughly 600-750. IIT M.Tech needs an All India Rank under 500-1000."
+    },
+    {
       "heading": "GATE for M.Tech - Is It Worth It?",
       "icon": "🎓",
       "type": "text",
@@ -239,13 +260,6 @@
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "Visual: Key Numbers",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">Feb 7-15, 2026</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Exam Dates</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">30 subjects</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Papers</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">3 years</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Valid for</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">₹40–80K/mo</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">PSU Salary</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
-      "caption": "Key facts",
-      "description": "Quick overview."
-    },
-    {
       "type": "text",
       "heading": "Subject-wise preparation approach",
       "icon": "📖",
@@ -254,15 +268,61 @@
         "Master these first for guaranteed 20-25 marks.",
         "Subject-specific papers carry 70 marks. Focus on the top 5-6 chapters that contribute 60-70% of questions.",
         "For CS: algorithms, data structures, DBMS, OS, computer networks. For ME: thermodynamics, fluid mechanics, strength of materials.",
-        "For EE: power systems, control systems, electrical machines. Previous year analysis reveals the high-weightage topics clearly."
+        "For EE: power systems, control systems, electrical machines. Previous year analysis reveals the high-weightage topics clearly.",
+        "GATE 2026 added a new Energy Science section (XE-I) under the Engineering Sciences paper.",
+        "Foreign nationals can also appear, but only at exam centres inside India."
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "GATE 2026 Facts",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">GATE 2026 Facts</text><rect x=\"17\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"94\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">Feb 7-15, 2026</text><text x=\"94\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Exam Dates</text><rect x=\"187\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"264\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">30 subjects</text><text x=\"264\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Papers</text><rect x=\"357\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"434\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#92400E\">3 years</text><text x=\"434\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Valid for</text><rect x=\"527\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"604\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">₹40–80K/mo</text><text x=\"604\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">PSU Salary</text></svg>",
-      "caption": "Quick reference facts",
-      "description": "Key facts and numbers at a glance"
+      "type": "stat_grid",
+      "heading": "GATE 2026 at a glance",
+      "items": [
+        {
+          "icon": "📅",
+          "value": "Feb 7-15",
+          "label": "Exam dates 2026",
+          "color": "green"
+        },
+        {
+          "icon": "📚",
+          "value": "30",
+          "label": "Papers",
+          "color": "amber"
+        },
+        {
+          "icon": "⏳",
+          "value": "3 yrs",
+          "label": "Score validity",
+          "color": "green"
+        },
+        {
+          "icon": "💰",
+          "value": "₹40-80K",
+          "label": "PSU salary/mo",
+          "color": "amber"
+        }
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "Who can apply for GATE",
+      "items": [
+        {
+          "icon": "🎓",
+          "title": "Wide range of degrees",
+          "sub": "Final-year or completed BE, BTech, BSc, BArch, MSc or MCA in engineering, science, architecture or humanities."
+        },
+        {
+          "icon": "🔁",
+          "title": "No age limit, unlimited attempts",
+          "sub": "Anyone eligible can appear at any age, as many times as they want."
+        },
+        {
+          "icon": "🌏",
+          "title": "Foreign nationals",
+          "sub": "Can apply too, but must appear at Indian exam centres."
+        }
+      ]
     },
     {
       "type": "callout",
@@ -279,23 +339,49 @@
     {
       "type": "text",
       "heading": "Branch-wise preparation strategy",
-      "icon": "📖",
       "content": [
-        "Computer Science (CS): Most competitive branch with highest applicants. Core topics: Data Structures and Algorithms (15-20% weightage), DBMS, Operating Systems, Computer Networks, Theory of Computation, Compiler Design, Digital Logic, and Computer Architecture.",
-        "Master DSA first - it's the foundation for most CS questions and also helps in coding interviews.",
-        "Practice coding problems on LeetCode or GeeksforGeeks alongside GATE preparation - GATE CS questions increasingly test algorithmic thinking. Previous year questions from 2010-2025 are available free on GATE official website.",
-        "The question patterns are remarkably consistent - certain topics appear every year without fail.",
-        "Mechanical Engineering (ME): Largest number of PSU vacancies. Core topics: Engineering Mechanics, Strength of Materials, Thermodynamics (most important - 15-20% weightage), Fluid Mechanics, Heat Transfer, Manufacturing Processes, Industrial Engineering, and Machine Design.",
-        "Thermodynamics and Fluid Mechanics together account for 30%+ of the paper.",
-        "ME preparation is more formula-heavy than CS. Create a formula sheet for each subject - write every formula on A4 sheets and pin them on your study wall.",
-        "Revise these sheets daily. For numerical questions, practice from previous year papers - GATE ME repeats numerical problem patterns extensively.",
-        "Electrical Engineering (EE): Second-most popular for PSU jobs. Core topics: Power Systems (highest weightage - 15-18%), Control Systems, Electrical Machines, Network Theory, Analog and Digital Electronics, Signals and Systems, Electromagnetic Theory.",
-        "Power Systems is the bread-and-butter topic - master it thoroughly for both GATE and PSU interviews.",
-        "EE has the most diverse PSU options - NTPC, Power Grid, BHEL, NHPC, and state electricity boards all recruit through GATE. Many EE students score well in GATE but struggle in PSU interviews because they focus only on theory.",
-        "Understand practical applications - how a transformer works in a substation, how load dispatch centers operate, how renewable energy integrates with the grid.",
-        "Civil Engineering (CE): Growing PSU demand (NHAI, NHPC, WAPCOS, state PWDs). Core topics: Structural Engineering (RCC, Steel, Structural Analysis - combined 25-30%), Geotechnical Engineering, Transportation Engineering, Environmental Engineering, Fluid Mechanics and Hydraulics, Surveying.",
-        "Structural Engineering is the most scoring topic if you master the concepts.",
-        "Electronics and Communication (EC): Core topics: Analog Circuits, Digital Circuits, Signals and Systems, Control Systems, Communication Systems, Electromagnetic Theory, VLSI Design. Network Theory questions overlap with EE - practice both sets of previous year papers for maximum coverage."
+        "Different branches reward different focus. Master the 5 to 6 topics that carry most of your paper, then add breadth.",
+        "Previous year papers from 2010 to 2025 are free on the official GATE site, and the patterns repeat."
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "Core scoring topics by branch",
+      "items": [
+        {
+          "icon": "💻",
+          "title": "Computer Science (CS)",
+          "sub": "DSA (15-20%), DBMS, OS, Computer Networks, Theory of Computation, Compiler Design, Digital Logic, Architecture."
+        },
+        {
+          "icon": "⚙️",
+          "title": "Mechanical (ME)",
+          "sub": "Thermodynamics and Fluid Mechanics together cross 30%. Plus SOM, Heat Transfer, Manufacturing, Machine Design."
+        },
+        {
+          "icon": "⚡",
+          "title": "Electrical (EE)",
+          "sub": "Power Systems (15-18%), Control Systems, Machines, Network Theory, Electronics, Signals, EMT."
+        },
+        {
+          "icon": "🏗️",
+          "title": "Civil (CE)",
+          "sub": "Structural (RCC, Steel, Analysis, 25-30%), Geotech, Transportation, Environmental, Hydraulics, Surveying."
+        },
+        {
+          "icon": "📡",
+          "title": "Electronics (EC)",
+          "sub": "Analog, Digital, Signals and Systems, Control, Communication, EMT, VLSI. Network Theory overlaps with EE."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": [
+        "For CS, build DSA first and practise on LeetCode or GeeksforGeeks, since GATE increasingly tests algorithmic thinking.",
+        "ME is formula-heavy, so keep a formula sheet per subject and revise it daily.",
+        "For EE, Power Systems is the bread-and-butter topic for both the paper and PSU interviews.",
+        "EE has the widest PSU options: NTPC, Power Grid, BHEL, NHPC and state boards all hire through GATE."
       ]
     },
     {
@@ -320,26 +406,166 @@
     },
     {
       "type": "text",
-      "heading": "PSU recruitment through GATE - complete guide",
-      "icon": "💼",
+      "heading": "PSU recruitment through GATE",
       "content": [
-        "The PSU recruitment process: Company releases notification mentioning required GATE paper and cutoff score → You apply online with your GATE scorecard → Shortlisted candidates are called for Group Discussion (some PSUs) and Personal Interview → Final selection based on GATE score + GD/PI performance. Weightage varies: some PSUs use 85% GATE + 15% interview, others use 75-25.",
-        "Top PSUs by package: ONGC (Rs 12-15 LPA starting), IOCL (Rs 11-14 LPA), NTPC (Rs 10-13 LPA), BHEL (Rs 8-11 LPA), Power Grid (Rs 10-13 LPA), GAIL (Rs 11-14 LPA), BPCL/HPCL (Rs 10-13 LPA), SAIL (Rs 8-11 LPA). These packages include basic pay, DA, HRA, and perks like subsidized housing, medical, and LTC.",
-        "Total CTC is significantly higher than in-hand salary.",
-        "PSU interview preparation: Unlike UPSC interviews, PSU interviews are heavily technical. They'll ask core engineering questions from your GATE subjects.",
-        "Common questions: 'Explain the working of a thermal power plant' (NTPC), 'What is load flow analysis?' (Power Grid), 'Explain the refining process of crude oil' (IOCL). Revise your GATE subjects before the interview - treat it as a technical viva.",
-        "Timing is crucial: PSU notifications come at different times throughout the year. ONGC typically recruits in October-December, NTPC in January-March, IOCL in June-August.",
-        "Apply to every PSU in your branch - more applications = more chances. Some candidates receive 3-4 PSU offers from a single GATE score and negotiate the best posting location.",
-        "GATE score vs PSU cutoff: For top PSUs (ONGC, IOCL, NTPC), you typically need a GATE score in the top 500-1000 rank or 600+ out of 1000 marks. For second-tier PSUs (SAIL, BHEL, state electricity boards), a score of 450-550 is usually sufficient.",
-        "For state PSUs and smaller organizations, even 350-400 can get you calls. Don't assume your score is 'too low' - apply everywhere and let the cutoffs decide."
+        "PSU hiring runs off your GATE score, not a separate exam.",
+        "Each company releases its own notification with a required paper and cutoff."
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "Visual: Exam Pattern",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Exam Pattern</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">15</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">General Aptitude (Ve</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">10 Qs</text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">85</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Subject-specific (En</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">55 Qs</text></svg>",
-      "caption": "Paper structure",
-      "description": "Subject-wise marks."
+      "type": "process_flow",
+      "heading": "How PSU recruitment works",
+      "steps": [
+        {
+          "icon": "📄",
+          "title": "Notification",
+          "desc": "PSU lists the required GATE paper and cutoff score."
+        },
+        {
+          "icon": "🖊️",
+          "title": "Apply online",
+          "desc": "Submit your GATE scorecard on the PSU portal."
+        },
+        {
+          "icon": "👥",
+          "title": "GD / interview",
+          "desc": "Shortlisted candidates face a technical interview, plus GD at some PSUs."
+        },
+        {
+          "icon": "✅",
+          "title": "Final selection",
+          "desc": "Based on GATE score plus GD/PI, weighted 85-15 or 75-25."
+        }
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "Top PSU starting packages",
+      "items": [
+        {
+          "icon": "🛢️",
+          "title": "ONGC",
+          "sub": "₹12-15 LPA starting"
+        },
+        {
+          "icon": "⛽",
+          "title": "IOCL / GAIL",
+          "sub": "₹11-14 LPA"
+        },
+        {
+          "icon": "🔌",
+          "title": "NTPC / Power Grid",
+          "sub": "₹10-13 LPA"
+        },
+        {
+          "icon": "🏭",
+          "title": "BHEL / SAIL",
+          "sub": "₹8-11 LPA"
+        },
+        {
+          "icon": "🛢️",
+          "title": "BPCL / HPCL",
+          "sub": "₹10-13 LPA, plus DA, HRA and perks"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "content": [
+        "PSU interviews are heavily technical, drawn straight from your GATE subjects.",
+        "Expect questions like how a thermal power plant works (NTPC) or what load flow analysis is (Power Grid).",
+        "Notifications land at different times: ONGC around October to December, NTPC January to March, IOCL June to August.",
+        "For top PSUs you usually need a top 500 to 1000 rank, while second-tier and state PSUs call scores from 350 to 550, so apply everywhere."
+      ]
+    },
+    {
+      "type": "stat_grid",
+      "heading": "GATE exam pattern",
+      "items": [
+        {
+          "icon": "🧮",
+          "value": "100",
+          "label": "Total marks",
+          "color": "green"
+        },
+        {
+          "icon": "❓",
+          "value": "65",
+          "label": "Questions",
+          "color": "amber"
+        },
+        {
+          "icon": "🗣️",
+          "value": "15",
+          "label": "General Aptitude marks",
+          "color": "green"
+        },
+        {
+          "icon": "📖",
+          "value": "85",
+          "label": "Subject marks",
+          "color": "amber"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "GATE marking scheme",
+      "content": [
+        "Knowing the penalty changes how you guess.",
+        "MCQs carry negative marking, but MSQ and NAT questions do not."
+      ]
+    },
+    {
+      "type": "stat_grid",
+      "heading": "Negative marking at a glance",
+      "items": [
+        {
+          "icon": "➖",
+          "value": "-1/3",
+          "label": "Wrong 1-mark MCQ",
+          "color": "amber"
+        },
+        {
+          "icon": "➖",
+          "value": "-2/3",
+          "label": "Wrong 2-mark MCQ",
+          "color": "amber"
+        },
+        {
+          "icon": "✅",
+          "value": "None",
+          "label": "MSQ questions",
+          "color": "green"
+        },
+        {
+          "icon": "✅",
+          "value": "None",
+          "label": "NAT questions",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "The three GATE question types",
+      "items": [
+        {
+          "icon": "🔘",
+          "title": "MCQ (Multiple Choice)",
+          "sub": "Four options, one correct. Carries negative marking of 1/3 or 2/3, so only guess when you can rule out two options."
+        },
+        {
+          "icon": "☑️",
+          "title": "MSQ (Multiple Select)",
+          "sub": "One or more options can be correct. No negative marking, but you score only by picking every correct option and no wrong one."
+        },
+        {
+          "icon": "🔢",
+          "title": "NAT (Numerical Answer)",
+          "sub": "No options at all. You type the value on an on-screen keypad. No negative marking, so always attempt these."
+        }
+      ]
     },
     {
       "type": "text",
@@ -353,6 +579,14 @@
         "MBA makes sense for career changers; GATE makes sense for those who want to stay in engineering.",
         "GATE for PhD and research: GATE qualifiers with high scores can pursue PhD at IITs and IISc with Rs 31,000-35,000/month fellowship (JRF). Research careers at ISRO, DRDO, BARC, and CSIR labs also recruit through GATE.",
         "If you love your engineering subject and want to push boundaries, the research path offers intellectual satisfaction that corporate jobs rarely match."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "After the exam: scorecard and counselling",
+      "content": [
+        "Your GATE 2026 scorecard is free to download until 31 May 2026, then ₹500 per paper until 31 December 2026.",
+        "M.Tech offers and PSU shortlisting run through COAP, the common portal where IITs and IISc publish seat allotments."
       ]
     },
     {
@@ -373,51 +607,71 @@
     {
       "type": "text",
       "heading": "Common mistakes GATE aspirants make",
-      "icon": "⚠️",
       "content": [
-        "Mistake 1: Studying too many subjects equally. GATE has 10-13 subjects depending on branch, but 5-6 subjects contribute 70% of marks.",
-        "Analyze previous year papers to identify these high-weightage subjects and allocate 70% of your time to them. The remaining subjects get 30% - enough for basic questions but not deep mastery.",
-        "Mistake 2: Not practicing Numerical Answer Type (NAT) questions. NAT questions have no options - you type the numerical answer directly.",
-        "Partial marking doesn't apply. Many students comfortable with MCQs struggle with NAT because they rely on option elimination rather than actual calculation.",
-        "Practice NAT-type problems separately - they require precise calculations without the safety net of options.",
-        "Mistake 3: Ignoring negative marking strategy. MCQs have 1/3 negative marking for 1-mark questions and 2/3 for 2-mark questions.",
-        "Random guessing has negative expected value. But if you can eliminate 2 options, guessing between the remaining 2 has positive expected value.",
-        "Never guess on 2-mark MCQs unless you can eliminate at least 2 options - the 2/3 penalty is severe.",
-        "Mistake 4: Not using virtual calculator practice. GATE provides an on-screen virtual calculator during the exam.",
-        "Physical calculators are not allowed. If you've never used the virtual calculator, you'll be significantly slower during the exam.",
-        "Practice with the virtual calculator available on the GATE official website - spend 30 minutes getting comfortable with its interface before exam day.",
-        "Mistake 5: Starting preparation too late. GATE requires 6-8 months of focused preparation for a good score (500+ out of 1000).",
-        "Starting 2-3 months before the exam limits you to revising basics - not enough for IIT admission or top PSU selection. Begin by July for the February exam at the latest."
+        "A few avoidable mistakes cost more marks than weak concepts.",
+        "Fix these early."
       ]
     },
     {
-      "type": "text",
-      "heading": "GATE coaching - online vs offline vs self-study",
-      "icon": "🎓",
-      "content": [
-        "Self-study is viable for GATE if you have strong fundamentals from your BTech. Use standard textbooks + previous year papers + free YouTube lectures (NPTEL, Unacademy).",
-        "Cost: nearly zero. Success rate: lower than coaching because of lack of structure and peer competition.",
-        "Best for: disciplined students from good engineering colleges who already understand 60%+ of the syllabus.",
-        "Online coaching (Made Easy Online, GATE Academy, Unacademy GATE): Rs 8,000-25,000 for complete course. Recorded lectures, practice tests, doubt sessions.",
-        "Flexibility to study at your own pace. Best for: working professionals preparing alongside jobs, students in remote locations.",
-        "The quality gap between online and offline has narrowed significantly - most GATE toppers now use online resources.",
-        "Offline coaching (Made Easy, ACE Academy, IES Master - Hyderabad/Delhi): Rs 50,000-1,20,000 for 8-12 month programs. Classroom teaching, printed study material, test series, and peer group.",
-        "Best for: students who need external structure, first-time serious aspirants, those who struggle with self-discipline. Hyderabad and Delhi are the two main coaching hubs for GATE.",
-        "The test series is more important than the coaching. Even if you self-study, buy a test series from a reputed coaching institute.",
-        "The mock tests simulate actual GATE difficulty and interface. Test series costs Rs 2,000-5,000 - a small investment that provides massive value through performance benchmarking and weak area identification."
+      "type": "icon_list",
+      "heading": "5 mistakes that cost marks",
+      "items": [
+        {
+          "icon": "📚",
+          "title": "Studying everything equally",
+          "sub": "5-6 subjects carry 70% of marks. Give them 70% of your time."
+        },
+        {
+          "icon": "🔢",
+          "title": "Skipping NAT practice",
+          "sub": "No options, no partial marks. Practise numerical-answer questions separately."
+        },
+        {
+          "icon": "➖",
+          "title": "Ignoring negative marking",
+          "sub": "MCQs lose 1/3 or 2/3 per wrong answer. Only guess if you can rule out 2 options."
+        },
+        {
+          "icon": "🧮",
+          "title": "Not practising the virtual calculator",
+          "sub": "Physical calculators are banned. Practise the on-screen one before exam day."
+        },
+        {
+          "icon": "⏰",
+          "title": "Starting too late",
+          "sub": "A good score needs 6-8 months. Begin by July for the February exam."
+        }
+      ]
+    },
+    {
+      "type": "comparison_card",
+      "heading": "GATE coaching: which mode fits you",
+      "win": {
+        "name": "Online coaching",
+        "amount": "₹8,000-25,000",
+        "sub": "Recorded lectures, tests and doubt sessions. Most toppers now study online. Best for working pros and remote students."
+      },
+      "others": [
+        {
+          "name": "Self-study",
+          "amount": "Near zero",
+          "sub": "Textbooks, previous papers and NPTEL or YouTube. Best for disciplined students who already know 60%+ of the syllabus."
+        },
+        {
+          "name": "Offline coaching",
+          "amount": "₹50,000-1,20,000",
+          "sub": "Classroom, printed material and peer group. Best if you need structure. Main hubs: Hyderabad and Delhi."
+        },
+        {
+          "name": "Test series (any mode)",
+          "amount": "₹2,000-5,000",
+          "sub": "Matters more than the coaching itself. Simulates real GATE difficulty and flags weak areas."
+        }
       ]
     },
     {
       "type": "pullquote",
       "text": "GATE is the rare exam that keeps three doors open simultaneously - IIT M.Tech admissions, PSU jobs with ₹50,000+ starting salary, and direct PhD opportunities at premier research institutions."
-    },
-    {
-      "type": "svg_block",
-      "heading": "GATE Score Uses",
-      "icon": "🎯",
-      "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">Three Career Paths After GATE</text><rect x=\"30\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"130\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">IIT M.Tech admission</text><rect x=\"250\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"350\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">PSU jobs ₹50K+ start</text><rect x=\"470\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"570\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#92400E\">PhD fellowships ₹31K/m</text></svg>",
-      "caption": "A single GATE score opens doors to academics, PSUs, and research simultaneously",
-      "description": "PSUs like IOCL, NTPC, BHEL recruit directly through GATE scores."
     }
   ],
   "important_dates": [
@@ -489,6 +743,22 @@
     {
       "question": "What GATE rank is needed for IIT MTech?",
       "answer": "Top IITs (Bombay, Delhi, Madras, Kanpur): GATE rank under 200-500 for popular branches (CS, EE). Less popular branches: rank 500-2000.<br><br>Second-tier IITs and NITs: rank 1000-5000. The exact cutoff depends on branch, category, and year.<br><br>A GATE score of 700+ (out of 1000) typically gets calls from multiple IITs."
+    },
+    {
+      "question": "Is there an age limit for GATE?",
+      "answer": "No. There is no age limit for GATE, and no cap on the number of attempts. Anyone who meets the educational eligibility can appear, at any age."
+    },
+    {
+      "question": "How many questions and marks are there in GATE?",
+      "answer": "Each GATE paper has 65 questions for 100 marks, in a 3-hour computer-based test. General Aptitude carries 15 marks and the subject section carries 85."
+    },
+    {
+      "question": "Is a calculator allowed in the GATE exam?",
+      "answer": "No physical calculator is allowed. GATE provides an on-screen virtual scientific calculator, so practise with it before exam day."
+    },
+    {
+      "question": "How many times is GATE held in a year?",
+      "answer": "GATE is held once a year, usually in February. The score then stays valid for three years."
     }
   ],
   "official_portal": {
