@@ -2,7 +2,7 @@
   "slug": "age-relaxation",
   "title": "Age Relaxation Meaning + Rules 2026: SC/ST, OBC, EWS",
   "meta_description": "What age relaxation means, and the rules: SC/ST +5, OBC +3, PwD +10 years. EWS gets none. Plus what 'whether seeking age relaxation' means on forms.",
-  "last_reviewed": "May 2026",
+  "last_reviewed": "June 2026",
   "tags": [
     "age relaxation",
     "government jobs",
@@ -19,7 +19,7 @@
   "hero": {
     "one_liner": "Age relaxation means extra years added to the upper age limit for reserved categories. SC/ST get +5, OBC +3, PwD +10. Here is what it means, who qualifies, and what the form is asking.",
     "icon": "🕐",
-    "updated_date": "May 2026",
+    "updated_date": "June 2026",
     "tags": [
       "Age Limit",
       "Reservation",
@@ -80,7 +80,7 @@
       "type": "modern_callout",
       "variant": "warning",
       "title": "Age Relaxation is NOT Automatic: You Must Claim It",
-      "content": "Many candidates assume that being SC/ST or OBC automatically gives them extra years to apply. It does not. You must claim age relaxation explicitly in your application form by selecting the correct category AND uploading a valid category certificate. If you forget to claim or upload an invalid certificate, you will be treated as General category and rejected for being over-age."
+      "content": "Many candidates assume that being SC/ST or OBC automatically gives them extra years to apply. It does not.<br><br>You must claim age relaxation explicitly in your application form by selecting the correct category AND uploading a valid category certificate. If you forget to claim or upload an invalid certificate, you will be treated as General category and rejected for being over-age."
     },
     {
       "type": "text",
@@ -92,6 +92,21 @@
         "In plain terms: it is the government letting some people apply a few years past the normal cut-off. SC and ST candidates get the most among the main categories, at 5 years.",
         "It is never automatic. You must claim it on the form and prove it with a certificate at verification, or you are treated as a general candidate."
       ]
+    },
+    {
+      "type": "text",
+      "heading": "Whether Seeking Age Relaxation: Hindi Meaning (Form Question)",
+      "icon": "📋",
+      "content": [
+        "On government forms, the question 'Whether seeking age relaxation' means: 'Kya aap aayu mein chhoot chahte hain?' (क्या आप आयु में छूट चाहते हैं?). If you belong to SC/ST/OBC/PwD/Ex-Serviceman and are over the general age limit, select 'Yes'.",
+        "If you are within the general age limit (even if you belong to a reserved category), select 'No'. You only need to claim age relaxation when your age exceeds the general category upper limit."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "info",
+      "title": "'Are you claiming any additional age relaxation?' meaning",
+      "content": "This form question appears after the basic category selection. It asks if you have MULTIPLE relaxation claims (e.g., OBC + PwD, or Ex-Serviceman + SC/ST).<br><br>If you qualify under two categories, select 'Yes' and choose the one that gives you the MOST additional years. You cannot add both relaxations together unless the notification explicitly says so."
     },
     {
       "type": "table",
@@ -225,11 +240,25 @@
       "heading": "Age Relaxation in Major Exams: UPSC, SSC, Railway, Bank",
       "icon": "📋",
       "content": [
-        "UPSC Civil Services (IAS/IPS/IFS): General: 21 to 32 years. OBC: up to 35 years (3 years relaxation). SC/ST: up to 37 years (5 years). PwBD General: up to 42 years. PwBD OBC: up to 45 years. PwBD SC/ST: up to 47 years. Maximum attempts: General 6, OBC 9, SC/ST unlimited (till age limit). Defence services personnel: additional relaxation of up to 5 years.",
-        "SSC CGL / CHSL / GD / CPO: Standard central government relaxation applies: OBC +3 years, SC/ST +5 years, PwD +10 years (cumulative with category). For SSC CGL: General upper limit is typically 30–32 years depending on post. For SSC GD Constable: General 18–23, OBC up to 26, SC/ST up to 28.",
-        "Railway (RRB NTPC / ALP / Group D): Standard relaxation applies. RRB NTPC: General 18–30, OBC up to 33, SC/ST up to 35, PwD General up to 40, PwD OBC up to 43, PwD SC/ST up to 45. Ex-servicemen: deduct actual service + 3 years from age (minimum residual service = 6 months).",
-        "Banking (IBPS PO / SBI PO / IBPS Clerk / RRB): For Officer Scale-I (PO): General 20–30, OBC up to 33, SC/ST up to 35. For Office Assistant (Clerk): General 18–28, OBC up to 31, SC/ST up to 33. PwBD: +10 years (General), +13 (OBC), +15 (SC/ST). Ex-servicemen in banking: typically up to 45 years for Group C posts.",
-        "State PSC exams: Age limits and relaxation vary by state. Generally follow central norms but states can grant additional relaxation. For example: UP adds extra 5 years for state residents; Rajasthan has different limits for state domicile. Always check the specific state PSC notification for exact age limits."
+        "UPSC Civil Services (IAS/IPS/IFS): General: 21 to 32 years. OBC: up to 35 years (3 years relaxation).",
+        "SC/ST: up to 37 years (5 years). PwBD General: up to 42 years.",
+        "PwBD OBC: up to 45 years. PwBD SC/ST: up to 47 years.",
+        "Maximum attempts: General 6, OBC 9, SC/ST unlimited (till age limit). Defence services personnel: additional relaxation of up to 5 years.",
+        "SSC CGL / CHSL / GD / CPO: Standard central government relaxation applies: OBC +3 years, SC/ST +5 years, PwD +10 years (cumulative with category). For SSC CGL: General upper limit is typically 30–32 years depending on post.",
+        "For SSC GD Constable: General 18–23, OBC up to 26, SC/ST up to 28."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Age Relaxation in Railways and Banking Exams",
+      "icon": "🚂",
+      "content": [
+        "Railway (RRB NTPC / ALP / Group D): Standard relaxation applies. RRB NTPC: General 18–30, OBC up to 33, SC/ST up to 35, PwD General up to 40, PwD OBC up to 43, PwD SC/ST up to 45.",
+        "Ex-servicemen: deduct actual service + 3 years from age (minimum residual service = 6 months).",
+        "Banking (IBPS PO / SBI PO / IBPS Clerk / RRB): For Officer Scale-I (PO): General 20–30, OBC up to 33, SC/ST up to 35. For Office Assistant (Clerk): General 18–28, OBC up to 31, SC/ST up to 33.",
+        "PwBD: +10 years (General), +13 (OBC), +15 (SC/ST). Ex-servicemen in banking: typically up to 45 years for Group C posts.",
+        "State PSC exams: Age limits and relaxation vary by state. Generally follow central norms but states can grant additional relaxation.",
+        "For example: UP adds extra 5 years for state residents; Rajasthan has different limits for state domicile. Always check the specific state PSC notification for exact age limits."
       ]
     },
     {
@@ -237,8 +266,10 @@
       "heading": "Eligibility Criteria for Each Relaxation Category",
       "icon": "✅",
       "content": [
-        "Each age relaxation category has specific eligibility requirements you must satisfy at the time of application. Understanding these criteria prevents ineligibility despite claiming relaxation. Here's what each category requires:",
-        "SC/ST candidates need a valid caste certificate from the District Collector (or equivalent) showing your community. School/college records often establish community history. Certificate has no expiry."
+        "Each age relaxation category has specific eligibility requirements you must satisfy at the time of application. Understanding these criteria prevents ineligibility despite claiming relaxation.",
+        "Here's what each category requires:",
+        "SC/ST candidates need a valid caste certificate from the District Collector (or equivalent) showing your community. School/college records often establish community history.",
+        "Certificate has no expiry."
       ]
     },
     {
@@ -271,15 +302,18 @@
       "type": "modern_callout",
       "variant": "warning",
       "title": "OBC Creamy Layer: The Hidden Disqualifier",
-      "content": "If your family income exceeds Rs 8 lakh per year (non-agricultural), you fall in OBC Creamy Layer and LOSE the +3 year relaxation. Government employees at Group A level automatically push children into creamy layer regardless of total income. Income certificate must be from current financial year, issued within last 6 months."
+      "content": "If your family income exceeds Rs 8 lakh per year (non-agricultural), you fall in OBC Creamy Layer and LOSE the +3 year relaxation. Government employees at Group A level automatically push children into creamy layer regardless of total income.<br><br>Income certificate must be from current financial year, issued within last 6 months."
     },
     {
       "type": "text",
       "heading": "How Each Category's Relaxation Actually Works",
       "icon": "📋",
       "content": [
-        "The mathematics of age relaxation is simple but consequential. If your category has +5 year relaxation and the exam upper age limit is 32, you can apply until you turn 37. The +3 for OBC means application until 35, the +10 for PwD means until 42. Ex-Servicemen calculations vary by service period and are explained separately.",
-        "What confuses most candidates is the OBC-NCL income condition. The Rs 8 lakh limit applies to family annual income from all non-agricultural sources. Family includes both parents (or spouse if married), and income includes salary, business, professional fees, capital gains, and pension. Agricultural income is excluded entirely. Government employee parents' children are particularly at risk: any Group A officer's children fall in creamy layer regardless of total family income.",
+        "The mathematics of age relaxation is simple but consequential. If your category has +5 year relaxation and the exam upper age limit is 32, you can apply until you turn 37.",
+        "The +3 for OBC means application until 35, the +10 for PwD means until 42. Ex-Servicemen calculations vary by service period and are explained separately.",
+        "What confuses most candidates is the OBC-NCL income condition. The Rs 8 lakh limit applies to family annual income from all non-agricultural sources.",
+        "Family includes both parents (or spouse if married), and income includes salary, business, professional fees, capital gains, and pension. Agricultural income is excluded entirely.",
+        "Government employee parents' children are particularly at risk: any Group A officer's children fall in creamy layer regardless of total family income.",
         "PwD relaxation, increased to +10 years in 2016 under the Rights of Persons with Disabilities (RPwD) Act, applies to 21 different disability categories: visually impaired, hearing impaired, locomotor disability, mental illness, autism, intellectual disability, blood disorders, multiple disabilities, and more. The medical certificate must explicitly state your disability category and percentage."
       ]
     },
@@ -299,7 +333,8 @@
       "icon": "♿",
       "content": [
         "Persons with Benchmark Disability (PwBD): earlier called PwD: get age relaxation only if they have a minimum 40% disability certified by a government medical board. The relaxation is cumulative with category relaxation:",
-        "General PwBD: +10 years. OBC PwBD: +13 years (10 + 3). SC/ST PwBD: +15 years (10 + 5). This cumulative relaxation means an SC/ST PwBD candidate with a general upper limit of 27 years can apply up to age 42.",
+        "General PwBD: +10 years. OBC PwBD: +13 years (10 + 3).",
+        "SC/ST PwBD: +15 years (10 + 5). This cumulative relaxation means an SC/ST PwBD candidate with a general upper limit of 27 years can apply up to age 42.",
         "PwBD relaxation applies to posts identified as suitable for persons with disabilities. Not all posts are open to all disability types: check the specific recruitment notification for the list of eligible disability categories (Visual, Hearing, Locomotor, etc.) for each post."
       ]
     },
@@ -309,8 +344,10 @@
       "icon": "🎖️",
       "content": [
         "Age relaxation for Ex-Servicemen (Ex-SM) is calculated differently from other categories. The formula is: Actual age minus (years of defence service + 3 years) = effective age for upper limit purposes.",
-        "Example: A candidate is 35 years old and served 8 years in the Army. Effective age = 35 − (8 + 3) = 24 years. So even though the upper limit is 27 years, this candidate at 35 actual years is effectively considered 24: well within the limit.",
-        "For SSC and Railway: Ex-servicemen are generally eligible up to 45 years of age regardless of the above formula, subject to maximum relaxation limits. For UPSC: The deduction method applies. Always carry a valid Ex-Serviceman Discharge Certificate. If you are still in service, you need a certificate showing expected date of discharge within 1 year."
+        "Example: A candidate is 35 years old and served 8 years in the Army. Effective age = 35 − (8 + 3) = 24 years.",
+        "So even though the upper limit is 27 years, this candidate at 35 actual years is effectively considered 24: well within the limit.",
+        "For SSC and Railway: Ex-servicemen are generally eligible up to 45 years of age regardless of the above formula, subject to maximum relaxation limits. For UPSC: The deduction method applies.",
+        "Always carry a valid Ex-Serviceman Discharge Certificate. If you are still in service, you need a certificate showing expected date of discharge within 1 year."
       ]
     },
     {
@@ -344,7 +381,8 @@
       "heading": "Documentation Requirements for Each Category",
       "icon": "📄",
       "content": [
-        "Each relaxation category requires specific documentation that must be ready before you submit your application. Ensuring complete documentation prevents rejection during verification. Beyond the basic certificate, here are the additional documents each category needs:"
+        "Each relaxation category requires specific documentation that must be ready before you submit your application. Ensuring complete documentation prevents rejection during verification.",
+        "Beyond the basic certificate, here are the additional documents each category needs:"
       ]
     },
     {
@@ -383,9 +421,12 @@
       "heading": "Where to Get Each Certificate",
       "icon": "🏛️",
       "content": [
-        "All caste and income certificates come from the same revenue authorities: Tehsildar, SDM (Sub-Divisional Magistrate), or District Collector's office. Most states now allow online application through portals like e-District (UP), Mee Seva (Telangana, AP), Aaple Sarkar (Maharashtra), Seva Sindhu (Karnataka), RTPS (Bihar), and e-Mitra (Rajasthan). Processing time is 15-30 days for first-time issuance, 7-15 days for duplicates.",
-        "PwD/PwBD certificates come exclusively from Government Medical Boards constituted at district hospitals or designated specialty hospitals. Private hospital disability assessments are not accepted. The Unique Disability ID (UDID) card from swavlambancard.gov.in is the modern replacement, accepted across all government applications and considered more authoritative than older paper certificates.",
-        "Ex-Servicemen documents are issued by the parent service (Army, Navy, Air Force) at the time of discharge and cannot be reissued from civilian authorities. Lost discharge books require an application to the relevant Records Office (e.g., Army Record Office for Army personnel) with affidavit. Pension Payment Order (PPO) is issued by Defence Pension Disbursing Office and serves as alternative proof."
+        "All caste and income certificates come from the same revenue authorities: Tehsildar, SDM (Sub-Divisional Magistrate), or District Collector's office. Most states now allow online application through portals like e-District (UP), Mee Seva (Telangana, AP), Aaple Sarkar (Maharashtra), Seva Sindhu (Karnataka), RTPS (Bihar), and e-Mitra (Rajasthan).",
+        "Processing time is 15-30 days for first-time issuance, 7-15 days for duplicates.",
+        "PwD/PwBD certificates come exclusively from Government Medical Boards constituted at district hospitals or designated specialty hospitals. Private hospital disability assessments are not accepted.",
+        "The Unique Disability ID (UDID) card from swavlambancard.gov.in is the modern replacement, accepted across all government applications and considered more authoritative than older paper certificates.",
+        "Ex-Servicemen documents are issued by the parent service (Army, Navy, Air Force) at the time of discharge and cannot be reissued from civilian authorities. Lost discharge books require an application to the relevant Records Office (e.g., Army Record Office for Army personnel) with affidavit.",
+        "Pension Payment Order (PPO) is issued by Defence Pension Disbursing Office and serves as alternative proof."
       ]
     },
     {
@@ -429,7 +470,8 @@
       "heading": "Certificate Renewal & Validity Issues",
       "icon": "🔄",
       "content": [
-        "Age relaxation certificates have different validity periods. Many candidates lose eligibility because their certificate expires during the recruitment process. Understanding renewal rules prevents this critical mistake:"
+        "Age relaxation certificates have different validity periods. Many candidates lose eligibility because their certificate expires during the recruitment process.",
+        "Understanding renewal rules prevents this critical mistake:"
       ]
     },
     {
@@ -468,22 +510,25 @@
       "heading": "Why Renewal Timing Matters for Your Recruitment",
       "icon": "⏰",
       "content": [
-        "Government recruitment processes can take 12-18 months from application to appointment. Your certificate must remain valid throughout this entire window, not just at application date. An OBC-NCL certificate issued today and valid for 1 year will expire mid-process if you apply 6 months before its expiry. When verification or interview happens after expiry, you may be reclassified as General category.",
-        "The safe practice: always have a certificate issued within the last 3 months when you apply for any government exam. For OBC candidates appearing for multiple exams across a year, get the certificate renewed annually in April-May (start of financial year) to maximise its lifetime. Some commissions require self-declaration that you continue to fall in NCL category at the time of medical exam or interview, even with a still-valid certificate."
+        "Government recruitment processes can take 12-18 months from application to appointment. Your certificate must remain valid throughout this entire window, not just at application date.",
+        "An OBC-NCL certificate issued today and valid for 1 year will expire mid-process if you apply 6 months before its expiry. When verification or interview happens after expiry, you may be reclassified as General category.",
+        "The safe practice: always have a certificate issued within the last 3 months when you apply for any government exam. For OBC candidates appearing for multiple exams across a year, get the certificate renewed annually in April-May (start of financial year) to maximise its lifetime.",
+        "Some commissions require self-declaration that you continue to fall in NCL category at the time of medical exam or interview, even with a still-valid certificate."
       ]
     },
     {
       "type": "modern_callout",
       "variant": "warning",
       "title": "The Renewal Trap That Disqualifies Candidates",
-      "content": "If your OBC-NCL certificate is 11 months old at application date, it may expire during the verification stage (which can take 6-12 months). Always apply with a certificate issued within the last 3 months for OBC-NCL. SC/ST candidates do not face this issue. PwD candidates should reassess if their disability category changed."
+      "content": "If your OBC-NCL certificate is 11 months old at application date, it may expire during the verification stage (which can take 6-12 months). Always apply with a certificate issued within the last 3 months for OBC-NCL.<br><br>SC/ST candidates do not face this issue. PwD candidates should reassess if their disability category changed."
     },
     {
       "type": "text",
       "heading": "State-wise Age Relaxation Variations",
       "icon": "🗺️",
       "content": [
-        "While central government exams (UPSC, SSC, Railway, IBPS) follow uniform national rules, state government exams have their own variations. Some states recognise additional categories like MBC (Most Backward Class), EBC (Economically Backward Class), and Special BC. Knowing your state's rules is essential:"
+        "While central government exams (UPSC, SSC, Railway, IBPS) follow uniform national rules, state government exams have their own variations. Some states recognise additional categories like MBC (Most Backward Class), EBC (Economically Backward Class), and Special BC.",
+        "Knowing your state's rules is essential:"
       ]
     },
     {
@@ -539,9 +584,12 @@
       "heading": "When State Rules Differ from Central",
       "icon": "📍",
       "content": [
-        "When applying for state government jobs, the state PSC's specific rules apply. When applying for central jobs through state offices, central rules apply universally. The confusion arises in autonomous bodies, state PSUs, and joint recruitment notifications which may follow either set of rules depending on the funding pattern.",
-        "Andhra Pradesh and Telangana recognise Backward Class (BC) separately from OBC, with the BC category split into BC-A, BC-B, BC-C, BC-D, and BC-E sub-groups for state recruitment. Tamil Nadu separately identifies Backward Class Muslims, MBCs, and Denotified Communities. Karnataka has Category 1, 2A, 2B, 3A, 3B sub-divisions. Each sub-category may have its own relaxation amount in state recruitment.",
-        "For state exams, always check the specific notification rather than relying on general rules. The same state's police recruitment, teaching recruitment, and PSC recruitment may have different relaxation rules. State government websites typically host the most current notifications under 'Recruitment' or 'Notifications' sections."
+        "When applying for state government jobs, the state PSC's specific rules apply. When applying for central jobs through state offices, central rules apply universally.",
+        "The confusion arises in autonomous bodies, state PSUs, and joint recruitment notifications which may follow either set of rules depending on the funding pattern.",
+        "Andhra Pradesh and Telangana recognise Backward Class (BC) separately from OBC, with the BC category split into BC-A, BC-B, BC-C, BC-D, and BC-E sub-groups for state recruitment. Tamil Nadu separately identifies Backward Class Muslims, MBCs, and Denotified Communities.",
+        "Karnataka has Category 1, 2A, 2B, 3A, 3B sub-divisions. Each sub-category may have its own relaxation amount in state recruitment.",
+        "For state exams, always check the specific notification rather than relying on general rules. The same state's police recruitment, teaching recruitment, and PSC recruitment may have different relaxation rules.",
+        "State government websites typically host the most current notifications under 'Recruitment' or 'Notifications' sections."
       ]
     },
     {
@@ -585,7 +633,7 @@
       "type": "modern_callout",
       "variant": "info",
       "title": "The Most Costly Single Mistake",
-      "content": "Forgetting to TICK your reserved category checkbox in the application form. The certificate alone doesn't claim relaxation, you must explicitly select category in the form AND upload the certificate. Thousands of eligible candidates get treated as General every year and rejected for being over-age, simply because they missed the category checkbox."
+      "content": "Forgetting to TICK your reserved category checkbox in the application form. The certificate alone doesn't claim relaxation, you must explicitly select category in the form AND upload the certificate.<br><br>Thousands of eligible candidates get treated as General every year and rejected for being over-age, simply because they missed the category checkbox."
     },
     {
       "type": "text",
@@ -593,7 +641,8 @@
       "icon": "🔍",
       "content": [
         "Before pressing the final submit button on your application, run through this checklist: (1) Category checkbox ticked correctly, (2) Certificate number entered exactly as on document, (3) Certificate scan uploaded and readable, (4) Name on certificate matches name in application, (5) Date of birth matches across all documents, (6) Income certificate within 6 months for OBC-NCL claims.",
-        "Print a draft of your application form before final submission. Compare every field against your physical certificates. Show it to someone else for a fresh eye, especially for name spelling and dates. Many candidates have lost reserved category benefit because their Aadhaar shows 'Rajesh Kumar' but their school certificate shows 'Rajesh K.', creating a mismatch the verification system flags."
+        "Print a draft of your application form before final submission. Compare every field against your physical certificates.",
+        "Show it to someone else for a fresh eye, especially for name spelling and dates. Many candidates have lost reserved category benefit because their Aadhaar shows 'Rajesh Kumar' but their school certificate shows 'Rajesh K.', creating a mismatch the verification system flags."
       ]
     },
     {
@@ -672,21 +721,23 @@
       "icon": "🎯",
       "content": [
         "Many successful government officers built their careers in stages: entering at a lower post and then leveraging age relaxation to attempt higher posts in subsequent years. For example, joining as Tax Assistant (SSC CGL) at age 27, then attempting Inspector posts at age 30 (still within General age 30), then Group B posts using SC/ST relaxation up to age 35.",
-        "This staircase approach works particularly well for SC/ST and OBC candidates who have the longest effective application window. PwD candidates can attempt government jobs across nearly 2 decades (ages 18 to 42+), giving multiple chances to crack higher posts. The lower-tier entry also provides preparation time, government work culture exposure, and financial stability for serious exam preparation."
+        "This staircase approach works particularly well for SC/ST and OBC candidates who have the longest effective application window. PwD candidates can attempt government jobs across nearly 2 decades (ages 18 to 42+), giving multiple chances to crack higher posts.",
+        "The lower-tier entry also provides preparation time, government work culture exposure, and financial stability for serious exam preparation."
       ]
     },
     {
       "type": "modern_callout",
       "variant": "info",
       "title": "Major Policy Updates: Age Relaxation in 2026",
-      "content": "Transgender category officially recognised for age relaxation since 2023 (+5 years on most central exams, like SC/ST). Single mothers/widows getting age relaxation in some states (Tamil Nadu, Kerala). UPSC has progressively included more PwD sub-categories under 'Section 34' of RPwD Act 2016. Government employees now get 5-year age relaxation on most central exams (was Group C only earlier). Always check the latest notification for the specific exam, rules can change."
+      "content": "Transgender category officially recognised for age relaxation since 2023 (+5 years on most central exams, like SC/ST). Single mothers/widows getting age relaxation in some states (Tamil Nadu, Kerala).<br><br>UPSC has progressively included more PwD sub-categories under 'Section 34' of RPwD Act 2016. Government employees now get 5-year age relaxation on most central exams (was Group C only earlier).<br><br>Always check the latest notification for the specific exam, rules can change."
     },
     {
       "type": "text",
       "heading": "Recent Policy Changes & Evolving Categories",
       "icon": "📰",
       "content": [
-        "Age relaxation policies evolve as social and legal recognition changes. Several categories have been added or expanded in recent years. Stay updated to claim benefits you may not realise you qualify for:"
+        "Age relaxation policies evolve as social and legal recognition changes. Several categories have been added or expanded in recent years.",
+        "Stay updated to claim benefits you may not realise you qualify for:"
       ]
     },
     {
@@ -729,7 +780,7 @@
       "type": "modern_callout",
       "variant": "tip",
       "title": "Always Check the Current Notification",
-      "content": "Government recruitment policies update annually. Old information becomes outdated quickly. The official commission/department website (UPSC.gov.in, SSC.nic.in, RRB India) for each exam carries the latest notification with current relaxation rules. Subscribe to PIB and the specific commission's newsletter for policy alerts."
+      "content": "Government recruitment policies update annually. Old information becomes outdated quickly.<br><br>The official commission/department website (UPSC.gov.in, SSC.nic.in, RRB India) for each exam carries the latest notification with current relaxation rules. Subscribe to PIB and the specific commission's newsletter for policy alerts."
     },
     {
       "type": "timeline",
@@ -775,43 +826,43 @@
     },
     {
       "question": "How many years of age relaxation do SC/ST candidates get?",
-      "answer": "SC and ST candidates get 5 years of age relaxation in all central government exams including UPSC, SSC, RRB, and banking exams. This is a constitutional provision and applies uniformly. SC/ST PwBD candidates get an additional 10 years on top: total 15 years relaxation."
+      "answer": "SC and ST candidates get 5 years of age relaxation in all central government exams including UPSC, SSC, RRB, and banking exams. This is a constitutional provision and applies uniformly.<br><br>SC/ST PwBD candidates get an additional 10 years on top: total 15 years relaxation."
     },
     {
       "question": "How many years of age relaxation do OBC candidates get?",
-      "answer": "OBC (Non-Creamy Layer) candidates get 3 years of age relaxation in central government exams. This relaxation is only for OBC-NCL candidates: OBC Creamy Layer candidates (family income above ₹8 lakh/year) are treated as General category and get no relaxation. The OBC-NCL certificate must be current (issued within 1 year for most exams)."
+      "answer": "OBC (Non-Creamy Layer) candidates get 3 years of age relaxation in central government exams. This relaxation is only for OBC-NCL candidates: OBC Creamy Layer candidates (family income above ₹8 lakh/year) are treated as General category and get no relaxation.<br><br>The OBC-NCL certificate must be current (issued within 1 year for most exams)."
     },
     {
       "question": "What is the age relaxation for PwD/PwBD candidates?",
-      "answer": "Persons with Benchmark Disability (PwBD/PwD) with minimum 40% disability get: +10 years (General), +13 years (OBC), +15 years (SC/ST). This is cumulative: an SC/ST PwBD candidate with a 27-year upper limit can apply up to age 42. A valid disability certificate from a government medical board is required."
+      "answer": "Persons with Benchmark Disability (PwBD/PwD) with minimum 40% disability get: +10 years (General), +13 years (OBC), +15 years (SC/ST). This is cumulative: an SC/ST PwBD candidate with a 27-year upper limit can apply up to age 42.<br><br>A valid disability certificate from a government medical board is required."
     },
     {
       "question": "Is age relaxation available in banking exams like IBPS and SBI?",
-      "answer": "Yes. IBPS PO/SBI PO: General 20–30 years, OBC up to 33, SC/ST up to 35. IBPS Clerk: General 18–28, OBC up to 31, SC/ST up to 33. PwBD gets +10/+13/+15 years depending on category. Ex-servicemen get separate relaxation. Age limits and relaxation are specified in each recruitment notification."
+      "answer": "Yes. IBPS PO/SBI PO: General 20–30 years, OBC up to 33, SC/ST up to 35.<br><br>IBPS Clerk: General 18–28, OBC up to 31, SC/ST up to 33. PwBD gets +10/+13/+15 years depending on category.<br><br>Ex-servicemen get separate relaxation. Age limits and relaxation are specified in each recruitment notification."
     },
     {
       "question": "Can I get age relaxation if I am OBC but in Creamy Layer?",
-      "answer": "No. OBC age relaxation is only for Non-Creamy Layer (NCL) candidates. If your family's annual income from non-government sources exceeds ₹8 lakh, you are in the Creamy Layer and must apply as General category: no reservation or age relaxation applies."
+      "answer": "No. OBC age relaxation is only for Non-Creamy Layer (NCL) candidates.<br><br>If your family's annual income from non-government sources exceeds ₹8 lakh, you are in the Creamy Layer and must apply as General category: no reservation or age relaxation applies."
     },
     {
       "question": "How is age relaxation calculated for Ex-Servicemen?",
-      "answer": "For Ex-Servicemen: Effective age = Actual age − (years of defence service + 3). If you are 35 years old and served 8 years, effective age = 35 − 11 = 24 years. Compare this effective age with the upper age limit. For SSC and Railway, ex-servicemen are generally eligible up to 45 years subject to upper relaxation limits."
+      "answer": "For Ex-Servicemen: Effective age = Actual age − (years of defence service + 3). If you are 35 years old and served 8 years, effective age = 35 − 11 = 24 years.<br><br>Compare this effective age with the upper age limit. For SSC and Railway, ex-servicemen are generally eligible up to 45 years subject to upper relaxation limits."
     },
     {
       "question": "Does age relaxation apply to UPSC IAS exam?",
-      "answer": "Yes. UPSC CSE age limits: General 21–32 years (6 attempts), OBC up to 35 years (9 attempts), SC/ST up to 37 years (unlimited attempts till age limit). PwBD: General up to 42, OBC up to 45, SC/ST up to 47. Age is counted as on August 1 of the exam year."
+      "answer": "Yes. UPSC CSE age limits: General 21–32 years (6 attempts), OBC up to 35 years (9 attempts), SC/ST up to 37 years (unlimited attempts till age limit).<br><br>PwBD: General up to 42, OBC up to 45, SC/ST up to 47. Age is counted as on August 1 of the exam year."
     },
     {
       "question": "What documents are needed to claim age relaxation?",
-      "answer": "For SC/ST: caste certificate from Tehsildar/SDM (no expiry). For OBC-NCL: OBC certificate + income certificate showing family income under Rs 8 lakh (both issued within last 6 months). For PwD/PwBD: disability certificate from Medical Board showing 40%+ disability. For Ex-Servicemen: discharge book or Pension Payment Order (PPO). All certificates must be in the candidate's name exactly matching the Aadhaar and other application documents."
+      "answer": "For SC/ST: caste certificate from Tehsildar/SDM (no expiry). For OBC-NCL: OBC certificate + income certificate showing family income under Rs 8 lakh (both issued within last 6 months).<br><br>For PwD/PwBD: disability certificate from Medical Board showing 40%+ disability. For Ex-Servicemen: discharge book or Pension Payment Order (PPO).<br><br>All certificates must be in the candidate's name exactly matching the Aadhaar and other application documents."
     },
     {
       "question": "Does OBC age relaxation apply to all government exams?",
-      "answer": "OBC age relaxation (+3 years) applies to most central government exams including UPSC, SSC, IBPS Bank, Railways, and most central PSU recruitments. However, certain exams like UPSC CDS, NDA, AFCAT (defence) do NOT provide OBC age relaxation since they are governed by separate defence service rules. Always check the official notification for the specific exam."
+      "answer": "OBC age relaxation (+3 years) applies to most central government exams including UPSC, SSC, IBPS Bank, Railways, and most central PSU recruitments. However, certain exams like UPSC CDS, NDA, AFCAT (defence) do NOT provide OBC age relaxation since they are governed by separate defence service rules.<br><br>Always check the official notification for the specific exam."
     },
     {
       "question": "Can I claim age relaxation in multiple categories?",
-      "answer": "Yes, if you belong to multiple reserved categories, relaxations can stack. For example, a PwD candidate who is also SC/ST can claim +10 years (PwD) + 5 years (SC/ST) = up to 15 years relaxation. However, OBC + PwD does not add up to +13; the rules differ by exam. Always check the specific exam's notification for maximum permissible cumulative relaxation."
+      "answer": "Yes, if you belong to multiple reserved categories, relaxations can stack. For example, a PwD candidate who is also SC/ST can claim +10 years (PwD) + 5 years (SC/ST) = up to 15 years relaxation.<br><br>However, OBC + PwD does not add up to +13; the rules differ by exam. Always check the specific exam's notification for maximum permissible cumulative relaxation."
     },
     {
       "question": "What does 'whether seeking age relaxation' mean on an application form?",
@@ -844,6 +895,18 @@
     {
       "question": "Where do I get an age relaxation certificate for my category?",
       "answer": "SC, ST and OBC certificates come from your local Tehsildar, SDM or District Magistrate. PwD certificates come from a government medical board, and Ex-Servicemen use their discharge record.<br><br>Each must be in the format the recruitment notification specifies, and current for the application year."
+    },
+    {
+      "question": "What does 'whether seeking age relaxation' mean in Hindi?",
+      "answer": "इसका मतलब है: 'क्या आप आयु में छूट चाहते हैं?' (Kya aap aayu mein chhoot chahte hain?). If you are SC/ST/OBC/PwD and over the general age limit, select 'Yes'.<br><br>Otherwise select 'No'."
+    },
+    {
+      "question": "What does 'are you claiming any additional age relaxation' mean on forms?",
+      "answer": "This asks if you have multiple relaxation claims, like OBC + PwD together. Select 'Yes' only if you qualify under more than one category.<br><br>Choose the category that gives you the most extra years."
+    },
+    {
+      "question": "Does EWS get age relaxation in government exams?",
+      "answer": "No. EWS (Economically Weaker Section) does NOT get age relaxation in central government exams.<br><br>EWS gets 10% reservation in seats but the age limit remains the same as General category."
     }
   ],
   "disclaimer": "Age limits and relaxation rules vary by notification. Always check the specific official recruitment notification for exact age limits, relaxation, and certificate validity requirements. Rules may be updated by the recruiting body.",
