@@ -1,12 +1,12 @@
 {
   "slug": "gate",
-  "title": "GATE 2026",
+  "title": "GATE 2026: M.Tech Admission, PSU Jobs & Exam Pattern",
   "meta_description": "GATE 2026 - Graduate Aptitude Test in Engineering. PSU recruitment, M.Tech admission, salary ₹40-80K at PSUs, exam pattern Feb 7-15, and preparation strategy.",
   "hero": {
-    "status": "active",
+    "status": "closed",
     "one_liner": "India's premier engineering entrance exam - gateway to M.Tech at IITs and direct recruitment to PSUs like ONGC, IOCL, NTPC, BHEL at ₹40-80K/month",
     "icon": "⚙️",
-    "updated_date": "May 2026",
+    "updated_date": "June 2026",
     "stats": [
       {
         "label": "Exam Dates",
@@ -451,6 +451,10 @@
   ],
   "faqs": [
     {
+      "question": "What is the full form of GATE?",
+      "answer": "GATE stands for Graduate Aptitude Test in Engineering. It is a national qualifying exam for M.Tech admission and PSU recruitment, conducted by IIT Guwahati for the 2026 cycle."
+    },
+    {
       "question": "Can non-engineering students take GATE?",
       "answer": "Yes. GATE has papers in pure sciences (Physics, Chemistry, Mathematics, Statistics), Life Sciences, Humanities, and other non-engineering subjects.<br><br>B.Sc./M.Sc. graduates can appear in their respective subject papers.<br><br>GATE in these subjects opens doors to M.Tech/PhD at IITs and research positions at labs like ISRO, DRDO, BARC."
     },
@@ -622,7 +626,7 @@
       }
     ]
   },
-  "last_reviewed": "May 2026",
+  "last_reviewed": "June 2026",
   "category": "engineering",
   "salary_table": {
     "intro": "In-hand salary ranges from ₹12,400/month during M.Tech to ₹70,000–80,000/month + perks depending on the post and city.",
@@ -663,7 +667,7 @@
       "value": "₹40–80K/mo"
     }
   ],
-  "status": "upcoming",
+  "status": "closed",
   "eligibility_data": {
     "reference_date": "As per notification",
     "default_education": "B.E./B.Tech or equivalent from recognised institution",
@@ -675,5 +679,10 @@
         "max_age": 65
       }
     ]
-  }
+  },
+  "changes_2026": [
+    "IIT Guwahati organised GATE 2026. A new sectional paper, Energy Science (XE-I), was added under the Engineering Sciences (XE) paper.",
+    "The exam was held on February 7, 8, 14 and 15, 2026. Results were declared on 19 March 2026.",
+    "Scorecards stay valid for three years, so a GATE 2026 score can be used for M.Tech admission and PSU recruitment until March 2029."
+  ]
 }
