@@ -199,6 +199,27 @@
       ]
     },
     {
+      "type": "process_flow",
+      "heading": "Vahli Dikri: Three Life Stages",
+      "steps": [
+        {
+          "icon": "🎒",
+          "title": "Class 1 Entry: ₹4,000",
+          "desc": "First instalment when daughter is admitted to Class 1 in a recognised school."
+        },
+        {
+          "icon": "📚",
+          "title": "Class 9 Entry: ₹6,000",
+          "desc": "Second instalment at secondary school admission. School enrollment proof needed."
+        },
+        {
+          "icon": "🎓",
+          "title": "Age 18: ₹1,00,000",
+          "desc": "Largest instalment. Girl must be unmarried and have passed Class 10."
+        }
+      ]
+    },
+    {
       "type": "text",
       "heading": "",
       "content": [
@@ -223,6 +244,12 @@
         "A family with Rs 1.8 lakh in wages and Rs 40,000 from farming has combined income of Rs 2.2 lakh and does not qualify. The income certificate must list every source, not just the primary earner's salary.",
         "The design of the three-instalment structure is intentional from a child-welfare standpoint. The smaller amounts at Class 1 and Class 9 incentivise enrollment and retention at the two moments when dropout risk is highest."
       ]
+    },
+    {
+      "type": "number_highlight",
+      "big": "₹1,10,000",
+      "title": "total benefit per daughter across 3 stages",
+      "desc": "₹4,000 at Class 1 + ₹6,000 at Class 9 + ₹1,00,000 at age 18 (if unmarried)"
     },
     {
       "type": "text",
@@ -310,6 +337,23 @@
       ]
     },
     {
+      "type": "eligibility_check",
+      "heading": "Vahli Dikri Eligibility Quick Check",
+      "qualify": [
+        "First or second daughter in the family",
+        "Born on or after 2 August 2019",
+        "Family income below ₹2 lakh/year",
+        "Gujarat resident with domicile proof",
+        "Enrolled in recognised school (for education instalments)"
+      ],
+      "disqualify": [
+        "Third or later daughter",
+        "Born before 2 August 2019",
+        "Family income above ₹2 lakh",
+        "Girl married before age 18 (loses final ₹1 lakh)"
+      ]
+    },
+    {
       "type": "text",
       "heading": "",
       "content": [
@@ -337,6 +381,27 @@
         "A girl who dropped out after Class 8 and never appeared for the Class 10 board examination does not meet the educational condition for the third instalment even if she is otherwise unmarried and has reached 18. The pass condition requires actual completion of the Class 10 examination, not just school enrollment up to that level.",
         "Families sometimes ask whether an adopted daughter qualifies under Vahli Dikri Yojana. The scheme's eligibility framework focuses on the girl being the first or second daughter in the family unit, rather than specifying biological relationship.",
         "Whether an adopted daughter qualifies should be confirmed directly with the district WCD office. The ICDS supervisor can assist with this and will advise on the supporting documentation needed to establish family membership and birth order."
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "Documents for Each Instalment",
+      "items": [
+        {
+          "icon": "🎒",
+          "title": "Class 1 (₹4,000)",
+          "sub": "Birth certificate, school admission receipt, income certificate, Aadhaar, bank passbook"
+        },
+        {
+          "icon": "📚",
+          "title": "Class 9 (₹6,000)",
+          "sub": "Class 9 enrollment proof from school, updated income certificate, Aadhaar"
+        },
+        {
+          "icon": "🎓",
+          "title": "Age 18 (₹1,00,000)",
+          "sub": "Class 10 pass certificate, age proof, unmarried declaration, Aadhaar, bank account"
+        }
       ]
     },
     {
