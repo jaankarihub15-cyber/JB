@@ -83,47 +83,173 @@
   ],
   "exam_pattern": [
     {
-      "tier_name": "Prelims - Single Paper (3 hours)",
-      "description": "200 MCQs on General Studies. Heavy Rajasthan focus (30-40%). No CSAT, no negative marking. Attempt all 200 questions.",
+      "tier_name": "Prelims - Single Paper (200 marks, 3 hours)",
       "subjects": [
         {
-          "name": "General Studies (including Rajasthan-specific content)",
-          "questions": 200,
-          "marks": 200
+          "name": "General Knowledge & General Science",
+          "marks": 200,
+          "topics": [
+            {
+              "name": "Rajasthan History",
+              "high": true
+            },
+            {
+              "name": "Rajasthan Geography",
+              "high": true
+            },
+            {
+              "name": "Rajasthan Polity & Economy",
+              "high": true
+            },
+            {
+              "name": "Current Affairs",
+              "high": true
+            },
+            {
+              "name": "General Science",
+              "high": false
+            },
+            {
+              "name": "Reasoning & Mental Ability",
+              "high": false
+            }
+          ]
         }
-      ],
-      "total_questions": 200,
-      "total_marks": 200,
-      "duration": "180 minutes",
-      "negative_marking": "1/3rd deducted per wrong answer (NOTE: Most recent RAS exams have negative marking - verify latest notification)"
+      ]
+    },
+    {
+      "tier_name": "Mains - 4 Descriptive Papers (800 marks)",
+      "subjects": [
+        {
+          "name": "General Studies I",
+          "marks": 200,
+          "topics": [
+            {
+              "name": "Indian & Rajasthan History",
+              "high": true
+            },
+            {
+              "name": "Economy & Society",
+              "high": false
+            }
+          ]
+        },
+        {
+          "name": "General Studies II",
+          "marks": 200,
+          "topics": [
+            {
+              "name": "Polity & Governance",
+              "high": true
+            },
+            {
+              "name": "Administration",
+              "high": false
+            }
+          ]
+        },
+        {
+          "name": "General Studies III",
+          "marks": 200,
+          "topics": [
+            {
+              "name": "Science, Tech & Reasoning",
+              "high": false
+            },
+            {
+              "name": "Behaviour & Management",
+              "high": false
+            }
+          ]
+        },
+        {
+          "name": "General Hindi & English",
+          "marks": 200,
+          "topics": [
+            {
+              "name": "Grammar",
+              "high": false
+            },
+            {
+              "name": "Essay & Precis",
+              "high": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tier_name": "Interview (100 marks)",
+      "subjects": [
+        {
+          "name": "Personality Test",
+          "marks": 100,
+          "topics": [
+            {
+              "name": "Rajasthan awareness",
+              "high": true
+            },
+            {
+              "name": "Current affairs",
+              "high": false
+            }
+          ]
+        }
+      ]
     }
   ],
   "major_posts": [
     {
-      "post": "RAS Officer (SDM/ADM level)",
-      "pay_level": "Level 10 (₹56,100)",
-      "in_hand_salary": "₹80,000–1,00,000/month",
+      "post": "RAS Officer (SDM-equivalent)",
+      "pay_level": "State Service (basic ₹56,100)",
+      "in_hand_salary": "~₹65-90k entry",
       "department": "Rajasthan Administrative Service"
     },
     {
-      "post": "RPS Officer (DSP level)",
-      "pay_level": "Level 10",
-      "in_hand_salary": "₹80,000–1,00,000/month",
+      "post": "RPS Officer (DySP)",
+      "pay_level": "State Service",
+      "in_hand_salary": "~₹65-90k entry",
       "department": "Rajasthan Police Service"
     },
     {
-      "post": "RTS Officer (Revenue)",
-      "pay_level": "Level 10",
-      "in_hand_salary": "₹75,000–90,000/month",
-      "department": "Commercial Taxes/GST Department"
+      "post": "Tehsildar / RTS",
+      "pay_level": "Subordinate Service",
+      "in_hand_salary": "~₹50-70k",
+      "department": "Revenue Department"
+    },
+    {
+      "post": "BDO / Group B posts",
+      "pay_level": "Subordinate Service",
+      "in_hand_salary": "~₹45-65k",
+      "department": "Various departments"
     }
   ],
   "extra_sections": [
     {
-      "heading": "",
-      "type": "svg_block",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">RPSC RAS Rajasthan's premier civil servi</text><rect x=\"50\" y=\"50\" width=\"190\" height=\"75\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"145\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#145236\">Prelims</text><text x=\"145\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">150 MCQs GS + Raj GK</text><rect x=\"260\" y=\"50\" width=\"190\" height=\"75\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"355\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1E40AF\">Mains</text><text x=\"355\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">4 papers Descriptive</text><rect x=\"470\" y=\"50\" width=\"190\" height=\"75\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"565\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#C2410C\">Interview</text><text x=\"565\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#C2410C\">Final personality te</text></svg>",
-      "caption": "RPSC RAS recruits for Rajasthan Administrative Service, Rajasthan Police Service, and allied state services. One of India's most competitive state PSC exams with 8-10 lakh applicants for 500-1000 posts."
+      "type": "process_flow",
+      "heading": "How RAS selection works",
+      "steps": [
+        {
+          "icon": "📝",
+          "title": "Prelims (screening)",
+          "desc": "One 200-mark objective paper with one-third negative marking. It only shortlists candidates, and its marks do not count in the final merit."
+        },
+        {
+          "icon": "✍️",
+          "title": "Mains (800 marks)",
+          "desc": "Four descriptive papers of 200 marks each. This is where the real merit is built, so answer writing decides almost everything."
+        },
+        {
+          "icon": "🎤",
+          "title": "Interview (100 marks)",
+          "desc": "A personality test before a board. About 15 times the vacancies reach Mains, and far fewer reach this stage."
+        },
+        {
+          "icon": "🏆",
+          "title": "Final merit (900)",
+          "desc": "Your rank comes from Mains plus interview, a total of 900. Document verification and medical fitness follow before you join."
+        }
+      ]
     },
     {
       "heading": "RAS vs UPSC CSE - Comparison",
@@ -187,11 +313,10 @@
       "heading": "What makes RPSC RAS unique among state PSC exams",
       "icon": "🏛️",
       "content": [
-        "RPSC RAS (Rajasthan Administrative Service/Rajasthan Police Service) is consistently ranked among the top 5 most competitive state PSC <a href=\"/exam/tnpsc\" style=\"text-decoration:underline;color:inherit\">exams</a> in India. With 8-10 lakh applicants for 500-1,000 posts, the selection ratio rivals UPSC CSE.",
-        "The exam recruits for SDM, DSP, BDO, and other Group A and B posts in Rajasthan government.",
-        "What makes RAS special is the heavy emphasis on Rajasthan-specific content. Unlike UPSC where <a href=\"/exam/cgpsc\" style=\"text-decoration:underline;color:inherit\">state</a> knowledge is a small component, RAS dedicates an entire Prelims paper and significant Mains portions to Rajasthan history, geography, art and culture, economy, and current affairs.",
-        "A candidate who knows Rajasthan deeply has a structural advantage.",
-        "RAS officers hold real administrative and police power within Rajasthan - SDMs manage sub-divisions covering 2-3 lakh people, DSPs command police stations across a district, BDOs manage rural development in blocks. These postings offer direct governance impact in India's largest <a href=\"/exam/mppsc\" style=\"text-decoration:underline;color:inherit\">state</a> by area.",
+        "RPSC RAS (Rajasthan Administrative Service/Rajasthan Police Service) is consistently ranked among the top 5 most competitive state PSC exams in India. With 8-10 lakh applicants for 500-1,000 posts, the selection ratio rivals UPSC CSE.",
+        "The exam recruits for SDM, DSP, BDO, and other Group A and B posts in Rajasthan government. What makes RAS special is the heavy emphasis on Rajasthan-specific content.",
+        "Unlike UPSC where state knowledge is a small component, RAS dedicates an entire Prelims paper and significant Mains portions to Rajasthan history, geography, art and culture, economy, and current affairs. A candidate who knows Rajasthan deeply has a structural advantage.",
+        "RAS officers hold real administrative and police power within Rajasthan - SDMs manage sub-divisions covering 2-3 lakh people, DSPs command police stations across a district, BDOs manage rural development in blocks. These postings offer direct governance impact in India's largest state by area.",
         "The authority, social respect, and job satisfaction are comparable to IAS in many ways."
       ]
     },
@@ -201,9 +326,8 @@
       "icon": "🎯",
       "content": [
         "RPSC RAS Prelims has 150 questions worth 200 marks with 1/3 negative marking. The cutoff typically falls between 90-110 marks for General category.",
-        "Your strategy should aim for 120+ to clear comfortably.",
-        "Rajasthan GK carries the highest weightage - approximately 40-50 questions in Prelims. This is your scoring advantage over candidates who only prepare from national-level resources.",
-        "Focus on Rajasthan art, culture, geography, history, and current state government schemes.",
+        "Your strategy should aim for 120+ to clear comfortably. Rajasthan GK carries the highest weightage - approximately 40-50 questions in Prelims.",
+        "This is your scoring advantage over candidates who only prepare from national-level resources. Focus on Rajasthan art, culture, geography, history, and current state government schemes.",
         "For Mains, RPSC RAS has 4 papers of 200 marks each (800 total). Paper 3 and 4 are optional subjects - choosing the right optional can make a 50-100 mark difference.",
         "Historically, Public Administration, Sociology, and Hindi Literature have the highest average scores."
       ]
@@ -211,74 +335,110 @@
     {
       "type": "text",
       "heading": "Exam pattern - Prelims, Mains, Interview",
-      "icon": "📝",
       "content": [
-        "Prelims: 150 MCQs in 3 hours covering General Knowledge and General Science. Unlike UPSC which has a separate CSAT paper, RAS Prelims is a single paper.",
-        "Topics include Rajasthan history (Rajput kingdoms, Mewar, Marwar, freedom movement), Rajasthan geography (Thar Desert, Aravalli Range, rivers, climate, minerals), Indian history, polity, economy, general science, and current affairs.",
-        "The Rajasthan-specific questions in Prelims carry 40-50% weightage - approximately 60-75 questions out of 150. This is enormous.",
-        "A candidate who thoroughly knows Rajasthan GK can potentially score 120+ in Prelims from Rajasthan content alone. This is the single biggest strategic advantage in RAS preparation.",
-        "Mains: 4 descriptive papers - GS Paper I (Indian history, world history, Indian polity and governance), GS Paper II (economy, agriculture, geography, social issues), GS Paper III (ethics, general science, technology, Rajasthan-specific), and Hindi and English language paper. Each paper carries 200 marks.",
-        "Total Mains: 800 marks.",
-        "Interview: Carries 100 marks. Tests personality, Rajasthan awareness, administrative aptitude, and communication skills.",
-        "Questions typically focus on your district (local issues, development challenges, famous personalities), current Rajasthan government policies, and hypothetical administrative scenarios. Being articulate in both Hindi and English improves scores."
+        "RAS runs in three stages. The prelims is a single objective paper of 200 marks with 150 questions and three hours.",
+        "Prelims carries five-option MCQs and negative marking of one-third for each wrong answer. It is only a screening test, so its marks never enter the final merit.",
+        "About 15 times the number of vacancies are shortlisted for the Mains. The Mains has four descriptive papers of 200 marks each, totalling 800 marks.",
+        "You must score at least 10% in each paper and 15% overall to stay in the race, with a 5% relaxation for SC and ST candidates.",
+        "The interview adds 100 marks. The final merit is built from Mains plus interview, a total of 900 marks."
       ]
     },
     {
-      "type": "text",
-      "heading": "Rajasthan GK - the score multiplier",
-      "icon": "🏜️",
-      "content": [
-        "Rajasthan History: Rajput kingdoms (Mewar - Rana Pratap, Rana Sanga; Marwar - Rao Jodha, Maharaja Jaswant Singh; Amber/Jaipur - Man Singh, Sawai Jai Singh), Rajputana and the British (treaties, princely states, political agents), Rajasthan's freedom movement (Bijolia movement, Praja Mandal movement, 1857 revolt in Rajasthan), integration of princely states post-independence.",
-        "Rajasthan Geography: Thar Desert (Great Indian Desert - world's most densely populated desert, Indira Gandhi Canal project), Aravalli Range (oldest fold mountain, minerals - marble, sandstone, granite, copper, zinc), Rivers (Luni, Chambal, Banas, Banganga - know origin, tributaries, dams), Climate (Western Rajasthan arid, Eastern Rajasthan semi-arid, Hadoti plateau humid), Wildlife (Ranthambore tigers, Bharatpur birds, Desert National Park, Keoladeo Ghana).",
-        "Rajasthan Art and Culture: Painting schools (Kishangarh - Bani Thani, Mewar - court scenes, Bundi - nature motifs), Folk music and dance (Ghoomar, Kalbelia, Kalbeliya - UNESCO heritage, Langa-Manganiar musicians), Architecture (Jaipur's pink sandstone, Jodhpur's blue city, Udaipur's lake palaces, Jaisalmer's havelis), Fairs and festivals (Pushkar mela, Desert Festival, Gangaur, Teej), Handicrafts (block printing, tie-dye/bandhej, lac bangles, blue pottery).",
-        "Rajasthan Economy: Mining (largest producer of marble, cement-grade limestone, copper, zinc, lead, sandstone in India), Tourism (largest domestic and 4th largest international tourist destination state), Agriculture (bajra, mustard, isabgol, coriander - Rajasthan leads nationally), Renewable energy (largest solar power capacity in India, Bhadla Solar Park - world's largest), Industrial development (Bhilwara textiles, Jaipur gems and jewellery, Jodhpur handicrafts)."
+      "type": "icon_list",
+      "heading": "Rajasthan GK that decides RAS",
+      "items": [
+        {
+          "icon": "🏰",
+          "title": "History",
+          "sub": "Rajput kingdoms (Mewar's Rana Pratap and Rana Sanga, Marwar's Rao Jodha, Amber's Man Singh), the 1857 revolt and the integration of the state."
+        },
+        {
+          "icon": "🏜️",
+          "title": "Geography",
+          "sub": "The Thar desert and the Indira Gandhi Canal, the Aravalli range, rivers, climate zones and the mineral belts of Rajasthan."
+        },
+        {
+          "icon": "🎨",
+          "title": "Art and culture",
+          "sub": "Painting schools (Kishangarh's Bani Thani, Mewar, Bundi), folk music and dance, fairs and festivals, forts and havelis."
+        },
+        {
+          "icon": "🏭",
+          "title": "Economy",
+          "sub": "Rajasthan as India's top producer of marble, limestone, copper, zinc and sandstone, plus tourism, handicrafts and mining."
+        }
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "Visual: Key Numbers",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">~500-900</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Vacancies</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">4+ Lakh</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Applicants</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">₹56K–2L/mo</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Salary</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">21-40 (Gen)</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Age</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
-      "caption": "Key facts",
-      "description": "Quick overview."
-    },
-    {
-      "type": "text",
-      "heading": "RAS preparation strategy - 12 months",
-      "icon": "📅",
-      "content": [
-        "Month 1-3 (Foundation): Start with Rajasthan GK - this is your primary differentiator. Use 'Rajasthan Samanya Gyan' by LN Nathuramka and 'Rajasthan Ka Bhugol' by LC Gupta.",
-        "Simultaneously, read NCERT Class 6-12 for Indian History, Geography, Polity, and Economy. Take a Prelims diagnostic test to identify your baseline.",
-        "Month 4-6 (Build depth): Complete UPSC-level GS books - Laxmikanth (Polity), Spectrum (Modern India), Shankar IAS (Environment). Deepen Rajasthan knowledge with state-specific current affairs from Rajasthan Patrika and Dainik Bhaskar.",
-        "Start Mains answer writing practice - write 2 answers daily (150 words each) on GS topics.",
-        "Month 7-9 (Prelims focus): Switch to Prelims-specific preparation. Solve 10 years of RAS Prelims previous year papers (available at rpsc.rajasthan.gov.in).",
-        "Take 2 Prelims mock tests per week. Focus on Rajasthan GK revision - your target is 65+ out of 75 Rajasthan-specific questions.",
-        "Practice time management - 150 questions in 180 minutes = 72 seconds per question.",
-        "Month 10-12 (Mains + Interview): After clearing Prelims, focus entirely on Mains answer writing. Write 4-5 answers daily across all 4 papers.",
-        "Practice essay writing in both Hindi and English. Revise Rajasthan current affairs of the last 12 months.",
-        "For Interview: prepare your district profile (history, geography, problems, development), 10 current Rajasthan policy topics, and practice speaking in Hindi and English fluently."
+      "type": "stat_grid",
+      "heading": "RAS 2026 at a glance",
+      "items": [
+        {
+          "icon": "📋",
+          "value": "607",
+          "label": "Vacancies 2026",
+          "color": "green"
+        },
+        {
+          "icon": "📅",
+          "value": "29 Nov",
+          "label": "Prelims 2026",
+          "color": "amber"
+        },
+        {
+          "icon": "🎂",
+          "value": "21-40",
+          "label": "Age (General)",
+          "color": "green"
+        },
+        {
+          "icon": "💰",
+          "value": "₹56,100",
+          "label": "Entry basic (RAS)",
+          "color": "green"
+        }
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "Quick Facts",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Quick Facts</text><rect x=\"17\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"94\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">~500-900</text><text x=\"94\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Vacancies</text><rect x=\"187\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"264\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">4+ Lakh</text><text x=\"264\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Applicants</text><rect x=\"357\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"434\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#92400E\">₹56K–2L/mo</text><text x=\"434\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Salary</text><rect x=\"527\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"604\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">21-40 (Gen)</text><text x=\"604\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Age</text></svg>",
-      "caption": "Quick reference facts",
-      "description": "Key facts and numbers at a glance"
+      "type": "process_flow",
+      "heading": "A 12-month RAS plan",
+      "steps": [
+        {
+          "icon": "1️⃣",
+          "title": "Month 1-3: Foundation",
+          "desc": "Start with Rajasthan GK, your biggest differentiator, alongside NCERT Class 6-12 for history, geography, polity and economy. Take a diagnostic test early."
+        },
+        {
+          "icon": "2️⃣",
+          "title": "Month 4-6: Build depth",
+          "desc": "Move to standard GS books like Laxmikanth, Spectrum and Shankar IAS. Begin daily Mains answer writing, around two answers of 150 words."
+        },
+        {
+          "icon": "3️⃣",
+          "title": "Month 7-9: Prelims focus",
+          "desc": "Solve ten years of RAS prelims papers and take two mocks a week. Aim to lock down 65 or more of the roughly 75 Rajasthan-specific questions."
+        },
+        {
+          "icon": "4️⃣",
+          "title": "Month 10-12: Mains and interview",
+          "desc": "After prelims, write four to five answers daily across all four papers in Hindi and English, and revise a year of Rajasthan current affairs."
+        }
+      ]
     },
     {
-      "type": "text",
-      "heading": "RAS vs IAS - honest comparison",
-      "icon": "⚖️",
-      "content": [
-        "Competition level: UPSC CSE has 10-12 lakh applicants for 1,000 posts (1 in 1,000 selection ratio). RPSC RAS has 8-10 lakh applicants for 500-1,000 posts (1 in 1,000-1,600 ratio).",
-        "Both are extremely competitive. However, RAS syllabus is narrower than UPSC - Rajasthan-specific content gives focused preparation targets.",
-        "Career trajectory: IAS officers (All India Service) serve across India with central-state deputation. RAS officers serve only in Rajasthan - no interstate transfers.",
-        "IAS officers reach Secretary/Chief Secretary level. RAS officers can reach Additional Chief Secretary level in Rajasthan.",
-        "IAS starting salary is slightly higher (Pay Level 10 vs RAS at Pay Level 10 but with different grade pay structures in state).",
-        "The practical strategy: Prepare for both simultaneously - 80% syllabus overlap. Attempt UPSC Prelims in June and RPSC RAS Prelims when announced.",
-        "Even if you don't clear UPSC, your preparation gives you a massive advantage in RAS. Many successful RAS officers are aspirants who attempted UPSC for 2-3 years before clearing RAS.",
-        "RAS has a unique advantage: posting in your HOME STATE. Unlike IAS where you might be allotted <a href=\"/exam/bpsc\" style=\"text-decoration:underline;color:inherit\">Bihar</a> while being from Rajasthan, RAS guarantees Rajasthan posting.",
-        "For candidates with strong Rajasthan roots who want to serve their home state, RAS is a conscious first choice - not a consolation prize for missing UPSC."
+      "type": "comparison_card",
+      "heading": "RAS vs IAS - an honest comparison",
+      "win": {
+        "name": "RAS",
+        "amount": "Serve Rajasthan",
+        "sub": "A narrower, Rajasthan-focused syllabus and a home-state posting. You can rise to Additional Chief Secretary level within the state, and the prep overlaps about 80% with UPSC."
+      },
+      "others": [
+        {
+          "name": "IAS",
+          "amount": "All-India service",
+          "sub": "A larger syllabus, all-India postings and central deputation, reaching up to Secretary and Chief Secretary. Far fewer posts for far more applicants."
+        }
       ]
     },
     {
@@ -287,13 +447,12 @@
       "icon": "🏛️",
       "content": [
         "RAS officers start at SDM (Sub-Divisional Magistrate) or equivalent posts. As SDM, you manage a sub-division covering 2-5 tehsils, handle land revenue, law and order, development schemes, disaster management, election duties, and public grievances.",
-        "You're the direct point of contact between the state government and citizens for administrative matters.",
-        "RPS (Rajasthan Police Service) officers start as DSP (Deputy Superintendent of Police). You command 3-5 police stations covering a circle/subdivision.",
-        "Responsibilities include crime investigation oversight, law and order maintenance, VIP security, and community policing. RPS officers can rise to SP (Superintendent of Police) and eventually IG/DIG level.",
-        "Salary: RAS/RPS officers start at Pay Level 10 (Rs 56,100 basic). With DA, HRA, and state-specific allowances, total monthly salary is Rs 85,000-1,10,000 depending on posting location.",
-        "Government vehicle, residential accommodation, medical facilities, and other perks are included. After 15-20 years, salary reaches Rs 1.5-2.5 lakh/month at senior administrative levels.",
-        "Promotion path: SDM/DSP (initial posting) → ADM/ASP (5-7 years) → Collector/DIG level (12-15 years, subject to vacancies and seniority) → Divisional Commissioner/IG (20+ years). The journey from SDM to Collector is the most aspirational - a Collector is the administrative head of an entire district, with authority over all development programs, revenue collection, and disaster response.",
-        "For more details, see our guide on <a href=\"/exam/hpsc\" style=\"text-decoration:underline;color:inherit\">HPSC HCS 2026</a>."
+        "You're the direct point of contact between the state government and citizens for administrative matters. RPS (Rajasthan Police Service) officers start as DSP (Deputy Superintendent of Police).",
+        "You command 3-5 police stations covering a circle/subdivision. Responsibilities include crime investigation oversight, law and order maintenance, VIP security, and community policing.",
+        "RPS officers can rise to SP (Superintendent of Police) and eventually IG/DIG level. Salary: RAS/RPS officers start at Pay Level 10 (Rs 56,100 basic).",
+        "With DA, HRA, and state-specific allowances, total monthly salary is Rs 85,000-1,10,000 depending on posting location. Government vehicle, residential accommodation, medical facilities, and other perks are included.",
+        "After 15-20 years, salary reaches Rs 1.5-2.5 lakh/month at senior administrative levels. Promotion path: SDM/DSP (initial posting) → ADM/ASP (5-7 years) → Collector/DIG level (12-15 years, subject to vacancies and seniority) → Divisional Commissioner/IG (20+ years).",
+        "The journey from SDM to Collector is the most aspirational - a Collector is the administrative head of an entire district, with authority over all development programs, revenue collection, and disaster response. For more details, see our guide on HPSC HCS 2026."
       ]
     },
     {
@@ -323,11 +482,34 @@
       "content": "40-50% of RAS Prelims is Rajasthan-specific content. If you invest 3 months exclusively in Rajasthan GK before starting general GS preparation, you can potentially score 65-75 out of 75 Rajasthan questions - giving you a near-insurmountable lead.<br><br>No other state PSC exam gives this much weightage to state-specific content."
     },
     {
-      "type": "svg_block",
-      "heading": "Visual: Exam Pattern",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Exam Pattern</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">200</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">General Studies (inc</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">200 Qs</text></svg>",
-      "caption": "Paper structure",
-      "description": "Subject-wise marks."
+      "type": "stat_grid",
+      "heading": "Exam structure and marks",
+      "items": [
+        {
+          "icon": "📝",
+          "value": "200",
+          "label": "Prelims (screening)",
+          "color": "amber"
+        },
+        {
+          "icon": "✍️",
+          "value": "800",
+          "label": "Mains (4 papers)",
+          "color": "green"
+        },
+        {
+          "icon": "🎤",
+          "value": "100",
+          "label": "Interview",
+          "color": "green"
+        },
+        {
+          "icon": "🏆",
+          "value": "900",
+          "label": "Final merit",
+          "color": "green"
+        }
+      ]
     },
     {
       "type": "pullquote",
@@ -366,14 +548,29 @@
       ]
     },
     {
-      "type": "text",
-      "heading": "Rajasthan current affairs - what to focus on",
-      "icon": "📰",
-      "content": [
-        "State government schemes and policies: Chiranjeevi Swasthya Bima Yojana (universal health insurance), Indira Gandhi Smartphone Yojana, Rajiv Gandhi Yuva Mitra scheme, Rajasthan Right to Health Act, PM Vishwakarma in Rajasthan context, Jan Aadhaar card system, state budget allocations for key sectors. Know scheme name, objective, beneficiaries, and implementation status.",
-        "Economic developments: Rajasthan Investment Promotion Scheme (RIPS), Special Economic Zones in Jodhpur and Jaipur, petroleum refinery developments, solar energy projects (Bhadla Solar Park expansion, new solar manufacturing units), tourism revenue trends, mining policy changes, MSME growth corridors, and agriculture export initiatives.",
-        "Infrastructure projects: Delhi-Mumbai Industrial Corridor passing through Rajasthan, Jaipur Metro Phase 2, national highway expansion projects, new railway lines, airport development (Jaipur Terminal 2, Udaipur expansion), smart city developments in Jaipur, Udaipur, Kota, and Ajmer, and Eastern Rajasthan Canal Project (ERCP) for drought-prone eastern districts.",
-        "Environmental issues: Thar Desert conservation vs development, Aravalli mining controversy, Chambal river pollution, water table depletion in western Rajasthan, wildlife corridor management (Ranthambore-Sariska tiger corridor), air pollution in Jaipur and Jodhpur, and implementation of green energy policies. These topics frequently appear in Mains Paper III and Interview."
+      "type": "icon_list",
+      "heading": "Rajasthan current affairs to track",
+      "items": [
+        {
+          "icon": "🏥",
+          "title": "State schemes",
+          "sub": "Health, smartphone, farmer and welfare schemes run by the Rajasthan government, with their coverage, launch year and target group."
+        },
+        {
+          "icon": "📈",
+          "title": "Economy",
+          "sub": "The Rajasthan Investment Promotion Scheme, special economic zones at Jodhpur and Jaipur, refinery work and mineral-led growth."
+        },
+        {
+          "icon": "🛣️",
+          "title": "Infrastructure",
+          "sub": "The Delhi-Mumbai Industrial Corridor through Rajasthan, Jaipur Metro expansion and major national highway projects."
+        },
+        {
+          "icon": "🌳",
+          "title": "Environment",
+          "sub": "Thar desert and Aravalli conservation versus mining, Chambal river pollution and the falling water table across the state."
+        }
       ]
     },
     {
@@ -394,12 +591,35 @@
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "RAS Post Hierarchy",
-      "icon": "📊",
-      "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">RPSC RAS Career Progression</text><rect x=\"30\" y=\"50\" width=\"150\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"105\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#1B6B4A\">SDM/DSP entry</text><text x=\"188\" y=\"67\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#1B6B4A\">→</text><rect x=\"200\" y=\"50\" width=\"150\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"275\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#1E40AF\">ADM/Add SP</text><text x=\"358\" y=\"67\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#1B6B4A\">→</text><rect x=\"370\" y=\"50\" width=\"150\" height=\"35\" rx=\"8\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"445\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#92400E\">DM/SP level</text><text x=\"528\" y=\"67\" font-family=\"sans-serif\" font-size=\"12\" fill=\"#1B6B4A\">→</text><rect x=\"540\" y=\"50\" width=\"130\" height=\"35\" rx=\"8\" fill=\"#F3E8FF\" stroke=\"#7C3AED\" stroke-width=\"2\"/><text x=\"605\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#5B21B6\">Secretary level</text></svg>",
-      "caption": "RAS officers can rise to District Collector level in Rajasthan state cadre",
-      "description": "Rajasthan GK and Rajasthani culture papers are critical for RAS mains."
+      "type": "icon_list",
+      "heading": "Services you can join through RAS",
+      "items": [
+        {
+          "icon": "🏛️",
+          "title": "RAS - Rajasthan Administrative Service",
+          "sub": "The flagship State Service. You start around SDM level and can rise to Additional Chief Secretary over a full career."
+        },
+        {
+          "icon": "👮",
+          "title": "RPS - Rajasthan Police Service",
+          "sub": "Enter as a DySP and lead police administration. NCC 'C' certificate holders get preference for this service."
+        },
+        {
+          "icon": "🧮",
+          "title": "RAcS - Rajasthan Accounts Service",
+          "sub": "Handle state finance, budgets and audit. A desk-heavy State Service for those who prefer numbers to field postings."
+        },
+        {
+          "icon": "📜",
+          "title": "RTS - Tehsildar and revenue posts",
+          "sub": "Subordinate revenue services like Tehsildar. Field-facing roles close to land records, revenue and local administration."
+        },
+        {
+          "icon": "🏗️",
+          "title": "BDO and other subordinate posts",
+          "sub": "Block Development Officer and many Group B posts that run rural development and welfare schemes on the ground."
+        }
+      ]
     }
   ],
   "important_dates": [
@@ -450,11 +670,11 @@
     },
     {
       "question": "What resources should I use for Rajasthan-specific GK preparation?",
-      "answer": "Primary resources: (1) 'Rajasthan Adhyayan' by Kuldeep Publication - the standard RAS textbook covering history, geography, art, culture comprehensively. Read this 2-3 times.<br><br>(2) 'Rajasthan History' by L.P. Sharma - focused on Rajasthan history, especially Rajput dynasties and modern periods. (3) Rajasthan Government Yearbook - official publication with current state data, schemes, budget, administration structure.<br><br>Download from rajasthan.gov.in. (4) Lakshya Publication GK books - condensed Rajasthan GK focused on exam-relevant topics.<br><br>(5) Current affairs from: Raj Express, Amar Ujala, Dainik Bhaskar (Rajasthan edition), and Rajasthan government press releases. (6) YouTube channels dedicated to RAS (Utkarsh Classes, Spring Board Academy - Jaipur-based).<br><br>These resources collectively cover 100% of RAS exam scope."
+      "answer": "Primary resources: (1) 'Rajasthan Adhyayan' by Kuldeep Publication, the standard RAS textbook covering history, geography, art and culture. Read it two or three times.<br><br>(2) 'Rajasthan History' by L.P. Sharma, focused on Rajput dynasties and the modern period.<br><br>(3) Rajasthan Government Yearbook, the official source for current state data, schemes and budget. Download it from rajasthan.gov.in.<br><br>(4) Lakshya Publication GK books, condensed Rajasthan GK on exam-relevant topics.<br><br>(5) For current affairs, follow a Rajasthan daily and a monthly state-affairs magazine through the year."
     },
     {
       "question": "What is the RPSC RAS salary?",
-      "answer": "Starting salary at Pay Level 10: Basic Rs 56,100. With DA, HRA, and allowances, total monthly: Rs 85,000-1,10,000.<br><br>Government vehicle, accommodation, medical coverage included. After promotion to senior positions (ADM/DIG level in 12-15 years), salary reaches Rs 1.5-2.5 lakh/month.<br><br>Pension benefits after retirement ensure lifetime financial security."
+      "answer": "It depends on the service. RAS and RPS, the State Services, pay roughly ₹65,000 to ₹90,000 a month at entry, on a basic of ₹56,100 plus DA and HRA.<br><br>Subordinate services like Tehsildar or BDO start a little lower, around ₹45,000 to ₹70,000. The 607 posts span pay levels 10 to 14."
     },
     {
       "question": "Can non-Rajasthan residents apply for RPSC RAS?",
@@ -467,6 +687,10 @@
     {
       "question": "Is RPSC RAS harder than UPSC CSE?",
       "answer": "Different, not directly comparable. UPSC has broader syllabus but tests conceptual understanding.<br><br>RAS has narrower syllabus but deeper Rajasthan-specific knowledge requirements. Competition ratios are similar (1 in 1,000).<br><br>The perception that RAS is 'easier than UPSC' is incorrect - it's a different exam that rewards different preparation strategies. Many RAS toppers have attempted UPSC 2-3 times unsuccessfully."
+    },
+    {
+      "question": "What is the full form of RPSC RAS?",
+      "answer": "RPSC is the Rajasthan Public Service Commission, and RAS is the Rajasthan Administrative Service.<br><br>The exam's official name is the Rajasthan State and Subordinate Services Combined Competitive Examination, often written as RAS/RTS."
     }
   ],
   "official_portal": {
@@ -605,19 +829,25 @@
   "last_reviewed": "May 2026",
   "category": "state-psc",
   "salary_table": {
-    "intro": "In-hand salary ranges from ₹75,000–90,000/month to ₹80,000–1,00,000/month depending on the post and city.",
+    "intro": "The 607 posts span pay levels 10 to 14, so pay depends on the service you get. State Services like RAS and RPS sit higher, while subordinate services start lower.",
+    "label": "Salary",
+    "icon": "💰",
     "rows": [
       {
-        "post": "RAS Officer (SDM/ADM level)",
-        "amount": "₹80,000–1,00,000/month"
+        "post": "RAS / RPS (State Service)",
+        "amount": "~₹65,000–90,000/mo"
       },
       {
-        "post": "RPS Officer (DSP level)",
-        "amount": "₹80,000–1,00,000/month"
+        "post": "Subordinate services",
+        "amount": "~₹45,000–65,000/mo"
       },
       {
-        "post": "RTS Officer (Revenue)",
-        "amount": "₹75,000–90,000/month"
+        "post": "Entry basic (RAS)",
+        "amount": "₹56,100 + DA, HRA"
+      },
+      {
+        "post": "Pay levels",
+        "amount": "L-10 to L-14"
       }
     ]
   },
@@ -674,5 +904,130 @@
         "max_age": 40
       }
     ]
-  }
+  },
+  "post_preferences": {
+    "posts": [
+      {
+        "post": "RAS Officer",
+        "dept": "Rajasthan Administrative Service",
+        "salary_range": "~₹65-90k",
+        "level": "State Service",
+        "attrs": {
+          "salary": 3,
+          "metro": 1,
+          "desk": 1,
+          "promo": 3,
+          "power": 3,
+          "stable": 3
+        },
+        "tags": [
+          "admin",
+          "magistracy",
+          "top post"
+        ]
+      },
+      {
+        "post": "RPS Officer (DySP)",
+        "dept": "Rajasthan Police Service",
+        "salary_range": "~₹65-90k",
+        "level": "State Service",
+        "attrs": {
+          "salary": 3,
+          "metro": 1,
+          "desk": 0,
+          "promo": 2,
+          "power": 3,
+          "stable": 3
+        },
+        "tags": [
+          "police",
+          "field",
+          "power"
+        ]
+      },
+      {
+        "post": "Rajasthan Accounts Service",
+        "dept": "Finance",
+        "salary_range": "~₹60-85k",
+        "level": "State Service",
+        "attrs": {
+          "salary": 2,
+          "metro": 2,
+          "desk": 3,
+          "promo": 2,
+          "power": 2,
+          "stable": 3
+        },
+        "tags": [
+          "finance",
+          "desk",
+          "audit"
+        ]
+      },
+      {
+        "post": "Tehsildar (RTS)",
+        "dept": "Revenue",
+        "salary_range": "~₹50-70k",
+        "level": "Subordinate",
+        "attrs": {
+          "salary": 2,
+          "metro": 0,
+          "desk": 1,
+          "promo": 2,
+          "power": 2,
+          "stable": 3
+        },
+        "tags": [
+          "revenue",
+          "field",
+          "land records"
+        ]
+      },
+      {
+        "post": "Block Development Officer",
+        "dept": "Rural Development",
+        "salary_range": "~₹45-65k",
+        "level": "Subordinate",
+        "attrs": {
+          "salary": 1,
+          "metro": 0,
+          "desk": 1,
+          "promo": 2,
+          "power": 2,
+          "stable": 3
+        },
+        "tags": [
+          "rural dev",
+          "schemes",
+          "field"
+        ]
+      },
+      {
+        "post": "Commercial Tax / Excise Officer",
+        "dept": "Finance and Excise",
+        "salary_range": "~₹50-70k",
+        "level": "Subordinate",
+        "attrs": {
+          "salary": 2,
+          "metro": 1,
+          "desk": 2,
+          "promo": 2,
+          "power": 2,
+          "stable": 3
+        },
+        "tags": [
+          "tax",
+          "desk",
+          "revenue"
+        ]
+      }
+    ]
+  },
+  "changes_2026": [
+    "RPSC released the RAS 2026 notification on 27 May 2026 for 607 posts: 192 State Services and 415 Subordinate Services.",
+    "Applications run from 4 June to 3 July 2026 through the SSO Rajasthan portal. The age range is 21 to 40 with a graduate degree.",
+    "The Prelims is scheduled for 29 November 2026. It is a single 200-mark objective paper with negative marking of one-third per wrong answer.",
+    "Prelims is only a screening test. The final merit comes from Mains (800 marks) plus the interview (100 marks), a total of 900.",
+    "Around 15 times the vacancies are shortlisted for Mains, and the prelims now uses five-option MCQs."
+  ]
 }
