@@ -89,17 +89,47 @@
         {
           "name": "Mathematics (10th class level)",
           "questions": 30,
-          "marks": 30
+          "marks": 30,
+          "topics": [
+            {
+              "name": "Arithmetic",
+              "high": true
+            },
+            {
+              "name": "Data interpretation",
+              "high": false
+            }
+          ]
         },
         {
           "name": "General Intelligence & Reasoning",
           "questions": 30,
-          "marks": 30
+          "marks": 30,
+          "topics": [
+            {
+              "name": "Series & coding",
+              "high": true
+            },
+            {
+              "name": "Puzzles",
+              "high": false
+            }
+          ]
         },
         {
           "name": "General Awareness & Current Affairs",
           "questions": 40,
-          "marks": 40
+          "marks": 40,
+          "topics": [
+            {
+              "name": "Current Affairs",
+              "high": true
+            },
+            {
+              "name": "Static GK",
+              "high": true
+            }
+          ]
         }
       ],
       "total_questions": 100,
@@ -114,17 +144,47 @@
         {
           "name": "Mathematics",
           "questions": 35,
-          "marks": 35
+          "marks": 35,
+          "topics": [
+            {
+              "name": "Arithmetic",
+              "high": true
+            },
+            {
+              "name": "Data interpretation",
+              "high": false
+            }
+          ]
         },
         {
           "name": "General Intelligence & Reasoning",
           "questions": 35,
-          "marks": 35
+          "marks": 35,
+          "topics": [
+            {
+              "name": "Series & coding",
+              "high": true
+            },
+            {
+              "name": "Puzzles",
+              "high": false
+            }
+          ]
         },
         {
           "name": "General Awareness & Current Affairs",
           "questions": 50,
-          "marks": 50
+          "marks": 50,
+          "topics": [
+            {
+              "name": "Current Affairs",
+              "high": true
+            },
+            {
+              "name": "Static GK",
+              "high": true
+            }
+          ]
         }
       ],
       "total_questions": 120,
@@ -135,34 +195,34 @@
   ],
   "major_posts": [
     {
-      "post": "Station Master (Graduate post, most prestigious)",
-      "pay_level": "Level 6 (₹35,400–1,12,400)",
-      "in_hand_salary": "₹49,623-52,000/month (with DA, HRA, allowances)",
-      "department": "Indian Railways - Station operations"
+      "post": "Station Master",
+      "pay_level": "Level 6 (₹35,400)",
+      "in_hand_salary": "~₹49-52k",
+      "department": "Operations"
     },
     {
-      "post": "Goods Guard (Train operations)",
-      "pay_level": "Level 5 (₹29,200–92,300)",
-      "in_hand_salary": "₹30,000–35,000/month",
-      "department": "Indian Railways - Train operations"
+      "post": "Goods Train Manager",
+      "pay_level": "Level 5 (₹29,200)",
+      "in_hand_salary": "~₹40-44k",
+      "department": "Operations"
     },
     {
-      "post": "Commercial Apprentice",
-      "pay_level": "Level 6",
-      "in_hand_salary": "₹35,000–42,000/month",
-      "department": "Indian Railways - Commercial division"
+      "post": "Senior Clerk cum Typist",
+      "pay_level": "Level 5 (₹29,200)",
+      "in_hand_salary": "~₹40-44k",
+      "department": "Administration"
     },
     {
-      "post": "Senior Clerk / Junior Account Assistant",
-      "pay_level": "Level 5",
-      "in_hand_salary": "₹29,000–34,000/month",
-      "department": "Indian Railways - Accounts/Clerk section"
+      "post": "Junior Account Assistant cum Typist",
+      "pay_level": "Level 5 (₹29,200)",
+      "in_hand_salary": "~₹40-44k",
+      "department": "Accounts"
     },
     {
-      "post": "Trains Clerk / Ticket Clerk (12th pass)",
-      "pay_level": "Level 3 (₹21,700–69,100)",
-      "in_hand_salary": "₹22,000–26,000/month",
-      "department": "Indian Railways - Various sections"
+      "post": "Commercial cum Ticket Clerk",
+      "pay_level": "Level 2 (₹19,900)",
+      "in_hand_salary": "~₹28-33k",
+      "department": "Commercial (UG post)"
     }
   ],
   "extra_sections": [
@@ -171,27 +231,43 @@
       "icon": "🎁",
       "type": "text",
       "content": [
-        "<h3>Free Rail Travel (Biggest Perk)</h3>",
-        "Railway employees get free/concessional passes for themselves, spouse, and dependent children - unlimited AC travel across India. After retirement, lifetime pass issued.",
-        "This benefit alone is worth ₹50,000-1,00,000/year - no other government job offers this.",
-        "<h3>Medical Facilities</h3>",
-        "Free medical treatment at Railway hospitals (among India's best government hospitals) for entire family. Specialized departments, modern equipment.",
-        "Value: ₹30,000-50,000/year.",
-        "<h3>Housing & HRA</h3>",
-        "Government quarters provided (if available) at nominal rent (₹50-200/month depending on category). If quarters not available, HRA 8-24% of basic pay provided.",
-        "Housing value: ₹20,000-40,000/month.",
-        "<h3>Other Allowances</h3>",
-        "Dearness Allowance (currently ~50% of basic), City Compensatory Allowance, Transport Allowance, Night Duty Allowance (for shift workers), Overtime Allowance. These significantly increase total compensation.",
-        "<h3>Leaves & Vacation</h3>",
+        "Free Rail Travel (Biggest Perk) Railway employees get free/concessional passes for themselves, spouse, and dependent children - unlimited AC travel across India.",
+        "After retirement, lifetime pass issued. This benefit alone is worth ₹50,000-1,00,000/year - no other government job offers this.",
+        "Medical Facilities Free medical treatment at Railway hospitals (among India's best government hospitals) for entire family.",
+        "Specialized departments, modern equipment. Value: ₹30,000-50,000/year.",
+        "Housing & HRA Government quarters provided (if available) at nominal rent (₹50-200/month depending on category).",
+        "If quarters not available, HRA 8-24% of basic pay provided. Housing value: ₹20,000-40,000/month.",
+        "Other Allowances Dearness Allowance (currently ~50% of basic), City Compensatory Allowance, Transport Allowance, Night Duty Allowance (for shift workers), Overtime Allowance.",
+        "These significantly increase total compensation. Leaves & Vacation",
         "30 Earned Leaves + 8 Casual Leaves + 10 Restricted Holiday per year. LTC (Leave Travel Concession) every 2 years.",
         "Total vacation days: ~100+/year. School holidays aligned with railway calendar."
       ]
     },
     {
-      "heading": "",
-      "type": "svg_block",
-      "svg": "<svg viewBox=\"0 0 700 160\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">RRB NTPC selection process</text><rect x=\"30\" y=\"50\" width=\"150\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"105\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#145236\">CBT Stage 1</text><text x=\"105\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#145236\">100 MCQs, 90 min</text><text x=\"105\" y=\"116\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#145236\">GK + Math + Reasonin</text><text x=\"105\" y=\"132\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#1B6B4A\">Screening only</text><rect x=\"200\" y=\"50\" width=\"150\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"275\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#1E40AF\">CBT Stage 2</text><text x=\"275\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#1E40AF\">120 MCQs, 90 min</text><text x=\"275\" y=\"116\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#1E40AF\">GK + Math + Reasonin</text><text x=\"275\" y=\"132\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#1E40AF\">Merit ranking</text><rect x=\"370\" y=\"50\" width=\"150\" height=\"90\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"445\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#C2410C\">CBAT / Typing</text><text x=\"445\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#C2410C\">For specific posts</text><text x=\"445\" y=\"116\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#C2410C\">Aptitude or typing t</text><text x=\"445\" y=\"132\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#C2410C\">Qualifying</text><rect x=\"540\" y=\"50\" width=\"140\" height=\"90\" rx=\"10\" fill=\"#1B6B4A\"/><text x=\"610\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"white\">Document</text><text x=\"610\" y=\"98\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"white\">Verification</text><text x=\"610\" y=\"120\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#DCFCE7\">Medical test</text><text x=\"610\" y=\"136\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#DCFCE7\">Final posting</text></svg>",
-      "caption": "RRB NTPC recruits for Non-Technical Popular Categories: Station Master, Goods Guard, Clerk, Typist, Traffic Assistant, etc. Total process takes 6-12 months from CBT-1."
+      "type": "process_flow",
+      "heading": "How RRB NTPC selection works",
+      "steps": [
+        {
+          "icon": "💻",
+          "title": "CBT 1 (screening)",
+          "desc": "100 questions in 90 minutes covering maths, reasoning and general awareness. It only shortlists candidates for CBT 2."
+        },
+        {
+          "icon": "🖥️",
+          "title": "CBT 2 (merit)",
+          "desc": "120 questions in 90 minutes, harder and post-specific. Your normalised score here builds the merit list."
+        },
+        {
+          "icon": "⌨️",
+          "title": "Skill test",
+          "desc": "A typing test for typist and clerk posts, or an aptitude test (CBAT) for Station Master and Traffic Assistant. Qualifying only."
+        },
+        {
+          "icon": "📑",
+          "title": "DV and medical",
+          "desc": "Document verification and a post-specific medical, mainly vision standards, are the final stages before joining."
+        }
+      ]
     },
     {
       "heading": "RRB NTPC Career Progression: From Station Master to Senior Positions",
@@ -259,19 +335,42 @@
         "The RRB NTPC recruitment follows a multi-stage selection process designed to filter candidates progressively. Understanding each stage is essential for building an effective preparation strategy.",
         "The Computer Based Test Stage 1 (CBT-1) is the preliminary screening round. It consists of 100 questions worth 100 marks covering General Awareness, Mathematics, and General Intelligence & Reasoning.",
         "The time allowed is 90 minutes, with 120 minutes for PwBD candidates. There is negative marking of one-third of the marks allotted for each wrong answer.",
-        "CBT-1 is purely a qualifying exam - your score is used only to determine <a href=\"/exam/ctet\" style=\"text-decoration:underline;color:inherit\">eligibility</a> for CBT-2 and does not count toward final selection.",
-        "CBT-2 is the main examination and carries significant weight in the final merit list. It has 120 questions worth 120 marks, to be completed in 90 minutes.",
-        "The subject coverage is the same as CBT-1 - General Awareness, Mathematics, and General Intelligence & Reasoning - but the difficulty level is noticeably higher. Your CBT-2 score is the primary factor in determining your final rank.",
-        "For certain posts like Station Master and Traffic Assistant, a Computer Based Aptitude Test (CBAT) is conducted after CBT-2. This tests your aptitude for roles that require quick decision-making and spatial reasoning.",
-        "The CBAT is qualifying in nature with a minimum threshold score. Candidates who do not qualify the CBAT are considered for other NTPC posts for which they have applied and are otherwise eligible."
+        "CBT-1 is purely a qualifying exam - your score is used only to determine eligibility for CBT-2 and does not count toward final selection. CBT-2 is the main examination and carries significant weight in the final merit list.",
+        "It has 120 questions worth 120 marks, to be completed in 90 minutes. The subject coverage is the same as CBT-1 - General Awareness, Mathematics, and General Intelligence & Reasoning - but the difficulty level is noticeably higher.",
+        "Your CBT-2 score is the primary factor in determining your final rank. For certain posts like Station Master and Traffic Assistant, a Computer Based Aptitude Test (CBAT) is conducted after CBT-2.",
+        "This tests your aptitude for roles that require quick decision-making and spatial reasoning. The CBAT is qualifying in nature with a minimum threshold score.",
+        "Candidates who do not qualify the CBAT are considered for other NTPC posts for which they have applied and are otherwise eligible."
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "Visual: Key Numbers",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">Mar 16-27, 2026</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">CBT-1</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">8,868</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Vacancies</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">12th/Graduation</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Education</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">₹22–42K/mo</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Salary</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
-      "caption": "Key facts",
-      "description": "Quick overview."
+      "type": "stat_grid",
+      "heading": "RRB NTPC at a glance",
+      "items": [
+        {
+          "icon": "📋",
+          "value": "5,810",
+          "label": "Graduate posts (06/2025)",
+          "color": "green"
+        },
+        {
+          "icon": "🏆",
+          "value": "₹35,400",
+          "label": "Station Master basic (L6)",
+          "color": "green"
+        },
+        {
+          "icon": "🎂",
+          "value": "18-36",
+          "label": "Age range",
+          "color": "amber"
+        },
+        {
+          "icon": "📅",
+          "value": "10 Jul",
+          "label": "Graduate CBT 2",
+          "color": "amber"
+        }
+      ]
     },
     {
       "type": "text",
@@ -287,23 +386,29 @@
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "Quick Facts",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Quick Facts</text><rect x=\"17\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"94\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">Mar 16-27, 2026</text><text x=\"94\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">CBT-1</text><rect x=\"187\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"264\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">8,868</text><text x=\"264\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Vacancies</text><rect x=\"357\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"434\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#92400E\">12th/Graduation</text><text x=\"434\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Education</text><rect x=\"527\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"604\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">₹22–42K/mo</text><text x=\"604\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Salary</text></svg>",
-      "caption": "Quick reference facts",
-      "description": "Key facts and numbers at a glance"
-    },
-    {
-      "type": "text",
-      "heading": "Salary Structure and Career Growth in Railway NTPC Posts",
-      "content": [
-        "RRB NTPC posts fall under different pay levels depending on the specific position. Understanding the salary structure helps you prioritize which posts to target during the application and preference selection.",
-        "Level 2 posts (Junior Clerk, Accounts Clerk, Junior Time Keeper) offer a basic pay of Rs 19,900 with a gross salary of approximately Rs 30,000 to Rs 35,000 per month including Dearness Allowance, House Rent Allowance, and Transport Allowance. These are entry-level clerical positions that offer job security and standard railway benefits.",
-        "Level 3 posts (Commercial Apprentice, Station Master, Traffic Assistant, Goods Guard) start at a basic pay of Rs 21,700 with gross salary reaching Rs 35,000 to Rs 42,000 initially. Station Master is particularly sought after because it comes with independent charge responsibility and faster promotion prospects.",
-        "After 4 to 6 years of service, Station Masters can be promoted to Station Superintendent and eventually to Area Manager or Divisional-level positions.",
-        "Level 5 posts (Senior Clerk, Junior Accounts Assistant, Senior Time Keeper) offer basic pay of Rs 29,200 with gross salary of Rs 42,000 to Rs 50,000 per month. Level 6 posts (Commercial Apprentice in some categories, Trains Clerk) start at Rs 35,400 basic pay.",
-        "Beyond the monetary compensation, railway employees receive free rail travel passes, medical coverage for the entire family at railway hospitals, subsidized housing in railway colonies, children's education allowance, and access to railway recreational facilities. The pension benefits under the National Pension System also apply.",
-        "These non-monetary benefits effectively add Rs 15,000 to Rs 25,000 per month in value to the total compensation package."
+      "type": "icon_list",
+      "heading": "Salary by pay level",
+      "items": [
+        {
+          "icon": "🏆",
+          "title": "Level 6 - Station Master, CCTS",
+          "sub": "Basic ₹35,400. In-hand roughly ₹49,000 to ₹52,000 with DA, HRA and allowances. The top NTPC posts."
+        },
+        {
+          "icon": "🚆",
+          "title": "Level 5 - Goods Train Manager, Sr Clerk, JAA",
+          "sub": "Basic ₹29,200. In-hand roughly ₹40,000 to ₹44,000. Train operations, accounts and senior clerical roles."
+        },
+        {
+          "icon": "🎫",
+          "title": "Level 3 - Sr Commercial cum Ticket Clerk",
+          "sub": "Basic ₹21,700. In-hand roughly ₹33,000 to ₹36,000. A step above the entry clerical grade."
+        },
+        {
+          "icon": "📋",
+          "title": "Level 2 - Junior clerks and typists",
+          "sub": "Basic ₹19,900. In-hand roughly ₹28,000 to ₹33,000. The 12th-pass entry posts."
+        }
       ]
     },
     {
@@ -312,21 +417,29 @@
       "content": "When filling the RRB NTPC application form, you must select your preferred Railway Recruitment Board zone. Your choice of zone directly impacts your chances of selection because cutoff marks vary significantly across zones.<br><br>Historically, RRBs in South India (Chennai, Secunderabad, Thiruvananthapuram) and East India (Kolkata, Bhubaneswar) tend to have higher cutoffs due to larger applicant pools. RRBs in North-East India (Guwahati), Central India (Bhopal, Bilaspur), and Western India (Ahmedabad) often have comparatively lower cutoffs.<br><br>Research previous year cutoffs for your category across different zones before finalizing your selection."
     },
     {
-      "type": "text",
-      "heading": "Six-Month Preparation Plan for RRB NTPC",
-      "content": [
-        "A structured six-month plan is ideal for candidates starting from scratch. This timeline allows sufficient practice without burnout and covers both CBT-1 and CBT-2 preparation simultaneously since the syllabus overlaps significantly.",
-        "Month 1 and 2 should focus on building fundamentals. Complete the entire Mathematics syllabus topic by topic using RS Aggarwal's Quantitative Aptitude or Rakesh Yadav's Class Notes.",
-        "Simultaneously, begin reading Lucent's General Knowledge for static GK and start a daily current affairs habit using any reliable monthly magazine or free YouTube compilation. For Reasoning, work through one topic every two days using a standard reasoning book.",
-        "Month 3 and 4 are for intensive practice. Start solving previous year RRB NTPC papers - at least one full paper every two days.",
-        "Analyze each paper to identify weak topics and revisit those chapters. Begin taking full-length mock tests on platforms like Testbook, Oliveboard, or Adda247.",
-        "Target completing at least 20 full mocks during this phase. Maintain an error diary where you note every question you got wrong and the concept behind it.",
-        "Month 5 is the revision and speed-building phase. Take one mock test daily under timed conditions.",
-        "Revise your error diary twice. Focus on improving your General Awareness score since this section has the highest scoring potential with focused last-minute preparation.",
-        "Revise static GK topics like national parks, dams, rivers, awards, and constitutional amendments - these questions require pure recall and can be mastered in the final weeks.",
-        "Month 6 should be spent on mock tests and mental preparation. Take a mock every morning simulating actual exam conditions.",
-        "Review only what you get wrong. Avoid studying new topics.",
-        "Ensure your documents - photo, signature, ID proof, and category certificate - are ready for the admit card process. Check the RRB website daily for exam date announcements during this period."
+      "type": "process_flow",
+      "heading": "A 6-month NTPC plan",
+      "steps": [
+        {
+          "icon": "1️⃣",
+          "title": "Month 1-2: Fundamentals",
+          "desc": "Finish the maths syllabus topic by topic and start Lucent GK plus a daily current-affairs habit. Build the base before chasing speed."
+        },
+        {
+          "icon": "2️⃣",
+          "title": "Month 3-4: Practice",
+          "desc": "Solve previous-year papers and full-length mocks, aiming for 20 or more. Keep an error diary of every wrong question."
+        },
+        {
+          "icon": "3️⃣",
+          "title": "Month 5: CBT 2 depth",
+          "desc": "Move to the harder CBT-2 level maths and reasoning, and deepen general awareness for the larger 50-mark section."
+        },
+        {
+          "icon": "4️⃣",
+          "title": "Month 6: Revision",
+          "desc": "Revise notes, the error diary and current affairs. Take timed full mocks to fix accuracy and stamina."
+        }
       ]
     },
     {
@@ -339,10 +452,8 @@
         "Candidates who spend 3 to 4 minutes on difficult questions end up leaving 10 to 15 easier questions unanswered at the end. The correct strategy is to attempt all easy and moderate questions first in a single pass taking about 60 minutes, then return to difficult questions in the remaining time.",
         "Ignoring negative marking is surprisingly common. Each wrong answer costs one-third of a mark.",
         "Random guessing across 20 uncertain questions statistically costs you about 7 marks while potentially gaining only 5 - a net loss. Only attempt questions where you can eliminate at least two of the four options.",
-        "For completely unfamiliar questions, leaving them blank is the mathematically correct strategy.",
-        "For more details, see our guide on <a href=\"/exam/rrb-group-d\" style=\"text-decoration:underline;color:inherit\">RRB Group D 2026</a>.",
-        "For more details, see our guide on <a href=\"/exam/clat-2026\" style=\"text-decoration:underline;color:inherit\">CLAT 2026</a>.",
-        "For more details, see our guide on <a href=\"/exam/ssc-chsl\" style=\"text-decoration:underline;color:inherit\">SSC CHSL 2026</a>."
+        "For completely unfamiliar questions, leaving them blank is the mathematically correct strategy. For more details, see our guide on RRB Group D 2026.",
+        "For more details, see our guide on CLAT 2026. For more details, see our guide on SSC CHSL 2026."
       ]
     },
     {
@@ -360,11 +471,45 @@
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "Visual: Exam Pattern",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Exam Pattern</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">30</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Mathematics (10th cl</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">30 Qs</text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">30</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">General Intelligence</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">30 Qs</text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">40</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">General Awareness & </text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">40 Qs</text></svg>",
-      "caption": "Paper structure",
-      "description": "Subject-wise marks."
+      "type": "stat_grid",
+      "heading": "CBT structure and marking",
+      "items": [
+        {
+          "icon": "1️⃣",
+          "value": "100",
+          "label": "CBT 1 marks",
+          "color": "amber"
+        },
+        {
+          "icon": "2️⃣",
+          "value": "120",
+          "label": "CBT 2 marks",
+          "color": "green"
+        },
+        {
+          "icon": "➖",
+          "value": "1/3",
+          "label": "Negative per wrong",
+          "color": "green"
+        },
+        {
+          "icon": "⌨️",
+          "value": "Skill",
+          "label": "Typing / CBAT",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "How CBT marks are normalised and what cutoffs mean",
+      "content": [
+        "RRB NTPC runs in many shifts across several days, so your raw marks are converted into a normalised score. This adjusts for how hard your particular session was.",
+        "Normalisation applies to CBT 1, CBT 2 and the aptitude test alike. Two candidates with the same raw marks can end up with different normalised scores.",
+        "Because of this, a raw-score calculator cannot reliably tell you whether you are safe. Cutoffs are published on normalised marks, not on raw marks.",
+        "Cutoffs also vary by zone, category and post, since vacancies differ across regions. A score that clears in one zone may fall short in another.",
+        "The practical lesson is simple. Aim well above last year's cutoff for your zone and category, rather than trying to scrape past it."
+      ]
     },
     {
       "type": "pullquote",
@@ -376,31 +521,50 @@
       "content": "For the CBT exam, carry your admit card printout along with one original government-issued photo ID (Aadhaar, PAN, Voter ID, Passport, or Driving License). The name on your ID must exactly match the name on the admit card.<br><br>At the time of document verification after selection, you will need original and photocopies of: Class 10 mark sheet and certificate (for age proof), Class 12 and graduation mark sheets, caste or category certificate (if applicable) issued by the competent authority, income certificate for EWS candidates, disability certificate for PwBD candidates, and NOC from current employer if already working in a government position."
     },
     {
-      "type": "text",
-      "heading": "Life as a Railway Employee - What to Expect After Selection",
-      "content": [
-        "Joining Indian Railways as an NTPC employee means entering the largest civilian employer in India with over 12 lakh employees across 17 zones. The work culture varies significantly depending on your post and zone, but certain common experiences define railway life.",
-        "Station Masters and Goods Guards work in shifts since railways operate around the clock. A typical Station Master rotation includes 8-hour shifts with rotational night duties.",
-        "While this can be physically demanding initially, the schedule becomes predictable over time and many officers appreciate the structured routine. Station Masters at smaller stations often have independent charge, which builds leadership skills early in the career.",
-        "Clerical staff in Level 2 and Level 5 positions typically work standard office hours at divisional or zonal headquarters. The work involves administrative duties, file processing, accounting, and record management.",
-        "These positions offer the most conventional work-life balance among NTPC posts.",
-        "Railway colonies provide a built-in community that most private sector jobs cannot match. Housing is subsidized or free depending on availability and pay level.",
-        "Railway hospitals provide free medical care for employees and dependents. Railway schools are available for children at major junctions and divisional headquarters.",
-        "The sense of community in railway colonies - with shared recreational facilities, sports clubs, and cultural events - is something many railway employees cite as their favorite aspect of the job.",
-        "Transfer policies vary by zone and department. NTPC staff can typically expect transfers within their zone every 3 to 5 years.",
-        "Cross-zone transfers are possible through mutual transfer arrangements or by applying for vacancies in other zones. Station Masters and operational staff are more likely to be posted at remote stations early in their career and move to larger stations with seniority."
+      "type": "icon_list",
+      "heading": "Life as a railway employee",
+      "items": [
+        {
+          "icon": "🕐",
+          "title": "Shift work",
+          "sub": "Station Masters and Goods Train Managers work round-the-clock shifts. The rotation feels demanding at first but becomes predictable."
+        },
+        {
+          "icon": "🪑",
+          "title": "Desk roles",
+          "sub": "Clerical posts at divisional and zonal headquarters keep standard office hours, the best work-life balance among NTPC posts."
+        },
+        {
+          "icon": "🏘️",
+          "title": "Railway colonies",
+          "sub": "Subsidised or free housing and a built-in community that most private jobs cannot match."
+        },
+        {
+          "icon": "🛡️",
+          "title": "Security and perks",
+          "sub": "A permanent central job with free travel passes, family medical cover and pension benefits."
+        }
       ]
     },
     {
-      "type": "text",
-      "heading": "RRB NTPC vs SSC CGL vs IBPS PO - Which Exam to Prioritize",
-      "content": [
-        "Many government job aspirants prepare for multiple exams simultaneously since the syllabus overlaps significantly. Understanding the key differences between RRB NTPC, SSC CGL, and IBPS PO helps you allocate preparation time wisely.",
-        "RRB NTPC offers the highest number of vacancies among these three exams - often 30,000 to 50,000 posts per notification cycle. This means the selection ratio, while still competitive, is more favorable than SSC CGL which typically advertises 5,000 to 8,000 vacancies.",
-        "IBPS PO usually has 3,000 to 5,000 vacancies. More vacancies means more chances of selection, which is why NTPC is considered relatively more achievable.",
-        "Salary comparison at the entry level shows IBPS PO starting at approximately Rs 42,000 gross per month, SSC CGL posts ranging from Rs 25,000 to Rs 55,000 depending on the department and post, and RRB NTPC ranging from Rs 30,000 to Rs 50,000. However, when railway perks like free travel passes, medical benefits, and housing are added, the effective compensation of NTPC posts is competitive with IBPS PO.",
-        "From a preparation overlap perspective, Quantitative Aptitude and Reasoning are common across all three exams. General Awareness in NTPC has a broader scope compared to IBPS PO which focuses more on banking awareness.",
-        "SSC CGL includes a Tier 2 with a descriptive paper in English or Hindi and a Computer Knowledge test. If you are already preparing for one of these exams, adding the others requires mostly just understanding the specific exam pattern and practicing with that format."
+      "type": "comparison_card",
+      "heading": "RRB NTPC vs SSC CGL vs IBPS PO",
+      "win": {
+        "name": "RRB NTPC",
+        "amount": "Most vacancies",
+        "sub": "Far more posts per cycle than the other two, which makes selection comparatively more achievable. Maths and reasoning overlap heavily with both."
+      },
+      "others": [
+        {
+          "name": "SSC CGL",
+          "amount": "Tier 2 + skill",
+          "sub": "Central government posts with a descriptive and computer test in Tier 2. Wider role variety but fewer posts."
+        },
+        {
+          "name": "IBPS PO",
+          "amount": "Banking",
+          "sub": "A bank officer role with the highest entry pay of the three, but the smallest vacancy pool and a tough interview."
+        }
       ]
     },
     {
@@ -414,12 +578,30 @@
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "RRB NTPC Post Hierarchy",
-      "icon": "🚂",
-      "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">NTPC Graduate and Non-Graduate Posts</text><rect x=\"50\" y=\"50\" width=\"280\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"190\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">Graduate SM CA TA ₹35K</text><rect x=\"370\" y=\"50\" width=\"280\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"510\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">12th Pass Clerk Typist</text></svg>",
-      "caption": "NTPC graduate posts like Station Master offer excellent career growth in railways",
-      "description": "Station Master is the most popular NTPC post with Level 6 pay scale."
+      "type": "icon_list",
+      "heading": "Posts you can get",
+      "items": [
+        {
+          "icon": "🏆",
+          "title": "Station Master (Level 6)",
+          "sub": "The most prestigious NTPC post. It runs station operations in rotating shifts, and selection includes an aptitude test (CBAT) on top of CBT 2."
+        },
+        {
+          "icon": "🚆",
+          "title": "Goods Train Manager (Level 5)",
+          "sub": "Formerly Goods Guard. Manages freight train operations, a field role with shift duty."
+        },
+        {
+          "icon": "🧮",
+          "title": "Clerks and typists (Level 5)",
+          "sub": "Senior Clerk cum Typist and Junior Account Assistant: desk-based admin and accounts roles at headquarters."
+        },
+        {
+          "icon": "🎫",
+          "title": "Undergraduate clerks (Level 2)",
+          "sub": "Junior Clerk, Accounts Clerk and Trains Clerk for 12th-pass candidates, the entry grade with a typing test."
+        }
+      ]
     }
   ],
   "important_dates": [
@@ -482,11 +664,15 @@
     },
     {
       "question": "How many vacancies does RRB NTPC have?",
-      "answer": "RRB NTPC typically recruits 35,000-40,000 posts per cycle. The last major recruitment (CEN 01/2024) had approximately 11,558 vacancies across all RRBs.<br><br>Vacancies vary by RRB zone - Kolkata, Mumbai, and Secunderabad usually have the most vacancies. Check the specific RRB zone notification for zone-wise vacancy details."
+      "answer": "It varies by cycle. The active graduate cycle, CEN 06/2025, has 5,810 posts, while the earlier CEN 05/2024 had 8,113 graduate posts.<br><br>There is a separate undergraduate cycle (CEN 07/2025) as well. Always check the latest notification for the exact split across posts and zones."
     },
     {
       "question": "Is there negative marking in RRB NTPC?",
       "answer": "Yes. CBT-1 and CBT-2 both have 1/3 negative marking (0.33 marks deducted per wrong answer).<br><br>Each correct answer carries 1 mark. With 100 questions in CBT-1 and 120 in CBT-2, random guessing is risky.<br><br>Attempt only questions you're reasonably confident about. Leaving a question blank is better than a wrong answer."
+    },
+    {
+      "question": "What is the full form of RRB NTPC?",
+      "answer": "RRB stands for Railway Recruitment Board, and NTPC stands for Non-Technical Popular Categories.<br><br>These are the non-technical posts in Indian Railways, such as Station Master, Goods Train Manager, clerks and typists."
     }
   ],
   "official_portal": {
@@ -636,27 +822,25 @@
   "last_reviewed": "May 2026",
   "category": "railway",
   "salary_table": {
-    "intro": "In-hand salary ranges from ₹22,000–26,000/month to ₹49,623-52,000/month (with DA, HRA, allowances) depending on the post and city.",
+    "intro": "Pay depends on the post and its level, from Level 2 for entry clerks up to Level 6 for Station Master. Higher levels mean higher basic pay and bigger allowances.",
+    "label": "Salary",
+    "icon": "💰",
     "rows": [
       {
-        "post": "Station Master (Graduate post, most prestigious)",
-        "amount": "₹49,623-52,000/month (with DA, HRA, allowances)"
+        "post": "Station Master (Level 6)",
+        "amount": "₹35,400 basic, ~₹49-52k in-hand"
       },
       {
-        "post": "Goods Guard (Train operations)",
-        "amount": "₹30,000–35,000/month"
+        "post": "Goods Train Manager / Sr Clerk (L5)",
+        "amount": "₹29,200 basic, ~₹40-44k"
       },
       {
-        "post": "Commercial Apprentice",
-        "amount": "₹35,000–42,000/month"
+        "post": "Sr Commercial Ticket Clerk (L3)",
+        "amount": "₹21,700 basic, ~₹33-36k"
       },
       {
-        "post": "Senior Clerk / Junior Account Assistant",
-        "amount": "₹29,000–34,000/month"
-      },
-      {
-        "post": "Trains Clerk / Ticket Clerk (12th pass)",
-        "amount": "₹22,000–26,000/month"
+        "post": "UG clerks (Level 2)",
+        "amount": "₹19,900 basic, ~₹28-33k"
       }
     ]
   },
@@ -681,7 +865,7 @@
   "status": "upcoming",
   "eligibility_data": {
     "reference_date": "As per notification",
-    "default_education": "12th pass (10+2) from recognised board",
+    "default_education": "12th pass for UG posts; graduation for graduate posts",
     "relaxations": [
       {
         "category": "OBC",
@@ -700,28 +884,152 @@
       {
         "post": "Station Master (Graduate post, most prestigious)",
         "min_age": 18,
-        "max_age": 33
+        "max_age": 36
       },
       {
         "post": "Goods Guard (Train operations)",
         "min_age": 18,
-        "max_age": 33
+        "max_age": 36
       },
       {
         "post": "Commercial Apprentice",
         "min_age": 18,
-        "max_age": 33
+        "max_age": 36
       },
       {
         "post": "Senior Clerk / Junior Account Assistant",
         "min_age": 18,
-        "max_age": 33
+        "max_age": 36
       },
       {
         "post": "Trains Clerk / Ticket Clerk (12th pass)",
         "min_age": 18,
-        "max_age": 33
+        "max_age": 36
       }
     ]
-  }
+  },
+  "post_preferences": {
+    "posts": [
+      {
+        "post": "Station Master",
+        "dept": "Operations",
+        "salary_range": "~₹49-52k",
+        "level": "Level 6",
+        "attrs": {
+          "salary": 3,
+          "metro": 1,
+          "desk": 1,
+          "promo": 3,
+          "power": 3,
+          "stable": 3
+        },
+        "tags": [
+          "operations",
+          "prestige",
+          "shifts"
+        ]
+      },
+      {
+        "post": "Goods Train Manager",
+        "dept": "Operations",
+        "salary_range": "~₹40-44k",
+        "level": "Level 5",
+        "attrs": {
+          "salary": 2,
+          "metro": 1,
+          "desk": 0,
+          "promo": 2,
+          "power": 2,
+          "stable": 3
+        },
+        "tags": [
+          "trains",
+          "field",
+          "shifts"
+        ]
+      },
+      {
+        "post": "Senior Clerk cum Typist",
+        "dept": "Administration",
+        "salary_range": "~₹40-44k",
+        "level": "Level 5",
+        "attrs": {
+          "salary": 2,
+          "metro": 1,
+          "desk": 3,
+          "promo": 2,
+          "power": 1,
+          "stable": 3
+        },
+        "tags": [
+          "clerical",
+          "desk",
+          "typing"
+        ]
+      },
+      {
+        "post": "Junior Account Assistant cum Typist",
+        "dept": "Accounts",
+        "salary_range": "~₹40-44k",
+        "level": "Level 5",
+        "attrs": {
+          "salary": 2,
+          "metro": 1,
+          "desk": 3,
+          "promo": 2,
+          "power": 1,
+          "stable": 3
+        },
+        "tags": [
+          "accounts",
+          "desk",
+          "finance"
+        ]
+      },
+      {
+        "post": "Commercial Apprentice",
+        "dept": "Commercial",
+        "salary_range": "~₹40-44k",
+        "level": "Level 5",
+        "attrs": {
+          "salary": 2,
+          "metro": 1,
+          "desk": 2,
+          "promo": 2,
+          "power": 1,
+          "stable": 3
+        },
+        "tags": [
+          "commercial",
+          "varied"
+        ]
+      },
+      {
+        "post": "Commercial cum Ticket Clerk",
+        "dept": "Commercial",
+        "salary_range": "~₹28-33k",
+        "level": "Level 2",
+        "attrs": {
+          "salary": 1,
+          "metro": 1,
+          "desk": 2,
+          "promo": 2,
+          "power": 1,
+          "stable": 3
+        },
+        "tags": [
+          "ticketing",
+          "counter",
+          "entry"
+        ]
+      }
+    ]
+  },
+  "changes_2026": [
+    "The active graduate cycle is CEN 06/2025 for 5,810 posts. CBT 1 was held in March 2026, and CBT 2 is scheduled for 10 July 2026.",
+    "A total of 88,037 candidates were shortlisted from the graduate CBT 1. The undergraduate cycle CEN 07/2025 held its CBT 1 between 7 May and 20 June 2026.",
+    "The earlier CEN 05/2024 graduate cycle of 8,113 posts finished, with its final result released on 8 May 2026.",
+    "Scores are normalised across sessions for CBT 1, CBT 2 and the aptitude test, since the exam runs in many shifts.",
+    "Railways now uses a single recruitment portal, and Aadhaar-based verification applies at the exam centres."
+  ]
 }
