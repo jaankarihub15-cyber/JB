@@ -4,7 +4,7 @@
   "meta_description": "KPSC KAS 2026: Deputy Commissioner, SP, Tahsildar. Prelims tests Kannada focus. 400+ vacancies. Kannada language mandatory in Mains.",
   "hero": {
     "status": "upcoming",
-    "one_liner": "Karnataka's state civil services exam - Deputy Commissioner, Superintendent of Police, Tahsildar through KPSC KAS Examination",
+    "one_liner": "Karnataka's state civil services exam. Become an Assistant Commissioner, Tahsildar or DySP through the KPSC KAS Examination, with promotion to Deputy Commissioner over a career.",
     "icon": "🏛️",
     "updated_date": "May 2026",
     "stats": [
@@ -98,12 +98,60 @@
         {
           "name": "Paper 1: General Studies",
           "questions": 100,
-          "marks": 200
+          "marks": 200,
+          "topics": [
+            {
+              "name": "Indian polity",
+              "high": true
+            },
+            {
+              "name": "Modern history",
+              "high": true
+            },
+            {
+              "name": "Geography",
+              "high": false
+            },
+            {
+              "name": "Economy",
+              "high": false
+            },
+            {
+              "name": "Current affairs",
+              "high": true
+            },
+            {
+              "name": "Science & tech",
+              "high": false
+            }
+          ]
         },
         {
           "name": "Paper 2: GS-II (Karnataka focus)",
           "questions": 100,
-          "marks": 200
+          "marks": 200,
+          "topics": [
+            {
+              "name": "Karnataka GK",
+              "high": true
+            },
+            {
+              "name": "Karnataka history",
+              "high": true
+            },
+            {
+              "name": "Reasoning & mental ability",
+              "high": true
+            },
+            {
+              "name": "Kaveri & state issues",
+              "high": false
+            },
+            {
+              "name": "Karnataka current affairs",
+              "high": false
+            }
+          ]
         }
       ],
       "total_questions": 200,
@@ -114,28 +162,40 @@
   ],
   "major_posts": [
     {
-      "post": "Deputy Commissioner",
-      "pay_level": "Level 14–17 (₹78,800–2,15,900 basic)",
-      "in_hand_salary": "₹1,05,000–1,50,000/month",
-      "department": "General Administration/District Admin"
+      "post": "Assistant Commissioner",
+      "pay_level": "Level 12 (entry, Group A)",
+      "in_hand_salary": "₹70,000-90,000/month",
+      "department": "Revenue / Sub-division"
+    },
+    {
+      "post": "DySP",
+      "pay_level": "Group A (entry)",
+      "in_hand_salary": "₹65,000-85,000/month",
+      "department": "Karnataka Police"
     },
     {
       "post": "Tahsildar",
-      "pay_level": "Level 10 (₹56,100–1,77,500)",
-      "in_hand_salary": "₹70,000–95,000/month",
+      "pay_level": "Level 10 (entry)",
+      "in_hand_salary": "₹60,000-80,000/month",
       "department": "Revenue Department"
     },
     {
-      "post": "Asst Commissioner (Taxes)",
-      "pay_level": "Level 10",
-      "in_hand_salary": "₹70,000–95,000/month",
+      "post": "Asst Commissioner (Commercial Taxes)",
+      "pay_level": "Level 10 (entry)",
+      "in_hand_salary": "₹60,000-80,000/month",
       "department": "Commercial Tax"
     },
     {
+      "post": "Deputy Commissioner",
+      "pay_level": "Senior, after ~15-20 yrs promotion",
+      "in_hand_salary": "₹1,05,000-1,50,000/month",
+      "department": "District Administration"
+    },
+    {
       "post": "Superintendent of Police",
-      "pay_level": "Level 13–16 (₹67,700–2,07,600)",
-      "in_hand_salary": "₹95,000–1,40,000/month",
-      "department": "Karnataka Police (after promotion)"
+      "pay_level": "Senior, after promotion",
+      "in_hand_salary": "₹95,000-1,40,000/month",
+      "department": "Karnataka Police"
     }
   ],
   "extra_sections": [
@@ -363,6 +423,15 @@
     },
     {
       "type": "text",
+      "heading": "From KAS entry to Deputy Commissioner",
+      "content": [
+        "A KAS officer enters as an Assistant Commissioner, Tahsildar or DySP at Pay Level 10 to 12. Early postings sit at the taluk and sub-division level, close to the ground.",
+        "With seniority an officer climbs the Karnataka cadre, and the senior-most reach Deputy Commissioner or SP-rank roles. That progression usually takes 15 to 20 years.",
+        "So the high salaries quoted for DC and SP are a career ceiling, not a starting pay. Plan your expectations around the entry posts, which is what KAS actually hands you on day one."
+      ]
+    },
+    {
+      "type": "text",
       "heading": "Books, coaching, and resources",
       "icon": "📚",
       "content": [
@@ -459,31 +528,55 @@
       ]
     },
     {
-      "type": "text",
-      "heading": "Common KPSC mistakes and how to avoid them",
-      "icon": "⚠️",
-      "content": [
-        "Mistake 1: Ignoring Karnataka GK because 'I'm preparing for UPSC anyway.' Karnataka-specific questions are 30-40% of KPSC Prelims - ignoring them means losing 40-50 marks that could decide your selection. Spend 2-3 months on dedicated Karnataka history, geography, and current affairs preparation.",
-        "Vijayanagara Empire alone appears in 5-8 questions every cycle.",
-        "Mistake 2: Not taking Paper 2 seriously. KPSC Paper 2 (reasoning, mental ability, current affairs) counts for merit - unlike UPSC CSAT which is qualifying.",
-        "Many candidates score well in Paper 1 GS but lose the overall race because of weak Paper 2. Practice reasoning daily - 30 minutes is sufficient.",
-        "Paper 2 marks are the easiest to improve with consistent practice.",
-        "Mistake 3: Writing in English when Kannada would score better. If you studied in Kannada medium through 12th/graduation, write KPSC Mains in Kannada.",
-        "Evaluators appreciate well-articulated Kannada answers. Switching to English out of perceived 'prestige' loses you the natural expression advantage.",
-        "Use whichever language lets you explain concepts most clearly and deeply.",
-        "Mistake 4: Not knowing the Kaveri water dispute in detail. This is THE most frequently asked Karnataka topic in KPSC - the history of the dispute (pre-independence agreements, 1924 agreement, 1990 tribunal, 2007 award, 2018 Supreme Court final order), current water-sharing formula, Karnataka's grievances, and the Mekedatu dam project controversy.",
-        "Expect 3-5 marks from this single topic in every Prelims."
+      "type": "icon_list",
+      "heading": "Common KPSC KAS mistakes to avoid",
+      "items": [
+        {
+          "icon": "🗺️",
+          "title": "Ignoring Karnataka GK",
+          "sub": "Karnataka-specific questions are 30-40% of prelims. The Vijayanagara Empire alone gives 5-8 questions every cycle."
+        },
+        {
+          "icon": "🧩",
+          "title": "Taking Paper 2 lightly",
+          "sub": "Paper 2 (reasoning, mental ability, current affairs) counts toward merit, unlike UPSC. Practise reasoning 30 minutes daily."
+        },
+        {
+          "icon": "🗣️",
+          "title": "Wrong language choice",
+          "sub": "If you studied in Kannada through graduation, write mains in Kannada. Evaluators value clear, natural Kannada answers."
+        },
+        {
+          "icon": "💧",
+          "title": "Skipping the Kaveri dispute",
+          "sub": "It is the most frequently asked Karnataka topic, worth 3-5 marks every prelims. Know its history and tribunals."
+        }
       ]
     },
     {
-      "type": "text",
-      "heading": "Karnataka current affairs - what KPSC tests",
-      "icon": "📰",
-      "content": [
-        "IT and Startup ecosystem: Bangalore's position as India's startup capital (3rd globally after Silicon Valley and London), Electronics City expansion, ITIR (IT Investment Region) project, Karnataka's Startup Policy, beyond-Bangalore IT growth (Mysuru IT corridor, Hubli-Dharwad tech parks, Mangalore IT SEZ). New company investments, layoffs, and policy changes in Karnataka's tech sector are tested frequently.",
-        "Environmental issues: Western Ghats conservation (Kasturirangan report recommendations, mining ban in ecologically sensitive areas), Kudremukh mining controversy, Cauvery river pollution, Bangalore lake restoration projects (Bellandur, Varthur), and Human-Elephant conflict in Kodagu and Hassan districts. These connect Karnataka geography with current governance challenges.",
-        "State government schemes: Gruha Lakshmi (Rs 2,000/month for women head of households), Yuva Nidhi (Rs 3,000-5,000/month for unemployed graduates), Anna Bhagya (10 kg free rice for BPL families), Shakti (free bus travel for women), and Gruha Jyoti (200 units free electricity). Know scheme names, launch dates, beneficiary numbers, and budget allocations - these appear in both Prelims and Interview.",
-        "Infrastructure developments: Bangalore Metro expansion (Purple and Green lines, Phase 2 and 3), Bangalore-Mysore Expressway, new Greenfield airport proposals, Mangalore port expansion, and Karnataka's role in the Delhi-Mumbai Industrial Corridor. Infrastructure questions test both geography awareness and governance understanding."
+      "type": "icon_list",
+      "heading": "Karnataka current affairs KPSC tests",
+      "items": [
+        {
+          "icon": "💻",
+          "title": "IT and startups",
+          "sub": "Bengaluru as India's startup capital, Electronics City, and the state's IT export economy."
+        },
+        {
+          "icon": "🌳",
+          "title": "Western Ghats",
+          "sub": "Kasturirangan report, eco-sensitive zones, and mining restrictions in fragile areas."
+        },
+        {
+          "icon": "🤝",
+          "title": "State schemes",
+          "sub": "Gruha Lakshmi (₹2,000/month for women heads of households) and Yuva Nidhi unemployment allowance."
+        },
+        {
+          "icon": "🚇",
+          "title": "Infrastructure",
+          "sub": "Bengaluru Metro Phase 2 and 3, the Bengaluru-Mysuru Expressway, and new districts."
+        }
       ]
     },
     {
@@ -552,6 +645,14 @@
     {
       "question": "Is Kannada mandatory for KPSC KAS Mains?",
       "answer": "Yes. Kannada is a compulsory qualifying paper in KPSC KAS Mains (you must score minimum 35% to qualify, but the marks do not count toward final merit).<br><br>The other Mains papers (4 GS + Essay) can be written in either Kannada or English. Most successful candidates recommend writing GS in English for clarity but practising the Kannada paper separately."
+    },
+    {
+      "question": "What is the full form of KAS?",
+      "answer": "KAS stands for Karnataka Administrative Service.<br><br>It is the state's senior civil service, recruited by KPSC through prelims, mains and an interview."
+    },
+    {
+      "question": "Is the KPSC KAS 2026 notification out yet?",
+      "answer": "The 2026 notification and vacancy count are not yet confirmed.<br><br>KPSC usually notifies the Gazetted Probationers exam in the first half of the year, so watch kpsc.kar.nic.in for the official notification."
     }
   ],
   "official_portal": {
@@ -681,23 +782,31 @@
   "last_reviewed": "May 2026",
   "category": "state-psc",
   "salary_table": {
-    "intro": "In-hand salary ranges from ₹95,000–1,40,000/month to ₹1,05,000–1,50,000/month depending on the post and city.",
+    "intro": "Entry KAS posts (Assistant Commissioner, Tahsildar, DySP) sit at Pay Level 10 to 12, roughly ₹60,000 to 85,000/month in hand. Deputy Commissioner and SP are promotion ceilings reached years later, not entry posts.",
     "rows": [
       {
-        "post": "Deputy Commissioner",
-        "amount": "₹1,05,000–1,50,000/month"
+        "post": "Assistant Commissioner (entry, Level 12)",
+        "amount": "₹70,000-90,000/month"
       },
       {
-        "post": "Tahsildar",
-        "amount": "₹70,000–95,000/month"
+        "post": "DySP (entry, Group A)",
+        "amount": "₹65,000-85,000/month"
       },
       {
-        "post": "Asst Commissioner (Taxes)",
-        "amount": "₹70,000–95,000/month"
+        "post": "Tahsildar (entry, Level 10)",
+        "amount": "₹60,000-80,000/month"
       },
       {
-        "post": "Superintendent of Police",
-        "amount": "₹95,000–1,40,000/month"
+        "post": "Asst Commissioner, Commercial Taxes",
+        "amount": "₹60,000-80,000/month"
+      },
+      {
+        "post": "Deputy Commissioner (after ~15-20 yrs promotion)",
+        "amount": "₹1,05,000-1,50,000/month"
+      },
+      {
+        "post": "Superintendent of Police (after promotion)",
+        "amount": "₹95,000-1,40,000/month"
       }
     ]
   },
@@ -757,6 +866,130 @@
         "post": "Superintendent of Police",
         "min_age": 21,
         "max_age": 40
+      }
+    ]
+  },
+  "changes_2026": [
+    "The 2024-25 KAS cycle (384 posts) is complete: prelims in August 2024, mains in May 2025, results in 2025.",
+    "The KPSC KAS 2026 (Gazetted Probationers) notification is expected during 2026. Vacancies and dates will be confirmed only in the official notification on kpsc.kar.nic.in.",
+    "A Kannada qualifying paper (minimum 35%) applies at the Mains stage. Prelims has no Kannada paper.",
+    "KPSC has revised the mains scheme in recent cycles, so confirm the current paper structure before starting mains preparation."
+  ],
+  "post_preferences": {
+    "posts": [
+      {
+        "post": "Assistant Commissioner",
+        "dept": "Revenue / Sub-division",
+        "salary_range": "₹70-90k",
+        "level": 12,
+        "attrs": {
+          "salary": 2,
+          "metro": 2,
+          "desk": 2,
+          "promo": 3,
+          "power": 3,
+          "stable": 1
+        },
+        "tags": [
+          "Group A",
+          "Sub-division admin",
+          "High authority"
+        ]
+      },
+      {
+        "post": "DySP",
+        "dept": "Karnataka Police",
+        "salary_range": "₹65-85k",
+        "level": 11,
+        "attrs": {
+          "salary": 2,
+          "metro": 2,
+          "desk": 1,
+          "promo": 2,
+          "power": 3,
+          "stable": 1
+        },
+        "tags": [
+          "Group A",
+          "Police",
+          "Field command"
+        ]
+      },
+      {
+        "post": "Tahsildar",
+        "dept": "Revenue Department",
+        "salary_range": "₹60-80k",
+        "level": 10,
+        "attrs": {
+          "salary": 2,
+          "metro": 1,
+          "desk": 2,
+          "promo": 2,
+          "power": 2,
+          "stable": 2
+        },
+        "tags": [
+          "Level 10",
+          "Taluk admin",
+          "Revenue"
+        ]
+      },
+      {
+        "post": "Asst Commissioner (Commercial Taxes)",
+        "dept": "Commercial Tax",
+        "salary_range": "₹60-80k",
+        "level": 10,
+        "attrs": {
+          "salary": 2,
+          "metro": 2,
+          "desk": 3,
+          "promo": 2,
+          "power": 2,
+          "stable": 2
+        },
+        "tags": [
+          "Level 10",
+          "Tax",
+          "Desk + field"
+        ]
+      },
+      {
+        "post": "Assistant Director",
+        "dept": "Various departments",
+        "salary_range": "₹60-80k",
+        "level": 10,
+        "attrs": {
+          "salary": 2,
+          "metro": 2,
+          "desk": 3,
+          "promo": 1,
+          "power": 1,
+          "stable": 3
+        },
+        "tags": [
+          "Level 10",
+          "Department staff",
+          "Desk job"
+        ]
+      },
+      {
+        "post": "Taluk Panchayat EO",
+        "dept": "Rural Development",
+        "salary_range": "₹55-75k",
+        "level": 10,
+        "attrs": {
+          "salary": 1,
+          "metro": 1,
+          "desk": 2,
+          "promo": 1,
+          "power": 2,
+          "stable": 2
+        },
+        "tags": [
+          "Level 9-10",
+          "Rural posting",
+          "Development work"
+        ]
       }
     ]
   }
