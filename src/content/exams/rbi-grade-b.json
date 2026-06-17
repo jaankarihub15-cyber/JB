@@ -4,7 +4,7 @@
   "meta_description": "RBI Grade B 2026 - become an officer at India's central bank. Phase 1/2 pattern, salary ₹1.3L+/month, elite exam, eligibility, and preparation.",
   "hero": {
     "status": "upcoming",
-    "one_liner": "One of India's most elite exams - become an officer at the Reserve Bank of India with ₹1.3 lakh+ monthly salary, Mumbai posting, and unmatched financial prestige",
+    "one_liner": "One of India's most elite exams - become an officer at the Reserve Bank of India with ₹1.5 lakh+ monthly salary, Mumbai posting, and unmatched financial prestige",
     "icon": "🏛️",
     "updated_date": "May 2026",
     "stats": [
@@ -84,62 +84,138 @@
   ],
   "exam_pattern": [
     {
-      "tier_name": "Phase 1 - Screening (120 minutes)",
-      "description": "Objective MCQs. Qualifying only - marks don't count in final merit. Sectional cutoffs apply. Must clear each section + overall cutoff to advance.",
+      "tier_name": "Phase 1 - Screening (120 min, qualifying)",
       "subjects": [
         {
           "name": "General Awareness & Current Affairs",
-          "questions": 80,
-          "marks": 80
-        },
-        {
-          "name": "Quantitative Aptitude (Basic)",
-          "questions": 30,
-          "marks": 30
-        },
-        {
-          "name": "English Language",
-          "questions": 30,
-          "marks": 30
+          "marks": 80,
+          "topics": [
+            {
+              "name": "Current Affairs",
+              "high": true
+            },
+            {
+              "name": "Banking & Financial Awareness",
+              "high": true
+            },
+            {
+              "name": "Static GK",
+              "high": false
+            }
+          ]
         },
         {
           "name": "Reasoning (Logic, Puzzles)",
-          "questions": 60,
-          "marks": 60
-        }
-      ],
-      "total_questions": 200,
-      "total_marks": 200,
-      "duration": "120 minutes (no sectional timing - candidate's choice)",
-      "negative_marking": "0.25 per wrong answer"
-    },
-    {
-      "tier_name": "Phase 2 - Descriptive Essay Papers (180 minutes total)",
-      "description": "Essay-type papers. This determines your merit ranking. 7 questions in each paper - typically 1-2 long essays + 3-4 short-answer questions. Tests conceptual understanding, analytical thinking, policy awareness.",
-      "subjects": [
-        {
-          "name": "Paper 1: Economic & Social Issues (90 min)",
-          "questions": 7,
-          "marks": 100
+          "marks": 60,
+          "topics": [
+            {
+              "name": "Puzzles",
+              "high": true
+            },
+            {
+              "name": "Seating arrangement",
+              "high": false
+            }
+          ]
         },
         {
-          "name": "Paper 2: Finance & Management (90 min)",
-          "questions": 7,
-          "marks": 100
+          "name": "Quantitative Aptitude",
+          "marks": 30,
+          "topics": [
+            {
+              "name": "Data Interpretation",
+              "high": true
+            },
+            {
+              "name": "Arithmetic",
+              "high": false
+            }
+          ]
+        },
+        {
+          "name": "English Language",
+          "marks": 30,
+          "topics": [
+            {
+              "name": "Reading comprehension",
+              "high": false
+            }
+          ]
         }
-      ],
-      "total_questions": 14,
-      "total_marks": 200,
-      "duration": "180 minutes total (90+90)",
-      "negative_marking": "No negative marking in descriptive papers"
+      ]
+    },
+    {
+      "tier_name": "Phase 2 - Mains (3 papers, 300 marks)",
+      "subjects": [
+        {
+          "name": "Paper 1: Economic & Social Issues",
+          "marks": 100,
+          "topics": [
+            {
+              "name": "Indian Economy",
+              "high": true
+            },
+            {
+              "name": "Social Issues",
+              "high": true
+            },
+            {
+              "name": "Growth & Development",
+              "high": false
+            }
+          ]
+        },
+        {
+          "name": "Paper 2: English (Writing Skills)",
+          "marks": 100,
+          "topics": [
+            {
+              "name": "Essay",
+              "high": true
+            },
+            {
+              "name": "Précis & comprehension",
+              "high": false
+            }
+          ]
+        },
+        {
+          "name": "Paper 3: Finance & Management",
+          "marks": 100,
+          "topics": [
+            {
+              "name": "Financial Markets",
+              "high": true
+            },
+            {
+              "name": "Management theories",
+              "high": true
+            },
+            {
+              "name": "Risk & Regulation",
+              "high": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tier_name": "Interview (75 marks)",
+      "subjects": [
+        {
+          "name": "Personality & domain interview",
+          "marks": 75,
+          "topics": []
+        }
+      ]
     }
   ],
   "major_posts": [
     {
-      "post": "RBI Grade B Officer (Divisional Manager / Manager-level)",
-      "pay_level": "₹78,450-1,23,000 (revised pay scale)",
-      "in_hand_salary": "₹1,30,000–1,50,000/month including all allowances",
-      "department": "Reserve Bank of India - Various departments (Monetary Policy, Banking Regulation, Payment Systems, etc.)"
+      "post": "RBI Grade B Officer (Manager-level)",
+      "pay_level": "Basic ₹78,450",
+      "in_hand_salary": "~₹1,54,936/mo gross + housing, medical",
+      "department": "Reserve Bank of India"
     }
   ],
   "extra_sections": [
@@ -155,29 +231,44 @@
       "icon": "💎",
       "type": "text",
       "content": [
-        "<h3>Compensation Package</h3>",
-        "Basic salary ₹78,450 is 60% higher than IAS entry (₹56,100). Total in-hand: ₹1.3-1.5 lakh/month BEFORE promotions.",
-        "RBI pay scales are independent of Central Government and significantly higher. After 4-5 years (Grade A promotion), salary jumps to ₹1.8-2.2 lakh/month.",
-        "At Director level (8-10 years), ₹3-4 lakh/month. RBI Governor (top position) earns ₹4-5 lakh/month equivalent - one of India's highest-paid government positions.",
-        "<h3>Lifestyle & Work Profile</h3>",
+        "Compensation Package Basic salary ₹78,450 is 60% higher than IAS entry (₹56,100).",
+        "Total in-hand: ₹1.3-1.5 lakh/month BEFORE promotions. RBI pay scales are independent of Central Government and significantly higher.",
+        "After 4-5 years (Grade A promotion), salary jumps to ₹1.8-2.2 lakh/month. At Director level (8-10 years), ₹3-4 lakh/month.",
+        "RBI Governor (top position) earns ₹4-5 lakh/month equivalent - one of India's highest-paid government positions. Lifestyle & Work Profile",
         "Housing: RBI provides heavily subsidized accommodation in South Mumbai (Bandra, Worli), Delhi (premium colonies), or other metro cities. Rent subsidy alone worth ₹40,000-60,000/month.",
         "Work timings: 5-day week, Monday-Friday 9:30 AM - 5:30 PM (no field postings, no transfers to villages). International exposure: Attend IMF Board meetings, World Bank conferences, BIS forums in Switzerland.",
-        "Peer group: Some of India's brightest economists, bureaucrats, and finance professionals.",
-        "<h3>Intellectual Work Quality</h3>",
+        "Peer group: Some of India's brightest economists, bureaucrats, and finance professionals. Intellectual Work Quality",
         "You directly influence India's economic policy - setting repo rates, designing digital currency (e-Rupee), regulating fintech, managing financial stability. The intellectual stimulation is unmatched in government service.",
-        "Research opportunities: RBI publishes working papers; officers contribute to monetary policy research.",
-        "<h3>Career Growth</h3>",
+        "Research opportunities: RBI publishes working papers; officers contribute to monetary policy research. Career Growth",
         "Grade B → Grade A (4-5 years) → Director → Chief General Manager (CGM) → Executive Director (ED) → Deputy Governor (2 posts) → Governor (1 post). The RBI Governor is one of the most powerful economic policymakers in India - equivalent to Federal Reserve Chairman in USA.",
         "This trajectory offers both power and intellectual satisfaction."
       ]
     },
     {
-      "heading": "Visual: 3-Stage Exam Structure",
-      "icon": "🎯",
-      "type": "svg_block",
-      "svg": "<svg viewBox=\"0 0 700 320\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\">\n <defs>\n <marker id=\"arr-rbi\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\">\n <polygon points=\"0 0, 10 3, 0 6\" fill=\"#1B6B4A\"/>\n </marker>\n </defs>\n <text x=\"350\" y=\"28\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">RBI Grade B - 3-Stage Exam Structure</text>\n <rect x=\"80\" y=\"60\" width=\"180\" height=\"100\" rx=\"12\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/>\n <text x=\"170\" y=\"85\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1E40AF\">Phase 1: Prelims</text>\n <text x=\"170\" y=\"105\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#1E40AF\">200 marks</text>\n <text x=\"170\" y=\"125\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">GA • English • Reaso</text>\n <text x=\"170\" y=\"143\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">Quant • 2 hours</text>\n <line x1=\"265\" y1=\"110\" x2=\"295\" y2=\"110\" stroke=\"#1B6B4A\" stroke-width=\"2\" marker-end=\"url(#arr-rbi)\"/>\n <rect x=\"300\" y=\"60\" width=\"180\" height=\"100\" rx=\"12\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/>\n <text x=\"390\" y=\"85\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#145236\">Phase 2: Mains</text>\n <text x=\"390\" y=\"105\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#145236\">300 marks</text>\n <text x=\"390\" y=\"125\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">ESI + FM + Eng Desc</text>\n <text x=\"390\" y=\"143\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">3 papers • 1.5 hr ea</text>\n <line x1=\"485\" y1=\"110\" x2=\"515\" y2=\"110\" stroke=\"#1B6B4A\" stroke-width=\"2\" marker-end=\"url(#arr-rbi)\"/>\n <rect x=\"520\" y=\"60\" width=\"140\" height=\"100\" rx=\"12\" fill=\"#F3E8FF\" stroke=\"#7C3AED\" stroke-width=\"2\"/>\n <text x=\"590\" y=\"85\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#6B21A8\">Interview</text>\n <text x=\"590\" y=\"105\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#6B21A8\">75 marks</text>\n <text x=\"590\" y=\"125\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#6B21A8\">Panel 5-6 officers</text>\n <text x=\"590\" y=\"143\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#6B21A8\">Economy focus</text>\n <!-- Final calc -->\n <rect x=\"150\" y=\"210\" width=\"400\" height=\"80\" rx=\"12\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/>\n <text x=\"350\" y=\"240\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#C2410C\">Final Merit = Mains (300) + Interview (7</text>\n <text x=\"350\" y=\"262\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#9A3412\">Prelims is only qual</text>\n <text x=\"350\" y=\"280\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" font-weight=\"700\" fill=\"#EA580C\">~ 300-350 total vacanc</text>\n</svg>",
-      "caption": "Final selection is based on Mains + Interview only - Prelims is qualifying",
-      "description": "About 2 lakh candidates apply yearly for 300-350 seats. Prelims cut-off is high (~180/200). Mains requires strong command of economics, finance, and descriptive writing."
+      "type": "process_flow",
+      "heading": "How RBI Grade B selection works",
+      "steps": [
+        {
+          "icon": "📝",
+          "title": "Phase 1 (qualifying)",
+          "desc": "A 200-question online objective test in 120 minutes with sectional cutoffs. Qualifying only, so these marks do not count toward the final merit."
+        },
+        {
+          "icon": "📚",
+          "title": "Phase 2 (mains, 300 marks)",
+          "desc": "Three papers on Economic & Social Issues, English Writing Skills, and Finance & Management. A mix of objective and descriptive questions."
+        },
+        {
+          "icon": "🗣️",
+          "title": "Interview (75 marks)",
+          "desc": "A personality and domain interview for those who clear Phase 2. A qualifying psychometric test is held before it."
+        },
+        {
+          "icon": "🏅",
+          "title": "Final merit (80:20)",
+          "desc": "Phase 2 plus the interview decide selection in an 80:20 ratio. Phase 1 marks are not added."
+        }
+      ]
     },
     {
       "heading": "RBI Grade B 2026 Salary & Promotion Structure",
@@ -195,26 +286,26 @@
           "Entry",
           "Grade B (Manager/DM)",
           "₹78,450",
-          "₹1,30,000-1,50,000/month",
+          "₹1,50,000–1,55,000/month",
           "0"
         ],
         [
           "Promotion 1",
-          "Grade A (Senior Manager/ADM)",
+          "Grade C (Assistant GM)",
           "₹95,000-1,10,000",
           "₹1,80,000-2,20,000/month",
           "4-5 years"
         ],
         [
           "Promotion 2",
-          "Director (Top-level manager)",
+          "Grade D (DGM / GM)",
           "₹1,20,000+",
           "₹2,50,000-3,00,000/month",
           "8-10 years"
         ],
         [
           "Promotion 3",
-          "CGM (Chief General Manager)",
+          "Grade E (Chief GM)",
           "₹1,40,000+",
           "₹3,00,000-3,50,000/month",
           "12-14 years"
@@ -297,63 +388,123 @@
       "content": "RBI Grade B Mains requires deep economics knowledge - macro, Indian economy, monetary policy. Candidates with economics background have an edge.<br><br>Non-economics students need 12+ months of dedicated prep."
     },
     {
-      "type": "svg_block",
-      "heading": "Visual: Key Numbers",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">₹78,450 basic (₹1.</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Salary</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">~300-350</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Vacancies</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">RBI offices (citie</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Posting</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">21-30 (Gen)</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Age</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
-      "caption": "Key facts",
-      "description": "Quick overview."
-    },
-    {
-      "type": "text",
-      "heading": "RBI Grade B Exam Pattern - Three Phases Explained",
-      "content": [
-        "The RBI Grade B recruitment process has three distinct phases, making it one of the most rigorous exams in Indian banking. Each phase tests different competencies and requires a separate preparation strategy.",
-        "Phase 1 is the preliminary screening exam consisting of 200 questions to be completed in 120 minutes. It covers four sections: General Awareness (80 questions), Quantitative Aptitude (30 questions), English Language (30 questions), and Reasoning (60 questions).",
-        "There is negative marking of 0.25 marks for each wrong answer. Importantly, there are sectional cutoffs - you must clear the minimum threshold in each section independently, not just the overall cutoff.",
-        "This makes Phase 1 dangerous for candidates who neglect any single section.",
-        "Phase 2 is the main exam and is considerably more demanding. It has three papers conducted on the same day.",
-        "Paper 1 covers Economic and Social Issues (100 marks, 90 minutes). Paper 2 covers English Writing Skills (100 marks, 90 minutes) with essay writing, précis writing, reading comprehension, and business or office communication.",
-        "Paper 3 covers Finance and Management (100 marks, 90 minutes). The <a href=\"/exam/upsc-nda-na\" style=\"text-decoration:underline;color:inherit\">combined</a> score of all three papers determines your Phase 2 rank.",
-        "Paper 2 is subjective and evaluated manually, meaning the quality of your arguments and writing clarity matters significantly.",
-        "Phase 3 is the interview round, carrying a weightage of 50 marks in the DR General category and 75 marks for DEPR and DSIM streams. The final selection is based on the combined score of Phase 2 and Phase 3.",
-        "The interview panel typically includes senior RBI officials and external experts who assess your understanding of economic issues, financial markets, central banking operations, and current policy debates."
+      "type": "stat_grid",
+      "heading": "RBI Grade B at a glance",
+      "items": [
+        {
+          "icon": "💰",
+          "value": "₹78,450",
+          "label": "Basic pay",
+          "color": "green"
+        },
+        {
+          "icon": "💵",
+          "value": "~₹1.55L",
+          "label": "Gross/mo",
+          "color": "amber"
+        },
+        {
+          "icon": "📋",
+          "value": "60",
+          "label": "Vacancies 2026",
+          "color": "green"
+        },
+        {
+          "icon": "🎂",
+          "value": "21–30",
+          "label": "Age",
+          "color": "green"
+        }
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "Quick Facts",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Quick Facts</text><rect x=\"17\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"94\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">₹78,450 basic (₹1.</text><text x=\"94\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Salary</text><rect x=\"187\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"264\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">~300-350</text><text x=\"264\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Vacancies</text><rect x=\"357\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"434\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#92400E\">RBI offices (citie</text><text x=\"434\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Posting</text><rect x=\"527\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"604\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">21-30 (Gen)</text><text x=\"604\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Age</text></svg>",
-      "caption": "Quick reference facts",
-      "description": "Key facts and numbers at a glance"
-    },
-    {
-      "type": "text",
-      "heading": "Salary, Perks, and Lifestyle of an RBI Grade B Officer",
-      "content": [
-        "RBI Grade B officers are among the highest-paid entry-level government officers in India. The initial basic pay starts at Rs 55,200 per month under the revised pay structure.",
-        "With Dearness Allowance, House Rent Allowance, City Compensatory Allowance, Grade Allowance, and other components, the gross monthly salary reaches approximately Rs 1,05,000 to Rs 1,20,000 depending on the posting location.",
-        "The in-hand salary after deductions for provident fund, income tax, and NPS contribution is typically between Rs 80,000 and Rs 95,000 per month. This places RBI Grade B officers at a compensation level comparable to entry-level positions in many private sector banks and consulting firms, but with significantly better job security and work-life balance.",
-        "Beyond salary, RBI provides several exceptional perks. Officers receive fully furnished accommodation in RBI residential colonies or a substantial House Rent Allowance if accommodation is not available.",
-        "Medical expenses for the officer and family are covered through a comprehensive healthcare scheme. RBI Grade B officers are eligible for subsidized loans for housing, vehicle, and personal purposes at rates significantly below market levels.",
-        "Leave benefits are generous - 30 days privilege leave, 20 days casual leave, and additional special leave provisions annually. The retirement benefits include a pension scheme, gratuity, and provident fund accumulation.",
-        "RBI also sponsors higher education programs at premier institutions in India and abroad for officers who show potential for specialized roles.",
-        "Career progression follows a structured path: Grade B officers are promoted to Grade C (equivalent to Assistant General Manager) typically within 7 to 9 years. Further promotions to Grade D (Deputy General Manager), Grade E (General Manager), and eventually Chief General Manager and Executive Director levels are possible based on performance and seniority.",
-        "RBI Deputy Governors and the Governor represent the apex of this career ladder."
+      "type": "icon_list",
+      "heading": "What each phase tests",
+      "items": [
+        {
+          "icon": "1️⃣",
+          "title": "Phase 1 - screening (200 marks)",
+          "sub": "General Awareness 80, Reasoning 60, Quant 30, English 30, in 120 minutes with sectional timing. Negative marking is 0.25 per wrong answer, and it is qualifying only."
+        },
+        {
+          "icon": "2️⃣",
+          "title": "Phase 2 - Paper 1 ESI (100)",
+          "sub": "Economic & Social Issues, a mix of objective and descriptive questions. This and Finance & Management need real conceptual depth."
+        },
+        {
+          "icon": "3️⃣",
+          "title": "Phase 2 - Papers 2 & 3 (200)",
+          "sub": "English Writing Skills (essays and précis) and Finance & Management. Phase 2 totals 300 marks across the three papers."
+        },
+        {
+          "icon": "4️⃣",
+          "title": "Interview (75 marks)",
+          "sub": "A personality and domain interview. Final merit combines Phase 2 and the interview in an 80:20 ratio."
+        }
       ]
     },
     {
       "type": "text",
-      "heading": "Preparation Strategy - How to Cover the Massive Syllabus",
+      "heading": "Phase 2 is where the exam is won",
       "content": [
-        "The biggest challenge in RBI Grade B preparation is the breadth of the syllabus. Unlike banking exams like IBPS PO or SBI PO where the focus is on aptitude and English, Grade B demands deep knowledge of economics, finance, and management alongside the standard aptitude sections.",
-        "Start with Phase 1 preparation and simultaneously build your Phase 2 foundation. Since Phase 1 covers General Awareness, Quantitative Aptitude, English, and Reasoning, your preparation will overlap significantly with other banking exams.",
-        "Allocate 2 to 3 months for Phase 1 readiness while reading economics textbooks that will serve Phase 2 preparation.",
-        "For Economic and Social Issues, the recommended textbook is Ramesh Singh's Indian Economy for UPSC - it covers every topic that appears in the RBI Grade B syllabus. Supplement this with Economic Survey chapters, RBI Annual Reports, and monthly monetary policy statements.",
-        "Focus on understanding concepts rather than memorizing data, because Phase 2 questions test analytical ability and application of economic principles to real-world scenarios.",
-        "For Finance and Management, use Prasanna Chandra's Financial Management as your primary textbook. For the management portion, study organizational behavior, leadership theories, corporate governance, and strategic management concepts.",
-        "RBI frequently asks questions about Basel norms, financial inclusion initiatives, payment system developments, and fintech regulation - prepare these from RBI's own publications available free on rbi.org.in.",
-        "The English Writing Skills paper requires dedicated practice. Write at least two essays per week on economic and financial topics, practice précis writing by summarizing RBI speeches and reports, and study business communication formats.",
-        "Get your essays reviewed by someone proficient in English writing - grammatical accuracy, coherent argumentation, and concise expression are all evaluated."
+        "Phase 1 only gets you through the door. The real contest is Phase 2, because the final merit is built from your three Phase 2 papers and the interview, not from Phase 1.",
+        "Economic & Social Issues and Finance & Management reward depth, not aptitude tricks. You need to understand how the economy and financial system actually work, then express it clearly.",
+        "The descriptive sections are marked by hand, so the quality of your arguments and your clarity matter as much as the facts. Vague, padded answers lose marks.",
+        "Read the economy with an analytical eye through the year, not as last-minute current affairs. Connect events like rate decisions or new regulations to the concepts behind them.",
+        "Most candidates who clear Phase 1 are close in ability. Consistent answer writing from early on is what separates a selection from a near miss.",
+        "A working professional can clear this exam, but only with disciplined evening and weekend study. The breadth of ESI and Finance means starting months ahead beats any last-minute push."
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "Salary, perks and lifestyle",
+      "items": [
+        {
+          "icon": "💰",
+          "title": "Pay",
+          "sub": "Basic ₹78,450 and gross around ₹1,54,936 with DA, HRA, and Grade and Special allowances. It is among the best entry-level government pay in India."
+        },
+        {
+          "icon": "🏠",
+          "title": "Housing & medical",
+          "sub": "Furnished RBI accommodation or a substantial HRA, plus comprehensive medical cover for the officer and family."
+        },
+        {
+          "icon": "🏦",
+          "title": "Loans & leave",
+          "sub": "Concessional loans for home and vehicle, generous leave, and strong retirement and pension benefits."
+        },
+        {
+          "icon": "📈",
+          "title": "Growth & exposure",
+          "sub": "Sponsored higher education in India and abroad, with promotion from Grade B to Grade C in roughly 7 to 8 years."
+        }
+      ]
+    },
+    {
+      "type": "process_flow",
+      "heading": "How to cover the massive syllabus",
+      "steps": [
+        {
+          "icon": "🧱",
+          "title": "Build both phases together",
+          "desc": "Spend 2-3 months on Phase 1 while reading economics that doubles for Phase 2. The syllabus is broad, so start the ESI reading early."
+        },
+        {
+          "icon": "📕",
+          "title": "Economic & Social Issues",
+          "desc": "Use Ramesh Singh's Indian Economy. Understand concepts rather than memorise data, since Phase 2 tests application."
+        },
+        {
+          "icon": "📗",
+          "title": "Finance & Management",
+          "desc": "Prasanna Chandra for finance and organisational behaviour for management. Prepare Basel norms, financial inclusion, payments and fintech."
+        },
+        {
+          "icon": "✍️",
+          "title": "English Writing Skills",
+          "desc": "Write two essays a week on economic topics plus précis practice. Get them reviewed, because clarity and argument quality are scored."
+        }
       ]
     },
     {
@@ -362,43 +513,93 @@
       "content": "Phase 2 Paper 2 (English Writing Skills) is where most technically strong candidates lose marks. Engineers and commerce graduates often struggle with essay structure and argument development despite having strong subject knowledge.<br><br>Start writing practice at least 3 months before the Phase 2 exam. Write essays on topics like monetary policy transmission, financial inclusion challenges, digital currency implications, and climate finance.<br><br>Time yourself strictly - you get roughly 25 minutes per essay in the actual exam."
     },
     {
-      "type": "text",
-      "heading": "RBI Grade B vs SEBI Grade A vs NABARD Grade A - Which to Choose",
-      "content": [
-        "Three regulatory body exams compete for the same pool of aspirants in India: RBI Grade B, SEBI Grade A, and NABARD Grade A. Each offers a distinct career path, and understanding the differences helps you prioritize preparation if you plan to attempt all three.",
-        "RBI Grade B focuses on monetary policy, banking regulation, foreign exchange management, and financial stability. The work involves policy formulation, bank inspections, currency management, and economic research.",
-        "RBI officers are posted across metro and non-metro locations where RBI has regional offices. The career peak is Executive Director or Deputy Governor with influence over national monetary policy.",
-        "SEBI Grade A deals with capital market regulation - securities law enforcement, investor protection, market surveillance, and regulating mutual funds, stock exchanges, and listed companies. SEBI officers are primarily posted in Mumbai with some positions in regional offices.",
-        "The work is more legal and compliance-oriented compared to RBI. SEBI's salary structure is slightly higher than RBI at the entry level due to Mumbai-specific allowances.",
-        "NABARD Grade A focuses on rural development, agricultural finance, cooperative banking regulation, and microfinance oversight. NABARD officers are posted in both metro and rural locations and play a significant role in shaping policies that affect rural India directly.",
-        "The syllabus includes agriculture and rural development topics not covered in RBI or SEBI exams.",
-        "If you are interested in macroeconomics and monetary policy, RBI is the best fit. If capital markets and securities regulation excite you, target SEBI.",
-        "If rural development and agricultural economics are your passion, NABARD is ideal. Many serious aspirants prepare for all three simultaneously since the economics and finance portions overlap significantly."
+      "type": "comparison_card",
+      "heading": "RBI Grade B vs SEBI Grade A vs NABARD Grade A",
+      "win": {
+        "name": "RBI Grade B",
+        "amount": "Monetary policy",
+        "sub": "Banking regulation, forex and financial stability. The peak is Executive Director or Deputy Governor."
+      },
+      "others": [
+        {
+          "name": "SEBI Grade A",
+          "amount": "Capital markets",
+          "sub": "Securities law, investor protection and market surveillance. Mumbai-based, with slightly higher entry pay."
+        },
+        {
+          "name": "NABARD Grade A",
+          "amount": "Rural & agri finance",
+          "sub": "Agricultural finance, cooperative banking and microfinance, with an extra agri-rural syllabus."
+        }
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "Life inside the Reserve Bank",
+      "items": [
+        {
+          "icon": "🏛️",
+          "title": "Central bank, not retail",
+          "sub": "No retail customers or sales targets. The work is policy-oriented, research-heavy and intellectually demanding, though it can feel bureaucratic."
+        },
+        {
+          "icon": "📊",
+          "title": "A typical day",
+          "sub": "Reviewing bank inspection reports, analysing monetary data and preparing policy notes, far from counter banking."
+        },
+        {
+          "icon": "🎓",
+          "title": "Training culture",
+          "sub": "Induction at the RBI Academy in Chennai, with specialised programmes in India and abroad through your career."
+        },
+        {
+          "icon": "🚚",
+          "title": "Transfers",
+          "sub": "You serve across regional offices over your career, so expect multiple cities. Posting preferences are considered, not guaranteed."
+        }
+      ]
+    },
+    {
+      "type": "stat_grid",
+      "heading": "Phase 1 sections (200 marks)",
+      "items": [
+        {
+          "icon": "🌐",
+          "value": "80",
+          "label": "General Awareness",
+          "color": "amber"
+        },
+        {
+          "icon": "🧩",
+          "value": "60",
+          "label": "Reasoning",
+          "color": "green"
+        },
+        {
+          "icon": "🔢",
+          "value": "30",
+          "label": "Quant",
+          "color": "green"
+        },
+        {
+          "icon": "📖",
+          "value": "30",
+          "label": "English",
+          "color": "green"
+        }
       ]
     },
     {
       "type": "text",
-      "heading": "Life Inside the Reserve Bank of India",
+      "heading": "Cutoffs - sectional and overall",
       "content": [
-        "Working at the RBI is fundamentally different from working at a commercial bank. As a central bank, RBI does not deal with retail customers or chase revenue targets.",
-        "The work environment is policy-oriented, research-heavy, and intellectually stimulating, but it can also be bureaucratic and slow-paced compared to private sector roles.",
-        "A typical Grade B officer's day might involve reviewing inspection reports of commercial banks, analyzing monetary data for policy recommendations, preparing notes on foreign exchange reserve management, or evaluating applications from fintech companies seeking regulatory approval. The pace of work varies by department - the Monetary Policy Department and Department of Economic and Policy Research are academically intense, while the Department of Banking Regulation involves field inspections and compliance monitoring.",
-        "RBI has a strong internal training culture. New Grade B officers undergo extensive induction training at the RBI Academy in Chennai covering central banking functions, regulatory frameworks, and economic analysis.",
-        "Throughout their career, officers are sent for specialized training programs both domestically and internationally, including at institutions like the IMF, Bank for International Settlements, and Federal Reserve.",
-        "The transfer policy requires officers to serve in different regional offices over their career, which means you will likely work in multiple cities across India. While metro postings like Mumbai, Delhi, and Chennai are preferred, officers must also serve in offices at Bhopal, Jaipur, Patna, Nagpur, and other cities.",
-        "Posting preferences are considered but not guaranteed, especially at junior levels.",
-        "For more details, see our guide on <a href=\"/exam/nda\" style=\"text-decoration:underline;color:inherit\">NDA Exam 2026</a>.",
-        "For more details, see our guide on <a href=\"/exam/ibps-po\" style=\"text-decoration:underline;color:inherit\">IBPS PO 2026</a>.",
-        "For more details, see our guide on <a href=\"/exam/sbi-po\" style=\"text-decoration:underline;color:inherit\">SBI PO 2026</a>.",
-        "For more details, see our guide on <a href=\"/exam/ibps-clerk\" style=\"text-decoration:underline;color:inherit\">IBPS Clerk 2026</a>."
+        "Phase 1 has both sectional cutoffs and an overall cutoff. You must clear the minimum in every section, so no single area can be neglected.",
+        "That makes Phase 1 risky for lopsided preparation. A strong overall score will not save you if you fall below the bar in one section.",
+        "There is negative marking of 0.25 for each wrong answer, so blind guessing hurts. Attempt the questions you are confident about and leave the rest.",
+        "Cutoffs move year to year with paper difficulty, and RBI does not release an official answer key. Treat past cutoffs as a guide, not a guarantee.",
+        "Remember that Phase 1 marks do not count toward your final rank. They only decide whether you reach Phase 2, where the merit is actually made.",
+        "The interview carries 75 marks against Phase 2's 300, so it shapes roughly a fifth of the final score. A strong interview can rescue a modest Phase 2, and a weak one can undo a good paper."
       ]
-    },
-    {
-      "type": "svg_block",
-      "heading": "Visual: Exam Pattern",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Exam Pattern</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">80</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">General Awareness & </text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">80 Qs</text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">30</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Quantitative Aptitud</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">30 Qs</text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">30</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">English Language</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">30 Qs</text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">60</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Reasoning (Logic, Pu</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">60 Qs</text></svg>",
-      "caption": "Paper structure",
-      "description": "Subject-wise marks."
     },
     {
       "type": "text",
@@ -422,9 +623,8 @@
         "RBI Grade B eligibility requirements are stricter than most banking exams. Candidates must hold a minimum of 60% marks in their bachelor's degree (50% for SC/ST/PwBD candidates).",
         "The degree can be in any discipline - engineering, commerce, arts, science, law, or medicine graduates are all eligible. Candidates with post-graduate degrees or professional qualifications like CA, CS, CFA, or MBA are also eligible.",
         "The age limit for the DR General category is 21 to 30 years as on the cutoff date specified in the notification. Age relaxation follows standard government norms: 3 years for OBC-NCL candidates, 5 years for SC/ST candidates, and 10 years for PwBD candidates.",
-        "Ex-servicemen and certain other categories receive additional relaxation as per government rules.",
-        "For the DEPR (Department of Economic and Policy Research) stream, candidates must have a Master's degree in Economics with minimum 55% marks or a PhD in Economics. For the DSIM (Department of Statistics and Information Management) stream, a Master's degree in Statistics with minimum 55% marks is required.",
-        "These specialized streams have fewer vacancies but also fewer applicants, making the competition slightly less intense for candidates with the right academic background."
+        "Ex-servicemen and certain other categories receive additional relaxation as per government rules. For the DEPR (Department of Economic and Policy Research) stream, candidates must have a Master's degree in Economics with minimum 55% marks or a PhD in Economics.",
+        "For the DSIM (Department of Statistics and Information Management) stream, a Master's degree in Statistics with minimum 55% marks is required. These specialized streams have fewer vacancies but also fewer applicants, making the competition slightly less intense for candidates with the right academic background."
       ]
     },
     {
@@ -432,10 +632,9 @@
       "heading": "Interview Preparation - What the Panel Asks",
       "content": [
         "The RBI Grade B interview is unlike typical job interviews. The panel is genuinely interested in your understanding of economic issues and your ability to think critically about policy problems.",
-        "Expect questions that test application of concepts rather than textbook definitions.",
-        "Common interview themes include current monetary policy decisions and their rationale, the impact of global economic events on India, digital currency and fintech regulation debates, financial inclusion progress and challenges, inflation targeting framework analysis, and banking sector reforms. You should be able to discuss recent RBI circulars, the latest monetary policy statement, and any major financial event that occurred in the three months before your interview.",
-        "The panel also asks about your educational background, work experience if any, and motivation for joining RBI. Have a clear, honest answer for why you want to work at RBI specifically rather than a commercial bank or another regulatory body.",
-        "Demonstrating genuine interest in central banking and policy work creates a stronger impression than generic answers about job security or salary.",
+        "Expect questions that test application of concepts rather than textbook definitions. Common interview themes include current monetary policy decisions and their rationale, the impact of global economic events on India, digital currency and fintech regulation debates, financial inclusion progress and challenges, inflation targeting framework analysis, and banking sector reforms.",
+        "You should be able to discuss recent RBI circulars, the latest monetary policy statement, and any major financial event that occurred in the three months before your interview. The panel also asks about your educational background, work experience if any, and motivation for joining RBI.",
+        "Have a clear, honest answer for why you want to work at RBI specifically rather than a commercial bank or another regulatory body. Demonstrating genuine interest in central banking and policy work creates a stronger impression than generic answers about job security or salary.",
         "Mock interviews with peers or mentors who have cleared RBI Grade B are invaluable. If you cannot find someone in your network, online mock interview services offered by EduTap, ixamBee, and similar platforms provide structured practice with feedback.",
         "The interview typically lasts 15 to 20 minutes, and maintaining composure while articulating your views clearly is as important as the content of your answers."
       ]
@@ -445,20 +644,17 @@
       "heading": "How Many Attempts Should You Give RBI Grade B",
       "content": [
         "RBI Grade B is one of the toughest exams in the country with a selection rate often below 1%. Most successful candidates clear it in their second or third attempt rather than the first.",
-        "If you are serious about an RBI career, plan for at least 2 to 3 full attempts while keeping age limits in mind.",
-        "First attempt candidates should focus primarily on clearing Phase 1 and gaining exam experience. Understanding the actual difficulty level, time pressure, and question patterns of the real exam is invaluable - no number of mock tests perfectly replicates the actual exam environment.",
-        "Use your first attempt as an intensive learning experience and analyze your performance thoroughly afterward.",
+        "If you are serious about an RBI career, plan for at least 2 to 3 full attempts while keeping age limits in mind. First attempt candidates should focus primarily on clearing Phase 1 and gaining exam experience.",
+        "Understanding the actual difficulty level, time pressure, and question patterns of the real exam is invaluable - no number of mock tests perfectly replicates the actual exam environment. Use your first attempt as an intensive learning experience and analyze your performance thoroughly afterward.",
         "Between attempts, focus on the specific areas where you scored lowest. If Phase 1 General Awareness was weak, dedicate 6 months to building a strong current affairs and economics foundation.",
         "If Phase 2 writing was the issue, join a writing practice group or get professional essay evaluation. Each subsequent attempt should show measurable improvement in specific areas rather than a general hope that everything will go better this time."
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "RBI Grade B Salary Package",
-      "icon": "💰",
-      "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">RBI Grade B Officer Compensation</text><rect x=\"50\" y=\"50\" width=\"180\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"140\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">Basic ₹35K</text><rect x=\"250\" y=\"50\" width=\"180\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"340\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">In-hand ₹77K+</text><rect x=\"450\" y=\"50\" width=\"210\" height=\"35\" rx=\"8\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"555\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#92400E\">CTC ₹22-25 lakh/year</text></svg>",
-      "caption": "RBI Grade B is among the highest-paying government positions in India",
-      "description": "Additional benefits include RBI quarters, medical, and performance bonus."
+      "type": "number_highlight",
+      "big": "₹1,54,936",
+      "title": "Gross monthly salary",
+      "desc": "On a basic of ₹78,450, an RBI Grade B officer draws roughly ₹1,54,936 a month with allowances, plus housing, medical cover and concessional loans."
     }
   ],
   "important_dates": [
@@ -526,6 +722,14 @@
     {
       "question": "Is RBI Grade B better than SBI PO or SSC CGL?",
       "answer": "Yes, RBI Grade B is considered the top banking job in India. Starting salary is highest (₹78K+ vs SBI PO ₹48K), postings are in metros only (no rural transfers), promotion is fast (Manager in 5 years), work-life balance is better (no target-driven sales), and you get exposure to policy-making and international roles.<br><br>But competition is brutal - 1 in 1500 selection ratio vs 1 in 200 for SBI PO."
+    },
+    {
+      "question": "What is the RBI Grade B salary in 2026?",
+      "answer": "The starting basic pay is ₹78,450, with gross around ₹1,54,936 a month including allowances. Officers also get housing or HRA, medical cover, concessional loans and a pension."
+    },
+    {
+      "question": "What are the DEPR and DSIM streams in RBI Grade B?",
+      "answer": "General DR is for graduates with 60% and covers regulation and supervision work. DEPR needs a master's in Economics and focuses on monetary-policy research, while DSIM needs a master's in Statistics or Maths for data and survey work."
     }
   ],
   "official_portal": {
@@ -692,11 +896,25 @@
   "last_reviewed": "May 2026",
   "category": "banking",
   "salary_table": {
-    "intro": "",
+    "intro": "The starting basic pay is ₹78,450. With allowances, gross is roughly ₹1,54,936 a month, plus housing, medical cover and concessional loans.",
+    "label": "Salary",
+    "icon": "💰",
     "rows": [
       {
-        "post": "RBI Grade B Officer (Divisional Manager / Manager-level)",
-        "amount": "₹1,30,000–1,50,000/month including all allowances"
+        "post": "Gross (with allowances)",
+        "amount": "~₹1,54,936/mo"
+      },
+      {
+        "post": "Basic pay",
+        "amount": "₹78,450/mo"
+      },
+      {
+        "post": "Plus",
+        "amount": "DA, HRA, Grade & Special allowance"
+      },
+      {
+        "post": "Perks",
+        "amount": "Housing, medical, loans, pension"
       }
     ]
   },
@@ -721,7 +939,7 @@
   "status": "upcoming",
   "eligibility_data": {
     "reference_date": "As per notification",
-    "default_education": "Bachelor's degree from any recognised university",
+    "default_education": "Bachelor's degree with 60% (50% for SC/ST/PwBD)",
     "relaxations": [
       {
         "category": "OBC",
@@ -738,10 +956,33 @@
     ],
     "posts": [
       {
-        "post": "RBI Grade B",
+        "post": "Grade B - General (DR)",
         "min_age": 21,
-        "max_age": 30
+        "max_age": 30,
+        "education": "Bachelor's degree, 60% (50% reserved)",
+        "note": "Any discipline. Final-year students not eligible."
+      },
+      {
+        "post": "Grade B - DEPR",
+        "min_age": 21,
+        "max_age": 30,
+        "education": "Master's in Economics (around 55%)",
+        "note": "Dept of Economic & Policy Research."
+      },
+      {
+        "post": "Grade B - DSIM",
+        "min_age": 21,
+        "max_age": 30,
+        "education": "Master's in Statistics / Maths / Econometrics",
+        "note": "Dept of Statistics & Information Management."
       }
     ]
-  }
+  },
+  "changes_2026": [
+    "RBI released the Grade B 2026 notification on 29 April 2026 for 60 posts: 40 General, 10 DEPR and 10 DSIM.",
+    "Phase 1 was held on 13-14 June 2026. Phase 2 is scheduled for 25-26 July 2026, with the interview after that.",
+    "Phase 1 is only qualifying. Final merit comes from Phase 2 (300 marks) and the interview (75 marks), in an 80:20 ratio.",
+    "The starting basic pay is ₹78,450, with gross around ₹1,54,936 a month including allowances.",
+    "The General stream needs a graduate degree with 60% (50% for SC/ST/PwBD). DEPR and DSIM need a relevant master's."
+  ]
 }
