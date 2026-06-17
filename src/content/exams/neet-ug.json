@@ -1,6 +1,6 @@
 {
   "slug": "neet-ug",
-  "title": "NEET UG 2026",
+  "title": "NEET UG 2026 - Medical Entrance for MBBS, BDS & AYUSH",
   "meta_description": "NEET UG 2026 - medical entrance exam for MBBS, BDS, AYUSH. NTA exam pattern, syllabus, cutoff, counselling process, and preparation.",
   "hero": {
     "status": "upcoming",
@@ -93,28 +93,92 @@
   ],
   "exam_pattern": [
     {
-      "tier_name": "NEET UG Paper (3 hours 20 minutes - 200 minutes)",
+      "tier_name": "NEET UG Paper (3 hours, 180 questions)",
       "description": "200 MCQs across Physics, Chemistry, Botany, and Zoology. Each subject has Section A (35 questions, compulsory) + Section B (15 questions, attempt any 10). Total questions: 180 (35×4 = 140 compulsory + 40 optional). OMR-based offline exam.",
       "subjects": [
         {
-          "name": "Physics (35 compulsory + 10 from 15 optional)",
+          "name": "Physics (45 questions)",
           "questions": 45,
-          "marks": 180
+          "marks": 180,
+          "topics": [
+            {
+              "name": "Mechanics",
+              "high": true
+            },
+            {
+              "name": "Electrodynamics",
+              "high": true
+            },
+            {
+              "name": "Modern Physics",
+              "high": true
+            },
+            {
+              "name": "Optics",
+              "high": false
+            },
+            {
+              "name": "Thermodynamics",
+              "high": false
+            }
+          ]
         },
         {
-          "name": "Chemistry (35 compulsory + 10 from 15 optional)",
+          "name": "Chemistry (45 questions)",
           "questions": 45,
-          "marks": 180
+          "marks": 180,
+          "topics": [
+            {
+              "name": "Inorganic (NCERT)",
+              "high": true
+            },
+            {
+              "name": "Organic reactions",
+              "high": true
+            },
+            {
+              "name": "Physical Chemistry",
+              "high": false
+            }
+          ]
         },
         {
-          "name": "Botany (35 compulsory + 10 from 15 optional)",
+          "name": "Biology - Botany (45 questions)",
           "questions": 45,
-          "marks": 180
+          "marks": 180,
+          "topics": [
+            {
+              "name": "Plant Physiology",
+              "high": true
+            },
+            {
+              "name": "Genetics",
+              "high": true
+            },
+            {
+              "name": "Ecology",
+              "high": false
+            }
+          ]
         },
         {
-          "name": "Zoology (35 compulsory + 10 from 15 optional)",
+          "name": "Biology - Zoology (45 questions)",
           "questions": 45,
-          "marks": 180
+          "marks": 180,
+          "topics": [
+            {
+              "name": "Human Physiology",
+              "high": true
+            },
+            {
+              "name": "Biotechnology",
+              "high": true
+            },
+            {
+              "name": "Animal Kingdom",
+              "high": false
+            }
+          ]
         }
       ],
       "total_questions": 180,
@@ -125,31 +189,90 @@
   ],
   "major_posts": [
     {
-      "post": "MBBS at Government Medical College (Top)",
-      "pay_level": "Starting: ₹60,000-1,00,000/month",
-      "in_hand_salary": "Internship: ₹30,000-60,000. Post-PG: ₹1,00,000+ (consultant)",
-      "department": "AIIMS Delhi, Maulana Azad, Grant Medical, Top Government Colleges"
+      "post": "Junior Resident / Medical Officer",
+      "pay_level": "After MBBS (5.5 yrs)",
+      "in_hand_salary": "~₹60k–1L/mo",
+      "department": "Government & private hospitals"
     },
     {
-      "post": "MBBS at Government Medical College (Mid-tier)",
-      "pay_level": "Starting: ₹45,000-70,000/month",
-      "in_hand_salary": "Internship: ₹20,000-35,000. Post-specialization: ₹80,000+",
-      "department": "State government medical colleges"
-    },
-    {
-      "post": "MBBS at Private Medical College",
-      "pay_level": "Same post-degree salary as government MBBS",
-      "in_hand_salary": "Fees: ₹5-25 lakh/year for basic colleges. Placements: ₹40,000-80,000 starting",
-      "department": "Top private colleges: Manipal, CMC Vellore, Kasturba Medical, etc."
-    },
-    {
-      "post": "BDS (Dental) at Government College",
-      "pay_level": "₹35,000-55,000/month",
-      "in_hand_salary": "Private practice earning potential higher",
-      "department": "Government dental colleges"
+      "post": "Specialist (after MD/MS)",
+      "pay_level": "After PG",
+      "in_hand_salary": "₹1L+/mo",
+      "department": "Hospitals, consultancy, practice"
     }
   ],
   "extra_sections": [
+    {
+      "type": "process_flow",
+      "heading": "How NEET leads to a medical seat",
+      "steps": [
+        {
+          "icon": "📝",
+          "title": "One exam, 720 marks",
+          "desc": "A single 3-hour paper of 180 questions decides everything. There is no separate mains or interview."
+        },
+        {
+          "icon": "📊",
+          "title": "Score, percentile & rank",
+          "desc": "Your marks convert to a percentile and an all-India rank. Clearing the qualifying percentile makes you eligible for counselling."
+        },
+        {
+          "icon": "🗂️",
+          "title": "Counselling (AIQ + State)",
+          "desc": "You fill choices in All-India Quota and State Quota counselling, across several rounds, based on your rank."
+        },
+        {
+          "icon": "🎓",
+          "title": "MBBS / BDS / AYUSH seat",
+          "desc": "A seat is allotted by rank, category and your choices. That is where the real medical journey begins."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "NEET UG exam pattern - every detail",
+      "icon": "📝",
+      "content": [
+        "NEET UG has 200 MCQs across Physics (50 questions - attempt 45), Chemistry (50 questions - attempt 45), and Biology (100 questions - attempt 90). Each section is divided into Section A (35 mandatory questions) and Section B (15 questions, attempt 10).",
+        "Total marks: 720. Duration: 3 hours 20 minutes.",
+        "Marking: +4 correct, -1 wrong. Biology dominates NEET: 90 questions worth 360 marks - exactly 50% of the paper.",
+        "Botany and Zoology get 45 questions each. If you score 300+ in Biology alone, you're virtually guaranteed a government medical seat.",
+        "Biology is also the most NCERT-dependent - questions are often direct statements from NCERT textbook. Students who memorize NCERT Biology word-by-word score 320-340 in Biology.",
+        "Physics is the most challenging section for biology students. Topics like Mechanics, Electrostatics, Optics, and Modern Physics require mathematical problem-solving skills.",
+        "However, NEET Physics is significantly easier than JEE Physics - questions test concept application rather than complex multi-step calculations. Chemistry is the easiest section for high scores.",
+        "Organic Chemistry (named reactions, reagents, IUPAC naming) and Inorganic Chemistry (periodic trends, p-block, d-block) are heavily NCERT-based. Physical Chemistry requires formula application and calculations but at a straightforward level."
+      ]
+    },
+    {
+      "type": "stat_grid",
+      "heading": "NEET at a glance",
+      "items": [
+        {
+          "icon": "👥",
+          "value": "24L+",
+          "label": "Applicants",
+          "color": "green"
+        },
+        {
+          "icon": "🎓",
+          "value": "~1.1L",
+          "label": "MBBS seats",
+          "color": "amber"
+        },
+        {
+          "icon": "🎯",
+          "value": "720",
+          "label": "Total marks",
+          "color": "green"
+        },
+        {
+          "icon": "🖊️",
+          "value": "OMR",
+          "label": "Offline, pen-paper",
+          "color": "green"
+        }
+      ]
+    },
     {
       "heading": "NEET Cutoff - Score Ranges for Different Colleges",
       "icon": "📊",
@@ -212,27 +335,155 @@
       ]
     },
     {
-      "heading": "",
-      "type": "svg_block",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">NEET UG single gateway all medical colle</text><rect x=\"30\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"130\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#145236\">Physics</text><text x=\"130\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">45 Qs | 180 marks</text><rect x=\"250\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"350\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#1E40AF\">Chemistry</text><text x=\"350\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">45 Qs | 180 marks</text><rect x=\"470\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"570\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#C2410C\">Biology</text><text x=\"570\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#C2410C\">90 Qs | 360 marks</text></svg>",
-      "caption": "NEET UG has 200 questions (180 to attempt) for 720 marks in 3 hours 20 minutes. Biology carries 50% weightage. NCERT is the bible - 90% questions come from NCERT."
+      "type": "stat_grid",
+      "heading": "Marks distribution",
+      "items": [
+        {
+          "icon": "⚛️",
+          "value": "180",
+          "label": "Physics (45 Qs)",
+          "color": "green"
+        },
+        {
+          "icon": "🧪",
+          "value": "180",
+          "label": "Chemistry (45 Qs)",
+          "color": "green"
+        },
+        {
+          "icon": "🧬",
+          "value": "360",
+          "label": "Biology (90 Qs)",
+          "color": "amber"
+        },
+        {
+          "icon": "🎯",
+          "value": "720",
+          "label": "Total",
+          "color": "green"
+        }
+      ]
     },
     {
-      "heading": "Post-NEET - Counselling and Admission Process",
-      "icon": "🎓",
+      "type": "icon_list",
+      "heading": "Subject-wise strategy",
+      "items": [
+        {
+          "icon": "🧬",
+          "title": "Biology (360, your score-maker)",
+          "sub": "Read NCERT Class 11 and 12 line by line, several times. Many questions are direct NCERT statements with one word changed."
+        },
+        {
+          "icon": "⚛️",
+          "title": "Physics (180)",
+          "sub": "Focus on formulae and their application. Mechanics, Electrostatics and Current Electricity, and Modern Physics carry the most marks."
+        },
+        {
+          "icon": "🧪",
+          "title": "Chemistry (180)",
+          "sub": "Inorganic is the easiest 60-70 marks, almost pure NCERT. Master named reactions for Organic and 30-40 key formulae for Physical."
+        },
+        {
+          "icon": "📖",
+          "title": "The NCERT habit",
+          "sub": "Five focused readings of NCERT Biology leave you remembering most of the book. One-page notes per chapter make revision fast."
+        }
+      ]
+    },
+    {
       "type": "text",
+      "heading": "NEET score vs medical college admission",
+      "icon": "🏥",
       "content": [
-        "<h3>AIQ vs State Quota</h3><p>NEET score is used for two separate allocation processes: (1) All-India Quota (AIQ) - 15% of seats in government colleges are allocated nationally. Managed by MCC (<a href=\"/compare/jee-vs-neet\" style=\"text-decoration:underline;color:inherit\">Medical</a> Counselling Committee).",
-        "Registration by all-India rank. (2) State Quota - 85% of seats are state-specific.",
-        "Managed by state authorities.",
-        "Registration by state rank. You appear in both.",
-        "AIQ counselling happens July-August. State counselling happens August-September.",
-        "Multiple rounds of seat allocation happen - if you don't get your first choice, you can participate in subsequent rounds.</p>",
-        "<h3>Counselling Rounds</h3><p>Counselling is conducted in multiple rounds (typically 3-6 rounds depending on state). Each round: (1) Login and fill choices (colleges/courses in preference order), (2) Wait for provisional merit list, (3) Verify documents if your name appears, (4) Report to college for admission.",
-        "If you don't get admission in Round 1, you can participate in Round 2, 3, etc. Floating seats (unfilled seats from previous rounds) come into play in later rounds.",
-        "Many candidates get their choice college in Round 2 or 3.</p>",
-        "<h3>Deemed Universities & Private Colleges</h3><p>Deemed universities accept NEET scores but have their own counselling. Apply directly to their websites.",
-        "Fees vary massively: JIPMER (deemed, top quality) ₹3-5 lakh/year, Manipal/CMC Vellore ₹10-20 lakh/year, private colleges ₹5-25 lakh/year. Quality is NOT directly proportional to fees - research college reputation, placement data, and medical council recognition before committing to high fees."
+        "Government medical college admission requires: AIQ (All India Quota) - 15% of government seats filled through NEET AIQ counselling by MCC (Medical Counselling Committee). Remaining 85% filled through state-level counselling based on NEET score + domicile.",
+        "Getting a government MBBS seat through AIQ typically needs 600+ marks (out of 720) for general category.",
+        "State quota cutoffs vary dramatically. In states like UP, Bihar, and Rajasthan (limited government seats, huge applicant pool), you need 580-620 marks for government MBBS.",
+        "In states like Andhra Pradesh, Telangana, and Tamil Nadu (more medical colleges), 520-560 may suffice. If you have domicile in a state with lower cutoffs, apply through state counselling for better chances.",
+        "Private medical colleges (deemed universities): Admit through NEET score but have higher fees - Rs 10-25 lakh/year for MBBS. Cutoffs are lower (400-500 marks for many private colleges).",
+        "If your NEET score is 450-550, a private medical college may be your realistic option. Compare college reputation, clinical exposure, and USMLE/NEXT preparation support before choosing.",
+        "AIIMS and JIPMER (now through NEET): Previously separate exams, now merged with NEET. AIIMS Delhi admission requires approximately 700+ marks (top 50 AIR).",
+        "Other AIIMS institutions (Jodhpur, Bhopal, Patna) need 680+. These are the most competitive medical seats in India with the best clinical training and research opportunities."
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "How NEET counselling works",
+      "items": [
+        {
+          "icon": "🇮🇳",
+          "title": "All-India Quota (15%)",
+          "sub": "15% of government college seats, allotted by all-India rank through MCC counselling, usually around July-August."
+        },
+        {
+          "icon": "📍",
+          "title": "State Quota (85%)",
+          "sub": "85% of seats are state-specific, run by state authorities by state rank, usually August-September. You appear in both."
+        },
+        {
+          "icon": "🔁",
+          "title": "Multiple rounds",
+          "sub": "Three to six rounds depending on the state. Miss your choice in round one and later rounds plus floating seats give more chances."
+        },
+        {
+          "icon": "🏛️",
+          "title": "Deemed & private",
+          "sub": "Deemed universities accept NEET scores but run their own counselling. Fees vary hugely, from a few lakh to ₹25 lakh a year."
+        }
+      ]
+    },
+    {
+      "type": "process_flow",
+      "heading": "12-month preparation plan",
+      "steps": [
+        {
+          "icon": "1️⃣",
+          "title": "Months 1-3: Class 11 base",
+          "desc": "Finish Physics Mechanics, Physical Chemistry, and core Biology like Cell Biology and Human Physiology. One chapter test a week."
+        },
+        {
+          "icon": "2️⃣",
+          "title": "Months 4-6: Class 12",
+          "desc": "Cover Electrostatics, Optics and Modern Physics, Organic and Inorganic Chemistry, and Genetics and Evolution. Keep testing chapter-wise."
+        },
+        {
+          "icon": "3️⃣",
+          "title": "Months 7-9: Revision + PYQs",
+          "desc": "Second and third NCERT Biology readings, daily Physics formula revision, and ten years of previous papers. Two full mocks a week."
+        },
+        {
+          "icon": "4️⃣",
+          "title": "Months 10-12: Final push",
+          "desc": "A full mock daily with deep analysis, fourth and fifth NCERT readings, and no new topics in the last two weeks. Sleep and health matter now."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "NEET coaching - is it necessary?",
+      "icon": "💰",
+      "content": [
+        "NEET coaching costs Rs 1-4 lakh for 2-year programs at institutes like Allen, Aakash, and FIITJEE. Online coaching from Physics Wallah costs Rs 15,000-30,000.",
+        "Self-study with NCERT + reference books costs under Rs 5,000. The question is whether coaching adds enough value to justify the cost.",
+        "Data point: In NEET 2024, approximately 70% of top 1,000 rankers had coaching backgrounds (Allen and Aakash dominate). However, 30% were self-study students who relied on NCERT + free YouTube lectures (Physics Wallah, Unacademy).",
+        "The percentage of self-study toppers has been increasing as free resources improve in quality. When coaching helps: Structured study schedule (class timings enforce discipline), doubt-clearing sessions (immediate answers to conceptual questions), competitive environment (daily tests create exam pressure), and test series (professionally designed mock tests with detailed analysis).",
+        "When coaching doesn't help: If you're a self-disciplined student who can follow a study plan independently, coaching mainly provides social motivation, not unique content. The smart approach: Use free resources (Physics Wallah YouTube, NCERT PDFs, NEET PYQ apps) for content learning.",
+        "Buy a paid test series from Allen, Aakash, or Unacademy for Rs 3,000-5,000 for mock tests and performance analysis. This gives you 80% of coaching benefits at 5% of the cost.",
+        "The saved money can go toward your MBBS college fees."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "MBBS career - what comes after NEET",
+      "icon": "👨‍⚕️",
+      "content": [
+        "MBBS is a 5.5-year program (4.5 years academic + 1 year compulsory internship). During MBBS, you study Anatomy, Physiology, Biochemistry (pre-clinical years), Pathology, Pharmacology, Microbiology, Forensic Medicine (para-clinical years), and Medicine, Surgery, OB-GYN, Pediatrics, Ophthalmology, ENT, Dermatology, Psychiatry, Orthopedics (clinical years).",
+        "The curriculum is intense - 8-10 hours of classes and clinical postings daily. After MBBS: You appear for NEXT (National Exit Test - replacing the old NEET PG from 2025 onwards) to get a medical license AND apply for PG specialization simultaneously.",
+        "Popular PG specializations: General Medicine, General Surgery, Orthopedics, Dermatology, Radiology, Ophthalmology. Dermatology and Radiology are the most competitive due to lifestyle + income combination.",
+        "MBBS salary: Government medical officer starts at Rs 60,000-80,000/month (varies by state). After PG specialization, salary jumps to Rs 1-2 lakh/month in government hospitals.",
+        "Private practice after PG can earn Rs 2-10 lakh/month depending on specialization and location. Dermatologists and cosmetic surgeons in metros earn Rs 5-15 lakh/month from private practice.",
+        "MBBS + USMLE (USA medical licensing): Many Indian MBBS graduates pursue USMLE Steps 1, 2, and 3 to practice in the USA. This requires 2-3 years of preparation alongside MBBS, followed by residency matching in USA hospitals.",
+        "Indian doctors in the USA earn $200,000-400,000/year (Rs 1.6-3.2 crore). This pathway is increasingly popular among students from top medical colleges.",
+        "For more details, see our guide on UGC NET 2026. For more details, see our guide on JEE Main 2026."
       ]
     },
     {
@@ -298,113 +549,29 @@
       ]
     },
     {
-      "type": "text",
-      "heading": "NEET UG exam pattern - every detail",
-      "icon": "📝",
-      "content": [
-        "NEET UG has 200 MCQs across Physics (50 questions - attempt 45), Chemistry (50 questions - attempt 45), and Biology (100 questions - attempt 90). Each section is divided into Section A (35 mandatory questions) and Section B (15 questions, attempt 10).",
-        "Total marks: 720. Duration: 3 hours 20 minutes.",
-        "Marking: +4 correct, -1 wrong.",
-        "Biology dominates NEET: 90 questions worth 360 marks - exactly 50% of the paper. Botany and Zoology get 45 questions each.",
-        "If you score 300+ in Biology alone, you're virtually guaranteed a government medical seat. Biology is also the most NCERT-dependent - questions are often direct statements from NCERT textbook.",
-        "Students who memorize NCERT Biology word-by-word score 320-340 in Biology.",
-        "Physics is the most challenging section for biology students. Topics like Mechanics, Electrostatics, Optics, and Modern Physics require mathematical problem-solving skills.",
-        "However, NEET Physics is significantly easier than JEE Physics - questions test concept application rather than complex multi-step calculations.",
-        "Chemistry is the easiest section for high scores. Organic Chemistry (named reactions, reagents, IUPAC naming) and Inorganic Chemistry (periodic trends, p-block, d-block) are heavily NCERT-based.",
-        "Physical Chemistry requires formula application and calculations but at a straightforward level."
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "Subject-wise preparation strategy",
-      "icon": "📖",
-      "content": [
-        "Biology (360 marks - your score-maker): Read NCERT Class 11 and 12 Biology textbooks line by line. Highlight key terms, definitions, and diagrams.",
-        "Many NEET questions are direct NCERT statements with one word changed - if you've read NCERT 5 times, you'll spot the answer instantly. High-weightage chapters: Human Physiology (30-40 marks), Genetics and Evolution (30-40 marks), Cell Biology (20-25 marks), Plant Physiology (20-25 marks), Ecology (15-20 marks), Reproduction (15-20 marks).",
-        "NCERT reading technique for Biology: First reading - understand concepts, don't memorize. Second reading - highlight important facts, processes, and exceptions.",
-        "Third reading - create short notes (1 page per chapter) with only key terms and processes. Fourth reading - revise from short notes.",
-        "Fifth reading - solve NCERT exercise questions and exemplar problems. By the fifth reading, you'll remember 85-90% of the textbook naturally.",
-        "Physics (180 marks): Focus on formulae and their applications. High-weightage chapters: Mechanics (40-50 marks), Electrostatics and Current Electricity (25-30 marks), Optics (20-25 marks), Modern Physics (15-20 marks), Thermodynamics and Waves (15-20 marks).",
-        "Use HC Verma for concept clarity and DC Pandey for practice - but solve only NEET-level problems, not JEE-level ones.",
-        "Chemistry (180 marks): Inorganic Chemistry is the easiest 60-70 marks in NEET - pure NCERT memorization. Read NCERT Inorganic chapters 4-5 times, highlighting exceptions and key reactions.",
-        "Organic Chemistry: Master named reactions (Wurtz, Cannizzaro, Aldol, etc.), IUPAC naming rules, and reaction mechanisms. Physical Chemistry: Learn 30-40 key formulas and practice numerical problems - mole concept, equilibrium, thermodynamics, electrochemistry are high-yield."
-      ]
-    },
-    {
-      "type": "svg_block",
-      "heading": "Visual: Key Numbers",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">May 3, 2026</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Exam Date</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">24+ Lakh</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Applicants</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">~1,10,000</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">MBBS Seats</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">Pen & Paper (OMR)</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Mode</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
-      "caption": "Key facts",
-      "description": "Quick overview."
-    },
-    {
-      "type": "text",
-      "heading": "NEET score vs medical college admission",
-      "icon": "🏥",
-      "content": [
-        "Government medical college admission requires: AIQ (All India Quota) - 15% of government seats filled through NEET AIQ counselling by MCC (Medical Counselling Committee). Remaining 85% filled through state-level counselling based on NEET score + domicile.",
-        "Getting a government MBBS seat through AIQ typically needs 600+ marks (out of 720) for general category.",
-        "State quota cutoffs vary dramatically. In states like UP, Bihar, and Rajasthan (limited government seats, huge applicant pool), you need 580-620 marks for government MBBS.",
-        "In states like Andhra Pradesh, Telangana, and Tamil Nadu (more medical colleges), 520-560 may suffice. If you have domicile in a state with lower cutoffs, apply through state counselling for better chances.",
-        "Private medical colleges (deemed universities): Admit through NEET score but have higher fees - Rs 10-25 lakh/year for MBBS. Cutoffs are lower (400-500 marks for many private colleges).",
-        "If your NEET score is 450-550, a private medical college may be your realistic option. Compare college reputation, clinical exposure, and USMLE/NEXT preparation support before choosing.",
-        "AIIMS and JIPMER (now through NEET): Previously separate exams, now merged with NEET. AIIMS Delhi admission requires approximately 700+ marks (top 50 AIR).",
-        "Other AIIMS institutions (Jodhpur, Bhopal, Patna) need 680+. These are the most competitive medical seats in India with the best clinical training and research opportunities."
-      ]
-    },
-    {
-      "type": "svg_block",
-      "heading": "NEET UG 2026 Facts",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">NEET UG 2026 Facts</text><rect x=\"17\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"94\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">May 3, 2026</text><text x=\"94\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Exam Date</text><rect x=\"187\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"264\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">24+ Lakh</text><text x=\"264\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Applicants</text><rect x=\"357\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"434\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#92400E\">~1,10,000</text><text x=\"434\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">MBBS Seats</text><rect x=\"527\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"604\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">Pen & Paper (OMR)</text><text x=\"604\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Mode</text></svg>",
-      "caption": "Quick reference facts",
-      "description": "Key facts and numbers at a glance"
-    },
-    {
-      "type": "text",
-      "heading": "12-month NEET preparation plan",
-      "icon": "📅",
-      "content": [
-        "Months 1-3 (Class 11 completion): Complete Physics Mechanics, Chemistry Physical Chemistry, and Biology Cell Biology + Plant Kingdom + Human Physiology (Part 1). Read NCERT first for each topic, then solve coaching module or reference book problems.",
-        "Take one chapter test weekly.",
-        "Months 4-6 (Class 12 completion): Complete Physics Electrostatics + Optics + Modern Physics, Chemistry Organic + Inorganic, and Biology Genetics + Evolution + Ecology + Reproduction. By month 6, your first reading of the entire syllabus should be complete.",
-        "Months 7-9 (Revision + Practice): Second and third reading of NCERT Biology. Revise Physics formulas daily.",
-        "Complete Inorganic Chemistry NCERT revision. Solve 10 years of NEET previous year papers chapter-wise.",
-        "Take 2 full-length mock tests per week. Identify your 5 weakest chapters and give them extra attention.",
-        "Months 10-12 (Final push): Take 1 full-length mock test daily. NCERT Biology revision (4th and 5th reading).",
-        "Physics formula sheet revision every morning. Chemistry reaction revision.",
-        "Analyze every mock test - track section-wise accuracy. Stop new topics 2 weeks before exam.",
-        "Sleep 8 hours, eat well, exercise 30 minutes daily - physical health directly impacts cognitive performance on exam day."
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "NEET coaching - is it necessary?",
-      "icon": "💰",
-      "content": [
-        "NEET coaching costs Rs 1-4 lakh for 2-year programs at institutes like Allen, Aakash, and FIITJEE. Online coaching from Physics Wallah costs Rs 15,000-30,000.",
-        "Self-study with NCERT + reference books costs under Rs 5,000. The question is whether coaching adds enough value to justify the cost.",
-        "Data point: In NEET 2024, approximately 70% of top 1,000 rankers had coaching backgrounds (Allen and Aakash dominate). However, 30% were self-study students who relied on NCERT + free YouTube lectures (Physics Wallah, Unacademy).",
-        "The percentage of self-study toppers has been increasing as free resources improve in quality.",
-        "When coaching helps: Structured study schedule (class timings enforce discipline), doubt-clearing sessions (immediate answers to conceptual questions), competitive environment (daily tests create exam pressure), and test series (professionally designed mock tests with detailed analysis). When coaching doesn't help: If you're a self-disciplined student who can follow a study plan independently, coaching mainly provides social motivation, not unique content.",
-        "The smart approach: Use free resources (Physics Wallah YouTube, NCERT PDFs, NEET PYQ apps) for content learning. Buy a paid test series from Allen, Aakash, or Unacademy for Rs 3,000-5,000 for mock tests and performance analysis.",
-        "This gives you 80% of coaching benefits at 5% of the cost. The saved money can go toward your MBBS college fees."
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "MBBS career - what comes after NEET",
-      "icon": "👨‍⚕️",
-      "content": [
-        "MBBS is a 5.5-year program (4.5 years academic + 1 year compulsory internship). During MBBS, you study Anatomy, Physiology, Biochemistry (pre-clinical years), Pathology, Pharmacology, Microbiology, Forensic Medicine (para-clinical years), and Medicine, Surgery, OB-GYN, Pediatrics, Ophthalmology, ENT, Dermatology, Psychiatry, Orthopedics (clinical years).",
-        "The curriculum is intense - 8-10 hours of classes and clinical postings daily.",
-        "After MBBS: You appear for NEXT (National Exit Test - replacing the old NEET PG from 2025 onwards) to get a medical license AND apply for PG specialization simultaneously. Popular PG specializations: General Medicine, General Surgery, Orthopedics, Dermatology, Radiology, Ophthalmology.",
-        "Dermatology and Radiology are the most competitive due to lifestyle + income combination.",
-        "MBBS salary: Government medical officer starts at Rs 60,000-80,000/month (varies by state). After PG specialization, salary jumps to Rs 1-2 lakh/month in government hospitals.",
-        "Private practice after PG can earn Rs 2-10 lakh/month depending on specialization and location. Dermatologists and cosmetic surgeons in metros earn Rs 5-15 lakh/month from private practice.",
-        "MBBS + USMLE (USA medical licensing): Many Indian MBBS graduates pursue USMLE Steps 1, 2, and 3 to practice in the USA. This requires 2-3 years of preparation alongside MBBS, followed by residency matching in USA hospitals.",
-        "Indian doctors in the USA earn $200,000-400,000/year (Rs 1.6-3.2 crore). This pathway is increasingly popular among students from top medical colleges.",
-        "For more details, see our guide on <a href=\"/exam/ugc-net\" style=\"text-decoration:underline;color:inherit\">UGC NET 2026</a>.",
-        "For more details, see our guide on <a href=\"/exam/jee-main\" style=\"text-decoration:underline;color:inherit\">JEE Main 2026</a>."
+      "type": "icon_list",
+      "heading": "Score vs college - a rough guide",
+      "items": [
+        {
+          "icon": "🏆",
+          "title": "Top govt (AIIMS, MAMC)",
+          "sub": "Roughly 650-720 and a 99.8+ percentile. Only the top 1-2% land here, usually with a near-perfect Biology score."
+        },
+        {
+          "icon": "🏥",
+          "title": "State government MBBS",
+          "sub": "Around 550-620 gets most general-category candidates a state government seat, varying by state and quota."
+        },
+        {
+          "icon": "🏢",
+          "title": "Private & deemed",
+          "sub": "From roughly 400+, but fees run ₹5-25 lakh a year. Deemed universities like Manipal or CMC have their own counselling."
+        },
+        {
+          "icon": "✅",
+          "title": "Just qualifying",
+          "sub": "Clearing the 50th percentile (40th for reserved) qualifies you, but a qualifying score alone rarely secures an MBBS seat."
+        }
       ]
     },
     {
@@ -422,14 +589,7 @@
       "type": "callout",
       "variant": "info",
       "heading": "NEET 2026 expected schedule",
-      "content": "Registration: February-March 2026 at neet.nta.nic.in. Exam date: May 2026 (single day, pen-and-paper OMR-based - NOT computer-based).<br><br>Results: June 2026. AIQ counselling: July-August 2026.<br><br>State counselling: August-September 2026. Fee: Rs 1,700 for general, Rs 1,000 for OBC/EWS, Rs 1,000 for SC/ST/PwD."
-    },
-    {
-      "type": "svg_block",
-      "heading": "Visual: Exam Pattern",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Exam Pattern</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">180</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Physics (35 compulso</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">45 Qs</text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">180</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Chemistry (35 compul</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">45 Qs</text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">180</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Botany (35 compulsor</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">45 Qs</text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">180</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Zoology (35 compulso</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">45 Qs</text></svg>",
-      "caption": "Paper structure",
-      "description": "Subject-wise marks."
+      "content": "NEET 2026 was held on 3 May 2026, but NTA cancelled that paper after a question-paper leak. A re-exam is scheduled for 21 June 2026, with admit cards out and no extra fee for registered candidates.<br><br>Treat all dates as provisional and confirm them at neet.nta.nic.in."
     },
     {
       "type": "callout",
@@ -448,12 +608,11 @@
       "content": [
         "Recommended sequence: Start with Biology (most scoring, builds confidence). Allocate 80 minutes for 90 Biology questions - that's about 53 seconds per question.",
         "Biology questions are factual recall - you either know the answer or you don't. Don't spend more than 1 minute on any Biology question.",
-        "Mark uncertain ones and return later.",
-        "Next, Chemistry (moderate difficulty). Allocate 55 minutes.",
-        "Start with Inorganic (fastest - direct NCERT recall), then Physical Chemistry (formula-based - if you know the formula, 30 seconds per question), then Organic (reaction-based - may need more thinking time). Chemistry should give you 130-150 marks if you've prepared well.",
-        "Last, Physics (hardest section for most NEET aspirants). Allocate 65 minutes.",
-        "Start with theory-based MCQs from Modern Physics and Optics (quick answers). Then solve numerical problems from Mechanics and Electrostatics.",
-        "Skip any problem that needs more than 3 minutes of calculation - return to it only if time permits.",
+        "Mark uncertain ones and return later. Next, Chemistry (moderate difficulty).",
+        "Allocate 55 minutes. Start with Inorganic (fastest - direct NCERT recall), then Physical Chemistry (formula-based - if you know the formula, 30 seconds per question), then Organic (reaction-based - may need more thinking time).",
+        "Chemistry should give you 130-150 marks if you've prepared well. Last, Physics (hardest section for most NEET aspirants).",
+        "Allocate 65 minutes. Start with theory-based MCQs from Modern Physics and Optics (quick answers).",
+        "Then solve numerical problems from Mechanics and Electrostatics. Skip any problem that needs more than 3 minutes of calculation - return to it only if time permits.",
         "Negative marking management: NEET deducts 1 mark for wrong MCQs. If you can eliminate 2 out of 4 options, guess between the remaining 2 - expected value is positive (+1.5 marks per question on average).",
         "If all 4 options seem equally likely, SKIP - random guessing costs you on average. Target: attempt 160-170 questions out of 180 with 75%+ accuracy."
       ]
@@ -466,31 +625,37 @@
         "Category-wise cutoff difference is significant in NEET. General category AIQ cutoff for government MBBS: typically 600-620.",
         "OBC-NCL: 560-580. SC: 470-500.",
         "ST: 440-470. EWS: 580-600.",
-        "These gaps translate to thousands of rank positions - a 550-scoring ST candidate gets better college options than a 620-scoring general candidate.",
-        "Reserved category advantages: 15% AIQ seats have separate cutoffs for OBC (27%), SC (15%), ST (7.5%), and EWS (10%). State quota seats also follow reservation.",
-        "Some states like Tamil Nadu have 69% reservation - leaving only 31% for general category (open competition). If you belong to a reserved category, ensure your caste certificate is valid and correctly issued.",
-        "<a href=\"/exam/cuet-ug\" style=\"text-decoration:underline;color:inherit\">Common</a> mistakes by reserved candidates: Not submitting the caste certificate in the correct central government format (state format certificates are rejected for AIQ counselling), not getting the latest OBC-NCL certificate (must be issued within 1 year and specifically mention non-creamy layer), and not applying through both AIQ AND state counselling (apply to both to maximize options).",
+        "These gaps translate to thousands of rank positions - a 550-scoring ST candidate gets better college options than a 620-scoring general candidate. Reserved category advantages: 15% AIQ seats have separate cutoffs for OBC (27%), SC (15%), ST (7.5%), and EWS (10%).",
+        "State quota seats also follow reservation. Some states like Tamil Nadu have 69% reservation - leaving only 31% for general category (open competition).",
+        "If you belong to a reserved category, ensure your caste certificate is valid and correctly issued. Common mistakes by reserved candidates: Not submitting the caste certificate in the correct central government format (state format certificates are rejected for AIQ counselling), not getting the latest OBC-NCL certificate (must be issued within 1 year and specifically mention non-creamy layer), and not applying through both AIQ AND state counselling (apply to both to maximize options).",
         "PwD (Persons with Disability) reservation: 5% horizontal reservation across all categories. PwD candidates with 40%+ disability get relaxed cutoff and separate seat allocation.",
         "The disability certificate must be from a government hospital's medical board. PwD candidates also get additional exam time (compensatory time) during NEET."
       ]
     },
     {
-      "type": "text",
-      "heading": "Alternative careers if NEET doesn't work out",
-      "icon": "🔄",
-      "content": [
-        "BDS (Bachelor of Dental Surgery): Also through NEET, but cutoffs are 100-150 marks lower than MBBS. Dentistry offers good income potential (Rs 30,000-2,00,000/month in private practice) with better work-life balance than MBBS.",
-        "Government dentist salary is comparable to government medical officer.",
-        "BAMS/BHMS/BUMS (Ayurveda/Homeopathy/Unani): Admission through NEET at significantly lower cutoffs (300-400 marks). These degrees allow you to practice as a registered medical practitioner.",
-        "Many BAMS graduates do 'bridge courses' and practice modern medicine alongside Ayurveda - a controversial but common practice.",
-        "BSc Nursing: One of the most underrated medical careers. 4-year BSc Nursing + MSc Nursing opens doors to hospital management, teaching, and international nursing careers.",
-        "Nursing salaries in USA/UK/Australia are Rs 40-80 lakh/year.",
-        "If MBBS is the goal but NEET score is below 400, BSc Nursing provides a healthcare career with international opportunities.",
-        "Veterinary Science (BVSc): Admission through NEET with cutoffs around 400-500. 5.5-year program.",
-        "Veterinary doctors are in high demand for livestock management, pet clinics, and dairy industry.",
-        "Government veterinary officer salary: Rs 50,000-70,000/month. Private practice in metro cities (pet specialty) can earn Rs 1-3 lakh/month.",
-        "Biomedical Engineering / Biotechnology: Through JEE Main or state-level engineering <a href=\"/exam/cat-2026\" style=\"text-decoration:underline;color:inherit\">entrance</a> exams (no NEET needed). These fields combine biology interest with engineering skills.",
-        "Career in medical devices, pharmaceutical R&D, clinical research, and healthcare technology. Starting salary: Rs 4-8 LPA, growing to Rs 15-30 LPA with experience."
+      "type": "icon_list",
+      "heading": "If NEET doesn't work out",
+      "items": [
+        {
+          "icon": "🦷",
+          "title": "BDS (Dental)",
+          "sub": "Also through NEET, with cutoffs 100-150 marks below MBBS. Government dentist pay is comparable to a government medical officer."
+        },
+        {
+          "icon": "🌿",
+          "title": "BAMS / BHMS / BUMS",
+          "sub": "Ayurveda, Homeopathy and Unani, admitted through NEET at much lower cutoffs. You practise as a registered AYUSH doctor."
+        },
+        {
+          "icon": "🩺",
+          "title": "BSc Nursing",
+          "sub": "An underrated path with strong international demand. Nursing salaries abroad can reach tens of lakhs a year."
+        },
+        {
+          "icon": "🐾",
+          "title": "BVSc (Veterinary)",
+          "sub": "Through NEET at cutoffs around 400-500. High demand in livestock, pet clinics and the dairy industry."
+        }
       ]
     },
     {
@@ -502,14 +667,6 @@
         "MCC counselling portal: mcc.nic.in for AIQ counselling registration and seat allotment. State counselling portals vary by state - check your state's Directorate of Medical Education website.",
         "For NEET preparation doubts: NTA Abhyas app (free official mock tests), NCERT textbooks free at ncert.nic.in, Physics Wallah YouTube channel (free complete NEET course with 20+ million subscribers). For counselling guidance: use college predictor tools on Shiksha.com and CareerGuru360 - enter your NEET score to see likely college options across AIQ and state counselling."
       ]
-    },
-    {
-      "type": "svg_block",
-      "heading": "NEET Score vs College Tier",
-      "icon": "🏥",
-      "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">NEET Score Required by College Type</text><rect x=\"30\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"130\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">AIIMS Top GMC 680+</text><rect x=\"250\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"350\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">State Govt college 550</text><rect x=\"470\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"570\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#92400E\">Private colleges 400+</text></svg>",
-      "caption": "Every 10-mark improvement in NEET can shift your college tier significantly",
-      "description": "State quota seats often have lower cutoffs than All India quota."
     }
   ],
   "important_dates": [
@@ -591,6 +748,14 @@
     {
       "question": "What is the NEET cutoff for AIIMS Delhi?",
       "answer": "AIIMS Delhi (through NEET AIQ) requires approximately 700-715 marks for MBBS - essentially near-perfect score. Other AIIMS (Jodhpur, Bhopal, Patna, Raipur, Rishikesh) need 680-700.<br><br>These are the most competitive medical seats in India. Realistic target for most NEET aspirants should be 600+ (good government college) rather than 700+ (AIIMS Delhi)."
+    },
+    {
+      "question": "What is the full form of NEET UG?",
+      "answer": "NEET UG stands for National Eligibility cum Entrance Test (Undergraduate). It is the single national entrance for MBBS, BDS and AYUSH courses, conducted by the NTA."
+    },
+    {
+      "question": "Was NEET 2026 cancelled and when is the re-exam?",
+      "answer": "NTA cancelled the 3 May 2026 paper after a question-paper leak. A re-exam is scheduled for 21 June 2026, and registered candidates can appear without any extra fee.<br><br>Always confirm the latest status at neet.nta.nic.in."
     }
   ],
   "official_portal": {
@@ -754,23 +919,25 @@
   "last_reviewed": "May 2026",
   "category": "medical",
   "salary_table": {
-    "intro": "In-hand salary ranges from Private practice earning potential higher to Internship: ₹30,000-60,000. Post-PG: ₹1,00,000+ (consultant) depending on the post and city.",
+    "intro": "NEET itself pays nothing. It is the entrance, and a doctor's income only comes years later after MBBS. Here is the rough trajectory.",
+    "label": "Doctor income",
+    "icon": "🩺",
     "rows": [
       {
-        "post": "MBBS at Government Medical College (Top)",
-        "amount": "Internship: ₹30,000-60,000. Post-PG: ₹1,00,000+ (consultant)"
+        "post": "After MBBS (junior resident / MO)",
+        "amount": "~₹60k–1L/mo"
       },
       {
-        "post": "MBBS at Government Medical College (Mid-tier)",
-        "amount": "Internship: ₹20,000-35,000. Post-specialization: ₹80,000+"
+        "post": "Internship stipend (during MBBS)",
+        "amount": "₹20k–30k/mo"
       },
       {
-        "post": "MBBS at Private Medical College",
-        "amount": "Fees: ₹5-25 lakh/year for basic colleges. Placements: ₹40,000-80,000 starting"
+        "post": "After MD/MS (specialist)",
+        "amount": "₹1L+/mo"
       },
       {
-        "post": "BDS (Dental) at Government College",
-        "amount": "Private practice earning potential higher"
+        "post": "Private practice / consultant",
+        "amount": "Varies widely"
       }
     ]
   },
@@ -794,15 +961,24 @@
   ],
   "status": "upcoming",
   "eligibility_data": {
-    "reference_date": "As per notification",
-    "default_education": "12th pass (10+2) from recognised board",
+    "reference_date": "31 December of admission year",
+    "default_education": "Class 12 (10+2) with Physics, Chemistry, Biology and English",
     "relaxations": [],
     "posts": [
       {
         "post": "NEET UG",
         "min_age": 17,
-        "max_age": 65
+        "max_age": 99,
+        "education": "Class 12 with Physics, Chemistry, Biology/Biotechnology + English",
+        "note": "Minimum 17 years by 31 December of the admission year. No upper age limit. General needs 50% in PCB (40% reserved, 45% PwD)."
       }
     ]
-  }
+  },
+  "changes_2026": [
+    "NEET UG 2026 was held on 3 May 2026, but NTA cancelled that paper after a confirmed question-paper leak.",
+    "A re-exam has been scheduled for 21 June 2026. Admit cards are out and registered candidates can appear without paying any extra fee.",
+    "The pattern stays at 180 compulsory questions in 3 hours for 720 marks. The optional-question section used from 2021 to 2024 is gone.",
+    "Marking is plus 4 for a correct answer and minus 1 for a wrong one. Physics and Chemistry have 45 questions each and Biology has 90.",
+    "There is no upper age limit to appear. The minimum is 17 years by 31 December of the admission year, with Physics, Chemistry and Biology in Class 12."
+  ]
 }
