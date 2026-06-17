@@ -1,6 +1,6 @@
 {
   "slug": "rrb-group-d",
-  "title": "RRB Group D 2026",
+  "title": "RRB Group D 2026 - Railway Level 1 Jobs, 10th Pass",
   "meta_description": "RRB Group D 2026 - Track Maintainer, Helper, Porter, and Level 1 posts. 10th pass eligibility, salary ₹18-25K/month, CBT + physical test.",
   "hero": {
     "status": "upcoming",
@@ -89,22 +89,62 @@
         {
           "name": "Mathematics",
           "questions": 25,
-          "marks": 25
+          "marks": 25,
+          "topics": [
+            {
+              "name": "Arithmetic",
+              "high": true
+            },
+            {
+              "name": "Mensuration",
+              "high": false
+            }
+          ]
         },
         {
           "name": "General Intelligence & Reasoning",
           "questions": 30,
-          "marks": 30
+          "marks": 30,
+          "topics": [
+            {
+              "name": "Analogies & series",
+              "high": true
+            },
+            {
+              "name": "Coding-decoding",
+              "high": true
+            }
+          ]
         },
         {
           "name": "General Science",
           "questions": 25,
-          "marks": 25
+          "marks": 25,
+          "topics": [
+            {
+              "name": "Physics & Chemistry",
+              "high": true
+            },
+            {
+              "name": "Biology",
+              "high": false
+            }
+          ]
         },
         {
           "name": "General Awareness & Current Affairs",
           "questions": 20,
-          "marks": 20
+          "marks": 20,
+          "topics": [
+            {
+              "name": "Current Affairs",
+              "high": true
+            },
+            {
+              "name": "Static GK",
+              "high": false
+            }
+          ]
         }
       ],
       "total_questions": 100,
@@ -116,49 +156,65 @@
   "major_posts": [
     {
       "post": "Track Maintainer Grade-IV",
-      "pay_level": "Level 1 (₹18,000–56,900 pay scale)",
-      "in_hand_salary": "₹18,000–21,000/month basic + allowances",
-      "department": "Indian Railways - Track maintenance division"
+      "pay_level": "Pay Level 1 (₹18,000)",
+      "in_hand_salary": "~₹22,500-26,000",
+      "department": "Engineering, Indian Railways"
     },
     {
-      "post": "Helper/Assistant in Workshops",
-      "pay_level": "Level 1",
-      "in_hand_salary": "₹18,000–21,000/month",
-      "department": "Indian Railways - Mechanical, Electrical, Signal workshops"
+      "post": "Pointsman / Assistant",
+      "pay_level": "Pay Level 1",
+      "in_hand_salary": "~₹22,500-26,000",
+      "department": "Traffic / Operations"
     },
     {
-      "post": "Porter",
-      "pay_level": "Level 1",
-      "in_hand_salary": "₹18,000–21,000/month",
-      "department": "Indian Railways - Station operations"
+      "post": "Helper / Assistant (Workshops)",
+      "pay_level": "Pay Level 1",
+      "in_hand_salary": "~₹22,500-26,000",
+      "department": "Mechanical / Electrical"
     }
   ],
   "extra_sections": [
     {
-      "heading": "Physical Efficiency Test (PET) - Detailed Preparation",
-      "icon": "🏋️",
-      "type": "text",
-      "content": [
-        "<h3>PET is the Real Hurdle</h3>",
-        "While CBT is easy (10th class level), PET eliminates 30-40% of candidates. Physical fitness training must start from Day 1 of your exam preparation.",
-        "The test includes: (1) Weight carrying (35 kg for males, 20 kg for females) for 100m in 2 minutes, (2) Running 1000m (1 km) in 4 min 15 sec (males) or 5 min 40 sec (females).",
-        "<h3>Weight Carrying Technique</h3>",
-        "The 35 kg weight is placed on your shoulder/back. Key: It's about TECHNIQUE, not pure strength.",
-        "Practice: (1) Start with 20 kg sandbag/dumbbell, (2) Walk (don't run) at fast pace, maintaining proper posture, (3) Gradually increase weight and speed, (4) By month 2, carry 35 kg for 100m and time yourself. Average time: 90-110 seconds (well within 2-min limit if you practice properly).",
-        "<h3>Running Preparation</h3>",
-        "Start running 3 months before PET date: (1) Week 1-4: Run 2 km daily in 10-11 minutes (building endurance), (2) Week 5-8: Run 2 km in 9 minutes, (3) Week 9-12: Run 1 km in 4 min 15 sec (speed work). Use a running app to track pace.",
-        "Practice on flat ground, not hills. Run on alternate days (rest important for recovery).",
-        "<h3>Physical Fitness Timeline</h3>",
-        "Month 1-2: Build base fitness (running 2 km, weight carrying with light load). Month 2-3: Increase intensity (run 1 km faster, carry heavier weights).",
-        "Month 3-4: Taper and test (simulate PET conditions). Final 2 weeks: Light training, focus on recovery and confidence building.",
-        "Do not attempt PET without 3 months of consistent training - injury risk is high."
+      "type": "comparison_card",
+      "heading": "PET standards - male vs female",
+      "win": {
+        "name": "Male",
+        "amount": "35 kg + 1000m",
+        "sub": "Lift and carry 35 kg for 100m in 2 minutes in one chance, and run 1000m in 4 minutes 15 seconds. Both must be cleared."
+      },
+      "others": [
+        {
+          "name": "Female",
+          "amount": "20 kg + 1000m",
+          "sub": "Lift and carry 20 kg for 100m in 2 minutes in one chance, and run 1000m in 5 minutes 40 seconds. Both are mandatory and there is no second attempt at the weight carry."
+        }
       ]
     },
     {
-      "heading": "",
-      "type": "svg_block",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">RRB Group D largest railway recruitment</text><rect x=\"50\" y=\"50\" width=\"280\" height=\"75\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"190\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#145236\">CBT (Computer Based Test)</text><text x=\"190\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">100 MCQs 90 minutes</text><rect x=\"370\" y=\"50\" width=\"280\" height=\"75\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"510\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#1E40AF\">PET (Physical Efficiency)</text><text x=\"510\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">35kg lift + 1000m ru</text></svg>",
-      "caption": "RRB Group D recruits Track Maintainer, Helper, and other Level 1 posts. Only 10th pass required. Largest single recruitment - 1 lakh+ vacancies per cycle."
+      "type": "process_flow",
+      "heading": "How RRB Group D selection works",
+      "steps": [
+        {
+          "icon": "💻",
+          "title": "CBT",
+          "desc": "A single 100-mark computer test of 90 minutes with one-third negative marking. Your normalised score here decides who advances, so accuracy matters as much as speed."
+        },
+        {
+          "icon": "🏋️",
+          "title": "PET",
+          "desc": "Candidates up to three times the vacancies are called for the Physical Efficiency Test. It is qualifying, pass or fail."
+        },
+        {
+          "icon": "📑",
+          "title": "Document verification",
+          "desc": "Originals and photocopies are checked. A wrong-format certificate, especially OBC-NCL, can mean instant rejection."
+        },
+        {
+          "icon": "🩺",
+          "title": "Medical exam",
+          "desc": "A post-specific medical, mainly vision standards, is the final gate before appointment. Some posts need A-level eyesight, so check the medical standard for the post you choose."
+        }
+      ]
     },
     {
       "heading": "RRB Group D vs Group C/NTPC - Career Comparison",
@@ -214,7 +270,7 @@
       "heading": "Why RRB Group D is the most applied exam in India",
       "icon": "📊",
       "content": [
-        "RRB <a href=\"/exam/appsc\" style=\"text-decoration:underline;color:inherit\">Group</a> D regularly attracts 1-1.5 crore applicants for 1 lakh+ vacancies - making it the most applied government exam in India. The reason: only 10th pass is required, no age limit until 33 (general), and railway jobs come with lifetime benefits including free train travel, medical, housing, and pension.",
+        "RRB Group D regularly attracts 1-1.5 crore applicants for 1 lakh+ vacancies - making it the most applied government exam in India. The reason: only 10th pass is required, no age limit until 33 (general), and railway jobs come with lifetime benefits including free train travel, medical, housing, and pension.",
         "The job roles include Track Maintainer Grade IV, Helper/Assistant in workshops, Hospital Attendant, and Gateman. Starting salary is Pay Level 1 (Rs 18,000 basic) with total monthly of Rs 28,000-35,000.",
         "While the salary is modest, the job security, benefits, and social status of a railway employee make it highly sought after in tier 2-3 India."
       ]
@@ -240,11 +296,34 @@
       "content": "PET is qualifying but eliminates 20-30% of CBT qualifiers. Male: Carry 35kg weight for 100m in 2 minutes + run 1000m in 4 min 15 sec.<br><br>Female: Carry 20kg for 100m in 2 min + run 1000m in 5 min 40 sec. Start physical training at least 3 months before expected PET date.<br><br>Daily running practice is essential."
     },
     {
-      "type": "svg_block",
-      "heading": "Visual: Key Numbers",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">10th Pass</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Education</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">22,195</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Vacancies</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">₹18–25K/mo</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Salary</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">18–33 years</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Age</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
-      "caption": "Key facts",
-      "description": "Quick overview."
+      "type": "stat_grid",
+      "heading": "RRB Group D at a glance",
+      "items": [
+        {
+          "icon": "📋",
+          "value": "22,195",
+          "label": "Posts (CEN 09/2025)",
+          "color": "green"
+        },
+        {
+          "icon": "💰",
+          "value": "₹18,000",
+          "label": "Basic (Pay Level 1)",
+          "color": "green"
+        },
+        {
+          "icon": "🎂",
+          "value": "18-36",
+          "label": "Age (current cycle)",
+          "color": "amber"
+        },
+        {
+          "icon": "🎓",
+          "value": "10th / ITI",
+          "label": "Qualification",
+          "color": "green"
+        }
+      ]
     },
     {
       "type": "callout",
@@ -253,59 +332,66 @@
       "content": "Apply for the RRB zone with maximum vacancies and minimum competition. Eastern zones (RRB Kolkata, Muzaffarpur, Bhubaneswar) and Southern zones (RRB Secunderabad, Chennai) typically have more vacancies.<br><br>Northern zones (RRB Delhi, Chandigarh) have the highest competition due to population density."
     },
     {
-      "type": "svg_block",
-      "heading": "RRB Group D 2026 Facts",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">RRB Group D 2026 Fa</text><rect x=\"17\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"94\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">10th Pass</text><text x=\"94\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Education</text><rect x=\"187\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"264\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">22,195</text><text x=\"264\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Vacancies</text><rect x=\"357\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"434\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#92400E\">₹18–25K/mo</text><text x=\"434\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Salary</text><rect x=\"527\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"604\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">18–33 years</text><text x=\"604\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Age</text></svg>",
-      "caption": "Quick reference facts",
-      "description": "Key facts and numbers at a glance"
-    },
-    {
-      "type": "text",
-      "heading": "Subject-wise detailed preparation",
-      "icon": "📖",
-      "content": [
-        "Mathematics (25 questions): This section decides your rank. Most Group D aspirants are weak in math - if you're strong here, you'll clear comfortably.",
-        "Focus topics: Number System (HCF, LCM, divisibility), Percentage and its applications (profit-loss, discount, simple/compound interest), Ratio and Proportion, Time-Speed-Distance, Time and Work, and basic Geometry (area, perimeter, volume).",
-        "All questions are at Class 8-10 level. Don't study advanced math - it's not tested.",
-        "Buy RS Aggarwal Arithmetic or Kiran's SSC Mathematics and solve one chapter per day. After completing the book, solve 50 math questions daily from previous year papers.",
-        "Speed matters more than difficulty - practice mental math and calculation shortcuts.",
-        "General Intelligence and Reasoning (30 questions): The highest-scoring section if you practice regularly. Topics: Analogy (word and number), Classification (odd one out), Series (number, letter, mixed), Coding-Decoding, Blood Relations, Direction and Distance, Calendar and Clock, Mirror/Water Image, Venn Diagrams, and Statement-Conclusion.",
-        "Reasoning is entirely practice-based - there's nothing to memorize. Solve 30-50 reasoning questions daily.",
-        "Start with easy questions and gradually increase difficulty. Most competitive exam apps (Testbook, Adda247, Gradeup) offer free daily reasoning quizzes.",
-        "Within 2 months of regular practice, you'll solve 25+ out of 30 reasoning questions correctly.",
-        "General Science (25 questions): Physics (mechanics, electricity, light, sound, magnetism), Chemistry (acids-bases, metals-nonmetals, chemical reactions, daily life chemistry), Biology (human body systems, diseases, nutrition, reproduction, ecology). All from Class 6-10 NCERT textbooks.",
-        "Don't read NCERT line by line - focus on concepts with practical applications. Questions like 'which vitamin deficiency causes scurvy' or 'what is the unit of electrical resistance' are common.",
-        "Make a 10-page formula and fact sheet covering key science facts. Revise this sheet weekly.",
-        "General Awareness and Current Affairs (20 questions): Indian history (freedom movement, Mughal empire, Maurya/Gupta dynasty), Geography (Indian rivers, mountains, climate, soil types), Polity (fundamental rights, Parliament, President, judiciary basics), Economy (GDP, inflation, RBI functions, five-year plans), and Current Affairs (last 6 months).",
-        "For current affairs, read a monthly magazine like Pratiyogita Darpan or Lucent's GK current affairs section. Don't try to memorize everything - focus on government schemes, awards, appointments, sports results, and international events.",
-        "These 5 <a href=\"/exam/rrb-ntpc\" style=\"text-decoration:underline;color:inherit\">categories</a> cover 80% of current affairs questions."
+      "type": "icon_list",
+      "heading": "Subject-wise preparation",
+      "items": [
+        {
+          "icon": "🔢",
+          "title": "Mathematics (25)",
+          "sub": "Class 8-10 arithmetic decides your rank: number system, percentage, profit-loss, ratio, time-and-work, mensuration. Speed beats difficulty here."
+        },
+        {
+          "icon": "🧩",
+          "title": "Reasoning (30)",
+          "sub": "The biggest and most scoring section: analogies, series, coding-decoding, syllogisms and Venn diagrams. Daily practice locks in easy marks."
+        },
+        {
+          "icon": "🔬",
+          "title": "General Science (25)",
+          "sub": "NCERT Class 9-10 physics, chemistry and biology. Focus on basics and definitions rather than advanced theory."
+        },
+        {
+          "icon": "🌐",
+          "title": "GA & Current Affairs (20)",
+          "sub": "The last six to twelve months of national current affairs plus static GK on India and the world. A monthly capsule and steady revision is enough to score well here."
+        }
       ]
     },
     {
       "type": "text",
-      "heading": "PET preparation - the physical challenge",
-      "icon": "🏃",
+      "heading": "How marks are normalised and what the cutoff means",
       "content": [
-        "The Physical Efficiency Test eliminates 20-30% of CBT qualifiers every cycle. Many academically strong candidates fail here because they don't prepare physically.",
-        "Start training at least 4-6 months before the expected PET date - fitness doesn't build overnight.",
-        "Male candidates must complete: 1000m run in 4 minutes 15 seconds (most challenging), lifting and carrying 35kg weight for 100 meters in 2 minutes. Female candidates: 1000m run in 5 minutes 40 seconds, lifting and carrying 20kg weight for 100 meters in 2 minutes.",
-        "Running training plan: Weeks 1-4: Jog 2km daily without timing, build basic stamina. Weeks 5-8: Run 3km with timing, target 15 minutes.",
-        "Weeks 9-12: Run 1km intervals - sprint 400m, jog 200m, repeat 3 times. Weeks 13-16: Practice 1000m timed runs, target under 4 minutes consistently.",
-        "Run in the morning (5-6 AM) on an empty stomach for best results.",
-        "Weight carrying: Practice carrying 15-20kg weight initially, increase to 35kg over 8 weeks. Strengthen grip, shoulders, and core with pushups, pullups, and farmer walks.",
-        "The technique matters - hold the weight close to your body, walk with short quick steps, breathe rhythmically. Don't start heavy - injuries will set you back weeks."
+        "RRB Group D runs in many shifts over several days, and each shift gets a slightly different paper. To keep it fair, your raw score is converted into a normalised score.",
+        "Normalisation adjusts for how hard your particular shift was. Two candidates with the same raw marks can end up with different final scores depending on their shift's difficulty.",
+        "This is why a simple raw-score calculator cannot reliably tell you whether you are safe. The cutoff is set on normalised marks, not on raw marks.",
+        "To qualify you need at least 40% in the CBT as a general candidate, and 30% for SC, ST and OBC. Clearing this is only the first filter.",
+        "Final selection is by merit for the limited vacancies in your zone and category. So aim well above the bare qualifying mark, not just at it."
       ]
     },
     {
-      "type": "text",
-      "heading": "After selection - railway life as Group D",
-      "icon": "🚂",
-      "content": [
-        "Group D postings include Track Maintainer (maintaining railway tracks, checking rail alignment, replacing sleepers), Helper in mechanical/electrical workshops (assisting technicians in locomotive and coach maintenance), Hospital Attendant (supporting staff in railway hospitals), and Gateman (operating level crossing gates).",
-        "Track Maintainer is the most common posting - approximately 60% of Group D vacancies. The work is physical and outdoor, involving walking along tracks, inspecting rails, tightening bolts, and reporting defects.",
-        "You work in all weather conditions. It's not a desk job - be mentally prepared for physical labor.",
-        "Career progression: Group D (Level 1) → after 5 years, eligible for departmental exams to promote to Khalasi/Trackman Grade I (Level 2) → further promotion to Gangmate/Senior Trackman (Level 3) → with additional qualifications and exams, can reach Supervisor level (Level 4-5). The journey from Group D to Supervisor takes 15-20 years but happens consistently for dedicated employees.",
-        "Benefits that make railway jobs special: Free train travel for self and family (entire Indian Railways network), medical care at railway hospitals, subsidized housing in railway colonies, children's education support, LTC twice a year, and pension after retirement. The railway community provides a social support system that private sector jobs simply don't offer."
+      "type": "icon_list",
+      "heading": "Railway life and perks",
+      "items": [
+        {
+          "icon": "🛤️",
+          "title": "The work",
+          "sub": "Track Maintainer is about 60% of posts: outdoor, physical, all-weather track work along the line. It is not a desk job, so be mentally ready for labour and shifts."
+        },
+        {
+          "icon": "🚆",
+          "title": "Free travel",
+          "sub": "Free rail passes for you and your family across the Indian Railways network, a perk few other jobs offer."
+        },
+        {
+          "icon": "🏥",
+          "title": "Health and pension",
+          "sub": "Treatment at railway hospitals, an NPS pension, and the security of a permanent central government job."
+        },
+        {
+          "icon": "📈",
+          "title": "Promotions",
+          "sub": "After a few years you can sit departmental exams to move up to Trackman Grade I and higher technical grades. Steady promotions and pay rises come with seniority."
+        }
       ]
     },
     {
@@ -320,8 +406,7 @@
         "Finally GK (20 questions in 15 minutes). Keep 5 minutes for review.",
         "Negative marking strategy: Each correct answer = 1 mark, each wrong = -0.33 marks. You need roughly 3 correct answers to compensate for 1 wrong answer.",
         "If you can eliminate 2 out of 4 options confidently, guessing between the remaining 2 has positive expected value. If all 4 options seem equally likely, skip the question.",
-        "For more details, see our guide on <a href=\"/exam/ssc-gd-constable\" style=\"text-decoration:underline;color:inherit\">SSC GD Constable 2026</a>.",
-        "For more details, see our guide on <a href=\"/exam/ssc-mts\" style=\"text-decoration:underline;color:inherit\">SSC MTS 2026</a>."
+        "For more details, see our guide on SSC GD Constable 2026. For more details, see our guide on SSC MTS 2026."
       ]
     },
     {
@@ -330,9 +415,8 @@
       "icon": "📊",
       "content": [
         "RRB has 21 zonal offices across India. The number of vacancies varies significantly by zone, and choosing the right zone can dramatically improve your selection chances.",
-        "High-vacancy zones typically include RRB Kolkata (Eastern Railway, South Eastern Railway), RRB Secunderabad (South <a href=\"/exam/ctet\" style=\"text-decoration:underline;color:inherit\">Central</a> Railway), and RRB Mumbai (Central Railway, Western Railway).",
-        "Low-competition zones include RRB Muzaffarpur, RRB Ranchi, RRB Bhubaneswar, and RRB Guwahati. These zones have fewer applicants relative to vacancies because they cover less populated regions.",
-        "If you have domicile or are willing to work in these areas, applying to these zones significantly increases your selection probability.",
+        "High-vacancy zones typically include RRB Kolkata (Eastern Railway, South Eastern Railway), RRB Secunderabad (South Central Railway), and RRB Mumbai (Central Railway, Western Railway). Low-competition zones include RRB Muzaffarpur, RRB Ranchi, RRB Bhubaneswar, and RRB Guwahati.",
+        "These zones have fewer applicants relative to vacancies because they cover less populated regions. If you have domicile or are willing to work in these areas, applying to these zones significantly increases your selection probability.",
         "You can apply to only ONE RRB zone per notification. Choose strategically - don't default to your home zone if it's highly competitive (like RRB Delhi or RRB Allahabad which cover the most populated regions).",
         "Research previous year cutoffs by zone before applying. The cutoff difference between zones can be 10-15 marks.",
         "After selection, your posting is within the railways covered by your chosen RRB zone. RRB Kolkata covers Eastern Railway and South Eastern Railway - your posting will be in West Bengal, Jharkhand, or Odisha.",
@@ -340,11 +424,34 @@
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "Visual: Exam Pattern",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Exam Pattern</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">25</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Mathematics</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">25 Qs</text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">30</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">General Intelligence</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">30 Qs</text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">25</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">General Science</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">25 Qs</text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">20</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">General Awareness & </text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">20 Qs</text></svg>",
-      "caption": "Paper structure",
-      "description": "Subject-wise marks."
+      "type": "stat_grid",
+      "heading": "CBT structure (100 marks)",
+      "items": [
+        {
+          "icon": "🔢",
+          "value": "25",
+          "label": "Mathematics",
+          "color": "amber"
+        },
+        {
+          "icon": "🧩",
+          "value": "30",
+          "label": "Reasoning",
+          "color": "amber"
+        },
+        {
+          "icon": "🔬",
+          "value": "25",
+          "label": "General Science",
+          "color": "green"
+        },
+        {
+          "icon": "🌐",
+          "value": "20",
+          "label": "GA & Current Affairs",
+          "color": "green"
+        }
+      ]
     },
     {
       "type": "text",
@@ -389,18 +496,40 @@
       ]
     },
     {
+      "type": "icon_list",
+      "heading": "Documents for verification",
+      "items": [
+        {
+          "icon": "🪪",
+          "title": "Core documents",
+          "sub": "Originals plus three photocopies of your 10th certificate and marksheet, a photo ID, and recent passport photos."
+        },
+        {
+          "icon": "📜",
+          "title": "Category certificate",
+          "sub": "OBC-NCL must be in the central government format and recently issued. State-format or expired certificates are a common reason for rejection."
+        },
+        {
+          "icon": "🏛️",
+          "title": "SC/ST proof",
+          "sub": "The caste certificate must come from the District Magistrate, Collector or an equivalent authority in the prescribed format."
+        },
+        {
+          "icon": "✅",
+          "title": "Get it early",
+          "sub": "Arrange a fresh central-format certificate two to three months before DV so a paperwork gap does not cost you the job."
+        }
+      ]
+    },
+    {
       "type": "text",
-      "heading": "Document verification - what to carry",
-      "icon": "📋",
+      "heading": "Application process and fees",
       "content": [
-        "After clearing CBT and PET, you're called for Document Verification (DV). This is a pass/fail stage - wrong or missing documents mean immediate rejection regardless of your CBT score.",
-        "Carry originals AND 3 photocopies of: 10th pass certificate and marksheet (for date of birth and educational qualification proof), caste certificate (SC/ST/OBC-NCL issued by competent authority - not a community certificate from village head), domicile certificate, Aadhaar card, and 8 passport-sized photos.",
-        "For OBC candidates: The OBC-NCL (Non-Creamy Layer) certificate must be in the central government format, not state format. It must be issued within the last 1 year and should specifically mention that you don't belong to the creamy layer.",
-        "Many OBC candidates get rejected at DV because their certificate is in state format or expired. Get a fresh central format certificate 2-3 months before expected DV date.",
-        "For SC/ST candidates: The caste certificate must be from the District Magistrate, Additional District Magistrate, Collector, or equivalent authority. Certificates from village sarpanch or block-level officers are NOT accepted for central government recruitment.",
-        "If you don't have a certificate from the correct authority, apply for one immediately - processing takes 15-30 days.",
-        "Medical fitness certificate: You need a medical certificate from a government doctor confirming fitness for railway service. This includes eyesight test (6/9 in better eye, 6/12 in worse eye without glasses for Group D posts), hearing test, and general physical fitness.",
-        "Get your eyes tested in advance - if you need correction, consult an ophthalmologist about treatment options before the medical exam."
+        "Applications are filed online at rrbapply.gov.in during the notification window. You first complete a one-time registration, then apply to a single RRB of your choice.",
+        "The fee is ₹500 for general candidates and ₹250 for reserved categories, women, transgender and ex-servicemen. Part of it is refunded after you appear for the CBT.",
+        "In the form you set your post and zone preferences carefully, since these decide where you may be posted later. Think about home-state proximity before locking them.",
+        "Keep your 10th certificate, photo, signature and category certificate ready in the correct format. Aadhaar details are now used for biometric verification at the centre.",
+        "Apply early in the window. The portal slows down near the deadline, and last-minute errors are hard to fix."
       ]
     },
     {
@@ -418,12 +547,30 @@
       "text": "RRB Group D is the largest single recruitment in India - the sheer number of vacancies means that with disciplined preparation, even average students have a realistic shot at a permanent railway job."
     },
     {
-      "type": "svg_block",
-      "heading": "RRB Group D Posts",
-      "icon": "🚂",
-      "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">Railway Group D Post Categories</text><rect x=\"30\" y=\"50\" width=\"150\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"105\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#1B6B4A\">Track Maintainer</text><rect x=\"200\" y=\"50\" width=\"150\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"275\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#1E40AF\">Helper/Fitter</text><rect x=\"370\" y=\"50\" width=\"150\" height=\"35\" rx=\"8\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"445\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#92400E\">Pointsman</text><rect x=\"540\" y=\"50\" width=\"130\" height=\"35\" rx=\"8\" fill=\"#F3E8FF\" stroke=\"#7C3AED\" stroke-width=\"2\"/><text x=\"605\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#5B21B6\">Gatekeeper</text></svg>",
-      "caption": "Group D is Level 1 in 7th CPC with starting salary ₹18K+ plus railway benefits",
-      "description": "Free rail travel pass for family is one of the most valued railway perks."
+      "type": "icon_list",
+      "heading": "Level 1 posts you can get",
+      "items": [
+        {
+          "icon": "🛤️",
+          "title": "Track Maintainer Grade-IV",
+          "sub": "The largest category by far, maintaining tracks, alignment and sleepers and checking the line on foot. Mostly outdoor and physical work in all weather."
+        },
+        {
+          "icon": "🚦",
+          "title": "Pointsman / Assistant Pointsman",
+          "sub": "Operate points and signals in yards and stations, often working in shifts."
+        },
+        {
+          "icon": "🔧",
+          "title": "Helper / Assistant",
+          "sub": "Support roles in mechanical, electrical and engineering workshops and sheds."
+        },
+        {
+          "icon": "🚪",
+          "title": "Gateman / Porter",
+          "sub": "Level-crossing and station support roles across several departments."
+        }
+      ]
     }
   ],
   "important_dates": [
@@ -482,7 +629,7 @@
     },
     {
       "question": "What is the RRB Group D salary?",
-      "answer": "Pay Level 1: Basic Rs 18,000. With DA, HRA, and allowances, total monthly salary is Rs 28,000-35,000 depending on city.<br><br>Additional benefits: free railway passes (for self and family), medical coverage at railway hospitals, subsidized housing in railway colonies, and pension after retirement."
+      "answer": "Every Group D post is at Pay Level 1 with a basic pay of ₹18,000. With DA, HRA, transport and other allowances, the in-hand salary works out to roughly ₹22,500 to ₹26,000 a month.<br><br>On top of pay you get free rail passes, railway medical care and an NPS pension. The exact in-hand figure depends mainly on your posting city."
     },
     {
       "question": "Is there negative marking in RRB Group D?",
@@ -499,6 +646,10 @@
     {
       "question": "Can ITI holders apply for RRB Group D?",
       "answer": "Yes. ITI holders are eligible and often get preference in workshop-related postings (Helper, Khalasi).<br><br>The minimum qualification is 10th pass - ITI is an added advantage. Some Group D posts specifically mention ITI preference for mechanical, electrical, and fitter trade workshops."
+    },
+    {
+      "question": "What is the full form of RRB Group D?",
+      "answer": "RRB stands for Railway Recruitment Board. Group D refers to the Level 1 posts in Indian Railways, such as Track Maintainer, Pointsman and Helper.<br><br>The recruitment is run through Centralised Employment Notifications, with the current one being CEN 09/2025."
     }
   ],
   "official_portal": {
@@ -654,19 +805,25 @@
   "last_reviewed": "May 2026",
   "category": "railway",
   "salary_table": {
-    "intro": "In-hand salary ranges from ₹18,000–21,000/month to ₹18,000–21,000/month basic + allowances depending on the post and city.",
+    "intro": "Every Group D post sits at Pay Level 1 with the same basic pay of ₹18,000. What you take home depends on your city and allowances, not on which post you get.",
+    "label": "Salary",
+    "icon": "💰",
     "rows": [
       {
-        "post": "Track Maintainer Grade-IV",
-        "amount": "₹18,000–21,000/month basic + allowances"
+        "post": "In-hand (with DA, HRA, TA)",
+        "amount": "~₹22,500–26,000/mo"
       },
       {
-        "post": "Helper/Assistant in Workshops",
-        "amount": "₹18,000–21,000/month"
+        "post": "Basic pay (Level 1)",
+        "amount": "₹18,000"
       },
       {
-        "post": "Porter",
-        "amount": "₹18,000–21,000/month"
+        "post": "Plus",
+        "amount": "free rail pass, NPS, medical"
+      },
+      {
+        "post": "Job type",
+        "amount": "Permanent central govt"
       }
     ]
   },
@@ -691,7 +848,7 @@
   "status": "upcoming",
   "eligibility_data": {
     "reference_date": "As per notification",
-    "default_education": "10th pass from recognised board",
+    "default_education": "10th pass, or ITI / NAC from NCVT",
     "relaxations": [
       {
         "category": "OBC",
@@ -710,18 +867,28 @@
       {
         "post": "Track Maintainer Grade-IV",
         "min_age": 18,
-        "max_age": 33
+        "max_age": 36,
+        "note": "Standard band is 18-33; recent cycles allowed up to 36 via a one-time 3-year relaxation."
       },
       {
         "post": "Helper/Assistant in Workshops",
         "min_age": 18,
-        "max_age": 33
+        "max_age": 36,
+        "note": "Standard band is 18-33; recent cycles allowed up to 36 via a one-time 3-year relaxation."
       },
       {
         "post": "Porter",
         "min_age": 18,
-        "max_age": 33
+        "max_age": 36,
+        "note": "Standard band is 18-33; recent cycles allowed up to 36 via a one-time 3-year relaxation."
       }
     ]
-  }
+  },
+  "changes_2026": [
+    "CEN 09/2025, the active cycle, was notified in January 2026 for 22,195 Level 1 posts. Applications closed on 9 March 2026, and the CBT dates are awaited.",
+    "The earlier CEN 08/2024 cycle of 32,438 posts finished its CBT between November 2025 and January 2026. Its result is expected around May 2026, followed by the PET.",
+    "Railways now runs Group D as an annual cycle. The next notification is expected around late 2026.",
+    "Recent cycles set the age band at 18 to 36 through a one-time three-year relaxation, against the standard 18 to 33. Recheck each fresh notification.",
+    "Aadhaar-based biometric verification is now mandatory at the CBT centre."
+  ]
 }
