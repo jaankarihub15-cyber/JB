@@ -84,17 +84,91 @@
         {
           "name": "English Language (20 min)",
           "questions": 30,
-          "marks": 30
+          "marks": 30,
+          "topics": [
+            {
+              "name": "Reading comprehension",
+              "high": true
+            },
+            {
+              "name": "Cloze test",
+              "high": false
+            },
+            {
+              "name": "Error spotting",
+              "high": false
+            },
+            {
+              "name": "Sentence improvement",
+              "high": false
+            },
+            {
+              "name": "Para jumbles",
+              "high": false
+            },
+            {
+              "name": "Fillers",
+              "high": false
+            }
+          ]
         },
         {
           "name": "Numerical Ability (20 min)",
           "questions": 35,
-          "marks": 35
+          "marks": 35,
+          "topics": [
+            {
+              "name": "Simplification & approximation",
+              "high": true
+            },
+            {
+              "name": "Data interpretation",
+              "high": true
+            },
+            {
+              "name": "Number series",
+              "high": false
+            },
+            {
+              "name": "Quadratic equations",
+              "high": false
+            },
+            {
+              "name": "Arithmetic word problems",
+              "high": false
+            }
+          ]
         },
         {
           "name": "Reasoning Ability (20 min)",
           "questions": 35,
-          "marks": 35
+          "marks": 35,
+          "topics": [
+            {
+              "name": "Puzzles & seating",
+              "high": true
+            },
+            {
+              "name": "Syllogism",
+              "high": false
+            },
+            {
+              "name": "Inequality",
+              "high": false
+            },
+            {
+              "name": "Coding-decoding",
+              "high": false
+            },
+            {
+              "name": "Blood relations",
+              "high": false
+            },
+            {
+              "name": "Order & ranking",
+              "high": false
+            }
+          ]
         }
       ],
       "total_questions": 100,
@@ -109,22 +183,102 @@
         {
           "name": "General/Financial Awareness (35 min)",
           "questions": 50,
-          "marks": 50
+          "marks": 50,
+          "topics": [
+            {
+              "name": "Banking & financial awareness",
+              "high": true
+            },
+            {
+              "name": "Current affairs",
+              "high": true
+            },
+            {
+              "name": "Static GK",
+              "high": false
+            }
+          ]
         },
         {
           "name": "General English (35 min)",
           "questions": 40,
-          "marks": 40
+          "marks": 40,
+          "topics": [
+            {
+              "name": "Reading comprehension",
+              "high": true
+            },
+            {
+              "name": "Cloze test",
+              "high": false
+            },
+            {
+              "name": "Error spotting",
+              "high": false
+            },
+            {
+              "name": "Vocabulary",
+              "high": false
+            },
+            {
+              "name": "Para jumbles",
+              "high": false
+            }
+          ]
         },
         {
           "name": "Reasoning Ability & Computer Aptitude (45 min)",
           "questions": 50,
-          "marks": 60
+          "marks": 60,
+          "topics": [
+            {
+              "name": "Puzzles & seating",
+              "high": true
+            },
+            {
+              "name": "Computer aptitude",
+              "high": true
+            },
+            {
+              "name": "Syllogism",
+              "high": false
+            },
+            {
+              "name": "Data sufficiency",
+              "high": false
+            },
+            {
+              "name": "Inequality",
+              "high": false
+            }
+          ]
         },
         {
           "name": "Quantitative Aptitude (45 min)",
           "questions": 50,
-          "marks": 50
+          "marks": 50,
+          "topics": [
+            {
+              "name": "Data interpretation",
+              "high": true
+            },
+            {
+              "name": "Arithmetic",
+              "high": true
+            },
+            {
+              "name": "Number series",
+              "high": false
+            },
+            {
+              "name": "Quadratic equations",
+              "high": false
+            },
+            {
+              "name": "Approximation",
+              "high": false
+            }
+          ]
         }
       ],
       "total_questions": 190,
@@ -510,7 +664,7 @@
     },
     {
       "type": "stat_grid",
-      "heading": "Mains pattern (190 marks)",
+      "heading": "Mains pattern (190 Qs, 200 marks)",
       "items": [
         {
           "icon": "📚",

@@ -89,12 +89,48 @@
         {
           "name": "General Aptitude (Verbal + Quantitative)",
           "questions": 10,
-          "marks": 15
+          "marks": 15,
+          "topics": [
+            {
+              "name": "Quantitative aptitude",
+              "high": true
+            },
+            {
+              "name": "Verbal ability",
+              "high": true
+            },
+            {
+              "name": "Analytical reasoning",
+              "high": false
+            },
+            {
+              "name": "Data interpretation",
+              "high": false
+            },
+            {
+              "name": "Spatial aptitude",
+              "high": false
+            }
+          ]
         },
         {
           "name": "Subject-specific (Engineering/Science)",
           "questions": 55,
-          "marks": 85
+          "marks": 85,
+          "topics": [
+            {
+              "name": "Engineering Mathematics",
+              "high": true
+            },
+            {
+              "name": "Core subject (branch-specific)",
+              "high": true
+            },
+            {
+              "name": "Numerical Answer Type questions",
+              "high": false
+            }
+          ]
         }
       ],
       "total_questions": 65,
@@ -587,6 +623,14 @@
       "content": [
         "Your GATE 2026 scorecard is free to download until 31 May 2026, then ₹500 per paper until 31 December 2026.",
         "M.Tech offers and PSU shortlisting run through COAP, the common portal where IITs and IISc publish seat allotments."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Exam centres and paper choice",
+      "content": [
+        "GATE 2026 is held in more than 200 cities, all within India.",
+        "You may attempt one or two papers, with the second chosen only from the allowed combinations."
       ]
     },
     {

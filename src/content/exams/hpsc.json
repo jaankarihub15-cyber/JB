@@ -93,23 +93,75 @@
   "exam_pattern": [
     {
       "tier_name": "Prelims (2 Papers)",
-      "description": "Paper 1: GS (100 MCQs, 200 marks, 2 hours). Paper 2: CSAT (100 MCQs, 200 marks, 2 hours, qualifying at 33%).",
+      "description": "Paper 1: GS (100 MCQs, 100 marks, 2 hours). Paper 2: CSAT (100 MCQs, 100 marks, 2 hours, qualifying at 33%).",
       "subjects": [
         {
           "name": "Paper 1: GS + Haryana",
           "questions": 100,
-          "marks": 200
+          "marks": 100,
+          "topics": [
+            {
+              "name": "Haryana GK",
+              "high": true
+            },
+            {
+              "name": "Current affairs",
+              "high": true
+            },
+            {
+              "name": "Indian polity",
+              "high": false
+            },
+            {
+              "name": "Indian history",
+              "high": false
+            },
+            {
+              "name": "Geography",
+              "high": false
+            },
+            {
+              "name": "Indian economy",
+              "high": false
+            },
+            {
+              "name": "Science & environment",
+              "high": false
+            }
+          ]
         },
         {
           "name": "Paper 2: CSAT (Qualifying)",
           "questions": 100,
-          "marks": 200
+          "marks": 100,
+          "topics": [
+            {
+              "name": "Comprehension",
+              "high": true
+            },
+            {
+              "name": "Logical reasoning",
+              "high": true
+            },
+            {
+              "name": "Basic numeracy",
+              "high": false
+            },
+            {
+              "name": "Data interpretation",
+              "high": false
+            },
+            {
+              "name": "Decision making",
+              "high": false
+            }
+          ]
         }
       ],
       "total_questions": 200,
-      "total_marks": 400,
+      "total_marks": 200,
       "duration": "4 hours total",
-      "negative_marking": "0.67 per wrong answer"
+      "negative_marking": "0.25 per wrong answer"
     }
   ],
   "major_posts": [
@@ -230,11 +282,11 @@
       "icon": "📊",
       "content": [
         "HPSC HCS attracts approximately 1-2 lakh applicants for 100-200 posts in each cycle. The selection rate is around 0.1-0.2%, making it highly competitive.",
-        "Prelims cutoff for General category typically ranges from 110-130 marks out of 200.",
+        "HPSC does not publish official prelims cutoffs. Only Paper 1 (GS), scored out of 100, decides merit, and CSAT just needs 33% to qualify.",
         "Haryana GK is the single biggest scoring opportunity - it carries 25-30% weightage in Prelims. Topics include Haryana history, geography, culture, folk traditions, government schemes, and current state affairs.",
         "Candidates who skip Haryana GK lose 40-50 easy marks.",
-        "Mains has 5 compulsory papers plus an optional subject (300 marks). Interview carries 100 marks.",
-        "The optional subject choice is critical - History, Public Administration, and Geography are popular choices among Haryana candidates."
+        "Mains has six descriptive papers of 100 marks each, with no optional subject after the 2026 revision. The interview carries 75 marks, so final merit is out of 675.",
+        "All six papers count, the four GS papers plus English and Hindi with essays, so depth across every paper matters."
       ]
     },
     {
@@ -249,7 +301,7 @@
         {
           "icon": "🖊️",
           "title": "Mains",
-          "desc": "Five descriptive papers. Two language papers qualify, three GS papers carry 600 merit marks."
+          "desc": "Six descriptive papers of 100 marks each, no optional. All six count toward the 600 merit marks."
         },
         {
           "icon": "🎙️",
@@ -259,57 +311,39 @@
       ]
     },
     {
-      "heading": "HPSC Prelims Cutoff Trends & Competition Analysis",
+      "heading": "HPSC HCS Competition: Applicants vs Vacancies",
       "icon": "📊",
       "type": "table",
       "columns": [
         "Year",
         "Total Applicants",
-        "Vacancies",
-        "General Cutoff (out of 400)",
-        "OBC Cutoff",
-        "SC/ST Cutoff"
+        "Vacancies"
       ],
       "rows": [
         [
           "2025",
           "~1,50,000",
-          "102",
-          "240–250",
-          "225–235",
-          "205–215"
+          "102"
         ],
         [
           "2024",
           "~1,40,000",
-          "95",
-          "235–245",
-          "220–230",
-          "200–210"
+          "95"
         ],
         [
           "2023",
           "~1,25,000",
-          "105",
-          "230–240",
-          "215–225",
-          "195–205"
+          "105"
         ],
         [
           "2022",
           "~1,10,000",
-          "110",
-          "225–235",
-          "210–220",
-          "190–200"
+          "110"
         ],
         [
           "2021",
           "~1,00,000",
-          "98",
-          "220–230",
-          "205–215",
-          "185–195"
+          "98"
         ]
       ]
     },
@@ -381,42 +415,47 @@
       "heading": "Exam pattern",
       "icon": "📝",
       "content": [
-        "Prelims: 2 papers - Paper 1 (General Studies - 100 MCQs, 200 marks, 2 hours) and Paper 2 (CSAT - 100 MCQs, 200 marks, 2 hours). CSAT is qualifying only (33% minimum) - only Paper 1 counts for merit.",
+        "Prelims: 2 papers - Paper 1 (General Studies - 100 MCQs, 100 marks, 2 hours) and Paper 2 (CSAT - 100 MCQs, 100 marks, 2 hours). CSAT is qualifying only (33% minimum) - only Paper 1 counts for merit.",
         "Paper 1 covers Indian history, geography, polity, economy, science, environment, current affairs, and Haryana-specific GK (25-30% weightage).",
-        "Mains: 5 papers - Hindi Essay and Comprehension (100 marks, qualifying), English Essay and Comprehension (100 marks, qualifying), GS Paper 1 (Indian Heritage, History, Society - 200 marks), GS Paper 2 (Governance, Constitution, Social Justice, International Relations - 200 marks), GS Paper 3 (Technology, Economy, Environment, Disaster Management - 200 marks). Total Mains merit: 600 marks.",
+        "Mains: 6 descriptive papers of 100 marks each, total 600. English with Essay, Hindi with Essay, and General Studies 1 to 4 including Ethics, with no optional subject.",
         "Interview: 75 marks. Grand total: 675 marks.",
-        "HPSC Mains has NO Optional subject - all 3 scoring papers are GS. This is similar to CGPSC's all-GS format.",
-        "The advantage: you don't spend 4-6 months on one Optional. The challenge: you need depth across ALL GS topics - no subject can be weak."
+        "HPSC Mains has no optional subject. All six papers count toward merit, unlike the old format where the language papers were only qualifying.",
+        "The advantage: no months lost on a single optional. The challenge: you need depth across all six papers, including Ethics, so nothing can be weak."
       ]
     },
     {
       "type": "icon_list",
-      "heading": "The five HPSC mains papers",
+      "heading": "The six HPSC mains papers",
       "items": [
         {
-          "icon": "🗣️",
-          "title": "Hindi (qualifying)",
-          "sub": "Essay and comprehension, 100 marks, pass or fail only."
+          "icon": "🔤",
+          "title": "English + Essay",
+          "sub": "Includes essay. 100 marks, counts toward merit."
         },
         {
-          "icon": "🔤",
-          "title": "English (qualifying)",
-          "sub": "Essay and comprehension, 100 marks, pass or fail only."
+          "icon": "🗣️",
+          "title": "Hindi + Essay",
+          "sub": "Includes essay. 100 marks, counts toward merit."
         },
         {
           "icon": "📜",
           "title": "GS Paper 1",
-          "sub": "Indian heritage, history and society. 200 merit marks."
+          "sub": "Indian heritage, history and society. 100 marks."
         },
         {
           "icon": "🏛️",
           "title": "GS Paper 2",
-          "sub": "Governance, constitution, social justice and international relations. 200 marks."
+          "sub": "Governance, constitution, social justice and international relations. 100 marks."
         },
         {
           "icon": "🔬",
           "title": "GS Paper 3",
-          "sub": "Technology, economy, environment and disaster management. 200 marks."
+          "sub": "Technology, economy, environment and disaster management. 100 marks."
+        },
+        {
+          "icon": "⚖️",
+          "title": "GS Paper 4: Ethics",
+          "sub": "Ethics, integrity and aptitude. 100 marks."
         }
       ]
     },
@@ -424,7 +463,7 @@
       "type": "number_highlight",
       "big": "675",
       "title": "Total marks that decide your rank",
-      "desc": "600 from the three GS mains papers plus a 75-mark interview. The two language papers only need a pass."
+      "desc": "600 from six mains papers of 100 marks each, plus a 75-mark interview. All six count toward merit after the 2026 revision removed the optional and the qualifying-only languages."
     },
     {
       "type": "text",
@@ -498,8 +537,8 @@
       "heading": "HPSC HCS 2026 mains: what's ahead",
       "content": [
         "With prelims done, the HPSC HCS 2026 mains runs from 27 to 29 June 2026.",
-        "The three GS papers carry the full 600 merit marks, so Haryana GK and current affairs revision matters most now.",
-        "The two language papers only need a pass, but do not ignore them, since some candidates are eliminated there every year.",
+        "All six mains papers carry 100 marks each and count toward the 600 merit marks. Broad revision across the four GS papers and the two language-essay papers matters most now.",
+        "The 2026 revision removed the optional subject and made the languages count, so no paper can be ignored.",
         "Interviews follow in August to September 2026."
       ]
     },
@@ -519,13 +558,13 @@
       "items": [
         {
           "icon": "📄",
-          "value": "200",
+          "value": "100",
           "label": "Paper 1 GS (counts)",
           "color": "green"
         },
         {
           "icon": "📄",
-          "value": "200",
+          "value": "100",
           "label": "Paper 2 CSAT (qualifying)",
           "color": "amber"
         },
@@ -604,7 +643,7 @@
         {
           "icon": "📚",
           "title": "Treating HPSC as easy",
-          "sub": "No Optional means all three GS papers must be strong. You cannot hide a weak paper."
+          "sub": "No optional means all six papers must be strong, including Ethics. You cannot hide a weak paper."
         },
         {
           "icon": "🏺",
@@ -685,7 +724,7 @@
   "preparation_tips": [
     "Age limit 42 is your advantage - use it wisely. Don't procrastinate under the illusion of many attempts. Top candidates clear within 2–3 attempts; beyond that, competition increases yearly. Aim to clear Prelims by your 2nd attempt maximum.",
     "Haryana GK books: Ram Singh Yadav's Haryana GK (standard reference), Upkar Publication's Haryana guide, HPSC previous papers (invaluable). Dedicate 8–10 weeks to comprehensive Haryana GK covering: history (Kurukshetra, Panipat battles, freedom struggle), culture, geography, economy, government schemes.",
-    "Practice mocks from month 3. HPSC Prelims difficulty is moderate - neither too hard nor too easy. Accuracy matters more than speed. Aim: 180+ out of 400 (45% for safe Prelims clearance)."
+    "Practice mocks from month 3, as HPSC Prelims difficulty is moderate and accuracy matters more than speed. Only Paper 1 (GS, out of 100) decides merit, while CSAT just needs 33% to qualify."
   ],
   "faqs": [
     {
@@ -702,7 +741,7 @@
     },
     {
       "question": "Does HPSC have Optional subject?",
-      "answer": "No - HPSC HCS Mains has NO Optional subject. All 3 scoring papers are GS (200 marks each = 600 total).<br><br>Hindi and English papers are qualifying only. This no-Optional format rewards broad knowledge across subjects and is less preparation-intensive than UPSC or UPPSC which have 400-500 mark Optionals."
+      "answer": "No, HPSC HCS Mains has no optional subject after the 2026 revision.<br><br>The mains now has six papers of 100 marks each, all counting toward the 600 merit total: English with Essay, Hindi with Essay, and General Studies 1 to 4 including Ethics."
     },
     {
       "question": "Can non-Haryana residents apply?",
@@ -942,5 +981,123 @@
     "HPSC released the HCS 2026 notification on 30 January 2026 for 102 posts across HCS, DSP, ETO and allied services.",
     "Prelims were held on 26 April 2026. Mains is scheduled for 27 to 29 June 2026, with interviews in August to September.",
     "A 10% rule now applies: attempting fewer than 10% of the questions can lead to direct disqualification."
-  ]
+  ],
+  "post_preferences": {
+    "posts": [
+      {
+        "post": "HCS (Executive Branch)",
+        "dept": "Revenue & General Admin",
+        "salary_range": "Rs 56-60k",
+        "level": 10,
+        "attrs": {
+          "salary": 3,
+          "metro": 2,
+          "desk": 1,
+          "promo": 3,
+          "power": 3,
+          "stable": 1
+        },
+        "tags": [
+          "Level 10",
+          "SDM / EAC track",
+          "High authority"
+        ]
+      },
+      {
+        "post": "DSP",
+        "dept": "Haryana Police",
+        "salary_range": "Rs 56-60k",
+        "level": 10,
+        "attrs": {
+          "salary": 3,
+          "metro": 2,
+          "desk": 1,
+          "promo": 2,
+          "power": 3,
+          "stable": 1
+        },
+        "tags": [
+          "Level 10",
+          "Police",
+          "Field command"
+        ]
+      },
+      {
+        "post": "Excise & Taxation Officer",
+        "dept": "Excise & Taxation",
+        "salary_range": "Rs 47-53k",
+        "level": 9,
+        "attrs": {
+          "salary": 2,
+          "metro": 2,
+          "desk": 2,
+          "promo": 2,
+          "power": 2,
+          "stable": 2
+        },
+        "tags": [
+          "Level 9",
+          "Tax & revenue",
+          "Desk + field"
+        ]
+      },
+      {
+        "post": "BDPO",
+        "dept": "Development & Panchayats",
+        "salary_range": "Rs 47-53k",
+        "level": 9,
+        "attrs": {
+          "salary": 2,
+          "metro": 1,
+          "desk": 2,
+          "promo": 1,
+          "power": 2,
+          "stable": 2
+        },
+        "tags": [
+          "Level 9",
+          "Rural posting",
+          "Development work"
+        ]
+      },
+      {
+        "post": "Asst Registrar, Cooperative Societies",
+        "dept": "Cooperation",
+        "salary_range": "Rs 47-53k",
+        "level": 9,
+        "attrs": {
+          "salary": 2,
+          "metro": 1,
+          "desk": 3,
+          "promo": 1,
+          "power": 1,
+          "stable": 3
+        },
+        "tags": [
+          "Level 9",
+          "Desk job",
+          "Cooperatives"
+        ]
+      },
+      {
+        "post": "District Food & Supplies Officer",
+        "dept": "Food & Supplies",
+        "salary_range": "Rs 47-53k",
+        "level": 9,
+        "attrs": {
+          "salary": 2,
+          "metro": 2,
+          "desk": 2,
+          "promo": 1,
+          "power": 2,
+          "stable": 2
+        },
+        "tags": [
+          "Level 9",
+          "PDS / supplies",
+          "District role"
+        ]
+      }
+    ]
+  }
 }
