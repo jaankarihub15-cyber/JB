@@ -1,7 +1,7 @@
 {
   "slug": "jee-main",
-  "title": "JEE Main 2026: Results Out, 2.5 Lakh Qualify for JEE Advanced",
-  "meta_description": "JEE Main 2026 by NTA: Session 1 (21-30 Jan), Session 2 (2-9 Apr) results released. Top 2.5 lakh qualify for JEE Advanced. Admission to NITs, IIITs, GFTIs.",
+  "title": "JEE Main 2026 Result: 2.5 Lakh Qualify for Advanced",
+  "meta_description": "JEE Main 2026 result is out. 2,50,182 qualified for JEE Advanced and JoSAA counselling began on 2 June. NIT, IIIT and GFTI admission guide.",
   "hero": {
     "status": "upcoming",
     "one_liner": "India's largest engineering entrance exam - gateway to 31 NITs, 26 IIITs, and 33 GFTIs, plus qualifying for JEE Advanced (IIT admission).",
@@ -39,8 +39,8 @@
     }
   ],
   "what_is_it": [
-    "JEE Main (Joint Entrance Examination Main) is India's largest engineering entrance exam, conducted by NTA (National Testing Agency) twice annually for admission to undergraduate B.Tech/B.E. programs at 31 NITs (National Institutes of Technology), 26 IIITs (Indian Institutes of Information Technology), 33 GFTIs (Government Funded Technical Institutions), and thousands of private engineering colleges. It also serves as the qualifying gateway - only the top 2.5 lakh JEE Main qualifiers (category-wise) can appear for JEE Advanced, which is the sole pathway to 23 IITs. With 12+ lakh applicants competing, JEE Main is the most competitive engineering exam globally by number of candidates.",
-    "JEE Main is conducted in two sessions: Session 1 (January 21-30, 2026) and Session 2 (April 1-10, 2026). Candidates can appear in one or both sessions - the better score is considered for ranking. The two-session format ensures fairness and allows candidates a second chance. Paper 1 (B.E./B.Tech) tests Physics, Chemistry, and Mathematics with 90 questions in 3 hours. Each subject has 30 questions: 20 MCQs (4 marks each, -1 for wrong) and 10 Numerical Answer Type (4 marks each, no negative, attempt any 5 out of 10). Total attempt: 75 questions, 300 marks.",
+    "JEE Main (Joint Entrance Examination Main) is India's largest engineering entrance exam, conducted by NTA (National Testing Agency) twice annually for admission to undergraduate B.Tech/B.E. programs at 31 NITs (National Institutes of Technology), 26 IIITs (Indian Institutes of Information Technology), 33 GFTIs (Government Funded Technical Institutions), and thousands of private engineering colleges. It also serves as the qualifying gateway - only the top 2.5 lakh JEE Main qualifiers (category-wise) can appear for JEE Advanced, which is the sole pathway to 23 IITs. With 16+ lakh applicants competing, JEE Main is the most competitive engineering exam globally by number of candidates.",
+    "JEE Main is conducted in two sessions: Session 1 (21-29 January 2026) and Session 2 (2-8 April 2026). Candidates can appear in one or both sessions, and the better percentile is considered for ranking. The two-session format gives candidates a second chance. Paper 1 (B.E./B.Tech) tests Physics, Chemistry and Mathematics with 75 questions in 3 hours. Each subject has 25 questions: 20 MCQs (4 marks each, -1 for wrong) and 5 Numerical Answer Type (4 marks each, -1 for wrong, all compulsory since 2025). Total: 75 questions, 300 marks.",
     "NIT placements are excellent - NIT Trichy, Warangal, Surathkal, and Allahabad are among India's best engineering colleges, with average packages of ₹8-15 LPA. Many students clearing JEE Main with 99+ percentile also appear for JEE Advanced to compete for IIT seats. However, even without JEE Advanced, top NIT seats guarantee strong career outcomes. The exam tests conceptual understanding rather than pure memorization - Physics requires problem-solving ability, Chemistry requires precise knowledge of reactions and mechanisms, Mathematics requires logical reasoning and calculations.",
     "JEE Main allows 6 total attempts across 3 years (two sessions per year). Many successful candidates take 2-3 attempts - using Session 1 as a trial run and Session 2 as the main attempt, or spreading attempts across multiple years for improvement. The percentile-based ranking ensures fairness across sessions through normalization algorithms."
   ],
@@ -77,7 +77,7 @@
     },
     {
       "label": "Total Questions",
-      "value": "90 questions: Physics (30) + Chemistry (30) + Mathematics (30)",
+      "value": "75 questions: Physics (25) + Chemistry (25) + Mathematics (25)",
       "highlight": true
     },
     {
@@ -94,22 +94,76 @@
   "exam_pattern": [
     {
       "tier_name": "Paper 1: B.E./B.Tech (3 hours - 180 minutes)",
-      "description": "Each subject divided into Section A (20 MCQs, compulsory) and Section B (10 Numerical, attempt any 5). Total attempt: 75 questions from 90. NTA conducts in two shifts daily (9-12 AM and 3-6 PM).",
+      "description": "Each subject divided into Section A (20 MCQs, compulsory) and Section B (5 Numerical, all compulsory). Total: 75 questions, 300 marks. NTA conducts in two shifts daily (9-12 AM and 3-6 PM).",
       "subjects": [
         {
-          "name": "Physics (20 MCQ + 10 Numerical, attempt 5)",
+          "name": "Physics (20 MCQ + 5 Numerical, all compulsory)",
           "questions": 25,
-          "marks": 100
+          "marks": 100,
+          "topics": [
+            {
+              "name": "Mechanics",
+              "high": true
+            },
+            {
+              "name": "Electrostatics & current electricity",
+              "high": true
+            },
+            {
+              "name": "Optics & modern physics",
+              "high": false
+            },
+            {
+              "name": "Thermodynamics & waves",
+              "high": false
+            }
+          ]
         },
         {
-          "name": "Chemistry (20 MCQ + 10 Numerical, attempt 5)",
+          "name": "Chemistry (20 MCQ + 5 Numerical, all compulsory)",
           "questions": 25,
-          "marks": 100
+          "marks": 100,
+          "topics": [
+            {
+              "name": "Organic chemistry",
+              "high": true
+            },
+            {
+              "name": "Physical chemistry",
+              "high": true
+            },
+            {
+              "name": "Inorganic chemistry",
+              "high": false
+            }
+          ]
         },
         {
-          "name": "Mathematics (20 MCQ + 10 Numerical, attempt 5)",
+          "name": "Mathematics (20 MCQ + 5 Numerical, all compulsory)",
           "questions": 25,
-          "marks": 100
+          "marks": 100,
+          "topics": [
+            {
+              "name": "Calculus",
+              "high": true
+            },
+            {
+              "name": "Coordinate geometry",
+              "high": true
+            },
+            {
+              "name": "Algebra",
+              "high": false
+            },
+            {
+              "name": "Trigonometry",
+              "high": false
+            },
+            {
+              "name": "Vectors & 3D geometry",
+              "high": false
+            }
+          ]
         }
       ],
       "total_questions": 75,
@@ -145,6 +199,36 @@
     }
   ],
   "extra_sections": [
+    {
+      "type": "stat_grid",
+      "heading": "JEE Main paper: the subject split",
+      "items": [
+        {
+          "icon": "⚛️",
+          "value": "100",
+          "label": "Physics (25 Qs)",
+          "color": "green"
+        },
+        {
+          "icon": "🧪",
+          "value": "100",
+          "label": "Chemistry (25 Qs)",
+          "color": "green"
+        },
+        {
+          "icon": "📐",
+          "value": "100",
+          "label": "Mathematics (25 Qs)",
+          "color": "amber"
+        },
+        {
+          "icon": "🎯",
+          "value": "300",
+          "label": "Total (75 Qs, 3 hrs)",
+          "color": "green"
+        }
+      ]
+    },
     {
       "heading": "JEE Main vs JEE Advanced - Strategic Differences",
       "icon": "⚖️",
@@ -182,7 +266,7 @@
         ],
         [
           "Exam Format",
-          "MCQ + Numerical, 90 questions",
+          "MCQ + Numerical, 75 questions",
           "MCQ + Integer Type, 54 questions (2 papers)"
         ],
         [
@@ -203,10 +287,45 @@
       ]
     },
     {
-      "heading": "",
-      "type": "svg_block",
-      "svg": "<svg viewBox=\"0 0 700 160\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">JEE Main gateway to NITs, IIITs, IITs</text><rect x=\"30\" y=\"50\" width=\"200\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"130\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#145236\">Physics</text><text x=\"130\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">25 Qs | 100 marks</text><text x=\"130\" y=\"118\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">Most scoring</text><rect x=\"250\" y=\"50\" width=\"200\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"350\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#1E40AF\">Chemistry</text><text x=\"350\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">25 Qs | 100 marks</text><text x=\"350\" y=\"118\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">Easiest section</text><rect x=\"470\" y=\"50\" width=\"200\" height=\"90\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"570\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#C2410C\">Mathematics</text><text x=\"570\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#C2410C\">25 Qs | 100 marks</text><text x=\"570\" y=\"118\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#C2410C\">Hardest section</text></svg>",
-      "caption": "JEE Main has 75 questions (25 per subject) for 300 marks in 3 hours. 20 MCQs + 5 numerical value questions per subject. Negative marking: -1 for wrong MCQ, no negative for numerical."
+      "type": "text",
+      "heading": "JEE Main exam pattern - every detail you need",
+      "icon": "📝",
+      "content": [
+        "JEE Main Paper 1 (B.Tech admission) has 3 sections: Physics (25 questions - 20 MCQs + 5 numerical answer type), Chemistry (25 questions - same pattern), and Mathematics (25 questions - same pattern). Total 75 questions, 300 marks, 3 hours.",
+        "You MUST attempt all 20 MCQs in each section. From the 5 numerical questions, you can choose to attempt any - no negative marking on these.",
+        "MCQ marking: +4 for correct, -1 for wrong, 0 for unattempted. Numerical Answer Type (NAT): +4 for correct, 0 for wrong or unattempted.",
+        "This means NAT questions are risk-free - attempt all 15 NAT questions even if you're unsure. A lucky guess on a NAT question gives you 4 marks; a wrong answer costs nothing.",
+        "JEE Main is conducted twice a year (January and April sessions). You can appear in both - the better score is considered for ranking.",
+        "This is a massive advantage - treat the January session as a practice run and the April session as your final attempt. Appearing in both sessions effectively doubles your chances.",
+        "NTA conducts JEE Main as a Computer Based Test (CBT) across 300+ test centers in India. The exam runs in multiple shifts over 2-3 days per session.",
+        "Scores are normalized across shifts using percentile method - your rank is based on percentile, not raw marks. A percentile of 99.5 means you scored better than 99.5% of all candidates."
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "How the JEE Main paper is built",
+      "items": [
+        {
+          "icon": "🅰️",
+          "title": "Section A",
+          "sub": "20 MCQs per subject. +4 for correct, -1 for wrong."
+        },
+        {
+          "icon": "🅱️",
+          "title": "Section B",
+          "sub": "5 numerical questions per subject, all compulsory since 2025. +4 for correct, -1 for wrong."
+        },
+        {
+          "icon": "➗",
+          "title": "No calculator",
+          "sub": "No virtual calculator is provided. Practise mental and rough-sheet math."
+        },
+        {
+          "icon": "⏱️",
+          "title": "Duration",
+          "sub": "3 hours for 75 questions and 300 marks. 4 hours for PwD candidates."
+        }
+      ]
     },
     {
       "heading": "Preparation Strategy by Subject",
@@ -225,42 +344,60 @@
       ]
     },
     {
-      "type": "text",
-      "heading": "JEE Main exam pattern - every detail you need",
-      "icon": "📝",
-      "content": [
-        "JEE Main Paper 1 (B.Tech admission) has 3 sections: Physics (25 questions - 20 MCQs + 5 numerical answer type), Chemistry (25 questions - same pattern), and Mathematics (25 questions - same pattern). Total 75 questions, 300 marks, 3 hours.",
-        "You MUST attempt all 20 MCQs in each section. From the 5 numerical questions, you can choose to attempt any - no negative marking on these.",
-        "MCQ marking: +4 for correct, -1 for wrong, 0 for unattempted. Numerical Answer Type (NAT): +4 for correct, 0 for wrong or unattempted.",
-        "This means NAT questions are risk-free - attempt all 15 NAT questions even if you're unsure. A lucky guess on a NAT question gives you 4 marks; a wrong answer costs nothing.",
-        "JEE Main is conducted twice a year (January and April sessions). You can appear in both - the better score is considered for ranking.",
-        "This is a massive advantage - treat the January session as a practice run and the April session as your final attempt. Appearing in both sessions effectively doubles your chances.",
-        "NTA conducts JEE Main as a Computer Based Test (CBT) across 300+ test centers in India. The exam runs in multiple shifts over 2-3 days per session.",
-        "Scores are normalized across shifts using percentile method - your rank is based on percentile, not raw marks. A percentile of 99.5 means you scored better than 99.5% of all candidates."
+      "type": "icon_list",
+      "heading": "Where the marks are, subject by subject",
+      "items": [
+        {
+          "icon": "⚛️",
+          "title": "Physics (100)",
+          "sub": "Mechanics 25-30, Electrostatics and Current Electricity 20-25, Optics and Modern Physics 15-20, Thermodynamics and Waves 10-15."
+        },
+        {
+          "icon": "🧪",
+          "title": "Chemistry (100)",
+          "sub": "Organic 30-35, Physical 30-35, Inorganic 25-30. Inorganic is pure NCERT memory, 25 near-free marks most droppers skip."
+        },
+        {
+          "icon": "📐",
+          "title": "Mathematics (100)",
+          "sub": "Calculus 25-30, Coordinate Geometry 20-25, Algebra 20-25, Trigonometry 10-15, Vectors and 3D 10-15."
+        },
+        {
+          "icon": "🎯",
+          "title": "Smart prioritisation",
+          "sub": "Solve 10 years of JEE Main papers. Patterns repeat, so you will recognise 50-60% of questions on exam day."
+        }
       ]
     },
     {
-      "type": "text",
-      "heading": "Subject-wise preparation strategy",
-      "icon": "📖",
-      "content": [
-        "Physics (100 marks): Most scoring if you understand concepts rather than memorize formulas. High-weightage chapters: Mechanics (kinematics, laws of motion, work-energy-power, rotational motion - together 25-30 marks), Electrostatics and Current Electricity (20-25 marks), Optics and Modern Physics (15-20 marks), Thermodynamics and Waves (10-15 marks).",
-        "Focus on NCERT Class 11-12 Physics for theory, HC Verma for concept practice, and DC Pandey for JEE-level problems.",
-        "Chemistry (100 marks): The easiest section to score 80+ if you study strategically. Organic Chemistry (30-35 marks): named reactions, reaction mechanisms, GOC (General Organic Chemistry), polymers, biomolecules.",
-        "Inorganic Chemistry (25-30 marks): periodic table trends, coordination compounds, p-block and d-block elements. Physical Chemistry (30-35 marks): mole concept, thermodynamics, equilibrium, electrochemistry, chemical kinetics.",
-        "Inorganic Chemistry is pure memorization - NCERT textbook is the ONLY source needed. Read NCERT Inorganic chapters 3 times, highlight key reactions and exceptions, and you'll score 25+ out of 30.",
-        "Many students skip inorganic calling it 'boring' - that's 25 free marks they're throwing away.",
-        "Mathematics (100 marks): Hardest section - needs the most practice time. High-weightage chapters: Coordinate Geometry (circle, parabola, ellipse, hyperbola - 20-25 marks), Calculus (limits, differentiation, integration, area under curves, differential equations - 25-30 marks), Algebra (matrices, determinants, complex numbers, permutation-combination, probability - 20-25 marks), Trigonometry (10-15 marks), Vectors and 3D Geometry (10-15 marks).",
-        "Math preparation secret: Don't try to solve every type of problem. JEE Main math repeats problem patterns - solve 10 years of previous year papers and you'll recognize 50-60% of questions in the actual exam.",
-        "For the remaining, having strong calculus and coordinate geometry foundations lets you attempt most unfamiliar questions."
+      "type": "stat_grid",
+      "heading": "JEE Main 2026 by the numbers",
+      "items": [
+        {
+          "icon": "📝",
+          "value": "~16 Lakh",
+          "label": "Registered (both sessions)",
+          "color": "green"
+        },
+        {
+          "icon": "🎓",
+          "value": "2.5 Lakh",
+          "label": "Qualified for JEE Advanced",
+          "color": "green"
+        },
+        {
+          "icon": "🏛️",
+          "value": "~24,000",
+          "label": "NIT B.Tech seats",
+          "color": "amber"
+        },
+        {
+          "icon": "🗣️",
+          "value": "13",
+          "label": "Languages offered",
+          "color": "amber"
+        }
       ]
-    },
-    {
-      "type": "svg_block",
-      "heading": "Visual: Key Numbers",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">Jan 21-30, 2026</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Session 1</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">Apr 1-10, 2026</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Session 2</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">~25,000</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">NIT Seats</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">12+ Lakh</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Applicants</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
-      "caption": "Key facts",
-      "description": "Quick overview."
     },
     {
       "type": "text",
@@ -278,11 +415,25 @@
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "JEE Main 2026 Facts",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">JEE Main 2026 Facts</text><rect x=\"17\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"94\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">Jan 21-30, 2026</text><text x=\"94\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Session 1</text><rect x=\"187\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"264\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">Apr 1-10, 2026</text><text x=\"264\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Session 2</text><rect x=\"357\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"434\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#92400E\">~25,000</text><text x=\"434\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">NIT Seats</text><rect x=\"527\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"604\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">12+ Lakh</text><text x=\"604\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Applicants</text></svg>",
-      "caption": "Quick reference facts",
-      "description": "Key facts and numbers at a glance"
+      "type": "icon_list",
+      "heading": "What a JEE Main score unlocks",
+      "items": [
+        {
+          "icon": "🏛️",
+          "title": "NIT, IIIT and GFTI seats",
+          "sub": "Admission through JoSAA counselling on All India and home-state quotas."
+        },
+        {
+          "icon": "🚪",
+          "title": "JEE Advanced eligibility",
+          "sub": "The top 2,50,182 rankers can register for JEE Advanced, the only gate to the IITs."
+        },
+        {
+          "icon": "🏫",
+          "title": "State and private counselling",
+          "sub": "Many state and deemed or private universities admit on the JEE Main score too."
+        }
+      ]
     },
     {
       "type": "text",
@@ -299,22 +450,60 @@
       ]
     },
     {
-      "type": "text",
-      "heading": "12-month preparation plan - Class 11 to JEE Main",
-      "icon": "📅",
-      "content": [
-        "Months 1-4 (Class 11 syllabus): Complete Physics mechanics, Chemistry physical chemistry (mole concept, thermodynamics, equilibrium), and Math algebra (quadratic equations, sequences, permutations, complex numbers) + coordinate geometry (straight lines, circles). These Class 11 topics form the foundation for Class 12 topics - weak foundations here cripple JEE preparation.",
-        "Months 5-8 (Class 12 syllabus + revision): Complete Physics electrostatics, current electricity, optics, modern physics. Chemistry organic chemistry (complete reaction mechanisms) + inorganic (p-block, d-block, coordination compounds).",
-        "Math calculus (differentiation, integration, application of derivatives/integrals) + vectors + 3D geometry + probability.",
-        "Months 9-10 (Intensive revision): Revise all formula sheets daily. Solve 10 years of JEE Main previous year papers (available free on NTA website).",
-        "Identify your weakest 5 chapters across all subjects and do targeted practice. Take 2 full-length mock tests per week.",
-        "Months 11-12 (Mock test phase): Take 1 mock test daily. Analyze each mock: which questions did you get wrong despite knowing the concept (careless errors)?",
-        "Which topics are you consistently scoring below 50% in (needs revision)? Which questions took too long (needs speed practice)?",
-        "Stop studying new topics 1 week before the exam. Sleep 8 hours the night before - fatigue costs 10-15 marks.",
-        "For more details, see our guide on <a href=\"/exam/clat-2026\" style=\"text-decoration:underline;color:inherit\">CLAT 2026</a>.",
-        "For more details, see our guide on <a href=\"/exam/ugc-net\" style=\"text-decoration:underline;color:inherit\">UGC NET 2026</a>.",
-        "For more details, see our guide on <a href=\"/exam/cat-2026\" style=\"text-decoration:underline;color:inherit\">CAT 2026</a>.",
-        "For more details, see our guide on <a href=\"/exam/neet-ug\" style=\"text-decoration:underline;color:inherit\">NEET UG 2026</a>."
+      "type": "process_flow",
+      "heading": "Your steps after the result",
+      "steps": [
+        {
+          "icon": "📊",
+          "title": "Result and rank",
+          "desc": "NTA declares the All India Rank from your best percentile across both sessions."
+        },
+        {
+          "icon": "🖊️",
+          "title": "JoSAA registration",
+          "desc": "Register on josaa.nic.in. The 2026 counselling began on 2 June."
+        },
+        {
+          "icon": "📋",
+          "title": "Choice filling",
+          "desc": "List colleges and branches in your true order of preference."
+        },
+        {
+          "icon": "🎯",
+          "title": "Seat allotment",
+          "desc": "Seats are allotted across rounds. Freeze, float or slide as you decide."
+        },
+        {
+          "icon": "🏫",
+          "title": "Reporting",
+          "desc": "Pay the seat fee, report to the allotted institute and verify documents."
+        }
+      ]
+    },
+    {
+      "type": "process_flow",
+      "heading": "A 12-month preparation plan",
+      "steps": [
+        {
+          "icon": "1️⃣",
+          "title": "Months 1-4",
+          "desc": "Class 11 core: Physics mechanics, Chemistry physical, Maths algebra and coordinate geometry. These foundations carry into Class 12."
+        },
+        {
+          "icon": "2️⃣",
+          "title": "Months 5-8",
+          "desc": "Class 12: electrostatics, current electricity, optics, modern physics, organic and inorganic chemistry, calculus, vectors and 3D."
+        },
+        {
+          "icon": "3️⃣",
+          "title": "Months 9-10",
+          "desc": "Revise formula sheets daily, solve 10 years of papers, and fix your weakest 5 chapters. Two full mocks a week."
+        },
+        {
+          "icon": "4️⃣",
+          "title": "Months 11-12",
+          "desc": "One mock a day, analyse every error, stop new topics a week before, and sleep 8 hours the night before."
+        }
       ]
     },
     {
@@ -331,6 +520,10 @@
       ]
     },
     {
+      "type": "pullquote",
+      "text": "JEE Main opens doors to 31 NITs, 26 IIITs, and 33 GFTIs - over 75,000 engineering seats across India's best government colleges. A percentile of 95+ (achievable with 6 months of focused preparation) is enough for a good NIT branch. You don't need to crack IIT to have a great engineering career."
+    },
+    {
       "type": "text",
       "heading": "Books that JEE toppers actually use",
       "icon": "📚",
@@ -340,6 +533,32 @@
         "Mathematics: RD Sharma Class 11-12 (foundation level - complete this before coaching material), SL Loney 'Trigonometry' and 'Coordinate Geometry' (classic JEE references), Amit Agarwal 'Integral Calculus' and 'Differential Calculus' (Arihant publication - best for JEE calculus practice), previous year JEE papers compiled chapterwise (available from Arihant, Disha, and free online).",
         "Don't buy more than 2-3 books per subject. Depth in fewer books beats surface-level coverage across many.",
         "Complete one book thoroughly (solving ALL problems) before starting another. Most JEE toppers report using 2 books per subject + NCERT + previous year papers - that's it."
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "Drop year: the honest math",
+      "items": [
+        {
+          "icon": "🎯",
+          "title": "Who should consider it",
+          "sub": "About 40% of top 10,000 rankers are droppers. A drop helps most if you already scored 90-95 percentile, not below 80."
+        },
+        {
+          "icon": "📚",
+          "title": "The plan",
+          "sub": "Join a dropper batch, study 8-10 hours daily, and take weekly tests from day one. Revision is faster the second time."
+        },
+        {
+          "icon": "💰",
+          "title": "The cost",
+          "sub": "Roughly ₹1-4 lakh coaching plus ₹1-2 lakh living. An upgrade from a private college to an NIT can save money long term."
+        },
+        {
+          "icon": "🧠",
+          "title": "Mental health",
+          "sub": "Keep social ties, exercise, take one day off a week. If scores do not move in 3 months, reassess honestly."
+        }
       ]
     },
     {
@@ -360,17 +579,10 @@
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "Visual: Exam Pattern",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Exam Pattern</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">100</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Physics (20 MCQ + 10</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">25 Qs</text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">100</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Chemistry (20 MCQ + </text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">25 Qs</text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">100</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Mathematics (20 MCQ </text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">25 Qs</text></svg>",
-      "caption": "Paper structure",
-      "description": "Subject-wise marks."
-    },
-    {
       "type": "callout",
       "variant": "info",
-      "heading": "JEE Main 2026 expected schedule",
-      "content": "Session 1: January 2026 (notification in November 2025, exam in January). Session 2: April 2026 (notification in February, exam in April).<br><br>Results within 2 weeks of each session. JoSAA counselling starts after JEE Advanced results in July.<br><br>Register at jeemain.nta.nic.in. Fee: Rs 1,000 for general male, Rs 500 for female/SC/ST/PwD."
+      "heading": "JEE Main 2026 schedule",
+      "content": "Session 1 ran in January and Session 2 in April 2026. Results are out and JoSAA counselling began on 2 June.<br><br>The scorecard stays downloadable on jeemain.nta.nic.in until 31 July 2026."
     },
     {
       "type": "callout",
@@ -379,23 +591,10 @@
       "content": "Appear in BOTH January and April sessions. Your better percentile is used for ranking.<br><br>January session acts as a real exam simulation - you experience the pressure, identify weak areas, and have 3 months to fix them before April. Students who appear in both sessions score 5-10 percentile points higher on average than single-attempt students."
     },
     {
-      "type": "pullquote",
-      "text": "JEE Main opens doors to 31 NITs, 26 IIITs, and 33 GFTIs - over 75,000 engineering seats across India's best government colleges. A percentile of 95+ (achievable with 6 months of focused preparation) is enough for a good NIT branch. You don't need to crack IIT to have a great engineering career."
-    },
-    {
-      "type": "text",
-      "heading": "JEE Main for drop year students",
-      "icon": "🔄",
-      "content": [
-        "Taking a gap year (drop year) specifically for JEE is a significant decision. About 40% of JEE Main top 10,000 rankers are drop year students.",
-        "If you scored 90-95 percentile in your first attempt, a focused drop year with proper coaching can push you to 99+ percentile. But if you scored below 80 percentile, a drop year may not be the right strategy - the improvement needed is too large.",
-        "Drop year plan: Join a reputed coaching institute or online program designed for droppers (most major coaching brands offer 1-year intensive dropper batches). Study 8-10 hours daily with strict schedule.",
-        "Take weekly tests from day one. The advantage of a drop year is that you've already seen the syllabus once - revision is faster than first-time learning.",
-        "Financial consideration: A drop year costs Rs 1-4 lakh in coaching + Rs 1-2 lakh in living expenses (if relocating to a coaching hub). Compare this against the college you'd get with your current rank vs the college you'd get with an improved rank.",
-        "If the upgrade is from a private engineering college (Rs 8 lakh/year fees) to an NIT (Rs 1.5 lakh/year fees), the drop year saves money in the long run.",
-        "Mental health during drop year: The isolation, pressure, and fear of failure take a toll. Maintain social connections - study with friends, exercise daily, take one day off per week.",
-        "Set monthly targets and track progress through mock test scores. If your scores aren't improving after 3 months of serious study, reassess the strategy honestly rather than continuing out of momentum."
-      ]
+      "type": "number_highlight",
+      "big": "2,50,182",
+      "title": "Qualified for JEE Advanced 2026",
+      "desc": "From roughly 16 lakh registrations across both sessions, only the top 2.5 lakh rankers earned a JEE Advanced attempt."
     },
     {
       "type": "text",
@@ -409,16 +608,9 @@
         "NIT/IIT Mechanical/Civil: Average Rs 6-12 LPA. Core mechanical roles (Tata Motors, L&T, Mahindra) pay Rs 6-10 LPA.",
         "Higher packages available in consulting (McKinsey, BCG recruit from IITs), finance (Goldman Sachs, JP Morgan), and PSUs. Many mechanical/civil graduates shift to IT/data science within 2-3 years for better salary growth.",
         "The broader truth: An NIT/IIT degree opens every door - not just engineering. Management consulting, investment banking, data science, product management, entrepreneurship - all become accessible.",
-        "The IIT/NIT alumni network is India's most powerful professional network. Your batchmates will become CEOs, IAS officers, startup founders, and professors - this network compounds in value over decades."
+        "The IIT/NIT alumni network is India's most powerful professional network. Your batchmates will become CEOs, IAS officers, startup founders, and professors - this network compounds in value over decades.",
+        "For related guides, see <a href=\"/exam/neet-ug\" style=\"text-decoration:underline;color:inherit\">NEET UG 2026</a>, <a href=\"/exam/cuet-ug\" style=\"text-decoration:underline;color:inherit\">CUET UG</a> and <a href=\"/exam/cat-2026\" style=\"text-decoration:underline;color:inherit\">CAT 2026</a>."
       ]
-    },
-    {
-      "type": "svg_block",
-      "heading": "JEE Main vs JEE Advanced",
-      "icon": "🎯",
-      "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">JEE Main Opens Multiple Doors</text><rect x=\"30\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"130\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">NIT IIIT admission</text><rect x=\"250\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"350\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">JEE Adv eligibility II</text><rect x=\"470\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"570\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#92400E\">State college counsell</text></svg>",
-      "caption": "Top 2.5 lakh JEE Main qualifiers become eligible for JEE Advanced and IITs",
-      "description": "Two attempts per year means best of both scores is considered."
     }
   ],
   "important_dates": [
@@ -491,6 +683,22 @@
     {
       "question": "What is the difference between JEE Main Paper 1 and Paper 2?",
       "answer": "Paper 1 is for B.Tech/BE admission - tests Physics, Chemistry, Mathematics. Paper 2A is for B.Arch admission - tests Mathematics, Aptitude, Drawing.<br><br>Paper 2B is for B.Planning admission - tests Mathematics, Aptitude, Planning. Most engineering aspirants appear only for Paper 1.<br><br>You can register for multiple papers in the same application."
+    },
+    {
+      "question": "What percentile qualifies for JEE Advanced 2026?",
+      "answer": "The top 2,50,182 rankers qualify for JEE Advanced.<br><br>NTA sets a category-wise qualifying percentile with the result. The General cutoff usually sits in the low-90s percentile, with lower cutoffs for OBC, EWS, SC and ST."
+    },
+    {
+      "question": "Is JEE Main scored on marks or percentile?",
+      "answer": "Your result is a percentile, not a raw percentage.<br><br>NTA normalises scores across shifts, and if you sit both sessions, your better percentile is used for the final rank."
+    },
+    {
+      "question": "Does Section B still have a choice in 2026?",
+      "answer": "No. Since 2025, all 5 numerical questions per subject are compulsory.<br><br>A wrong numerical answer now also carries -1, so blind guessing hurts your percentile."
+    },
+    {
+      "question": "How many times can I attempt JEE Main in a year?",
+      "answer": "Twice, in the January and April sessions.<br><br>You can sit one or both, and your best percentile across the two is what counts."
     }
   ],
   "official_portal": {
@@ -653,23 +861,29 @@
   "last_reviewed": "May 2026",
   "category": "engineering",
   "salary_table": {
-    "intro": "In-hand salary ranges from ₹5-10 LPA average to NIT Trichy/Warangal/Surathkal: ₹10-20 LPA average depending on the post and city.",
+    "label": "Placement Packages",
+    "icon": "🎓",
+    "intro": "These are typical placement averages by college tier, not a salary from clearing JEE Main. Packages vary by branch, college and year.",
     "rows": [
       {
-        "post": "B.Tech at Top NITs (Tier 1)",
-        "amount": "NIT Trichy/Warangal/Surathkal: ₹10-20 LPA average"
+        "post": "Top NITs (Trichy, Warangal, Surathkal)",
+        "amount": "₹10-20 LPA avg"
       },
       {
-        "post": "B.Tech at IIIT (Tier 1-2)",
-        "amount": "IIIT Hyderabad/Bangalore: ₹15-30 LPA, others: ₹8-15 LPA"
+        "post": "IIIT Hyderabad / Bangalore",
+        "amount": "₹15-30 LPA"
       },
       {
-        "post": "B.Tech at Mid-Tier NITs (Tier 2)",
-        "amount": "₹6-12 LPA average"
+        "post": "Other IIITs",
+        "amount": "₹8-15 LPA"
       },
       {
-        "post": "B.Tech at GFTI/State Engineering Colleges",
-        "amount": "₹5-10 LPA average"
+        "post": "Mid-tier NITs",
+        "amount": "₹6-12 LPA avg"
+      },
+      {
+        "post": "GFTIs / state engineering colleges",
+        "amount": "₹5-10 LPA avg"
       }
     ]
   },
@@ -691,5 +905,32 @@
       "value": "NTA"
     }
   ],
-  "status": "upcoming"
+  "status": "closed",
+  "changes_2026": [
+    "Section B is fully compulsory now: all 5 numerical questions per subject must be attempted. The old choice of 5 out of 10 is gone.",
+    "Negative marking applies to Section B too. A wrong numerical answer costs -1, just like the MCQs in Section A.",
+    "No virtual calculator is provided in the exam hall.",
+    "Facial biometric authentication is now used at exam centres, part of tightened 2026 security.",
+    "2,50,182 candidates qualified for JEE Advanced 2026, and JoSAA counselling for NIT, IIIT and GFTI seats began on 2 June 2026."
+  ],
+  "eligibility_data": {
+    "reference_date": "No upper age limit",
+    "default_education": "Class 12 passed in 2024 or 2025, or appearing in 2026, with Physics, Chemistry and Mathematics",
+    "relaxations": [],
+    "posts": [
+      {
+        "post": "JEE Main (to appear)",
+        "min_age": 0,
+        "max_age": 99,
+        "note": "No upper age limit. You need Class 12 in 2024 or 2025, or be appearing in 2026."
+      },
+      {
+        "post": "NIT / IIIT / GFTI admission",
+        "min_age": 0,
+        "max_age": 99,
+        "education": "Class 12 with 75% marks (65% for SC/ST) or top 20 percentile, with PCM",
+        "note": "The 75% or top-20-percentile rule is for admission, not for appearing in JEE Main."
+      }
+    ]
+  }
 }
