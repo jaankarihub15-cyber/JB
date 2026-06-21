@@ -1,7 +1,7 @@
 {
   "slug": "uppsc-pcs",
-  "title": "UPPSC PCS 2026: Prelims 6 Dec, 200+ Vacancies, Hindi Compulsory",
-  "meta_description": "UPPSC PCS 2026 Prelims tentative 6 December. 200+ vacancies for SDM, DSP, BDO. Hindi compulsory paper. Eligibility, exam pattern, 12-month preparation guide.",
+  "title": "UPPSC PCS 2026: Prelims 6 Dec, 200+ Posts, No Optional",
+  "meta_description": "UPPSC PCS 2026 Prelims on 6 December for SDM, DSP, BDO. Optional removed, replaced by UP-specific GS Paper 5 and 6. Age 21-40. Eligibility and pattern.",
   "hero": {
     "status": "upcoming",
     "one_liner": "Uttar Pradesh's premier civil services exam - gateway to becoming SDM, DSP, BDO, and other state administration posts across India's most populous state",
@@ -94,12 +94,64 @@
         {
           "name": "Paper 1: General Studies",
           "questions": 150,
-          "marks": 200
+          "marks": 200,
+          "topics": [
+            {
+              "name": "Indian Polity",
+              "high": true
+            },
+            {
+              "name": "Modern History",
+              "high": true
+            },
+            {
+              "name": "Geography of India",
+              "high": false
+            },
+            {
+              "name": "Indian Economy",
+              "high": false
+            },
+            {
+              "name": "General Science",
+              "high": false
+            },
+            {
+              "name": "Environment & Ecology",
+              "high": false
+            },
+            {
+              "name": "Current Affairs",
+              "high": true
+            },
+            {
+              "name": "UP-specific GK",
+              "high": true
+            }
+          ]
         },
         {
           "name": "Paper 2: CSAT (Qualifying, need 33%)",
           "questions": 100,
-          "marks": 200
+          "marks": 200,
+          "topics": [
+            {
+              "name": "Comprehension",
+              "high": true
+            },
+            {
+              "name": "Logical Reasoning",
+              "high": true
+            },
+            {
+              "name": "Basic Numeracy",
+              "high": false
+            },
+            {
+              "name": "Data Interpretation",
+              "high": false
+            }
+          ]
         }
       ],
       "total_questions": 250,
@@ -108,54 +160,90 @@
       "negative_marking": "1/3rd of marks per wrong answer"
     },
     {
-      "tier_name": "Mains - Written (8 papers over 5-6 days, 1500 marks)",
+      "tier_name": "Mains - Written (8 papers, 1,350 merit marks)",
       "description": "Descriptive papers testing analytical writing. GS-I, II, III, IV (200+200+200+200 marks), Hindi (150), Essay (150), Optional 1 & 2 (200+200 marks). Total: 1,500 marks + Interview 100 marks.",
       "subjects": [
         {
-          "name": "GS Paper 1: History, Culture, Geography (3 hrs)",
-          "questions": 0,
-          "marks": 200
-        },
-        {
-          "name": "GS Paper 2: Polity, Governance, International Relations (3 hrs)",
-          "questions": 0,
-          "marks": 200
-        },
-        {
-          "name": "GS Paper 3: Economy, Science, Technology, Environment (3 hrs)",
-          "questions": 0,
-          "marks": 200
-        },
-        {
-          "name": "GS Paper 4: Ethics, Philosophy, General Hindi (3 hrs)",
-          "questions": 0,
-          "marks": 200
-        },
-        {
-          "name": "Hindi Paper (3 hrs)",
+          "name": "General Hindi (Qualifying)",
           "questions": 0,
           "marks": 150
         },
         {
-          "name": "Essay Paper (3 hrs)",
+          "name": "Essay",
           "questions": 0,
           "marks": 150
         },
         {
-          "name": "Optional Subject Paper 1 (3 hrs)",
+          "name": "GS Paper I: Heritage, History, Geography",
           "questions": 0,
           "marks": 200
         },
         {
-          "name": "Optional Subject Paper 2 (3 hrs)",
+          "name": "GS Paper II: Governance, Constitution, IR",
           "questions": 0,
           "marks": 200
+        },
+        {
+          "name": "GS Paper III: Economy, Science, Environment",
+          "questions": 0,
+          "marks": 200
+        },
+        {
+          "name": "GS Paper IV: Ethics, Integrity, Aptitude",
+          "questions": 0,
+          "marks": 200
+        },
+        {
+          "name": "GS Paper V: Uttar Pradesh (history, geography)",
+          "questions": 0,
+          "marks": 200,
+          "topics": [
+            {
+              "name": "UP History & 1857 Revolt",
+              "high": true
+            },
+            {
+              "name": "UP Geography & Doab",
+              "high": true
+            },
+            {
+              "name": "UP Administration",
+              "high": false
+            },
+            {
+              "name": "UP Culture",
+              "high": false
+            }
+          ]
+        },
+        {
+          "name": "GS Paper VI: Uttar Pradesh (economy, society)",
+          "questions": 0,
+          "marks": 200,
+          "topics": [
+            {
+              "name": "UP Economy & Budget",
+              "high": true
+            },
+            {
+              "name": "UP Schemes & Welfare",
+              "high": true
+            },
+            {
+              "name": "UP Society",
+              "high": false
+            },
+            {
+              "name": "UP Current Affairs",
+              "high": true
+            }
+          ]
         }
       ],
       "total_questions": 0,
-      "total_marks": "1,500 Mains + 100 Interview = 1,600 total merit",
-      "duration": "8 papers, 24 hours total (3 hrs each), spread over 5-6 consecutive days",
-      "negative_marking": "No negative marking in descriptive papers"
+      "total_marks": 1500,
+      "duration": "8 papers, 3 hours each, over several days",
+      "negative_marking": ""
     }
   ],
   "major_posts": [
@@ -232,7 +320,7 @@
         ],
         [
           "Mains Papers",
-          "8 papers (GS-I-IV + Hindi + Essay + 2 Optional)",
+          "8 papers (Hindi + Essay + GS I-VI, no optional)",
           "9 papers (GS-I-IV + Essay + 2 Optional + English Compulsory)"
         ],
         [
@@ -286,6 +374,12 @@
           "color": "purple"
         }
       ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "info",
+      "title": "📣 UPPSC PCS 2026: Big Mains Change",
+      "content": "The biggest update for 2026 is the complete removal of the optional subject from Mains. In its place are two new UP-specific papers, GS Paper 5 and GS Paper 6, worth 400 marks together.<br><br>The Prelims is scheduled for 6 December 2026 per the official UPPSC calendar. Around 200 posts are expected initially, with the number usually rising before the Prelims result."
     },
     {
       "type": "text",
@@ -347,11 +441,11 @@
       "heading": "UPPSC PCS Vacancy & Selection Trends",
       "icon": "📊",
       "content": [
-        "UPPSC PCS is among the largest <a href=\"/exam/mppsc\" style=\"text-decoration:underline;color:inherit\">state</a> PSC exams - recent notifications have had 250-600 vacancies. With 15-20 lakh applicants, the selection rate is extremely low (0.03-0.04%).",
+        "UPPSC PCS is among the largest state PSC exams - recent notifications have had 250-600 vacancies. With 15-20 lakh applicants, the selection rate is extremely low (0.03-0.04%).",
         "However, the absolute number of seats means more selections than most other state PSCs.",
         "The exam follows a three-stage process: Prelims (screening), Mains (merit), and Interview. Prelims has 2 papers - GS and CSAT.",
         "Only GS marks count for merit; CSAT is qualifying (33%). General category Prelims cutoff has ranged from 90-105 marks in recent years.",
-        "UP-specific content (history, geography, culture, government schemes) carries significant weight in both Prelims and Mains. Candidates preparing for both UPSC and UPPSC simultaneously <a href=\"/compare/upsc-vs-state-psc\" style=\"text-decoration:underline;color:inherit\">should</a> add 2-3 months of dedicated UP GK preparation."
+        "UP-specific content (history, geography, culture, government schemes) carries significant weight in both Prelims and Mains. Candidates preparing for both UPSC and UPPSC simultaneously should add 2-3 months of dedicated UP GK preparation."
       ]
     },
     {
@@ -395,12 +489,12 @@
       "icon": "🔤",
       "type": "text",
       "content": [
-        "<h3>The Hindi Challenge</h3>",
+        "The Hindi Challenge",
         "UPPSC requires a compulsory Hindi paper (150 marks) - unlike UPSC where you can choose optional languages in English. This is a significant load for English-medium students.",
         "Additionally, two essays (GS Paper 4) must be written in Hindi or English - many choose Hindi to score higher with native/near-native speakers marking. Total Hindi component: 150 (paper) + up to 150 (essays) = 300 marks (20% of total).",
-        "<h3>Hindi Paper Composition</h3>",
+        "Hindi Paper Composition",
         "Typically: (1) Essay writing (100 words), (2) Précis/Summary (from English to Hindi or vice versa), (3) Translation (English passage to Hindi / Hindi passage to English), (4) Grammar exercises (correction of Hindi sentences), (5) Vocabulary and idiom usage. All are high-scoring if you practice regularly.",
-        "<h3>For English-Medium Students</h3>",
+        "For English-Medium Students",
         "Start Hindi practice 6 months before Mains: (1) Write one Hindi essay weekly - topics: governance, social issues, technology adoption in rural India. (2) Practice translation from English economic/political passages into Hindi.",
         "(3) Learn Hindi formal vocabulary and government terms (संविधान, नीति, विकास, etc.). (4) Join online Hindi writing groups or get a tutor to review your Hindi writings.",
         "With consistent 1 hour daily practice, you can comfortably score 100-120 in Hindi paper."
@@ -431,7 +525,7 @@
       "heading": "Why UPPSC PCS is India's most competitive state exam",
       "icon": "🏛️",
       "content": [
-        "UPPSC PCS (Uttar Pradesh Public Service Commission Provincial <a href=\"/exam/jpsc\" style=\"text-decoration:underline;color:inherit\">Civil</a> Service) is the gateway to UP's state bureaucracy - India's largest state administration serving 25 crore people. UPPSC recruits for PCS (equivalent to IAS at state level), PPS (equivalent to IPS), UP Finance Service, UP Education Service, and 30+ allied Group A and B services across 75 districts.",
+        "UPPSC PCS (Uttar Pradesh Public Service Commission Provincial Civil Service) is the gateway to UP's state bureaucracy - India's largest state administration serving 25 crore people. UPPSC recruits for PCS (equivalent to IAS at state level), PPS (equivalent to IPS), UP Finance Service, UP Education Service, and 30+ allied Group A and B services across 75 districts.",
         "UPPSC PCS is the most competitive state PSC exam in India by sheer numbers - 8-12 lakh candidates register for 300-700 posts each cycle. The competition ratio of 1,500:1 to 3,000:1 makes it harder per-seat than even UPSC CSE.",
         "What makes it uniquely challenging is that UP aspirants are among the most exam-hardened in India - many have spent 3-5 years in Prayagraj (Allahabad) coaching hubs preparing simultaneously for UPSC and UPPSC.",
         "Serving as a PCS officer in UP means governing at an extraordinary scale. A single district in UP (like Prayagraj, Varanasi, or Lucknow) has a population larger than many countries.",
@@ -446,10 +540,10 @@
         "Prelims: 2 papers - Paper 1 (General Studies - 150 MCQs, 200 marks, 2 hours) and Paper 2 (CSAT - 100 MCQs, 200 marks, 2 hours). CSAT is qualifying only (33% minimum) - only Paper 1 marks count for Prelims merit.",
         "This is identical to the UPSC Prelims structure. Negative marking: 1/3rd deduction for wrong answers.",
         "Paper 1 Prelims covers: Indian History (ancient, medieval, modern - 20-25 questions), Indian Geography (10-15), Indian Polity and Constitution (15-20), Indian Economy (10-15), General Science (15-20), Environment and Ecology (5-10), Current Affairs (15-20), and UP-specific GK (15-20). UP GK carries 10-13% weightage - enough to decide your Prelims fate if you're near the cutoff.",
-        "Mains: 8 papers - Hindi Language and Literature (150 marks), Essay (150 marks), GS Paper 1 (200 marks - Indian Heritage, History, Geography), GS Paper 2 (200 marks - Governance, Constitution, Polity), GS Paper 3 (200 marks - Technology, Economy, Agriculture), GS Paper 4 (200 marks - Ethics, Integrity), Optional Paper 1 (200 marks), Optional Paper 2 (200 marks). Total Mains: 1,500 marks.",
+        "Mains has 8 papers for 1,500 marks written, with 1,350 counting toward merit. General Hindi (150) is qualifying, Essay is 150, and GS Paper 1 to 6 are 200 marks each.",
         "Interview: 100 marks.",
         "UPPSC Mains is among the most demanding - 8 papers means you need depth across more subjects than UPSC (which has 7 scoring papers). The Hindi Language paper is unique to UPPSC - non-Hindi-medium candidates must specifically prepare for Hindi prose, poetry, grammar, and essay.",
-        "The Optional subject carries 400 marks (two papers of 200 each) - the highest Optional weightage among major PSC exams."
+        "GS Paper 5 and 6 are entirely Uttar Pradesh content, 400 marks together. With the optional subject removed in 2026, this UP block is the main differentiator."
       ]
     },
     {
@@ -459,12 +553,12 @@
       "content": [
         "Month 1-3 (Foundation): NCERT Class 6-12 for History, Geography, Polity, Economy, Science. Start UP GK with 'Uttar Pradesh Samanya Gyan' by Lucent or Drishti publications.",
         "Read Dainik Jagran or Amar Ujala daily for UP current affairs. Take a Prelims diagnostic to identify your starting level across all sections.",
-        "Month 4-6 (Advanced + Optional): Complete UPSC-standard books - Spectrum Modern India, Laxmikanth, Shankar IAS, Ramesh Singh. Choose and begin Optional - History, Geography, Political Science, Public Administration, Hindi Literature, and Sociology are popular choices with significant GS overlap.",
+        "Month 4-6 (Advanced and UP focus): Complete UPSC-standard books like Spectrum Modern India, Laxmikanth, Shankar IAS and Ramesh Singh. Go deep on UP history, geography, economy and governance for GS Paper 5 and 6, which replaced the optional and carry 400 marks.",
         "Start writing 2 answers daily in Hindi for Mains practice.",
         "Month 7-9 (Prelims focus): Solve all UPPSC Prelims previous year papers (available at uppsc.up.nic.in). Take 3 mock tests per week.",
         "Intensify UP GK revision - target 18/20 accuracy on UP-specific questions. Focus on eliminating silly mistakes that cost 5-10 marks - the Prelims cutoff is extremely tight (often decided by 2-3 marks).",
         "Month 10-12 (Mains preparation): After Prelims, dedicate to descriptive answer writing - 5 answers daily across all GS papers. Hindi essay practice (1 per week on UP development, governance, social issues).",
-        "Optional subject deep revision - 400 marks of Optional can determine your final rank more than anything else. For Interview: prepare your district exhaustively, UP government schemes in detail, and practice speaking confidently in Hindi."
+        "Revise GS Paper 5 and 6 thoroughly, since 400 marks of UP-specific content now decides ranks more than anything else. For the interview, prepare your home district, UP government schemes in detail, and practice speaking confidently in Hindi."
       ]
     },
     {
@@ -562,19 +656,15 @@
     },
     {
       "type": "text",
-      "heading": "Optional subject selection - the 400-mark game changer",
+      "heading": "GS Paper V and VI - The UP-Specific 400-Mark Edge",
       "icon": "📖",
       "content": [
-        "UPPSC Optional carries 400 marks (2 papers × 200) out of 1,500 Mains marks - that's 27% of your total. A strong Optional can single-handedly determine your rank.",
-        "The most popular choices: History (overlaps with GS Paper 1), Geography (overlaps with GS), Political Science/Public Administration (overlaps with GS Paper 2), Hindi Literature (advantage for Hindi-medium candidates), and Sociology (compact syllabus, easy to score).",
-        "History as Optional: 60% overlap with GS Indian History. You study once, score in two places.",
-        "But the Optional demands depth beyond NCERT - you need specialized books for Ancient (RS Sharma), Medieval (Satish Chandra), Modern (Bipan Chandra), and World History. History Optional toppers typically score 280-320 out of 400.",
-        "The downside: lengthy answers require fast writing speed.",
-        "Geography as Optional: Excellent overlap with GS Geography and Environment. Diagram-rich answers score well.",
-        "Books: GC Leong (Physical Geography), Majid Husain (India and World Geography), NCERT Class 11-12. Geography Optional has good scoring potential - toppers score 290-330 out of 400.",
-        "The map work and diagram components are unique scoring opportunities.",
-        "Hindi Literature as Optional: Natural choice for Hindi-medium aspirants who love Hindi poetry and prose. Covers Kabir, Tulsidas, Premchand, Nirala, Mahadevi Verma, Muktibodh, and contemporary writers.",
-        "Scoring is high for those with genuine interest (280-340 out of 400) but risky for those choosing it merely for language convenience. Read prescribed texts thoroughly - UPPSC evaluators can tell who has read the original works vs who relies on guides."
+        "From 2026, UPPSC removed the optional subject from Mains. In its place, GS Paper V and GS Paper VI now carry 400 marks of purely Uttar Pradesh content.",
+        "This makes UP knowledge the real differentiator. Everyone writes the same papers now, so depth on UP history, geography, governance and economy decides your rank.",
+        "GS Paper V covers UP history, culture, geography and administration. Think of the 1857 revolt centres like Meerut, Lucknow and Kanpur, the Ganga-Yamuna doab, and UP's district structure.",
+        "GS Paper VI covers UP economy, society, schemes and current affairs. State budget priorities, agriculture, industrial corridors and welfare schemes all feature heavily.",
+        "Follow UP-specific sources, since national magazines miss most of what these papers test. A dedicated UP GK book plus state newspapers and government portals cover the bulk of it.",
+        "Because both papers are common to all candidates, you cannot lean on a high-scoring optional any more. Consistent UP preparation through the year is the only reliable edge."
       ]
     },
     {
@@ -677,6 +767,14 @@
     {
       "question": "What is PCS officer salary in UP?",
       "answer": "Starting basic: Rs 56,100 (Pay Level 10). Total monthly: Rs 85,000-1,10,000 including DA, HRA, and allowances.<br><br>After promotion to ADM (5-7 years): Rs 1,20,000-1,50,000/month. DM level (12-15 years): Rs 1,80,000-2,20,000/month.<br><br>Government vehicle, accommodation, medical, and pension add significant non-monetary value."
+    },
+    {
+      "question": "Has the optional subject been removed from UPPSC PCS?",
+      "answer": "Yes. From 2026, UPPSC has removed the optional subject from the Mains exam.<br><br>In its place are two UP-specific papers, GS Paper 5 and GS Paper 6, together worth 400 marks."
+    },
+    {
+      "question": "What is the full form of UPPSC PCS?",
+      "answer": "UPPSC PCS stands for Uttar Pradesh Public Service Commission, Provincial Civil Services. It recruits for state posts like SDM, DSP and BDO through Prelims, Mains and an interview."
     }
   ],
   "official_portal": {
@@ -847,7 +945,7 @@
     },
     {
       "label": "Mains",
-      "value": "Mar 29-Apr 1, 2027"
+      "value": "2027 (after Prelims)"
     },
     {
       "label": "Vacancies",
@@ -858,7 +956,7 @@
       "value": "5+ Lakh"
     }
   ],
-  "status": "upcoming",
+  "status": "live",
   "eligibility_data": {
     "reference_date": "As per notification",
     "default_education": "Bachelor's degree from any recognised university",
