@@ -1,7 +1,7 @@
 {
   "slug": "ssc-mts",
-  "title": "SSC MTS 2026",
-  "meta_description": "SSC MTS 2026 - Multi Tasking Staff exam for 10th pass candidates. Sep-Nov 2026 exam dates, salary ₹18-22K/month, Physical Efficiency Test, Group C posts.",
+  "title": "SSC MTS 2026: 10th Pass Govt Job, Salary, Form 30 June",
+  "meta_description": "SSC MTS 2026 notification on 30 June for 10th pass candidates. Apply 30 Jun-31 Jul, exam Sep-Nov. In-hand salary Rs 19-26K. No interview, age 18-25.",
   "hero": {
     "status": "upcoming",
     "one_liner": "Government jobs for 10th pass - Multi Tasking Staff (Group C) posts in central government ministries, offices, and departments across India",
@@ -39,10 +39,10 @@
     }
   ],
   "what_is_it": [
-    "<a href=\"https://ssc.gov.in\" target=\"_blank\">SSC MTS (Multi Tasking Staff)</a> is one of the easiest government exams to crack, requiring only 10th class pass qualification. It recruits for Group C non-gazetted, non-ministerial posts in various central government ministries, departments, and offices. MTS staff handle tasks like physical maintenance of records, general cleanliness, carrying files, photocopying, and other support functions in government offices.",
+    "SSC MTS (Multi Tasking Staff) is one of the easiest government exams to crack, requiring only 10th class pass qualification. It recruits for Group C non-gazetted, non-ministerial posts in various central government ministries, departments, and offices. MTS staff handle tasks like physical maintenance of records, general cleanliness, carrying files, photocopying, and other support functions in government offices.",
     "The exam is conducted annually by SSC with typically 8,000-10,000 vacancies. The selection process has a single Computer Based Test (CBT) followed by a Physical Efficiency Test (PET) and Document Verification. The exam is bilingual (English + Hindi) and relatively straightforward - testing basic General Intelligence, Numerical Aptitude, General English, and General Awareness at the 10th class level.",
     "Starting salary is at Pay Level 1 (₹18,000-56,900 basic pay scale). With Dearness Allowance and other allowances, the in-hand salary is approximately ₹18,000-22,000 per month. While this is the lowest pay scale in central government, MTS employees get all government benefits - job security, medical insurance, LTC, children's education allowance, pension (under NPS), and paid leaves.",
-    "For 2026, per the <a href=\"https://ssc.gov.in\" target=\"_blank\">SSC Calendar 2026-27</a>, the notification is expected on 30 June 2026 with the exam scheduled for September-November 2026. This makes it one of the later SSC exams in the calendar year."
+    "For 2026, per the SSC Calendar 2026-27, the notification is expected on 30 June 2026 with the exam scheduled for September-November 2026. This makes it one of the later SSC exams in the calendar year."
   ],
   "key_details": [
     {
@@ -83,34 +83,168 @@
   ],
   "exam_pattern": [
     {
-      "tier_name": "Computer Based Test (CBT) - 90 minutes",
-      "description": "Single paper with 4 sections. No sectional time limit - manage your 90 minutes across all sections. Questions are at 10th class level difficulty. This is the main exam - your CBT score determines merit ranking.",
+      "tier_name": "Paper 1 - Session 1 (45 minutes)",
+      "description": "No negative marking in this session. Each question carries 3 marks.",
+      "total_questions": 40,
+      "total_marks": 120,
+      "duration": "45 minutes",
+      "negative_marking": "",
       "subjects": [
         {
-          "name": "General Intelligence & Reasoning",
-          "questions": 25,
-          "marks": 75
-        },
-        {
           "name": "Numerical & Mathematical Ability",
-          "questions": 25,
-          "marks": 75
+          "questions": 20,
+          "marks": 60,
+          "topics": [
+            {
+              "name": "Number System (HCF, LCM)",
+              "high": true
+            },
+            {
+              "name": "Percentage",
+              "high": true
+            },
+            {
+              "name": "Ratio & Average",
+              "high": false
+            },
+            {
+              "name": "Time-Speed-Distance",
+              "high": true
+            },
+            {
+              "name": "Time & Work",
+              "high": false
+            },
+            {
+              "name": "Interest",
+              "high": false
+            },
+            {
+              "name": "Geometry & Mensuration",
+              "high": false
+            },
+            {
+              "name": "Basic Algebra",
+              "high": false
+            }
+          ]
         },
         {
-          "name": "General English",
-          "questions": 25,
-          "marks": 75
-        },
+          "name": "Reasoning Ability & Problem Solving",
+          "questions": 20,
+          "marks": 60,
+          "topics": [
+            {
+              "name": "Analogy",
+              "high": true
+            },
+            {
+              "name": "Series",
+              "high": true
+            },
+            {
+              "name": "Coding-Decoding",
+              "high": true
+            },
+            {
+              "name": "Classification",
+              "high": false
+            },
+            {
+              "name": "Blood Relations",
+              "high": false
+            },
+            {
+              "name": "Direction Sense",
+              "high": false
+            },
+            {
+              "name": "Venn Diagram",
+              "high": false
+            },
+            {
+              "name": "Calendar",
+              "high": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tier_name": "Paper 1 - Session 2 (45 minutes)",
+      "description": "Negative marking of 1 mark per wrong answer applies here. Each question carries 3 marks.",
+      "total_questions": 50,
+      "total_marks": 150,
+      "duration": "45 minutes",
+      "negative_marking": "1 mark per wrong answer",
+      "subjects": [
         {
           "name": "General Awareness",
           "questions": 25,
-          "marks": 75
+          "marks": 75,
+          "topics": [
+            {
+              "name": "Current Affairs",
+              "high": true
+            },
+            {
+              "name": "Static GK",
+              "high": true
+            },
+            {
+              "name": "History",
+              "high": false
+            },
+            {
+              "name": "Geography",
+              "high": false
+            },
+            {
+              "name": "Polity",
+              "high": false
+            },
+            {
+              "name": "General Science",
+              "high": true
+            }
+          ]
+        },
+        {
+          "name": "English Language & Comprehension",
+          "questions": 25,
+          "marks": 75,
+          "topics": [
+            {
+              "name": "Reading Comprehension",
+              "high": true
+            },
+            {
+              "name": "Error Spotting",
+              "high": true
+            },
+            {
+              "name": "Vocabulary (Synonyms, Antonyms)",
+              "high": true
+            },
+            {
+              "name": "Fill in the Blanks",
+              "high": false
+            },
+            {
+              "name": "Idioms & Phrases",
+              "high": false
+            },
+            {
+              "name": "One-Word Substitution",
+              "high": false
+            },
+            {
+              "name": "Spelling",
+              "high": false
+            }
+          ]
         }
-      ],
-      "total_questions": 100,
-      "total_marks": 300,
-      "duration": "90 minutes",
-      "negative_marking": "0.75 marks per wrong answer (questions carry 3 marks each, penalty is 25%)"
+      ]
     }
   ],
   "major_posts": [
@@ -176,10 +310,81 @@
       ]
     },
     {
-      "heading": "",
-      "type": "svg_block",
-      "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">SSC MTS 10th pass entry to central govt</text><rect x=\"150\" y=\"45\" width=\"400\" height=\"60\" rx=\"12\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"350\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#145236\">Single CBT: 100 MCQs | 90 minutes</text><text x=\"350\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">Numerical Ability + </text></svg>",
-      "caption": "SSC MTS (Multi Tasking Staff) is the easiest central government exam - only 10th pass, single CBT, no interview, no physical test."
+      "type": "modern_callout",
+      "variant": "info",
+      "title": "📣 SSC MTS 2026 at a Glance",
+      "content": "The SSC MTS 2026 notification is scheduled for 30 June 2026, with the online form open from 30 June to 31 July 2026. The computer-based exam is expected between September and November 2026.<br><br>Recruitment is for Multi-Tasking Staff and Havaldar (CBIC and CBN). The 2025 cycle had 7,948 posts, and the 2026 count comes with the notification."
+    },
+    {
+      "type": "process_flow",
+      "heading": "How SSC MTS Selection Works",
+      "steps": [
+        {
+          "icon": "📝",
+          "title": "Paper 1 (CBT)",
+          "desc": "Two sessions on one day, 90 questions for 270 marks. Your score builds the merit list."
+        },
+        {
+          "icon": "🏃",
+          "title": "PET / PST (Havaldar only)",
+          "desc": "A walking test and physical standards, only for Havaldar posts. MTS candidates skip this stage."
+        },
+        {
+          "icon": "📄",
+          "title": "Document Verification",
+          "desc": "Certificates and category proofs are checked. There is no interview at any stage."
+        },
+        {
+          "icon": "🏆",
+          "title": "Final merit",
+          "desc": "Built from your Paper 1 marks. For Havaldar, only after the physical test is cleared."
+        }
+      ]
+    },
+    {
+      "type": "eligibility_check",
+      "heading": "Who Can Apply for SSC MTS 2026",
+      "qualify": [
+        "Passed Class 10 from a recognised board",
+        "Aged 18 to 25 years for most posts (some posts 18 to 27)",
+        "Indian citizen",
+        "No physical test needed for MTS posts"
+      ],
+      "disqualify": [
+        "Not a matriculate (10th) by the cut-off date",
+        "Above the upper age limit before category relaxation",
+        "For Havaldar only, cannot clear the walking test"
+      ]
+    },
+    {
+      "type": "stat_grid",
+      "heading": "SSC MTS Key Numbers",
+      "items": [
+        {
+          "icon": "🎓",
+          "value": "10th",
+          "label": "Minimum education",
+          "color": "green"
+        },
+        {
+          "icon": "🪑",
+          "value": "7,948",
+          "label": "Posts (2025)",
+          "color": "blue"
+        },
+        {
+          "icon": "💰",
+          "value": "₹19-26K",
+          "label": "In-hand / month",
+          "color": "amber"
+        },
+        {
+          "icon": "🎂",
+          "value": "18-25",
+          "label": "Age limit",
+          "color": "red"
+        }
+      ]
     },
     {
       "heading": "What Does an MTS Employee Actually Do?",
@@ -193,6 +398,17 @@
         "Some MTS posts in specific departments have different duties: CBIC Havaldar involves manning entry gates, checking passes, and security-related tasks. MTS in post offices may involve mail sorting and delivery assistance.",
         "Important reality check: MTS is the lowest rung in central government hierarchy. The work is manual/physical in nature.",
         "However, it comes with permanent government job security, all benefits, and the opportunity to appear for departmental exams (like LDC exam) to get promoted to higher clerical posts. Many MTS employees have moved to LDC and UDC positions within 3-5 years through departmental promotions."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Why SSC MTS is ideal for 10th pass candidates",
+      "icon": "🎯",
+      "content": [
+        "SSC MTS is the simplest government exam - one computer-based test with basic questions from school-level syllabus. No interview, no physical test, no typing test.",
+        "Just clear the CBT and you're in. The exam is designed for Group C (Non-Gazetted, Non-Ministerial) posts like peon, watchman, gardener, and cleaning staff in central government offices.",
+        "Don't let the job title discourage you. MTS posts carry Pay Level 1 (Rs 18,000 basic) with total monthly salary of Rs 28,000-35,000 including DA, HRA, and transport allowance.",
+        "Plus all government benefits - medical, pension, LTC, and job security until age 60. After 5 years, you can appear for departmental exams for promotion to LDC/UDC."
       ]
     },
     {
@@ -211,54 +427,34 @@
       ]
     },
     {
-      "type": "text",
-      "heading": "Why SSC MTS is ideal for 10th pass candidates",
-      "icon": "🎯",
-      "content": [
-        "SSC MTS is the simplest government exam - one computer-based test with basic questions from school-level syllabus. No interview, no physical test, no typing test.",
-        "Just clear the CBT and you're in. The exam is designed for <a href=\"/exam/rrb-group-d\" style=\"text-decoration:underline;color:inherit\">Group</a> C (Non-Gazetted, Non-Ministerial) posts like peon, watchman, gardener, and cleaning staff in central government offices.",
-        "Don't let the job title discourage you. MTS posts carry Pay Level 1 (Rs 18,000 basic) with total monthly salary of Rs 28,000-35,000 including DA, HRA, and transport allowance.",
-        "Plus all government benefits - medical, pension, LTC, and job security until age 60. After 5 years, you can appear for departmental exams for promotion to LDC/UDC."
+      "type": "stat_grid",
+      "heading": "SSC MTS Paper 1 at a Glance",
+      "items": [
+        {
+          "icon": "1️⃣",
+          "value": "40",
+          "label": "Session 1 Qs",
+          "color": "green"
+        },
+        {
+          "icon": "2️⃣",
+          "value": "50",
+          "label": "Session 2 Qs",
+          "color": "blue"
+        },
+        {
+          "icon": "💯",
+          "value": "270",
+          "label": "Total marks",
+          "color": "amber"
+        },
+        {
+          "icon": "⏱️",
+          "value": "45 min",
+          "label": "Per session",
+          "color": "red"
+        }
       ]
-    },
-    {
-      "type": "text",
-      "heading": "Preparation in 3 months",
-      "icon": "📖",
-      "content": [
-        "Month 1: Focus on Numerical Ability - BODMAS, percentage, ratio, average, time-speed-distance at Class 8-10 level. Practice 30 questions daily from RS Aggarwal or Kiran's SSC Mathematics.",
-        "This is the most scoring section for those who practice.",
-        "Month 2: Reasoning - coding-decoding, analogy, series, blood relations, direction sense. These are pattern-based questions that improve dramatically with practice.",
-        "Solve one chapter per day from any reasoning book. General Awareness - start reading a current affairs magazine and revise basic GK (history, geography, polity).",
-        "Month 3: Solve previous year papers and mock tests. SSC repeats question patterns - if you've solved 10 years of papers, you'll recognize 40-50% of questions in the actual exam.",
-        "English section tests basic grammar, vocabulary, and comprehension - daily newspaper reading for 30 minutes is sufficient preparation."
-      ]
-    },
-    {
-      "type": "svg_block",
-      "heading": "Visual: Key Numbers",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">10th Pass</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Education</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">~8,000-10,000</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Vacancies</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">₹18–22K/mo</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Salary</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">18–25 years</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Age</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
-      "caption": "Key facts",
-      "description": "Quick overview."
-    },
-    {
-      "type": "callout",
-      "variant": "info",
-      "heading": "SSC MTS 2026 expected vacancies",
-      "content": "SSC MTS typically recruits 7,000-10,000 posts per cycle. The 2024 notification had 9,583 vacancies.<br><br>For 2026, similar or higher numbers are expected. Vacancies are distributed across all states through regional SSC offices - apply for your home state for best chance of posting near family."
-    },
-    {
-      "type": "svg_block",
-      "heading": "SSC MTS 2026 Facts",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">SSC MTS 2026 Facts</text><rect x=\"17\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"94\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">10th Pass</text><text x=\"94\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Education</text><rect x=\"187\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"264\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">~8,000-10,000</text><text x=\"264\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Vacancies</text><rect x=\"357\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"434\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#92400E\">₹18–22K/mo</text><text x=\"434\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Salary</text><rect x=\"527\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"604\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">18–25 years</text><text x=\"604\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Age</text></svg>",
-      "caption": "Quick reference facts",
-      "description": "Key facts and numbers at a glance"
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "heading": "MTS to LDC promotion - the career path",
-      "content": "MTS employees can take departmental exams (LDCE) after 5 years of service to get promoted to LDC (Pay Level 2). LDC can further promote to UDC (Pay Level 4) and then to Assistant (Pay Level 6).<br><br>The career progression is slow but guaranteed - you retire at a decent level with full pension benefits."
     },
     {
       "type": "text",
@@ -275,7 +471,7 @@
     },
     {
       "type": "text",
-      "heading": "Subject-wise detailed strategy",
+      "heading": "Subject Strategy - Numerical and Reasoning",
       "icon": "📖",
       "content": [
         "Numerical Ability (20 questions): Topics - Number System (HCF, LCM, factors, divisibility rules), Percentage (direct calculation and application in profit-loss, discount), Ratio and Proportion, Average, Time-Speed-Distance (train problems, boats and streams), Time and Work, Simple and Compound Interest, basic Geometry (area and perimeter of rectangle, triangle, circle), and basic Algebra.",
@@ -284,7 +480,14 @@
         "Master the basics and you'll score 16+ out of 20.",
         "Reasoning Ability (20 questions): Analogy (word and number pairs), Classification (odd one out from a group), Series completion (number series, letter series, mixed series), Coding-Decoding (letter shifting, number coding), Blood Relations (family tree problems), Direction and Distance, Mirror Image and Water Image, Venn Diagrams, and Calendar problems.",
         "Reasoning is the most scoring section because it's entirely practice-dependent - there's nothing to memorize, just patterns to recognize. Solve 30 reasoning questions daily from any SSC reasoning book.",
-        "Start with easy chapters (analogy, classification) and progress to harder ones (blood relations, calendar). Within 6 weeks, you'll consistently score 17+ out of 20.",
+        "Start with easy chapters (analogy, classification) and progress to harder ones (blood relations, calendar). Within 6 weeks, you'll consistently score 17+ out of 20."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Subject Strategy - English and GA",
+      "icon": "📖",
+      "content": [
         "English Language (25 questions): Reading Comprehension (1 passage, 5-7 questions), Sentence Correction/Error Spotting, Fill in the blanks (vocabulary and grammar), Synonym and Antonym, Idioms and Phrases, One Word Substitution, Spelling Correction. The difficulty is moderate - harder than MTS math but easier than CGL English.",
         "For English improvement, read simple English daily - newspaper headlines, short articles, or even English subtitles while watching shows. Don't try to memorize word lists - contextual learning is more effective.",
         "Practice 2 comprehension passages daily. For grammar, learn 5 common error types: subject-verb agreement, tense consistency, preposition usage, article usage, and pronoun reference.",
@@ -295,26 +498,40 @@
       ]
     },
     {
-      "type": "text",
-      "heading": "Study plan - 10th pass to MTS selection in 4 months",
-      "icon": "📅",
-      "content": [
-        "Month 1 - Build basics: Math - complete arithmetic from RS Aggarwal (one chapter per day). Reasoning - complete analogy, classification, series, coding-decoding from any reasoning book.",
-        "English - start reading one newspaper editorial daily (use Google Translate for difficult words). GK - start reading Lucent's General Knowledge (50 pages per week).",
-        "Month 2 - Practice phase: Math - solve 50 previous year MTS math questions daily. Reasoning - complete blood relations, direction, calendar, Venn diagrams.",
-        "Move to solving 50 previous year reasoning questions daily. English - start error spotting and fill-in-the-blanks practice.",
-        "GK - complete Lucent's GK + start monthly current affairs compilation.",
-        "Month 3 - Mock test phase: Take 1 full-length mock test daily. After each mock, spend 30 minutes analyzing wrong answers.",
-        "Track your accuracy per section - identify which topics you consistently get wrong and revise them. Continue daily newspaper reading for current affairs.",
-        "Revise Lucent's GK every weekend.",
-        "Month 4 - Final revision: Take 2 mock tests daily (morning and evening). Focus entirely on accuracy - attempt 70-75 questions confidently instead of rushing through all 90.",
-        "Revise your error log from all previous mocks. Revise current affairs of the last 3 months intensively.",
-        "Stop studying new topics 3 days before the exam - only revise what you know.",
-        "For more details, see our guide on <a href=\"/exam/ssc-cgl-2026\" style=\"text-decoration:underline;color:inherit\">SSC CGL 2026</a>.",
-        "For more details, see our guide on <a href=\"/exam/ssc-chsl\" style=\"text-decoration:underline;color:inherit\">SSC CHSL 2026</a>.",
-        "For more details, see our guide on <a href=\"/exam/ssc-gd-constable\" style=\"text-decoration:underline;color:inherit\">SSC GD Constable 2026</a>.",
-        "For more details, see our guide on <a href=\"/exam/ssc-cpo\" style=\"text-decoration:underline;color:inherit\">SSC CPO 2026</a>."
+      "type": "stat_grid",
+      "heading": "SSC MTS 2026 Important Dates",
+      "items": [
+        {
+          "icon": "📢",
+          "value": "30 Jun",
+          "label": "Notification",
+          "color": "green"
+        },
+        {
+          "icon": "⏳",
+          "value": "31 Jul",
+          "label": "Apply by",
+          "color": "red"
+        },
+        {
+          "icon": "📝",
+          "value": "Sep-Nov",
+          "label": "Exam 2026",
+          "color": "blue"
+        },
+        {
+          "icon": "💳",
+          "value": "₹100",
+          "label": "Fee (UR)",
+          "color": "amber"
+        }
       ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "title": "SSC MTS 2026 expected vacancies",
+      "content": "SSC MTS typically recruits 7,000-10,000 posts per cycle. The 2024 notification had 9,583 vacancies.<br><br>For 2026, similar or higher numbers are expected. Vacancies are distributed across all states through regional SSC offices - apply for your home state for best chance of posting near family."
     },
     {
       "type": "text",
@@ -332,11 +549,36 @@
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "Visual: Exam Pattern",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Exam Pattern</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">75</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">General Intelligence</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">25 Qs</text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">75</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Numerical & Mathemat</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">25 Qs</text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">75</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">General English</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">25 Qs</text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">75</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">General Awareness</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">25 Qs</text></svg>",
-      "caption": "Paper structure",
-      "description": "Subject-wise marks."
+      "type": "modern_callout",
+      "variant": "info",
+      "title": "MTS to LDC promotion - the career path",
+      "content": "MTS employees can take departmental exams (LDCE) after 5 years of service to get promoted to LDC (Pay Level 2). LDC can further promote to UDC (Pay Level 4) and then to Assistant (Pay Level 6).<br><br>The career progression is slow but guaranteed - you retire at a decent level with full pension benefits."
+    },
+    {
+      "type": "process_flow",
+      "heading": "Four-Month Study Plan for SSC MTS",
+      "steps": [
+        {
+          "icon": "1️⃣",
+          "title": "Month 1: Basics",
+          "desc": "Finish arithmetic from RS Aggarwal, one chapter a day, and the core reasoning chapters. Start a daily newspaper habit and begin Lucent GK."
+        },
+        {
+          "icon": "2️⃣",
+          "title": "Month 2: Practice",
+          "desc": "Solve 50 previous-year maths and reasoning questions daily. Add error spotting in English and finish Lucent GK with current affairs."
+        },
+        {
+          "icon": "3️⃣",
+          "title": "Month 3: Mocks",
+          "desc": "Take one full mock daily and spend 30 minutes on analysis. Track weak topics and revise GK every weekend."
+        },
+        {
+          "icon": "4️⃣",
+          "title": "Month 4: Revision",
+          "desc": "Two mocks a day with a focus on accuracy, attempting 70 to 75 questions confidently. Revise your error log and the last three months of current affairs."
+        }
+      ]
     },
     {
       "type": "text",
@@ -402,16 +644,57 @@
       ]
     },
     {
+      "type": "icon_list",
+      "heading": "Common SSC MTS Posts and Departments",
+      "items": [
+        {
+          "icon": "📨",
+          "title": "Peon / Daftary",
+          "sub": "File movement and office support in central ministries."
+        },
+        {
+          "icon": "🧹",
+          "title": "Safaiwala / Mali",
+          "sub": "Upkeep and gardening roles in government offices."
+        },
+        {
+          "icon": "🛗",
+          "title": "Jamadar / Chowkidar",
+          "sub": "Watch and ward duties in departments and tribunals."
+        },
+        {
+          "icon": "🖨️",
+          "title": "Junior Gestetner Operator",
+          "sub": "Operating office machines in various departments."
+        },
+        {
+          "icon": "🛃",
+          "title": "Havaldar (CBIC / CBN)",
+          "sub": "Field staff in Customs and Narcotics. Needs the physical test."
+        },
+        {
+          "icon": "🏛️",
+          "title": "Central ministries (Delhi)",
+          "sub": "Postings in Delhi ministries are the most sought-after."
+        }
+      ]
+    },
+    {
       "type": "pullquote",
       "text": "SSC MTS is proof that you do not need a degree to get a central government job - Class 10 pass candidates can secure a permanent posting in ministries and government offices across India."
     },
     {
-      "type": "svg_block",
-      "heading": "SSC MTS Posting Locations",
-      "icon": "🏛️",
-      "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">SSC MTS Work Locations</text><rect x=\"30\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"130\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">Central Ministries Del</text><rect x=\"250\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"350\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Field Offices Pan Indi</text><rect x=\"470\" y=\"50\" width=\"200\" height=\"35\" rx=\"8\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"570\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#92400E\">Attached Offices</text></svg>",
-      "caption": "MTS postings in central ministries in Delhi are the most sought-after",
-      "description": "10th pass qualification with ₹18K+ starting salary and full government benefits."
+      "type": "text",
+      "heading": "Preparation in 3 months",
+      "icon": "📖",
+      "content": [
+        "Month 1: Focus on Numerical Ability - BODMAS, percentage, ratio, average, time-speed-distance at Class 8-10 level. Practice 30 questions daily from RS Aggarwal or Kiran's SSC Mathematics.",
+        "This is the most scoring section for those who practice.",
+        "Month 2: Reasoning - coding-decoding, analogy, series, blood relations, direction sense. These are pattern-based questions that improve dramatically with practice.",
+        "Solve one chapter per day from any reasoning book. General Awareness - start reading a current affairs magazine and revise basic GK (history, geography, polity).",
+        "Month 3: Solve previous year papers and mock tests. SSC repeats question patterns - if you've solved 10 years of papers, you'll recognize 40-50% of questions in the actual exam.",
+        "English section tests basic grammar, vocabulary, and comprehension - daily newspaper reading for 30 minutes is sufficient preparation."
+      ]
     }
   ],
   "important_dates": [
@@ -440,7 +723,7 @@
     "The entire exam is at 10th class difficulty level. Revise your Class 9-10 Math (percentage, ratio, average, profit-loss, geometry basics), Science (physics, chemistry, biology basics), and Social Studies (history, geography, civics).",
     "For General English, focus on basic grammar - tenses, articles, prepositions, one-word substitutions, synonyms/antonyms, and sentence correction. Read 10th class English textbook if your English is weak. NCERT Class 10 English is perfect preparation.",
     "Previous year papers are the BEST resource for SSC MTS. The patterns repeat heavily. Solve 20+ previous year papers and you'll see 40-50% similar questions in the actual exam.",
-    "General Awareness covers static GK (capitals, currencies, important days, first in India, Indian history basics) + last 6 months current affairs. One monthly current affairs magazine is sufficient. Follow <a href=\"https://www.thehindu.com\" target=\"_blank\">The Hindu</a> for daily news.",
+    "General Awareness covers static GK (capitals, currencies, important days, first in India, Indian history basics) + last 6 months current affairs. One monthly current affairs magazine is sufficient. Follow The Hindu for daily news.",
     "Time management is easier in MTS than CGL/CHSL - you have 54 seconds per question (vs 36 seconds in CGL). Use this advantage. Don't rush - focus on accuracy since the negative marking penalty (25%) is significant.",
     "Practice physical efficiency: start walking/cycling 2-3 weeks before PET. The distances are short - even unfit candidates can clear with basic training."
   ],
@@ -484,6 +767,22 @@
     {
       "question": "Can I apply for both SSC MTS and SSC CHSL?",
       "answer": "Yes. MTS requires 10th pass, CHSL requires 12th pass.<br><br>If you've completed 12th, apply for both - the syllabus overlaps 80%. CHSL gives you a higher-paying post (LDC/DEO vs MTS).<br><br>Use MTS as backup while aiming for CHSL. Many candidates clear both and choose CHSL for better pay and work profile."
+    },
+    {
+      "question": "What is the full form of SSC MTS?",
+      "answer": "SSC MTS stands for Staff Selection Commission Multi-Tasking Staff. The exam recruits 10th-pass candidates for Group C support posts in central government offices, and for Havaldar in CBIC and CBN."
+    },
+    {
+      "question": "When is the SSC MTS 2026 notification and last date?",
+      "answer": "The notification is scheduled for 30 June 2026 and the online form is open from 30 June to 31 July 2026.<br><br>The computer-based exam is expected between September and November 2026."
+    },
+    {
+      "question": "What is the SSC MTS exam pattern?",
+      "answer": "Paper 1 has two sessions on one day, with 90 questions for 270 marks. Session 1 (maths and reasoning) has no negative marking, while Session 2 (general awareness and English) deducts 1 mark per wrong answer."
+    },
+    {
+      "question": "What is the in-hand salary of SSC MTS?",
+      "answer": "MTS is Pay Level 1 with a basic pay of ₹18,000. With DA, HRA and transport allowance, the in-hand salary is roughly ₹19,000 to ₹26,000 a month depending on the city."
     }
   ],
   "official_portal": {
@@ -647,15 +946,15 @@
   "last_reviewed": "May 2026",
   "category": "ssc",
   "salary_table": {
-    "intro": "In-hand salary ranges from ₹18,000–22,000/month to ₹18,000–22,000/month depending on the post and city.",
+    "intro": "In-hand pay on Pay Level 1 (basic ₹18,000), including DA, HRA and TA. The figure rises with city class and DA revisions.",
     "rows": [
       {
         "post": "Multi Tasking Staff (MTS)",
-        "amount": "₹18,000–22,000/month"
+        "amount": "₹19,000–26,000/month"
       },
       {
-        "post": "Havaldar (CBIC)",
-        "amount": "₹18,000–22,000/month"
+        "post": "Havaldar (CBIC / CBN)",
+        "amount": "₹19,000–26,000/month + field allowances"
       }
     ]
   },
@@ -665,19 +964,23 @@
       "value": "10th Pass"
     },
     {
-      "label": "Vacancies",
-      "value": "~8,000-10,000"
+      "label": "Notification",
+      "value": "30 Jun 2026"
+    },
+    {
+      "label": "Exam",
+      "value": "Sep-Nov 2026"
     },
     {
       "label": "Salary",
-      "value": "₹18–22K/mo"
+      "value": "Rs 19-26K/mo"
     },
     {
-      "label": "Age",
-      "value": "18–25 years"
+      "label": "Age Limit",
+      "value": "18-25 years"
     }
   ],
-  "status": "upcoming",
+  "status": "live",
   "eligibility_data": {
     "reference_date": "As per notification",
     "default_education": "10th pass from recognised board",
