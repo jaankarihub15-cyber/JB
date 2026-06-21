@@ -1,7 +1,7 @@
 {
   "slug": "uptet",
-  "title": "UPTET 2026 - UP Teacher Eligibility Test",
-  "meta_description": "UPTET 2026 - UP Teacher Eligibility Test for primary and upper primary teachers. Paper 1/2 pattern, syllabus, eligibility, and preparation guide.",
+  "title": "UPTET 2026: Exam 2-4 July, By UPESSC, No Negative Marking",
+  "meta_description": "UPTET 2026 is on 2 to 4 July, now by UPESSC after a five-year gap. Paper 1 and 2 pattern, eligibility, no negative marking, lifetime valid certificate.",
   "hero": {
     "status": "upcoming",
     "one_liner": "Mandatory qualification for teaching in Uttar Pradesh government schools - Paper 1 for Classes 1-5 (Primary), Paper 2 for Classes 6-8 (Upper Primary).",
@@ -39,15 +39,15 @@
     }
   ],
   "what_is_it": [
-    "UPTET (Uttar Pradesh Teacher Eligibility Test) is conducted by the UP Basic Education Board for certifying candidates to teach in UP government schools - Paper 1 for Primary Teachers (Classes 1-5) and Paper 2 for Upper Primary Teachers (Classes 6-8). UPTET qualification is MANDATORY for appointment as a teacher in any government school under the UP Board. Without UPTET certificate, you cannot be appointed to a government school teaching position in Uttar Pradesh, regardless of other qualifications.",
+    "UPTET (Uttar Pradesh Teacher Eligibility Test) is conducted by UPESSC (Uttar Pradesh Education Service Selection Commission) for certifying candidates to teach in UP government schools - Paper 1 for Primary Teachers (Classes 1-5) and Paper 2 for Upper Primary Teachers (Classes 6-8). UPTET qualification is MANDATORY for appointment as a teacher in any government school under the UP Board. Without UPTET certificate, you cannot be appointed to a government school teaching position in Uttar Pradesh, regardless of other qualifications.",
     "The exam has two papers conducted separately: Paper 1 (150 MCQs, 150 marks, 2.5 hours) for Primary teacher eligibility, and Paper 2 (150 MCQs, 150 marks, 2.5 hours) for Upper Primary teacher eligibility. You can appear for both papers to gain eligibility at both levels. Qualifying mark is 60% (90 out of 150 marks) for General candidates and 55% (82 out of 150) for OBC/SC/ST candidates. Critically, UPTET has ZERO negative marking - you lose no points for wrong answers, only gain for correct ones.",
-    "UPTET qualification is now valid for LIFETIME (changed from earlier 5-year validity). Once you qualify, your certificate never expires - you can use it to apply for government school vacancies anytime in future. This is aligned with CTET's lifetime validity policy following a Supreme Court directive. The exam is conducted by the UP Basic Education Board in coordination with state authorities. UPTET 2026 is scheduled for July 2-4, 2026, with application window from March 27 to April 26, 2026.",
+    "UPTET qualification is now valid for LIFETIME (changed from earlier 5-year validity). Once you qualify, your certificate never expires - you can use it to apply for government school vacancies anytime in future. This is aligned with CTET's lifetime validity policy following a Supreme Court directive. The exam is now conducted by UPESSC (Uttar Pradesh Education Service Selection Commission). UPTET 2026 was held on 2, 3 and 4 July 2026, with the application window open from 27 March to 3 May 2026.",
     "After qualifying UPTET, you need to clear the actual teacher recruitment exam (UP Assistant Teacher Recruitment or Super TET) to get appointed. UPTET is an eligibility test, not a recruitment/selection exam. Once you have UPTET, you're permanently eligible - then participate in recruitment exams whenever announced. Many candidates prepare for both UPTET and CTET (CBSE's national teacher eligibility) to maximize opportunities in both UP government schools and central schools (KVS, NVS)."
   ],
   "key_details": [
     {
       "label": "Conducting Body",
-      "value": "UP Basic Education Board (Uttar Pradesh)",
+      "value": "UPESSC (Uttar Pradesh)",
       "highlight": false
     },
     {
@@ -94,27 +94,101 @@
         {
           "name": "Child Development & Pedagogy (CDP)",
           "questions": 30,
-          "marks": 30
+          "marks": 30,
+          "topics": [
+            {
+              "name": "Child Psychology",
+              "high": true
+            },
+            {
+              "name": "Learning & Pedagogy",
+              "high": true
+            },
+            {
+              "name": "Inclusive Education",
+              "high": false
+            },
+            {
+              "name": "Assessment",
+              "high": false
+            }
+          ]
         },
         {
           "name": "Language I (Hindi)",
           "questions": 30,
-          "marks": 30
+          "marks": 30,
+          "topics": [
+            {
+              "name": "Comprehension",
+              "high": true
+            },
+            {
+              "name": "Grammar",
+              "high": false
+            },
+            {
+              "name": "Language Pedagogy",
+              "high": true
+            }
+          ]
         },
         {
           "name": "Language II (English/Urdu/Sanskrit)",
           "questions": 30,
-          "marks": 30
+          "marks": 30,
+          "topics": [
+            {
+              "name": "Comprehension",
+              "high": true
+            },
+            {
+              "name": "Grammar",
+              "high": false
+            },
+            {
+              "name": "Language Pedagogy",
+              "high": true
+            }
+          ]
         },
         {
           "name": "Mathematics",
           "questions": 30,
-          "marks": 30
+          "marks": 30,
+          "topics": [
+            {
+              "name": "Number System",
+              "high": true
+            },
+            {
+              "name": "Geometry",
+              "high": false
+            },
+            {
+              "name": "Pedagogy of Maths",
+              "high": true
+            }
+          ]
         },
         {
           "name": "Environmental Studies (EVS)",
           "questions": 30,
-          "marks": 30
+          "marks": 30,
+          "topics": [
+            {
+              "name": "Environment",
+              "high": true
+            },
+            {
+              "name": "Family & Society",
+              "high": false
+            },
+            {
+              "name": "Pedagogy of EVS",
+              "high": true
+            }
+          ]
         }
       ],
       "total_questions": 150,
@@ -129,22 +203,86 @@
         {
           "name": "Child Development & Pedagogy (CDP)",
           "questions": 30,
-          "marks": 30
+          "marks": 30,
+          "topics": [
+            {
+              "name": "Child Psychology",
+              "high": true
+            },
+            {
+              "name": "Learning & Pedagogy",
+              "high": true
+            },
+            {
+              "name": "Inclusive Education",
+              "high": false
+            },
+            {
+              "name": "Assessment",
+              "high": false
+            }
+          ]
         },
         {
           "name": "Language I (Hindi)",
           "questions": 30,
-          "marks": 30
+          "marks": 30,
+          "topics": [
+            {
+              "name": "Comprehension",
+              "high": true
+            },
+            {
+              "name": "Grammar",
+              "high": false
+            },
+            {
+              "name": "Language Pedagogy",
+              "high": true
+            }
+          ]
         },
         {
           "name": "Language II (English/Urdu/Sanskrit)",
           "questions": 30,
-          "marks": 30
+          "marks": 30,
+          "topics": [
+            {
+              "name": "Comprehension",
+              "high": true
+            },
+            {
+              "name": "Grammar",
+              "high": false
+            },
+            {
+              "name": "Language Pedagogy",
+              "high": true
+            }
+          ]
         },
         {
           "name": "Science + Mathematics OR Social Studies (choose one)",
           "questions": 60,
-          "marks": 60
+          "marks": 60,
+          "topics": [
+            {
+              "name": "Science",
+              "high": true
+            },
+            {
+              "name": "Mathematics",
+              "high": false
+            },
+            {
+              "name": "Social Studies",
+              "high": true
+            },
+            {
+              "name": "Subject Pedagogy",
+              "high": true
+            }
+          ]
         }
       ],
       "total_questions": 150,
@@ -179,18 +317,60 @@
       "icon": "💡",
       "type": "text",
       "content": [
-        "<h3>Zero Negative Marking Means Attempt All 150 Questions</h3><p>This is UPTET's unique advantage vs other exams. In a typical exam with negative marking, you calculate: If I don't know, is -1 penalty worse than 0 for not attempting?",
+        "Zero Negative Marking Means Attempt All 150 QuestionsThis is UPTET's unique advantage vs other exams. In a typical exam with negative marking, you calculate: If I don't know, is -1 penalty worse than 0 for not attempting?",
         "With UPTET's zero penalty, there is NO strategic dilemma. Attempt every single question.",
-        "Even random guessing on 25% of questions (unread/unsure questions) gives you: 25% × 150 ÷ 4 choices = 9 free marks from pure luck. Never leave a question blank in UPTET.</p>",
-        "<h3>This Changes Preparation Approach</h3><p>Traditional exam approach: Focus on attempting 100-120 questions perfectly. UPTET approach: Attempt ALL 150, maximize accuracy on high-confidence questions, use guessing on uncertain questions.",
+        "Even random guessing on 25% of questions (unread/unsure questions) gives you: 25% × 150 ÷ 4 choices = 9 free marks from pure luck. Never leave a question blank in UPTET.",
+        "This Changes Preparation ApproachTraditional exam approach: Focus on attempting 100-120 questions perfectly. UPTET approach: Attempt ALL 150, maximize accuracy on high-confidence questions, use guessing on uncertain questions.",
         "This means: (1) Don't worry about 'tough' questions - attempt anyway, (2) Don't build 'safety margins' - no penalty exists, (3) Speed up - you can read faster since wrong answer = zero, not negative, (4) Guess on 5-10 unfamiliar questions per paper - they contribute points, not loss."
       ]
     },
     {
-      "heading": "",
-      "type": "svg_block",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">UPTET Uttar Pradesh Teacher Eligibility </text><rect x=\"100\" y=\"50\" width=\"230\" height=\"75\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"215\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#145236\">Paper 1 (Class 1-5)</text><text x=\"215\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">150 MCQs 2.5 hrs | D</text><rect x=\"370\" y=\"50\" width=\"230\" height=\"75\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"485\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#1E40AF\">Paper 2 (Class 6-8)</text><text x=\"485\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">150 MCQs 2.5 hrs | B</text></svg>",
-      "caption": "UPTET is mandatory for teaching in UP government primary and upper primary schools. Certificate valid for lifetime. Over 16 lakh candidates appear every cycle - one of India's largest state TET exams."
+      "type": "modern_callout",
+      "variant": "info",
+      "title": "📣 UPTET 2026: Back After Nearly 5 Years",
+      "content": "UPTET returns in 2026 after its last edition in 2021, with the exam held on 2, 3 and 4 July 2026. The notification came on 20 March and around 19.9 lakh candidates applied.<br><br>A key change: UPTET is now conducted by UPESSC, the Uttar Pradesh Education Service Selection Commission, instead of the Basic Education Board. The certificate remains valid for life."
+    },
+    {
+      "type": "eligibility_check",
+      "heading": "UPTET Eligibility Quick Check",
+      "qualify": [
+        "Indian citizen, age 18 to 35 with category relaxations",
+        "12th with 50% plus a 2-year D.El.Ed or BTC for Paper 1",
+        "Graduation plus B.Ed or D.El.Ed for Paper 2",
+        "Final-year students of a recognised teaching course, subject to conditions"
+      ],
+      "disqualify": [
+        "No recognised teaching qualification such as D.El.Ed or B.Ed",
+        "Qualification not recognised by NCTE",
+        "Below 18 or above the upper age limit for your category",
+        "Expecting a job directly, UPTET is only an eligibility certificate"
+      ]
+    },
+    {
+      "type": "process_flow",
+      "heading": "UPTET to a Teaching Job - the path",
+      "steps": [
+        {
+          "icon": "📝",
+          "title": "Qualify UPTET",
+          "desc": "Clear Paper 1, Paper 2 or both, scoring at least 60% (90 of 150)."
+        },
+        {
+          "icon": "📜",
+          "title": "Lifetime Certificate",
+          "desc": "Your UPTET certificate never expires once you qualify."
+        },
+        {
+          "icon": "🗂️",
+          "title": "Super TET Recruitment",
+          "desc": "Apply when the Assistant Teacher recruitment is notified by UPBEB."
+        },
+        {
+          "icon": "🏫",
+          "title": "Appointed Teacher",
+          "desc": "Merit on Super TET plus academics decides your final selection."
+        }
+      ]
     },
     {
       "heading": "UPTET vs CTET - Do You Need Both Certificates?",
@@ -209,7 +389,7 @@
         ],
         [
           "Conducting Body",
-          "UP Basic Education Board",
+          "UPESSC",
           "CBSE (Central Board of Secondary Education)"
         ],
         [
@@ -244,11 +424,11 @@
       "icon": "🎯",
       "type": "text",
       "content": [
-        "<h3>UPTET is <a href=\"/exam/ctet\" style=\"text-decoration:underline;color:inherit\">Eligibility</a>, Not Selection</h3><p>UPTET certificate proves you're qualified to teach. But it doesn't get you a job.",
-        "To become a government school <a href=\"/exam/reet\" style=\"text-decoration:underline;color:inherit\">teacher</a> in UP, follow this path: (1) Qualify UPTET (which you're preparing for), (2) Wait for UP Teacher Recruitment notification (conducted by UP Basic Education Board), (3) Appear for written recruitment exam, (4) Clear exam and appear in interview/merit list, (5) Get selected and appointed to a school.</p>",
-        "<h3>UP Recruitment Exam (Super TET or Assistant Teacher)</h3><p>After UPTET, the actual recruitment happens through: 'UP Super TET' (Shiksha Mitra to Assistant Teacher) or direct 'Assistant Teacher Recruitment' exams. These exams test: Language (Hindi/English), Science, Mathematics, Environmental Studies, Child Psychology, Reasoning, General Knowledge.",
-        "Syllabus overlaps with UPTET, but focus is slightly different - more reasoning and GK, less pedagogy.</p>",
-        "<h3>KVS/NVS Alternative (if you have CTET)</h3><p>If you qualify both UPTET and CTET, you can apply for central schools: Kendriya Vidyalaya (KVS) and Navodaya Vidyalaya (NVS). These pay higher (Level 2 starting ₹50,000+) and have better working conditions.",
+        "UPTET is Eligibility, Not SelectionUPTET certificate proves you're qualified to teach. But it doesn't get you a job.",
+        "To become a government school teacher in UP, follow this path: (1) Qualify UPTET (which you're preparing for), (2) Wait for UP Teacher Recruitment notification (conducted by UP Basic Education Board), (3) Appear for written recruitment exam, (4) Clear exam and appear in interview/merit list, (5) Get selected and appointed to a school.",
+        "UP Recruitment Exam (Super TET or Assistant Teacher)After UPTET, the actual recruitment happens through: 'UP Super TET' (Shiksha Mitra to Assistant Teacher) or direct 'Assistant Teacher Recruitment' exams. These exams test: Language (Hindi/English), Science, Mathematics, Environmental Studies, Child Psychology, Reasoning, General Knowledge.",
+        "Syllabus overlaps with UPTET, but focus is slightly different - more reasoning and GK, less pedagogy.",
+        "KVS/NVS Alternative (if you have CTET)If you qualify both UPTET and CTET, you can apply for central schools: Kendriya Vidyalaya (KVS) and Navodaya Vidyalaya (NVS). These pay higher (Level 2 starting ₹50,000+) and have better working conditions.",
         "But competition is tougher. Many teachers prepare for both and apply for whichever recruitment opens first."
       ]
     },
@@ -257,7 +437,7 @@
       "heading": "What is UPTET and why every UP teaching aspirant needs it",
       "icon": "📋",
       "content": [
-        "UPTET (Uttar Pradesh Teacher Eligibility Test) is the mandatory qualification for becoming a government school teacher in Uttar Pradesh - India's most populous state with the largest government school network. Conducted by UPBEB (Uttar Pradesh Basic Education Board), UPTET qualifies you to apply for Assistant Teacher (primary) and Assistant Teacher (upper primary) positions across 1.5 lakh+ government schools in UP.",
+        "UPTET (Uttar Pradesh Teacher Eligibility Test) is the mandatory qualification for becoming a government school teacher in Uttar Pradesh - India's most populous state with the largest government school network. Conducted by UPESSC (Uttar Pradesh Education Service Selection Commission), UPTET qualifies you to apply for Assistant Teacher (primary) and Assistant Teacher (upper primary) positions across 1.5 lakh+ government schools in UP.",
         "Without UPTET, you simply cannot apply for any government teaching position in UP - private schools may hire without it, but government schools require it by law under NCTE (National Council for Teacher Education) guidelines. The certificate was valid for 5 years until 2021, but following the Supreme Court order, UPTET certificates issued from 2021 onwards are now valid for lifetime.",
         "UPTET is one of the largest competitive exams in India by applicant volume - over 16 lakh candidates register for each cycle. The sheer number reflects UP's massive demand for government teachers.",
         "With 69,000+ teacher vacancies announced in recent years (Super TET recruitment), a UPTET certificate is your ticket to a stable, well-paying government career with lifetime job security and pension benefits."
@@ -280,11 +460,34 @@
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "Visual: Key Numbers",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">July 2-4, 2026</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Exam Dates</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">Lifetime</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Validity</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">1-8</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">For Classes</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">Uttar Pradesh</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">State</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
-      "caption": "Key facts",
-      "description": "Quick overview."
+      "type": "stat_grid",
+      "heading": "UPTET 2026 Key Numbers",
+      "items": [
+        {
+          "icon": "📄",
+          "value": "150",
+          "label": "Marks per paper",
+          "color": "green"
+        },
+        {
+          "icon": "📚",
+          "value": "2",
+          "label": "Papers (Classes 1-5, 6-8)",
+          "color": "blue"
+        },
+        {
+          "icon": "♾️",
+          "value": "Lifetime",
+          "label": "Certificate validity",
+          "color": "amber"
+        },
+        {
+          "icon": "✅",
+          "value": "No",
+          "label": "Negative marking",
+          "color": "red"
+        }
+      ]
     },
     {
       "type": "text",
@@ -300,11 +503,34 @@
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "Quick Facts",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Quick Facts</text><rect x=\"17\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"94\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">July 2-4, 2026</text><text x=\"94\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Exam Dates</text><rect x=\"187\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"264\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">Lifetime</text><text x=\"264\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Validity</text><rect x=\"357\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"434\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#92400E\">1-8</text><text x=\"434\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">For Classes</text><rect x=\"527\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"604\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">Uttar Pradesh</text><text x=\"604\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">State</text></svg>",
-      "caption": "Quick reference facts",
-      "description": "Key facts and numbers at a glance"
+      "type": "stat_grid",
+      "heading": "UPTET 2026 At a Glance",
+      "items": [
+        {
+          "icon": "📅",
+          "value": "20 Mar",
+          "label": "Notification released",
+          "color": "blue"
+        },
+        {
+          "icon": "📝",
+          "value": "2-4 Jul",
+          "label": "Exam dates (2026)",
+          "color": "green"
+        },
+        {
+          "icon": "👥",
+          "value": "~19.9 L",
+          "label": "Applicants this cycle",
+          "color": "amber"
+        },
+        {
+          "icon": "🏛️",
+          "value": "UPESSC",
+          "label": "Conducting body",
+          "color": "red"
+        }
+      ]
     },
     {
       "type": "text",
@@ -314,7 +540,7 @@
         "Mathematics (Paper 1 - Class 1-5 level): Questions test your ability to teach concepts, not just solve problems. You'll see questions like 'which manipulative would you use to teach fractions to Class 3 students?' or 'a student writes 32 + 15 = 47 but can't explain why - what's the misconception?' Focus on: number system concepts (place value, regrouping), basic operations (addition, subtraction, multiplication, division strategies), fractions, measurement (length, weight, volume, time), and basic geometry (shapes, symmetry).",
         "Environmental Studies (Paper 1 only): Covers family and friends, food, shelter, water, travel, and things we make and do - directly from NCERT EVS textbooks for Class 3-5. EVS pedagogy questions ask about teaching through activities, field trips, and project-based learning rather than textbook-based rote methods.",
         "Read NCERT EVS textbooks carefully - questions are often direct statements from the text.",
-        "Mathematics and Science (Paper 2 - Class 6-8 level): Math covers algebra, geometry, data handling, and arithmetic at Class 6-8 NCERT level. Science covers physics (<a href=\"/exam/afcat\" style=\"text-decoration:underline;color:inherit\">force</a>, motion, light, sound, electricity), chemistry (acids-bases, metals, chemical changes), and biology (cell structure, human body systems, reproduction, ecology).",
+        "Mathematics and Science (Paper 2 - Class 6-8 level): Math covers algebra, geometry, data handling, and arithmetic at Class 6-8 NCERT level. Science covers physics (force, motion, light, sound, electricity), chemistry (acids-bases, metals, chemical changes), and biology (cell structure, human body systems, reproduction, ecology).",
         "Pedagogy component asks how to design experiments, handle misconceptions, and assess understanding.",
         "Social Studies (Paper 2 - alternative to Math-Science): History (ancient India, medieval India, modern India, freedom movement), Geography (India's physical features, climate, resources, population), Civics (Constitution, fundamental rights, Parliament, local governance), and Economics (poverty, food security, globalization). Pedagogy: how to make history engaging, using maps and graphs, and connecting civics to real-life governance."
       ]
@@ -330,8 +556,8 @@
         "A strong UPTET score (130+) combined with good Super TET performance typically secures selection.",
         "After clearing Super TET, you're appointed as Assistant Teacher in a UP government primary or upper primary school. Starting salary: Pay Level 2 (Rs 19,900 basic) for primary teachers, with total monthly salary of Rs 30,000-40,000 including DA, HRA, and other allowances.",
         "After 3-5 years, promotion to Assistant Teacher Grade 2 with salary increase.",
-        "Career progression: Assistant Teacher → Head Teacher/Headmaster (through departmental exam after 5-8 years) → Block Education Officer (BEO - through <a href=\"/exam/uppsc-pcs\" style=\"text-decoration:underline;color:inherit\">UPPSC</a> exam) → District Education Officer (DEO). The teaching profession in UP government schools offers lifetime job security, pension, summer vacations, and the social respect that comes with being a 'sarkari master.'",
-        "For more details, see our guide on <a href=\"/exam/cuet-ug\" style=\"text-decoration:underline;color:inherit\">CUET UG 2026</a>."
+        "Career progression: Assistant Teacher → Head Teacher/Headmaster (through departmental exam after 5-8 years) → Block Education Officer (BEO - through UPPSC exam) → District Education Officer (DEO). The teaching profession in UP government schools offers lifetime job security, pension, summer vacations, and the social respect that comes with being a 'sarkari master.'",
+        "For more details, see our guide on CUET UG 2026."
       ]
     },
     {
@@ -343,7 +569,7 @@
         "Start Language preparation - Hindi grammar (sandhi, samas, upsarg, pratyay, vakya shuddhi) and English grammar (tenses, articles, prepositions, voice, narration). Practice 2 comprehension passages daily in each language.",
         "Month 2 - Subject depth: For Paper 1: Complete Math concepts (NCERT Class 1-5 level) and EVS (NCERT Class 3-5 textbooks). For Paper 2: Complete your chosen subject - Math-Science from NCERT Class 6-8 OR Social Studies from NCERT Class 6-8.",
         "Focus on understanding the pedagogy angle - UPTET doesn't just ask 'what is photosynthesis' but 'how would you teach photosynthesis to Class 7 students using an activity?'",
-        "Month 3 - Practice and mocks: Solve 10 years of previous UPTET papers (available at upbasiceduboard.gov.in). Take 2 full-length mock tests per week.",
+        "Month 3 - Practice and mocks: Solve 10 years of previous UPTET papers (available on updeled.gov.in). Take 2 full-length mock tests per week.",
         "After each mock, analyze: which CDP theories did you confuse? Which subject topics need revision?",
         "Are you finishing 150 questions in 2.5 hours? Track your score improvement across mocks.",
         "Month 4 - Final revision and exam strategy: Take 1 mock daily in the last 2 weeks. Revise CDP notes (theorists, learning disabilities, NCF 2005, NEP 2020).",
@@ -363,7 +589,7 @@
         "If you can clear both UPTET and CTET, apply for KVS - the salary difference is Rs 20,000+/month.",
         "UPTET advantage: UP has the most government teaching vacancies in India - 69,000+ positions announced in recent Super TET recruitments. KVS/NVS have fewer vacancies (3,000-5,000 nationally per cycle).",
         "If your goal is maximum chances of getting a government teaching job, UPTET gives you access to the largest vacancy pool.",
-        "Exam timing: UPTET is typically held in October-November. CTET is in July and December.",
+        "Exam timing: UPTET 2026 was held in July. CTET is in July and December.",
         "You can attempt CTET in July, UPTET in November, and CTET again in December - three attempts in 6 months with the same preparation. Each additional attempt significantly increases your probability of clearing at least one."
       ]
     },
@@ -378,15 +604,38 @@
         "English: SP Bakshi Objective English (grammar rules + vocabulary + comprehension). Practice 2 English comprehension passages daily.",
         "For grammar, focus on: tenses (present/past/future + simple/continuous/perfect), articles (a/an/the usage rules), prepositions (in/on/at/by/for), voice (active to passive conversion), and narration (direct to indirect speech).",
         "Math and Science (Paper 2): NCERT Class 6-8 Math and Science textbooks - these ARE the syllabus source. Supplement with Arihant UPTET Math-Science practice book.",
-        "For EVS (Paper 1): NCERT Class 3-5 EVS textbooks - read every chapter including the activities and 'Do This' sections. Previous year papers: available free at upbasiceduboard.gov.in and in compiled book form from Arihant, Upkar, and Youth Competition Times."
+        "For EVS (Paper 1): NCERT Class 3-5 EVS textbooks - read every chapter including the activities and 'Do This' sections. Previous year papers: available free on the official UPESSC and UPDELED portals and in compiled book form from Arihant, Upkar, and Youth Competition Times."
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "Visual: Exam Pattern",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Exam Pattern</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">30</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Child Development & </text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">30 Qs</text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">30</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Language I (Hindi)</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">30 Qs</text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">30</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Language II (English</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">30 Qs</text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">30</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Mathematics</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">30 Qs</text></svg>",
-      "caption": "Paper structure",
-      "description": "Subject-wise marks."
+      "type": "stat_grid",
+      "heading": "UPTET Exam Pattern",
+      "items": [
+        {
+          "icon": "❓",
+          "value": "150",
+          "label": "Questions per paper",
+          "color": "blue"
+        },
+        {
+          "icon": "⏱️",
+          "value": "2.5 hrs",
+          "label": "Duration",
+          "color": "green"
+        },
+        {
+          "icon": "🎯",
+          "value": "90/150",
+          "label": "Pass mark (60%, General)",
+          "color": "amber"
+        },
+        {
+          "icon": "🗣️",
+          "value": "Bilingual",
+          "label": "Hindi and English",
+          "color": "red"
+        }
+      ]
     },
     {
       "type": "text",
@@ -401,20 +650,45 @@
         "Paper 1 and Paper 2 are held on the same day (different shifts). By taking both, you qualify for both primary and upper primary teaching positions, doubling your job options.",
         "The additional preparation for the second paper is only 2-3 weeks of subject-specific study.",
         "Mistake 4: Waiting for notification to start preparation. UPTET syllabus doesn't change year to year.",
-        "Start preparation 4 months before the expected exam date (typically October-November). If you wait for the official notification (usually released 2 months before the exam), you won't have enough time for thorough preparation.",
+        "Start preparation early, since the 2026 exam was held in July after a March notification. Waiting for the official notification leaves too little time for thorough preparation.",
         "Begin with CDP and languages - these are constant across all TETs."
       ]
     },
     {
-      "type": "callout",
-      "variant": "info",
-      "heading": "UPTET 2026 expected schedule",
-      "content": "UPTET is typically held in October-November annually. Notification released on upbasiceduboard.gov.in approximately 2 months before the exam.<br><br>Registration fee: Rs 600 for General/OBC, Rs 400 for SC/ST. Apply online through the UPBEB portal.<br><br>Exam is pen-and-paper OMR-based (not computer-based). Results within 4-6 weeks of the exam."
+      "type": "timeline",
+      "heading": "UPTET 2026 Schedule",
+      "items": [
+        {
+          "date": "20 MAR 2026",
+          "event": "Notification",
+          "desc": "UPTET 2026 notified by UPESSC, ending a near five-year gap."
+        },
+        {
+          "date": "27 MAR-3 MAY",
+          "event": "Applications",
+          "desc": "Online form via OTR, window extended to 3 May."
+        },
+        {
+          "date": "~30 JUN 2026",
+          "event": "Admit Card",
+          "desc": "Released 7 to 10 days before the exam."
+        },
+        {
+          "date": "2-4 JUL 2026",
+          "event": "Written Exam",
+          "desc": "Offline OMR, two shifts a day, Paper 1 and Paper 2."
+        },
+        {
+          "date": "AFTER EXAM",
+          "event": "Result",
+          "desc": "Qualifiers get a lifetime eligibility certificate."
+        }
+      ]
     },
     {
-      "type": "callout",
+      "type": "modern_callout",
       "variant": "tip",
-      "heading": "No negative marking - attempt everything",
+      "title": "✅ No negative marking - attempt everything",
       "content": "UPTET has ZERO negative marking. Every question you leave blank is a guaranteed loss of potential marks.<br><br>Even a random guess has a 25% chance of being correct (+0.25 marks expected value per guess). If you're unsure between 2 options, guess - you have nothing to lose.<br><br>This single strategy can add 5-8 marks to your total score."
     },
     {
@@ -426,19 +700,27 @@
       "heading": "Official links and helpline",
       "icon": "📞",
       "content": [
-        "UPTET official portal: updeled.gov.in (UP DELED) and upbasiceduboard.gov.in (UPBEB). Check both portals for notification, admit card, and result announcements.",
+        "UPTET official portals: updeled.gov.in and upessc.up.gov.in (UPESSC). Check both for notification, admit card and result announcements.",
         "Super TET recruitment notifications are also published on upbasiceduboard.gov.in. For exam-related queries, contact UPBEB office in Prayagraj or email at the address mentioned in the notification.",
-        "For preparation resources: NCERT textbooks free at ncert.nic.in. Previous year UPTET papers available on the UPBEB website and exam preparation apps like Testbook, Adda247, and Gradeup.",
+        "For preparation resources: NCERT textbooks free at ncert.nic.in. Previous year UPTET papers available on updeled.gov.in and exam preparation apps like Testbook, Adda247, and Gradeup.",
         "Himanshi Singh's YouTube channel offers free complete UPTET/CTET preparation covering all sections in Hindi medium."
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "UPTET Paper Selection",
-      "icon": "📋",
-      "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">UPTET Teaching Levels</text><rect x=\"50\" y=\"50\" width=\"280\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"190\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">Paper 1 Primary Teache</text><rect x=\"370\" y=\"50\" width=\"280\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"510\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Paper 2 Upper Primary </text></svg>",
-      "caption": "UPTET is mandatory for government teacher recruitment in Uttar Pradesh",
-      "description": "UPTET score has direct weightage in UP Super TET teacher selection."
+      "type": "comparison_card",
+      "heading": "UPTET Paper 1 vs Paper 2",
+      "win": {
+        "name": "Paper 1",
+        "amount": "Classes 1-5",
+        "sub": "Primary teacher. CDP, two languages, Maths and EVS, 30 marks each."
+      },
+      "others": [
+        {
+          "name": "Paper 2",
+          "amount": "Classes 6-8",
+          "sub": "Upper primary teacher. CDP, two languages, then Science plus Maths or Social Studies."
+        }
+      ]
     }
   ],
   "important_dates": [
@@ -519,6 +801,14 @@
     {
       "question": "What is Super TET?",
       "answer": "Super TET is the recruitment exam conducted after UPTET for actual teacher appointment in UP government schools. UPTET is eligibility (like CTET), Super TET is selection.<br><br>Super TET tests GK, Hindi, English, Math, Science, Teaching Methodology, Reasoning, IT, and Life Skills. Your final merit = Super TET score + UPTET score + academic marks (graduation + B.Ed).<br><br>Apply at upbasiceduboard.gov.in when notified."
+    },
+    {
+      "question": "What is the full form of UPTET?",
+      "answer": "UPTET stands for Uttar Pradesh Teacher Eligibility Test. It certifies candidates to teach Classes 1 to 8 in UP government and aided schools."
+    },
+    {
+      "question": "When is UPTET 2026 and who conducts it now?",
+      "answer": "UPTET 2026 is on 2, 3 and 4 July 2026. It is now conducted by UPESSC, the Uttar Pradesh Education Service Selection Commission, after a gap of nearly five years since the 2021 exam."
     }
   ],
   "official_portal": {
@@ -691,20 +981,46 @@
   "quick_facts": [
     {
       "label": "Exam Dates",
-      "value": "July 2-4, 2026"
+      "value": "2-4 July 2026"
+    },
+    {
+      "label": "Conducted by",
+      "value": "UPESSC"
     },
     {
       "label": "Validity",
       "value": "Lifetime"
     },
     {
-      "label": "For Classes",
-      "value": "1-8"
-    },
-    {
-      "label": "State",
-      "value": "Uttar Pradesh"
+      "label": "Papers",
+      "value": "1 & 2 (Cl. 1-8)"
     }
   ],
-  "status": "upcoming"
+  "status": "live",
+  "eligibility_data": {
+    "reference_date": "As per notification",
+    "default_education": "12th with 50% plus a 2-year D.El.Ed or BTC for Paper 1, or Graduation plus B.Ed or D.El.Ed for Paper 2",
+    "posts": [
+      {
+        "post": "Primary Teacher via Paper 1 (Classes 1-5)",
+        "min_age": 18,
+        "max_age": 35
+      },
+      {
+        "post": "Upper Primary Teacher via Paper 2 (Classes 6-8)",
+        "min_age": 18,
+        "max_age": 35
+      }
+    ],
+    "relaxations": [
+      {
+        "category": "OBC",
+        "years": 5
+      },
+      {
+        "category": "SC/ST",
+        "years": 5
+      }
+    ]
+  }
 }
