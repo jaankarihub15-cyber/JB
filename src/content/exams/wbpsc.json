@@ -1,7 +1,7 @@
 {
   "slug": "wbpsc",
-  "title": "WBPSC 2026 - West Bengal Civil Service Exam",
-  "meta_description": "WBPSC 2026 - West Bengal PSC WBCS Executive/Judicial exam for BDO, SDO, Deputy Magistrate. Prelims pattern, Bengal-specific syllabus, salary ₹56K-2L.",
+  "title": "WBCS 2026 (WBPSC): Prelims, Mains, Salary, Eligibility",
+  "meta_description": "WBCS 2026 by WBPSC: Prelims held 14 June, Mains in Nov-Dec. Single-paper Prelims, 8-paper Mains with optional, Bengal-focused syllabus. Age 21-36.",
   "hero": {
     "status": "upcoming",
     "one_liner": "West Bengal's state civil services exam - WBCS Executive for administrative officers and WBCS Judicial for Civil Judge positions.",
@@ -89,13 +89,182 @@
         {
           "name": "English, Bengali, GK, History, Geography, Science, Polity, Economy, Reasoning (all combined)",
           "questions": 200,
-          "marks": 200
+          "marks": 200,
+          "topics": [
+            {
+              "name": "Bengal History & Renaissance",
+              "high": true
+            },
+            {
+              "name": "Geography of WB",
+              "high": true
+            },
+            {
+              "name": "Indian Polity",
+              "high": true
+            },
+            {
+              "name": "Current Affairs",
+              "high": true
+            },
+            {
+              "name": "General Science",
+              "high": false
+            },
+            {
+              "name": "Indian National Movement",
+              "high": true
+            },
+            {
+              "name": "Reasoning",
+              "high": false
+            },
+            {
+              "name": "English & Bengali",
+              "high": false
+            }
+          ]
         }
       ],
       "total_questions": 200,
       "total_marks": 200,
       "duration": "150 minutes",
       "negative_marking": "1/3rd of marks per wrong answer"
+    },
+    {
+      "tier_name": "Mains - Written (8 papers, 1,600 marks)",
+      "description": "Six compulsory papers plus two optional-subject papers, each 200 marks and 3 hours. Group A and B candidates take all eight.",
+      "duration": "3 hours per paper",
+      "negative_marking": "",
+      "total_marks": 1600,
+      "subjects": [
+        {
+          "name": "Paper I: Compulsory Language (Bengali/Hindi/Urdu/Nepali/Santali)",
+          "marks": 200,
+          "topics": [
+            {
+              "name": "Essay",
+              "high": true
+            },
+            {
+              "name": "Precis",
+              "high": false
+            },
+            {
+              "name": "Composition",
+              "high": false
+            },
+            {
+              "name": "Translation",
+              "high": true
+            }
+          ]
+        },
+        {
+          "name": "Paper II: English",
+          "marks": 200,
+          "topics": [
+            {
+              "name": "Essay",
+              "high": true
+            },
+            {
+              "name": "Comprehension",
+              "high": false
+            },
+            {
+              "name": "Translation",
+              "high": true
+            }
+          ]
+        },
+        {
+          "name": "Paper III: General Studies I",
+          "marks": 200,
+          "topics": [
+            {
+              "name": "Indian History",
+              "high": true
+            },
+            {
+              "name": "Geography",
+              "high": true
+            },
+            {
+              "name": "Freedom Movement",
+              "high": false
+            }
+          ]
+        },
+        {
+          "name": "Paper IV: General Studies II (West Bengal focus)",
+          "marks": 200,
+          "topics": [
+            {
+              "name": "Bengal History",
+              "high": true
+            },
+            {
+              "name": "WB Geography",
+              "high": true
+            },
+            {
+              "name": "Science & Current Affairs",
+              "high": true
+            }
+          ]
+        },
+        {
+          "name": "Paper V: Constitution and Indian Economy",
+          "marks": 200,
+          "topics": [
+            {
+              "name": "Constitution",
+              "high": true
+            },
+            {
+              "name": "Economy",
+              "high": true
+            },
+            {
+              "name": "RBI Role",
+              "high": false
+            }
+          ]
+        },
+        {
+          "name": "Paper VI: Arithmetic and Reasoning",
+          "marks": 200,
+          "topics": [
+            {
+              "name": "Arithmetic",
+              "high": true
+            },
+            {
+              "name": "Reasoning",
+              "high": true
+            },
+            {
+              "name": "Data Interpretation",
+              "high": false
+            }
+          ]
+        },
+        {
+          "name": "Paper VII & VIII: Optional Subject (2 papers)",
+          "marks": 400,
+          "topics": [
+            {
+              "name": "Chosen Optional",
+              "high": true
+            },
+            {
+              "name": "Post-graduation level",
+              "high": true
+            }
+          ]
+        }
+      ]
     }
   ],
   "major_posts": [
@@ -120,39 +289,88 @@
   ],
   "extra_sections": [
     {
-      "heading": "Bengal-Specific Topics - Essential Preparation",
-      "icon": "📚",
+      "type": "modern_callout",
+      "variant": "info",
+      "title": "📣 WBCS 2026: Where the Cycle Stands",
+      "content": "The WBCS 2026 Preliminary exam was held on 14 June 2026. The Prelims result is expected around August to September, with Mains likely in November to December 2026.<br><br>The WBCS syllabus was recently revised and is now closely aligned with the UPSC pattern. Unlike UP, West Bengal has kept the optional subject in the Mains exam."
+    },
+    {
+      "type": "eligibility_check",
+      "heading": "WBCS Eligibility Quick Check",
+      "qualify": [
+        "Indian citizen with a graduate degree in any discipline",
+        "Age 21 to 36 for Group A and B (relaxations for reserved categories)",
+        "Able to read, write and speak Bengali, except for Nepali-speaking hill candidates",
+        "Final-year graduates, subject to producing the degree in time"
+      ],
+      "disqualify": [
+        "No bachelor's degree from a recognised university",
+        "Above the upper age limit for your category and group",
+        "Cannot demonstrate Bengali at the interview, which leads to disqualification",
+        "Not meeting the physical standards for police or specific posts"
+      ]
+    },
+    {
       "type": "text",
+      "icon": "📚",
+      "heading": "Bengal-Specific Topics - Renaissance and Freedom",
       "content": [
-        "<h3>Bengal Renaissance (15-20% of WBCS questions)</h3><p>This is the most tested topic. Study: Raja Rammohan Roy (founder Brahmo Samaj, abolished Sati), Ishwar Chandra Vidyasagar (education reformer, widow remarriage), Ramakrishna Paramahamsa and Swami Vivekananda (spiritual revival), Keshab Chandra Sen, Debendranath Tagore, Young Bengal movement (radical reformers like Derozio).",
+        "Bengal Renaissance (15-20% of WBCS questions)This is the most tested topic. Study: Raja Rammohan Roy (founder Brahmo Samaj, abolished Sati), Ishwar Chandra Vidyasagar (education reformer, widow remarriage), Ramakrishna Paramahamsa and Swami Vivekananda (spiritual revival), Keshab Chandra Sen, Debendranath Tagore, Young Bengal movement (radical reformers like Derozio).",
         "Books: Surendranath Bandyopadhyay's history, any standard Bengal history text. Questions: 'Who abolished Sati?' 'Brahmo Samaj founder?' 'Vivekananda's Chicago speech year?' These are direct questions - memorize dates and names.",
-        "<h3>Partition of Bengal & Swadeshi Movement</h3><p>Curzon's 1905 partition, Swadeshi response, anti-partition agitation, Extremist vs Moderate factions (Aurobindo, Bal Gangadhar Tilak), reunification (1911). Later: 1947 partition - Bengal's division, refugee crisis, East Pakistan formation, eventual Bangladesh independence.",
-        "Questions: 'Curzon's partition year?' 'Who led Swadeshi movement?' 'Bengal's 1947 division details?' Each detail is testable.",
-        "<h3>Bengal Geography (10-15% of questions)</h3><p>River systems: Hooghly, Damodar, Teesta, Brahmaputra, Sundarbans delta formation. Bengal plain formation.",
+        "Partition of Bengal & Swadeshi MovementCurzon's 1905 partition, Swadeshi response, anti-partition agitation, Extremist vs Moderate factions (Aurobindo, Bal Gangadhar Tilak), reunification (1911). Later: 1947 partition - Bengal's division, refugee crisis, East Pakistan formation, eventual Bangladesh independence.",
+        "Questions: 'Curzon's partition year?' 'Who led Swadeshi movement?' 'Bengal's 1947 division details?' Each detail is testable."
+      ]
+    },
+    {
+      "type": "text",
+      "icon": "🗺️",
+      "heading": "Bengal-Specific Topics - Geography and Modern State",
+      "content": [
+        "Bengal Geography (10-15% of questions)River systems: Hooghly, Damodar, Teesta, Brahmaputra, Sundarbans delta formation. Bengal plain formation.",
         "Climate: Southwest monsoon patterns, cyclone-prone coastal zones. Minerals: Limestone (Darjeeling), coal (Eastern coalfields).",
         "Agricultural zones: Paddy-growing deltas. Darjeeling hills and hill stations.",
         "Sundarban tigers and mangrove ecosystems. Questions: 'Which rivers drain Bengal?' 'Why is Sundarbans a delta?' 'Darjeeling climate and tea cultivation?'",
-        "<h3>Modern Bengal & Current State Affairs</h3><p>State government: Chief Minister (Mamata Banerjee), recent policies. Major schemes: Duare Sarkar (door-to-door <a href=\"/exam/bpsc\" style=\"text-decoration:underline;color:inherit\">services</a>), Swasthya Sathi (health insurance), Kanyashree (girl child welfare).",
+        "Modern Bengal & Current State AffairsState government: Chief Minister (Mamata Banerjee), recent policies. Major schemes: Duare Sarkar (door-to-door services), Swasthya Sathi (health insurance), Kanyashree (girl child welfare).",
         "Economic indicators: Population, literacy rate, major industries (Jute, Tea, IT in Kolkata). Infrastructure: Kolkata Metro expansion, Port of Kolkata.",
         "Political history: CPM rule (1977-2011), post-2011 changes. Questions: 'Which scheme provides health insurance in Bengal?' 'Kolkata Metro expansion zones?' 'Bengal literacy rate?'"
       ]
     },
     {
-      "heading": "",
-      "type": "svg_block",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">WBPSC - West Bengal Civil Service exam</text><rect x=\"50\" y=\"50\" width=\"190\" height=\"75\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"145\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#145236\">Prelims</text><text x=\"145\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">200 MCQs GS + Englis</text><rect x=\"260\" y=\"50\" width=\"190\" height=\"75\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"355\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1E40AF\">Mains</text><text x=\"355\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">6 papers Descriptive</text><rect x=\"470\" y=\"50\" width=\"190\" height=\"75\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"565\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#C2410C\">Interview + PF</text><text x=\"565\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#C2410C\">200 marks Final meri</text></svg>",
-      "caption": "WBPSC recruits for West Bengal Administrative Service (WBAS), West Bengal Police Service (WBPS), and other Group A/B state services."
+      "type": "process_flow",
+      "heading": "WBCS Selection Process",
+      "steps": [
+        {
+          "icon": "📝",
+          "title": "Prelims",
+          "desc": "Single objective paper, 200 marks, screening only with 1/3 negative marking."
+        },
+        {
+          "icon": "✍️",
+          "title": "Mains",
+          "desc": "Eight descriptive papers including a compulsory language and your optional."
+        },
+        {
+          "icon": "🎙️",
+          "title": "Personality Test",
+          "desc": "Interview worth 200 marks for Group A and B posts."
+        },
+        {
+          "icon": "🏛️",
+          "title": "Service Allotment",
+          "desc": "Final merit on Mains plus interview decides your group and post."
+        }
+      ]
     },
     {
       "heading": "WBCS Prelims Strategy - Single Paper Approach",
       "icon": "⚖️",
       "type": "text",
       "content": [
-        "<h3>200 Questions in 2.5 Hours - Time Management</h3><p>With 200 Qs in 150 minutes, you have 45 seconds per question average. You can't attempt all 200 accurately.",
+        "200 Questions in 2.5 Hours - Time ManagementWith 200 Qs in 150 minutes, you have 45 seconds per question average. You can't attempt all 200 accurately.",
         "Strategic approach: Spend 30 minutes on high-confidence questions (50-60 Qs) at high accuracy. Then spend 50 minutes on medium-confidence questions (60-80 Qs) at 70% accuracy.",
         "Then spend 20 minutes on weak-confidence questions (remaining ~60 Qs) using elimination and guessing. This gives: 55 correct (confident) + 50 correct (medium) + 12 correct (guesses) = ~115-120 marks.",
-        "Cutoff is typically 90-100 marks. Attempting all 200 poorly (70 marks) is worse than attempting 140 carefully (100 marks).</p>",
-        "<h3>Subject-wise Allocation in WBCS Prelims</h3><p>English (20 Qs): Comprehension, grammar, vocabulary. Difficulty: Easy-Moderate.",
+        "Cutoff is typically 90-100 marks. Attempting all 200 poorly (70 marks) is worse than attempting 140 carefully (100 marks).",
+        "Subject-wise Allocation in WBCS PrelimsEnglish (20 Qs): Comprehension, grammar, vocabulary. Difficulty: Easy-Moderate.",
         "Do this first, get 15-17 marks. Bengal (30 Qs): History, geography, current affairs.",
         "Difficulty: High for non-Bengalis. Do after English if Bengali - easy marks.",
         "Skip if weak. GK/Science (60 Qs): Mixed topics (history, geography, economy, science).",
@@ -163,13 +381,19 @@
       ]
     },
     {
-      "type": "text",
-      "heading": "WBPSC vs UPSC - key differences",
-      "icon": "📋",
-      "content": [
-        "WBPSC follows a similar pattern to UPSC but with Bengal-specific content. Prelims has compulsory English component (unlike UPSC where English is only in Mains).",
-        "Mains includes a mandatory Bengali/Nepali/Santali language paper. Current affairs questions heavily feature West Bengal <a href=\"/exam/cgpsc\" style=\"text-decoration:underline;color:inherit\">state</a> events, policies, and political developments.",
-        "WBPSC has a unique Personality Test format - it's longer than UPSC interview (30-45 minutes) and includes written assessment of personality traits. The interview panel focuses on candidates' awareness of Bengal's socio-economic challenges, local governance issues, and development priorities."
+      "type": "comparison_card",
+      "heading": "WBCS vs UPSC - key differences",
+      "win": {
+        "name": "WBCS",
+        "amount": "State focus",
+        "sub": "Single-paper Prelims with English, compulsory Bengali in Mains, heavy West Bengal current affairs, 200-mark interview."
+      },
+      "others": [
+        {
+          "name": "UPSC CSE",
+          "amount": "All-India",
+          "sub": "Two Prelims papers, English only in Mains, national focus, optional retained, 275-mark interview."
+        }
       ]
     },
     {
@@ -182,45 +406,97 @@
       ]
     },
     {
-      "type": "callout",
+      "type": "modern_callout",
       "variant": "info",
-      "heading": "WBPSC salary and posting",
-      "content": "WBAS officers start at Pay Level 9 (Rs 53,100 basic). Total monthly in-hand: Rs 75,000-90,000.<br><br>Posting is within West Bengal - SDM, BDO, and ADM-level posts. WBPS officers (police) start at the same level with additional allowances.<br><br>Promotion path leads to DM/SP-level posts after 10-15 years."
+      "title": "💰 WBPSC salary and posting",
+      "content": "WBAS officers start at Pay Level 9 (Rs 56,100 basic). Total monthly in-hand: Rs 75,000-90,000.<br><br>Posting is within West Bengal - SDM, BDO, and ADM-level posts. WBPS officers (police) start at the same level with additional allowances.<br><br>Promotion path leads to DM/SP-level posts after 10-15 years."
     },
     {
-      "type": "svg_block",
-      "heading": "Visual: Key Numbers",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">Mar 1 or 8, 2026</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Prelims Date</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">~300-700</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Vacancies</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">₹56K–2L/mo</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Salary</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">21-36 (Gen)</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Age Limit</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
-      "caption": "Key facts",
-      "description": "Quick overview."
+      "type": "stat_grid",
+      "heading": "WBCS 2026 Key Numbers",
+      "items": [
+        {
+          "icon": "🪑",
+          "value": "~300-800",
+          "label": "Vacancies (cycle-dependent)",
+          "color": "green"
+        },
+        {
+          "icon": "🎂",
+          "value": "21-36",
+          "label": "Age for Group A and B (Gen)",
+          "color": "blue"
+        },
+        {
+          "icon": "🪜",
+          "value": "3 Stages",
+          "label": "Prelims, Mains, Interview",
+          "color": "amber"
+        },
+        {
+          "icon": "💰",
+          "value": "Rs 56K-2L",
+          "label": "Salary range per month",
+          "color": "red"
+        }
+      ]
     },
     {
-      "type": "callout",
+      "type": "modern_callout",
       "variant": "tip",
-      "heading": "Bengali language paper strategy",
+      "title": "🗣️ Bengali language paper strategy",
       "content": "The mandatory Bengali language paper tests essay writing, translation, and comprehension. Even if Bengali is your mother tongue, practice formal Bengali essay writing - the transition from spoken Bengali to administrative Bengali prose needs practice.<br><br>Read Anandabazar Patrika editorials for vocabulary and sentence structure."
     },
     {
-      "type": "svg_block",
-      "heading": "Quick Facts",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Quick Facts</text><rect x=\"17\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"94\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">Mar 1 or 8, 2026</text><text x=\"94\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Prelims Date</text><rect x=\"187\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"264\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">~300-700</text><text x=\"264\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Vacancies</text><rect x=\"357\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"434\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#92400E\">₹56K–2L/mo</text><text x=\"434\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Salary</text><rect x=\"527\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"604\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">21-36 (Gen)</text><text x=\"604\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Age Limit</text></svg>",
-      "caption": "Quick reference facts",
-      "description": "Key facts and numbers at a glance"
+      "type": "stat_grid",
+      "heading": "WBCS 2026: Where the Cycle Stands",
+      "items": [
+        {
+          "icon": "✅",
+          "value": "14 Jun",
+          "label": "Prelims held (2026)",
+          "color": "green"
+        },
+        {
+          "icon": "📄",
+          "value": "Aug-Sep",
+          "label": "Prelims result expected",
+          "color": "blue"
+        },
+        {
+          "icon": "✍️",
+          "value": "Nov-Dec",
+          "label": "Mains expected (2026)",
+          "color": "amber"
+        },
+        {
+          "icon": "🏛️",
+          "value": "WBPSC",
+          "label": "Conducting body",
+          "color": "red"
+        }
+      ]
     },
     {
       "type": "text",
-      "heading": "WBPSC Mains - paper-wise strategy",
-      "icon": "📝",
+      "icon": "✍️",
+      "heading": "WBPSC Mains - compulsory papers (I to VI)",
       "content": [
-        "Paper I - Bengali/English Composition (200 marks): Essay writing (60 marks), translation (40 marks), precis writing (40 marks), comprehension (30 marks), and grammar/vocabulary (30 marks). For Bengali medium candidates, write in shuddho (formal) Bengali - avoid colloquial expressions.",
-        "Practice 2 essays per week on current affairs topics.",
-        "Paper II - English Composition (200 marks): Similar pattern to Paper I but in English. Even if Bengali is your strength, you cannot afford to ignore English - the marks are equal.",
-        "Practice essay writing with The Hindu editorials as model texts. Translation between Bengali and English needs regular practice - subtle meaning differences trip up candidates.",
-        "Paper III - General Studies I (200 marks): Indian history (freedom movement, ancient and medieval India), Indian geography (physical features, climate, agriculture, industries), Indian polity (Constitution, governance, panchayati raj), Indian economy (planning, GDP, inflation, monetary policy), and general science. Use UPSC-level books: Laxmikanth for polity, Spectrum for modern history, NCERT geography.",
-        "Paper IV - General Studies II (200 marks): West Bengal-specific paper - history of Bengal (from ancient to modern), geography of Bengal, Bengal's economy, culture, literature, and current affairs. This paper distinguishes WBPSC from UPSC.",
-        "Use 'Paschimbanger Itihas' and 'Banglar Bhugol' in Bengali for comprehensive coverage.",
-        "Paper V and VI - Optional Subjects (200 marks each): Choose your strongest graduation subject as optional. Popular choices: History (overlaps with GS), Political Science (overlaps with polity), Bengali Literature (linguistic advantage for Bengali speakers), Geography (overlaps with GS).",
-        "Avoid niche optionals with limited study material. Your optional can make or break your rank - choose wisely and study deeply."
+        "Paper I is your compulsory language, Bengali, Hindi, Urdu, Nepali or Santali. It tests essay, precis, composition and translation, so practise two essays a week.",
+        "Paper II is English, with a similar format. Even if Bengali is your strength, do not neglect English translation and comprehension.",
+        "Paper III is General Studies I, covering Indian history, geography and the freedom movement. Paper IV is General Studies II, the West Bengal-heavy paper on Bengal history, geography, science and current affairs.",
+        "Paper V covers the Constitution of India and the Indian economy, including the role of the RBI. Paper VI is Arithmetic and Reasoning, often the real separator since many candidates under-practise it."
+      ]
+    },
+    {
+      "type": "text",
+      "icon": "🎯",
+      "heading": "WBPSC Mains - optional subject (Papers VII and VIII)",
+      "content": [
+        "Papers VII and VIII are your optional subject, two papers of 200 marks each. You pick one subject from the WBPSC list, usually your graduation strength.",
+        "Popular choices include History, Geography, Political Science, Public Administration and Bengali, since they overlap with the GS papers. Avoid niche optionals with thin study material.",
+        "The optional carries 400 marks out of the Mains total, so it heavily shapes your rank. Choose where you can write confidently and find good sources.",
+        "Unlike UP, West Bengal has kept the optional in WBCS Mains, so this choice still matters a lot for your final merit."
       ]
     },
     {
@@ -230,9 +506,9 @@
       "content": [
         "WBPSC's Personality Test (200 marks) is different from UPSC's interview. It's longer (30-45 minutes vs UPSC's 20-25 minutes) and includes elements of written personality assessment alongside the oral interview.",
         "The panel evaluates your communication skills, awareness, integrity, and leadership potential.",
-        "Expect questions in both Bengali and English - the panel tests your bilingual fluency. They'll ask about your district, local governance issues, Bengal's development challenges, and your opinions on current <a href=\"/exam/mppsc\" style=\"text-decoration:underline;color:inherit\">state</a> policies.",
+        "Expect questions in both Bengali and English - the panel tests your bilingual fluency. They'll ask about your district, local governance issues, Bengal's development challenges, and your opinions on current state policies.",
         "Be balanced - don't take extreme political positions. Show awareness of ground realities in rural Bengal.",
-        "Common personality test topics: Why <a href=\"/exam/jpsc\" style=\"text-decoration:underline;color:inherit\">civil</a> services? What would you do as SDM of your district?",
+        "Common personality test topics: Why civil services? What would you do as SDM of your district?",
         "How would you handle a law-and-order situation? What are Bengal's biggest economic challenges?",
         "What is your view on the role of bureaucracy in development? Discuss a social issue in your district.",
         "Prepare 10 district-specific facts and 5 state-level policy opinions.",
@@ -285,16 +561,39 @@
         "Practice essay writing in both Bengali and English - 2 essays per week. Revise optional subject intensively.",
         "Take 2 Mains mock tests per month with self-evaluation.",
         "Pre-Personality Test (1-2 months): Practice mock interviews with friends or coaching institutes. Read 3 months of current affairs focused on Bengal.",
-        "Prepare answers for standard questions: Why <a href=\"/exam/hpsc\" style=\"text-decoration:underline;color:inherit\">civil</a> services? What are Bengal's challenges?",
+        "Prepare answers for standard questions: Why civil services? What are Bengal's challenges?",
         "What would you do as SDM? Practice speaking in both Bengali and English fluently - the panel tests bilingual communication."
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "Visual: Exam Pattern",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Exam Pattern</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">200</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">English, Bengali, GK</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">200 Qs</text></svg>",
-      "caption": "Paper structure",
-      "description": "Subject-wise marks."
+      "type": "stat_grid",
+      "heading": "WBCS Marks Structure",
+      "items": [
+        {
+          "icon": "📝",
+          "value": "200",
+          "label": "Prelims (screening)",
+          "color": "blue"
+        },
+        {
+          "icon": "✍️",
+          "value": "1,600",
+          "label": "Mains (8 papers x 200)",
+          "color": "green"
+        },
+        {
+          "icon": "🎙️",
+          "value": "200",
+          "label": "Personality Test",
+          "color": "amber"
+        },
+        {
+          "icon": "➖",
+          "value": "1/3",
+          "label": "Prelims negative marking",
+          "color": "red"
+        }
+      ]
     },
     {
       "type": "text",
@@ -322,14 +621,21 @@
     },
     {
       "type": "text",
-      "heading": "Answer writing - the skill that wins Mains",
-      "icon": "✍️",
+      "icon": "🖊️",
+      "heading": "Answer writing - structure and timing",
       "content": [
         "WBPSC Mains is entirely descriptive - your rank depends on how well you write, not how much you know. Many knowledgeable candidates fail Mains because they can't structure their answers.",
         "The ideal answer format: Introduction (1-2 sentences defining the topic), Body (3-4 paragraphs covering multiple dimensions), Conclusion (1-2 sentences with a balanced summary or way forward).",
         "Word limit discipline: 150-word answers should take 8-10 minutes, 250-word answers should take 15 minutes. Practice with a timer - write the answer, count words, check time.",
         "If you're consistently exceeding the time limit, your content is not structured enough. Use bullet points within paragraphs to organize complex information.",
-        "Diagram and map advantage: WBPSC evaluators appreciate visual aids. For geography answers, draw simple maps showing rivers, cities, or physical features.",
+        "Diagram and map advantage: WBPSC evaluators appreciate visual aids. For geography answers, draw simple maps showing rivers, cities, or physical features."
+      ]
+    },
+    {
+      "type": "text",
+      "icon": "🌏",
+      "heading": "Answer writing - Bengal examples that score",
+      "content": [
         "For polity answers, draw organizational charts (Parliament structure, judicial hierarchy). For economy answers, draw simple graphs showing trends.",
         "These diagrams take 2 minutes but add 2-3 marks per answer - massive ROI.",
         "Bengal-specific examples in every answer: Even in general GS papers, include Bengal examples wherever possible. Discussing urbanization?",
@@ -362,12 +668,31 @@
       "text": "WBPSC is the definitive path to West Bengal's administrative machinery - clearing it means joining the same cadre that runs districts, formulates policy, and shapes the state's future."
     },
     {
-      "type": "svg_block",
-      "heading": "WBPSC Service Groups",
-      "icon": "📊",
-      "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">WBPSC West Bengal Civil Services</text><rect x=\"50\" y=\"50\" width=\"280\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"190\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">Group A WBCS Exec Dy M</text><rect x=\"370\" y=\"50\" width=\"280\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"510\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Group B Sub Inspector </text></svg>",
-      "caption": "WBPSC is the premier state services exam for West Bengal",
-      "description": "Bengali language proficiency is essential for WBPSC mains."
+      "type": "icon_list",
+      "heading": "WBCS Service Groups",
+      "icon": "🏛️",
+      "items": [
+        {
+          "icon": "🏛️",
+          "title": "Group A",
+          "sub": "WBCS (Exe), WB Police Service (DSP) and other senior services."
+        },
+        {
+          "icon": "📋",
+          "title": "Group B",
+          "sub": "WB Police Service (Exe) and equivalent officer posts."
+        },
+        {
+          "icon": "🗂️",
+          "title": "Group C",
+          "sub": "Joint BDO, Deputy Assistant Director and similar posts."
+        },
+        {
+          "icon": "📑",
+          "title": "Group D",
+          "sub": "Inspector and other subordinate service posts."
+        }
+      ]
     }
   ],
   "important_dates": [
@@ -418,6 +743,18 @@
     {
       "question": "Can non-Bengali speakers apply for WBPSC?",
       "answer": "Yes, but there's a mandatory language paper in Bengali, Nepali, or Santali. If you don't know any of these languages, WBPSC becomes impractical.<br><br>The interview is also partially conducted in Bengali. Non-Bengali candidates from neighboring states (Jharkhand, Odisha) sometimes apply if they know Bengali."
+    },
+    {
+      "question": "What is the full form of WBCS?",
+      "answer": "WBCS stands for West Bengal Civil Service. It is conducted by the West Bengal Public Service Commission (WBPSC) for Group A, B, C and D state posts like Deputy Magistrate, DSP and BDO."
+    },
+    {
+      "question": "When is the WBCS 2026 exam?",
+      "answer": "The WBCS 2026 Preliminary exam was held on 14 June 2026. The result is expected around August to September, and the Mains is expected in November to December 2026."
+    },
+    {
+      "question": "Does WBCS Mains have an optional subject?",
+      "answer": "Yes. WBCS Mains has six compulsory papers plus an optional subject of two papers, 400 marks in total.<br><br>Unlike UP, West Bengal has kept the optional, so your choice still strongly affects your final rank."
     }
   ],
   "official_portal": {
@@ -574,23 +911,23 @@
   },
   "quick_facts": [
     {
-      "label": "Prelims Date",
-      "value": "Mar 1 or 8, 2026"
+      "label": "Prelims",
+      "value": "14 June 2026 (Done)"
     },
     {
-      "label": "Vacancies",
-      "value": "~300-700"
+      "label": "Mains",
+      "value": "Nov-Dec 2026"
     },
     {
       "label": "Salary",
-      "value": "₹56K–2L/mo"
+      "value": "Rs 56K-2L/mo"
     },
     {
-      "label": "Age Limit",
-      "value": "21-36 (Gen)"
+      "label": "Age (Gen)",
+      "value": "21-36"
     }
   ],
-  "status": "upcoming",
+  "status": "live",
   "eligibility_data": {
     "reference_date": "As per notification",
     "default_education": "Bachelor's degree from any recognised university",
