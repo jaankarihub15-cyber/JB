@@ -1,7 +1,7 @@
 {
   "slug": "ssc-gd-constable",
-  "title": "SSC GD Constable 2026",
-  "meta_description": "SSC GD Constable 2026 - recruitment in BSF, CRPF, CISF, ITBP, SSB, NIA, SSF. Physical fitness test, height 170cm male, salary ₹21-25K, 25,000+ vacancies.",
+  "title": "SSC GD Constable 2026: 10th Pass, Salary, 25,487 Posts",
+  "meta_description": "SSC GD Constable 2026: 25,487 posts in BSF, CRPF, CISF and more. 10th pass, age 18-23. CBT done, result awaited. In-hand salary Rs 28-37K. Next exam 2027.",
   "hero": {
     "status": "upcoming",
     "one_liner": "Constable (GD) recruitment in Central Armed Police Forces - BSF, CRPF, CISF, ITBP, SSB, NIA, SSF, and Assam Rifles",
@@ -39,7 +39,7 @@
     }
   ],
   "what_is_it": [
-    "<a href=\"https://ssc.gov.in\" target=\"_blank\">SSC GD Constable (General Duty)</a> is one of the largest recruitment drives in India, typically offering 25,000-30,000+ vacancies for Constable positions in Central Armed Police Forces (CAPFs) and other organizations. The forces include <a href=\"https://www.bsf.gov.in\" target=\"_blank\">BSF (Border Security Force)</a>, <a href=\"https://www.crpfindia.com\" target=\"_blank\">CRPF (Central Reserve Police Force)</a>, <a href=\"https://www.cisf.gov.in\" target=\"_blank\">CISF (Central Industrial Security Force)</a>, ITBP (Indo-Tibetan Border Police), SSB (Sashastra Seema Bal), NIA (National Investigation Agency), SSF (Secretariat Security Force), and Assam Rifles.",
+    "SSC GD Constable (General Duty) is one of the largest recruitment drives in India, typically offering 25,000-30,000+ vacancies for Constable positions in Central Armed Police Forces (CAPFs) and other organizations. The forces include BSF (Border Security Force), CRPF (Central Reserve Police Force), CISF (Central Industrial Security Force), ITBP (Indo-Tibetan Border Police), SSB (Sashastra Seema Bal), NIA (National Investigation Agency), SSF (Secretariat Security Force), and Assam Rifles.",
     "The exam requires only 10th pass qualification, making it accessible to a massive number of young Indians. However, it has rigorous Physical Standards Test (PST), Physical Efficiency Test (PET), and Medical Examination - candidates must be physically fit to serve in paramilitary/security forces. The Computer Based Exam tests General Intelligence, General Knowledge, Elementary Mathematics, and English/Hindi at a basic level.",
     "Starting salary is at Pay Level 3 (₹21,700-69,100 basic pay scale). With allowances, the in-hand salary is approximately ₹21,000-25,000/month, plus free accommodation, food, uniform, medical, and other facilities during service. Additional risk allowance is paid for deployment in border areas, conflict zones, and high-altitude postings.",
     "GD Constables undergo rigorous training (6-12 months) at respective force training centers. After training, they are posted for border guarding (BSF, ITBP, SSB), internal security and anti-terrorism (CRPF), industrial security (CISF), or investigation support (NIA). Career growth through departmental exams allows promotion to Head Constable, ASI, SI, and above."
@@ -94,22 +94,122 @@
         {
           "name": "General Intelligence & Reasoning",
           "questions": 20,
-          "marks": 40
+          "marks": 40,
+          "topics": [
+            {
+              "name": "Analogy",
+              "high": true
+            },
+            {
+              "name": "Coding-Decoding",
+              "high": true
+            },
+            {
+              "name": "Series",
+              "high": false
+            },
+            {
+              "name": "Classification",
+              "high": false
+            },
+            {
+              "name": "Blood Relations",
+              "high": false
+            },
+            {
+              "name": "Direction Sense",
+              "high": false
+            },
+            {
+              "name": "Non-Verbal (Mirror, Venn)",
+              "high": true
+            }
+          ]
         },
         {
           "name": "General Knowledge & General Awareness",
           "questions": 20,
-          "marks": 40
+          "marks": 40,
+          "topics": [
+            {
+              "name": "Current Affairs",
+              "high": true
+            },
+            {
+              "name": "Static GK (History, Polity, Geography)",
+              "high": true
+            },
+            {
+              "name": "General Science",
+              "high": true
+            },
+            {
+              "name": "Economics",
+              "high": false
+            }
+          ]
         },
         {
           "name": "Elementary Mathematics",
           "questions": 20,
-          "marks": 40
+          "marks": 40,
+          "topics": [
+            {
+              "name": "Number System (HCF, LCM)",
+              "high": true
+            },
+            {
+              "name": "Percentage, Ratio, Average",
+              "high": true
+            },
+            {
+              "name": "Time-Speed-Distance",
+              "high": true
+            },
+            {
+              "name": "Profit & Loss, Interest",
+              "high": false
+            },
+            {
+              "name": "Mensuration & Geometry",
+              "high": false
+            },
+            {
+              "name": "Data Interpretation",
+              "high": false
+            }
+          ]
         },
         {
           "name": "English/Hindi",
           "questions": 20,
-          "marks": 40
+          "marks": 40,
+          "topics": [
+            {
+              "name": "Reading Comprehension",
+              "high": true
+            },
+            {
+              "name": "Error Spotting",
+              "high": true
+            },
+            {
+              "name": "Synonyms & Antonyms",
+              "high": true
+            },
+            {
+              "name": "Idioms & Phrases",
+              "high": false
+            },
+            {
+              "name": "One-Word Substitution",
+              "high": false
+            },
+            {
+              "name": "Sentence Improvement",
+              "high": false
+            }
+          ]
         }
       ],
       "total_questions": 80,
@@ -189,10 +289,130 @@
       ]
     },
     {
-      "heading": "",
-      "type": "svg_block",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">SSC GD Constable join BSF, CRPF, CISF, I</text><rect x=\"30\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"130\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#145236\">CBT</text><text x=\"130\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">80 MCQs | 60 min</text><rect x=\"250\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"350\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1E40AF\">PET/PST</text><text x=\"350\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">5km run + physical s</text><rect x=\"470\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"570\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#C2410C\">Medical</text><text x=\"570\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#C2410C\">Eyesight + fitness c</text></svg>",
-      "caption": "SSC GD recruits Constables for CAPFs (BSF, CRPF, CISF, ITBP, SSB), NIA, SSF, and Assam Rifles. Only 10th pass required. 25,000+ vacancies per cycle."
+      "type": "modern_callout",
+      "variant": "info",
+      "title": "📣 SSC GD: 2026 Result Awaited, 2027 Coming",
+      "content": "The 2026 cycle for 25,487 posts is over. The CBT ran 27 April to 31 May 2026 and the answer key came out in June, with the result now awaited.<br><br>The next cycle (2027) notification is scheduled for 30 September 2026, with the exam in early 2027. One rule change: weight is no longer a ground for rejection in the Physical Standard Test, per a 2026 Home Ministry clarification."
+    },
+    {
+      "type": "process_flow",
+      "heading": "How SSC GD Selection Works",
+      "steps": [
+        {
+          "icon": "📝",
+          "title": "CBT",
+          "desc": "80 questions for 160 marks in 60 minutes. Scores are normalised across shifts to shortlist you for the physical test."
+        },
+        {
+          "icon": "🏃",
+          "title": "PET / PST",
+          "desc": "Physical efficiency and standard test, run by the CAPFs. Running, height and chest are checked. Eliminatory."
+        },
+        {
+          "icon": "🩺",
+          "title": "Medical (DME)",
+          "desc": "Detailed medical examination including vision. Strict fitness standards for armed duty."
+        },
+        {
+          "icon": "📄",
+          "title": "Document Verification",
+          "desc": "Certificates and category proofs are checked before final allotment to a force."
+        }
+      ]
+    },
+    {
+      "type": "eligibility_check",
+      "heading": "Who Can Apply for SSC GD",
+      "qualify": [
+        "Passed Class 10 from a recognised board",
+        "Aged 18 to 23 years (relaxation for reserved categories)",
+        "Meets the height and chest standards (men 170 cm, women 157 cm)",
+        "Can clear the running and endurance test"
+      ],
+      "disqualify": [
+        "Below 18 or above 23 years before relaxation",
+        "Below the height or chest minimum for your category",
+        "Cannot complete the PET run within the time limit",
+        "Fails the medical or vision standard"
+      ]
+    },
+    {
+      "type": "stat_grid",
+      "heading": "SSC GD Key Numbers",
+      "items": [
+        {
+          "icon": "🎓",
+          "value": "10th",
+          "label": "Minimum education",
+          "color": "green"
+        },
+        {
+          "icon": "🪑",
+          "value": "25,487",
+          "label": "Vacancies 2026",
+          "color": "blue"
+        },
+        {
+          "icon": "💰",
+          "value": "₹28-37K",
+          "label": "In-hand / month",
+          "color": "amber"
+        },
+        {
+          "icon": "🎂",
+          "value": "18-23",
+          "label": "Age limit",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "SSC GD - 10th pass route to paramilitary forces",
+      "icon": "🎖️",
+      "content": [
+        "SSC GD Constable is the largest armed forces recruitment for 10th pass candidates. With 25,000-45,000 vacancies per cycle, it offers the best odds among uniformed services.",
+        "You join as a Constable in BSF (border security), CRPF (internal security), CISF (airport/industrial security), ITBP (Indo-Tibet border), or SSB (Indo-Nepal/Bhutan border).",
+        "The starting salary is Pay Level 3 (Rs 21,700 basic) with total monthly of Rs 33,000-42,000 including risk allowance, ration, and other benefits. Free accommodation, food, medical, and CSD (Canteen Stores Department) facilities.",
+        "After 5 years, promotion to Head Constable. Further promotions to ASI, SI are possible through departmental exams.",
+        "This is a physically demanding career - daily PT, weapons training, deployment in challenging terrains (borders, conflict zones, disaster relief). But the camaraderie, discipline, patriotic purpose, and lifetime benefits make it one of the most respected careers for 10th pass youth in India."
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "Forces You Can Join Through SSC GD",
+      "items": [
+        {
+          "icon": "🛂",
+          "title": "BSF",
+          "sub": "Border Security Force on the Pakistan and Bangladesh borders."
+        },
+        {
+          "icon": "🛡️",
+          "title": "CRPF",
+          "sub": "Internal security and anti-Naxal duty. The most deployed CAPF."
+        },
+        {
+          "icon": "✈️",
+          "title": "CISF",
+          "sub": "Airports, metro and industrial security. Mostly urban postings."
+        },
+        {
+          "icon": "⛰️",
+          "title": "ITBP",
+          "sub": "India-China border in the high-altitude Himalayas."
+        },
+        {
+          "icon": "🏔️",
+          "title": "SSB",
+          "sub": "India-Nepal and India-Bhutan borders."
+        },
+        {
+          "icon": "🎖️",
+          "title": "Assam Rifles",
+          "sub": "Rifleman (GD) in the Northeast. SSF and NCB Sepoy posts also feature."
+        }
+      ]
     },
     {
       "heading": "Physical Standards and Tests - Detailed Requirements",
@@ -216,72 +436,77 @@
       ]
     },
     {
-      "heading": "Training and Career After Selection",
-      "icon": "🎖️",
       "type": "text",
-      "content": [
-        "Training duration: 6-12 months at the respective force's training center (e.g., <a href=\"https://www.bsf.gov.in\" target=\"_blank\">BSF Training Centre</a>, CRPF RAF Centre, CISF RPTC). Training includes: physical fitness, weapons handling, drill, law, and force-specific operational training.",
-        "Food, accommodation, and uniform provided free during training.",
-        "Posting after training: <a href=\"https://www.bsf.gov.in\" target=\"_blank\">BSF</a> - border areas (India-Pakistan, India-Bangladesh). CRPF - internal security duties, anti-terrorism, law and order.",
-        "CISF - airports, metro stations, government installations, nuclear facilities. ITBP - India-China border (high-altitude postings).",
-        "SSB - India-Nepal, India-Bhutan border.",
-        "Career growth: Constable → Head Constable (through departmental exam, 5-7 years) → ASI (Assistant Sub Inspector) → SI (Sub Inspector) → Inspector. Many GD Constables also appear for <a href=\"https://ssc.gov.in\" target=\"_blank\">SSC CPO (Sub Inspector)</a> exam to get direct promotion to SI rank.",
-        "Some also appear for CAPFs AC (Assistant Commandant) through UPSC."
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "SSC GD - 10th pass route to paramilitary forces",
-      "icon": "🎖️",
-      "content": [
-        "SSC GD Constable is the largest armed forces recruitment for 10th pass candidates. With 25,000-45,000 vacancies per cycle, it offers the best odds among uniformed services.",
-        "You join as a Constable in BSF (border security), CRPF (internal security), CISF (airport/industrial security), ITBP (Indo-Tibet border), or SSB (Indo-Nepal/Bhutan border).",
-        "The starting salary is Pay Level 3 (Rs 21,700 basic) with total monthly of Rs 33,000-42,000 including risk allowance, ration, and other benefits. Free accommodation, food, medical, and CSD (Canteen Stores Department) facilities.",
-        "After 5 years, promotion to Head Constable. Further promotions to ASI, SI are possible through departmental exams.",
-        "This is a physically demanding career - daily PT, weapons training, deployment in challenging terrains (borders, conflict zones, disaster relief). But the camaraderie, discipline, patriotic purpose, and lifetime benefits make it one of the most respected careers for 10th pass youth in India."
-      ]
-    },
-    {
-      "type": "svg_block",
-      "heading": "Visual: Key Numbers",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">10th Pass</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Education</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">~25,000-30,000</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Vacancies</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">₹21–25K/mo</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Salary</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">7 CAPFs + NIA + SS</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Forces</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
-      "caption": "Key facts",
-      "description": "Quick overview."
-    },
-    {
-      "type": "text",
-      "heading": "Physical test - preparation guide",
+      "heading": "Physical Standards You Must Meet",
       "icon": "🏃",
       "content": [
-        "Male: 5km run in 24 minutes, height 170cm (relaxed for hill states), chest 80cm with 5cm expansion. Female: 1.6km run in 8.5 minutes, height 157cm.",
-        "The 5km run eliminates the most candidates - start training 4-6 months before the expected PET date.",
-        "Training plan: Week 1-4: Run 2km daily, build stamina gradually. Week 5-8: Increase to 3-4km, start timing yourself.",
-        "Week 9-12: Run 5km in under 28 minutes. Week 13-16: Target 5km in under 24 minutes with sprint finishes.",
-        "Run early morning (5-6 AM) for best results. Hydrate properly and avoid injuries from overtraining."
+        "Male PET: 5 km run in 24 minutes is the most critical test - 30% of CBT qualifiers fail here. Height minimum 170 cm (relaxed to 165 cm for hill areas including Garhwal, Kumaon, Dogra, Gorkha regions and NE states).",
+        "Chest 80 cm with minimum 5 cm expansion. Long jump: 3 meters (3 chances).",
+        "High jump: 0.9 meters (3 chances).",
+        "Female PET: 1.6 km run in 8.5 minutes. Height minimum 157 cm (relaxed for hill areas).",
+        "Long jump: 2.4 meters. High jump: 0.6 meters.",
+        "The female PET is significantly less demanding than male PET but still requires dedicated physical preparation - don't take it lightly."
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "SSC GD Constable 2026 Facts",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">SSC GD Constable 20</text><rect x=\"17\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"94\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">10th Pass</text><text x=\"94\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Education</text><rect x=\"187\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"264\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">~25,000-30,000</text><text x=\"264\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Vacancies</text><rect x=\"357\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"434\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#92400E\">₹21–25K/mo</text><text x=\"434\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Salary</text><rect x=\"527\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"604\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">7 CAPFs + NIA + SS</text><text x=\"604\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Forces</text></svg>",
-      "caption": "Quick reference facts",
-      "description": "Key facts and numbers at a glance"
+      "type": "process_flow",
+      "heading": "16-Week Running Plan for the PET",
+      "steps": [
+        {
+          "icon": "1️⃣",
+          "title": "Weeks 1-4: Base",
+          "desc": "Jog 2 km daily without timing to build cardiovascular endurance. Walk briskly on rest days."
+        },
+        {
+          "icon": "2️⃣",
+          "title": "Weeks 5-8: Build",
+          "desc": "Run 3 km daily and start timing, targeting 18 minutes. Add 400m sprint intervals twice a week."
+        },
+        {
+          "icon": "3️⃣",
+          "title": "Weeks 9-12: Push",
+          "desc": "Run 4 to 5 km daily, targeting 5 km under 28 minutes. Add hill sprints or stairs for leg strength."
+        },
+        {
+          "icon": "4️⃣",
+          "title": "Weeks 13-16: Peak",
+          "desc": "Timed 5 km runs every alternate day, targeting under 24 minutes. Run at your PET's scheduled morning time."
+        }
+      ]
     },
     {
-      "type": "callout",
-      "variant": "warning",
-      "heading": "Eyesight is critical - no second chance",
-      "content": "SSC GD has strict eyesight requirements: 6/6 in better eye and 6/9 in worse eye (without glasses). Colour blindness is disqualifying.<br><br>Unlike other exams where you can retake, medical rejection for eyesight is permanent - you can't reappear. If you wear glasses, check your uncorrected vision first.<br><br>LASIK surgery is accepted if done at least 6 months before the medical test."
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "heading": "Force preference strategy",
-      "content": "You can list preferred CAPFs in your application. CISF: Airport/industrial postings in cities - most comfortable posting.<br><br>BSF: Border areas (Pakistan/Bangladesh border) - challenging but highest adventure. CRPF: Internal security duties across India - most deployments.<br><br>ITBP: Himalayan border - extreme terrain but strong camaraderie. Choose based on your lifestyle preference and adventurousness."
+      "type": "stat_grid",
+      "heading": "CBT Section-Wise (80 Qs, 160 marks)",
+      "items": [
+        {
+          "icon": "🧠",
+          "value": "20",
+          "label": "Reasoning",
+          "color": "green"
+        },
+        {
+          "icon": "🌍",
+          "value": "20",
+          "label": "GK & Awareness",
+          "color": "blue"
+        },
+        {
+          "icon": "🔢",
+          "value": "20",
+          "label": "Maths",
+          "color": "amber"
+        },
+        {
+          "icon": "🔤",
+          "value": "20",
+          "label": "English / Hindi",
+          "color": "red"
+        }
+      ]
     },
     {
       "type": "text",
-      "heading": "CBT exam - subject-wise strategy",
+      "heading": "CBT Strategy - Reasoning and Maths",
       "icon": "📖",
       "content": [
         "General Intelligence and Reasoning (20 questions): The most scoring section - entirely practice-based with zero memorization. Topics include Analogy (word pairs, number pairs), Classification (odd one out), Series completion (number, letter, alpha-numeric), Coding-Decoding (letter shifting, number substitution), Blood Relations, Direction and Distance, Mirror Image, Venn Diagram, and Matrix-based problems.",
@@ -290,7 +515,14 @@
         "Elementary Mathematics (20 questions): Topics at Class 8-10 level - Number System (HCF, LCM, divisibility), Percentage, Ratio and Proportion, Profit and Loss, Discount, Average, Time-Speed-Distance (train problems, boats and streams), Time and Work, Simple and Compound Interest, basic Algebra, basic Geometry (area, perimeter, volume of standard shapes), and Data Interpretation (simple bar/pie/table charts).",
         "Math is the make-or-break section for most GD aspirants. Those who practice regularly score 16-18 out of 20.",
         "Those who ignore math score 6-8 and miss the cutoff by a few marks. There's no shortcut - practice 30 math questions daily from Kiran's SSC Mathematics.",
-        "Focus on speed - use calculation shortcuts like percentage-to-fraction conversion, cross-multiplication for ratios, and approximation for DI.",
+        "Focus on speed - use calculation shortcuts like percentage-to-fraction conversion, cross-multiplication for ratios, and approximation for DI."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "CBT Strategy - GK and Language",
+      "icon": "📖",
+      "content": [
         "General Knowledge and General Awareness (20 questions): Indian History (freedom movement, ancient empires, medieval rulers), Geography (Indian rivers, mountains, climate, soil types, agriculture), Polity (fundamental rights, Parliament, President, Supreme Court, constitutional amendments), General Science (physics concepts like force and motion, chemistry basics like acids and bases, biology like human body systems and diseases), Economics (GDP, inflation, budget, planning), and Current Affairs (last 6 months).",
         "GK requires both long-term knowledge and recent current affairs. Use Lucent's General Knowledge for static GK - it covers history, geography, polity, science, and economy comprehensively.",
         "For current affairs, read any monthly compilation (Pratiyogita Darpan, Jagran Josh, or free Telegram channel updates). Revise static GK topics weekly and current affairs daily.",
@@ -301,30 +533,71 @@
       ]
     },
     {
+      "type": "modern_callout",
+      "variant": "warning",
+      "title": "Eyesight is critical - no second chance",
+      "content": "SSC GD has strict eyesight requirements: 6/6 in better eye and 6/9 in worse eye (without glasses). Colour blindness is disqualifying.<br><br>Unlike other exams where you can retake, medical rejection for eyesight is permanent - you can't reappear. If you wear glasses, check your uncorrected vision first.<br><br>LASIK surgery is accepted if done at least 6 months before the medical test."
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "title": "Force preference strategy",
+      "content": "You can list preferred CAPFs in your application. CISF: Airport/industrial postings in cities - most comfortable posting.<br><br>BSF: Border areas (Pakistan/Bangladesh border) - challenging but highest adventure. CRPF: Internal security duties across India - most deployments.<br><br>ITBP: Himalayan border - extreme terrain but strong camaraderie. Choose based on your lifestyle preference and adventurousness."
+    },
+    {
       "type": "text",
-      "heading": "Physical test preparation - detailed guide",
-      "icon": "🏃",
+      "heading": "SSC GD Salary Breakdown",
+      "icon": "💰",
       "content": [
-        "Male PET: 5 km run in 24 minutes is the most critical test - 30% of CBT qualifiers fail here. Height minimum 170 cm (relaxed to 165 cm for hill areas including Garhwal, Kumaon, Dogra, Gorkha regions and NE states).",
-        "Chest 80 cm with minimum 5 cm expansion. Long jump: 3 meters (3 chances).",
-        "High jump: 0.9 meters (3 chances).",
-        "Female PET: 1.6 km run in 8.5 minutes. Height minimum 157 cm (relaxed for hill areas).",
-        "Long jump: 2.4 meters. High jump: 0.6 meters.",
-        "The female PET is significantly less demanding than male PET but still requires dedicated physical preparation - don't take it lightly.",
-        "Running preparation (the most important): Follow this 16-week plan. Weeks 1-4: Jog 2 km daily without timing - build basic cardiovascular endurance.",
-        "Walk briskly on rest days. Weeks 5-8: Run 3 km daily, start timing - target 18 minutes.",
-        "Include 400m sprint intervals twice weekly. Weeks 9-12: Run 4-5 km daily, target 5 km under 28 minutes.",
-        "Add hill sprints or stair climbing for leg strength. Weeks 13-16: Practice 5 km timed runs every alternate day, target under 24 minutes consistently.",
-        "Run at the time your PET is scheduled (usually morning) to condition your body.",
-        "Common PET failure reasons and how to avoid them: Inadequate preparation (starting training less than 2 months before PET), running injuries (shin splints from overtraining - increase distance gradually, not more than 10% per week), dehydration (drink 500ml water 2 hours before the run, not during), wrong footwear (use proper running shoes, not casual sneakers), and nervousness (practice in <a href=\"/exam/rrb-group-d\" style=\"text-decoration:underline;color:inherit\">group</a>s to simulate exam conditions). Train at a local sports ground or army coaching center where you can measure accurate distances.",
-        "For more details, see our guide on <a href=\"/exam/ssc-mts\" style=\"text-decoration:underline;color:inherit\">SSC MTS 2026</a>.",
-        "For more details, see our guide on <a href=\"/exam/ssc-chsl\" style=\"text-decoration:underline;color:inherit\">SSC CHSL 2026</a>.",
-        "For more details, see our guide on <a href=\"/exam/nda\" style=\"text-decoration:underline;color:inherit\">NDA Exam 2026</a>."
+        "Starting salary breakdown: Basic pay Rs 21,700 (Pay Level 3) + Dearness Allowance (currently ~50% of basic = Rs 10,850) + House Rent Allowance (8-24% of basic = Rs 1,736-5,208 depending on city) + Transport Allowance (Rs 1,350-3,600) + Ration Allowance (Rs 2,000-3,000) + Risk/Hardship Allowance (Rs 5,000-10,000 for border/field postings). Total monthly: Rs 33,000-42,000 depending on posting location and force.",
+        "Non-monetary benefits that add massive value: Free accommodation in CAPF camps/barracks (saves Rs 5,000-15,000/month rent), free rations (saves Rs 3,000-5,000/month food cost), free medical treatment at CAPF hospitals for self and family (saves Rs 30,000-50,000/year insurance cost), CSD (Canteen Stores Department) access for discounted groceries and consumer goods (20-40% cheaper than market), free railway warrants for leave travel (unlimited second class + some AC class entitlements)."
       ]
     },
     {
       "type": "text",
-      "heading": "CAPF life - what to expect after joining",
+      "heading": "Promotions and Pension",
+      "icon": "💰",
+      "content": [
+        "Promotion timeline: Constable GD (joining) → Head Constable (after 5-7 years, departmental exam) → Assistant Sub-Inspector (ASI, after 10-12 years) → Sub-Inspector (SI, after 15-18 years or through LDCE fast track) → Inspector (after 20+ years). Some exceptional performers reach Inspector rank in 12-15 years through LDCE (Limited Departmental Competitive Exam).",
+        "At Inspector level, monthly salary exceeds Rs 80,000.",
+        "Pension and retirement: CAPFs follow the National Pension Scheme (NPS) for recruits joining after 2004. Government contributes 14% of basic+DA to your NPS account.",
+        "After 20+ years of service, you can exit with a substantial corpus. For those who serve full tenure (retiring at age 57-60), the NPS corpus typically ranges from Rs 40-80 lakh depending on rank and service years.",
+        "Disability pension and family pension are available for service-related injuries or death."
+      ]
+    },
+    {
+      "type": "stat_grid",
+      "heading": "SSC GD 2026 Cycle Status",
+      "items": [
+        {
+          "icon": "📢",
+          "value": "Dec 2025",
+          "label": "Notification",
+          "color": "green"
+        },
+        {
+          "icon": "📝",
+          "value": "Apr-May",
+          "label": "CBT 2026",
+          "color": "blue"
+        },
+        {
+          "icon": "🔑",
+          "value": "Jun 2026",
+          "label": "Answer key out",
+          "color": "amber"
+        },
+        {
+          "icon": "⏳",
+          "value": "Awaited",
+          "label": "Result",
+          "color": "red"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Training and BSF/CRPF Postings",
       "icon": "🎖️",
       "content": [
         "Training: After selection, you undergo 6-9 months of basic training at the respective CAPF training center. BSF: STC (Subsidiary Training Centre) locations across India.",
@@ -333,7 +606,14 @@
         "BSF posting life: Postings on India's international borders - Pakistan border (Punjab, Rajasthan, Gujarat sectors) and Bangladesh border (West Bengal, Assam, Tripura, Meghalaya, Mizoram sectors). Work involves border patrolling, manning Border Out Posts (BOPs), anti-smuggling operations, and preventing illegal infiltration.",
         "Posting at BOPs can be remote - 50-100 km from the nearest town. Rotation between border and peace stations happens every 2-3 years.",
         "CRPF posting life: Internal security duties - anti-Naxal operations in Chhattisgarh, Jharkhand, and Odisha, counter-insurgency in J&K and Northeast, law and order deployment during elections and communal tensions, VIP security, and disaster relief. CRPF jawans are the most deployed CAPF force - you could be in a different state every deployment.",
-        "The work is challenging but the camaraderie among CRPF jawans is legendary.",
+        "The work is challenging but the camaraderie among CRPF jawans is legendary."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "CISF and ITBP Postings",
+      "icon": "🎖️",
+      "content": [
         "CISF posting life: The most 'civilian' CAPF. Primary duties: airport security (all major Indian airports), metro security (Delhi Metro, Mumbai Metro), industrial security (nuclear plants, oil refineries, ports), and heritage site protection (Taj Mahal, Red Fort).",
         "Postings are largely in cities - Delhi, Mumbai, Bangalore, Hyderabad, Kolkata. Less physical danger compared to BSF/CRPF but more public interaction.",
         "Many GD aspirants prefer CISF for the urban posting advantage.",
@@ -343,29 +623,22 @@
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "Visual: Exam Pattern",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Exam Pattern</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">40</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">General Intelligence</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">20 Qs</text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">40</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">General Knowledge & </text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">20 Qs</text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">40</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Elementary Mathemati</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">20 Qs</text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">40</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">English/Hindi</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">20 Qs</text></svg>",
-      "caption": "Paper structure",
-      "description": "Subject-wise marks."
-    },
-    {
+      "heading": "Training and Career After Selection",
+      "icon": "🎖️",
       "type": "text",
-      "heading": "Salary, benefits, and career growth",
-      "icon": "💰",
       "content": [
-        "Starting salary breakdown: Basic pay Rs 21,700 (Pay Level 3) + Dearness Allowance (currently ~50% of basic = Rs 10,850) + House Rent Allowance (8-24% of basic = Rs 1,736-5,208 depending on city) + Transport Allowance (Rs 1,350-3,600) + Ration Allowance (Rs 2,000-3,000) + Risk/Hardship Allowance (Rs 5,000-10,000 for border/field postings). Total monthly: Rs 33,000-42,000 depending on posting location and force.",
-        "Non-monetary benefits that add massive value: Free accommodation in CAPF camps/barracks (saves Rs 5,000-15,000/month rent), free rations (saves Rs 3,000-5,000/month food cost), free medical treatment at CAPF hospitals for self and family (saves Rs 30,000-50,000/year insurance cost), CSD (Canteen Stores Department) access for discounted groceries and consumer goods (20-40% cheaper than market), free railway warrants for leave travel (unlimited second class + some AC class entitlements).",
-        "Promotion timeline: Constable GD (joining) → Head Constable (after 5-7 years, departmental exam) → Assistant Sub-<a href=\"/exam/ssc-cpo\" style=\"text-decoration:underline;color:inherit\">Inspector</a> (ASI, after 10-12 years) → Sub-Inspector (SI, after 15-18 years or through LDCE fast track) → Inspector (after 20+ years). Some exceptional performers reach Inspector rank in 12-15 years through LDCE (Limited Departmental Competitive Exam).",
-        "At Inspector level, monthly salary exceeds Rs 80,000.",
-        "Pension and retirement: CAPFs follow the National Pension Scheme (NPS) for recruits joining after 2004. Government contributes 14% of basic+DA to your NPS account.",
-        "After 20+ years of service, you can exit with a substantial corpus. For those who serve full tenure (retiring at age 57-60), the NPS corpus typically ranges from Rs 40-80 lakh depending on rank and service years.",
-        "Disability pension and family pension are available for service-related injuries or death."
+        "Training duration: 6-12 months at the respective force's training center (e.g., BSF Training Centre, CRPF RAF Centre, CISF RPTC). Training includes: physical fitness, weapons handling, drill, law, and force-specific operational training.",
+        "Food, accommodation, and uniform provided free during training.",
+        "Posting after training: BSF - border areas (India-Pakistan, India-Bangladesh). CRPF - internal security duties, anti-terrorism, law and order.",
+        "CISF - airports, metro stations, government installations, nuclear facilities. ITBP - India-China border (high-altitude postings).",
+        "SSB - India-Nepal, India-Bhutan border.",
+        "Career growth: Constable → Head Constable (through departmental exam, 5-7 years) → ASI (Assistant Sub Inspector) → SI (Sub Inspector) → Inspector. Many GD Constables also appear for SSC CPO (Sub Inspector) exam to get direct promotion to SI rank.",
+        "Some also appear for CAPFs AC (Assistant Commandant) through UPSC."
       ]
     },
     {
       "type": "text",
-      "heading": "Books, apps, and mock tests",
+      "heading": "Best Books for SSC GD",
       "icon": "📚",
       "content": [
         "Mathematics: Kiran's SSC Mathematics (previous year chapterwise) - the single most recommended book. Contains 5,000+ solved questions organized by topic.",
@@ -373,7 +646,14 @@
         "Reasoning: RS Aggarwal Verbal and Non-Verbal Reasoning or Kiran's SSC Reasoning. Both are comprehensive.",
         "Complete any ONE book. For daily practice, use Testbook or Adda247 apps - they offer free daily reasoning quizzes specifically for SSC GD level questions.",
         "General Knowledge: Lucent's General Knowledge - covers history, geography, polity, science, and economy in one comprehensive book. Read it twice - first for understanding, second for memorization of key facts.",
-        "Supplement with Pratiyogita Darpan monthly magazine for current affairs. Make flashcards for 100 most important GK facts and revise weekly.",
+        "Supplement with Pratiyogita Darpan monthly magazine for current affairs. Make flashcards for 100 most important GK facts and revise weekly."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Apps and Mock Tests",
+      "icon": "📚",
+      "content": [
         "English/Hindi: For English - SP Bakshi Objective English (grammar rules + vocabulary + comprehension practice). For Hindi - Kiran's Hindi for SSC exams.",
         "Whichever language you choose, practice 2 comprehension passages daily and solve 20 grammar questions. Language is the easiest section to improve quickly - 4 weeks of focused practice can add 5-6 marks.",
         "Mock tests: Take 20+ full-length SSC GD mock tests before the exam. Free mocks available on Testbook (10+ free), Adda247, and SSC's own practice links.",
@@ -382,16 +662,40 @@
       ]
     },
     {
+      "type": "comparison_card",
+      "heading": "SSC GD vs State Police Constable",
+      "win": {
+        "name": "SSC GD (central)",
+        "amount": "Pan-India posting",
+        "sub": "Central government job in the CAPFs with free rations, accommodation, CSD canteen and railway warrants. Postings can be anywhere in India."
+      },
+      "others": [
+        {
+          "name": "State Police Constable",
+          "amount": "Home-state posting",
+          "sub": "Posting stays within your state, close to home and in your local language. Pay and benefits vary a lot by state."
+        },
+        {
+          "name": "The trade-off",
+          "amount": "Stability vs reach",
+          "sub": "State police suits those wanting to stay local. SSC GD suits those open to relocation for central pay and perks."
+        }
+      ]
+    },
+    {
+      "type": "pullquote",
+      "text": "SSC GD Constable is the fastest route to a uniformed central government job - CRPF, BSF, CISF, SSB - with a starting salary, free accommodation, and benefits that most private sector jobs at this level cannot offer."
+    },
+    {
       "type": "text",
-      "heading": "Application process and important dates",
+      "heading": "Application Process and Dates",
       "icon": "📋",
       "content": [
-        "SSC GD notification is released on ssc.gov.in. Registration involves: One-Time Registration (if not done before), filling exam-specific application form, uploading photo (passport size, 20-50 KB) and signature (10-20 KB), selecting preferred exam centers (choose 3 cities), and paying Rs 100 fee (exempted for female, SC, ST, and ESM candidates).",
-        "After registration, download and save your application receipt. The admit card is released 2-3 weeks before the exam on ssc.gov.in.",
-        "Carry a color printout of the admit card with original photo ID (Aadhaar, PAN, voter ID, or passport) to the exam center. Electronic devices including mobile phones are strictly prohibited inside the center.",
-        "Timeline for SSC GD 2026 (expected): Notification release in May-June 2026, application deadline in June-July 2026, CBT exam in August-September 2026 (multiple shifts), PET/PST in November-December 2026, medical examination in January-February 2027, final result in March-April 2027. The entire process from notification to joining takes approximately 12-15 months.",
-        "Multiple shifts and normalization: SSC conducts GD CBT in 20-30 shifts across 2-3 weeks to accommodate the massive number of applicants (40-50 lakh). Scores are normalized across shifts using a statistical formula to ensure fairness.",
-        "A candidate who gets an easier paper doesn't gain an unfair advantage. Focus on maximizing your relative score within your shift, not the absolute score."
+        "SSC GD applications are filed on ssc.gov.in after a One-Time Registration. You upload a photo (20-50 KB) and signature (10-20 KB), pick three exam-city preferences, and pay the ₹100 fee.",
+        "The fee is waived for women, SC, ST and ex-servicemen candidates. The admit card comes 2 to 3 weeks before the exam.",
+        "For the 2026 cycle the notification was on 1 December 2025, the CBT ran 27 April to 31 May 2026, and the answer key was released in June 2026. The result and physical tests follow.",
+        "The next cycle (2027) notification is scheduled for 30 September 2026, with applications through October and the exam in early 2027.",
+        "SSC runs the CBT in many shifts to handle the huge number of applicants, often 40 to 50 lakh. Scores are normalised across shifts, so aim to maximise your score within your own shift."
       ]
     },
     {
@@ -408,18 +712,6 @@
         "Promotion comparison: SSC GD constable can reach Inspector rank through departmental exams in 12-15 years. State police constable promotion to Head Constable takes 5-8 years, ASI in 12-15 years, SI in 18-20 years.",
         "SSC GD promotion is marginally faster due to larger organizational structure and more vacancy-driven promotions."
       ]
-    },
-    {
-      "type": "pullquote",
-      "text": "SSC GD Constable is the fastest route to a uniformed central government job - CRPF, BSF, CISF, SSB - with a starting salary, free accommodation, and benefits that most private sector jobs at this level cannot offer."
-    },
-    {
-      "type": "svg_block",
-      "heading": "SSC GD Selection Process",
-      "icon": "📋",
-      "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">SSC GD Four-Stage Selection</text><rect x=\"20\" y=\"50\" width=\"150\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"95\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#1B6B4A\">CBT Online Exam</text><rect x=\"185\" y=\"50\" width=\"150\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"260\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#1E40AF\">Physical PET/PST</text><rect x=\"350\" y=\"50\" width=\"150\" height=\"35\" rx=\"8\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"425\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#92400E\">Medical Exam</text><rect x=\"515\" y=\"50\" width=\"160\" height=\"35\" rx=\"8\" fill=\"#F3E8FF\" stroke=\"#7C3AED\" stroke-width=\"2\"/><text x=\"595\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#5B21B6\">Document Verify</text></svg>",
-      "caption": "Physical test is eliminatory so prepare running and endurance alongside studies",
-      "description": "GD recruits for CRPF, BSF, CISF, SSB, ITBP, AR, NIA and SSF."
     }
   ],
   "important_dates": [
@@ -492,6 +784,22 @@
     {
       "question": "Can SSC GD Constable become an officer?",
       "answer": "Yes, through two paths: (1) Limited Departmental Competitive Exam (LDCE) after 5 years - promotes to Sub-Inspector directly. (2) CAPFs allow meritorious constables to rise to Inspector level through departmental promotions over 15-20 years.<br><br>Some exceptional performers are also selected for officer-level training at Sardar Vallabhbhai Patel National Police Academy."
+    },
+    {
+      "question": "What is the full form of SSC GD?",
+      "answer": "SSC GD stands for Staff Selection Commission General Duty. The exam recruits General Duty Constables and Riflemen for the CAPFs, Assam Rifles, SSF and NCB."
+    },
+    {
+      "question": "When is the SSC GD 2026 result?",
+      "answer": "The 2026 CBT ran from 27 April to 31 May 2026 and the answer key was released in June 2026.<br><br>The result is awaited and will be published stage-wise on ssc.gov.in, followed by the physical and medical tests."
+    },
+    {
+      "question": "When is the next SSC GD exam?",
+      "answer": "The next cycle is SSC GD 2027. Its notification is scheduled for 30 September 2026, with applications through October and the computer-based exam in early 2027."
+    },
+    {
+      "question": "What is the in-hand salary of an SSC GD Constable?",
+      "answer": "Constables are at Pay Level 3 with a basic pay of ₹21,700. With DA, HRA, ration and risk allowances, the in-hand salary is roughly ₹28,000 to ₹37,000 a month, plus free accommodation and rations."
     }
   ],
   "official_portal": {
@@ -654,19 +962,19 @@
   "last_reviewed": "May 2026",
   "category": "ssc",
   "salary_table": {
-    "intro": "In-hand salary ranges from ₹21,000–25,000 + allowances to ₹21,000–25,000 + free food, accommodation depending on the post and city.",
+    "intro": "In-hand pay including DA, HRA, ration and risk allowances, on a basic of ₹21,700 (Pay Level 3). Border and field postings add more.",
     "rows": [
       {
-        "post": "Constable (GD) - BSF",
-        "amount": "₹21,000–25,000 + free food, accommodation"
+        "post": "Constable (GD) - BSF / ITBP (border)",
+        "amount": "₹30,000–37,000 + free food, accommodation"
       },
       {
         "post": "Constable (GD) - CRPF",
-        "amount": "₹21,000–25,000 + allowances"
+        "amount": "₹28,000–36,000 + field allowances"
       },
       {
-        "post": "Constable (GD) - CISF",
-        "amount": "₹21,000–25,000 + allowances"
+        "post": "Constable (GD) - CISF (urban)",
+        "amount": "₹28,000–34,000 + allowances"
       }
     ]
   },
@@ -677,18 +985,22 @@
     },
     {
       "label": "Vacancies",
-      "value": "~25,000-30,000"
+      "value": "25,487 (2026)"
     },
     {
       "label": "Salary",
-      "value": "₹21–25K/mo"
+      "value": "Rs 28-37K/mo"
     },
     {
-      "label": "Forces",
-      "value": "7 CAPFs + NIA + SSF"
+      "label": "Age Limit",
+      "value": "18-23 years"
+    },
+    {
+      "label": "Next cycle",
+      "value": "Notif 30 Sep 2026"
     }
   ],
-  "status": "upcoming",
+  "status": "live",
   "eligibility_data": {
     "reference_date": "As per notification",
     "default_education": "10th pass from recognised board",
