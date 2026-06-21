@@ -98,7 +98,28 @@ const GENERAL: ExamConfig = {
   ],
 };
 
-const EXAMS: Record<string, ExamConfig> = { "ssc-cgl": SSC, general: GENERAL };
+const APPSC: ExamConfig = {
+  id: "appsc",
+  name: "APPSC",
+  checklist: [
+    { id: "otpr", title: "Complete your OTPR first", sub: "APPSC needs a One Time Profile Registration on the AP PSC portal before you can apply. You get an OTPR ID you reuse for every APPSC notification.", specs: ["psc.ap.gov.in"] },
+    { id: "photo", title: "Photo with your name and date printed on it", sub: "APPSC photos must have your name and the date the photo was taken printed on the image itself. No cap or goggles, spectacles allowed, no polaroid.", specs: ["50 KB", "3.5×4.5 cm", "JPG/JPEG"] },
+    { id: "sign", title: "Signature scan", sub: "Sign with a black pen on white paper and scan it. It is uploaded separately from the photo.", specs: ["30 KB", "3.5×1.5 cm", "JPG/JPEG"] },
+    { id: "ssc", title: "SSC / 10th certificate", sub: "Your name and date of birth on the form must match your SSC (10th) certificate or birth certificate exactly." },
+    { id: "qual", title: "Qualification certificates", sub: "Degree and marksheets for the group you are applying to. Group 1 and 2 need a degree, Group 4 needs intermediate." },
+    { id: "local", title: "Local status & white card (AP)", sub: "Your local or non-local AP status affects fee and reservation. A white ration card gives an exam-fee exemption for AP residents." },
+    { id: "cat", title: "Category certificate (if applicable)", sub: "SC, ST, BC, PwD or Ex-Servicemen certificate to claim fee exemption and reservation." },
+    { id: "fee", title: "Application fee ready", sub: "Processing fee for all candidates, plus an exam fee. SC, ST, BC, PwD and Ex-Servicemen, AP white-card holders and unemployed AP youth are exempt from the exam fee.", specs: ["₹250 + ~₹80"] },
+  ],
+  reject: [
+    "Name or date of birth not matching the SSC (10th) certificate",
+    "Photo without your name and the date printed on it",
+    "Signature or photo in the wrong size or dimensions",
+    "Wrong local or non-local status, or a fee exemption you cannot prove",
+  ],
+};
+
+const EXAMS: Record<string, ExamConfig> = { "ssc-cgl": SSC, appsc: APPSC, general: GENERAL };
 
 /* ---- exam-specific guide + FAQ content (switches with the selected exam) ---- */
 type GuideSection = { icon: string; heading: string; paras: string[] };
@@ -131,6 +152,35 @@ const GUIDE: Record<string, GuideSection[]> = {
         "First you complete a One-Time Registration on the official SSC portal with your basic details. This gives you a registration number and password you reuse for every SSC exam.",
         "Then you log in, fill the application with your education and post preferences, capture the live photo, upload the signature, and pay the fee online if you are not exempt. The fee is around 100 rupees for General and OBC, and free for SC, ST, PwD, ex-servicemen and all women.",
         "Preview everything before final submission, because uploads usually cannot be changed afterwards. There is a short correction window, but it is safer to get it right the first time.",
+      ],
+    },
+  ],
+  appsc: [
+    {
+      icon: "📄",
+      heading: "Documents required for the APPSC form",
+      paras: [
+        "APPSC works through a One Time Profile Registration, so most of the panic comes from getting your OTPR and uploads right. Keep these ready before you start.",
+        "You need your SSC or 10th certificate for your name and date of birth, the qualification marksheets for your group, and a category certificate if you belong to SC, ST, BC, PwD or Ex-Servicemen. AP residents should keep their white ration card handy for the fee exemption.",
+        "You confirm your mobile and email during OTPR through one-time codes, so the registration is accepted. Note your OTPR reference ID, since you reuse it for every APPSC notification.",
+      ],
+    },
+    {
+      icon: "📷",
+      heading: "APPSC photo and signature size",
+      paras: [
+        "APPSC has one unusual rule that catches many applicants. Your photograph must have your name and the date the photo was taken printed on the image itself.",
+        "The photo must be 50 KB and 3.5 by 4.5 cm, in JPG or JPEG, in colour or clear black and white. No cap or goggles, though spectacles are allowed, and polaroid photos are not accepted.",
+        "The signature is uploaded separately at 30 KB and 3.5 by 1.5 cm, in JPG or JPEG, signed with a black pen on white paper. Use our resizer to hit the exact sizes, then add the name and date to the photo before uploading.",
+      ],
+    },
+    {
+      icon: "🧭",
+      heading: "How the APPSC form works",
+      paras: [
+        "First you complete the One Time Profile Registration on the APPSC portal and confirm it with the codes sent to your mobile and email. This gives you an OTPR ID and password.",
+        "Then for each notification you log in, fill the application with your qualification, local status and exam centre, and pay the fee online. The processing fee is 250 rupees for everyone, with an exam fee that many AP categories are exempt from.",
+        "Check every detail before submitting, because corrections later cost 100 rupees each, and changes to name, fee and age relaxation are not allowed at all.",
       ],
     },
   ],
@@ -176,6 +226,14 @@ const FAQS: Record<string, Faq[]> = {
     { question: "What happens to my details if I clear my browser?", answer: "Because the data lives only in your browser, clearing your browser or switching phones will remove it. To stay safe, tap Save a backup file once. That downloads a small file you can later restore using the Restore button to bring all your details back." },
     { question: "Why must my name match my 10th certificate exactly?", answer: "A mismatch between the name or date of birth on your form and on your 10th certificate is the single most common reason applications and candidatures get rejected. Enter your name and date of birth exactly as printed on the 10th certificate, including spelling and order, everywhere on the form." },
   ],
+  appsc: [
+    { question: "What documents are required for the APPSC form?", answer: "Keep ready your SSC or 10th certificate (for name and date of birth), your qualification marksheets, and a category certificate if you belong to SC, ST, BC, PwD or Ex-Servicemen. AP residents should keep a white ration card for the fee exemption. You also need a photo and signature in the exact APPSC sizes and an active mobile and email for the OTPR." },
+    { question: "What is the photo and signature size for APPSC?", answer: "The photo must be 50 KB and 3.5 by 4.5 cm, in JPG or JPEG, with your name and the date the photo was taken printed on it. The signature must be 30 KB and 3.5 by 1.5 cm, in JPG or JPEG, signed with a black pen on white paper. Confirm the exact rules in the notification." },
+    { question: "What is the APPSC application fee?", answer: "There is a processing fee of 250 rupees for all candidates, plus an examination fee that is usually around 80 rupees but varies by post. SC, ST, BC, PwD and Ex-Servicemen candidates, AP white ration card holders and unemployed AP youth are exempt from the examination fee but still pay the 250 rupees processing fee." },
+    { question: "What is OTPR in APPSC?", answer: "OTPR is the One Time Profile Registration on the APPSC portal. You register once with your basic details, confirm it through codes sent to your mobile and email, and get an OTPR ID. You reuse that ID to apply for every APPSC notification, so you do not enter your basic details again each time." },
+    { question: "Does this tool store my details anywhere?", answer: "No. Everything you type is saved only inside your own browser on your device. Nothing is uploaded to any server and we cannot see it. The tool also never asks for your Aadhaar number, bank details or passwords." },
+    { question: "Can I edit my APPSC application after submitting?", answer: "APPSC allows corrections after submission, but each correction costs 100 rupees. Changes to your name, fee and age relaxation are not allowed at all, so check those carefully before you submit." },
+  ],
   general: [
     { question: "What documents do I need to fill a government exam form?", answer: "Keep your 10th and 12th certificates ready for your name, date of birth and qualification, plus your graduation degree if the post needs it. Have a valid photo ID such as Aadhaar, PAN, Voter ID, Passport or Driving Licence, and your category certificate if you belong to SC, ST, OBC or EWS. You also need a scanned signature, a photo, and an active email and mobile." },
     { question: "What is the usual photo and signature size for online forms?", answer: "A common requirement is a photo between 20 KB and 50 KB and a signature between 10 KB and 20 KB, usually in JPEG. Some newer forms capture the photo live instead of an upload. The exact limits differ by exam, so always confirm them in the official notification before uploading." },
@@ -202,7 +260,7 @@ export function FormKit() {
     setMounted(true);
     try {
       const q = new URLSearchParams(window.location.search).get("exam");
-      if (q === "general" || q === "ssc-cgl") setExam(q);
+      if (q === "general" || q === "ssc-cgl" || q === "appsc") setExam(q);
     } catch {
       /* ignore */
     }
@@ -303,6 +361,12 @@ export function FormKit() {
           >
             SSC CGL
           </button>
+          <button
+            onClick={() => setExam("appsc")}
+            className={`text-sm font-bold px-4 py-2 rounded-full border transition-colors ${exam === "appsc" ? "bg-accent text-white border-accent" : "bg-white text-text-muted border-border hover:border-accent/40"}`}
+          >
+            APPSC
+          </button>
           {["RRB NTPC", "IBPS", "RPSC RAS"].map((e) => (
             <span key={e} className="text-sm font-bold px-4 py-2 rounded-full border border-border bg-white text-text-muted/60 cursor-not-allowed select-none">
               {e} · soon
@@ -373,7 +437,7 @@ export function FormKit() {
           <div className="card overflow-hidden self-start">
             <div className="flex items-center justify-between px-5 py-4 border-b border-border">
               <h2 className="text-base font-extrabold flex items-center gap-2">
-                {exam === "ssc-cgl" ? "✅ SSC CGL: what to keep ready" : "📋 Documents most forms need"}
+                {exam === "general" ? "📋 Documents most forms need" : `✅ ${cfg.name}: what to keep ready`}
               </h2>
               <span className="text-xs font-bold text-accent-dark bg-accent-light px-2.5 py-1 rounded-full whitespace-nowrap">{readyCount} of {cfg.checklist.length} ready</span>
             </div>
@@ -401,7 +465,7 @@ export function FormKit() {
             <div className="p-5 border-t border-border">
               <div className="rounded-2xl p-5 text-white" style={{ background: "linear-gradient(180deg,#1B6B4A,#0F3D2A)" }}>
                 <h3 className="text-base font-extrabold mb-1">📷 Make your photo &amp; signature the right size</h3>
-                <p className="text-[12.5px] opacity-85 mb-3">Hit the exact KB your form needs. The signature for SSC is 10–20 KB.</p>
+                <p className="text-[12.5px] opacity-85 mb-3">Hit the exact KB and dimensions your form needs, without losing clarity.</p>
                 <a href="/tools/photo-resizer" className="inline-flex items-center gap-2 bg-white text-accent-dark font-bold text-[13px] px-4 py-2 rounded-full">Open the resizer tool →</a>
               </div>
 
