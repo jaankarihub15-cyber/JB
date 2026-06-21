@@ -1,7 +1,7 @@
 {
   "slug": "ukpsc",
-  "title": "UKPSC 2026 - Uttarakhand PCS Exam",
-  "meta_description": "UKPSC PCS 2026: Naib Tehsildar, BDO, lower group B posts. Prelims 150 GS questions. Uttarakhand geography and Chipko Movement critical.",
+  "title": "UKPSC PCS 2026: Uttarakhand SDM, DSP, BDO Jobs & Salary",
+  "meta_description": "UKPSC PCS 2026: Uttarakhand Combined State Civil Services for SDM, DSP, BDO and Naib Tehsildar. Prelims, Mains and interview. Age 21-42. Salary and eligibility.",
   "hero": {
     "status": "upcoming",
     "one_liner": "Uttarakhand's state civil services exam - Naib Tehsildar, BDO, and administrative positions in the Dev Bhoomi through UKPSC",
@@ -87,24 +87,80 @@
   ],
   "exam_pattern": [
     {
-      "tier_name": "Prelims (150 GS + 100 CSAT)",
+      "tier_name": "Prelims (2 papers, qualifying)",
       "description": "Paper 1: 150 GS questions in 120 minutes (2 marks each if counting). Paper 2: 100 CSAT in 120 minutes (qualifying).",
       "subjects": [
         {
           "name": "Paper 1: GS + Uttarakhand GK",
           "questions": 150,
-          "marks": 300
+          "marks": 150,
+          "topics": [
+            {
+              "name": "Uttarakhand GK & Geography",
+              "high": true
+            },
+            {
+              "name": "Indian Polity",
+              "high": true
+            },
+            {
+              "name": "Modern History",
+              "high": true
+            },
+            {
+              "name": "Indian & UK Economy",
+              "high": false
+            },
+            {
+              "name": "Geography of India",
+              "high": false
+            },
+            {
+              "name": "General Science",
+              "high": false
+            },
+            {
+              "name": "Current Affairs",
+              "high": true
+            },
+            {
+              "name": "Environment",
+              "high": false
+            }
+          ]
         },
         {
-          "name": "Paper 2: CSAT (Qualifying)",
+          "name": "Paper 2: CSAT (Qualifying, 33%)",
           "questions": 100,
-          "marks": 200
+          "marks": 150,
+          "topics": [
+            {
+              "name": "Comprehension",
+              "high": true
+            },
+            {
+              "name": "Logical Reasoning",
+              "high": true
+            },
+            {
+              "name": "Basic Numeracy",
+              "high": false
+            },
+            {
+              "name": "Data Interpretation",
+              "high": false
+            },
+            {
+              "name": "Decision Making",
+              "high": false
+            }
+          ]
         }
       ],
       "total_questions": 250,
-      "total_marks": 500,
-      "duration": "4 hours",
-      "negative_marking": "0.67 per wrong"
+      "total_marks": 300,
+      "duration": "4 hours (2 hrs each)",
+      "negative_marking": "about 1/4 mark per wrong answer"
     }
   ],
   "major_posts": [
@@ -133,7 +189,7 @@
       "heading": "UKPSC PCS Exam Pattern and Selection Process",
       "icon": "📋",
       "content": [
-        "The Uttarakhand Public <a href=\"/exam/wbpsc\" style=\"text-decoration:underline;color:inherit\">Service</a> Commission conducts the UK PCS exam in three stages - Preliminary (screening), Mains (merit-determining), and Interview (personality test). Understanding the detailed pattern is essential for effective preparation.",
+        "The Uttarakhand Public Service Commission conducts the UK PCS exam in three stages - Preliminary (screening), Mains (merit-determining), and Interview (personality test). Understanding the detailed pattern is essential for effective preparation.",
         "PRELIMS: Two papers of 200 marks each. Paper 1 (General Studies) covers Indian polity, economy, geography, history, science, current affairs, and Uttarakhand-specific questions.",
         "Paper 2 (CSAT) tests comprehension, logical reasoning, analytical ability, decision making, and basic numeracy. Paper 2 is qualifying only (33% minimum), and only Paper 1 marks count for shortlisting to Mains.",
         "MAINS: Seven papers over multiple days. Paper 1 - Essay (Hindi and English, 300 marks).",
@@ -143,6 +199,12 @@
         "INTERVIEW: 200 marks. Conducted at the UKPSC headquarters in Haridwar.",
         "Tests personality, communication skills, awareness of Uttarakhand issues, and suitability for administrative roles. Final merit list is prepared based on Mains + Interview marks only (Prelims marks are not counted)."
       ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "info",
+      "title": "📣 UKPSC PCS 2026 Update",
+      "content": "The 2025 Combined State Civil / Upper Subordinate Services cycle (123 posts) has finished Prelims, and its Mains is scheduled for 27 to 30 April 2026. The 2026 application is expected in early 2026 on psc.uk.gov.in.<br><br>UKPSC released its 2026-27 exam calendar in April 2026, with exams running through the year. The Prelims has two papers and does carry negative marking, unlike some other state PSCs."
     },
     {
       "type": "stat_grid",
@@ -191,7 +253,7 @@
       "heading": "Post-Wise Vacancies in UKPSC",
       "icon": "💼",
       "content": [
-        "UKPSC PCS covers multiple <a href=\"/exam/uppsc-pcs\" style=\"text-decoration:underline;color:inherit\">services</a> - understanding post preferences helps you strategize. The most sought-after posts include Deputy Collector (SDM), DSP (Police), District Treasury Officer, Block Development Officer, and District Supply Officer.",
+        "UKPSC PCS covers multiple services - understanding post preferences helps you strategize. The most sought-after posts include Deputy Collector (SDM), DSP (Police), District Treasury Officer, Block Development Officer, and District Supply Officer.",
         "Vacancy counts fluctuate significantly year to year. Recent notifications have had 180-250 total vacancies across all posts.",
         "Deputy Collector and DSP positions are the most competitive with the highest cutoffs.",
         "During the preference filling stage after Mains, rank holders choose posts based on availability. Higher-ranked candidates get priority.",
@@ -204,7 +266,7 @@
       "icon": "💰",
       "content": [
         "UKPSC PCS officers start at Pay Level 10 under the 7th Central Pay Commission with a basic pay of ₹56,100. With Dearness Allowance (DA), House Rent Allowance (HRA), and other allowances, the in-hand salary for a new PCS officer in Uttarakhand is approximately ₹68,000-80,000 per month depending on the posting location.",
-        "Officers posted in hill districts receive additional Hill Compensatory Allowance (HCA) ranging from ₹800-5,300 per month depending on the altitude and remoteness of the posting. This is a unique benefit of Uttarakhand state <a href=\"/exam/bpsc\" style=\"text-decoration:underline;color:inherit\">services</a> that is not available in most plains states.",
+        "Officers posted in hill districts receive additional Hill Compensatory Allowance (HCA) ranging from ₹800-5,300 per month depending on the altitude and remoteness of the posting. This is a unique benefit of Uttarakhand state services that is not available in most plains states.",
         "CAREER PROGRESSION:\n- Entry: SDM/Dy Collector/DSP (Pay Level 10, ₹56,100)\n- 5-8 years: ADM/Additional SP (Pay Level 11, ₹67,700)\n- 10-15 years: CDO/DM/SP (Pay Level 13, ₹1,18,500)\n- 18-25 years: Commissioner/IG level (Pay Level 14, ₹1,44,200)\n- Senior positions: Principal Secretary/DGP level (Pay Level 15-17)",
         "Beyond salary, UKPSC officers enjoy government accommodation (or HRA), official vehicle for field duties, medical benefits for the entire family, Leave Travel Concession (LTC), and pension benefits under the National Pension Scheme. The total CTC (Cost to Company) is typically 40-60% higher than the gross salary."
       ]
@@ -216,7 +278,7 @@
       "content": [
         "MONTHS 1-3 (FOUNDATION): Complete NCERT books for Classes 6-12 in History, Geography, Polity, and Economics. These form the base for both Prelims and Mains.",
         "Start a daily newspaper habit (The Hindu or Indian Express) and make notes on Uttarakhand-specific news. Begin one optional subject textbook.",
-        "MONTHS 4-6 (BUILDING): Move to standard reference books - Laxmikanth for Polity, Ramesh Singh for Economy, Bipan Chandra for Modern History, Majid Husain for Geography. Complete Uttarakhand GK from a dedicated <a href=\"/exam/cgpsc\" style=\"text-decoration:underline;color:inherit\">state</a> GK book (R.C. Purohit or Lucent's Uttarakhand).",
+        "MONTHS 4-6 (BUILDING): Move to standard reference books - Laxmikanth for Polity, Ramesh Singh for Economy, Bipan Chandra for Modern History, Majid Husain for Geography. Complete Uttarakhand GK from a dedicated state GK book (R.C. Purohit or Lucent's Uttarakhand).",
         "Finish the optional subject syllabus.",
         "MONTHS 7-9 (PRACTICE): Solve previous year UKPSC question papers (at least last 10 years). Take weekly mock tests for Prelims.",
         "Start answer writing practice for Mains - write 2-3 answers daily in 150-word and 250-word formats. Focus on current affairs compilation for the last 12 months.",
@@ -514,6 +576,18 @@
     {
       "question": "Can I take UKPSC if I'm not from Uttarakhand?",
       "answer": "Yes. UKPSC PCS is open to all Indian citizens regardless of state.<br><br>However, candidates with Uttarakhand domicile receive certain benefits - they get an exclusive 15% reservation under the State Domicile category. Non-Uttarakhand candidates can still apply but compete in the open category.<br><br>Most selected officers do have Uttarakhand connections."
+    },
+    {
+      "question": "What is the full form of UKPSC?",
+      "answer": "UKPSC stands for Uttarakhand Public Service Commission. It conducts the Combined State Civil and Upper Subordinate Services (PCS) exam for posts like SDM, DSP and BDO."
+    },
+    {
+      "question": "Is there negative marking in UKPSC PCS?",
+      "answer": "Yes. The UKPSC Prelims is objective with negative marking of about one-fourth of a mark per wrong answer.<br><br>This is unlike some state PSCs such as TNPSC, which have no negative marking."
+    },
+    {
+      "question": "When is the UKPSC PCS 2026 Mains exam?",
+      "answer": "The 2025 cycle Mains is scheduled for 27 to 30 April 2026 at centres in Haridwar and Haldwani.<br><br>The 2026 notification and dates are expected on psc.uk.gov.in."
     }
   ],
   "official_portal": {
@@ -653,32 +727,32 @@
   "quick_facts": [
     {
       "label": "Vacancies",
-      "value": "~100–150"
+      "value": "123 (2025)"
     },
     {
       "label": "Age Limit",
-      "value": "21–42 (Gen)"
+      "value": "21-42 (Gen)"
     },
     {
       "label": "Salary",
-      "value": "₹47K–1.5L/mo"
+      "value": "₹47K-1.5L/mo"
     },
     {
       "label": "Prelims",
-      "value": "150 GS questions"
+      "value": "2 papers (GS+CSAT)"
+    },
+    {
+      "label": "Mains",
+      "value": "27-30 Apr 2026"
     }
   ],
-  "status": "upcoming",
+  "status": "live",
   "eligibility_data": {
     "reference_date": "As per notification",
     "default_education": "Bachelor's degree from any recognised university",
     "relaxations": [
       {
-        "category": "OBC",
-        "years": 3
-      },
-      {
-        "category": "SC/ST",
+        "category": "SC/ST/OBC (Uttarakhand)",
         "years": 5
       },
       {
@@ -690,17 +764,17 @@
       {
         "post": "Naib Tehsildar",
         "min_age": 21,
-        "max_age": 47
+        "max_age": 42
       },
       {
         "post": "Block Development Officer (BDO)",
         "min_age": 21,
-        "max_age": 47
+        "max_age": 42
       },
       {
         "post": "Supply Inspector",
         "min_age": 21,
-        "max_age": 47
+        "max_age": 42
       }
     ]
   }
