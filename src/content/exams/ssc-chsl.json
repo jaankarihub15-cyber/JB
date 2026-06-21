@@ -89,22 +89,122 @@
         {
           "name": "General Intelligence & Reasoning (Analogy, Coding, Puzzles)",
           "questions": 25,
-          "marks": 50
+          "marks": 50,
+          "topics": [
+            {
+              "name": "Analogy",
+              "high": true
+            },
+            {
+              "name": "Coding-Decoding",
+              "high": true
+            },
+            {
+              "name": "Series",
+              "high": false
+            },
+            {
+              "name": "Classification",
+              "high": false
+            },
+            {
+              "name": "Puzzles",
+              "high": false
+            },
+            {
+              "name": "Blood Relations",
+              "high": false
+            },
+            {
+              "name": "Non-Verbal Reasoning",
+              "high": false
+            }
+          ]
         },
         {
           "name": "General Awareness (Static GK, Current Affairs)",
           "questions": 25,
-          "marks": 50
+          "marks": 50,
+          "topics": [
+            {
+              "name": "Static GK (History, Polity, Geography)",
+              "high": true
+            },
+            {
+              "name": "Current Affairs",
+              "high": true
+            },
+            {
+              "name": "General Science",
+              "high": true
+            },
+            {
+              "name": "Economy",
+              "high": false
+            }
+          ]
         },
         {
           "name": "Quantitative Aptitude (Math, DI)",
           "questions": 25,
-          "marks": 50
+          "marks": 50,
+          "topics": [
+            {
+              "name": "Arithmetic (Percentage, Ratio, Interest)",
+              "high": true
+            },
+            {
+              "name": "Data Interpretation",
+              "high": true
+            },
+            {
+              "name": "Geometry & Mensuration",
+              "high": false
+            },
+            {
+              "name": "Trigonometry",
+              "high": false
+            },
+            {
+              "name": "Algebra",
+              "high": false
+            },
+            {
+              "name": "Number System",
+              "high": false
+            }
+          ]
         },
         {
           "name": "English Language (Grammar, Comprehension, Vocab)",
           "questions": 25,
-          "marks": 50
+          "marks": 50,
+          "topics": [
+            {
+              "name": "Reading Comprehension",
+              "high": true
+            },
+            {
+              "name": "Grammar & Error Spotting",
+              "high": true
+            },
+            {
+              "name": "Vocabulary (Synonyms, Antonyms)",
+              "high": true
+            },
+            {
+              "name": "Cloze Test",
+              "high": false
+            },
+            {
+              "name": "Para Jumbles",
+              "high": false
+            },
+            {
+              "name": "Fill in the Blanks",
+              "high": false
+            }
+          ]
         }
       ],
       "total_questions": 100,
@@ -119,17 +219,63 @@
         {
           "name": "Session 1: Math (20 Qs) + Reasoning (20 Qs)",
           "questions": 40,
-          "marks": 200
+          "marks": 200,
+          "topics": [
+            {
+              "name": "Mathematical Abilities",
+              "high": true
+            },
+            {
+              "name": "Reasoning & General Intelligence",
+              "high": true
+            },
+            {
+              "name": "Algebra",
+              "high": false
+            },
+            {
+              "name": "Geometry",
+              "high": false
+            },
+            {
+              "name": "Data Interpretation",
+              "high": false
+            }
+          ]
         },
         {
           "name": "Session 2: English (25 Qs) + GA (15 Qs)",
           "questions": 40,
-          "marks": 200
+          "marks": 200,
+          "topics": [
+            {
+              "name": "English Language & Comprehension",
+              "high": true
+            },
+            {
+              "name": "General Awareness",
+              "high": true
+            },
+            {
+              "name": "Computer Knowledge",
+              "high": false
+            }
+          ]
         },
         {
           "name": "Skill Test: Typing/Data Entry (qualifying only)",
           "questions": 0,
-          "marks": "Qualifying (Pass/Fail)"
+          "marks": "Qualifying (Pass/Fail)",
+          "topics": [
+            {
+              "name": "Typing 35 WPM English / 30 Hindi",
+              "high": true
+            },
+            {
+              "name": "DEO: 8000 key depressions/hour",
+              "high": true
+            }
+          ]
         }
       ],
       "total_questions": 80,

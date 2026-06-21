@@ -89,17 +89,95 @@
         {
           "name": "English Language (20 min)",
           "questions": 30,
-          "marks": 30
+          "marks": 30,
+          "topics": [
+            {
+              "name": "Reading Comprehension",
+              "high": true
+            },
+            {
+              "name": "Cloze Test",
+              "high": true
+            },
+            {
+              "name": "Error Spotting",
+              "high": true
+            },
+            {
+              "name": "Para Jumbles",
+              "high": false
+            },
+            {
+              "name": "Sentence Improvement",
+              "high": false
+            },
+            {
+              "name": "Fill in the Blanks",
+              "high": false
+            }
+          ]
         },
         {
           "name": "Quantitative Aptitude (20 min)",
           "questions": 35,
-          "marks": 35
+          "marks": 35,
+          "topics": [
+            {
+              "name": "Data Interpretation",
+              "high": true
+            },
+            {
+              "name": "Simplification & Approximation",
+              "high": true
+            },
+            {
+              "name": "Number Series",
+              "high": true
+            },
+            {
+              "name": "Arithmetic (Percentage, Profit-Loss, Time-Work)",
+              "high": true
+            },
+            {
+              "name": "Quadratic Equations",
+              "high": false
+            }
+          ]
         },
         {
           "name": "Reasoning Ability (20 min)",
           "questions": 35,
-          "marks": 35
+          "marks": 35,
+          "topics": [
+            {
+              "name": "Puzzles",
+              "high": true
+            },
+            {
+              "name": "Seating Arrangement",
+              "high": true
+            },
+            {
+              "name": "Syllogism",
+              "high": false
+            },
+            {
+              "name": "Inequality",
+              "high": false
+            },
+            {
+              "name": "Coding-Decoding",
+              "high": false
+            },
+            {
+              "name": "Blood Relations",
+              "high": false
+            },
+            {
+              "name": "Direction Sense",
+              "high": false
+            }
+          ]
         }
       ],
       "total_questions": 100,
@@ -114,27 +192,121 @@
         {
           "name": "Reasoning & Computer Aptitude (60 min)",
           "questions": 45,
-          "marks": 60
+          "marks": 60,
+          "topics": [
+            {
+              "name": "Puzzles & Seating",
+              "high": true
+            },
+            {
+              "name": "Logical Reasoning",
+              "high": true
+            },
+            {
+              "name": "Coding-Decoding",
+              "high": false
+            },
+            {
+              "name": "Data Sufficiency",
+              "high": false
+            },
+            {
+              "name": "Computer Aptitude",
+              "high": false
+            }
+          ]
         },
         {
           "name": "Data Analysis & Interpretation (45 min)",
           "questions": 35,
-          "marks": 60
+          "marks": 60,
+          "topics": [
+            {
+              "name": "Caselet DI",
+              "high": true
+            },
+            {
+              "name": "Bar / Line / Pie DI",
+              "high": true
+            },
+            {
+              "name": "Data Sufficiency",
+              "high": true
+            },
+            {
+              "name": "Probability",
+              "high": false
+            },
+            {
+              "name": "Permutation & Combination",
+              "high": false
+            }
+          ]
         },
         {
           "name": "General/Economy/Banking Awareness (35 min)",
           "questions": 40,
-          "marks": 40
+          "marks": 40,
+          "topics": [
+            {
+              "name": "Banking & Financial Awareness",
+              "high": true
+            },
+            {
+              "name": "Current Affairs (last 6 months)",
+              "high": true
+            },
+            {
+              "name": "Economy & Budget",
+              "high": true
+            },
+            {
+              "name": "Static GK",
+              "high": false
+            }
+          ]
         },
         {
           "name": "English Language (40 min)",
           "questions": 35,
-          "marks": 40
+          "marks": 40,
+          "topics": [
+            {
+              "name": "Reading Comprehension",
+              "high": true
+            },
+            {
+              "name": "Cloze Test",
+              "high": false
+            },
+            {
+              "name": "Para Jumbles",
+              "high": false
+            },
+            {
+              "name": "Error Spotting",
+              "high": false
+            },
+            {
+              "name": "Vocabulary",
+              "high": false
+            }
+          ]
         },
         {
           "name": "Descriptive: Letter + Essay (30 min)",
           "questions": 2,
-          "marks": 50
+          "marks": 50,
+          "topics": [
+            {
+              "name": "Letter Writing",
+              "high": true
+            },
+            {
+              "name": "Essay Writing",
+              "high": true
+            }
+          ]
         }
       ],
       "total_questions": 157,
