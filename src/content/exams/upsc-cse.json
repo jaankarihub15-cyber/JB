@@ -1,7 +1,7 @@
 {
   "slug": "upsc-cse",
-  "title": "UPSC CSE 2026: 933 Vacancies, Prelims 24 May, Mains 21 Aug",
-  "meta_description": "UPSC Civil Services Exam 2026 notification: 933 vacancies for IAS, IPS, IFS. Prelims 24 May 2026, Mains 21 Aug 2026. Age 21-32. Apply by 27 Feb 2026 at upsc.gov.in.",
+  "title": "UPSC CSE 2026: Mains 21 Aug, Result Out, 1,016 Posts",
+  "meta_description": "UPSC CSE 2026 Prelims result is out, 13,343 shortlisted for Mains on 21 August. Vacancies revised to ~1,016 for IAS, IPS, IFS. Age 21-32, pattern guide.",
   "hero": {
     "status": "upcoming",
     "one_liner": "India's most prestigious examination - gateway to IAS, IPS, IFS, and 20+ other All India and Central Services",
@@ -44,7 +44,7 @@
     }
   ],
   "what_is_it": [
-    "The <a href=\"https://upsc.gov.in\" target=\"_blank\">UPSC Civil Services Examination (CSE)</a> is conducted annually by the <a href=\"https://upsc.gov.in\" target=\"_blank\">Union Public Service Commission</a> to recruit officers for the <a href=\"https://en.wikipedia.org/wiki/Indian_Administrative_Service\" target=\"_blank\">Indian Administrative Service (IAS)</a>, <a href=\"https://en.wikipedia.org/wiki/Indian_Police_Service\" target=\"_blank\">Indian Police Service (IPS)</a>, <a href=\"https://en.wikipedia.org/wiki/Indian_Foreign_Service\" target=\"_blank\">Indian Foreign Service (IFS)</a>, and 20+ other Group A and Group B services. It is widely regarded as the toughest and most competitive exam in India, with 10-13 lakh applicants competing for about 1,000 vacancies.",
+    "The UPSC Civil Services Examination (CSE) is conducted annually by the Union Public Service Commission to recruit officers for the Indian Administrative Service (IAS), Indian Police Service (IPS), Indian Foreign Service (IFS), and 20+ other Group A and Group B services. It is widely regarded as the toughest and most competitive exam in India, with 10-13 lakh applicants competing for about 1,000 vacancies.",
     "The examination has three stages: Preliminary Exam (objective, screening), Main Exam (written, descriptive - 9 papers over 5 days), and Interview/Personality Test. The entire process takes about 12-14 months from Prelims to final results. The 2026 UPSC Prelims is scheduled for 24 May 2026, and Mains for 21 August 2026.",
     "Successful candidates join elite services that shape India's governance. IAS officers become District Collectors/Magistrates, Secretaries to the Government, and eventually Chief Secretaries. IPS officers head police forces from SP to DGP level. IFS officers serve as Ambassadors and High Commissioners across the world. The starting salary at the entry level (Level 10) is approximately ₹56,100/month, but with allowances (DA, HRA, TA), the in-hand salary ranges from ₹80,000 to ₹1,00,000+/month from day one, with free housing, vehicle, and other perquisites.",
     "Unlike most other competitive exams, UPSC CSE tests not just knowledge but analytical thinking, decision-making ability, ethics, and leadership potential. The syllabus encompasses everything from ancient history to current affairs, from economics to science, from governance to international relations - it's essentially a test of being a well-rounded, informed citizen of India."
@@ -94,12 +94,64 @@
         {
           "name": "Paper 1: General Studies (2 hours)",
           "questions": 100,
-          "marks": 200
+          "marks": 200,
+          "topics": [
+            {
+              "name": "Indian Polity",
+              "high": true
+            },
+            {
+              "name": "Modern History",
+              "high": true
+            },
+            {
+              "name": "Geography",
+              "high": true
+            },
+            {
+              "name": "Economy",
+              "high": false
+            },
+            {
+              "name": "Environment & Ecology",
+              "high": true
+            },
+            {
+              "name": "Science & Tech",
+              "high": false
+            },
+            {
+              "name": "Current Affairs",
+              "high": true
+            },
+            {
+              "name": "Art & Culture",
+              "high": false
+            }
+          ]
         },
         {
           "name": "Paper 2: CSAT - Aptitude (2 hours, qualifying - 33% needed)",
           "questions": 80,
-          "marks": 200
+          "marks": 200,
+          "topics": [
+            {
+              "name": "Comprehension",
+              "high": true
+            },
+            {
+              "name": "Logical Reasoning",
+              "high": true
+            },
+            {
+              "name": "Basic Numeracy",
+              "high": false
+            },
+            {
+              "name": "Data Interpretation",
+              "high": false
+            }
+          ]
         }
       ],
       "total_questions": 180,
@@ -129,22 +181,90 @@
         {
           "name": "Paper 2: GS-I History, Geography, Society (250 marks)",
           "questions": 20,
-          "marks": 250
+          "marks": 250,
+          "topics": [
+            {
+              "name": "Indian Heritage",
+              "high": true
+            },
+            {
+              "name": "Modern History",
+              "high": true
+            },
+            {
+              "name": "World Geography",
+              "high": false
+            },
+            {
+              "name": "Society",
+              "high": false
+            }
+          ]
         },
         {
           "name": "Paper 3: GS-II Governance, Polity, IR (250 marks)",
           "questions": 20,
-          "marks": 250
+          "marks": 250,
+          "topics": [
+            {
+              "name": "Constitution",
+              "high": true
+            },
+            {
+              "name": "Governance",
+              "high": true
+            },
+            {
+              "name": "Polity",
+              "high": false
+            },
+            {
+              "name": "Intl Relations",
+              "high": false
+            }
+          ]
         },
         {
           "name": "Paper 4: GS-III Economy, Science, Environment (250 marks)",
           "questions": 20,
-          "marks": 250
+          "marks": 250,
+          "topics": [
+            {
+              "name": "Indian Economy",
+              "high": true
+            },
+            {
+              "name": "Agriculture",
+              "high": false
+            },
+            {
+              "name": "Science & Tech",
+              "high": true
+            },
+            {
+              "name": "Environment, Security",
+              "high": false
+            }
+          ]
         },
         {
           "name": "Paper 5: GS-IV Ethics, Integrity, Aptitude (250 marks)",
           "questions": 14,
-          "marks": 250
+          "marks": 250,
+          "topics": [
+            {
+              "name": "Ethics & Integrity",
+              "high": true
+            },
+            {
+              "name": "Aptitude",
+              "high": false
+            },
+            {
+              "name": "Case Studies",
+              "high": true
+            }
+          ]
         },
         {
           "name": "Paper 6 & 7: Optional Subject (2 papers, 250 each)",
@@ -197,8 +317,8 @@
       "type": "text",
       "content": [
         "Paper 1 - General Studies (200 marks, 100 questions):",
-        "Current events of national and international importance. History of India and <a href=\"https://en.wikipedia.org/wiki/Indian_independence_movement\" target=\"_blank\">Indian National Movement</a>.",
-        "Indian and World Geography - physical, social, economic geography of India and the World. <a href=\"https://en.wikipedia.org/wiki/Constitution_of_India\" target=\"_blank\">Indian Polity and Governance</a> - Constitution, political system, Panchayati Raj, public policy, rights issues.",
+        "Current events of national and international importance. History of India and Indian National Movement.",
+        "Indian and World Geography - physical, social, economic geography of India and the World. Indian Polity and Governance - Constitution, political system, Panchayati Raj, public policy, rights issues.",
         "Economic and Social Development - sustainable development, poverty, inclusion, demographics, social sector initiatives.",
         "General issues on Environmental Ecology, Bio-diversity, and Climate Change. General Science.",
         "Paper 2 - CSAT (200 marks, 80 questions, qualifying - need 33%):",
@@ -211,10 +331,36 @@
       ]
     },
     {
-      "heading": "",
-      "type": "svg_block",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">UPSC CSE India's toughest exam, 3-stage </text><rect x=\"50\" y=\"50\" width=\"190\" height=\"75\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"145\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#145236\">Prelims (June)</text><text x=\"145\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">GS + CSAT Screening</text><rect x=\"260\" y=\"50\" width=\"190\" height=\"75\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"355\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1E40AF\">Mains (Sep)</text><text x=\"355\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">9 papers 1750 marks</text><rect x=\"470\" y=\"50\" width=\"190\" height=\"75\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"565\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#C2410C\">Interview (Apr)</text><text x=\"565\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#C2410C\">275 marks Personalit</text></svg>",
-      "caption": "UPSC CSE recruits for IAS, IPS, IFS, and 24 allied all-India and central services. 10 lakh applicants, 1,000 selected. The exam that shapes India's governance."
+      "type": "process_flow",
+      "heading": "UPSC CSE Selection Process",
+      "steps": [
+        {
+          "icon": "📝",
+          "title": "Prelims",
+          "desc": "Two objective papers in one day. GS Paper 1 counts, CSAT is qualifying."
+        },
+        {
+          "icon": "✍️",
+          "title": "Mains",
+          "desc": "Nine descriptive papers over five days, including your optional subject."
+        },
+        {
+          "icon": "🎙️",
+          "title": "Personality Test",
+          "desc": "The interview, worth 275 marks, assesses suitability for service."
+        },
+        {
+          "icon": "🏛️",
+          "title": "Service Allotment",
+          "desc": "Final rank, category and preference decide your service, IAS to IRS and beyond."
+        }
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "info",
+      "title": "📣 UPSC CSE 2026: Where the Cycle Stands",
+      "content": "The 2026 Prelims was held on 24 May and the result came out on 15 June, with 13,343 candidates shortlisted for Mains. The Mains begins on 21 August 2026 and runs for five days.<br><br>Vacancies were revised from 933 to about 1,016. A new rule this cycle bars serving IAS and IFS officers from reappearing unless they resign, and serving IPS officers cannot opt for IPS again."
     },
     {
       "heading": "Optional Subject Selection Guide",
@@ -265,13 +411,13 @@
       "type": "text",
       "content": [
         "The Optional Subject (Mains Paper 6 & 7, total 500 marks) is crucial - it can make or break your rank. Here's how to choose:",
-        "Popular optional subjects with high scoring potential: <a href=\"https://en.wikipedia.org/wiki/Sociology\" target=\"_blank\">Sociology</a>, <a href=\"https://en.wikipedia.org/wiki/Geography\" target=\"_blank\">Geography</a>, Public Administration, <a href=\"https://en.wikipedia.org/wiki/Political_science\" target=\"_blank\">Political Science</a>, Anthropology, History, Philosophy, and Psychology.",
+        "Popular optional subjects with high scoring potential: Sociology, Geography, Public Administration, Political Science, Anthropology, History, Philosophy, and Psychology.",
         "These are popular because they overlap with GS papers and have manageable syllabus sizes.",
         "Engineering/Science backgrounds: Many engineers choose Mathematics, Medical Science, or their engineering subject as optional. These can be high-scoring but also high-risk - one bad paper can cost 50-60 marks.",
         "Literature optionals: Available in 25+ Indian languages and English. Good for candidates strong in their mother tongue.",
         "Less competition but scoring depends heavily on the examiner's preferences.",
-        "Key decision factors: (1) Interest in the subject - you'll spend 4-6 months studying it deeply, (2) Overlap with GS papers - <a href=\"https://en.wikipedia.org/wiki/Sociology\" target=\"_blank\">Sociology</a>, Geography, and Polity overlap well, (3) Availability of study material and coaching, (4) Scoring trends - check previous year toppers' optionals and average scores, (5) Syllabus size - smaller syllabuses like Anthropology and Sociology are easier to complete.",
-        "Most recommended for first-time aspirants: <a href=\"https://en.wikipedia.org/wiki/Sociology\" target=\"_blank\">Sociology</a> or Geography - manageable syllabus, good overlap with GS, abundant study material, and consistent scoring history."
+        "Key decision factors: (1) Interest in the subject - you'll spend 4-6 months studying it deeply, (2) Overlap with GS papers - Sociology, Geography, and Polity overlap well, (3) Availability of study material and coaching, (4) Scoring trends - check previous year toppers' optionals and average scores, (5) Syllabus size - smaller syllabuses like Anthropology and Sociology are easier to complete.",
+        "Most recommended for first-time aspirants: Sociology or Geography - manageable syllabus, good overlap with GS, abundant study material, and consistent scoring history."
       ]
     },
     {
@@ -282,7 +428,7 @@
         "The Interview carries 275 marks and is conducted at UPSC Bhawan, New Delhi. The board consists of a Chairman and 4-5 members.",
         "Interview lasts 25-35 minutes.",
         "What they test: Not academic knowledge (that's already tested in Mains). The interview assesses: mental alertness, critical powers of assimilation, clear and logical exposition, balance of judgment, variety and depth of interest, social cohesion, leadership, and intellectual and moral integrity.",
-        "Common topics: Your educational background and work experience, your home <a href=\"/compare/upsc-vs-state-psc\" style=\"text-decoration:underline;color:inherit\">state</a> (geography, culture, issues), current affairs (national and international), your DAF (Detailed Application Form) - every detail you filled in your form can be a question, ethical dilemmas and hypothetical administrative scenarios.",
+        "Common topics: Your educational background and work experience, your home state (geography, culture, issues), current affairs (national and international), your DAF (Detailed Application Form) - every detail you filled in your form can be a question, ethical dilemmas and hypothetical administrative scenarios.",
         "How to prepare: Read about your state comprehensively. Be ready to discuss every word in your DAF - hobbies, graduation subject, work experience.",
         "Practice mock interviews with seniors or coaching institutes. Be honest - if you don't know something, say so clearly.",
         "The board values honesty over bluffing.",
@@ -295,18 +441,41 @@
       "heading": "What is UPSC CSE and why it's India's most prestigious exam",
       "icon": "🏛️",
       "content": [
-        "UPSC CSE (Union Public Service Commission Civil <a href=\"/exam/upsc-nda-na\" style=\"text-decoration:underline;color:inherit\">Services</a> Examination) is India's premier recruitment exam for the highest echelons of government service - IAS (Indian Administrative Service), IPS (Indian Police Service), IFS (Indian Foreign Service), and 24 other Group A and B services. Approximately 10 lakh candidates register annually for roughly 1,000 posts - a selection rate of 0.1%.",
+        "UPSC CSE (Union Public Service Commission Civil Services Examination) is India's premier recruitment exam for the highest echelons of government service - IAS (Indian Administrative Service), IPS (Indian Police Service), IFS (Indian Foreign Service), and 24 other Group A and B services. Approximately 10 lakh candidates register annually for roughly 1,000 posts - a selection rate of 0.1%.",
         "The exam is unique because it tests everything: general knowledge across humanities and sciences, analytical writing across 9 descriptive papers, an Optional subject of your choice (testing depth), and a personality test that evaluates your character, leadership, and communication. No other exam in the world tests this breadth of knowledge and personality in one selection process.",
         "An IAS officer at age 25 can become the District Magistrate - the most powerful government official in a district with millions of people. By 40, they can be a Joint Secretary in the central government shaping national policy.",
-        "By 55, Cabinet Secretary - the highest <a href=\"/exam/bpsc\" style=\"text-decoration:underline;color:inherit\">civil</a> servant in India. No other career path offers this trajectory of power and impact."
+        "By 55, Cabinet Secretary - the highest civil servant in India. No other career path offers this trajectory of power and impact."
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "Visual: Key Numbers",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">24 May 2026</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Prelims</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">21 Aug 2026</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Mains</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">~1,000</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Vacancies</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">₹56K–2.5L/mo</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Salary</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
-      "caption": "Key facts",
-      "description": "Quick overview."
+      "type": "stat_grid",
+      "heading": "UPSC CSE 2026 Key Numbers",
+      "items": [
+        {
+          "icon": "🪑",
+          "value": "~1,016",
+          "label": "Vacancies (revised from 933)",
+          "color": "green"
+        },
+        {
+          "icon": "🎂",
+          "value": "21-32",
+          "label": "Age as on 1 Aug 2026",
+          "color": "blue"
+        },
+        {
+          "icon": "🔁",
+          "value": "6 / 9 / ∞",
+          "label": "Attempts: Gen / OBC / SC-ST",
+          "color": "amber"
+        },
+        {
+          "icon": "🪜",
+          "value": "3 Stages",
+          "label": "Prelims, Mains, Interview",
+          "color": "red"
+        }
+      ]
     },
     {
       "type": "text",
@@ -322,25 +491,55 @@
         "Tests personality, intellectual curiosity, clarity of thought, leadership potential, and moral integrity. Questions range from your hobbies and hometown to international relations and ethical dilemmas.",
         "The board assesses whether you have the temperament and mindset to govern.",
         "Final merit: Mains (1,750) + Interview (275) = 2,025 marks total. Prelims marks don't count for final ranking - Prelims is purely a screening stage.",
-        "The final merit list determines your service allocation: top rankers get IAS, followed by IFS, IPS, and then other <a href=\"/exam/hpsc\" style=\"text-decoration:underline;color:inherit\">services</a> based on rank and preference."
+        "The final merit list determines your service allocation: top rankers get IAS, followed by IFS, IPS, and then other services based on rank and preference."
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "UPSC Civil Services 2026 Facts",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">UPSC Civil Services</text><rect x=\"17\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"94\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">24 May 2026</text><text x=\"94\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Prelims</text><rect x=\"187\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"264\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">21 Aug 2026</text><text x=\"264\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Mains</text><rect x=\"357\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"434\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#92400E\">~1,000</text><text x=\"434\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Vacancies</text><rect x=\"527\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"604\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">₹56K–2.5L/mo</text><text x=\"604\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Salary</text></svg>",
-      "caption": "Quick reference facts",
-      "description": "Key facts and numbers at a glance"
+      "type": "stat_grid",
+      "heading": "UPSC CSE 2026: Where the Cycle Stands",
+      "items": [
+        {
+          "icon": "✅",
+          "value": "24 May",
+          "label": "Prelims held (2026)",
+          "color": "green"
+        },
+        {
+          "icon": "📄",
+          "value": "15 Jun",
+          "label": "Prelims result out",
+          "color": "blue"
+        },
+        {
+          "icon": "👥",
+          "value": "13,343",
+          "label": "Shortlisted for Mains",
+          "color": "amber"
+        },
+        {
+          "icon": "🗓️",
+          "value": "21 Aug",
+          "label": "Mains begins (5 days)",
+          "color": "red"
+        }
+      ]
     },
     {
       "type": "text",
-      "heading": "Preparation strategy - the 12-18 month roadmap",
-      "icon": "📅",
+      "heading": "Preparation roadmap - Foundation and Advanced (Month 1-8)",
+      "icon": "📚",
       "content": [
         "Phase 1 - Foundation (Month 1-4): Read NCERTs Class 6-12 for all subjects (History, Geography, Polity, Economy, Science). This builds the conceptual base.",
         "Simultaneously, start a newspaper habit - read The Hindu or Indian Express daily and note 5 important news items. Choose your Optional subject carefully - it carries 500 marks (25% of Mains merit).",
         "Phase 2 - Advanced reading (Month 5-8): Complete standard books - Spectrum Modern India, Laxmikanth Indian Polity, Shankar IAS Environment, Ramesh Singh Indian Economy. Begin Optional subject preparation with standard textbooks.",
-        "Start writing practice - 1 GS answer daily. Build a current affairs compilation - monthly magazine or self-made notes.",
+        "Start writing practice - 1 GS answer daily. Build a current affairs compilation - monthly magazine or self-made notes."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Preparation roadmap - Prelims, Mains and Interview (Month 9-18)",
+      "icon": "🎯",
+      "content": [
         "Phase 3 - Prelims preparation (Month 9-11): Take 2 Prelims mock tests per week. Solve 10 years of UPSC Prelims previous papers.",
         "Focus on elimination technique - Prelims rewards educated guessing when you can rule out 2 options. Revise entire GS syllabus through MCQ practice.",
         "This phase is intense - 8-10 hours of daily focused study.",
@@ -357,7 +556,7 @@
       "icon": "📖",
       "content": [
         "Popular Optionals with high overlap with GS: History (60% overlap with GS Indian Heritage), Geography (50% overlap with GS), Political Science (40% overlap with GS Governance), Public Administration (40% overlap), Sociology (moderate overlap with social issues). These Optionals save preparation time because you study once and score in multiple papers.",
-        "Technical Optionals with high scoring: Mathematics (toppers score 320+ but requires strong math background), Anthropology (compact syllabus, good scoring, 280-310 typical), Medical Science (only for MBBS graduates, 280-300), Engineering subjects (<a href=\"/exam/jpsc\" style=\"text-decoration:underline;color:inherit\">Civil</a>, Mechanical, Electrical - 260-300 for engineering graduates).",
+        "Technical Optionals with high scoring: Mathematics (toppers score 320+ but requires strong math background), Anthropology (compact syllabus, good scoring, 280-310 typical), Medical Science (only for MBBS graduates, 280-300), Engineering subjects (Civil, Mechanical, Electrical - 260-300 for engineering graduates).",
         "How to choose: Interest > scoring potential > overlap with GS. An Optional you enjoy studying sustains you through 6-8 months of deep preparation.",
         "An Optional chosen purely for scoring potential leads to burnout and abandonment. Ask yourself: would I read this subject's books voluntarily?",
         "If yes, that's your Optional.",
@@ -382,6 +581,27 @@
       ]
     },
     {
+      "type": "comparison_card",
+      "heading": "IAS vs IPS vs IFS - At a Glance",
+      "win": {
+        "name": "IAS",
+        "amount": "Top preference",
+        "sub": "District collector, then policy and Cabinet roles. Widest administrative power."
+      },
+      "others": [
+        {
+          "name": "IPS",
+          "amount": "2nd",
+          "sub": "Heads district police, then state and central security leadership."
+        },
+        {
+          "name": "IFS",
+          "amount": "3rd",
+          "sub": "Diplomat in embassies abroad, represents India globally."
+        }
+      ]
+    },
+    {
       "type": "text",
       "heading": "Books, resources, and coaching",
       "icon": "📚",
@@ -396,22 +616,75 @@
       ]
     },
     {
-      "type": "callout",
-      "variant": "info",
-      "heading": "UPSC CSE 2026 schedule",
-      "content": "Notification: February 2026 at upsc.gov.in. Prelims: June 2026 (usually last Sunday of May/first Sunday of June).<br><br>Mains: September 2026. Interview: March-April 2027.<br><br>Results: May 2027. Registration fee: Rs 100 (exempted for women, SC/ST, PwD).<br><br>Age limit: 21-32 (General), 21-35 (OBC), 21-37 (SC/ST). Attempts: 6 (General), 9 (OBC), unlimited (SC/ST)."
+      "type": "timeline",
+      "heading": "UPSC CSE 2026 Schedule",
+      "items": [
+        {
+          "date": "4 FEB 2026",
+          "event": "Notification",
+          "desc": "Released at upsc.gov.in. Applications open 4-24 February."
+        },
+        {
+          "date": "24 MAY 2026",
+          "event": "Prelims (Held)",
+          "desc": "GS Paper 1 and CSAT, conducted in one day."
+        },
+        {
+          "date": "15 JUN 2026",
+          "event": "Prelims Result",
+          "desc": "13,343 candidates shortlisted for Mains."
+        },
+        {
+          "date": "21 AUG 2026",
+          "event": "Mains",
+          "desc": "Nine descriptive papers over five days."
+        },
+        {
+          "date": "EARLY 2027",
+          "event": "Personality Test",
+          "desc": "Interview at UPSC, Dholpur House, New Delhi."
+        },
+        {
+          "date": "APR-MAY 2027",
+          "event": "Final Result",
+          "desc": "Merit list and service allotment."
+        }
+      ]
     },
     {
-      "type": "svg_block",
-      "heading": "Visual: Exam Pattern",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Exam Pattern</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">200</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Paper 1: General Stu</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">100 Qs</text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">200</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Paper 2: CSAT - Apti</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">80 Qs</text></svg>",
-      "caption": "Paper structure",
-      "description": "Subject-wise marks."
+      "type": "stat_grid",
+      "heading": "UPSC CSE Marks Structure",
+      "items": [
+        {
+          "icon": "📝",
+          "value": "400",
+          "label": "Prelims (GS + CSAT, screening)",
+          "color": "blue"
+        },
+        {
+          "icon": "✍️",
+          "value": "1,750",
+          "label": "Mains merit (7 papers)",
+          "color": "green"
+        },
+        {
+          "icon": "🎙️",
+          "value": "275",
+          "label": "Personality Test",
+          "color": "amber"
+        },
+        {
+          "icon": "🏆",
+          "value": "2,025",
+          "label": "Final merit total",
+          "color": "red"
+        }
+      ]
     },
     {
-      "type": "callout",
+      "type": "modern_callout",
       "variant": "tip",
-      "heading": "Start with NCERTs - they're 30-40% of your Prelims score",
+      "title": "📘 Start with NCERTs - 30-40% of your Prelims score",
       "content": "Every UPSC topper says the same thing: NCERTs first. Class 6-12 History, Geography, Polity, Economy, Science, and Environment NCERTs are the PRIMARY source for Prelims questions.<br><br>Read them cover to cover - including boxed text, diagrams, and chapter summaries. Most candidates skip NCERTs and jump to advanced books - losing 30-40% of easy Prelims marks.<br><br>Download free at ncert.nic.in."
     },
     {
@@ -467,12 +740,36 @@
       ]
     },
     {
-      "type": "svg_block",
-      "heading": "UPSC CSE Services Hierarchy",
+      "type": "icon_list",
+      "heading": "UPSC CSE Services",
       "icon": "🏛️",
-      "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">UPSC CSE Top Services by Rank</text><rect x=\"20\" y=\"50\" width=\"155\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#1B6B4A\">IAS Rank 1-100</text><rect x=\"185\" y=\"50\" width=\"155\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"262\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#1E40AF\">IPS Rank 100-250</text><rect x=\"350\" y=\"50\" width=\"155\" height=\"35\" rx=\"8\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"427\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#92400E\">IFS IRS 250-500</text><rect x=\"515\" y=\"50\" width=\"160\" height=\"35\" rx=\"8\" fill=\"#F3E8FF\" stroke=\"#7C3AED\" stroke-width=\"2\"/><text x=\"595\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#5B21B6\">Allied services 500+</text></svg>",
-      "caption": "Your UPSC rank determines your service allocation from IAS to Group A services",
-      "description": "Even rank 800+ gets a central government Group A service which is prestigious."
+      "items": [
+        {
+          "icon": "🏛️",
+          "title": "IAS",
+          "sub": "Indian Administrative Service, district and policy administration"
+        },
+        {
+          "icon": "👮",
+          "title": "IPS",
+          "sub": "Indian Police Service, law and order and internal security"
+        },
+        {
+          "icon": "🌐",
+          "title": "IFS",
+          "sub": "Indian Foreign Service, diplomacy and embassies abroad"
+        },
+        {
+          "icon": "💰",
+          "title": "IRS",
+          "sub": "Indian Revenue Service, income tax and customs"
+        },
+        {
+          "icon": "📊",
+          "title": "IAAS and others",
+          "sub": "Audit, accounts, railways, postal and 20+ more Group A and B services"
+        }
+      ]
     }
   ],
   "important_dates": [
@@ -503,13 +800,13 @@
     }
   ],
   "preparation_tips": [
-    "Start with <a href=\"https://ncert.nic.in\" target=\"_blank\">NCERT textbooks</a> Class 6-12 for History, Geography, Science, Economics, and Polity. This is non-negotiable - NCERTs form the foundation for both Prelims and Mains. Spend the first 2-3 months just reading NCERTs.",
-    "Read '<a href=\"https://www.amazon.in/Indian-Polity-Laxmikanth/dp/9389179544\" target=\"_blank\">Indian Polity</a>' by M. Laxmikanth cover-to-cover. This single book covers 60-70% of the Polity questions in Prelims and is essential for GS Paper 2 in Mains.",
-    "Subscribe to one newspaper (<a href=\"https://www.thehindu.com\" target=\"_blank\">The Hindu</a> or <a href=\"https://indianexpress.com\" target=\"_blank\">Indian Express</a>) and read it daily - focus on editorials, economy news, and international relations. Make short notes of important events. Current affairs is the highest-scoring area in Prelims.",
+    "Start with NCERT textbooks Class 6-12 for History, Geography, Science, Economics, and Polity. This is non-negotiable - NCERTs form the foundation for both Prelims and Mains. Spend the first 2-3 months just reading NCERTs.",
+    "Read 'Indian Polity' by M. Laxmikanth cover-to-cover. This single book covers 60-70% of the Polity questions in Prelims and is essential for GS Paper 2 in Mains.",
+    "Subscribe to one newspaper (The Hindu or Indian Express) and read it daily - focus on editorials, economy news, and international relations. Make short notes of important events. Current affairs is the highest-scoring area in Prelims.",
     "Choose your optional subject early (within first 2 months) and start studying it alongside GS. Don't keep changing optionals - consistency matters more than the 'perfect' choice.",
     "Answer writing practice is THE most important Mains preparation activity. From month 4 onwards, write at least 2-3 answers daily in a time-bound manner. Get them evaluated by a mentor, coaching institute, or peer group. Many toppers attribute their success to consistent answer writing practice.",
     "Join a test series for both Prelims and Mains. For Prelims, take at minimum 30-40 full-length tests. Analyze every test thoroughly - understanding why you got wrong answers is more valuable than the test itself.",
-    "Don't underestimate the Ethics paper (GS-IV, 250 marks). It's the easiest GS paper to score well in if you practice case studies. Read '<a href=\"https://www.amazon.in/Ethics-Integrity-Aptitude-UPSC-Civil/dp/9389179667\" target=\"_blank\">Ethics, Integrity, and Aptitude</a>' by Lexicon and practice 2-3 case studies daily from month 6 onwards.",
+    "Don't underestimate the Ethics paper (GS-IV, 250 marks). It's the easiest GS paper to score well in if you practice case studies. Read 'Ethics, Integrity, and Aptitude' by Lexicon and practice 2-3 case studies daily from month 6 onwards.",
     "Stay consistent rather than studying in bursts. 6-8 hours of focused daily study for 12-18 months is the typical preparation timeline for a working professional or fresh graduate. Full-time aspirants may prepare in 10-12 months."
   ],
   "faqs": [
@@ -523,7 +820,7 @@
     },
     {
       "question": "Can I crack UPSC without coaching?",
-      "answer": "Yes. Many toppers including AIR 1 holders have prepared without formal coaching.<br><br>With <a href=\"https://ncert.nic.in\" target=\"_blank\">NCERT books</a>, standard references, free YouTube lectures (Mrunal, ForumIAS, Unacademy free content), and a good test series, self-preparation is viable. However, coaching can provide structure, peer group, and answer evaluation - especially valuable for working professionals with limited time."
+      "answer": "Yes. Many toppers including AIR 1 holders have prepared without formal coaching.<br><br>With NCERT books, standard references, free YouTube lectures (Mrunal, ForumIAS, Unacademy free content), and a good test series, self-preparation is viable. However, coaching can provide structure, peer group, and answer evaluation - especially valuable for working professionals with limited time."
     },
     {
       "question": "What is the UPSC CSE salary?",
@@ -556,6 +853,18 @@
     {
       "question": "Is coaching necessary for UPSC?",
       "answer": "Not necessary - but helpful. Self-study toppers exist every year.<br><br>However, coaching provides: structured schedule, curated notes, test series with evaluation, peer group motivation, and mentor guidance. If you're disciplined, self-study + online test series (Rs 5,000-15,000) is sufficient.<br><br>If you need structure and accountability, classroom or online coaching (Rs 30,000-2,00,000) helps. The test series alone (mock exams with evaluation) is the single most valuable paid resource."
+    },
+    {
+      "question": "What is the full form of UPSC CSE?",
+      "answer": "UPSC CSE stands for Union Public Service Commission, Civil Services Examination. It recruits officers for the IAS, IPS, IFS and 20-plus other central services through Prelims, Mains and an interview."
+    },
+    {
+      "question": "When is the UPSC CSE 2026 Mains exam?",
+      "answer": "The UPSC CSE 2026 Mains begins on 21 August 2026 and runs for five days. The Prelims result came out on 15 June 2026, shortlisting 13,343 candidates for Mains."
+    },
+    {
+      "question": "Can serving IAS or IPS officers reappear in UPSC CSE 2026?",
+      "answer": "From 2026, serving IAS and IFS officers cannot reappear unless they resign. Serving IPS officers cannot opt for IPS again, though normal attempt limits stay the same for fresh aspirants."
     }
   ],
   "official_portal": {
@@ -780,7 +1089,7 @@
   "quick_facts": [
     {
       "label": "Prelims",
-      "value": "24 May 2026"
+      "value": "24 May 2026 (Done)"
     },
     {
       "label": "Mains",
@@ -788,14 +1097,14 @@
     },
     {
       "label": "Vacancies",
-      "value": "933"
+      "value": "~1,016 (revised)"
     },
     {
       "label": "Salary",
       "value": "Rs 56K-2.5L/mo"
     }
   ],
-  "status": "upcoming",
+  "status": "live",
   "eligibility_data": {
     "reference_date": "As per notification",
     "default_education": "Bachelor's degree from any recognised university",
