@@ -67,6 +67,11 @@ const nextConfig: NextConfig = {
         destination: '/guide/age-relaxation',
         permanent: true,
       },
+      {
+        source: '/exam/upsc-nda-na',
+        destination: '/exam/cds',
+        permanent: true,
+      },
     ];
   },
 };
