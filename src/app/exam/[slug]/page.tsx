@@ -160,8 +160,12 @@ export default async function ExamDetailPage({ params }: Props) {
                       )}
                     </div>
                   ))}
-                  <div className="flex justify-between pt-4 text-lg font-semibold text-accent"><span>Total</span><span>{tier.total_questions} Qs · {tier.total_marks} marks · {tier.duration}</span></div>
-                  <div className="text-sm text-[#991B1B] mt-3">⚠️ {tier.negative_marking}</div>
+                  {(tier.total_marks || tier.total_questions) && (
+                    <div className="flex justify-between pt-4 text-lg font-semibold text-accent"><span>Total</span><span>{tier.total_questions} Qs · {tier.total_marks} marks{tier.duration ? ` · ${tier.duration}` : ""}</span></div>
+                  )}
+                  {tier.negative_marking && (
+                    <div className="text-sm text-[#991B1B] mt-3">⚠️ {tier.negative_marking}</div>
+                  )}
                 </Card>
               </div>
             ))}
