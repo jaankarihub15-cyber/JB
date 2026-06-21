@@ -1,5 +1,6 @@
 import { AuthorBox } from "@/components/author-box";
 import { ResizerCTA } from "@/components/resizer-cta";
+import { FormKitCTA } from "@/components/form-kit-cta";
 import { Fragment } from "react";
 import { SchemeBlock } from "@/components/scheme-blocks";
 import { SaveForLater } from "@/components/save-for-later";
@@ -259,6 +260,9 @@ export default async function ExamDetailPage({ params }: Props) {
               <SectionHeading icon="❓">Frequently Asked Questions</SectionHeading>
             </div>
             <Card>{(e.faqs || []).map((f: any) => (<FAQ key={f.question} question={f.question} answer={f.answer} />))}</Card>
+
+            {/* FORM KIT BANNER */}
+            <FormKitCTA slug={slug} />
 
             {/* OFFICIAL PORTAL */}
             {e.official_portal?.url && e.official_portal.url !== "#" && (

@@ -201,6 +201,12 @@ export function FormKit() {
   useEffect(() => {
     setMounted(true);
     try {
+      const q = new URLSearchParams(window.location.search).get("exam");
+      if (q === "general" || q === "ssc-cgl") setExam(q);
+    } catch {
+      /* ignore */
+    }
+    try {
       const d = localStorage.getItem(DATA_KEY);
       if (d) setData(JSON.parse(d));
       const c = localStorage.getItem(CHECK_KEY);
