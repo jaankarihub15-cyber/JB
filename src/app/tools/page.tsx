@@ -12,6 +12,13 @@ export const metadata: Metadata = {
 
 const tools = [
   {
+    href: "/tools/form-kit",
+    icon: "🗂️",
+    title: "Sarkari Form Kit",
+    desc: "Save your exam details once, see exactly what the SSC CGL form needs, and fill it without panic. Stays on your device, never uploaded.",
+    tag: "Forms",
+  },
+  {
     href: "/tools/photo-resizer",
     icon: "🖼️",
     title: "Photo & Signature Resizer",
