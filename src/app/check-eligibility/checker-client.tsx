@@ -36,6 +36,7 @@ const STATES = [
   { v: "uttar-pradesh", l: "Uttar Pradesh" },
   { v: "west-bengal", l: "West Bengal" },
   { v: "gujarat", l: "Gujarat" },
+  { v: "punjab", l: "Punjab" },
   { v: "other", l: "Other state / Not listed" },
 ];
 
@@ -207,6 +208,7 @@ export default function CheckerClient({ schemes }: { schemes: CheckerScheme[] })
     "uttar-pradesh": { bg: "#EEF1FB", text: "#3D55B8" },
     "west-bengal": { bg: "#EEF1FB", text: "#3D55B8" },
     "gujarat": { bg: "#FBF3E7", text: "#A8742E" },
+    "punjab": { bg: "#EAF6EE", text: "#2E7D46" },
     "central": { bg: "#FBF3E7", text: "#A8742E" },
   };
 
