@@ -44,8 +44,7 @@
   ],
   "what_is_it": [
     "Mukhyamantri Solar Pump Yojana (also called Kusum B in MP) is a Madhya Pradesh government scheme that subsidises solar irrigation pumps for farmers. The central and state governments together provide up to 90% of the pump cost, and the farmer pays only the remaining share plus a registration fee of Rs 5,000 at the time of application.",
-    "Mukhyamantri Solar Pump Yojana is officially categorised under the Kusum B component of the central PM Kusum scheme, which means funding comes from both the central government and the Madhya Pradesh state government. The combined subsidy can reach up to approximately 90% of the total pump cost for eligible farmers.",
-    "The scheme was launched on 17 February 2020 by the New and Renewable Energy Department of MP. It is implemented on the ground by Madhya Pradesh Urja Vikas Nigam Limited (MPUVNL), which manages applications, vendor selection, and installation coordination."
+    "Mukhyamantri Solar Pump Yojana is officially categorised under the Kusum B component of the central PM Kusum scheme, which means funding comes from both the central government and the Madhya Pradesh state government. The combined subsidy can reach up to approximately 90% of the total pump cost for eligible farmers."
   ],
   "eligibility": [
     {
@@ -139,6 +138,15 @@
   "schema_type": "GovernmentService",
   "extra_sections": [
     {
+      "type": "text",
+      "heading": "What Is CM Solar Pump Yojana MP",
+      "icon": "📖",
+      "content": [
+        "The scheme was launched on 17 February 2020 by the New and Renewable Energy Department of MP. It is implemented on the ground by Madhya Pradesh Urja Vikas Nigam Limited (MPUVNL), which manages applications, vendor selection, and installation coordination.",
+        "The primary target beneficiary is a farmer in MP who does not have a permanent electricity connection for agricultural irrigation on the relevant khasra (land plot). Without a working pump, such farmers typically rely on diesel generators or seasonal water sources, both of which are expensive and unreliable."
+      ]
+    },
+    {
       "type": "stat_grid",
       "heading": "CM Solar Pump Yojana Key Numbers",
       "icon": "📊",
@@ -170,11 +178,12 @@
       ]
     },
     {
-      "type": "modern_callout",
-      "variant": "info",
-      "icon": "info",
-      "title": "What Is CM Solar Pump Yojana MP",
-      "content": "Mukhyamantri Solar Pump Yojana (also called Kusum B in MP) is a Madhya Pradesh government scheme that subsidises solar irrigation pumps for farmers. The central and state governments together provide up to 90% of the pump cost.<br><br>The farmer pays only the remaining share plus a registration fee of Rs 5,000 at the time of application."
+      "type": "text",
+      "heading": "How the Subsidy and Kusum B Funding Work",
+      "icon": "💡",
+      "content": [
+        "Farmers who already have a permanent electricity connection on the relevant plot can also apply, but they must agree to surrender that connection before the solar pump is installed. The condition is explicitly stated in the scheme rules and is required because the government does not provide dual support for the same irrigation plot."
+      ]
     },
     {
       "type": "table",
@@ -232,6 +241,21 @@
       ]
     },
     {
+      "type": "number_highlight",
+      "big": "Up to 90%",
+      "title": "Government Subsidy on the Pump",
+      "desc": "The headline subsidy is up to about 90%, funded jointly by the centre and MP state.<br><br>In practice the exact share varies by pump type, so a 5 HP system can still mean a farmer contribution of around Rs 72,000. Always check your demand note for the precise amount."
+    },
+    {
+      "type": "text",
+      "heading": "What the Farmer Actually Pays",
+      "icon": "💰",
+      "content": [
+        "The solar pump capacity available under this scheme ranges from 1 HP to 7.5 HP, covering a wide range of land sizes and irrigation needs. Farmers with small plots and shallow borewells can opt for a 1 HP or 2 HP system, while those with larger fields and deeper borewells can apply for 5 HP or 7.5 HP pumps.",
+        "For pumps up to 5 HP, only DC (direct current) solar pumps are installed under this scheme as per the technical guidelines. Applications for 5 HP AC pumps are automatically converted to 5 HP DC pumps during processing, so applicants do not need to worry about this distinction."
+      ]
+    },
+    {
       "type": "table",
       "heading": "What the Farmer Actually Pays (by Pump Size)",
       "icon": "💰",
@@ -267,10 +291,20 @@
       ]
     },
     {
-      "type": "number_highlight",
-      "big": "Up to 90%",
-      "title": "Government Subsidy on the Pump",
-      "desc": "The headline subsidy is up to about 90%, funded jointly by the centre and MP state.<br><br>In practice the exact share varies by pump type, so a 5 HP system can still mean a farmer contribution of around Rs 72,000. Always check your demand note for the precise amount."
+      "type": "modern_callout",
+      "variant": "info",
+      "icon": "info",
+      "title": "Why MP Pushes Solar Pumps Over Diesel",
+      "content": "Farmers in areas with weak grid infrastructure run diesel pumps for irrigation, which are costly to fuel and polluting. A solar pump removes that recurring cost entirely.<br><br>The scheme targets exactly these off-grid plots first, where the government would otherwise have to set up temporary electricity connections. Replacing them with solar cuts both farmer cost and state power burden."
+    },
+    {
+      "type": "text",
+      "heading": "Who Can Apply and Who Gets Priority",
+      "icon": "✅",
+      "content": [
+        "The scheme targets farmers who own or cultivate their own agricultural land with their name in the khasra record. Tenant farmers or sharecroppers whose names are not in the land record may face challenges establishing eligibility and should consult the local Anganwadi or revenue officer.",
+        "The scheme is available to farmers across all districts of Madhya Pradesh, covering both rural villages and semi-urban agricultural areas. There is no separate quota for specific districts, and applications are processed in a state-wide priority queue based on when the complete application and fee are received."
+      ]
     },
     {
       "type": "eligibility_check",
@@ -288,6 +322,22 @@
         "No agricultural land or Kisan Card",
         "Unwilling to surrender an existing electricity connection on the plot",
         "Seeking dual support (electricity plus solar) for the same plot"
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "warning",
+      "icon": "alert",
+      "title": "The Electricity Connection Condition",
+      "content": "Priority goes to farmers in areas where power companies have not set up grid infrastructure, so the plot has no permanent electricity connection for irrigation.<br><br>If you already have a permanent connection on that khasra, you must agree to surrender it before installation. The government does not give dual support, both grid electricity and a subsidised solar pump, for the same plot."
+    },
+    {
+      "type": "text",
+      "heading": "The Registration and Selection Process",
+      "icon": "📝",
+      "content": [
+        "Once a farmer is selected from the priority list, MPUVNL sends a demand note for the balance amount (the farmer's contribution after the subsidy is deducted). This balance must be paid within 20 days to Madhya Pradesh Urja Vikas Nigam Limited via NEFT, RTGS, cheque, or demand draft.",
+        "MPUVNL manages a priority list of approved applicants and releases pump installations in batches as central and state budget funds become available. Farmers whose applications are complete and fee-paid but who are waiting for assignment should not withdraw their application as they remain in the queue."
       ]
     },
     {
@@ -313,6 +363,46 @@
           "icon": "check",
           "title": "Installation in ~120 days",
           "desc": "After full payment, MPUVNL installs the pump within about 120 days."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Payment, Demand Note, and Deadlines",
+      "icon": "⏳",
+      "content": [
+        "The Rs 5,000 registration fee paid at the time of application is fully refundable if the site is found to be unsuitable after inspection. If the farmer is not selected due to budget constraints or queue position, the registration fee is also returned without interest.",
+        "If a selected farmer cannot pay the balance amount within the 20-day window due to a documented emergency, they should contact the MPUVNL district office immediately. The department may consider an extension in genuine hardship cases rather than cancelling the allocation."
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "Documents Required for CM Solar Pump Yojana",
+      "items": [
+        {
+          "icon": "file",
+          "title": "Samagra ID",
+          "sub": "Your Samagra family ID, used to pull verified family and residence details into the application."
+        },
+        {
+          "icon": "wallet",
+          "title": "Aadhaar-linked bank account",
+          "sub": "Bank account details linked to Aadhaar, since the subsidy and any refund move through DBT."
+        },
+        {
+          "icon": "file",
+          "title": "Khasra (land record)",
+          "sub": "The land record for the irrigation site, used to confirm no permanent electricity connection exists on that plot."
+        },
+        {
+          "icon": "users",
+          "title": "Caste declaration",
+          "sub": "A caste declaration as required by the application form."
+        },
+        {
+          "icon": "shield",
+          "title": "Pump specification",
+          "sub": "The technical specification of the pump capacity you need, from 1 HP up to 7.5 HP."
         }
       ]
     },
@@ -343,8 +433,129 @@
       ]
     },
     {
-      "type": "pullquote",
-      "text": "A solar pump under this scheme replaces years of diesel and electricity costs with a one-time subsidised investment. After the government covers up to 90% of the pump price, the farmer's remaining share is a small fraction of what the same capacity diesel pump would cost to run in a single season."
+      "type": "text",
+      "heading": "After Installation: Ownership and Insurance",
+      "icon": "🛠️",
+      "content": [
+        "The solar pump system, once installed and verified as working, is handed over entirely to the farmer. Responsibility for the security and routine maintenance of the pump, including cleaning the solar panels and protecting the equipment from theft, rests with the farmer after handover.",
+        "Insurance cover is included for the installed solar pump system. If the pump is damaged or stolen after installation, the farmer must file an FIR at the local police station within three days and notify both the installation vendor and the MPUVNL district office immediately so that an insurance claim can be processed."
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "After the Solar Pump Is Installed",
+      "items": [
+        {
+          "icon": "check",
+          "title": "No electricity or diesel bills",
+          "sub": "The pump runs on sunlight, so there are no monthly electricity charges and no diesel cost for irrigation."
+        },
+        {
+          "icon": "trophy",
+          "title": "Long working life",
+          "sub": "Solar pumps typically last 20 to 25 years with minimal upkeep, making the one-time subsidised cost a long-term investment."
+        },
+        {
+          "icon": "wallet",
+          "title": "Sell surplus power",
+          "sub": "Where net metering applies, surplus electricity can be sold to the local DISCOM, creating a small extra income stream. This varies by local policy."
+        },
+        {
+          "icon": "shield",
+          "title": "Basic maintenance",
+          "sub": "Clean the panels every few weeks so dust does not cut output, and check electrical connections periodically. Contact the vendor for any technical issue."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Maintenance and Practical Use",
+      "icon": "🔧",
+      "content": [
+        "Seasonal adjustment of the solar panel angle is the farmer's responsibility and directly affects the pump's performance. MPUVNL recommends that farmers tilt the panels according to the sun's seasonal position to maximise water discharge throughout the year.",
+        "During summer months in MP, peak solar radiation hours are typically between 9 AM and 3 PM. Farmers should schedule irrigation during these peak hours to achieve the maximum discharge rated for their pump capacity."
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "How the Subsidy Money Flows",
+      "items": [
+        {
+          "icon": "file",
+          "title": "You pay only the balance",
+          "sub": "The central and state subsidy is adjusted into the system cost up front. You pay only the remaining farmer share shown on your demand note, plus the Rs 5,000 registration fee."
+        },
+        {
+          "icon": "wallet",
+          "title": "DBT for refunds",
+          "sub": "Any refund of the registration fee, if your site is unsuitable, is sent by Direct Benefit Transfer to your Aadhaar-linked bank account."
+        },
+        {
+          "icon": "calendar",
+          "title": "Priority by budget",
+          "sub": "Applications are cleared in priority order against available budget. Off-grid plots without an existing connection are taken up first."
+        },
+        {
+          "icon": "shield",
+          "title": "Pump tied to you",
+          "sub": "The installed pump cannot be transferred or sold. It stays tied to the registered farmer and the specific land plot."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Pump Transfer and Site Rules",
+      "icon": "📍",
+      "content": [
+        "Farmers should not attempt to move the installed pump to a different khasra after installation. Relocation to another land plot is not permitted and would void the warranty of the installed system.",
+        "The solar pump cannot be sold or transferred to any other person after installation. It is permanently registered to the applicant farmer and tied to the specific khasra mentioned in the application."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "icon": "info",
+      "title": "If Your Site Is Found Unsuitable",
+      "content": "If the solar pump site is found unsuitable or not selected after inspection, MPUVNL refunds the Rs 5,000 registration amount.<br><br>No interest is paid on this refund. For unresolved issues you can raise a grievance through MPUVNL or, if needed, file an RTI to get an official response on your application status."
+    },
+    {
+      "type": "text",
+      "heading": "Where the Scheme Reaches",
+      "icon": "🌾",
+      "content": [
+        "Multiple plots on the same farm can each receive a solar pump through separate applications, provided each khasra number is distinct and each plot independently meets the no-electricity-connection condition. Farmers with multiple land parcels can apply separately for each eligible khasra.",
+        "Gaushalas and registered cow shelters in MP are also eligible to apply for solar pumps under this scheme at a different subsidy rate. Gaushala operators should check the current rate card on the official portal to determine their applicable contribution amount."
+      ]
+    },
+    {
+      "type": "process_flow",
+      "heading": "The Three PM-Kusum Components, in Short",
+      "steps": [
+        {
+          "icon": "sparkles",
+          "title": "Component A",
+          "desc": "Ground-mounted solar power plants set up by farmers or groups on barren or fallow land."
+        },
+        {
+          "icon": "trophy",
+          "title": "Component B (this scheme)",
+          "desc": "Standalone solar agriculture pumps for off-grid farmers, which is what MP runs as CM Solar Pump Yojana."
+        },
+        {
+          "icon": "wallet",
+          "title": "Component C",
+          "desc": "Solarisation of existing grid-connected pumps so farmers can use solar by day and sell surplus."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Verify Before You Apply",
+      "icon": "🔎",
+      "content": [
+        "For the most accurate and current information on subsidy rates, eligible pump models, and application status, farmers should always refer to the official portal at cmsolarpump.mp.gov.in rather than third-party websites. The portal is maintained by MPUVNL and reflects real-time policy updates.",
+        "MP farmers who are searching for cm solar pump mp gov or mp solar pump yojana registration will find all application and status information at the official portal. The portal supports online applications, payment receipts, and status tracking by application number."
+      ]
     },
     {
       "type": "table",
@@ -415,131 +626,6 @@
           "Grievance / appeal",
           "MPUVNL Head Office, Bhopal or district MPUVNL office"
         ]
-      ]
-    },
-    {
-      "type": "icon_list",
-      "heading": "Documents Required for CM Solar Pump Yojana",
-      "items": [
-        {
-          "icon": "file",
-          "title": "Samagra ID",
-          "sub": "Your Samagra family ID, used to pull verified family and residence details into the application."
-        },
-        {
-          "icon": "wallet",
-          "title": "Aadhaar-linked bank account",
-          "sub": "Bank account details linked to Aadhaar, since the subsidy and any refund move through DBT."
-        },
-        {
-          "icon": "file",
-          "title": "Khasra (land record)",
-          "sub": "The land record for the irrigation site, used to confirm no permanent electricity connection exists on that plot."
-        },
-        {
-          "icon": "users",
-          "title": "Caste declaration",
-          "sub": "A caste declaration as required by the application form."
-        },
-        {
-          "icon": "shield",
-          "title": "Pump specification",
-          "sub": "The technical specification of the pump capacity you need, from 1 HP up to 7.5 HP."
-        }
-      ]
-    },
-    {
-      "type": "modern_callout",
-      "variant": "warning",
-      "icon": "alert",
-      "title": "The Electricity Connection Condition",
-      "content": "Priority goes to farmers in areas where power companies have not set up grid infrastructure, so the plot has no permanent electricity connection for irrigation.<br><br>If you already have a permanent connection on that khasra, you must agree to surrender it before installation. The government does not give dual support, both grid electricity and a subsidised solar pump, for the same plot."
-    },
-    {
-      "type": "icon_list",
-      "heading": "After the Solar Pump Is Installed",
-      "items": [
-        {
-          "icon": "check",
-          "title": "No electricity or diesel bills",
-          "sub": "The pump runs on sunlight, so there are no monthly electricity charges and no diesel cost for irrigation."
-        },
-        {
-          "icon": "trophy",
-          "title": "Long working life",
-          "sub": "Solar pumps typically last 20 to 25 years with minimal upkeep, making the one-time subsidised cost a long-term investment."
-        },
-        {
-          "icon": "wallet",
-          "title": "Sell surplus power",
-          "sub": "Where net metering applies, surplus electricity can be sold to the local DISCOM, creating a small extra income stream. This varies by local policy."
-        },
-        {
-          "icon": "shield",
-          "title": "Basic maintenance",
-          "sub": "Clean the panels every few weeks so dust does not cut output, and check electrical connections periodically. Contact the vendor for any technical issue."
-        }
-      ]
-    },
-    {
-      "type": "modern_callout",
-      "variant": "tip",
-      "icon": "info",
-      "title": "If Your Site Is Found Unsuitable",
-      "content": "If the solar pump site is found unsuitable or not selected after inspection, MPUVNL refunds the Rs 5,000 registration amount.<br><br>No interest is paid on this refund. For unresolved issues you can raise a grievance through MPUVNL or, if needed, file an RTI to get an official response on your application status."
-    },
-    {
-      "type": "modern_callout",
-      "variant": "info",
-      "icon": "info",
-      "title": "Why MP Pushes Solar Pumps Over Diesel",
-      "content": "Farmers in areas with weak grid infrastructure run diesel pumps for irrigation, which are costly to fuel and polluting. A solar pump removes that recurring cost entirely.<br><br>The scheme targets exactly these off-grid plots first, where the government would otherwise have to set up temporary electricity connections. Replacing them with solar cuts both farmer cost and state power burden."
-    },
-    {
-      "type": "icon_list",
-      "heading": "How the Subsidy Money Flows",
-      "items": [
-        {
-          "icon": "file",
-          "title": "You pay only the balance",
-          "sub": "The central and state subsidy is adjusted into the system cost up front. You pay only the remaining farmer share shown on your demand note, plus the Rs 5,000 registration fee."
-        },
-        {
-          "icon": "wallet",
-          "title": "DBT for refunds",
-          "sub": "Any refund of the registration fee, if your site is unsuitable, is sent by Direct Benefit Transfer to your Aadhaar-linked bank account."
-        },
-        {
-          "icon": "calendar",
-          "title": "Priority by budget",
-          "sub": "Applications are cleared in priority order against available budget. Off-grid plots without an existing connection are taken up first."
-        },
-        {
-          "icon": "shield",
-          "title": "Pump tied to you",
-          "sub": "The installed pump cannot be transferred or sold. It stays tied to the registered farmer and the specific land plot."
-        }
-      ]
-    },
-    {
-      "type": "process_flow",
-      "heading": "The Three PM-Kusum Components, in Short",
-      "steps": [
-        {
-          "icon": "sparkles",
-          "title": "Component A",
-          "desc": "Ground-mounted solar power plants set up by farmers or groups on barren or fallow land."
-        },
-        {
-          "icon": "trophy",
-          "title": "Component B (this scheme)",
-          "desc": "Standalone solar agriculture pumps for off-grid farmers, which is what MP runs as CM Solar Pump Yojana."
-        },
-        {
-          "icon": "wallet",
-          "title": "Component C",
-          "desc": "Solarisation of existing grid-connected pumps so farmers can use solar by day and sell surplus."
-        }
       ]
     }
   ],
