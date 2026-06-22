@@ -39,7 +39,8 @@ export type StateKey =
   | "assam"
   | "west-bengal"
   | "gujarat"
-  | "punjab";
+  | "punjab"
+  | "tamil-nadu";
 
 export const examCategories: Record<ExamCategoryKey, {
   slug: ExamCategoryKey;
@@ -240,6 +241,7 @@ export const states: Record<StateKey, {
   "west-bengal": { slug: "west-bengal", label: "West Bengal", short: "WB" },
   "gujarat": { slug: "gujarat", label: "Gujarat", short: "GJ" },
   "punjab": { slug: "punjab", label: "Punjab", short: "PB" },
+  "tamil-nadu": { slug: "tamil-nadu", label: "Tamil Nadu", short: "TN" },
 };
 
 // Helper: get all exams in a category from the loaded exam list
