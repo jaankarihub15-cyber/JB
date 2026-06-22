@@ -1,0 +1,551 @@
+{
+  "slug": "matirkatha",
+  "title": "Matirkatha: WB Farm Portal for Soil Card and Subsidy",
+  "meta_description": "Matirkatha is West Bengal's farm portal for soil health cards, crop advisory and 50-80% farm machinery subsidy. Register free at matirkatha.wb.gov.in.",
+  "hero": {
+    "icon": "🌾",
+    "one_liner": "Matirkatha is West Bengal's farmer portal for free soil health cards, crop advisory, and 50 to 80 percent farm machinery subsidy. Registration and how to apply.",
+    "updated_date": "June 2026",
+    "stats": [
+      {
+        "label": "Machinery Subsidy",
+        "value": "50-80%"
+      },
+      {
+        "label": "Soil Card",
+        "value": "Free"
+      },
+      {
+        "label": "Started",
+        "value": "2014"
+      },
+      {
+        "label": "Portal",
+        "value": "matirkatha.wb.gov.in"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "📝",
+      "label": "Register",
+      "url": "https://matirkatha.wb.gov.in"
+    },
+    {
+      "icon": "🔍",
+      "label": "Track status",
+      "url": "https://matirkatha.wb.gov.in"
+    },
+    {
+      "icon": "🚜",
+      "label": "Farm machinery",
+      "url": "https://matirkatha.wb.gov.in/farm_mechs/index"
+    }
+  ],
+  "what_is_it": [
+    "Matirkatha is a Government to Farmer (G2F) digital communication platform developed by the West Bengal Agriculture Department in partnership with InGreens, a startup incubated at IIT Kharagpur's Science and Technology Entrepreneurs Park. It was funded by NABARD's Rural Innovation Fund and has been operational across all districts of West Bengal since June 2015.",
+    "The platform was designed to solve the last-mile connectivity problem in agricultural extension services, where farmers in remote blocks could not access timely information about crop management, government schemes and market prices. Matirkatha delivers all of this through a combination of a web portal, a mobile app and a network of field-level extension workers equipped with tablets."
+  ],
+  "eligibility": [
+    {
+      "label": "Residence",
+      "value": "Farmer resident in West Bengal.",
+      "highlight": true
+    },
+    {
+      "label": "Land",
+      "value": "Owns or cultivates agricultural land with a land record.",
+      "highlight": true
+    },
+    {
+      "label": "For subsidy",
+      "value": "Age 18 to 60 with WB residence and land ownership proof.",
+      "highlight": false
+    },
+    {
+      "label": "Documents",
+      "value": "Aadhaar or Voter ID, land record, bank passbook, photo.",
+      "highlight": false
+    }
+  ],
+  "eligibility_filters": {
+    "states": [
+      "west-bengal"
+    ],
+    "gender": "any",
+    "age_min": 18,
+    "age_max": 60,
+    "income_max": null,
+    "notes": "WB-resident farmers with agricultural land. Soil health card free to all registered farmers. Machinery subsidy needs age 18-60, WB residence and land ownership."
+  },
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Register on the Matirkatha portal",
+      "description": "Visit matirkatha.wb.gov.in and click on Farmer Registration or Sign Up. Enter your name, father or husband name, mobile number, Aadhaar number, address (village, block, district) and land details including field size and primary crop. You will receive an OTP on your mobile to complete verification and get your Matirkatha login ID."
+    },
+    {
+      "step": 2,
+      "title": "Upload documents and set account password",
+      "description": "Upload scanned copies of your Aadhaar card or Voter ID, a land document (khatian, lease deed or Krishak Bandhu passbook) and a bank account passbook showing your account number and IFSC code for DBT. Set a secure password for your Matirkatha account and note your login ID, which you will need for all future scheme applications."
+    },
+    {
+      "step": 3,
+      "title": "Apply for soil health card",
+      "description": "After logging in, go to the Soil Health section and submit a soil sample request. A field extension worker (KPS or BTM) will visit your field, collect a geo-tagged soil sample and send it to the government laboratory. Results are uploaded to the portal within 2 to 4 weeks and you can download your soil health card with fertiliser recommendations."
+    },
+    {
+      "step": 4,
+      "title": "Apply for farm machinery subsidy",
+      "description": "Log in and go to the Farm Mechanisation section. Select the scheme (OTA-SFI for small equipment or FMB for large machines), choose the machine from the approved machine list, enter land size details, upload required documents and submit. Your Block Agriculture Officer reviews the application and shortlisted applicants are notified on the portal and via SMS."
+    },
+    {
+      "step": 5,
+      "title": "Receive subsidy via DBT",
+      "description": "Once your application is approved and shortlisted, the subsidy amount is transferred via Direct Benefit Transfer to your registered bank account. You can then purchase the equipment from an approved vendor. For FMB applications, the group coordinator handles the procurement and the subsidy is split among the group members as per scheme rules."
+    },
+    {
+      "step": 6,
+      "title": "Track application status and get crop advisory",
+      "description": "Log in to your Matirkatha account any time to check the status of soil health card requests, machinery subsidy applications or any other scheme application. You will also receive SMS and app notifications with seasonal crop advisory, pest alerts and market price updates relevant to your block and district, keeping you informed throughout the cropping cycle."
+    }
+  ],
+  "official_portal": {
+    "name": "Matirkatha Portal",
+    "url": "https://matirkatha.wb.gov.in"
+  },
+  "related_pages": [
+    {
+      "title": "Lakshmir Bhandar",
+      "slug": "lakshmir-bhandar",
+      "tag": "Women Welfare",
+      "url": "/yojana/lakshmir-bhandar"
+    },
+    {
+      "title": "Swasthya Sathi",
+      "slug": "swasthya-sathi-card",
+      "tag": "Health",
+      "url": "/yojana/swasthya-sathi-card"
+    }
+  ],
+  "tags": [
+    "matirkatha",
+    "matir katha",
+    "matirkatha wb gov in",
+    "west bengal agriculture portal",
+    "soil health card west bengal",
+    "farm machinery subsidy west bengal",
+    "matirkatha registration",
+    "wb krishi portal"
+  ],
+  "ministry": "Department of Agriculture, Government of West Bengal",
+  "launch_year": 2014,
+  "category": "agriculture",
+  "state": "west-bengal",
+  "last_reviewed": "June 2026",
+  "schema_type": "FAQPage",
+  "extra_sections": [
+    {
+      "type": "stat_grid",
+      "heading": "Matirkatha: Key Numbers",
+      "icon": "📊",
+      "items": [
+        {
+          "icon": "trophy",
+          "value": "50-80%",
+          "label": "Machinery Subsidy",
+          "color": "green"
+        },
+        {
+          "icon": "file",
+          "value": "Free",
+          "label": "Soil Health Card",
+          "color": "blue"
+        },
+        {
+          "icon": "sparkles",
+          "value": "₹40k-1.6L",
+          "label": "Subsidy Range",
+          "color": "amber"
+        },
+        {
+          "icon": "calendar",
+          "value": "2 Years",
+          "label": "Soil Card Renewal",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "How the Platform Reaches Farmers",
+      "icon": "🌐",
+      "content": [
+        "Field-level extension workers called KPS (Krishi Prosar Sahayak), BTM (Block Technology Manager) and ATM (Assistant Technology Manager) use the Matirkatha app on their tablets to provide door-to-door advisory services in villages. This human-technology combination ensures that even illiterate or semi-literate farmers in remote areas of Purulia, Bankura and the Sundarbans can access scheme benefits and technical guidance.",
+        "The Matirkatha platform generates district-wise agricultural data that the state government uses for planning crop support interventions, forecasting input demand, calibrating subsidy allocation, and designing research priorities. The GPS-linked field data from KPS tablets forms a live agricultural census of farming conditions across West Bengal.",
+        "Agriculture Infrastructure Fund (AIF) financing through the Matirkatha portal helps farmer groups, FPOs and agri-enterprises access loans at subsidised interest rates for constructing farm-level infrastructure such as warehouses, cold storage, primary processing units, assaying units and sorting and grading lines. The AIF interest subvention is 3 percent per annum on loans up to Rs 2 crore."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Matirkatha: Services by Department",
+      "icon": "📋",
+      "columns": [
+        "Department",
+        "Key Services on Matirkatha",
+        "Who Benefits"
+      ],
+      "rows": [
+        [
+          "Agriculture",
+          "Soil health card, crop advisory, pest and disease control, organic farming info, irrigation scheme applications, farm machinery subsidy",
+          "All registered farmers"
+        ],
+        [
+          "Agricultural Marketing",
+          "Market and mandi price information, buyer-seller connections, agri-produce price trends, storage facility details",
+          "Farmers, traders, FPOs"
+        ],
+        [
+          "Animal Husbandry",
+          "Livestock disease advisory, vaccination schedules, insurance scheme information, fodder and breed guidance",
+          "Cattle and poultry farmers"
+        ],
+        [
+          "Fisheries",
+          "Aquaculture advisory, pond construction guidance, fish disease control, fisheries subsidy scheme information",
+          "Fish farmers and fisherfolk"
+        ],
+        [
+          "Horticulture",
+          "Vegetable and fruit cultivation guidance, cold storage access, polyhouse subsidy, tissue culture planting material",
+          "Vegetable and fruit growers"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "The Soil Health Card Programme",
+      "icon": "🧪",
+      "content": [
+        "The soil health card programme is one of Matirkatha's most impactful services, where soil samples from farmers' fields are geo-tagged via GPS, tested at government laboratories and the results uploaded back to the portal. West Bengal became the first state in India to implement 100 percent location authentication in the soil health card process, making every card traceable to the exact field it represents.",
+        "Each soil health card issued through Matirkatha contains a detailed nutrient profile of the farmer's field, including levels of nitrogen (N), phosphorus (P), potassium (K), and micro-nutrients such as zinc, boron and sulphur. The card also carries a fertiliser recommendation customized to the specific soil conditions of that plot, which helps farmers reduce input costs by applying the right quantities.",
+        "The Matirkatha mobile app is available free on the Google Play Store in both Bengali and English. The app allows farmers to register, check their soil health card, apply for machinery subsidies, view crop advisories, check market prices, track application status and contact their nearest extension worker directly through the app."
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "The Soil Health Card Service",
+      "items": [
+        {
+          "icon": "file",
+          "title": "Free soil testing",
+          "sub": "Soil samples are collected, tested in a lab, and a soil health card is issued free to every registered farmer."
+        },
+        {
+          "icon": "sparkles",
+          "title": "Nutrient profile",
+          "sub": "Each card carries a detailed nutrient profile and exact fertiliser recommendations for your specific plot."
+        },
+        {
+          "icon": "calendar",
+          "title": "Renewed every 2 years",
+          "sub": "Cards are renewed every two years to reflect changes in soil condition. WB was the first state to use 100% location-authenticated soil cards."
+        },
+        {
+          "icon": "check",
+          "title": "Cuts fertiliser waste",
+          "sub": "Following the card's advice reduces over-use of urea and improves yield, the most common reason farmers register."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Soil Cards: Free and Renewed",
+      "icon": "♻️",
+      "content": [
+        "Soil health cards are issued free to all registered farmers and renewed every two years to reflect changes in soil condition after each cropping cycle. Farmers can view and download their soil health card from the Matirkatha portal by logging in with their registered mobile number and Aadhaar details.",
+        "The crop calendar on Matirkatha gives location-specific recommendations for which crop to sow in which season based on the agro-climatic zone of the farmer's block. West Bengal has 6 agro-climatic zones and the crop calendar is customized for each zone, covering kharif, rabi and summer crops across paddy, jute, wheat, potato, mustard, vegetables and fruits.",
+        "Bangla Sahayata Kendras (BSKs), the state's network of single-window service delivery centres, support Matirkatha services at the local level. A BSK operator helps farmers with registration, document upload, scheme application, and status tracking for those who do not have smartphone access or are not comfortable with online processes."
+      ]
+    },
+    {
+      "type": "number_highlight",
+      "big": "50-80%",
+      "title": "Subsidy on Farm Machinery",
+      "desc": "Small equipment like sprayers gets up to 50 percent off, while large machines get 50 to 80 percent.<br><br>The subsidy ranges from about Rs 40,000 to Rs 1,60,000 depending on the machine, paid directly to your bank by DBT."
+    },
+    {
+      "type": "text",
+      "heading": "Farm Machinery Subsidy Explained",
+      "icon": "🚜",
+      "content": [
+        "The farm mechanisation component of Matirkatha provides subsidies on a wide range of agricultural machines through two main schemes: the OTA-SFI scheme for small equipment (50 percent subsidy) and the FMB (Farm Mechanisation Bank) scheme for larger machines (50 to 80 percent subsidy). All subsidy payments are made via DBT (Direct Benefit Transfer) to the farmer's registered bank account.",
+        "Small equipment covered under the 50 percent OTA-SFI subsidy includes battery-operated sprayers (up to Rs 1,900 subsidy), solar light traps (up to Rs 2,600), manual seed drills (up to Rs 1,250), manual chaff cutters (up to Rs 6,400), manual threshers (up to Rs 2,750), and PVC water-carrying pipes up to 100 metres (up to Rs 1,250). The farmer pays only 50 percent of the equipment's cost after the subsidy.",
+        "The subsidy allocation is done through a transparent lottery or first-come-first-served system depending on scheme rules, and the results are published on the Matirkatha portal. This beneficiary history system ensures that the same farmer does not receive a subsidy for the same equipment repeatedly, allowing wider distribution of public funds across more farmers."
+      ]
+    },
+    {
+      "type": "eligibility_check",
+      "heading": "Who qualifies",
+      "icon": "✅",
+      "qualify": [
+        "Farmer residing in West Bengal",
+        "Owns or cultivates farmland with a land record",
+        "Age 18 to 60 for machinery subsidy",
+        "Member of an FPO or Farm Machinery Bank group",
+        "Any registered farmer for a free soil health card"
+      ],
+      "disqualify": [
+        "Not a WB resident",
+        "No land record or ownership proof",
+        "Outside 18-60 age for subsidy schemes",
+        "Seeking dual subsidy already claimed for the same machine"
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Large Machines and Machinery Banks",
+      "icon": "⚙️",
+      "content": [
+        "Large and high-value farm machines under the FMB scheme attract subsidies of 50 to 80 percent, with subsidy amounts ranging from Rs 40,000 to Rs 1,60,000 per machine. Equipment covered includes Multi-crop Threshers, Paddy Threshers, Potato Diggers, Power Reapers, Laser Land Levellers, Power Tillers, Rotary Tillers, Rice Mills, Dal Mills, Oil Mills and Solar Pumpsets (AC 2 HP).",
+        "Farm Machinery Banks (FMBs) are a separate component where groups of farmers, FPOs (Farmer Producer Organisations) or cooperative societies can set up a shared machinery pool and receive a group subsidy of up to Rs 8 lakh. This allows individual small farmers who cannot afford to buy a tractor or thresher to access mechanised farming through a shared hiring arrangement.",
+        "Horticulture farmers can access information on tomato, cauliflower, cabbage, brinjal, potato, mango, litchi and banana cultivation through the Matirkatha horticulture module. The portal also provides details on the state government's polyhouse subsidy, drip irrigation subsidy and information on NABARD-backed horticulture loan programmes."
+      ]
+    },
+    {
+      "type": "process_flow",
+      "heading": "How to Register and Apply on Matirkatha",
+      "steps": [
+        {
+          "icon": "file",
+          "title": "Register with mobile OTP",
+          "desc": "Go to matirkatha.wb.gov.in, click Farmer Registration, and enter name, mobile, Aadhaar, address, block and district. Verify with the OTP."
+        },
+        {
+          "icon": "search",
+          "title": "Upload documents",
+          "desc": "Upload Aadhaar or Voter ID, a land record, bank passbook, and photo, then set your account password."
+        },
+        {
+          "icon": "wallet",
+          "title": "Apply for a service",
+          "desc": "Log in and apply for a free soil health card or a farm machinery subsidy, selecting the machine and uploading the quotation."
+        },
+        {
+          "icon": "check",
+          "title": "Get subsidy via DBT",
+          "desc": "Approved subsidy is paid by DBT to your bank account. Track the application status anytime on the portal."
+        }
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "Machinery, Banks and Group Schemes",
+      "items": [
+        {
+          "icon": "trophy",
+          "title": "Individual machines",
+          "sub": "Sprayers, power tillers, pump sets, and seed drills under the 50 percent OTA-SFI subsidy for individual farmers."
+        },
+        {
+          "icon": "users",
+          "title": "Farm Machinery Banks",
+          "sub": "Groups of farmers and FPOs set up shared machinery banks with 50 to 80 percent subsidy on tractors, harvesters and threshers."
+        },
+        {
+          "icon": "wallet",
+          "title": "Infrastructure Fund",
+          "sub": "Agriculture Infrastructure Fund financing through the portal helps groups build storage and processing units."
+        },
+        {
+          "icon": "file",
+          "title": "Transparent allotment",
+          "sub": "Subsidy goes through a transparent lottery or first-come-first-served system, viewable on the portal."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "How to Register and Apply",
+      "icon": "📝",
+      "content": [
+        "Farmer registration on Matirkatha requires a name, father or husband name, mobile number, Aadhaar number, address (block and district), and land details including field size and primary crop. OTP verification is done via the registered mobile number, and after registration the farmer receives a unique Matirkatha login ID.",
+        "Documents needed for registration include Aadhaar card or Voter ID for identity, a land-related document such as a record of rights (khatian), lease agreement or Krishak Bandhu passbook for land proof, and a bank passbook copy for DBT payments. The farmer must upload scanned copies or can use the assisted registration route at a Bangla Sahayata Kendra."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "icon": "info",
+      "title": "Help With Registration at BSK Centres",
+      "content": "Farmers who cannot register online can visit a Bangla Sahayata Kendra, the state's single-window service centre, for assisted registration.<br><br>KPS and block extension workers also help farmers at the village level, so no one is excluded for lack of internet access."
+    },
+    {
+      "type": "text",
+      "heading": "Applying for Subsidy and Tracking",
+      "icon": "🔎",
+      "content": [
+        "After registering, a farmer can apply for a machinery subsidy online by logging in, selecting the scheme (OTA-SFI or FMB), selecting the machine from the approved list, entering land details, and uploading documents. The application is reviewed by the Block Agriculture Officer and, if approved, the farmer is shortlisted for receiving the subsidy.",
+        "Application status for any scheme applied through Matirkatha can be tracked by logging in and going to the status section. The portal shows whether the application is pending review, shortlisted, approved, rejected or if the DBT payment has been processed to the bank account."
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "Other Services on the Portal",
+      "items": [
+        {
+          "icon": "sparkles",
+          "title": "Crop and weather advisory",
+          "sub": "Location-specific crop calendar, real-time pest and disease advice, and weather alerts before each season."
+        },
+        {
+          "icon": "wallet",
+          "title": "Market prices and e-NAM",
+          "sub": "Daily mandi rates across WB districts, linked to the National Agriculture Market for better price realisation."
+        },
+        {
+          "icon": "shield",
+          "title": "Crop insurance",
+          "sub": "Information and enrolment for Bangla Shasya Bima, the state crop insurance scheme, against natural calamity loss."
+        },
+        {
+          "icon": "file",
+          "title": "Krishak Bandhu link",
+          "sub": "Registered farmers can access their Krishak Bandhu assistance and old-age pension details through the portal."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Advisory, Prices and Insurance",
+      "icon": "📈",
+      "content": [
+        "Pest and disease control advisory is available through Matirkatha in real time. Field extension workers update the portal with pest scouting observations from their block, and the system generates advisory messages that are pushed to registered farmers in that area via SMS and through the mobile app.",
+        "Market price information on Matirkatha is updated daily and covers rates from major mandis across West Bengal as well as procurement prices for key crops under government minimum support price (MSP) programmes. Farmers can compare local mandi rates with nearby market rates to decide where to sell their produce for the best price."
+      ]
+    },
+    {
+      "type": "pullquote",
+      "text": "Matirkatha-te register kore soil health card pelam. Urvarak kam diye bhalo fasal pachchi. Ei portal-e machine subsidy-r jonyo apply kore power tiller peyechi, 50 percent dite hoyeche baki sarkar diyeche. Farming-e bujhte lageche technology-r mane."
+    },
+    {
+      "type": "text",
+      "heading": "Livestock, Fisheries and Horticulture",
+      "icon": "🐄",
+      "content": [
+        "Animal husbandry services on Matirkatha provide milk producers, poultry farmers and goat rearers with information on breed selection, vaccination schedules, disease symptoms and treatment, insurance schemes under the Livestock Insurance Programme, and how to apply for subsidies on shed construction and equipment.",
+        "Fisheries services include guidance on pond preparation, stocking density for different fish species, water quality management, disease control, and how to apply for subsidies on fishpond construction and aerators under state fisheries schemes. Fisherfolk in coastal areas of East Midnapore and South 24 Parganas get specific advisory on marine fishing and post-harvest management."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "warning",
+      "icon": "alert",
+      "title": "Use Only the Official Portal",
+      "content": "The only official Matirkatha portal is matirkatha.wb.gov.in, run by the WB Agriculture Department.<br><br>Several lookalike sites use similar names. Do not enter your Aadhaar or bank details on any site other than the official wb.gov.in domain."
+    },
+    {
+      "type": "text",
+      "heading": "Women Farmers and FPO Access",
+      "icon": "👩‍🌾",
+      "content": [
+        "Women farmers in West Bengal are increasingly using Matirkatha services, particularly for accessing Krishak Bandhu documents, applying for farm machinery subsidies and checking market prices. Self-help group (SHG) members in the MGNREGS horticulture and kitchen garden programmes can use Matirkatha for technical guidance and input source location.",
+        "Farmer Producer Organisations (FPOs) registered in West Bengal can access Matirkatha services under their organization profile. FPOs can apply for Farm Machinery Bank grants of up to Rs 8 lakh, access bulk crop advisory for their member farmers, and apply for AIF loans for collective post-harvest infrastructure that benefits hundreds of small member farmers."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Matirkatha Quick Reference",
+      "icon": "📑",
+      "columns": [
+        "Detail",
+        "Value"
+      ],
+      "rows": [
+        [
+          "Official Portal",
+          "matirkatha.wb.gov.in"
+        ],
+        [
+          "Mobile App",
+          "Matirkatha App (available on Google Play Store, Bengali and English)"
+        ],
+        [
+          "Started",
+          "October 2013 (pilot), June 2015 (state-wide)"
+        ],
+        [
+          "Departments",
+          "Agriculture, Agricultural Marketing, Animal Husbandry, Fisheries, Horticulture"
+        ],
+        [
+          "Soil Health Card",
+          "Free, GPS-authenticated, nutrient advisory included"
+        ],
+        [
+          "Small Equipment Subsidy",
+          "50% (OTA-SFI scheme), Rs 650 to Rs 6,400 per item"
+        ],
+        [
+          "Large Machine Subsidy",
+          "50-80% (FMB scheme), Rs 40,000 to Rs 1,60,000 per machine"
+        ],
+        [
+          "Farm Machinery Bank (Groups)",
+          "Up to Rs 8 lakh for FPOs and farmer groups"
+        ],
+        [
+          "Registration",
+          "Free, at matirkatha.wb.gov.in or nearest Bangla Sahayata Kendra"
+        ],
+        [
+          "Payment Mode",
+          "DBT to registered bank account"
+        ]
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is Matirkatha and what does it do for farmers?",
+      "answer": "Matirkatha (matirkatha.wb.gov.in) is West Bengal's ICT-based agriculture platform run by the Agriculture Department. It helps farmers get free soil health cards, apply for farm machinery subsidies of 50 to 80 percent, access crop calendar and pest control advisory, check market prices, and apply for government agricultural schemes from five departments on a single portal."
+    },
+    {
+      "question": "How do I register on the Matirkatha portal?",
+      "answer": "Visit matirkatha.wb.gov.in and click on Farmer Registration. Enter your name, mobile number, Aadhaar number, address and land details.<br><br>Verify with OTP and upload your Aadhaar, land document and bank passbook. You will get a login ID to access all Matirkatha services."
+    },
+    {
+      "question": "How do I get a soil health card through Matirkatha?",
+      "answer": "After registering on matirkatha.wb.gov.in, submit a soil sample request. A field extension worker (KPS or BTM) will visit your field, collect a GPS-tagged soil sample and send it for testing.<br><br>Results with nutrient levels and fertiliser recommendations are uploaded to the portal within 2 to 4 weeks and can be downloaded as your soil health card."
+    },
+    {
+      "question": "What farm machinery subsidies are available on Matirkatha?",
+      "answer": "Two schemes are available: OTA-SFI provides 50 percent subsidy on small equipment like sprayers, seed drills, chaff cutters and solar traps. FMB (Farm Mechanisation Bank) provides 50 to 80 percent subsidy (Rs 40,000 to Rs 1,60,000) on large machines like Power Tillers, Threshers, Potato Diggers, Laser Land Levellers and Rice Mills."
+    },
+    {
+      "question": "How is the Matirkatha subsidy paid?",
+      "answer": "After the application is approved and the farmer is shortlisted, the subsidy amount is transferred via Direct Benefit Transfer (DBT) directly to the farmer's registered bank account. The farmer then purchases the approved equipment from a vendor, paying only their share after the subsidy."
+    },
+    {
+      "question": "Is the Matirkatha app available in Bengali?",
+      "answer": "Yes. The Matirkatha mobile app is available free on the Google Play Store in both Bengali and English.<br><br>Through the app, farmers can check soil health cards, apply for subsidies, get crop advisory, view market prices and track application status."
+    },
+    {
+      "question": "What is the AIF (Agriculture Infrastructure Fund) on Matirkatha?",
+      "answer": "AIF on Matirkatha helps farmer groups, FPOs and agri-entrepreneurs access loans at subsidised interest rates (3 percent interest subvention) for building farm infrastructure such as warehouses, cold storage, processing units and sorting lines, with loans up to Rs 2 crore per project."
+    },
+    {
+      "question": "Can I use Matirkatha for animal husbandry and fisheries too?",
+      "answer": "Yes. Matirkatha covers Animal Husbandry (livestock disease advisory, vaccination, insurance, fodder guidance) and Fisheries (aquaculture advisory, pond management, fish disease control, scheme applications) in addition to crop farming.<br><br>Farmers with mixed livelihoods can access all these services with a single Matirkatha registration."
+    },
+    {
+      "question": "What is a Bangla Sahayata Kendra and how does it help Matirkatha users?",
+      "answer": "Bangla Sahayata Kendras (BSKs) are the West Bengal government's single-window service centres. BSK operators help farmers who do not have smartphones or cannot navigate the portal independently to register on Matirkatha, upload documents, apply for schemes and track application status in person."
+    },
+    {
+      "question": "How do I check the status of my Matirkatha subsidy application?",
+      "answer": "Log in to matirkatha.wb.gov.in with your registered mobile number and password. Go to the application status section and enter your application number or search by Aadhaar.<br><br>The portal shows whether your application is pending, shortlisted, approved, rejected, or if the DBT payment has been processed."
+    }
+  ]
+}

@@ -1,0 +1,654 @@
+{
+  "slug": "swasthya-sathi-card",
+  "title": "Swasthya Sathi Card: Apply Online, Check Status, Download",
+  "meta_description": "Swasthya Sathi card gives WB families Rs 5 lakh cashless cover at 2400+ hospitals. Apply online or at Duare Sarkar camps. Check status at swasthyasathi.gov.in.",
+  "hero": {
+    "icon": "🩺",
+    "one_liner": "Swasthya Sathi gives every West Bengal family Rs 5 lakh cashless health cover. Card apply, status check, download, and the 2026 Ayushman Bharat transition explained.",
+    "updated_date": "June 2026",
+    "stats": [
+      {
+        "label": "Annual Cover",
+        "value": "₹5,00,000"
+      },
+      {
+        "label": "Premium",
+        "value": "Zero"
+      },
+      {
+        "label": "Hospitals",
+        "value": "2,400+"
+      },
+      {
+        "label": "Portal",
+        "value": "swasthyasathi.gov.in"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "📝",
+      "label": "Apply online",
+      "url": "https://accounts.swasthyasathi.gov.in"
+    },
+    {
+      "icon": "🔍",
+      "label": "Check status",
+      "url": "https://data.swasthyasathi.gov.in/SSDataEntryStatusCheck.aspx"
+    },
+    {
+      "icon": "💳",
+      "label": "Official portal",
+      "url": "https://swasthyasathi.gov.in"
+    }
+  ],
+  "what_is_it": [
+    "Swasthya Sathi (also called Sastho Sathi in Bengali, meaning health companion) is West Bengal's flagship state health insurance scheme, launched on 30 December 2016 by Chief Minister Mamata Banerjee. The scheme gives every family in the state free cashless health coverage of up to Rs 5 lakh per year for secondary and tertiary medical treatment.",
+    "The scheme was announced in Cabinet notification number 2625 dated 17 February 2016 and formally rolled out in Finance Department notification 1104-F(P) dated 25 February 2016. It is fully state-funded with no premium or co-payment from the beneficiary family at any stage."
+  ],
+  "eligibility": [
+    {
+      "label": "Residence",
+      "value": "Permanent resident of West Bengal.",
+      "highlight": true
+    },
+    {
+      "label": "Coverage",
+      "value": "All WB families, regardless of income level.",
+      "highlight": true
+    },
+    {
+      "label": "Cardholder",
+      "value": "The woman of the household is the primary cardholder.",
+      "highlight": true
+    },
+    {
+      "label": "Family",
+      "value": "No cap on family size; parents of both spouses and disabled dependents included.",
+      "highlight": false
+    },
+    {
+      "label": "Documents",
+      "value": "Aadhaar, voter ID, WB residence proof, one passport photo.",
+      "highlight": false
+    }
+  ],
+  "eligibility_filters": {
+    "states": [
+      "west-bengal"
+    ],
+    "gender": "any",
+    "age_min": 0,
+    "age_max": null,
+    "income_max": null,
+    "notes": "All permanent WB-resident families eligible regardless of income. Card issued in the woman's name. No family-size cap, parents-in-law and disabled dependents included."
+  },
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Apply online or at a Duare Sarkar camp",
+      "description": "Go to accounts.swasthyasathi.gov.in and select Form A for new registration. Alternatively, visit the nearest Duare Sarkar camp or your Gram Panchayat office with your Aadhaar card, voter ID, ration card (if available) and one passport-size photograph of the woman of the household, who will be the primary cardholder."
+    },
+    {
+      "step": 2,
+      "title": "Enter family details and give biometric",
+      "description": "The enrolment operator enters the details of all family members, captures photographs, and records the fingerprint biometric of the primary cardholder (the woman). An OTP is sent to the registered mobile number for identity verification. Enter the OTP to complete enrollment."
+    },
+    {
+      "step": 3,
+      "title": "Receive and download the smart card",
+      "description": "A digital Swasthya Sathi card is generated immediately after successful enrolment. You receive a download link on your registered mobile number. Log in to swasthyasathi.gov.in to download the card as a PDF. For a physical smart chip card, collect it from the camp or Panchayat office as directed by the enrolment team."
+    },
+    {
+      "step": 4,
+      "title": "Check status if card is delayed",
+      "description": "If the card is not received within the expected period, visit data.swasthyasathi.gov.in/SSDataEntryStatusCheck.aspx, select your district and enter your Aadhaar number to see the current processing stage of your application. Call the 24x7 helpline at 18003455384 if the status shows errors or long pending status."
+    },
+    {
+      "step": 5,
+      "title": "Locate an empanelled hospital",
+      "description": "Use the Swasthya Sathi mobile app or the hospital search section on swasthyasathi.gov.in to find empanelled hospitals near you. The list is updated in real time and shows the hospital grade, specialties available and contact details. Only empanelled hospitals can provide cashless treatment under the scheme."
+    },
+    {
+      "step": 6,
+      "title": "Get admitted: show card at hospital",
+      "description": "Walk to the Swasthya Sathi desk or main reception at the empanelled hospital and present your smart card. The hospital scans the QR code, verifies your fingerprint, confirms the remaining annual cover and proceeds with admission. No cash deposit is required. For planned procedures, the hospital will apply for online pre-authorization within 24 hours."
+    },
+    {
+      "step": 7,
+      "title": "Grievance: call helpline or file online",
+      "description": "For complaints about hospitals demanding cash, denial of admission, or card-related issues, call 18003455384 (toll-free, 24x7). Written complaints can be submitted through the online grievance system at swasthyasathi.gov.in. The district health authority monitors grievances and must respond within a defined resolution timeline."
+    }
+  ],
+  "official_portal": {
+    "name": "Swasthya Sathi Portal",
+    "url": "https://swasthyasathi.gov.in"
+  },
+  "related_pages": [
+    {
+      "title": "Lakshmir Bhandar",
+      "slug": "lakshmir-bhandar",
+      "tag": "Women Welfare",
+      "url": "/yojana/lakshmir-bhandar"
+    },
+    {
+      "title": "Samaj Sathi",
+      "slug": "samaj-sathi",
+      "tag": "Social Security",
+      "url": "/yojana/samaj-sathi"
+    }
+  ],
+  "tags": [
+    "swasthya sathi card",
+    "sastho sathi card",
+    "swasthya sathi scheme",
+    "west bengal health insurance",
+    "swasthya sathi apply online",
+    "swasthya sathi status check",
+    "swasthya sathi hospital list",
+    "swasthya sathi download"
+  ],
+  "ministry": "Health and Family Welfare Department, Government of West Bengal",
+  "launch_year": 2016,
+  "category": "health",
+  "state": "west-bengal",
+  "last_reviewed": "June 2026",
+  "schema_type": "FAQPage",
+  "extra_sections": [
+    {
+      "type": "stat_grid",
+      "heading": "Swasthya Sathi Card: Key Numbers",
+      "icon": "📊",
+      "items": [
+        {
+          "icon": "shield",
+          "value": "₹5 Lakh",
+          "label": "Per Family/Year",
+          "color": "blue"
+        },
+        {
+          "icon": "wallet",
+          "value": "Zero",
+          "label": "Premium/Co-pay",
+          "color": "green"
+        },
+        {
+          "icon": "trophy",
+          "value": "2,400+",
+          "label": "Hospitals",
+          "color": "amber"
+        },
+        {
+          "icon": "users",
+          "value": "2.4 Crore",
+          "label": "Families Covered",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Scale, Coverage and Settlement Record",
+      "icon": "📈",
+      "content": [
+        "Over 2.4 crore families across West Bengal are enrolled, covering an estimated 8 to 10 crore people. More than 76 lakh hospitalizations have taken place under the scheme since launch, and the settlement rate for claims filed stands at 98.26 percent as of mid-2024.",
+        "The scheme covers all secondary and tertiary care treatments, including surgeries, ICU admission, oncology, cardiac procedures, orthopaedics, dialysis, and other specialist treatments. Doctor consultations and diagnostic tests for one day before hospital admission and medicines for up to five days after discharge are also included.",
+        "Cancer treatment is one of the most impactful areas of coverage under Swasthya Sathi. Surgery, chemotherapy, radiation therapy and targeted therapy for cancer are covered within the Rs 5 lakh annual limit at empanelled oncology centres across West Bengal."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Swasthya Sathi Scheme: Coverage Details",
+      "icon": "📋",
+      "columns": [
+        "Feature",
+        "Detail"
+      ],
+      "rows": [
+        [
+          "Annual cover per family",
+          "Rs 5,00,000 (secondary + tertiary care)"
+        ],
+        [
+          "Premium / co-payment",
+          "Zero (fully state-funded)"
+        ],
+        [
+          "Pre-existing diseases",
+          "Covered from day one, no exclusions"
+        ],
+        [
+          "Family size cap",
+          "None, all members covered"
+        ],
+        [
+          "Parents-in-law",
+          "Covered (from both spouses)"
+        ],
+        [
+          "Dependent physically challenged",
+          "Covered"
+        ],
+        [
+          "Pre-hospitalisation cover",
+          "1 day before admission"
+        ],
+        [
+          "Post-discharge cover",
+          "Medicines up to 5 days after discharge"
+        ],
+        [
+          "Hospital network",
+          "2,400+ empanelled hospitals across WB"
+        ],
+        [
+          "Pre-authorisation TAT",
+          "24 hours (online, 100%)"
+        ],
+        [
+          "Claim settlement to hospitals",
+          "Within 30 days"
+        ],
+        [
+          "Helpline",
+          "18003455384 (toll-free, 24x7)"
+        ],
+        [
+          "Portal",
+          "swasthyasathi.gov.in"
+        ],
+        [
+          "Status check",
+          "data.swasthyasathi.gov.in/SSDataEntryStatusCheck.aspx"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Pre-existing Diseases and Family Cover",
+      "icon": "🛡️",
+      "content": [
+        "All pre-existing diseases are covered from the very first day of enrolment. There is no waiting period and no exclusion of conditions that existed before the family joined the scheme.",
+        "The Swasthya Sathi scheme imposes no cap on family size, meaning all members of a household can use the Rs 5 lakh annual cover. Parents of both spouses are included as dependents, and physically challenged family members are also covered without any additional condition.",
+        "Neonatal and pediatric care is also included, covering premature births, neonatal ICU, treatment of congenital conditions, and childhood surgeries at empanelled children's hospitals and paediatric units. This removes one of the most financially crushing medical burdens faced by young families."
+      ]
+    },
+    {
+      "type": "number_highlight",
+      "big": "₹5 Lakh",
+      "title": "Cashless Cover Per Family, Per Year",
+      "desc": "The full Rs 5 lakh is shared across all family members for secondary and tertiary care.<br><br>It resets every year, covers pre-existing diseases from day one, and carries zero premium or co-payment for the family."
+    },
+    {
+      "type": "text",
+      "heading": "The Lady-Centric Smart Card",
+      "icon": "💳",
+      "content": [
+        "The scheme is lady-centric: the smart health card is issued in the name of the woman of the household. She is the primary cardholder and her family members are linked to her card, reinforcing the scheme's goal of giving women ownership of the family's health security.",
+        "The Swasthya Sathi Smart Card is a biometric-enabled chip card that captures the photographs, fingerprints, address, mobile number, SECC (Socio-Economic Caste Census) ID and bank details of each enrolled family. The card is generated on the same day as enrolment at the camp or portal, with no waiting for a physical card from a distant office.",
+        "District-level monitoring of the Swasthya Sathi scheme is handled by the District Chief Medical Officer in coordination with the District Magistrate. Regular review meetings are held at the district level to check hospital empanelment status, beneficiary complaint pendency and claim settlement timelines across all blocks in the district."
+      ]
+    },
+    {
+      "type": "eligibility_check",
+      "heading": "Who qualifies",
+      "icon": "✅",
+      "qualify": [
+        "Permanent resident of West Bengal",
+        "Any family, regardless of income level",
+        "Larger families (no size cap)",
+        "Families with elderly parents or in-laws",
+        "Households with disabled dependents"
+      ],
+      "disqualify": [
+        "Non-residents of West Bengal",
+        "No valid WB residence proof",
+        "Seeking treatment outside WB (no national portability)",
+        "Duplicate card for the same family unit"
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "How Enrolment Works",
+      "icon": "📝",
+      "content": [
+        "Enrolment was historically done through special Swasthya Sathi camps organized in every block and ward. After 2020, enrolment was integrated into the Duare Sarkar (government at your doorstep) programme, where residents can complete registration at camps organized near their homes or at designated government offices.",
+        "Online application for the Swasthya Sathi card is available at accounts.swasthyasathi.gov.in. Applicants select Form A (new registration), Form B (member addition), Form C (card re-issue) or Form D (beneficiary updates) depending on what they need, fill in the details, upload documents and submit for processing.",
+        "The Swasthya Sathi portal also maintains a public-facing dashboard showing scheme statistics such as total families covered, hospitalizations by district, and claim settlement rates. Citizens can visit swasthyasathi.gov.in to view state-level and district-level data on scheme performance, which ensures transparency in how public health funds are being used."
+      ]
+    },
+    {
+      "type": "process_flow",
+      "heading": "How to Get Your Swasthya Sathi Card",
+      "steps": [
+        {
+          "icon": "file",
+          "title": "Apply online or at a camp",
+          "desc": "Use Form A at accounts.swasthyasathi.gov.in, or visit a Duare Sarkar camp with Aadhaar, voter ID, and a photo of the woman of the household."
+        },
+        {
+          "icon": "users",
+          "title": "Enter details and biometric",
+          "desc": "The operator records all family members, captures the woman's fingerprint, and sends an OTP to your mobile for verification."
+        },
+        {
+          "icon": "wallet",
+          "title": "Card generated same day",
+          "desc": "The digital smart card is generated the same day and sent to your phone as a download link, carrying a QR code for hospitals."
+        },
+        {
+          "icon": "check",
+          "title": "Use at any empanelled hospital",
+          "desc": "Show the card at the Swasthya Sathi desk, the staff scan it, match the biometric, and confirm your available annual cover."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Coverage in Rural and Remote Districts",
+      "icon": "🌾",
+      "content": [
+        "The Swasthya Sathi mobile app for Android allows beneficiaries to download their card, search for empanelled hospitals near them, check the list of procedures covered and lodge grievances, all from their phone. The app is available free on the Google Play Store.",
+        "The hospital network under Swasthya Sathi covers more than 2,400 public and private hospitals empanelled across West Bengal. Hospitals are graded online based on infrastructure and services, and empanelment is monitored on a continuous basis to ensure quality standards."
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "Which Form You Need",
+      "items": [
+        {
+          "icon": "file",
+          "title": "Form A",
+          "sub": "New family registration for a Swasthya Sathi card."
+        },
+        {
+          "icon": "users",
+          "title": "Form B",
+          "sub": "Adding a new member to an existing family card."
+        },
+        {
+          "icon": "arrow",
+          "title": "Form C",
+          "sub": "Re-issue of a lost or damaged card."
+        },
+        {
+          "icon": "check",
+          "title": "Form D",
+          "sub": "Updating beneficiary details such as mobile number or address."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Documents and Verification",
+      "icon": "📄",
+      "content": [
+        "Documents needed for registration include Aadhaar card, voter ID, a recent passport-size photograph, and proof of residence in West Bengal such as ration card or utility bill. Applicants who have an SECC or BPL card are automatically eligible, but the scheme now covers all families residing in WB regardless of income level.",
+        "After submission of the online or camp application, the registering authority enters the family details into the Swasthya Sathi system. An OTP is sent to the registered mobile number for verification, and the digital Swasthya Sathi card is generated and sent to the applicant's phone as a download link."
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "Card Download and Status Check",
+      "items": [
+        {
+          "icon": "file",
+          "title": "Download the card",
+          "sub": "Log in at swasthyasathi.gov.in with your registered mobile number and download the PDF card. It carries a QR code hospitals scan to verify coverage."
+        },
+        {
+          "icon": "search",
+          "title": "Check application status",
+          "sub": "Go to data.swasthyasathi.gov.in/SSDataEntryStatusCheck.aspx and enter your district and Aadhaar number to see if the card is pending, approved, or issued."
+        },
+        {
+          "icon": "wallet",
+          "title": "Use the mobile app",
+          "sub": "The free Android app lets you download the card, find empanelled hospitals nearby, see covered procedures, and lodge grievances."
+        },
+        {
+          "icon": "arrow",
+          "title": "Keep mobile number active",
+          "sub": "SMS alerts go to your registered number at card generation, admission pre-authorization, and claim settlement. Update it at the Panchayat if it changes."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Downloading and Verifying the Card",
+      "icon": "🔎",
+      "content": [
+        "Application status can be checked at any time on data.swasthyasathi.gov.in/SSDataEntryStatusCheck.aspx by entering the district and Aadhaar number. The system shows whether the application is pending data entry, under verification, approved or card-issued.",
+        "Once the card is ready, it can be downloaded as a PDF from the Swasthya Sathi portal by logging in with the registered mobile number. The downloaded card carries a QR code that empanelled hospitals scan to instantly verify the beneficiary's coverage and remaining annual limit."
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "What Treatments Are Covered",
+      "items": [
+        {
+          "icon": "shield",
+          "title": "Major surgeries and ICU",
+          "sub": "Cardiac bypass, angioplasty, joint replacement, neurosurgery, organ transplants, and ICU admission are all in the package schedule."
+        },
+        {
+          "icon": "sparkles",
+          "title": "Cancer and dialysis",
+          "sub": "Surgery, chemotherapy, radiation, and targeted cancer therapy, plus kidney dialysis, are covered within the Rs 5 lakh limit."
+        },
+        {
+          "icon": "file",
+          "title": "Maternity and newborn",
+          "sub": "Normal and caesarean delivery, high-risk pregnancy, neonatal ICU, and childhood surgeries are included."
+        },
+        {
+          "icon": "check",
+          "title": "Mental health",
+          "sub": "Inpatient psychiatric care at an empanelled facility is covered in line with the Mental Healthcare Act 2017."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Using the Card at a Hospital",
+      "icon": "🏥",
+      "content": [
+        "To use the Swasthya Sathi card at a hospital, the beneficiary walks to the Swasthya Sathi desk or reception counter and presents the smart card. The hospital staff scan the card, match the biometric (fingerprint) of the primary cardholder or a declared family member, and confirm the available annual coverage.",
+        "For planned (elective) procedures, the hospital must obtain pre-authorization from the insurer before the patient is admitted. The pre-authorization is processed entirely online and the turnaround time is 24 hours, meaning most planned admissions are approved within one day."
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "The Hospital Network and Claims",
+      "items": [
+        {
+          "icon": "trophy",
+          "title": "2,400+ hospitals",
+          "sub": "Public and private hospitals across all 23 districts, graded online by infrastructure and monitored continuously for quality."
+        },
+        {
+          "icon": "file",
+          "title": "24-hour pre-authorization",
+          "sub": "Planned admissions are approved online within 24 hours. Emergencies are admitted first, with authorization filed within 24 hours after."
+        },
+        {
+          "icon": "wallet",
+          "title": "30-day claim settlement",
+          "sub": "Hospitals are paid within 30 days of a complete claim. Delays beyond 30 days attract interest, pushing timely settlement."
+        },
+        {
+          "icon": "shield",
+          "title": "Fraud monitoring",
+          "sub": "A machine-intelligence layer flags abnormal billing patterns, and hospitals found defrauding the scheme are de-empanelled."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Emergencies, Records and Claim Payment",
+      "icon": "⏱️",
+      "content": [
+        "For emergency admissions, the hospital can admit the patient immediately and apply for pre-authorization within 24 hours of admission. No treatment is delayed on account of the pre-authorization process in genuine emergency situations.",
+        "Claim payment to the hospital is made within 30 days of claim submission with complete documents. If the insurer or trust delays payment beyond 30 days, interest is charged on the outstanding amount as a penalty, creating a strong incentive for timely settlement."
+      ]
+    },
+    {
+      "type": "pullquote",
+      "text": "Amar babar open heart surgery hoye giyechilo Kolkatar ek baro hospital-e. Swasthya Sathi card dekhiye admit koralo, operation koralo, discharge koralo. Ek taka nite parlo na amader kaach theke. Ei card ta jano bhagaban."
+    },
+    {
+      "type": "text",
+      "heading": "Alerts, Helpline and Grievances",
+      "icon": "📞",
+      "content": [
+        "SMS alerts are sent to the beneficiary's registered mobile number at every key stage: when the card is generated, when a hospital admission is pre-authorized, and when the claim is settled. This transparency mechanism helps detect fraud and keeps the family informed about their coverage use.",
+        "The 24x7 toll-free helpline at 18003455384 handles calls in Bengali and English for registration queries, hospital location, complaint escalation and card-related issues. An online grievance monitoring system is also available on the portal for written complaints."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "icon": "info",
+      "title": "Help With Registration in Rural Areas",
+      "content": "ASHA workers and community health activists help rural families register, especially at Duare Sarkar camps.<br><br>If online registration is difficult, approach your nearest ASHA or the Block Medical Officer of Health for assisted enrolment."
+    },
+    {
+      "type": "text",
+      "heading": "Why WB Built Its Own Scheme",
+      "icon": "🏛️",
+      "content": [
+        "Swasthya Sathi was West Bengal's alternative to the Centre's Ayushman Bharat PM-JAY scheme after the TMC government under Mamata Banerjee declined to implement the central programme. WB families who earlier held RSBY (Rashtriya Swasthya Bima Yojana) smart cards were migrated to Swasthya Sathi, giving them higher coverage of Rs 5 lakh versus the earlier Rs 30,000.",
+        "Family members registered under a West Bengal family's Swasthya Sathi card cannot use it for treatment at hospitals outside the state, since the scheme is state-bound and has no national portability. This limitation was a key reason the new WB government chose to adopt Ayushman Bharat in 2026, which gives beneficiaries cashless access at empanelled hospitals across every state in India."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "warning",
+      "icon": "alert",
+      "title": "2026 Update: The Switch to Ayushman Bharat",
+      "content": "In May 2026 the new WB government approved the Centre's Ayushman Bharat PM-JAY for the state, with new cards expected from July 2026.<br><br>Existing Swasthya Sathi cards stay valid during the phased transition, so keep using yours. If you have no card yet, enrol in Swasthya Sathi now rather than wait, as it gives immediate cover at 2,400+ hospitals."
+    },
+    {
+      "type": "text",
+      "heading": "The Transition Timeline",
+      "icon": "🔄",
+      "content": [
+        "The transition from Swasthya Sathi to Ayushman Bharat is expected to be phased, with new Ayushman Bharat health cards starting to reach beneficiaries from July 2026. During the transition period, existing Swasthya Sathi cardholders can continue using their cards at empanelled hospitals without interruption.",
+        "The coverage amount under Ayushman Bharat PM-JAY is the same Rs 5 lakh per family per year as Swasthya Sathi, but Ayushman Bharat provides national portability, meaning WB families can get cashless treatment at empanelled hospitals across India and not just within West Bengal."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "info",
+      "icon": "info",
+      "title": "The One Big Limitation",
+      "content": "Swasthya Sathi works only within West Bengal and has no national portability, so a WB card cannot be used in another state.<br><br>This was a key reason the new government adopted Ayushman Bharat, which gives cashless treatment at empanelled hospitals across India."
+    },
+    {
+      "type": "text",
+      "heading": "What Cardholders Should Do Now",
+      "icon": "✅",
+      "content": [
+        "Families who have not yet enrolled in any health scheme should apply through the Swasthya Sathi online portal or at government camps until the Ayushman Bharat rollout in WB is complete. Enrolment in Swasthya Sathi during the transition will help ensure smooth migration to the new scheme.",
+        "Residents who have not yet enrolled in any scheme should enrol in Swasthya Sathi now and not wait for Ayushman Bharat cards, since the transition timeline may extend. A Swasthya Sathi card provides immediate protection and is accepted at over 2,400 hospitals across West Bengal during the current period."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Swasthya Sathi Quick Reference",
+      "icon": "📑",
+      "columns": [
+        "Detail",
+        "Value"
+      ],
+      "rows": [
+        [
+          "Official Portal",
+          "swasthyasathi.gov.in"
+        ],
+        [
+          "Apply Online",
+          "accounts.swasthyasathi.gov.in"
+        ],
+        [
+          "Status Check",
+          "data.swasthyasathi.gov.in/SSDataEntryStatusCheck.aspx"
+        ],
+        [
+          "Helpline (24x7)",
+          "18003455384 (toll-free)"
+        ],
+        [
+          "Mobile App",
+          "Swasthya Sathi (available on Google Play Store)"
+        ],
+        [
+          "Annual Cover",
+          "Rs 5,00,000 per family"
+        ],
+        [
+          "Primary Cardholder",
+          "Woman of the household"
+        ],
+        [
+          "Enrolment Mode",
+          "Online at swasthyasathi.gov.in or Duare Sarkar camps"
+        ],
+        [
+          "2026 Update",
+          "Ayushman Bharat PM-JAY rolling out in WB; Swasthya Sathi valid during transition"
+        ]
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the Swasthya Sathi card and who can get it?",
+      "answer": "The Swasthya Sathi card is a free health insurance smart card issued by the West Bengal government to all families in the state. It gives Rs 5 lakh cashless cover per family per year at 2,400+ empanelled hospitals for secondary and tertiary treatments.<br><br>Any resident of West Bengal is eligible and there is no income or BPL restriction."
+    },
+    {
+      "question": "What is Sastho Sathi card?",
+      "answer": "Sastho Sathi is the Bengali pronunciation of Swasthya Sathi. Both names refer to the same West Bengal government health insurance scheme that gives Rs 5 lakh annual cashless cover per family at empanelled hospitals across the state."
+    },
+    {
+      "question": "How do I apply for the Swasthya Sathi card online?",
+      "answer": "Visit accounts.swasthyasathi.gov.in, select Form A for new registration, fill in the family details, upload Aadhaar, voter ID and a photo of the woman of the household, and submit. You can also apply in person at a Duare Sarkar camp or Gram Panchayat office with the same documents."
+    },
+    {
+      "question": "How do I check my Swasthya Sathi card status?",
+      "answer": "Go to data.swasthyasathi.gov.in/SSDataEntryStatusCheck.aspx, select your district, and enter your Aadhaar number. The portal shows whether your application is pending, approved or card-issued.<br><br>You can also call 18003455384 for status updates."
+    },
+    {
+      "question": "How do I download my Swasthya Sathi card?",
+      "answer": "Log in to swasthyasathi.gov.in with your registered mobile number, go to the card download section and click the download icon. The card is generated as a PDF with a QR code.<br><br>You can also receive the download link on your registered mobile number after enrolment."
+    },
+    {
+      "question": "Is the Swasthya Sathi card valid in hospitals outside West Bengal?",
+      "answer": "Swasthya Sathi is valid only at empanelled hospitals within West Bengal. It does not have national portability.<br><br>The new Ayushman Bharat PM-JAY scheme being rolled out in WB from mid-2026 will offer coverage across India at empanelled hospitals in any state."
+    },
+    {
+      "question": "What happens to my Swasthya Sathi card after Ayushman Bharat is launched in WB?",
+      "answer": "The West Bengal government has confirmed that Swasthya Sathi will continue during the transition period after Ayushman Bharat approval in May 2026. Existing cardholders can use their Swasthya Sathi card at empanelled hospitals until new Ayushman Bharat cards are issued, expected from July 2026 onwards."
+    },
+    {
+      "question": "Does Swasthya Sathi cover pre-existing diseases?",
+      "answer": "Yes. All pre-existing diseases are covered from the very first day of enrolment under Swasthya Sathi.<br><br>There is no waiting period and no exclusion of conditions that existed before the family registered for the scheme."
+    },
+    {
+      "question": "Who is the primary cardholder for Swasthya Sathi?",
+      "answer": "The Swasthya Sathi card is issued in the name of the woman of the household, who is the primary cardholder. All family members, including parents-in-law of both spouses and dependent persons with disabilities, are linked to her card."
+    },
+    {
+      "question": "What is the Swasthya Sathi helpline number?",
+      "answer": "The toll-free 24x7 Swasthya Sathi helpline is 18003455384. It handles calls in Bengali and English for enrolment queries, card issues, hospital complaints and grievance filing."
+    },
+    {
+      "question": "Can I use Swasthya Sathi card at a private hospital?",
+      "answer": "Yes, private hospitals that are empanelled under the scheme can provide cashless treatment using the Swasthya Sathi card. Use the hospital search on swasthyasathi.gov.in or the mobile app to find empanelled private hospitals near you."
+    },
+    {
+      "question": "How do I complain if a hospital asks for cash despite having a Swasthya Sathi card?",
+      "answer": "Call the helpline 18003455384 immediately and report the name and location of the hospital. You can also file a written complaint through the online grievance system on swasthyasathi.gov.in.<br><br>Hospitals demanding cash for covered treatments violate scheme rules and can be de-empanelled."
+    }
+  ]
+}
