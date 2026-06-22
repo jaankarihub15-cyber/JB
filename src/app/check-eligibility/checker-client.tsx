@@ -38,6 +38,7 @@ const STATES = [
   { v: "gujarat", l: "Gujarat" },
   { v: "punjab", l: "Punjab" },
   { v: "tamil-nadu", l: "Tamil Nadu" },
+  { v: "kerala", l: "Kerala" },
   { v: "other", l: "Other state / Not listed" },
 ];
 
@@ -211,6 +212,7 @@ export default function CheckerClient({ schemes }: { schemes: CheckerScheme[] })
     "gujarat": { bg: "#FBF3E7", text: "#A8742E" },
     "punjab": { bg: "#EAF6EE", text: "#2E7D46" },
     "tamil-nadu": { bg: "#FDEEF0", text: "#B83D55" },
+    "kerala": { bg: "#E8F5EC", text: "#2E8B57" },
     "central": { bg: "#FBF3E7", text: "#A8742E" },
   };
 
