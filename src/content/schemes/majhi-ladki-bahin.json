@@ -341,44 +341,33 @@
       ]
     },
     {
-      "heading": "Monthly Payment Schedule & Installment Dates",
+      "heading": "Recent Payment Rounds: Verified Dates",
       "icon": "📅",
       "type": "table",
       "columns": [
-        "Installment",
         "Month Covered",
-        "Expected Payment Date",
+        "When It Was Credited",
         "Amount"
       ],
       "rows": [
         [
-          "17th Installment",
           "February 2026",
-          "February 26, 2026",
+          "Began March 29, 2026",
           "₹1,500"
         ],
         [
-          "18th Installment",
-          "March 2026",
-          "March 26, 2026 (expected)",
-          "₹1,500"
+          "March + April 2026",
+          "Paid together in May 2026",
+          "₹3,000 combined"
         ],
         [
-          "19th Installment",
-          "April 2026",
-          "April 26, 2026 (expected)",
-          "₹1,500"
-        ],
-        [
-          "20th Installment",
           "May 2026",
-          "May 26, 2026 (expected)",
+          "Began June 15, 2026",
           "₹1,500"
         ],
         [
-          "Ongoing",
-          "June onwards",
-          "26th of each month (expected)",
+          "June 2026 onwards",
+          "Watch the portal, dates shift",
           "₹1,500"
         ]
       ]
@@ -387,7 +376,7 @@
       "type": "number_highlight",
       "big": "Rs 18,000",
       "title": "Total per beneficiary per year",
-      "desc": "Rs 1,500 every month, 12 months a year, total Rs 18,000 annually per beneficiary. Payments are made via DBT directly to your Aadhaar-linked bank account around the 1st of each month. Maharashtra's annual outflow is approximately Rs 46,000 crore - one of the largest single-scheme expenditures of any Indian state."
+      "desc": "Rs 1,500 every month, 12 months a year, total Rs 18,000 annually per beneficiary.<br><br>Payments are made via DBT to your Aadhaar-linked bank account, normally between the 5th and 10th, though dates have slipped through 2026. Maharashtra's annual outflow is one of the largest single-scheme expenditures of any Indian state."
     },
     {
       "type": "text",
@@ -727,7 +716,7 @@
   "faqs": [
     {
       "question": "When is the next Majhi Ladki Bahin installment date in 2026?",
-      "answer": "Majhi Ladki Bahin installments are credited around the 1st-3rd of each month directly to your Aadhaar-linked bank account. As of June 2026, all earlier installments (1st through 23rd) have been disbursed. The 24th installment is expected in early July 2026. Check exact status at ladakibahin.maharashtra.gov.in by entering your Aadhaar number. If installment is delayed, common reasons are: e-KYC pending, Aadhaar-bank seeding broken, or bank account inactive. Resolve these at your nearest Setu centre."
+      "answer": "Payments are meant to land between the 5th and 10th of each month, but through 2026 they have run about a month behind. The February round began crediting on March 29, and the May round started only from June 15 after February to April were cleared in clubbed transfers.<br><br>So there is no fixed sequential date right now. Check your own status at ladakibahin.maharashtra.gov.in with your Aadhaar number, and if it shows delayed, the usual causes are pending e-KYC or broken Aadhaar-bank seeding."
     },
     {
       "question": "Is bank passbook mandatory for Majhi Ladki Bahin: or is cancelled cheque needed?",
@@ -759,15 +748,15 @@
     },
     {
       "question": "What happens if I miss the e-KYC deadline of March 31, 2026?",
-      "answer": "Your monthly payments will permanently stop. The government will not send any reminder after the deadline-benefits simply discontinue. You cannot apply again or claim back-payments. This is a strict deadline set by the government. Complete e-KYC now even if your current status shows 'Approved'-don't wait for a payment failure or reminder."
+      "answer": "The March 31, 2026 correction window has now closed, so do not rely on that date. If your e-KYC is still incomplete, your payments can pause until you finish it.<br><br>A re-verification window is expected to reopen, but the exact date is not fixed. Confirm the current e-KYC status and any open window on the official portal before acting."
     },
     {
       "question": "Can widows, divorcees, and unmarried women apply?",
       "answer": "Yes, absolutely. Marital status is not a restriction. Widows, divorcees, separated women, and unmarried women all qualify if they meet the age (21-65), income (₹2.5 lakh), and residency (5 years in Maharashtra) criteria. Widows must provide a widowhood certificate or death certificate of spouse; divorcees must provide a divorce decree or application. These documents are issued free by your municipality or gram panchayat."
     },
     {
-      "question": "When is the next Ladki Bahin installment date in 2026?",
-      "answer": "The Ladki Bahin installment is credited on or around the 1st of every month. Check your payment status at ladakibahin.maharashtra.gov.in using your Aadhaar number or application ID. If payment is delayed, verify your bank-Aadhaar linking status."
+      "question": "What is the Ladki Bahin installment date today?",
+      "answer": "There is no single fixed date in 2026 because the schedule has slipped roughly a month behind and some months were paid together. The most recent round, for May, started crediting from June 15.<br><br>The only reliable answer for your account is the live one. Log in at ladakibahin.maharashtra.gov.in or open the Nari Shakti Doot app and check Payment Status with your Aadhaar number."
     },
     {
       "question": "How to check Ladki Bahin payment status online?",
@@ -779,7 +768,7 @@
     },
     {
       "question": "What is the Ladki Bahin e-KYC last date and the last date to apply?",
-      "answer": "The ladki bahin yojana ekyc last date has been set at March 31, 2026, and missing it can pause your payments. The ladki bahin yojana last date to apply follows the state's current application window.<br><br>Complete your e-KYC before the cutoff to keep instalments running. Always confirm the live date on the official portal before relying on it."
+      "answer": "The earlier e-KYC window closed on March 31, 2026, and the last date to apply follows the state's current application window. Neither should be treated as a live date now.<br><br>Complete e-KYC as soon as your status allows to keep instalments running. Always confirm the current date on the official portal before relying on it."
     },
     {
       "question": "What is the Ladki Bahin age limit and how do I check status?",
