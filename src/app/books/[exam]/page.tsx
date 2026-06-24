@@ -8,6 +8,8 @@ import { AuthorBox } from "@/components/author-box";
 
 type Props = { params: Promise<{ exam: string }> };
 
+export const dynamicParams = false;
+
 export async function generateStaticParams() {
   return getAllBookSlugs().map((exam) => ({ exam }));
 }

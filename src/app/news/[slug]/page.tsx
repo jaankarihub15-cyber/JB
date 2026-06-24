@@ -20,6 +20,8 @@ function getAllSlugs() {
     .map((f: string) => f.replace(".json", ""));
 }
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return getAllSlugs().map((slug: string) => ({ slug }));
 }

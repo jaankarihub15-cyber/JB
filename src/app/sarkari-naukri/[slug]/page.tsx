@@ -14,6 +14,8 @@ import type { Metadata } from "next";
 
 type Props = { params: Promise<{ slug: string }> };
 
+export const dynamicParams = false;
+
 export async function generateStaticParams() {
   return getAllSarkariNaukriSlugs().map((slug) => ({ slug }));
 }

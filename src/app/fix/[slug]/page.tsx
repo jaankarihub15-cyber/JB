@@ -5,6 +5,8 @@ import { JsonLd, breadcrumbSchema, faqSchema, howToSchema } from "@/components/j
 import { FixSelector } from "@/components/fix-selector";
 import { FIX_PAGES } from "@/lib/fix-data";
 
+export const dynamicParams = false;
+
 export function generateStaticParams() {
   return FIX_PAGES.map((p) => ({ slug: p.slug }));
 }
