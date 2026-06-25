@@ -37,6 +37,7 @@ export type StateKey =
   | "odisha"
   | "chhattisgarh"
   | "assam"
+  | "manipur"
   | "west-bengal"
   | "gujarat"
   | "punjab"
@@ -239,6 +240,7 @@ export const states: Record<StateKey, {
   "odisha": { slug: "odisha", label: "Odisha", short: "OD" },
   "chhattisgarh": { slug: "chhattisgarh", label: "Chhattisgarh", short: "CG" },
   "assam": { slug: "assam", label: "Assam", short: "AS" },
+  "manipur": { slug: "manipur", label: "Manipur", short: "MN" },
   "west-bengal": { slug: "west-bengal", label: "West Bengal", short: "WB" },
   "gujarat": { slug: "gujarat", label: "Gujarat", short: "GJ" },
   "punjab": { slug: "punjab", label: "Punjab", short: "PB" },

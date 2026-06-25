@@ -25,6 +25,7 @@ export type CheckerScheme = {
 const STATES = [
   { v: "andhra-pradesh", l: "Andhra Pradesh" },
   { v: "assam", l: "Assam" },
+  { v: "manipur", l: "Manipur" },
   { v: "bihar", l: "Bihar" },
   { v: "chhattisgarh", l: "Chhattisgarh" },
   { v: "karnataka", l: "Karnataka" },
@@ -199,6 +200,7 @@ export default function CheckerClient({ schemes }: { schemes: CheckerScheme[] })
   const STATE_COLORS: Record<string, { bg: string; text: string }> = {
     "andhra-pradesh": { bg: "#EAF4EE", text: "#1B6B4A" },
     "assam": { bg: "#EAF4EE", text: "#1B6B4A" },
+    "manipur": { bg: "#EAF0F8", text: "#1E3A6E" },
     "bihar": { bg: "#EEF1FB", text: "#3D55B8" },
     "chhattisgarh": { bg: "#F0EEFB", text: "#5B44C0" },
     "karnataka": { bg: "#EAF4EE", text: "#1B6B4A" },
