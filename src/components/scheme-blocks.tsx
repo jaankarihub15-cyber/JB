@@ -275,7 +275,7 @@ export function NumberHighlight({ big, title, desc }: {
       <div className="text-3xl sm:text-4xl font-extrabold text-amber-900 leading-none flex-shrink-0 text-center sm:min-w-[140px]">{big}</div>
       <div className="flex-1 text-center sm:text-left">
         <h4 className="text-sm font-extrabold text-amber-900 mb-1">{title}</h4>
-        {desc && <p className="text-xs text-amber-800 leading-relaxed">{desc}</p>}
+        {desc && <p className="text-xs text-amber-800 leading-relaxed" dangerouslySetInnerHTML={{ __html: desc }} />}
       </div>
     </div>
   );
