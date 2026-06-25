@@ -1,0 +1,565 @@
+{
+  "slug": "parivar-pehchan-patra",
+  "title": "Parivar Pehchan Patra: PPP Login, Download Family ID",
+  "meta_description": "Parivar Pehchan Patra (PPP) is Haryana's 8-digit Family ID. Login at meraparivar.haryana.gov.in to download, verify income, update data or file a PPP grievance.",
+  "hero": {
+    "icon": "🆔",
+    "one_liner": "Parivar Pehchan Patra (PPP) is Haryana's 8-digit Family ID. Login at meraparivar.haryana.gov.in to download it, fix income, update data, or file a grievance.",
+    "updated_date": "June 2026",
+    "stats": [
+      {
+        "label": "Family ID",
+        "value": "8-Digit"
+      },
+      {
+        "label": "Cost",
+        "value": "Free"
+      },
+      {
+        "label": "Login",
+        "value": "OTP"
+      },
+      {
+        "label": "Portal",
+        "value": "meraparivar"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "🔑",
+      "label": "PPP login",
+      "url": "https://meraparivar.haryana.gov.in"
+    },
+    {
+      "icon": "📥",
+      "label": "Download Family ID",
+      "url": "https://meraparivar.haryana.gov.in"
+    },
+    {
+      "icon": "📝",
+      "label": "File grievance",
+      "url": "https://meraparivar.haryana.gov.in/ReportGrievance"
+    }
+  ],
+  "what_is_it": [
+    "Parivar Pehchan Patra, commonly known as PPP or Family ID, is Haryana government's digital identity system that assigns every family in the state a unique 8-digit identification number. This Family ID has become the mandatory gateway for accessing over 650 government schemes and services in Haryana, from rations and pensions to scholarships and Ayushman Bharat health coverage.",
+    "The Haryana Parivar Pehchan Authority, known as HPPA, administers the system and maintains the policy website at hppa.haryana.gov.in. The primary citizen-facing portal where residents log in, check their family record, update data, and download their Family ID is meraparivar.haryana.gov.in."
+  ],
+  "eligibility": [
+    {
+      "label": "Who needs it",
+      "value": "Every Haryana family. The 8-digit Family ID is the key to all state schemes.",
+      "highlight": true
+    },
+    {
+      "label": "Login",
+      "value": "OTP-based, using the mobile number linked to the family record.",
+      "highlight": true
+    },
+    {
+      "label": "Income matters",
+      "value": "The PPP income figure controls eligibility for pensions, scholarships, ration, and health cover.",
+      "highlight": true
+    },
+    {
+      "label": "Free",
+      "value": "Registration, download, and updates on the official portal are free.",
+      "highlight": false
+    },
+    {
+      "label": "Dynamic",
+      "value": "The record updates as family events change, like a birth, death, or marriage.",
+      "highlight": false
+    }
+  ],
+  "eligibility_filters": {
+    "states": [
+      "haryana"
+    ],
+    "gender": "any",
+    "age_min": null,
+    "age_max": null,
+    "income_max": null,
+    "notes": "Every Haryana family needs a PPP Family ID. 8-digit number, free, OTP login at meraparivar.haryana.gov.in. The PPP income figure drives eligibility for pensions, scholarships, ration cards, and Ayushman Bharat. Keep income, address, and member list current. Grievances at meraparivar.haryana.gov.in/ReportGrievance."
+  },
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Open the Official PPP Portal",
+      "description": "Visit meraparivar.haryana.gov.in on any browser. This is the only official Haryana government portal for PPP citizen login, family ID download, and data updates. Avoid third-party websites that mimic the portal design."
+    },
+    {
+      "step": 2,
+      "title": "Click Citizen Login",
+      "description": "On the homepage, click the Citizen Login button. A login panel opens asking whether you already have a PPP Family ID. Select Yes if your family is already registered or No if you are registering for the first time."
+    },
+    {
+      "step": 3,
+      "title": "Enter Your 8-Digit Family ID",
+      "description": "Type your 8-digit PPP Family ID in the field provided. If you do not remember your Family ID, you can search for it using your registered mobile number or the Aadhaar number of the head of family on the same login page."
+    },
+    {
+      "step": 4,
+      "title": "Enter the OTP",
+      "description": "An OTP is sent to the mobile number registered against the head of your family in the PPP record. Enter this OTP in the verification field within the time limit shown on screen. If OTP does not arrive, check that the registered mobile number is active and reachable."
+    },
+    {
+      "step": 5,
+      "title": "View Your Family Record",
+      "description": "After OTP verification, the portal displays your complete family record including all members, their ages, income data, and Aadhaar linkage status. Review the record for any errors in names, dates of birth, or income before proceeding."
+    },
+    {
+      "step": 6,
+      "title": "Download or Print the Family ID",
+      "description": "Navigate to the Citizen Corner or Print Form section within your logged-in dashboard. Click the Print Form or Download button to generate a PDF of your PPP Family ID. The PDF contains the 8-digit ID, family member details, and a QR code."
+    },
+    {
+      "step": 7,
+      "title": "Update Data or File Correction If Needed",
+      "description": "If you spot incorrect income figures, wrong dates of birth, or missing members in the family record, click the Update Family Details or Correction Module link. Minor corrections can be submitted directly online while significant changes like income revisions go to departmental verification."
+    },
+    {
+      "step": 8,
+      "title": "File a Grievance If Changes Are Stuck",
+      "description": "If a correction request submitted earlier has not been resolved within 30 days, file a grievance at meraparivar.haryana.gov.in/ReportGrievance. Enter your Family ID, authenticate with OTP, select the affected member, describe the issue, attach supporting documents, and note the grievance reference number issued."
+    }
+  ],
+  "official_portal": {
+    "name": "Meraparivar (PPP Portal)",
+    "url": "https://meraparivar.haryana.gov.in"
+  },
+  "related_pages": [
+    {
+      "title": "Haryana Pension",
+      "slug": "haryana-old-age-pension",
+      "tag": "Pension",
+      "url": "/yojana/haryana-old-age-pension"
+    },
+    {
+      "title": "Har Chhatravritti Scholarship",
+      "slug": "har-chatravriti-scholarship",
+      "tag": "Students",
+      "url": "/yojana/har-chatravriti-scholarship"
+    }
+  ],
+  "tags": [
+    "Haryana",
+    "Parivar Pehchan Patra",
+    "PPP",
+    "Family ID",
+    "meraparivar",
+    "HPPA"
+  ],
+  "ministry": "Haryana Parivar Pehchan Authority (HPPA)",
+  "launch_year": 2019,
+  "category": "education",
+  "state": "haryana",
+  "last_reviewed": "June 2026",
+  "schema_type": "FAQPage",
+  "extra_sections": [
+    {
+      "type": "text",
+      "heading": "What Parivar Pehchan Patra Is",
+      "icon": "📖",
+      "content": [
+        "PPP was created to eliminate the repeated submission of the same documents across different government departments. When a family's details are stored and verified in PPP, those records are automatically shared with relevant departments, so a pension applicant does not need to separately prove income, address, or age each time they interact with a new scheme.",
+        "The system is designed to be dynamic rather than static, updating whenever a life event changes a family's composition or circumstances. Births, deaths, and marriages registered with the civil records system are automatically reflected in the family's PPP record, keeping data current without requiring the family to manually initiate an update every time."
+      ]
+    },
+    {
+      "type": "stat_grid",
+      "heading": "PPP Family ID: Key Facts",
+      "icon": "📊",
+      "items": [
+        {
+          "icon": "file",
+          "value": "8-Digit",
+          "label": "Family ID",
+          "color": "green"
+        },
+        {
+          "icon": "wallet",
+          "value": "Free",
+          "label": "All Services",
+          "color": "blue"
+        },
+        {
+          "icon": "shield",
+          "value": "OTP",
+          "label": "Secure Login",
+          "color": "amber"
+        },
+        {
+          "icon": "users",
+          "value": "650+",
+          "label": "Linked Schemes",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "What Parivar Pehchan Patra Is More",
+      "icon": "📖",
+      "content": [
+        "Each PPP family record stores the names, Aadhaar numbers, dates of birth, education levels, occupation types, income details, and residential address of every family member. The annual income figure stored in PPP is particularly significant because most Haryana schemes use family income as the primary eligibility threshold for determining who qualifies for benefits.",
+        "The 8-digit Family ID is the central reference number for all government interactions in Haryana. From filing for a ration card to applying for post-matric scholarship or claiming old-age pension, every application across every department traces back to this one family-level identifier issued through the PPP system.",
+        "PPP is sometimes confused with eKYC or Aadhaar verification, but it is a separate state-level system specific to Haryana. While Aadhaar is a national identity number for individuals, PPP is a family-level identity linked to household income, address, and composition that drives Haryana's benefit delivery infrastructure."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "info",
+      "icon": "info",
+      "title": "Why the Family ID Matters So Much",
+      "content": "The 8-digit Family ID is the single reference for all government dealings in Haryana. Pensions, scholarships, ration cards, and Ayushman health cover all read your PPP data.<br><br>If your PPP details are wrong, those schemes can reject or delay you. Keeping the record correct is the most useful thing you can do."
+    },
+    {
+      "type": "text",
+      "heading": "How to Login and Download",
+      "icon": "🔑",
+      "content": [
+        "Families already registered in PPP access their account through OTP-based authentication using the mobile number registered against the head of the family. If the mobile number linked to the PPP record is active, a citizen can log into meraparivar.haryana.gov.in at any time to view, print, or update their family details.",
+        "Citizens who do not yet have a PPP Family ID can create one directly at meraparivar.haryana.gov.in using the Citizen Login option, without needing to visit a CSC centre. The self-registration requires the Aadhaar number of the family head, and the verification OTP is sent to the Aadhaar-linked mobile number of that person."
+      ]
+    },
+    {
+      "type": "process_flow",
+      "heading": "How to Login and Download Your Family ID",
+      "steps": [
+        {
+          "icon": "file",
+          "title": "Open meraparivar",
+          "desc": "Go to meraparivar.haryana.gov.in, the only official PPP portal. Avoid lookalike sites."
+        },
+        {
+          "icon": "shield",
+          "title": "Enter Family ID and OTP",
+          "desc": "Type your 8-digit Family ID, then verify with the OTP sent to your registered mobile."
+        },
+        {
+          "icon": "search",
+          "title": "Open Citizen Corner",
+          "desc": "Inside Citizen Corner, view your family record and the list of members."
+        },
+        {
+          "icon": "check",
+          "title": "Download the PDF",
+          "desc": "Download or print the Family ID PDF. It is valid for government offices and schools."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "How to Login and Download More",
+      "icon": "🔑",
+      "content": [
+        "After submitting the registration form online, the portal issues a temporary reference number immediately so the family can track their application. The permanent 8-digit Family ID is generated after departmental verification, which typically takes 10 to 30 working days depending on the district-level processing queue.",
+        "Citizens who prefer the offline route can visit the nearest Common Service Centre or Saral Kendra in their district to register for PPP. Operators at these centres have access to the PPP enrollment module and can complete the registration on the family's behalf using Aadhaar-based verification at no cost to the applicant.",
+        "Citizens who want to verify whether their PPP record is being read correctly by a scheme portal can ask the concerned department officer to show them the data pulled from PPP at the time of application. This record pull is logged in the system, and any mismatch visible at that stage can be flagged immediately for correction before the application is processed."
+      ]
+    },
+    {
+      "type": "number_highlight",
+      "big": "Income",
+      "title": "The Figure That Controls Everything",
+      "desc": "The system computes your family income automatically from linked records. This figure is what scheme portals read for eligibility.<br><br>If the computed income is higher than your real income, update it with an income certificate before applying for any benefit."
+    },
+    {
+      "type": "text",
+      "heading": "PPP Income Verification",
+      "icon": "💰",
+      "content": [
+        "To download or print the PPP Family ID, log into Citizen Corner on meraparivar.haryana.gov.in after authenticating with the Family ID and OTP. The portal displays the family record and offers a Print Form option that generates a downloadable PDF containing the 8-digit Family ID, all member names, and a QR code for quick verification.",
+        "The downloaded PPP PDF is a valid document for submission to government offices, CSC operators, and educational institutions when applying for schemes. Families should keep a printed copy accessible for situations where the office or school does not have internet connectivity to verify the digital record in real time."
+      ]
+    },
+    {
+      "type": "eligibility_check",
+      "heading": "When to update your PPP",
+      "icon": "✅",
+      "qualify": [
+        "Computed income is higher than your actual income",
+        "A new member was born or joined the family",
+        "A member passed away or moved out",
+        "Wrong name, date of birth, or occupation",
+        "Mobile number linked to the record has changed"
+      ],
+      "disqualify": [
+        "Details are already correct and current",
+        "You are trying to lower income below your real income",
+        "Documents do not support the change",
+        "Someone else's family record (not yours)",
+        "No supporting certificate for an income change"
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "PPP Income Verification More",
+      "icon": "💰",
+      "content": [
+        "Income verification under PPP is one of its most consequential features for scheme eligibility. The system integrates data from income tax records, EPFO salary databases, employment records, and welfare scheme registrations to automatically compute an estimated annual family income for each household.",
+        "This automated income figure is what most Haryana government portals read when checking a family's eligibility for a scheme. A family whose PPP income shows above a scheme's threshold may face rejection even if their actual income qualifies, making accurate income data in the PPP record a prerequisite for smooth scheme access.",
+        "The Block Town Dashboard available at meraparivar.haryana.gov.in/BlockTownDashboard shows aggregated PPP data for each block, including the count of pending verifications, unresolved grievances, and families with unlinked Aadhaar. District-level programme officers and citizens alike can use this dashboard to understand how many families in a block still need PPP data corrections before their scheme benefits can be processed."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Key PPP Operations: Portal, What You Need, and Timeline",
+      "icon": "📋",
+      "columns": [
+        "Task",
+        "Portal to Use",
+        "Documents Required",
+        "Typical Timeline"
+      ],
+      "rows": [
+        [
+          "Citizen Login and View Record",
+          "meraparivar.haryana.gov.in",
+          "8-digit Family ID + OTP on registered mobile",
+          "Instant on login"
+        ],
+        [
+          "New Family Registration",
+          "meraparivar.haryana.gov.in (Citizen Login)",
+          "Aadhaar of head of family + Aadhaar-linked mobile OTP",
+          "Permanent ID in 10-30 working days; temporary ID immediate"
+        ],
+        [
+          "Income or Data Update (online)",
+          "meraparivar.haryana.gov.in (Update Family Details)",
+          "Family ID + OTP + income certificate or salary slip",
+          "15-30 working days for departmental approval"
+        ],
+        [
+          "Data Correction via CSC/Saral",
+          "Visit nearest CSC or Saral Kendra in your district",
+          "Aadhaar of affected member + supporting document",
+          "15-30 working days; CSC gives tracking reference"
+        ],
+        [
+          "Download Family ID PDF",
+          "meraparivar.haryana.gov.in (Citizen Corner)",
+          "Family ID + OTP",
+          "Instant download once logged in"
+        ],
+        [
+          "Grievance Registration",
+          "meraparivar.haryana.gov.in/ReportGrievance or grievance.edisha.gov.in",
+          "Family ID + OTP + supporting document for disputed field",
+          "Reference number issued immediately; resolution varies"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "How to Update Income Details",
+      "icon": "✏️",
+      "content": [
+        "When the automatically computed income figure does not match a family's actual income, the family needs to initiate a correction with supporting documents. Families with income from agriculture, daily wages, or informal labour often need to upload an income certificate because these income types are not captured in formal employment or tax databases.",
+        "To update income details online, log into meraparivar.haryana.gov.in with the Family ID and OTP, then navigate to the Update Family Details section. After selecting the family member whose income needs correction, edit the income field, upload a supporting document such as an income certificate or salary slip, and submit the request for departmental review.",
+        "After submission, the income update request enters a verification queue managed by the block or district-level PPP authority. The timeline for resolution varies but most income corrections are processed within 15 to 30 working days, after which the updated income figure becomes visible to all linked Haryana government portals.",
+        "Citizens unable to update income details online can visit the nearest CSC or Saral Kendra, where the operator has access to the PPP updation module. The operator can upload income documents, enter corrected figures, and provide a reference number to track the status of the pending update request."
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "What PPP Unlocks",
+      "items": [
+        {
+          "icon": "shield",
+          "title": "Pensions",
+          "sub": "Old age, widow, and Divyang pensions all read PPP age and income."
+        },
+        {
+          "icon": "sparkles",
+          "title": "Scholarships",
+          "sub": "Har Chhatravritti post-matric scholarships fetch eligibility from PPP."
+        },
+        {
+          "icon": "file",
+          "title": "Ration cards",
+          "sub": "BPL and NFSA ration eligibility is decided using PPP income and household size."
+        },
+        {
+          "icon": "wallet",
+          "title": "Ayushman Bharat",
+          "sub": "Eligible families are identified for health cover using PPP income data."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Filing a PPP Grievance",
+      "icon": "📨",
+      "content": [
+        "The PPP Self-Correction Module allows citizens to fix minor data errors directly without needing a CSC operator. Under the Family Details tab on meraparivar.haryana.gov.in, a Correction Module link opens a guided form for correcting names, dates of birth, addresses, or relationship details for any family member.",
+        "For significant changes such as income revisions, occupation changes, or deletion of a family member, the system routes the request to the PPP Block Operator or a district-level authority for human verification before approving the change. This additional verification step prevents fraudulent manipulation of data to incorrectly claim scheme benefits.",
+        "PPP data verification is the background process that happens when a department or scheme portal confirms a family's details before processing a benefit. When a citizen submits a Haryana government scheme application, the department's system automatically retrieves the applicant's PPP record and checks it against the scheme's eligibility parameters.",
+        "If PPP data verification fails because income, age, or residential status does not match what the scheme expects, the application is held pending a data correction in PPP. This means resolving PPP data errors proactively, well before a scheme deadline, saves significant delays in the actual benefit application."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "warning",
+      "icon": "alert",
+      "title": "If Your Mobile Number Has Changed",
+      "content": "PPP login and updates need the OTP sent to the registered mobile. If that number is inactive or changed, you cannot log in or get benefits.<br><br>Update the mobile number at a CSC or Saral Kendra with your Family ID and Aadhaar, then resume online access."
+    },
+    {
+      "type": "text",
+      "heading": "PPP and Haryana Schemes",
+      "icon": "🔗",
+      "content": [
+        "PPP grievances can be filed through two official channels: meraparivar.haryana.gov.in/ReportGrievance and grievance.edisha.gov.in. Both portals require the citizen to enter their 8-digit Family ID and authenticate with an OTP before describing the grievance and uploading any supporting documents.",
+        "After OTP verification, the citizen selects the family member whose data needs correction, specifies the type of discrepancy, and submits the complaint. The system generates a reference number that can be used to track the status of the grievance and follow up with the district PPP officer if resolution is delayed.",
+        "Types of PPP grievances include incorrect name spellings, wrong date of birth, incorrect income figures, wrong occupation category, missing family members, and duplicate IDs. Grievances that block a family from receiving an active pension payment or scholarship disbursement are generally prioritised in the district-level resolution queue.",
+        "The connection between PPP and Haryana pensions is one of the most direct ways the Family ID affects daily life. Old-age pension, widow pension, and disability pension under the Haryana social security scheme are disbursed using PPP data to verify eligibility and route payments to the correct Aadhaar-linked bank account."
+      ]
+    },
+    {
+      "type": "pullquote",
+      "text": "Your PPP income figure controls eligibility for pensions, scholarships, ration cards, and health cover in Haryana. If the income stored in your family's PPP record is higher than your actual income, update it with an income certificate before the next scheme deadline. Corrections take 15 to 30 working days, so never wait until the last week."
+    },
+    {
+      "type": "text",
+      "heading": "Keeping Your Mobile Number Active",
+      "icon": "📱",
+      "content": [
+        "A pensioner whose age or income is incorrectly entered in PPP may face disruption to their monthly pension even if they have been receiving it for years. Verifying PPP details periodically ensures that the record stays current and no eligibility challenge arises during routine departmental audits.",
+        "Post-matric scholarships under Har Chhatravritti, Haryana's state scholarship portal, also draw eligibility data from PPP. A student applying for SC, BC, or EBC post-matric scholarship must have their family income correctly reflected in PPP because the scholarship portal validates the annual income directly from the PPP record before processing the application.",
+        "Ration cards in Haryana are linked to PPP data for determining household size, income slab, and residential eligibility. The type of ration card a family receives and the monthly grain entitlement are both computed using the family details stored in the PPP system.",
+        "Ayushman Bharat health coverage for eligible Haryana families is also identified using PPP income data. The central and state governments use PPP records to identify families below the income threshold and generate health cover entitlements, meaning a family with an inflated income figure in PPP may be incorrectly excluded from free hospitalisation benefits."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "PPP Haryana: Quick Reference",
+      "icon": "📑",
+      "columns": [
+        "Detail",
+        "Value"
+      ],
+      "rows": [
+        [
+          "Full Name",
+          "Parivar Pehchan Patra (PPP) or Family ID"
+        ],
+        [
+          "Administered By",
+          "Haryana Parivar Pehchan Authority (HPPA)"
+        ],
+        [
+          "Citizen Portal",
+          "meraparivar.haryana.gov.in"
+        ],
+        [
+          "HPPA Website",
+          "hppa.haryana.gov.in"
+        ],
+        [
+          "Grievance Portal",
+          "grievance.edisha.gov.in or meraparivar.haryana.gov.in/ReportGrievance"
+        ],
+        [
+          "Family ID Format",
+          "8-digit unique number per family"
+        ],
+        [
+          "Schemes Linked",
+          "650+ Haryana government schemes and services"
+        ],
+        [
+          "Cost",
+          "Free: no fee at CSC, Saral Kendra, or online portal"
+        ],
+        [
+          "New Registration Time",
+          "10-30 working days for permanent ID after submission"
+        ],
+        [
+          "Income Update Time",
+          "15-30 working days after departmental submission"
+        ],
+        [
+          "Login Method",
+          "8-digit Family ID + OTP on head of family's mobile"
+        ],
+        [
+          "Offline Assistance",
+          "CSC or Saral Kendra in your district"
+        ],
+        [
+          "Life Event Updates",
+          "Birth, death, marriage auto-linked with civil records"
+        ],
+        [
+          "Self-Correction",
+          "Available via Correction Module under Family Details tab"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Adding New Family Members",
+      "icon": "👶",
+      "content": [
+        "Families that have recently moved to Haryana and are not yet in the PPP system should complete registration promptly because most state scheme applications now require a valid Haryana Family ID at the time of submission. Without a registered PPP number, even genuinely eligible families face rejection at the application stage of almost every Haryana government scheme.",
+        "If the mobile number linked to the PPP record is no longer active or has been changed, the family cannot receive the OTP needed for online access. In this situation, visiting a CSC centre with the Aadhaar cards of both the head of family and the requesting member is the recommended route to update the registered mobile number in the PPP system.",
+        "PPP registration and all updates through the official portal at meraparivar.haryana.gov.in are entirely free of charge. No operator at any CSC or Saral Kendra is authorised to collect fees for PPP registration, update, correction, or download, and any demand for payment should be reported to the HPPA helpline at hppa.haryana.gov.in.",
+        "PPP access is protected through Aadhaar-linked OTP authentication, meaning only a person with access to the head of family's registered mobile number can view or modify the record online. Citizens should never share their Family ID and OTP with unofficial agents or third-party websites that offer PPP services, as these are not authorised by the Haryana government."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "icon": "info",
+      "title": "PPP Self-Correction and Safety Notes",
+      "content": "Haryana's citizen service delivery platform accepts PPP data as the primary source for verifying identity and eligibility across applications filed at Saral centres and district offices. Most Saral-based service requests pre-fill the applicant's details from the PPP record, reducing data entry errors and speeding up processing for the applicant.<br><br>Families expecting a major scheme application should verify their PPP income figure, address, and member list at least a month before the application deadline so corrections can be processed in time. Income corrections that go through departmental verification take 15 to 30 working days, and raising a correction during an active deadline window often results in missing both the PPP update and the scheme application window.<br><br>The HPPA regularly adds new Haryana schemes to the PPP-linked ecosystem, making the Family ID progressively more central to how citizens access welfare, employment, and social protection. Keeping PPP data accurate and up to date is no longer a one-time task but an ongoing household responsibility for every family in Haryana.<br><br>New members added to a family after the initial PPP registration, such as a newborn or a daughter-in-law after marriage, can be added to the existing family record through the Update Family Details module on meraparivar.haryana.gov.in. Adding the new member promptly ensures they are included in scheme eligibility calculations from the earliest opportunity."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is Parivar Pehchan Patra (PPP)?",
+      "answer": "Parivar Pehchan Patra (PPP) is Haryana's official Family ID system that assigns an 8-digit unique identifier to every household in the state. It is mandatory for accessing over 650 Haryana government schemes including pensions, ration cards, post-matric scholarships, Ayushman Bharat health cover, and more.<br><br>The citizen portal is meraparivar.haryana.gov.in."
+    },
+    {
+      "question": "How do I do PPP login on meraparivar.haryana.gov.in?",
+      "answer": "Go to meraparivar.haryana.gov.in, click Citizen Login, and enter your 8-digit Family ID. An OTP will be sent to the mobile number registered against your family head in the PPP record.<br><br>Enter the OTP to log in and view your family details, download the ID, or update information."
+    },
+    {
+      "question": "How do I download my Haryana Family ID?",
+      "answer": "Log in to meraparivar.haryana.gov.in with your Family ID and OTP, then navigate to the Citizen Corner section. Click Print Form or the download option to generate a PDF of your PPP Family ID.<br><br>The PDF contains the 8-digit ID, all member names, and a QR code and is a valid document for government submissions."
+    },
+    {
+      "question": "What is PPP income verification in Haryana?",
+      "answer": "PPP income verification is the process by which the system automatically estimates a family's annual income using data from income tax records, EPFO databases, and employment records. This computed income figure is used by all Haryana government scheme portals to check eligibility.<br><br>If the figure is wrong, it must be corrected with supporting documents through the Update Family Details module."
+    },
+    {
+      "question": "How do I update income details in PPP Haryana?",
+      "answer": "Log in to meraparivar.haryana.gov.in with your Family ID and OTP. Go to Update Family Details, select the family member whose income needs correction, edit the income field, upload an income certificate or salary slip, and submit.<br><br>The correction is reviewed by a departmental authority and typically resolved within 15 to 30 working days."
+    },
+    {
+      "question": "How do I register a PPP grievance online?",
+      "answer": "Visit meraparivar.haryana.gov.in/ReportGrievance or grievance.edisha.gov.in. Enter your 8-digit Family ID and authenticate with OTP.<br><br>Select the family member with incorrect data, describe the discrepancy, attach supporting documents, and submit. The system provides a grievance reference number to track resolution."
+    },
+    {
+      "question": "What if my registered mobile number is changed or inactive?",
+      "answer": "If the mobile number linked to your PPP record is no longer active, you cannot receive OTP for online access. Visit the nearest CSC or Saral Kendra with the Aadhaar cards of the family head and the requesting member.<br><br>The operator can update the registered mobile number in the PPP system after Aadhaar-based verification."
+    },
+    {
+      "question": "Is PPP registration free?",
+      "answer": "Yes, PPP registration, update, correction, and download are entirely free of charge. No fees are authorised at any CSC, Saral Kendra, or government office for any PPP service.<br><br>If a CSC operator demands payment, report the incident to the HPPA helpline available at hppa.haryana.gov.in."
+    },
+    {
+      "question": "What schemes require PPP Family ID in Haryana?",
+      "answer": "PPP Family ID is mandatory for old-age pension, widow pension, disability pension, ration card, Har Chhatravritti post-matric scholarships, Ayushman Bharat health cover, housing assistance, and most other Haryana welfare schemes. The state has linked over 650 government services to the PPP system."
+    },
+    {
+      "question": "How do I register a new family in PPP Haryana?",
+      "answer": "Visit meraparivar.haryana.gov.in and click Citizen Login. Select the option for new registration and enter the Aadhaar number of the family head.<br><br>An OTP is sent to the Aadhaar-linked mobile number. After OTP verification, fill in all family member details and submit.<br><br>A temporary reference number is issued immediately and the permanent 8-digit Family ID arrives within 10 to 30 working days."
+    }
+  ]
+}

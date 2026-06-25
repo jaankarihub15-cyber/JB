@@ -1,0 +1,516 @@
+{
+  "slug": "haryana-old-age-pension",
+  "title": "Haryana Pension: Check Status, Amount, Apply Online",
+  "meta_description": "Check Haryana pension status, amount and eligibility for Old Age Samman Allowance, widow and disability pension at socialjusticehry.gov.in.",
+  "hero": {
+    "icon": "👴",
+    "one_liner": "Haryana runs old age, widow, and Divyang pensions, around Rs 3,000 a month by DBT. Apply with your Family ID and check status at pension.socialjusticehry.gov.in.",
+    "updated_date": "June 2026",
+    "stats": [
+      {
+        "label": "Old Age",
+        "value": "₹3,000"
+      },
+      {
+        "label": "Min Age",
+        "value": "60"
+      },
+      {
+        "label": "Income Limit",
+        "value": "₹3 Lakh"
+      },
+      {
+        "label": "Portal",
+        "value": "socialjusticehry"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "🔍",
+      "label": "Check status",
+      "url": "https://pension.socialjusticehry.gov.in"
+    },
+    {
+      "icon": "📝",
+      "label": "Apply (Saral)",
+      "url": "https://saralharyana.gov.in"
+    },
+    {
+      "icon": "📞",
+      "label": "Saral 1800-2000-023",
+      "url": "tel:18002000023"
+    }
+  ],
+  "what_is_it": [
+    "Haryana runs three social security pension schemes under the Directorate of Social Justice and Empowerment. Together these schemes provide monthly income to senior citizens, widows, destitute women, and persons with disabilities across all districts of the state.",
+    "The Old Age Samman Allowance, the Widow and Destitute Women Allowance, and the Haryana Divyang Pension are funded entirely by the state government. All three pensions are disbursed through Direct Benefit Transfer via PFMS every month."
+  ],
+  "eligibility": [
+    {
+      "label": "Old Age Samman",
+      "value": "Haryana residents aged 60+, family income up to Rs 3 lakh a year. Around Rs 3,000 a month.",
+      "highlight": true
+    },
+    {
+      "label": "Widow allowance",
+      "value": "Women 18+ who are widowed or destitute, own income within the limit.",
+      "highlight": true
+    },
+    {
+      "label": "Divyang pension",
+      "value": "Residents with 60 to 100 percent disability, with a medical board certificate.",
+      "highlight": true
+    },
+    {
+      "label": "Family ID",
+      "value": "A valid Parivar Pehchan Patra (Family ID) is mandatory for every pension.",
+      "highlight": false
+    },
+    {
+      "label": "Residency",
+      "value": "Haryana domicile, generally with long-term residency in the state.",
+      "highlight": false
+    }
+  ],
+  "eligibility_filters": {
+    "states": [
+      "haryana"
+    ],
+    "gender": "any",
+    "age_min": null,
+    "age_max": null,
+    "income_max": 300000,
+    "notes": "Haryana residents. Old age 60+ (family income up to Rs 3 lakh), widow/destitute women 18+, Divyang 60-100 percent disability. Around Rs 3,000 a month by DBT. Family ID (PPP) mandatory. Apply via Saral/CSC, check status at pension.socialjusticehry.gov.in. Saral helpline 1800-2000-023."
+  },
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Open the pension beneficiary search portal",
+      "description": "Open your browser and go to pension.socialjusticehry.gov.in. This is the official Haryana pension status portal maintained by the Directorate of Social Justice and Empowerment and is available 24 hours a day without any login or registration. The site works on both mobile and desktop browsers."
+    },
+    {
+      "step": 2,
+      "title": "Choose your search method",
+      "description": "On the portal home page, select the type of ID you want to use to search for your pension record. The four options available are Pension ID, Aadhaar number, bank account number, and Parivar Pehchan Patra Family ID. Choose whichever ID you have readily accessible as all four return the same status details."
+    },
+    {
+      "step": 3,
+      "title": "Enter your ID number carefully",
+      "description": "Type your selected ID number into the search box exactly as it appears on your Aadhaar card, bank passbook, or pension letter. Avoid spaces and double-check for typos before clicking search, as even a single wrong digit will return no result. Aadhaar numbers should be entered as a continuous 12-digit string."
+    },
+    {
+      "step": 4,
+      "title": "Review pension status and payment details",
+      "description": "The portal displays your name, pension type, sanction date, current status, and recent payment dates. If the status shows Pending, your application is still under verification at the block or district level. An Active status with a payment date means the pension has been sanctioned and is being credited regularly to your account."
+    },
+    {
+      "step": 5,
+      "title": "Note your Pension ID for future use",
+      "description": "Once your pension is sanctioned, note down the Pension ID displayed on the status page and keep it in a safe place. The Pension ID is required for all future status checks, helpline calls, and grievance filing. If your application is still in process, note the application reference number shown on the portal instead."
+    },
+    {
+      "step": 6,
+      "title": "Update your bank account if it has changed",
+      "description": "If your bank account number has changed after pension sanction, visit a Saral Kendra or CSC immediately with your new passbook copy showing Aadhaar seeding. Submit a bank update request so payments are not delayed or returned. Your old account must remain active until the PFMS system confirms the transfer to the new account."
+    },
+    {
+      "step": 7,
+      "title": "Raise a grievance if payment is stopped",
+      "description": "If the portal shows an active pension but no payment has been credited in the past month, call the Saral helpline at 1800-2000-023 with your Pension ID ready. You can also raise a grievance at meraparivar.haryana.gov.in or through the CM Window at cmharyanacell.nic.in. Payment issues are typically resolved within seven to fourteen working days after the complaint is registered."
+    },
+    {
+      "step": 8,
+      "title": "Confirm annual renewal through PPP",
+      "description": "Haryana pensions are renewed annually using the PPP database and Aadhaar biometric records instead of paper life certificates. You do not need to visit any office for renewal unless the department sends a specific notice requesting additional verification. Keeping your Family ID data updated at meraparivar.haryana.gov.in ensures seamless automatic renewal every year."
+    }
+  ],
+  "official_portal": {
+    "name": "Haryana Pension Portal",
+    "url": "https://pension.socialjusticehry.gov.in"
+  },
+  "related_pages": [
+    {
+      "title": "Parivar Pehchan Patra (PPP)",
+      "slug": "parivar-pehchan-patra",
+      "tag": "Family ID",
+      "url": "/yojana/parivar-pehchan-patra"
+    },
+    {
+      "title": "Har Chhatravritti Scholarship",
+      "slug": "har-chatravriti-scholarship",
+      "tag": "Students",
+      "url": "/yojana/har-chatravriti-scholarship"
+    }
+  ],
+  "tags": [
+    "Haryana",
+    "Old Age Pension",
+    "Budhapa Pension",
+    "Widow Pension",
+    "Divyang Pension",
+    "Samman Allowance"
+  ],
+  "ministry": "Directorate of Social Justice and Empowerment, Haryana",
+  "launch_year": 1991,
+  "category": "senior-citizen",
+  "state": "haryana",
+  "last_reviewed": "June 2026",
+  "schema_type": "FAQPage",
+  "extra_sections": [
+    {
+      "type": "text",
+      "heading": "Haryana's Three Pension Schemes",
+      "icon": "📖",
+      "content": [
+        "Any resident applying for a Haryana pension must first have a valid Parivar Pehchan Patra or Family ID from meraparivar.haryana.gov.in. The 8-digit Family ID links each household to income, age, and demographic data that the department uses to verify eligibility automatically.",
+        "The Old Age Samman Allowance is the primary budhapa pension for Haryana residents aged 60 years and above. It was designed to provide monthly financial support to elderly citizens who lack sufficient income to meet daily living expenses.",
+        "Both husband and wife may each draw the Old Age Samman Allowance separately if each individually meets the residency and income criteria. The pension is credited monthly to the Aadhaar-linked bank account of each beneficiary without any manual collection.",
+        "There is no upper age limit for the Old Age Samman Allowance and applications are accepted throughout the year. Any Haryana domicile aged 60 or above whose household income stays within the prescribed limit may apply at the nearest CSC or Atal Seva Kendra.",
+        "For elderly applicants who find it difficult to travel, CSC operators are authorised to assist with pension applications under the Antyodaya-Saral mission. The Saral helpline at 1800-2000-023 can connect applicants with the nearest operator who provides on-site or doorstep assistance services."
+      ]
+    },
+    {
+      "type": "stat_grid",
+      "heading": "Haryana Pension: Key Numbers",
+      "icon": "📊",
+      "items": [
+        {
+          "icon": "wallet",
+          "value": "₹3,000",
+          "label": "Per Month (approx)",
+          "color": "green"
+        },
+        {
+          "icon": "users",
+          "value": "60+",
+          "label": "Old Age",
+          "color": "blue"
+        },
+        {
+          "icon": "shield",
+          "value": "₹3 Lakh",
+          "label": "Income Limit",
+          "color": "amber"
+        },
+        {
+          "icon": "file",
+          "value": "DBT",
+          "label": "To Bank Account",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Old Age Samman Allowance",
+      "icon": "👵",
+      "content": [
+        "Senior citizens in Haryana who are also residents of the Old Age Home at Rewari, which is operated by the same Directorate of Social Justice and Empowerment, may have their pension arrangements reviewed by the department. For most pensioners living independently, the monthly allowance continues without any interruption.",
+        "The Widow and Destitute Women Allowance provides monthly support to women who have lost their husbands or are living without adequate family support. The scheme was created specifically to protect economically vulnerable women from falling into poverty.",
+        "A woman qualifies for the widow pension if she is 18 years of age or above and her own income from all sources is below Rs 3,00,000 per year. She must fall under one of three categories: a widow, a destitute woman without husband, parents, or adult sons, or a woman whose husband is incapacitated and unable to earn.",
+        "Women receiving the widow pension should ensure their Parivar Pehchan Patra Family ID reflects current household details and income. The department cross-checks income and family composition data from the PPP system during its annual beneficiary verification cycle.",
+        "The Department of Social Justice and Empowerment also operates the Haryana Persons with Disabilities framework, which governs both the Divyang Pension and the associated aids and appliances reimbursement scheme at DRC Bhiwani. Applicants for the Divyang Pension may simultaneously apply for assistive devices through the same District Social Welfare Officer."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "warning",
+      "icon": "alert",
+      "title": "On the Exact Pension Amount",
+      "content": "The official Social Justice department lists around Rs 3,000 a month for old age, widow, and Divyang pensions. News reports say the rate is being revised upward toward Rs 3,200.<br><br>Amounts change through gazette notifications. Confirm the current credited amount on pension.socialjusticehry.gov.in rather than relying on any single figure."
+    },
+    {
+      "type": "text",
+      "heading": "Widow and Destitute Women Allowance",
+      "icon": "💗",
+      "content": [
+        "Women drawing the widow pension who subsequently remarry must inform the department, as remarriage typically makes a beneficiary ineligible for the allowance. Failure to disclose changes in marital status or income may result in recovery of amounts already paid to the beneficiary.",
+        "The Haryana Divyang Pension Scheme was launched in 1981-82 to support persons with disabilities who are unable to sustain themselves financially. It is one of the longest-running social security programmes in the state, with its monthly amount revised more than a dozen times since inception.",
+        "Any Haryana resident with a disability ranging from 60 to 100 percent is potentially eligible for the Divyang Pension. The applicant must be at least 18 years of age and must have been residing in Haryana for a minimum of three consecutive years at the time of application.",
+        "The income limit for the Divyang Pension is set at the minimum wages for unskilled labour as notified by the Haryana Labour Department from time to time. This threshold is reviewed periodically and remains lower than the income ceiling for the old age or widow pension.",
+        "Haryana's social security pension system has grown to cover over 1.8 lakh Divyang beneficiaries as of 2023-24, in addition to the much larger base of old age and widow pension recipients spread across 22 districts. The state continues to add eligible new beneficiaries each month through the automated PPP-linked identification process."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Haryana Social Security Pension: All Three Schemes at a Glance",
+      "icon": "📋",
+      "columns": [
+        "Pension Scheme",
+        "Eligible Age",
+        "Income Limit",
+        "Amount Per Month"
+      ],
+      "rows": [
+        [
+          "Old Age Samman Allowance (Budhapa Pension)",
+          "60 years and above",
+          "Rs 3,00,000/year combined with spouse",
+          "Rs 3,000 (w.e.f. 01.01.2024)"
+        ],
+        [
+          "Widow and Destitute Women Allowance",
+          "18 years and above",
+          "Rs 3,00,000/year own income only",
+          "Rs 3,200 (w.e.f. 01.11.2025)"
+        ],
+        [
+          "Divyang (Disability) Pension",
+          "18 years and above",
+          "Up to minimum unskilled wages notified by Labour Dept",
+          "Rs 3,000 (w.e.f. 01.01.2024)"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Haryana Divyang Pension",
+      "icon": "♿",
+      "content": [
+        "Disability categories covered under the Divyang Pension include blindness, low vision, leprosy-cured persons, hearing impairment, locomotor disability, mental retardation, and mental illness. Thalassemia and haemophilia were subsequently added through a government notification, expanding the scope of who qualifies under the scheme.",
+        "A disability certificate from a government-authorised medical board is mandatory for the Divyang Pension application. The certificate must clearly specify the type of disability and the assessed percentage, as both factors determine eligibility under the scheme rules.",
+        "The Divyang Pension disbursement follows the same DBT route as the other two pensions, with amounts credited on the same monthly schedule. Persons with severe disabilities who face difficulty accessing banking services in person may contact the District Social Welfare Office to arrange an alternative disbursement method.",
+        "Haryana's pension portal at pension.socialjusticehry.gov.in also provides district-wise sanction lists and beneficiary statistics that officials monitor for payment compliance. Cases where payments have not been credited for three or more consecutive months are flagged for investigation by the district office.",
+        "The Department of Social Justice and Empowerment publishes detailed beneficiary and expenditure data on its website at socialjusticehry.gov.in each year. Citizens can access this information to verify the total number of Haryana pension beneficiaries in their district and the total monthly disbursement under each scheme."
+      ]
+    },
+    {
+      "type": "eligibility_check",
+      "heading": "Who qualifies",
+      "icon": "✅",
+      "qualify": [
+        "Haryana resident aged 60+ for old age pension",
+        "Widowed or destitute woman, 18 or older",
+        "Person with 60 to 100 percent disability",
+        "Valid Family ID (PPP) with correct details",
+        "Family income within the scheme limit"
+      ],
+      "disqualify": [
+        "Receiving another government pension",
+        "Family income above the limit",
+        "Family ID missing or with wrong income",
+        "Not a Haryana domicile",
+        "Bank account not Aadhaar-seeded"
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "How to Apply for a Haryana Pension",
+      "icon": "📝",
+      "content": [
+        "All three pension schemes are now applied for through the Parivar Pehchan Patra platform and the Antyodaya-Saral portal at saralharyana.gov.in. Applicants visit their nearest Atal Seva Kendra, Common Service Centre, or Saral Kendra to submit the application along with required documents.",
+        "Documents required for any Haryana pension application include the Family ID, Aadhaar card, Aadhaar-seeded bank passbook, and age proof such as a birth certificate or school leaving certificate. For the widow pension, the husband's death certificate is additionally required at the time of submission.",
+        "For the Divyang Pension application, the disability certificate from a government-authorised medical board specifying the type and percentage of disability is mandatory. A domicile certificate or residency proof may also be needed to satisfy the three-year Haryana residency requirement if the applicant has recently relocated.",
+        "After the application is submitted, it goes through a verification process involving the Block Development Officer and the District Social Welfare Officer. The department auto-fetches income and household data from the PPP Family ID, which shortens the overall verification timeline considerably.",
+        "Widows and senior citizens who are also registered under the Haryana Parivar Pehchan Authority system may receive automatic pension notifications when their family data crosses the eligibility threshold. The proactive identification system eliminates the need for many citizens to initiate the pension application process on their own."
+      ]
+    },
+    {
+      "type": "number_highlight",
+      "big": "Family ID",
+      "title": "Mandatory for Every Pension",
+      "desc": "You cannot apply for any Haryana pension without a valid Parivar Pehchan Patra, the Family ID. Your age and income are pulled from it automatically.<br><br>If your PPP shows a wrong income or age, the pension can be delayed or rejected. Fix the PPP first, then apply."
+    },
+    {
+      "type": "text",
+      "heading": "How to Check Pension Status",
+      "icon": "🔎",
+      "content": [
+        "Once the application is approved, the pension is released through PFMS and credited directly to the beneficiary's Aadhaar-linked bank account. The monthly disbursement date varies slightly by district but generally falls in the first or second week of each month.",
+        "Beneficiaries can check their pension status, payment history, and sanction details online at pension.socialjusticehry.gov.in at any time. The portal allows search by Pension ID, Aadhaar number, bank account number, or Parivar Pehchan Patra Family ID.",
+        "The pension status portal is maintained by the Directorate of Social Justice and Empowerment and reflects the current stage of any application or payment. If a sanction is still pending, the portal shows which level of verification the file is currently at, helping applicants approach the right office.",
+        "Pensioners who change their bank account must submit a bank update request at a Saral Kendra or CSC to prevent payment failures. The new bank account must have Aadhaar seeding completed before the pension can be redirected to the updated account through PFMS."
+      ]
+    },
+    {
+      "type": "process_flow",
+      "heading": "How to Apply for a Haryana Pension Steps",
+      "steps": [
+        {
+          "icon": "file",
+          "title": "Keep your Family ID ready",
+          "desc": "Make sure your PPP Family ID shows correct age, income, and member details before you start."
+        },
+        {
+          "icon": "search",
+          "title": "Visit a Saral or CSC kendra",
+          "desc": "Go to an Atal Seva Kendra, CSC, or Saral Kendra with your Family ID and documents."
+        },
+        {
+          "icon": "shield",
+          "title": "Data is auto-fetched",
+          "desc": "Your income and age are pulled from the PPP database, so verification is faster than the old paper process."
+        },
+        {
+          "icon": "check",
+          "title": "Verification and DBT",
+          "desc": "The BDO or DSWO verifies, and once approved the pension is credited through PFMS to your bank account."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "If Your Pension Is Delayed or Stopped",
+      "icon": "⚠️",
+      "content": [
+        "Annual verification of beneficiaries is carried out using the PPP database and Aadhaar biometric records rather than paper life certificates. Pensioners do not need to visit any office for annual renewal as long as their PPP data is current and their Aadhaar is active.",
+        "Haryana uses the Antyodaya-Saral portal to track pension applications from submission to final sanction. Citizens can visit saralharyana.gov.in and enter their application reference number to see exactly which stage their file is at and which officer is currently handling it.",
+        "The department has a dedicated Saral helpline at 1800-2000-023 (toll-free) for all social security pension queries. The Directorate of Social Justice and Empowerment main helpline at 0172-2715090 handles district office contacts and escalation of unresolved cases.",
+        "If a pension application is rejected, the applicant may file an appeal through the Antyodaya-Saral platform or visit the District Social Welfare Office in person. Common reasons for rejection include mismatched data between Aadhaar and PPP records, incomplete documentation, or income exceeding the prescribed limit."
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "Documents You Need",
+      "items": [
+        {
+          "icon": "file",
+          "title": "Family ID (PPP)",
+          "sub": "Mandatory, with correct age and income reflected."
+        },
+        {
+          "icon": "shield",
+          "title": "Aadhaar and bank passbook",
+          "sub": "Aadhaar seeded to the bank account for DBT."
+        },
+        {
+          "icon": "search",
+          "title": "Disability certificate",
+          "sub": "From a government medical board, for the Divyang pension only."
+        },
+        {
+          "icon": "users",
+          "title": "Age or residence proof",
+          "sub": "To confirm 60+ age and Haryana domicile."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Annual Verification and Bank Updates",
+      "icon": "🔄",
+      "content": [
+        "Pension-related grievances can be raised through the CM Window portal at cmharyanacell.nic.in or through the Parivar Pehchan Patra grievance section at grievance.edisha.gov.in. Complaints about delayed or stopped payments should include the Pension ID and bank account number for faster resolution.",
+        "Pension amounts in Haryana are revised through gazette notifications, and the enhanced amount is credited automatically from the effective date without requiring beneficiaries to reapply. All three pensions have seen upward revisions at regular intervals, with the widow pension most recently revised to Rs 3,200 from November 2025.",
+        "Haryana's pension delivery infrastructure is integrated with the PPP system, which links over 650 government schemes to citizen Family IDs. When household data on the PPP is accurate and up-to-date, the department can identify newly eligible beneficiaries and proactively add them to the pension rolls.",
+        "Citizens who helped elderly relatives apply for the budhapa pension previously had to collect paper forms and visit multiple offices across different departments. The entire process is now digital, with application data auto-populated from the PPP Family ID, significantly reducing the burden on applicants and their families."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "icon": "info",
+      "title": "Common Reasons a Pension Stops",
+      "content": "The usual causes are a wrong income in the PPP, a missed annual verification or Jeevan Pramaan, or an Aadhaar not seeded to the bank.<br><br>Check your status at pension.socialjusticehry.gov.in, fix the specific issue, and raise a grievance on the CM Window or Saral portal if needed."
+    },
+    {
+      "type": "text",
+      "heading": "Grievances and Saral Helpline",
+      "icon": "📞",
+      "content": [
+        "The income verification for pension eligibility now uses digital data from tax records, EPFO, and the PPP household database rather than manual income certificates. This has reduced fraudulent applications and ensured that genuinely needy citizens receive faster access to their monthly allowance.",
+        "Haryana's three pension schemes are aligned with National Social Assistance Programme guidelines but offer state-level top-ups above the central contribution. The state ensures that Haryana beneficiaries receive amounts significantly higher than the central share, reflecting the government's priority for social security expenditure.",
+        "The budhapa pension and pension status Haryana are among the most frequently searched welfare terms in the state, reflecting the large elderly population across rural and urban Haryana that depends on the allowance as a primary income source. The digital PPP verification system has made the process accessible even to residents in remote blocks.",
+        "All three Haryana pensions are non-contributory, meaning beneficiaries do not need to have made any prior payments to become eligible. Eligibility depends entirely on age, income, domicile, disability status, and the specific qualifying condition applicable to each scheme."
+      ]
+    },
+    {
+      "type": "pullquote",
+      "text": "Haryana pensions reach every eligible citizen through the PPP Family ID and direct bank transfer, removing middlemen and ensuring the monthly amount arrives in the beneficiary's account without delay or manual intervention."
+    },
+    {
+      "type": "table",
+      "heading": "Haryana Pension: Quick Reference",
+      "icon": "📑",
+      "columns": [
+        "Detail",
+        "Value"
+      ],
+      "rows": [
+        [
+          "Pension Status Portal",
+          "pension.socialjusticehry.gov.in"
+        ],
+        [
+          "Department Website",
+          "socialjusticehry.gov.in"
+        ],
+        [
+          "Apply via Saral Portal",
+          "saralharyana.gov.in"
+        ],
+        [
+          "Parivar Pehchan Patra Portal",
+          "meraparivar.haryana.gov.in"
+        ],
+        [
+          "PPP and Pension Grievance",
+          "grievance.edisha.gov.in"
+        ],
+        [
+          "CM Window Grievance",
+          "cmharyanacell.nic.in"
+        ],
+        [
+          "Saral Helpline (Toll-Free)",
+          "1800-2000-023"
+        ],
+        [
+          "Directorate Helpline",
+          "0172-2715090"
+        ]
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the Old Age Samman Allowance amount in Haryana?",
+      "answer": "The current rate is Rs 3,000 per month, effective from 1 January 2024. It is for Haryana residents aged 60 years and above whose combined household income with their spouse does not exceed Rs 3,00,000 per year."
+    },
+    {
+      "question": "How do I check my Haryana pension status online?",
+      "answer": "Visit pension.socialjusticehry.gov.in and search using your Pension ID, Aadhaar number, bank account number, or Parivar Pehchan Patra Family ID. No login is required and the portal is available at all times."
+    },
+    {
+      "question": "What is budhapa pension in Haryana and who qualifies?",
+      "answer": "Budhapa pension is the common name for the Old Age Samman Allowance in Haryana. Any resident aged 60 years or above whose combined household income with their spouse is up to Rs 3,00,000 per year qualifies for the pension of Rs 3,000 per month."
+    },
+    {
+      "question": "What is the current widow pension amount in Haryana?",
+      "answer": "The Widow and Destitute Women Allowance was revised to Rs 3,200 per month effective from 1 November 2025. Previously the rate was Rs 3,000 per month from January 2024."
+    },
+    {
+      "question": "Can a person with disability apply for Divyang Pension in Haryana?",
+      "answer": "Yes. Haryana residents aged 18 and above with 60 to 100 percent disability are eligible for the Divyang Pension of Rs 3,000 per month, provided their income does not exceed the minimum unskilled wages and they have lived in Haryana for at least three consecutive years."
+    },
+    {
+      "question": "Is Parivar Pehchan Patra mandatory for Haryana pension?",
+      "answer": "Yes. Applications for all three social security pensions are now processed through the PPP or Family ID system at meraparivar.haryana.gov.in.<br><br>The Family ID allows the department to auto-verify income, age, and household composition data."
+    },
+    {
+      "question": "Where do I apply for Haryana pension?",
+      "answer": "Applications are submitted at any Atal Seva Kendra, Common Service Centre, or Saral Kendra. The application is processed through the Antyodaya-Saral portal at saralharyana.gov.in.<br><br>You can track your application status on the same portal using the reference number."
+    },
+    {
+      "question": "How is Haryana pension paid to beneficiaries?",
+      "answer": "All three Haryana pensions are paid via Direct Benefit Transfer through PFMS directly to the Aadhaar-linked bank account of the beneficiary each month. No manual collection or disbursement through agents is involved."
+    },
+    {
+      "question": "What documents are needed for the Old Age Samman Allowance?",
+      "answer": "Required documents include the Parivar Pehchan Patra Family ID, Aadhaar card, Aadhaar-seeded bank passbook, and age proof such as a birth certificate or school leaving certificate. Income is verified automatically from the PPP database."
+    },
+    {
+      "question": "What disability types are covered under Haryana Divyang Pension?",
+      "answer": "Covered disabilities include blindness, low vision, leprosy-cured persons, hearing impairment, locomotor disability, mental retardation, mental illness, thalassemia, and haemophilia. The disability certificate must be issued by a government-authorised medical board."
+    },
+    {
+      "question": "Does Haryana widow pension stop after remarriage?",
+      "answer": "Yes. A beneficiary who remarries must inform the Directorate of Social Justice and Empowerment, as remarriage makes the person ineligible for the Widow and Destitute Women Allowance.<br><br>Failure to disclose remarriage may result in recovery of amounts already credited."
+    },
+    {
+      "question": "What should I do if my Haryana pension payment is delayed?",
+      "answer": "First check your status at pension.socialjusticehry.gov.in. If the pension is active but no payment has been credited, call the Saral helpline at 1800-2000-023 or raise a grievance at meraparivar.haryana.gov.in with your Pension ID and bank account number."
+    }
+  ]
+}

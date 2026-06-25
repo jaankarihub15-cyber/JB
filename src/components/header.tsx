@@ -178,6 +178,7 @@ export function Header() {
                         { slug: "karnataka", label: "Karnataka" },
                         { slug: "telangana", label: "Telangana" },
                         { slug: "andhra-pradesh", label: "Andhra Pradesh" },
+                        { slug: "haryana", label: "Haryana" },
                         { slug: "assam", label: "Assam" },
                         { slug: "manipur", label: "Manipur" },
                         { slug: "west-bengal", label: "West Bengal" },
