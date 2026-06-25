@@ -1,0 +1,552 @@
+{
+  "slug": "sspy-up",
+  "title": "SSPY UP: Old Age, Widow, Divyang Pension Apply Online",
+  "meta_description": "SSPY UP portal (sspy-up.gov.in) handles old age, widow, and divyang pension in UP. Rs 1,000/month DBT. Apply online, check status, verify pension list.",
+  "hero": {
+    "icon": "👴",
+    "one_liner": "SSPY UP (sspy-up.gov.in) is Uttar Pradesh's unified pension portal for old age, widow, and Divyang pension. Rs 1,000 a month by DBT. Apply online and check status.",
+    "updated_date": "June 2026",
+    "stats": [
+      {
+        "label": "Monthly Pension",
+        "value": "₹1,000"
+      },
+      {
+        "label": "Paid",
+        "value": "Quarterly"
+      },
+      {
+        "label": "Pension Types",
+        "value": "4"
+      },
+      {
+        "label": "Portal",
+        "value": "sspy-up.gov.in"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "📝",
+      "label": "Apply online",
+      "url": "https://sspy-up.gov.in"
+    },
+    {
+      "icon": "🔍",
+      "label": "Check status / list",
+      "url": "https://sspy-up.gov.in"
+    },
+    {
+      "icon": "📞",
+      "label": "Helpline 18004190001",
+      "url": "tel:18004190001"
+    }
+  ],
+  "what_is_it": [
+    "SSPY UP, short for Samajik Suraksha Pension Yojana Uttar Pradesh, is the state government's unified pension management portal at sspy-up.gov.in. It consolidates four pension schemes — Vridha Pension (old age), Nirashrit Mahila Pension (widow), Divyang Pension (persons with disability), and Kustha Pension (leprosy) — under one online platform for applications, status tracking, and payment verification.",
+    "The portal was created to bring transparency and efficiency to pension disbursement across all 75 districts of Uttar Pradesh. Before the unified portal, beneficiaries had to visit district offices for applications and had no easy way to check payment status."
+  ],
+  "eligibility": [
+    {
+      "label": "Old age (Vridha)",
+      "value": "UP residents aged 60 and above, below poverty line. Rs 1,000 a month.",
+      "highlight": true
+    },
+    {
+      "label": "Widow (Nirashrit Mahila)",
+      "value": "Widowed women, broadly 18 to 59, family income under Rs 2 lakh. Rs 1,000 a month.",
+      "highlight": true
+    },
+    {
+      "label": "Divyang (disability)",
+      "value": "Persons with 40 percent or more disability, aged 18+. Rs 1,000 a month.",
+      "highlight": true
+    },
+    {
+      "label": "Kustha (leprosy)",
+      "value": "Leprosy-affected persons, including cured patients. Rs 2,500 a month.",
+      "highlight": false
+    },
+    {
+      "label": "One pension only",
+      "value": "You can receive only one SSPY pension at a time, not two.",
+      "highlight": false
+    }
+  ],
+  "eligibility_filters": {
+    "states": [
+      "uttar-pradesh"
+    ],
+    "gender": "any",
+    "age_min": null,
+    "age_max": null,
+    "income_max": 200000,
+    "notes": "UP residents: old age 60+ (Rs 1,000), widow 18-59 income under Rs 2 lakh (Rs 1,000), Divyang 40 percent+ disability 18+ (Rs 1,000), leprosy (Rs 2,500). Paid quarterly by DBT. Aadhaar seeding and annual eKYC mandatory. Only one pension per person."
+  },
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Visit sspy-up.gov.in and select your pension type",
+      "description": "Open the official SSPY UP portal at sspy-up.gov.in. On the homepage, you will see four pension options: Vridha Pension (Old Age), Nirashrit Mahila Pension (Widow), Divyang Pension (Disability), and Kustha Avastha Pension (Leprosy). Click 'Aavedan Karen' (Apply) under the relevant pension type."
+    },
+    {
+      "step": 2,
+      "title": "Fill in personal and bank details",
+      "description": "Enter your name, Aadhaar number, date of birth, mobile number, residential address, and bank or post office account details. Bank account must be in your name and linked to Aadhaar for DBT. Ensure the IFSC code and account number are entered correctly to avoid payment failures."
+    },
+    {
+      "step": 3,
+      "title": "Upload required documents",
+      "description": "Upload scanned copies of your Aadhaar card, bank passbook (showing account number and name), age proof or birth certificate, income certificate from Tehsildar, and caste certificate if applicable. Widow applicants must upload the death certificate of the husband. Divyang applicants must upload the disability certificate or UDID card showing 40% or more disability."
+    },
+    {
+      "step": 4,
+      "title": "Submit and note the registration number",
+      "description": "Review all entered information before submitting. After submission, the portal generates a registration number. Note this number and keep it safe; it is required for checking your application status at any time on the SSPY UP portal."
+    },
+    {
+      "step": 5,
+      "title": "Block-level and district-level verification",
+      "description": "After submission, your application goes to the Block Development Officer for preliminary verification, then to the District Social Welfare Officer for final approval. This process typically takes four to six weeks. You can track the status on sspy-up.gov.in using your registration number."
+    },
+    {
+      "step": 6,
+      "title": "Receive pension via DBT after approval",
+      "description": "Once the district office approves your application and activates your pension, the first payment is credited in the next quarterly payment cycle. Payments arrive in March, June, September, and December directly to your bank or post office account."
+    }
+  ],
+  "official_portal": {
+    "name": "Integrated Social Pension Portal (SSPY)",
+    "url": "https://sspy-up.gov.in"
+  },
+  "related_pages": [
+    {
+      "title": "Shadi Anudan UP",
+      "slug": "shadi-anudan-up",
+      "tag": "Welfare",
+      "url": "/yojana/shadi-anudan-up"
+    },
+    {
+      "title": "UP Shramik Card",
+      "slug": "up-shramik-card",
+      "tag": "Workers",
+      "url": "/yojana/up-shramik-card"
+    }
+  ],
+  "tags": [
+    "Uttar Pradesh",
+    "SSPY",
+    "Old Age Pension",
+    "Widow Pension",
+    "Divyang Pension",
+    "Social Welfare"
+  ],
+  "ministry": "Social Welfare Department, Government of Uttar Pradesh",
+  "launch_year": 2016,
+  "category": "senior-citizen",
+  "state": "uttar-pradesh",
+  "last_reviewed": "June 2026",
+  "schema_type": "FAQPage",
+  "extra_sections": [
+    {
+      "type": "text",
+      "heading": "What Is SSPY UP",
+      "icon": "📖",
+      "content": [
+        "All four pension types on the SSPY UP portal are funded jointly by the central and state governments under the National Social Assistance Programme (NSAP) framework. The central government contributes a base amount, and the UP state government tops it up to reach the current payment of Rs 1,000 per month for each pensioner.",
+        "Payments are made through Direct Benefit Transfer (DBT) every quarter. The four quarterly payment windows are March, June, September, and December.",
+        "Pensioners receive the quarterly amount as a lump sum directly to their bank account or post office savings account. Each deposit equals three months of the monthly pension, which is Rs 3,000 for the Rs 1,000/month schemes.",
+        "The old age pension under SSPY UP is called Vridha Vasti Pension. It covers residents of Uttar Pradesh aged 60 years and above whose annual household income does not exceed Rs 46,080 in rural areas or Rs 56,460 in urban areas.",
+        "SSPY UP pension schemes are non-transferable and non-assignable. The benefit belongs solely to the approved beneficiary and cannot be transferred to a family member or nominee."
+      ]
+    },
+    {
+      "type": "stat_grid",
+      "heading": "SSPY UP: Key Numbers",
+      "icon": "📊",
+      "items": [
+        {
+          "icon": "wallet",
+          "value": "₹1,000",
+          "label": "Per Month",
+          "color": "green"
+        },
+        {
+          "icon": "calendar",
+          "value": "₹3,000",
+          "label": "Per Quarter",
+          "color": "blue"
+        },
+        {
+          "icon": "users",
+          "value": "1 Cr+",
+          "label": "Beneficiaries",
+          "color": "amber"
+        },
+        {
+          "icon": "shield",
+          "value": "₹2,500",
+          "label": "Leprosy Pension",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "More Details and Coverage",
+      "icon": "📋",
+      "content": [
+        "Common Service Centres (CSCs), also known as Jan Seva Kendras in UP, are available in most gram panchayats and urban wards. Elderly or disabled applicants who find it difficult to apply online on their own should visit the nearest CSC for assisted application services.",
+        "Applicants in tribal areas or remote districts should check with the district Social Welfare office for any mobile facilitation camps that periodically visit villages to collect pension applications and verify documents on-site. UP conducts such outreach drives ahead of annual enrollment windows.",
+        "Widows who have not yet applied should do so as early as possible after the death of their husband. The SSPY UP portal does not have a strict application window and accepts applications throughout the year, but the sooner an application is filed, the sooner the first quarterly payment begins."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "warning",
+      "icon": "alert",
+      "title": "2026 Rule: eKYC Is Now Mandatory",
+      "content": "From 2026, every SSPY pensioner must complete Aadhaar-based eKYC. Without it, your name is dropped from the DBT list and the pension stops.<br><br>Do the eKYC at sspy-up.gov.in under Aadhaar Authentication, or through the UMANG app, before the next quarterly payment. The toll-free helpline is 18004190001."
+    },
+    {
+      "type": "text",
+      "heading": "The Four Pension Types",
+      "icon": "📋",
+      "content": [
+        "Applicants for Vridha Pension must be domiciled in UP and must not be receiving any other pension from a government source. Both men and women aged 60 or above from BPL (Below Poverty Line) or near-BPL households are eligible.",
+        "The widow pension scheme, officially called Nirashrit Mahila Vasti Pension, covers widowed women of Uttar Pradesh who are 18 years or older. The same income limits apply: Rs 46,080 rural and Rs 56,460 urban per year.",
+        "Widows who remarry become ineligible once their updated marital status is reflected in the district records. The district office updates pension rolls during annual verification drives.",
+        "A widowed woman who is also old enough to qualify for Vridha Pension (60+) can receive only one of the two pensions. Most district offices advise eligible women to apply for Nirashrit Mahila Pension first, as it covers them from age 18, whereas Vridha Pension only starts at 60.",
+        "In the event of the beneficiary's death, the pension is discontinued. Any excess amount credited after the death date is liable to recovery by the department."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "SSPY UP Pension Schemes: Amounts, Eligibility, and Portal",
+      "icon": "📋",
+      "columns": [
+        "Pension Type",
+        "Monthly Amount",
+        "Age / Condition",
+        "Income Limit",
+        "Official Portal"
+      ],
+      "rows": [
+        [
+          "Vridha Vasti (Old Age Pension)",
+          "Rs 1,000/month",
+          "60 years and above",
+          "Rural Rs 46,080/yr; Urban Rs 56,460/yr",
+          "sspy-up.gov.in"
+        ],
+        [
+          "Nirashrit Mahila (Widow Pension)",
+          "Rs 1,000/month",
+          "18 years and above (widowed)",
+          "Rural Rs 46,080/yr; Urban Rs 56,460/yr",
+          "sspy-up.gov.in"
+        ],
+        [
+          "Divyang/Viklang (Disability Pension)",
+          "Rs 1,000/month",
+          "18 years and above; 40%+ disability",
+          "Rural Rs 46,080/yr; Urban Rs 56,460/yr",
+          "sspy-up.gov.in"
+        ],
+        [
+          "Kustha Avastha (Leprosy Pension)",
+          "Rs 2,500/month",
+          "Any age with leprosy",
+          "No income bar",
+          "sspy-up.gov.in"
+        ],
+        [
+          "Payment mode",
+          "Quarterly DBT",
+          "Mar, Jun, Sep, Dec",
+          "Direct to bank/post office",
+          "sspy-up.gov.in"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Old Age and Widow Pension",
+      "icon": "👵",
+      "content": [
+        "The Divyang Pension (disability pension) covers persons with a documented disability of 40% or more, aged 18 years and above. The disability must be certified by a government medical officer and recorded in the government's UDID (Unique Disability ID) system or a district disability certificate issued by the competent medical authority.",
+        "The SSPY UP Divyang Pension does not have a separate sub-scheme for different types of disabilities. Persons with visual, hearing, locomotor, intellectual, or any combination of disabilities that meet the 40% threshold are eligible under the unified Divyang category.",
+        "Previously, disability pensions in UP were sometimes referred to as Viklang Pension, an older term for disability. The current official terminology is Divyang, aligned with the Rights of Persons with Disabilities Act 2016.",
+        "Both Viklang and Divyang refer to the same pension type on the SSPY UP portal. The amount and eligibility criteria remain unchanged regardless of which term is used.",
+        "Family members of deceased pensioners should inform the district Social Welfare office promptly after the pensioner's death to avoid recovery proceedings. The pension is automatically flagged for discontinuation when the next Jeevan Pramaan or annual verification cycle does not return a valid life certificate."
+      ]
+    },
+    {
+      "type": "eligibility_check",
+      "heading": "Who qualifies",
+      "icon": "✅",
+      "qualify": [
+        "UP resident aged 60+ for old age pension",
+        "Widowed woman, broadly 18 to 59, income under Rs 2 lakh",
+        "Person with 40 percent or more disability, aged 18+",
+        "Leprosy-affected person, including cured patients",
+        "Aadhaar seeded to the bank account"
+      ],
+      "disqualify": [
+        "Already getting another government pension",
+        "Income above the scheme limit",
+        "Aadhaar not seeded to the bank account",
+        "eKYC not completed (payment paused)",
+        "Not a permanent UP resident"
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Divyang and Viklang Pension",
+      "icon": "♿",
+      "content": [
+        "The Kustha Avastha Pension (leprosy pension) is distinct from the other three in two ways: the monthly amount is Rs 2,500 instead of Rs 1,000, and there is no income bar for eligibility. Any UP resident diagnosed with leprosy who is receiving treatment or has been discharged after treatment is eligible regardless of household income.",
+        "The SSPY UP portal also integrates with the Jeevan Pramaan digital life certificate system. Pensioners are required to submit a life certificate annually to confirm they are alive and eligible to continue receiving pension.",
+        "The Jeevan Pramaan certificate can be submitted through Aadhaar biometric authentication at Common Service Centres or via the Jeevan Pramaan app. Both options are available across UP, including in rural and semi-urban areas.",
+        "Failure to submit the annual Jeevan Pramaan certificate can result in pension payments being paused. Pensioners who have missed the deadline should visit their nearest CSC or the district Social Welfare office to reactivate their pension by submitting the life certificate.",
+        "Aadhaar seeding — linking the Aadhaar number to the bank account — is mandatory for receiving pension via DBT. Applicants whose bank accounts are not yet Aadhaar-linked should do so at their bank branch before or immediately after submitting the pension application."
+      ]
+    },
+    {
+      "type": "number_highlight",
+      "big": "₹1,000",
+      "title": "Same Pension, Two Names",
+      "desc": "UP's disability pension is officially Divyang Pension, but many people still call it Viklang Pension. They are the same scheme.<br><br>It pays Rs 1,000 a month to persons with 40 percent or more disability, aged 18 and above, with a UDID or medical disability certificate."
+    },
+    {
+      "type": "text",
+      "heading": "How to Apply on SSPY UP",
+      "icon": "📝",
+      "content": [
+        "The SSPY UP portal allows applicants to check their application status by entering the application registration number. The status display shows whether the application is at the district level, verified, approved, or rejected, and at which stage it currently sits.",
+        "Applications on the SSPY UP portal go through a multi-level verification process. After online submission, the application is reviewed at the block level by the Block Development Officer.",
+        "The district-level review is then conducted by the District Social Welfare Officer, whose final approval triggers DBT activation. The full process typically takes four to six weeks from the date of submission.",
+        "Documents required for SSPY UP applications typically include Aadhaar card, bank passbook (with account linked to Aadhaar), age proof (birth certificate or school certificate), income certificate from Tehsildar, and caste certificate (for SC/ST applicants). Divyang applicants additionally need the disability certificate or UDID card.",
+        "For SC and ST applicants, a caste certificate issued by the competent revenue authority is an important supporting document. While pension eligibility is income-based and not caste-based, caste certificates help the district office direct the application through the correct administrative channel for record-keeping purposes."
+      ]
+    },
+    {
+      "type": "process_flow",
+      "heading": "How to Apply for SSPY UP Pension",
+      "steps": [
+        {
+          "icon": "file",
+          "title": "Open the SSPY portal",
+          "desc": "Go to sspy-up.gov.in and choose your pension type: old age, widow, or Divyang and leprosy."
+        },
+        {
+          "icon": "search",
+          "title": "Fill the form",
+          "desc": "Enter personal, address, category, and bank details, and the disability percentage and certificate for Divyang pension."
+        },
+        {
+          "icon": "shield",
+          "title": "Upload documents",
+          "desc": "Attach Aadhaar, bank passbook, age proof, income certificate, and the husband's death certificate for widow pension."
+        },
+        {
+          "icon": "check",
+          "title": "Verification and DBT",
+          "desc": "The District Social Welfare Officer verifies and approves. The pension is then credited quarterly to your account."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Checking Status and the Pension List",
+      "icon": "🔎",
+      "content": [
+        "Widow pension applicants additionally need to submit the death certificate of their husband. This is a mandatory document and the application cannot proceed without it.",
+        "The SSPY UP portal allows applicants to upload all documents online at the time of submission. Physical visits to the district office are not required for the initial application, though some district offices may call applicants for in-person verification of original documents.",
+        "Pension amounts are credited to the beneficiary's bank or post office account in the months of March, June, September, and December. Each credit represents three months of pension at Rs 1,000 per month, so each quarterly deposit is Rs 3,000.",
+        "Pensioners can verify their payment history on the SSPY UP portal under the 'Pension List' or 'Payment Verification' section. Entering the district, block, and pension type shows a list of approved pensioners and their most recent payment details.",
+        "OBC (Other Backward Class) applicants can also benefit from having an OBC certificate, though it is not strictly mandatory for SSPY UP pension applications. The income certificate from the Tehsildar is the most critical document across all categories."
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "Documents You Need",
+      "items": [
+        {
+          "icon": "file",
+          "title": "Aadhaar and bank passbook",
+          "sub": "Aadhaar must be seeded to a bank or post office account for DBT."
+        },
+        {
+          "icon": "shield",
+          "title": "Income certificate",
+          "sub": "Issued by the Tehsildar for the current financial year."
+        },
+        {
+          "icon": "users",
+          "title": "Death certificate (widow)",
+          "sub": "The husband's death certificate is mandatory for widow pension."
+        },
+        {
+          "icon": "search",
+          "title": "Disability certificate (Divyang)",
+          "sub": "A 40 percent or more disability certificate or UDID card from the CMO."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Jeevan Pramaan and Annual Verification",
+      "icon": "🔄",
+      "content": [
+        "The SSPY UP pension list is also published annually at the panchayat and block level for public verification. This is a transparency measure to allow community members to report cases of ineligible or deceased beneficiaries still on the list.",
+        "Beneficiaries who change their bank account should update their account details on the SSPY UP portal or through the district Social Welfare office to ensure that DBT payments continue without interruption. Payments sent to a closed or inactive account are typically returned and require manual reinitiation.",
+        "New pension applicants in Uttar Pradesh should apply through the official SSPY UP portal at sspy-up.gov.in. The portal has a dedicated 'Naya Avedan' (New Application) section where applicants can select their pension type and fill in the required fields.",
+        "The Grievance Redressal section on the SSPY UP portal allows beneficiaries to register complaints about payment delays, rejected applications, or errors in their pension records. Grievances can also be filed through the UP Jansunwai portal at jansunwai.up.nic.in, which routes complaints to the relevant department.",
+        "The income certificate from the Tehsildar should reflect the annual household income for the current or previous financial year. Certificates older than three years are generally not accepted."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "icon": "info",
+      "title": "If Your Pension Stops",
+      "content": "The most common reasons are a missed eKYC or Jeevan Pramaan, an Aadhaar not seeded to the bank, or a broken NPCI mapping.<br><br>Check your status at sspy-up.gov.in, fix the specific issue, and raise a grievance in the portal's Grievance Redressal section if it is not resolved."
+    },
+    {
+      "type": "text",
+      "heading": "Quarterly Payments and Bank Updates",
+      "icon": "💰",
+      "content": [
+        "Senior citizens and disabled persons who are not comfortable using the online portal can apply for SSPY UP pensions at their nearest Common Service Centre (CSC), also called Jan Seva Kendra or Lok Seva Kendra in UP. Operators at CSCs assist applicants with form filling and document upload for a nominal service charge.",
+        "The SSPY UP portal is maintained by the Social Welfare Department of Uttar Pradesh. The department coordinates with the Finance Department and the National Payments Corporation of India (NPCI) to ensure that DBT payments reach beneficiaries without technical failures.",
+        "Pension eligibility is reviewed annually by the district office. Pensions may be cancelled if a beneficiary is found receiving another government pension, if their income has crossed the eligibility limit, or if a verification drive reveals ineligible entries on the rolls.",
+        "Beneficiaries who believe their pension was wrongly cancelled can file a grievance on the SSPY UP portal. Appeals are reviewed by the district Social Welfare officer within a set timeframe.",
+        "Applicants with outdated income certificates should renew them at the Tehsildar office before submitting the pension application. An updated certificate ensures smoother processing at the block and district level."
+      ]
+    },
+    {
+      "type": "pullquote",
+      "text": "An elderly woman in a rural UP village whose husband recently died can apply for both Nirashrit Mahila Pension (from age 18) and later for Vridha Pension (from age 60). She cannot receive both at once, but the SSPY UP portal ensures that her transition from one to the other is managed through the same unified platform at sspy-up.gov.in."
+    },
+    {
+      "type": "text",
+      "heading": "Grievances and Transfers",
+      "icon": "📞",
+      "content": [
+        "Uttar Pradesh is one of the states with the highest number of social pension beneficiaries in India. The SSPY UP platform has significantly improved the speed and accuracy of pension delivery by eliminating intermediaries and ensuring direct transfer to individual accounts.",
+        "Residents of UP who are applying for the first time can also use the mobile-friendly version of the SSPY UP portal on their smartphones. The portal is accessible on Android browsers and does not require a separate mobile app.",
+        "Divyang pensioners who have received a Unique Disability ID (UDID) from the Swavlamban Card portal can use this ID as their primary disability proof. The UDID system is the most accepted and up-to-date record of disability in India, and UP district offices give priority to applicants with valid UDID cards.",
+        "For pensioners in remote or hilly areas of UP who face difficulty accessing banks for cash withdrawal, the post office payment option remains available. Pensioners with post office savings accounts linked to their Aadhaar can receive DBT pension credits directly in their post office account.",
+        "Age proof for the Vridha Pension application can include a school leaving certificate, birth certificate, Aadhaar card (which shows date of birth), voter ID, or any government-issued document with a date of birth. District offices accept multiple forms of age proof if one is unavailable."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "SSPY UP: Quick Reference",
+      "icon": "📑",
+      "columns": [
+        "Detail",
+        "Value"
+      ],
+      "rows": [
+        [
+          "Portal",
+          "sspy-up.gov.in"
+        ],
+        [
+          "Department",
+          "Social Welfare Department, Uttar Pradesh"
+        ],
+        [
+          "Vridha (Old Age) Pension",
+          "Rs 1,000/month | Age 60+ | Income: rural Rs 46,080, urban Rs 56,460 per year"
+        ],
+        [
+          "Nirashrit Mahila (Widow) Pension",
+          "Rs 1,000/month | Age 18+ (widowed) | Same income limits"
+        ],
+        [
+          "Divyang/Viklang (Disability) Pension",
+          "Rs 1,000/month | Age 18+ | 40%+ disability | Same income limits"
+        ],
+        [
+          "Kustha (Leprosy) Pension",
+          "Rs 2,500/month | Any age | No income bar"
+        ],
+        [
+          "Payment schedule",
+          "Quarterly DBT: March, June, September, December"
+        ],
+        [
+          "Each quarterly credit",
+          "Rs 3,000 (for Rs 1,000/month schemes); Rs 7,500 (for Kustha)"
+        ],
+        [
+          "Life certificate",
+          "Annual Jeevan Pramaan required to continue pension"
+        ],
+        [
+          "Status check",
+          "sspy-up.gov.in — enter registration number"
+        ],
+        [
+          "Grievance",
+          "sspy-up.gov.in portal or jansunwai.up.nic.in"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Practical Tips and Process",
+      "icon": "📌",
+      "content": [
+        "Divyang applicants who do not yet have a UDID card can apply for one at their district's Chief Medical Officer (CMO) office or at government hospitals designated for disability assessment. Having a UDID card simplifies the SSPY UP application process and is increasingly required for other government disability benefits as well.",
+        "The SSPY UP Leprosy Pension (Kustha Avastha Pension) is available even to cured leprosy patients. A person who has completed leprosy treatment and received a discharge certificate from the treating hospital is eligible for this pension as a recognition of the social and economic impact the disease may have had.",
+        "SSPY UP pension beneficiaries who relocate within UP can request a transfer of their pension records to their new district. The request is submitted to both the old and new district Social Welfare offices."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is SSPY UP?",
+      "answer": "SSPY UP stands for Samajik Suraksha Pension Yojana Uttar Pradesh. It is the UP government's unified portal at sspy-up.gov.in that manages four pension schemes: Vridha Pension (old age), Nirashrit Mahila Pension (widow), Divyang Pension (disability), and Kustha Pension (leprosy). All four pensions are paid via quarterly DBT to the beneficiary's bank or post office account."
+    },
+    {
+      "question": "How much is the UP old age pension per month?",
+      "answer": "The UP old age pension (Vridha Vasti Pension) is Rs 1,000 per month for residents aged 60 and above. Payments are made quarterly (every 3 months), so each deposit to the bank account is Rs 3,000. Income must not exceed Rs 46,080 per year in rural areas or Rs 56,460 in urban areas."
+    },
+    {
+      "question": "How do I apply for pension on the SSPY UP portal?",
+      "answer": "Visit sspy-up.gov.in and click 'Aavedan Karen' under your pension type (Vridha, Widow, Divyang, or Kustha). Fill in personal details, upload documents (Aadhaar, bank passbook, income certificate, age proof, and type-specific documents), and submit. Note the registration number to track your application status on the portal."
+    },
+    {
+      "question": "What is the SSPY UP pension list?",
+      "answer": "The SSPY UP pension list is the district-wise list of approved pensioners published on sspy-up.gov.in. You can check whether your name is on the list by selecting your district, block, and pension type. The list is also displayed at gram panchayat level for public verification."
+    },
+    {
+      "question": "What is the Divyang pension or Viklang pension in UP?",
+      "answer": "The Divyang Pension (also called Viklang Pension in older usage) is a monthly pension of Rs 1,000 for UP residents aged 18 or above with 40% or more documented disability. The income limit is Rs 46,080 per year in rural areas and Rs 56,460 in urban areas. It is managed through the SSPY UP portal at sspy-up.gov.in."
+    },
+    {
+      "question": "What is the widow pension amount in UP?",
+      "answer": "The widow pension (Nirashrit Mahila Vasti Pension) in UP is Rs 1,000 per month for widowed women aged 18 and above. Payments are made quarterly via DBT. The annual household income must not exceed Rs 46,080 in rural areas or Rs 56,460 in urban areas. Applications are made on sspy-up.gov.in."
+    },
+    {
+      "question": "When is the SSPY UP pension credited?",
+      "answer": "SSPY UP pensions are credited quarterly in March, June, September, and December. Each quarterly payment equals three months of pension. Delays can occur if the annual Jeevan Pramaan (life certificate) has not been submitted or if bank account details have changed without being updated on the portal."
+    },
+    {
+      "question": "How do I check my SSPY UP application status?",
+      "answer": "Go to sspy-up.gov.in and click on 'Avedan ki Sthiti' (Application Status) under your pension type. Enter your registration number to see the current status: pending at block level, pending at district level, approved, or rejected with reason."
+    },
+    {
+      "question": "Is Divyang and Viklang pension the same?",
+      "answer": "Yes. Viklang Pension is the older popular name for what is now officially called Divyang Pension under the Rights of Persons with Disabilities Act 2016. Both refer to the Rs 1,000/month disability pension on the SSPY UP portal (sspy-up.gov.in). The scheme covers UP residents aged 18+ with 40% or more documented disability."
+    },
+    {
+      "question": "What is the Kustha Pension amount in UP?",
+      "answer": "The Kustha Avastha Pension for leprosy-affected persons in UP is Rs 2,500 per month, paid quarterly via DBT. There is no income limit for this pension. Any UP resident diagnosed with or treated for leprosy is eligible. The pension is managed through the SSPY UP portal at sspy-up.gov.in."
+    }
+  ]
+}
