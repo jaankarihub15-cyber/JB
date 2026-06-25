@@ -1,0 +1,511 @@
+{
+  "slug": "saral-haryana",
+  "title": "Antyodaya SARAL Portal Haryana: Apply & Track 600+ Services",
+  "meta_description": "Antyodaya SARAL Portal Haryana at saralharyana.gov.in. Apply for 600+ govt services and schemes online. Track status. Helpline: 0172-3968400.",
+  "hero": {
+    "icon": "🖥️",
+    "one_liner": "Antyodaya SARAL Portal (saralharyana.gov.in) lets Haryana residents apply for hundreds of government services and schemes online and track status in one place.",
+    "updated_date": "June 2026",
+    "stats": [
+      {
+        "label": "Services",
+        "value": "500+"
+      },
+      {
+        "label": "Cost",
+        "value": "Free Signup"
+      },
+      {
+        "label": "Track",
+        "value": "Online/SMS"
+      },
+      {
+        "label": "Helpline",
+        "value": "0172-3968400"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "📝",
+      "label": "Register / login",
+      "url": "https://saralharyana.gov.in"
+    },
+    {
+      "icon": "🔍",
+      "label": "Track status",
+      "url": "https://status.saralharyana.nic.in"
+    },
+    {
+      "icon": "✅",
+      "label": "Eligibility",
+      "url": "/check-eligibility"
+    }
+  ],
+  "what_is_it": [
+    "The Antyodaya SARAL Portal (saralharyana.gov.in) is Haryana's unified digital platform for accessing government schemes and services online, launched under the Antyodaya vision of Chief Minister Manohar Lal Khattar's government to ensure the last-mile citizen can access state benefits without visiting a government office. SARAL stands for Simple, All-Inclusive, Real-Time, Action-Oriented, and Long-Lasting, capturing the core philosophy of the portal: every service should be reachable, trackable, and time-bound.",
+    "Before SARAL, Haryana residents had to visit different government offices for different certificates and schemes: the tehsildar's office for a residence certificate, the social justice department for pension, the food department for a ration card, and so on for each separate need. SARAL consolidates all of these into one login, one dashboard, and one tracking system so that a single platform serves as the citizen's window to the entire Haryana government."
+  ],
+  "eligibility": [
+    {
+      "label": "Who can use it",
+      "value": "Any Haryana resident. Free account with a mobile number and email.",
+      "highlight": true
+    },
+    {
+      "label": "What it offers",
+      "value": "Hundreds of government services and schemes from dozens of departments, in one login.",
+      "highlight": true
+    },
+    {
+      "label": "Track anything",
+      "value": "Every application is tracked online or by SMS, with a defined timeline.",
+      "highlight": true
+    },
+    {
+      "label": "PPP-linked",
+      "value": "Pulls PPP-verified income and family data to pre-fill and check eligibility.",
+      "highlight": false
+    },
+    {
+      "label": "Offline option",
+      "value": "SARAL Kendras across districts help those without internet.",
+      "highlight": false
+    }
+  ],
+  "eligibility_filters": {
+    "states": [
+      "haryana"
+    ],
+    "gender": "any",
+    "age_min": null,
+    "age_max": null,
+    "income_max": null,
+    "notes": "Any Haryana resident. Free signup at saralharyana.gov.in with mobile and email. Hundreds of services and schemes across dozens of departments, all tracked online or by SMS. PPP-integrated. Offline help at SARAL Kendras. Helpline 0172-3968400 (Mon-Sat 7am-8pm). Status at status.saralharyana.nic.in."
+  },
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Register on saralharyana.gov.in",
+      "description": "Go to saralharyana.gov.in and click 'New User - Register Here'. Enter your name, email or mobile number, and create a password. Verify your mobile via OTP. Once registered, you can log in to the SARAL dashboard and apply for any of the 600+ services and schemes listed on the portal. If you already have an account, simply log in with your mobile number and password."
+    },
+    {
+      "step": 2,
+      "title": "Use the Eligibility Checker (optional but recommended)",
+      "description": "Before applying, click 'Check Your Eligibility' on the SARAL homepage. Enter your Gender, Age, Caste category, and Annual Income to see which schemes you qualify for. This helps you discover welfare schemes you may not have known about. Click 'Apply' directly from the eligibility results to start the application for a specific scheme without having to search for it separately."
+    },
+    {
+      "step": 3,
+      "title": "Search for the service and fill the form",
+      "description": "After login, use the search bar or browse by department to find the specific service you need (for example, Income Certificate, Old Age Samman Allowance, or BOCW Bicycle Scheme). Click Apply, and the portal will open the application form. If your PPP Family ID is linked, many fields (name, address, income) are pre-filled. Upload required documents such as Aadhaar, address proof, and any scheme-specific documents in JPG or PDF format."
+    },
+    {
+      "step": 4,
+      "title": "Submit and note your Application Reference ID",
+      "description": "Review your filled application and click Submit. The portal generates a unique Application Reference ID and displays a confirmation page. Save or write down this Reference ID, as you will need it for all future tracking and communication about this application. An SMS confirmation with the Reference ID is also sent to your registered mobile number."
+    },
+    {
+      "step": 5,
+      "title": "Track status online, via SMS, or at the Kendra",
+      "description": "Track your application at any time: on the portal (Track Application section, enter Reference ID), at status.saralharyana.nic.in, or via SMS (send 'SARAL space Application ID' to 7738299899). You can see exactly at which stage your application is, which officer has it, and the expected delivery date based on the SLA. If the SLA is exceeded, the system automatically escalates the application to a senior officer."
+    },
+    {
+      "step": 6,
+      "title": "Download your certificate or receive the benefit",
+      "description": "Once approved, certificates (Resident Certificate, Income Certificate, Caste Certificate, etc.) can be downloaded as PDFs directly from your SARAL dashboard. The downloaded certificates carry a QR code for authenticity verification. For welfare schemes, benefit amounts are credited via DBT to your Aadhaar-linked bank account. For benefits like bicycle or tools purchase, you will receive a notification with next steps for collection or delivery."
+    }
+  ],
+  "official_portal": {
+    "name": "Antyodaya SARAL Portal",
+    "url": "https://saralharyana.gov.in"
+  },
+  "related_pages": [
+    {
+      "title": "Parivar Pehchan Patra (PPP)",
+      "slug": "parivar-pehchan-patra",
+      "tag": "Family ID",
+      "url": "/yojana/parivar-pehchan-patra"
+    },
+    {
+      "title": "Haryana Pension",
+      "slug": "haryana-old-age-pension",
+      "tag": "Pension",
+      "url": "/yojana/haryana-old-age-pension"
+    }
+  ],
+  "tags": [
+    "saral haryana",
+    "antyodaya saral portal",
+    "saralharyana.gov.in",
+    "saral haryana login",
+    "saral haryana status check",
+    "haryana government services online",
+    "saral kendra haryana",
+    "saral haryana certificate"
+  ],
+  "ministry": "Government of Haryana (Antyodaya-SARAL)",
+  "launch_year": 2018,
+  "category": "education",
+  "state": "haryana",
+  "last_reviewed": "June 2026",
+  "schema_type": "FAQPage",
+  "extra_sections": [
+    {
+      "type": "text",
+      "heading": "What the Antyodaya SARAL Portal Is",
+      "icon": "📖",
+      "content": [
+        "The portal today covers over 600 services and schemes from more than 70 departments of the Government of Haryana, making it one of the most comprehensive single-window citizen service portals operated by any Indian state government. These include revenue department certificates, social welfare pensions, labour welfare benefits, agriculture subsidies, education scholarships, municipal services, transport department services, and much more.",
+        "Among the most commonly used services on SARAL are the Resident Certificate (also called Domicile or Residence Certificate), the Income Certificate issued by the Revenue Department, the Caste Certificate for SC/OBC/EWS categories, and the Old Age Samman Allowance under the Social Justice and Empowerment Department. These four alone account for a large share of SARAL's daily traffic.",
+        "The SARAL portal has a built-in eligibility checker that allows any Haryana resident to enter their gender, age, caste category, and annual income and receive a list of all government schemes for which they qualify. This is particularly useful for rural and first-generation beneficiaries who may not know all the schemes they are entitled to, and it removes the need for a middleman to guide them through the process.",
+        "SARAL's registration is open to all Haryana residents: create an account at saralharyana.gov.in by entering your name and mobile number and verifying via OTP, then use the same login to apply for any of the 600+ services and schemes listed on the portal. The account also becomes a repository of all submitted applications and downloaded certificates."
+      ]
+    },
+    {
+      "type": "stat_grid",
+      "heading": "SARAL Haryana: Key Facts",
+      "icon": "📊",
+      "items": [
+        {
+          "icon": "file",
+          "value": "500+",
+          "label": "Services",
+          "color": "green"
+        },
+        {
+          "icon": "users",
+          "value": "Dozens",
+          "label": "Departments",
+          "color": "blue"
+        },
+        {
+          "icon": "check",
+          "value": "Free",
+          "label": "To Register",
+          "color": "amber"
+        },
+        {
+          "icon": "search",
+          "value": "Online",
+          "label": "Status Tracking",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "The Services You Can Access",
+      "icon": "📋",
+      "content": [
+        "Once an application is submitted on SARAL, it is routed to the concerned department official automatically and a unique Application Reference ID is generated. The applicant can use this Reference ID to track the current status of the application in real time, either through the portal's Track Application section, through the dedicated tracking URL at status.saralharyana.nic.in, or via SMS by sending 'SARAL followed by the Application ID' to 7738299899.",
+        "Each service on SARAL has a defined Service Level Agreement (SLA), which sets the maximum number of working days for delivery (ranging from around 7 days for a Resident Certificate to 30 days for a pension application). If the department exceeds the SLA, the application is automatically escalated to the next higher official, creating accountability built into the system.",
+        "Citizens who do not have internet access or digital literacy can access all SARAL services at SARAL Kendras, which are physical service centres set up by the Haryana government at district headquarters, tehsil offices, and sub-divisional offices across the state. A Kendra operator receives the citizen's documents, fills in and submits the application on the portal on their behalf, and gives them a printed copy of the Application Reference ID for tracking.",
+        "The Antyodaya SARAL Helpline 0172-3968400 is available Monday to Saturday from 7 am to 8 pm, and callers can check application status, report SLA delays, get portal navigation help, or raise a service complaint. Unresolved complaints can be escalated further to senior district officials through the helpline's built-in escalation mechanism."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "info",
+      "icon": "info",
+      "title": "One Login for Government Services",
+      "content": "SARAL is Haryana's single-window portal at saralharyana.gov.in. Instead of visiting many offices, you apply for certificates, schemes, and services from one account.<br><br>It is faceless, paperless, and cashless for most services, and every application is tracked online or by SMS."
+    },
+    {
+      "type": "text",
+      "heading": "How to Register and Apply",
+      "icon": "📝",
+      "content": [
+        "SARAL is also available through the UMANG (Unified Mobile Application for New-Age Governance) app, which aggregates central and state government services on a single mobile application. Haryana residents with UMANG installed on their smartphones can access SARAL services through the Service Plus Haryana section within the app without needing a separate login.",
+        "SARAL integrates with Haryana's Parivar Pehchan Patra (PPP) database, automatically using PPP-verified income and family data to determine eligibility and pre-fill application forms, removing the need for a separate income document for each scheme application. This integration also enables auto-identification of eligible beneficiaries, speeding up welfare scheme enrollment significantly.",
+        "Labour department services on SARAL are particularly extensive, covering benefits for registered workers under the Building and Other Construction Workers (BOCW) Act. A registered construction worker can apply through SARAL for the Ambedkar Medhavi Chattar Yojana scholarship for children, the Bicycle Scheme, tools purchase assistance, maternity benefit, and pension, without separate visits to the Labour Department office.",
+        "Agriculture department services available on SARAL include applications for micro-nutrient fertilizer schemes, agricultural equipment subsidies, crop insurance registrations, Meri Fasal Mera Byora crop registration, and Kisan Credit Card facilitation. A Haryana farmer can initiate most of their interaction with the Agriculture Department through a single SARAL login, consolidating what was previously a fragmented multi-office process."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Key Services Available on SARAL Haryana by Department",
+      "icon": "📋",
+      "columns": [
+        "Department",
+        "Key Services and Schemes"
+      ],
+      "rows": [
+        [
+          "Revenue Department",
+          "Resident Certificate, Income Certificate, Caste Certificate, Solvency Certificate, Backward Class Certificate"
+        ],
+        [
+          "Social Justice and Empowerment",
+          "Old Age Samman Allowance, Widow and Destitute Women Allowance, Disability Allowance, Dr. Ambedkar Medhavi Chattar Yojana"
+        ],
+        [
+          "Labour Department (BOCW)",
+          "Bicycle Scheme, Tools Purchase Assistance, Children's Scholarship, Maternity Benefit, Pension for Construction Workers"
+        ],
+        [
+          "Food, Civil Supplies",
+          "New Ration Card Application, Addition/Deletion of Members, Ration Card Surrender"
+        ],
+        [
+          "Agriculture Department",
+          "Micro Nutrient Fertilizer Scheme, Kisan Credit Card Facilitation, Meri Fasal Mera Byora Registration"
+        ],
+        [
+          "Urban Local Bodies",
+          "Marriage Registration, Birth and Death Certificate (for registered events), Property Tax (select municipalities)"
+        ],
+        [
+          "Transport Department",
+          "Dealer Point Registration, Learning Licence Applications"
+        ],
+        [
+          "Education Department",
+          "Post-Matric Scholarships, Merit Scholarships for Government School Students"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Tracking Your Application",
+      "icon": "🔎",
+      "content": [
+        "The Revenue Department's services on SARAL include the full suite of certificates: Resident Certificate, Income Certificate, Caste Certificate, Solvency Certificate, and Backward Class Certificate, among others. Applicants can upload supporting documents digitally (Aadhaar, address proof, bank passbook) and the certificate, once approved by the Revenue official, can be downloaded directly from the SARAL portal with a QR code for authenticity verification.",
+        "Education scholarships available through SARAL include the Ambedkar Medhavi Chattar Yojana for SC/OBC students, merit scholarships for government school students, and post-matric scholarship programmes for higher education. Students no longer need to submit physical applications to schools or education offices; the SARAL submission creates a digital record and triggers automatic routing to the scholarship-processing department.",
+        "The Social Justice and Empowerment Department, which handles pensions and disability welfare, uses SARAL as its primary interface with citizens. Applications for the Old Age Samman Allowance (the Haryana state old-age pension), Widow and Destitute Women Allowance, Disability Allowance, and Lal Dora pension can all be submitted, tracked, and monitored through SARAL, with PPP data pre-filling most fields to reduce data entry.",
+        "Transport department services on SARAL cover Dealer Point Registration, Learning Licence applications, and certain vehicle registration services. Urban Local Body services include birth and death certificate downloads (where previously registered), property tax services in some municipalities, and marriage registration for couples married within Municipal Committee jurisdiction."
+      ]
+    },
+    {
+      "type": "process_flow",
+      "heading": "How to Apply on Antyodaya SARAL",
+      "steps": [
+        {
+          "icon": "file",
+          "title": "Register free",
+          "desc": "Go to saralharyana.gov.in, click New User Register Here, and sign up with your name, email, and mobile."
+        },
+        {
+          "icon": "search",
+          "title": "Find your service",
+          "desc": "Log in and search the service or scheme you need. Use Check Your Eligibility to see what you qualify for."
+        },
+        {
+          "icon": "shield",
+          "title": "Fill and upload",
+          "desc": "Fill the form, which often pre-fills from PPP, and upload the required documents."
+        },
+        {
+          "icon": "check",
+          "title": "Submit and track",
+          "desc": "Submit and note the application ID. Track status online or by SMS until the certificate is ready."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Finding Schemes You Qualify For",
+      "icon": "✅",
+      "content": [
+        "The Food, Civil Supplies and Consumer Affairs Department uses SARAL for new ration card applications, addition or deletion of family members from an existing ration card, and surrender of ration cards. The ration card application on SARAL is particularly important for newly formed families (after marriage) and for families that recently migrated to Haryana and need to establish a ration card in the state.",
+        "Documents commonly required across SARAL services include Aadhaar card (mandatory for identity), PPP Family ID (for most welfare schemes), domicile or residence proof, income certificate (or PPP-verified income for PPP-integrated services), and passport-size photographs. SARAL's document upload section accepts JPG, PNG, and PDF formats and has size limits per file; applicants should ensure their scanned documents are under the specified size limits before uploading.",
+        "SARAL's appeal mechanism allows applicants to file an appeal against a rejected application, routed automatically to the next higher official in the concerned department with the applicant able to track the appeal via the same Reference ID. The appeal window is typically 30 days from the date of rejection.",
+        "Haryana's SARAL model has been studied and cited by other state governments as a best practice in citizen service delivery because of its real-time tracking, SLA enforcement, and multi-channel access (web, SMS, SARAL Kendras, UMANG). The system's escalation mechanism, where delayed applications automatically move up the official hierarchy, has significantly reduced the average time for certificate delivery in Haryana compared to the pre-SARAL era."
+      ]
+    },
+    {
+      "type": "number_highlight",
+      "big": "SLA",
+      "title": "Every Service Has a Time Limit",
+      "desc": "Each SARAL service has a Service Level Agreement, a fixed number of working days within which it must be delivered.<br><br>If an application crosses its SLA, it is auto-escalated, and you can file an appeal through the portal or helpline."
+    },
+    {
+      "type": "text",
+      "heading": "SARAL Kendras and Offline Help",
+      "icon": "🏢",
+      "content": [
+        "Citizens who have previously submitted documents for one SARAL service often find that subsequent applications are faster, as previously verified documents (such as a Resident Certificate or PPP-verified income) can be cited or attached to new applications. SARAL also maintains a history of all certificates issued to a citizen through the portal, allowing them to download past certificates without re-applying.",
+        "SARAL is a fully faceless platform for most services, meaning the applicant and the processing official need never meet in person, which removes the possibility of harassment or demand for unofficial facilitation fees. For services that require on-site verification such as a property inspection or disability assessment, SARAL records the assigned officer and visit date, and the applicant is notified via SMS.",
+        "Students, farmers, construction workers, pensioners, and young people applying for government jobs in Haryana all routinely use the SARAL portal as part of their interaction with the state government. Because many Haryana government forms require certificates (like income certificate for EWS quota or domicile certificate for state reservation), SARAL has become a routine and essential part of the documentation process for competitive exam aspirants and college admission seekers across Haryana.",
+        "The SARAL portal maintains a complete digital audit trail of every application, including which official reviewed it, when the review happened, and what action was taken. This audit trail is visible to the applicant in their dashboard and serves as evidence in case of disputes about whether a service was delivered within the committed SLA."
+      ]
+    },
+    {
+      "type": "eligibility_check",
+      "heading": "Using the eligibility checker",
+      "icon": "✅",
+      "qualify": [
+        "Any Haryana resident with a mobile number",
+        "Looking for certificates like income or residence",
+        "Applying for welfare schemes and pensions",
+        "Wanting to track an existing application",
+        "Needing a digitally signed certificate"
+      ],
+      "disqualify": [
+        "Not a Haryana resident for state services",
+        "No active mobile number for OTP",
+        "Trying to bypass document requirements",
+        "Expecting OPD or non-listed private services",
+        "Wrong PPP data not yet corrected"
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "How PPP Helps on SARAL",
+      "icon": "🔗",
+      "content": [
+        "Haryana residents who move between districts (for example, someone who gets married and relocates from Rohtak to Gurugram) can update their address and PPP records through SARAL without needing to physically appear at tehsil offices in either district. The digital update propagates across linked databases, ensuring the citizen's certificates and welfare scheme eligibility reflect their current address.",
+        "SARAL also serves as the gateway for welfare scheme transfers under Haryana's Direct Benefit Transfer (DBT) architecture, where pension amounts, scholarship disbursements, and cash benefits for labour welfare schemes are credited directly to the bank account linked with the beneficiary's Aadhaar and PPP profile. Beneficiaries can verify their payment status within SARAL rather than waiting for a passbook update at a bank branch.",
+        "For rural Haryana, SARAL has significantly reduced the need to travel long distances to district headquarters for routine government transactions. A farmer in a village in Sirsa district who needs an income certificate for their child's college application can now either apply online from home or walk to the nearest SARAL Kendra at the block level, avoiding the full-day trip to the district collectorate that was previously required.",
+        "The Haryana government periodically adds new services and schemes to SARAL as new welfare programmes are launched or existing offline services are digitized. Citizens can check the complete and current list of available services by category on the SARAL homepage or by using the portal's keyword search to find a specific service by name or department."
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "Popular SARAL Services",
+      "items": [
+        {
+          "icon": "file",
+          "title": "Certificates",
+          "sub": "Resident, income, caste certificates from the Revenue Department."
+        },
+        {
+          "icon": "shield",
+          "title": "Pensions",
+          "sub": "Old age, widow, and Divyang pension applications and tracking."
+        },
+        {
+          "icon": "sparkles",
+          "title": "Scholarships",
+          "sub": "Student scholarships and welfare schemes for various categories."
+        },
+        {
+          "icon": "users",
+          "title": "Ration and labour",
+          "sub": "New ration cards, labour welfare benefits, and more."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Grievances and Appeals",
+      "icon": "📨",
+      "content": [
+        "For Haryanvis working in other states or abroad who need certificates for various purposes, SARAL allows applications to be submitted remotely with documents uploaded digitally. The issued certificates carry QR-code-based verification, which means they can be presented to institutions in other states or countries and verified online without the institution needing to contact the issuing authority in Haryana directly.",
+        "Grievance redressal within SARAL is time-bound: if a complaint raised through the helpline or appeal mechanism is not resolved within the specified grievance resolution timeline, it escalates automatically to the next higher authority, up to the district level. This cascading escalation structure means that a genuinely aggrieved citizen will eventually get their matter reviewed at a level where the official has the authority to resolve most service delivery issues.",
+        "New services from emerging departments are also being added to SARAL over time, including services related to electric vehicle registrations under the transport department, housing board allotments, and Panchayati Raj Department services for village-level administrative needs. The vision of SARAL is to eventually be the singular interface between a Haryana resident and every branch of the state government, making every public service accessible through one platform and one login, regardless of which department is responsible for it."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "icon": "info",
+      "title": "PPP Makes Applications Faster",
+      "content": "SARAL pulls your PPP-verified income and family details automatically, so many forms pre-fill and need fewer documents.<br><br>Keep your PPP Family ID correct and your mobile active, since OTPs and pre-filled data both depend on it."
+    },
+    {
+      "type": "text",
+      "heading": "In the Words of a SARAL User",
+      "icon": "💬",
+      "content": [
+        "Pehle teen office chakkar lagane padte the: tehsil, DC office, aur labour office. Abh SARAL pe ek hi login se sab apply kar diya aur status bhi mobile pe aa gaya."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "SARAL Haryana: Quick Reference",
+      "icon": "📑",
+      "columns": [
+        "Detail",
+        "Value"
+      ],
+      "rows": [
+        [
+          "Portal",
+          "saralharyana.gov.in"
+        ],
+        [
+          "Status tracking",
+          "status.saralharyana.nic.in or saralharyana.gov.in (Track Application)"
+        ],
+        [
+          "SMS tracking",
+          "Send 'SARAL [Application ID]' to 7738299899"
+        ],
+        [
+          "Helpline",
+          "0172-3968400 (Mon-Sat, 7 AM to 8 PM)"
+        ],
+        [
+          "SARAL full form",
+          "Simple, All-Inclusive, Real-Time, Action-Oriented, Long-Lasting"
+        ],
+        [
+          "Services count",
+          "600+ services and schemes from 70+ departments"
+        ],
+        [
+          "Mobile app",
+          "Available via UMANG app (Service Plus Haryana)"
+        ],
+        [
+          "Offline access",
+          "SARAL Kendras at district, tehsil, and sub-division offices"
+        ],
+        [
+          "PPP integration",
+          "PPP Family ID pre-fills data for welfare scheme applications"
+        ],
+        [
+          "Administered by",
+          "Haryana Government, Department of Electronics and IT"
+        ],
+        [
+          "Eligibility check",
+          "Free, no login required: saralharyana.gov.in (Check Your Eligibility)"
+        ]
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is Antyodaya SARAL Portal Haryana?",
+      "answer": "Antyodaya SARAL Portal (saralharyana.gov.in) is Haryana's single-window online platform for accessing 600+ government services and schemes from 70+ departments. SARAL stands for Simple, All-Inclusive, Real-Time, Action-Oriented, Long-Lasting.<br><br>Citizens can apply for certificates (income, residence, caste), welfare pensions, labour benefits, ration cards, scholarships, and much more through one login."
+    },
+    {
+      "question": "How do I check the status of my SARAL Haryana application?",
+      "answer": "Three ways: (1) Go to saralharyana.gov.in or status.saralharyana.nic.in, click Track Application, select your department and service, and enter your Application Reference ID. (2) Send an SMS: 'SARAL [your Application ID]' to 7738299899.<br><br>(3) Call the helpline: 0172-3968400 (Mon-Sat, 7am-8pm) and give your Reference ID."
+    },
+    {
+      "question": "How do I register on the SARAL Haryana portal?",
+      "answer": "Visit saralharyana.gov.in and click 'New User - Register Here'. Enter your name, mobile number (or email), and create a password.<br><br>Verify via OTP sent to your mobile. Once registered, you can log in and apply for any of the 600+ services.<br><br>One SARAL account covers all departments, with no separate logins required."
+    },
+    {
+      "question": "What is the SARAL helpline number for Haryana?",
+      "answer": "The Antyodaya SARAL Helpline is 0172-3968400, available Monday to Saturday from 7 AM to 8 PM. You can call to check application status, report SLA violations, get help with portal navigation, or escalate complaints about delayed services."
+    },
+    {
+      "question": "How can I find out which government schemes I am eligible for in Haryana?",
+      "answer": "Use the free Eligibility Checker on SARAL: visit saralharyana.gov.in, click 'Check Your Eligibility', and enter your Gender, Age, Caste category, and Annual Family Income. The portal instantly shows all Haryana government schemes you qualify for, along with benefit amounts and an Apply button.<br><br>No login is needed for eligibility checking."
+    },
+    {
+      "question": "What is a SARAL Kendra in Haryana?",
+      "answer": "SARAL Kendras are physical service centres set up by the Haryana government at district, tehsil, and sub-divisional offices. If you do not have internet access or are not comfortable using the portal yourself, a Kendra operator will submit your application on SARAL on your behalf, using your documents, and give you a printed Application Reference ID for tracking."
+    },
+    {
+      "question": "Is SARAL Haryana available on mobile?",
+      "answer": "Yes. SARAL Haryana services are accessible through the UMANG (Unified Mobile Application for New-Age Governance) app under the section 'Service Plus Haryana'.<br><br>You can also access the SARAL website on any smartphone browser at saralharyana.gov.in. The tracking portal status.saralharyana.nic.in is also mobile-friendly."
+    },
+    {
+      "question": "What certificates can I download from SARAL Haryana?",
+      "answer": "Once approved, you can download Resident Certificate, Income Certificate, Caste Certificate (SC/OBC/EWS), Solvency Certificate, and Backward Class Certificate directly from your SARAL dashboard as PDFs. Each downloaded certificate has a QR code that any authority can scan to verify its authenticity without contacting the issuing office."
+    },
+    {
+      "question": "Is there any fee for using SARAL Haryana portal?",
+      "answer": "Registration and eligibility checking on SARAL are free. Some individual services have nominal processing fees set by the concerned department (for example, a small fee for a caste certificate or a ration card).<br><br>These fees are disclosed on the service page before you submit. Most certificates and welfare scheme applications have no fee or very small fees."
+    },
+    {
+      "question": "How does PPP (Parivar Pehchan Patra) help on SARAL?",
+      "answer": "Your PPP Family ID (8-digit Haryana Family ID) is linked to SARAL and automatically pre-fills your family details, income, caste, and address when you apply for income-linked welfare schemes. For many schemes, PPP-verified income is accepted without a separate income certificate, making applications faster.<br><br>Link your PPP ID in your SARAL account settings to enjoy this benefit."
+    }
+  ]
+}
