@@ -1,7 +1,7 @@
 import {
   CheckCircle2, XCircle, Check, X, ChevronRight, AlertTriangle,
   Info, Lightbulb, Wallet, Users, Calendar, TrendingUp,
-  ShieldCheck, FileText, ArrowRight, Trophy, Sparkles,
+  ShieldCheck, FileText, ArrowRight, Trophy, Sparkles, Search,
   type LucideIcon,
 } from "lucide-react";
 
@@ -9,7 +9,7 @@ import {
 type IconKey =
   | "wallet" | "users" | "calendar" | "trending" | "shield" | "file"
   | "check" | "x" | "info" | "alert" | "trophy" | "sparkles" | "arrow"
-  | "lightbulb";
+  | "lightbulb" | "search";
 
 const ICONS: Record<IconKey, LucideIcon> = {
   wallet: Wallet,
@@ -26,6 +26,7 @@ const ICONS: Record<IconKey, LucideIcon> = {
   sparkles: Sparkles,
   arrow: ArrowRight,
   lightbulb: Lightbulb,
+  search: Search,
 };
 
 function Icon({ name, className }: { name?: string; className?: string }) {
