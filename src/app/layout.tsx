@@ -56,6 +56,7 @@ export default function RootLayout({
   return (
     <html lang="en-IN" className={jakarta.variable}>
       <head>
+        <meta name="verify-admitad" content="87e3f0cfe3" />
         <link rel="alternate" type="application/rss+xml" title="KnowledgeKendra RSS" href="https://knowledgekendra.com/feed.xml" />
         <link rel="preconnect" href="https://www.googletagmanager.com" />
         <link rel="preconnect" href="https://www.clarity.ms" />
