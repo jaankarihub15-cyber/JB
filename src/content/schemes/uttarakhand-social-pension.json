@@ -1,0 +1,512 @@
+{
+  "slug": "uttarakhand-social-pension",
+  "title": "Uttarakhand Social Pension - Old Age, Widow, Divyang",
+  "meta_description": "Uttarakhand Social Pension gives monthly pension to elderly, widows, and Divyang. Amounts, eligibility, how to apply at ssp.uk.gov.in, and DBT payment details.",
+  "hero": {
+    "icon": "👵",
+    "one_liner": "Uttarakhand Social Pension gives a monthly pension to the elderly, widows, and persons with disabilities, paid by DBT through the Apuni Sarkar portal.",
+    "updated_date": "June 2026",
+    "stats": [
+      {
+        "label": "Old Age",
+        "value": "60+"
+      },
+      {
+        "label": "Widow",
+        "value": "Covered"
+      },
+      {
+        "label": "Divyang",
+        "value": "Covered"
+      },
+      {
+        "label": "Mode",
+        "value": "DBT"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "📝",
+      "label": "Apply (Apuni Sarkar)",
+      "url": "https://eservices.uk.gov.in"
+    },
+    {
+      "icon": "🔍",
+      "label": "Check status",
+      "url": "https://eservices.uk.gov.in"
+    },
+    {
+      "icon": "✅",
+      "label": "Eligibility",
+      "url": "/check-eligibility"
+    }
+  ],
+  "what_is_it": [
+    "Uttarakhand Social Pension is the state government's umbrella social security programme that provides monthly financial assistance to three of the most economically vulnerable groups: elderly persons (vridhavastha), widows (vidhwa), and persons with disabilities (divyang). The pension is delivered as Direct Benefit Transfer (DBT) to the beneficiary's Aadhaar-linked bank account each month, ensuring the benefit reaches the intended recipient without intermediaries; the state manages pensions through the Social Welfare Department and the official portal at ssp.uk.gov.in.",
+    "The Uttarakhand government enhanced the social pension amount significantly over the years, and the current rate of Rs 1,200 per month represents a meaningful income source for beneficiaries whose households have no other regular income. In hill districts where market wages and formal employment are scarce, a monthly pension of Rs 1,200 - Rs 14,400 annually - can cover essential expenses like medicines, food supplements, and transport to government facilities, significantly improving the quality of life of the recipient."
+  ],
+  "eligibility": [
+    {
+      "label": "Old age",
+      "value": "Monthly pension for residents aged 60 and above.",
+      "highlight": true
+    },
+    {
+      "label": "Widows",
+      "value": "A monthly pension for eligible widows.",
+      "highlight": true
+    },
+    {
+      "label": "Divyang",
+      "value": "A monthly pension for persons with disabilities.",
+      "highlight": true
+    },
+    {
+      "label": "Mode",
+      "value": "Paid monthly by DBT through Apuni Sarkar.",
+      "highlight": false
+    },
+    {
+      "label": "Resident",
+      "value": "Must be a permanent Uttarakhand resident.",
+      "highlight": false
+    }
+  ],
+  "eligibility_filters": {
+    "states": [
+      "uttarakhand"
+    ],
+    "gender": "any",
+    "age_min": 60,
+    "age_max": null,
+    "income_max": null,
+    "notes": "Uttarakhand residents: elderly 60+, widows, and persons with disabilities, each within the category income limit. Monthly pension by DBT via the Apuni Sarkar portal. Apply online or at a CSC. Annual verification required to keep the pension active."
+  },
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Collect the application form",
+      "description": "Download the social pension application form from ssp.uk.gov.in or collect it from the nearest Gram Panchayat office, Block Development Office, or District Social Welfare Office. Separate forms are available for old age, widow, and disability pensions; ensure you pick the correct form for your category."
+    },
+    {
+      "step": 2,
+      "title": "Gather required documents",
+      "description": "Prepare copies of your Aadhaar card (mandatory for DBT), age proof such as voter ID or birth certificate, residence proof confirming Uttarakhand domicile, income certificate from Tehsildar, and the category-specific document: death certificate of husband for widow pension, or disability certificate from a government medical authority for Divyang pension."
+    },
+    {
+      "step": 3,
+      "title": "Submit to Gram Pradhan or BDO",
+      "description": "Submit the completed form with documents to your Gram Pradhan (village head) if you are in a rural area, or to the Ward Councillor if you are in an urban area. The Pradhan verifies residency and other details and forwards the application to the Block Development Office for further processing and forwarding to the district."
+    },
+    {
+      "step": 4,
+      "title": "Track application status online",
+      "description": "After submission, track your application status at ssp.uk.gov.in using your application reference number. The portal shows whether your application is pending at the Gram Panchayat, BDO, or District Social Welfare level, so you can follow up if it is stuck at any stage beyond the expected processing timeline."
+    },
+    {
+      "step": 5,
+      "title": "Receive pension via DBT",
+      "description": "Once approved, the monthly pension of Rs 1,200 is credited directly to your Aadhaar-linked bank account. Check your account each month and contact the DSWO or update your bank account on the ssp.uk.gov.in portal if you change banks or accounts, to ensure uninterrupted payment without requiring you to visit any office."
+    }
+  ],
+  "official_portal": {
+    "name": "Apuni Sarkar Portal",
+    "url": "https://eservices.uk.gov.in"
+  },
+  "related_pages": [
+    {
+      "title": "Atal Ayushman Uttarakhand",
+      "slug": "atal-ayushman-uttarakhand-yojana",
+      "tag": "Health",
+      "url": "/yojana/atal-ayushman-uttarakhand-yojana"
+    },
+    {
+      "title": "Mahalakshmi Kit Yojana",
+      "slug": "mukhyamantri-mahalakshmi-kit-yojana",
+      "tag": "Girl Child",
+      "url": "/yojana/mukhyamantri-mahalakshmi-kit-yojana"
+    }
+  ],
+  "tags": [
+    "Uttarakhand",
+    "pension",
+    "elderly",
+    "widow",
+    "divyang",
+    "social security"
+  ],
+  "ministry": "Social Welfare Department, Uttarakhand",
+  "launch_year": 2000,
+  "category": "senior-citizen",
+  "state": "uttarakhand",
+  "last_reviewed": "June 2026",
+  "schema_type": "FAQPage",
+  "extra_sections": [
+    {
+      "type": "text",
+      "heading": "Uttarakhand Social Pension Explained",
+      "icon": "📖",
+      "content": [
+        "The old age (Vridhavastha) pension is available to all persons aged 60 and above who are permanent residents of Uttarakhand with annual household income below Rs 48,000; for SC/ST women the age threshold is lower at 55 years, reflecting physically demanding livelihoods and lower life expectancy in these communities. Persons already receiving a government pension, EPFO pension, or any other government-funded monthly payment are generally excluded from the social pension.",
+        "The Widow (Vidhwa) Pension is available to women who have lost their husbands and are between the ages of 18 and 60, whose annual family income is below Rs 48,000, and who have not remarried. The lower age threshold of 18 years reflects the reality that some women in Uttarakhand are widowed young, particularly in households where husbands work in high-risk occupations like construction, hill agriculture, or military service; the pension provides economic dignity and independence to widows who might otherwise have no income of their own."
+      ]
+    },
+    {
+      "type": "stat_grid",
+      "heading": "Uttarakhand Social Pension: Key Numbers",
+      "icon": "📊",
+      "items": [
+        {
+          "icon": "users",
+          "value": "60+",
+          "label": "Old Age",
+          "color": "green"
+        },
+        {
+          "icon": "shield",
+          "value": "Widows",
+          "label": "Covered",
+          "color": "blue"
+        },
+        {
+          "icon": "wallet",
+          "value": "Divyang",
+          "label": "Covered",
+          "color": "amber"
+        },
+        {
+          "icon": "check",
+          "value": "DBT",
+          "label": "Monthly",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Uttarakhand Social Pension Explained: Continued",
+      "icon": "📖",
+      "content": [
+        "The Disability (Divyang) Pension is available to persons with a minimum of 40% certified disability who are permanent residents of Uttarakhand with annual family income below Rs 48,000. Applicants must have a disability certificate from a government medical authority; this pension is particularly important in Uttarakhand because disability rates from agricultural and construction accidents are a significant concern in hill communities where access to rehabilitation and formal employment support remains limited.",
+        "All three pension categories under the Uttarakhand Social Pension scheme are converged with the National Social Assistance Programme (NSAP) managed by the central government. Eligible beneficiaries receive both the state pension of Rs 1,200 and the central NSAP component (Indira Gandhi National Old Age Pension Scheme (IGNOAPS), Indira Gandhi National Widow Pension Scheme (IGNWPS), or Indira Gandhi National Disability Pension Scheme (IGNDPS)), making the total monthly transfer higher for those who qualify under both central and state criteria."
+      ]
+    },
+    {
+      "type": "process_flow",
+      "heading": "How to Apply for the Pension",
+      "steps": [
+        {
+          "icon": "file",
+          "title": "Gather documents",
+          "desc": "Aadhaar, age or category proof, bank passbook, and residence proof."
+        },
+        {
+          "icon": "search",
+          "title": "Apply on Apuni Sarkar",
+          "desc": "Apply online on the Apuni Sarkar portal or at a CSC."
+        },
+        {
+          "icon": "shield",
+          "title": "Verification",
+          "desc": "The Social Welfare Department verifies your category and residence."
+        },
+        {
+          "icon": "check",
+          "title": "Monthly pension",
+          "desc": "Once approved, the pension is credited monthly by DBT."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Who Is Eligible",
+      "icon": "✅",
+      "content": [
+        "The application process for Uttarakhand Social Pension begins at the village or urban ward level, where the applicant submits a form along with identity proof (Aadhaar), residence proof, age proof (birth certificate or voter ID), and, where applicable, a widow certificate from the Tehsildar or a disability certificate from a government medical board. The Gram Pradhan verifies the application at the village level before it is forwarded to the Block Development Office (BDO) and then to the District Social Welfare Office for final approval.",
+        "The online portal ssp.uk.gov.in allows both new applicants to apply for social pension and existing beneficiaries to check their payment status, update bank account details, and verify that their monthly DBT credit has been received. The portal also allows beneficiaries and their family members to check eligibility before visiting a government office, reducing unnecessary travel, which is especially valuable for elderly or disabled beneficiaries in remote hill areas who may find long journeys physically difficult."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "icon": "info",
+      "title": "Do the Yearly Verification",
+      "content": "Most social pensions need an annual life or status check to keep paying. Mark it so you do not miss it.<br><br>Doing it on time avoids a sudden stop in the monthly pension that can be slow to restart."
+    },
+    {
+      "type": "text",
+      "heading": "Who Is Eligible: More Detail",
+      "icon": "✅",
+      "content": [
+        "Annual verification of continuing eligibility is required for all social pension beneficiaries in Uttarakhand to ensure that deceased beneficiaries, those who have remarried (in the case of widow pension), or those whose income has risen above the threshold do not continue to receive payments. This verification is typically done at the Gram Panchayat level with the support of the ASHA and Anganwadi networks, and beneficiaries are expected to present themselves or submit a life certificate periodically to maintain uninterrupted pension continuity; those who are too frail or disabled to travel to the Panchayat can often arrange for the verification to be conducted at their residence by the ASHA or a Gram Panchayat member.",
+        "Uttarakhand's geographic diversity means that the social pension's beneficiary profile varies significantly across districts. In high-altitude districts like Pithoragarh, Chamoli, and Uttarkashi, the pension's importance is greatest because alternative livelihoods are scarce and elderly and widowed individuals are frequently left alone in villages; in Tarai districts like Udham Singh Nagar and Haridwar, beneficiaries are more numerous in absolute terms but have somewhat better access to supplementary income opportunities."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Uttarakhand Social Pension - Pension Types and Amounts",
+      "icon": "📋",
+      "columns": [
+        "Pension Type",
+        "Monthly Amount",
+        "Who Is Eligible"
+      ],
+      "rows": [
+        [
+          "Vridhavastha Pension (Old Age)",
+          "Rs 1,200/month",
+          "Age 60+ (general), 55+ for SC/ST women; income below Rs 48,000/year"
+        ],
+        [
+          "Vidhwa Pension (Widow)",
+          "Rs 1,200/month",
+          "Widows aged 18-60; income below Rs 48,000/year; not remarried"
+        ],
+        [
+          "Divyang Pension (Disability)",
+          "Rs 1,200/month",
+          "40%+ disability; income below Rs 48,000/year; not government employee"
+        ],
+        [
+          "Kishori Shakti Yojana (special)",
+          "As applicable",
+          "Girl children with disabilities under separate criteria"
+        ],
+        [
+          "National Social Assistance (NSAP) tie-in",
+          "Additional central top-up",
+          "IGNOAPS, IGNWPS, IGNDPS - central pensions merged with state payments"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Conditions to Meet",
+      "icon": "📋",
+      "content": [
+        "The Social Welfare Department of Uttarakhand maintains district-wise data on the number of beneficiaries under each pension category and monitors for errors such as duplicate enrollments, ghost beneficiaries, and payment failures due to inactive or wrong bank accounts. The department conducts periodic reconciliation of pension payments with Aadhaar-linked account data to reduce leakage and ensure that every payment reaches its genuine intended beneficiary in a timely manner.",
+        "For widows in Uttarakhand who are below the age of 60, the Vidhwa Pension provides a bridge income that may support them until they become eligible for the old age pension at 60. This continuity of state financial support through different life stages is an important aspect of the Uttarakhand social protection framework, ensuring that women who have faced the economic vulnerability of widowhood do not lose all income support simply because they reach the age at which the widow pension ends."
+      ]
+    },
+    {
+      "type": "number_highlight",
+      "big": "3 Groups",
+      "title": "Old Age, Widow, and Divyang",
+      "desc": "The same system serves three vulnerable groups, each with its own eligibility and pension.<br><br>You apply under the category you fall in, and only one pension is paid where two might otherwise overlap."
+    },
+    {
+      "type": "text",
+      "heading": "Conditions to Meet: More Detail",
+      "icon": "📋",
+      "content": [
+        "The Divyang Pension plays a particularly important role in Uttarakhand's hill economy because persons with disabilities often face both reduced earning capacity and higher healthcare and mobility costs in a terrain that is physically challenging even for able-bodied individuals. The Rs 1,200 monthly pension, while modest, provides a baseline income that can cover medication for chronic conditions, the cost of assistive devices maintenance, and transportation to health facilities that many disabled persons in hill areas require more frequently than the general population.",
+        "Uttarakhand's social pension programme has been recognised as an important tool for preventing extreme poverty among its most vulnerable residents. Studies on social pension outcomes in hill states find that regular monthly income from government pension significantly reduces food insecurity, improves medication adherence for chronic conditions, and reduces the household debt that families take on to support elderly and disabled members who have no independent income."
+      ]
+    },
+    {
+      "type": "eligibility_check",
+      "heading": "Who qualifies",
+      "icon": "✅",
+      "qualify": [
+        "Aged 60 or above for old age pension",
+        "A widow, for the widow pension",
+        "A person with disability, for that pension",
+        "Permanent resident of Uttarakhand",
+        "Within the income limit for the category"
+      ],
+      "disqualify": [
+        "Below the age for old age pension",
+        "Income above the category limit",
+        "Not a Uttarakhand resident",
+        "Already on a conflicting government pension",
+        "Required certificate not available"
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "The Application Process",
+      "icon": "📝",
+      "content": [
+        "Applicants or beneficiaries who face problems with Uttarakhand Social Pension, whether during the application stage (delays in approval), the ongoing stage (missed payments, wrong amounts), or account-related issues (bank account change required), can contact the District Social Welfare Officer (DSWO) at the district headquarters or visit the online grievance section of the ssp.uk.gov.in portal. The state government has set service delivery timelines for processing new pension applications and for resolving payment complaints, providing a framework of accountability that beneficiaries can invoke when they face difficulties.",
+        "The Uttarakhand government has progressively digitised the social pension delivery system over the years, moving from manual, cash-based payments through postmen or Panchayat officials to direct Aadhaar-linked DBT credited monthly into beneficiaries' bank accounts. This digitisation has significantly reduced payment delays, eliminated ghost beneficiaries who were collecting pension on behalf of deceased individuals, and made it possible for beneficiaries to verify their own payment status without visiting any government office."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "info",
+      "icon": "info",
+      "title": "Three Pensions, One System",
+      "content": "Uttarakhand's social pension covers three groups: the elderly aged 60 and above, widows, and persons with disabilities.<br><br>All three are paid monthly by DBT through the Social Welfare Department, on the Apuni Sarkar portal."
+    },
+    {
+      "type": "text",
+      "heading": "The Application Process: Further Notes",
+      "icon": "📝",
+      "content": [
+        "The social pension's income eligibility threshold of Rs 48,000 per year (Rs 4,000 per month) is calibrated to target the genuinely poor, as household incomes above this level are considered sufficient to support the elderly or disabled member from within the family. In Uttarakhand's hill economy, where many households survive on subsistence agriculture, MGNREGA wages, and irregular remittances from migrant family members, the Rs 48,000 threshold captures a substantial proportion of the older rural population who have no independent income of their own.",
+        "The Uttarakhand Widow Pension specifically targets the period between widowhood and old age, recognising that widows below 60 face acute economic vulnerability because they are ineligible for old age pension, may not have completed formal education or skills training that would enable employment, and often face social and cultural barriers to remarriage or independent economic participation in conservative hill communities. The state's provision of Rs 1,200 per month to widows from age 18 to 60 ensures that women in this particularly vulnerable life stage are not left without any government income support during what could otherwise be decades of financial insecurity."
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "Documents You Need",
+      "items": [
+        {
+          "icon": "file",
+          "title": "Aadhaar card",
+          "sub": "Linked to your bank account for DBT."
+        },
+        {
+          "icon": "shield",
+          "title": "Category proof",
+          "sub": "Age proof, widow certificate, or disability certificate."
+        },
+        {
+          "icon": "wallet",
+          "title": "Bank passbook",
+          "sub": "Aadhaar-seeded account in your name."
+        },
+        {
+          "icon": "search",
+          "title": "Residence and income",
+          "sub": "Uttarakhand residence and income certificate."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "How the Payment Reaches You",
+      "icon": "🏦",
+      "content": [
+        "Persons with visual, hearing, locomotor, intellectual, and psychiatric disabilities are all potentially eligible for the Divyang Pension in Uttarakhand, provided they have the required disability certificate and meet the income criteria. The Social Welfare Department works with district hospitals and the Chief Medical Officers to facilitate disability certification camps in hill areas where persons with disabilities may not be able to travel to district headquarters for assessment; these camps bring the medical certification process closer to the beneficiary.",
+        "The Uttarakhand social pension programme requires beneficiaries to submit a life certificate (jeevan praman) annually, typically around November-December, confirming that they are still alive and continue to meet eligibility criteria. The life certificate can be submitted digitally using the Jeevan Pramaan Patra app with biometric verification, which allows elderly and disabled beneficiaries to complete this requirement from Common Service Centres near their villages without long journeys to government offices."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Uttarakhand Social Pension: Quick Reference",
+      "icon": "📑",
+      "columns": [
+        "Detail",
+        "Value"
+      ],
+      "rows": [
+        [
+          "State",
+          "Uttarakhand"
+        ],
+        [
+          "Pension types",
+          "Old Age (60+), Widow (18-60), Disability (40%+ disability)"
+        ],
+        [
+          "Monthly amount",
+          "Rs 1,200 per month per beneficiary"
+        ],
+        [
+          "Income limit",
+          "Annual household income below Rs 48,000"
+        ],
+        [
+          "Payment mode",
+          "DBT directly to Aadhaar-linked bank account"
+        ],
+        [
+          "Implementing body",
+          "Social Welfare Department, Uttarakhand"
+        ],
+        [
+          "Apply online",
+          "ssp.uk.gov.in"
+        ],
+        [
+          "NSAP convergence",
+          "Eligible beneficiaries also receive central NSAP top-up (IGNOAPS/IGNWPS/IGNDPS)"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "How the Payment Reaches You: Key Points",
+      "icon": "🏦",
+      "content": [
+        "For Uttarakhand's seasonal migrants, the pension's Aadhaar-linked DBT payment structure is particularly beneficial because the benefit is linked to a national identity and bank account rather than a physical presence at a local distribution point. An elderly beneficiary who spends winter months in the Tarai with relatives and summer months in their hill village continues to receive the Rs 1,200 monthly credit to their bank account regardless of where they are physically located at any given time; this portability removes a barrier that existed under earlier cash-distribution systems where beneficiaries had to be present in their registered village to collect their payment.",
+        "The social pension also has an important signalling function in Uttarakhand's rural communities: it demonstrates that the state government recognises the contributions and welfare of its most vulnerable citizens. For elderly women who have spent decades in unpaid domestic and agricultural labour in hill villages, the monthly pension credit is often the first time in their lives that they receive a regular payment in their own name, genuinely improving their standing within the household and their sense of personal economic autonomy and dignity."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "warning",
+      "icon": "alert",
+      "title": "Pension Stopped?",
+      "content": "The usual reasons are a missed annual verification or a broken Aadhaar-bank link, and both can be fixed.<br><br>Complete your verification, re-seed Aadhaar if needed, and contact the Social Welfare office with your pension number."
+    },
+    {
+      "type": "text",
+      "heading": "Your Document Checklist",
+      "icon": "📄",
+      "content": [
+        "Uttarakhand has aligned its social pension scheme with the NIC-managed integrated social protection data system that connects state pension databases with Aadhaar, the PMJDY banking data, and the national social protection registry. This data integration allows the state to identify beneficiaries who may be entitled to multiple social protection benefits, eliminate duplicate enrollments across different schemes, and prioritise outreach for eligible individuals who have not yet enrolled in any pension.",
+        "The cost of the Uttarakhand Social Pension is shared between the central government (through NSAP contributions for eligible categories) and the state government budget. Uttarakhand allocates a significant share of its Social Welfare Department budget to pension payments each year, reflecting a sustained political commitment to social security that has remained consistent across different state governments, as the social pension has proven to be among the most valued, visible, and administratively efficient direct welfare transfers reaching Uttarakhand's rural poor, with near-universal awareness among potential beneficiaries in hill and Tarai districts alike."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "icon": "info",
+      "title": "Your Document Checklist Notes",
+      "content": "The Uttarakhand government has worked to ensure that elderly and disabled beneficiaries in remote hill areas are not excluded from the pension due to difficulties in completing the banking requirements, specifically the challenge of opening and operating a bank account in areas where bank branches may be distant. The expansion of Banking Correspondent (BC) services and the IPPB (India Post Payments Bank) network to hill areas has significantly improved the ability of rural beneficiaries to access their pension credits without long journeys to bank branches, making the DBT payment system more accessible than it was in the early years of the programme.<br><br>For the many elderly, widowed, and disabled residents of Uttarakhand who live in single-member or two-member households in hill villages while their children work in cities, the monthly social pension is often the only regular income entering the household. The Rs 1,200 monthly amount may seem modest but in the context of hill village economics, where food costs are lower due to home cultivation and cash needs are primarily for medicines, utilities, and transportation, it provides a critical baseline of economic security that enables these individuals to continue living independently in their home villages rather than depending entirely on distant family members."
+    },
+    {
+      "type": "text",
+      "heading": "In Their Words",
+      "icon": "💬",
+      "content": [
+        "For an elderly woman living alone in a hill village of Uttarakhand after her children migrated to the city, the monthly pension of Rs 1,200 is not a welfare transfer - it is her independence. It pays for medicines, food, and the occasional bus ride to the health centre."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is Uttarakhand Social Pension?",
+      "answer": "It is the Uttarakhand government's monthly financial assistance programme for elderly persons (60+), widows (18-60), and persons with disabilities (40%+ disability). All three categories receive Rs 1,200 per month paid via DBT to their Aadhaar-linked bank account, provided their annual household income is below Rs 48,000."
+    },
+    {
+      "question": "How much pension does Uttarakhand give?",
+      "answer": "Rs 1,200 per month for all three pension types (old age, widow, and disability). Eligible beneficiaries may also receive an additional central government NSAP component under IGNOAPS, IGNWPS, or IGNDPS schemes."
+    },
+    {
+      "question": "Who is eligible for old age pension in Uttarakhand?",
+      "answer": "Persons aged 60 and above (55 for SC/ST women) who are permanent residents of Uttarakhand with annual household income below Rs 48,000 and who are not receiving any other government pension are eligible for the Vridhavastha Pension of Rs 1,200 per month."
+    },
+    {
+      "question": "Can widows below 60 get pension in Uttarakhand?",
+      "answer": "Yes. The Vidhwa Pension is available to widows aged 18 to 60 who are permanent residents of Uttarakhand with annual family income below Rs 48,000 and who have not remarried.<br><br>The lower age limit of 18 ensures that young widows also receive support."
+    },
+    {
+      "question": "What disability percentage is required for Divyang pension?",
+      "answer": "A minimum of 40% certified disability is required. The disability must be certified by a government medical authority and the certificate submitted with the pension application.<br><br>Annual household income must also be below Rs 48,000."
+    },
+    {
+      "question": "How do I apply for Uttarakhand Social Pension?",
+      "answer": "Submit the relevant application form to your Gram Pradhan (rural) or Ward Councillor (urban) along with Aadhaar, age proof, income certificate, and category-specific documents. You can also apply online at ssp.uk.gov.in and track your application status there."
+    },
+    {
+      "question": "When is the pension credited?",
+      "answer": "The pension of Rs 1,200 is credited monthly via DBT to the beneficiary's Aadhaar-linked bank account. If a payment is missed, beneficiaries should check their bank details on ssp.uk.gov.in or contact the District Social Welfare Officer."
+    },
+    {
+      "question": "Is an income certificate required to apply?",
+      "answer": "Yes. An income certificate issued by the Tehsildar confirming that the annual household income is below Rs 48,000 is a required document for all three pension categories.<br><br>This certificate should be obtained from the Tehsil office before submitting the pension application."
+    },
+    {
+      "question": "What is the official portal for Uttarakhand Social Pension?",
+      "answer": "The official portal is ssp.uk.gov.in, where new applicants can apply, existing beneficiaries can check payment status and update bank account details, and anyone can verify their pension eligibility or check the current status of a pending application."
+    },
+    {
+      "question": "What is NSAP and how does it relate to Uttarakhand Social Pension?",
+      "answer": "NSAP (National Social Assistance Programme) is the central government's social pension scheme. Uttarakhand Social Pension is converged with NSAP, meaning eligible beneficiaries receive both the state Rs 1,200 and the additional central NSAP amount under IGNOAPS (old age), IGNWPS (widow), or IGNDPS (disability) making the total transfer higher for those who qualify under central criteria as well."
+    }
+  ]
+}
