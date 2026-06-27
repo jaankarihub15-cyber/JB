@@ -24,6 +24,7 @@ export type CheckerScheme = {
 // States KK currently has dedicated schemes for (label + slug used in filters)
 const STATES = [
   { v: "andhra-pradesh", l: "Andhra Pradesh" },
+  { v: "himachal-pradesh", l: "Himachal Pradesh" },
   { v: "delhi", l: "Delhi" },
   { v: "haryana", l: "Haryana" },
   { v: "assam", l: "Assam" },
@@ -201,6 +202,7 @@ export default function CheckerClient({ schemes }: { schemes: CheckerScheme[] })
 
   const STATE_COLORS: Record<string, { bg: string; text: string }> = {
     "andhra-pradesh": { bg: "#EAF4EE", text: "#1B6B4A" },
+    "himachal-pradesh": { bg: "#EAF3F1", text: "#1F6E63" },
     "delhi": { bg: "#E8EEF9", text: "#2A4B8D" },
     "haryana": { bg: "#FBEEE6", text: "#9C4221" },
     "assam": { bg: "#EAF4EE", text: "#1B6B4A" },

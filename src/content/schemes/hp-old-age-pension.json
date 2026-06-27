@@ -1,0 +1,509 @@
+{
+  "slug": "hp-old-age-pension",
+  "title": "HP Old Age Pension - Himachal Pradesh Social Security Scheme",
+  "meta_description": "HP Old Age Pension gives Rs 1,500 to Rs 1,700 per month to senior citizens in Himachal Pradesh. Eligibility, how to apply, and DBT payment details.",
+  "hero": {
+    "icon": "👴",
+    "one_liner": "HP Old Age Pension gives a monthly social security pension to senior citizens in Himachal Pradesh, with a higher amount at 70+. Residents 70 and above qualify regardless of income.",
+    "updated_date": "June 2026",
+    "stats": [
+      {
+        "label": "Age 60-69",
+        "value": "₹1,500"
+      },
+      {
+        "label": "Age 70+",
+        "value": "₹1,700"
+      },
+      {
+        "label": "At 70+",
+        "value": "No Income Bar"
+      },
+      {
+        "label": "Mode",
+        "value": "DBT"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "📝",
+      "label": "Apply (e-District)",
+      "url": "https://edistrict.hp.gov.in"
+    },
+    {
+      "icon": "🔍",
+      "label": "Check status",
+      "url": "https://edistrict.hp.gov.in"
+    },
+    {
+      "icon": "✅",
+      "label": "Eligibility",
+      "url": "/check-eligibility"
+    }
+  ],
+  "what_is_it": [
+    "The Himachal Pradesh Old Age Pension, administered under the Social Security Pension scheme of the state's Social Justice and Empowerment Department, provides a monthly financial allowance to senior citizens who meet the age and income criteria. The pension is a state-funded welfare measure that ensures a minimum income floor for elderly residents who do not have access to contributory pension schemes or formal employment-based retirement benefits.",
+    "The monthly pension amount is Rs 1,500 for beneficiaries aged 60 to 69 years and Rs 1,700 for those aged 70 years and above; the higher rate for the oldest beneficiaries reflects the greater healthcare expenses and reduced earning capacity that typically accompany very old age. Both amounts are paid monthly through Direct Benefit Transfer (DBT) directly to the beneficiary's Aadhaar-linked bank account."
+  ],
+  "eligibility": [
+    {
+      "label": "Age 60-69",
+      "value": "Monthly pension for those aged 60 to 69, subject to the income limit.",
+      "highlight": true
+    },
+    {
+      "label": "Age 70+",
+      "value": "A higher monthly pension, paid regardless of income.",
+      "highlight": true
+    },
+    {
+      "label": "Income limit",
+      "value": "For 60-69, family income broadly below Rs 35,000 a year.",
+      "highlight": true
+    },
+    {
+      "label": "Resident",
+      "value": "Permanent resident of Himachal Pradesh.",
+      "highlight": false
+    },
+    {
+      "label": "Verification",
+      "value": "Annual life certificate, with Jeevan Pramaan accepted.",
+      "highlight": false
+    }
+  ],
+  "eligibility_filters": {
+    "states": [
+      "himachal-pradesh"
+    ],
+    "gender": "any",
+    "age_min": 60,
+    "age_max": null,
+    "income_max": 35000,
+    "notes": "Permanent HP residents aged 60+. For 60-69, family income broadly below Rs 35,000 a year. Residents 70 and above get the pension regardless of income. Apply at edistrict.hp.gov.in or the Tehsil Welfare Office. NSAP/IGNOAPS aligned. Annual Jeevan Pramaan life certificate. Amounts are revised in state budgets, confirm the current figure."
+  },
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Collect Required Documents",
+      "description": "Gather your Aadhaar card, age proof (birth certificate or school leaving certificate or voter ID showing date of birth), HP residence or domicile certificate, income certificate from the Tehsildar showing family income below Rs 35,000 per year, and a bank passbook with your Aadhaar-linked account details."
+    },
+    {
+      "step": 2,
+      "title": "Visit the Gram Panchayat or ULB Office",
+      "description": "Go to the Gram Panchayat office if you live in a rural area, or the Urban Local Body (municipality or nagar panchayat) office if you live in a town; the Panchayat secretary will verify your documents and provide the application form for the HP Social Security Old Age Pension."
+    },
+    {
+      "step": 3,
+      "title": "Submit the Application",
+      "description": "Fill the application form and submit it with attested copies of all documents; the Panchayat secretary will forward your application to the block-level Social Justice and Empowerment office, which will conduct its own verification before sending it to the district office for final approval."
+    },
+    {
+      "step": 4,
+      "title": "Aadhaar Seeding and DBT Setup",
+      "description": "Ensure your bank account is linked to your Aadhaar number and is DBT-enabled; the block office will verify this during processing, and if the account is not yet seeded, you should get it done at the bank branch and inform the block office before your application is finalised."
+    },
+    {
+      "step": 5,
+      "title": "Receive Approval and Begin Receiving Pension",
+      "description": "Once approved, your name is added to the monthly payment list and the pension amount is credited to your bank account every month; you will receive an SMS notification on your registered mobile number, and you should submit a Jeevan Pramaan Patra life certificate annually to maintain uninterrupted payment."
+    }
+  ],
+  "official_portal": {
+    "name": "e-District Himachal Pradesh",
+    "url": "https://edistrict.hp.gov.in"
+  },
+  "related_pages": [
+    {
+      "title": "Pyari Behna Sukh Samman Nidhi",
+      "slug": "indira-gandhi-pyari-behna-sukh-samman-nidhi-yojana",
+      "tag": "Women",
+      "url": "/yojana/indira-gandhi-pyari-behna-sukh-samman-nidhi-yojana"
+    },
+    {
+      "title": "Laghu Dukandar Kalyan Yojana",
+      "slug": "mukhyamantri-laghu-dukandar-kalyan-yojana-hp",
+      "tag": "Shopkeepers",
+      "url": "/yojana/mukhyamantri-laghu-dukandar-kalyan-yojana-hp"
+    }
+  ],
+  "tags": [],
+  "ministry": "Social Justice and Empowerment Department, Himachal Pradesh",
+  "launch_year": 1995,
+  "category": "senior-citizen",
+  "state": "himachal-pradesh",
+  "last_reviewed": "June 2026",
+  "schema_type": "FAQPage",
+  "extra_sections": [
+    {
+      "type": "text",
+      "heading": "What the HP Old Age Pension Is",
+      "icon": "📖",
+      "content": [
+        "Eligibility for the HP Old Age Pension requires the applicant to be a resident of Himachal Pradesh and to have a household annual income of less than Rs 35,000, placing the scheme firmly within a targeted assistance framework for the poorest elderly residents of the state. Applicants must also not be receiving any other government pension, as the scheme is designed for those who fall outside the net of contributory pension systems.",
+        "The income ceiling of Rs 35,000 per year is relatively low compared to similar pension schemes in some other Indian states, but it reflects Himachal Pradesh's targeting strategy of concentrating pension resources on the most economically vulnerable elderly population; many hill-area families who depend on marginal farming or daily wage labour fall comfortably within this income limit. The income is assessed for the entire family unit, not just the individual applicant."
+      ]
+    },
+    {
+      "type": "stat_grid",
+      "heading": "HP Old Age Pension: Key Numbers",
+      "icon": "📊",
+      "items": [
+        {
+          "icon": "wallet",
+          "value": "₹1,500",
+          "label": "Age 60-69",
+          "color": "green"
+        },
+        {
+          "icon": "trending",
+          "value": "₹1,700",
+          "label": "Age 70+",
+          "color": "blue"
+        },
+        {
+          "icon": "shield",
+          "value": "70+",
+          "label": "No Income Bar",
+          "color": "amber"
+        },
+        {
+          "icon": "file",
+          "value": "DBT",
+          "label": "To Bank Account",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "What the HP Old Age Pension Is More",
+      "icon": "📖",
+      "content": [
+        "Applications for the HP Old Age Pension are submitted at the Gram Panchayat level in rural areas or at the Urban Local Body (ULB) office in towns, and are processed upward through the block and tehsil to the district Social Justice and Empowerment Department office for final approval. This decentralised processing structure is intended to keep the administrative burden close to the beneficiary and avoid the need for elderly applicants to travel long distances.",
+        "The Gram Panchayat secretary plays an important role in the HP Old Age Pension process by verifying the applicant's age, residence, and income at the village level before the application is forwarded to the block office; in practice, the Gram Pradhan and Panchayat secretary are often the first points of contact for elderly villagers who wish to register. Their support in document collection and form filling is critical for elderly applicants who may have limited literacy or mobility."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "warning",
+      "icon": "alert",
+      "title": "On the Exact Pension Amount",
+      "content": "The amounts shown here are the commonly cited HP figures, but the state revises them in its budgets and different age slabs apply.<br><br>The key rule is that residents aged 70 and above get the pension regardless of income. Confirm the current amount at edistrict.hp.gov.in or your Tehsil Welfare Office."
+    },
+    {
+      "type": "text",
+      "heading": "The Two Age Slabs",
+      "icon": "📋",
+      "content": [
+        "Once approved, the beneficiary is added to the state's social pension database, which is managed by the Social Justice and Empowerment Department and links beneficiary records to Aadhaar numbers, bank account details, and the DBT payment infrastructure. The department conducts annual verification exercises to confirm that beneficiaries are still alive and still eligible, requiring beneficiaries or their family representatives to submit a life certificate.",
+        "The HP Old Age Pension is aligned with the National Social Assistance Programme (NSAP) framework, and eligible beneficiaries who are below the poverty line (BPL) also receive an additional top-up from the central government's Indira Gandhi National Old Age Pension Scheme (IGNOAPS), which provides Rs 300 per month for those aged 60-79 and Rs 500 per month for those aged 80 and above. For the poorest elderly beneficiaries, the combined state and central payments provide a meaningful income base."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "HP Old Age Pension - Key Details",
+      "icon": "📋",
+      "columns": [
+        "Detail",
+        "Information"
+      ],
+      "rows": [
+        [
+          "Age 60-69 Pension",
+          "Rs 1,500 per month"
+        ],
+        [
+          "Age 70+ Pension",
+          "Rs 1,700 per month"
+        ],
+        [
+          "Income Limit",
+          "Annual family income below Rs 35,000"
+        ],
+        [
+          "Payment Mode",
+          "DBT to Aadhaar-linked bank account"
+        ],
+        [
+          "Implementing Dept",
+          "Social Justice and Empowerment, HP"
+        ],
+        [
+          "Apply At",
+          "Gram Panchayat (rural) or ULB office (urban)"
+        ],
+        [
+          "NSAP Top-Up",
+          "Rs 300-500/month for BPL beneficiaries (IGNOAPS)"
+        ],
+        [
+          "Life Certificate",
+          "Annual; Jeevan Pramaan Patra accepted"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "The Two Age Slabs More",
+      "icon": "📋",
+      "content": [
+        "Himachal Pradesh's hill geography creates unique challenges for pension delivery, as many elderly beneficiaries live in villages accessible only by narrow mountain paths that become impassable during winter snow and monsoon landslides. The DBT mechanism addresses this by ensuring the monthly pension credit reaches the beneficiary's bank account regardless of weather or road conditions, eliminating the need for any physical collection at a disbursement point.",
+        "Elderly beneficiaries who are too frail to visit a bank branch to withdraw their pension can designate a family member or authorised representative to operate their account on their behalf, or can access funds through a Banking Correspondent (BC) van or mobile banking unit in areas where BC services are available. The Social Justice and Empowerment Department coordinates with banks to ensure BC coverage in remote areas specifically to serve elderly and disabled pension beneficiaries."
+      ]
+    },
+    {
+      "type": "number_highlight",
+      "big": "70+",
+      "title": "Pension Without an Income Test",
+      "desc": "For those aged 60 to 69, a low family income limit applies. But once a resident turns 70, the pension is paid regardless of income.<br><br>This means even elderly people from better-off families qualify at 70, which is a key feature of the HP scheme."
+    },
+    {
+      "type": "text",
+      "heading": "The Income Rule and the 70+ Exemption",
+      "icon": "💰",
+      "content": [
+        "The Jeevan Pramaan Patra digital life certificate is accepted for annual verification by HP's Social Justice and Empowerment Department, allowing elderly beneficiaries with smartphones to authenticate their life certificate through the Aadhaar biometric system without visiting a government office. Pensioners who do not have smartphones or biometric-enabled devices can submit a physical life certificate signed by the Gram Panchayat secretary or a gazetted officer at the nearest Panchayat or block office.",
+        "Widows aged 60 and above who might otherwise be entitled to both the Widow Pension and the Old Age Pension receive only one pension under the HP Social Security scheme, as concurrent receipt of multiple social pensions from the same scheme family is not permitted; such beneficiaries are typically migrated from the Widow Pension to the higher-value Old Age Pension when they cross the age threshold of 60. This automatic migration is handled by the department's database rather than requiring a fresh application."
+      ]
+    },
+    {
+      "type": "eligibility_check",
+      "heading": "Who qualifies",
+      "icon": "✅",
+      "qualify": [
+        "Permanent HP resident aged 60 or above",
+        "Family income within the limit for 60-69",
+        "Any resident aged 70 and above, any income",
+        "Aadhaar-linked bank account for DBT",
+        "Not drawing another conflicting pension"
+      ],
+      "disqualify": [
+        "Below 60 years of age",
+        "Family income above the limit for 60-69",
+        "Not a permanent HP resident",
+        "Already drawing a government service pension",
+        "No Aadhaar-seeded bank account"
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "The Income Rule and the 70+ Exemption More",
+      "icon": "💰",
+      "content": [
+        "Himachal Pradesh's tribal communities, particularly in the Lahaul and Spiti district and the Pangi and Bharmour subdivisions of Chamba district, include a significant elderly population that relies on the state's social pension as the primary source of cash income during the winter months when high-altitude agriculture and pastoral activity cease. Ensuring timely payment to this population requires the banking and administrative systems to function reliably during the months when the state's remote mountain communities are most cut off.",
+        "The state has also extended the pension to elderly persons who are residents of the state but whose domicile certificates or other documents may have administrative gaps, by allowing alternative proof of long-term residence through village-level certification from the Gram Panchayat; this flexibility has helped include elderly residents who moved to a different panchayat area during their working years but now wish to receive the pension in their current place of residence. The Gram Pradhan's certification of long-term residence is accepted as a supporting document in such cases."
+      ]
+    },
+    {
+      "type": "process_flow",
+      "heading": "How to Apply for the HP Old Age Pension",
+      "steps": [
+        {
+          "icon": "file",
+          "title": "Collect documents",
+          "desc": "Keep Aadhaar, age proof, HP residence proof, bank passbook, and income or BPL proof ready."
+        },
+        {
+          "icon": "search",
+          "title": "Apply at e-District or Tehsil",
+          "desc": "Apply online at edistrict.hp.gov.in or at the Gram Panchayat or Tehsil Welfare Office."
+        },
+        {
+          "icon": "shield",
+          "title": "Verification",
+          "desc": "The Panchayat secretary and Welfare Officer verify your age, residence, and income."
+        },
+        {
+          "icon": "check",
+          "title": "Approval and DBT",
+          "desc": "Once approved, the pension is credited monthly to your bank account by DBT."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Who Is Eligible",
+      "icon": "✅",
+      "content": [
+        "The HP Social Security Pension for the elderly is periodically revised by the state government; the current amounts of Rs 1,500 and Rs 1,700 reflect revisions made to improve the real value of the pension in line with the state's cost of living. Beneficiaries do not need to reapply when amounts are revised, as the enhanced rate is automatically applied to existing beneficiaries in the next payment cycle after the government notification is issued.",
+        "The scheme has particular significance for elderly women in Himachal Pradesh who may have spent their lives in unpaid domestic and agricultural work and who reach old age without any savings or property in their own name; for such women, the monthly Rs 1,500 or Rs 1,700 credit is often their first ever personal income. This income provides not only material support but also a degree of personal autonomy within the household that many elderly women in traditional hill communities have not previously experienced."
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "Documents You Need",
+      "items": [
+        {
+          "icon": "file",
+          "title": "Aadhaar and age proof",
+          "sub": "Birth certificate, voter ID, or school certificate showing age."
+        },
+        {
+          "icon": "shield",
+          "title": "HP residence proof",
+          "sub": "Domicile or residence certificate of Himachal Pradesh."
+        },
+        {
+          "icon": "wallet",
+          "title": "Bank passbook",
+          "sub": "Aadhaar-seeded account in the applicant's name."
+        },
+        {
+          "icon": "search",
+          "title": "Income or BPL proof",
+          "sub": "Income certificate or BPL card, mainly for the 60-69 slab."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Who Is Eligible More",
+      "icon": "✅",
+      "content": [
+        "Several elderly beneficiaries in Himachal Pradesh have reported using a portion of their monthly pension to contribute to local savings groups (self-help groups) that operate at the village level; by pooling small contributions from their pension income, elderly women have accessed micro-loans for medical expenses or small household repairs without depending on family members or moneylenders. This secondary financial behaviour demonstrates that even a modest guaranteed income can catalyse broader financial participation.",
+        "The Social Justice and Empowerment Department maintains a state-level dashboard that tracks the number of approved beneficiaries, payment status, and grievance resolution metrics for the HP Social Security Pension; this data is used to monitor coverage gaps across districts and to identify blocks where eligible elderly residents are not yet enrolled. Districts with lower-than-expected enrolment relative to their elderly population receive special outreach attention through targeted registration drives."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "icon": "info",
+      "title": "Help for Those Who Cannot Travel",
+      "content": "Elderly people too frail to reach a bank can use a family member or a doorstep banking facility to draw the pension.<br><br>The Jeevan Pramaan digital life certificate is accepted for the annual verification, so a long trip to the office can often be avoided."
+    },
+    {
+      "type": "text",
+      "heading": "How to Apply",
+      "icon": "📝",
+      "content": [
+        "HP's social pension is also linked to the National Information Utilities (NIU) infrastructure that supports the NSAP programmes, which means that the central government has visibility into the state's elderly pension roll and can monitor the combined state-plus-central payment for BPL beneficiaries. This integration reduces duplication and ensures that the IGNOAPS top-up is credited to the same account as the state pension, simplifying the banking experience for the beneficiary.",
+        "The HP Old Age Pension also covers elderly persons who live alone in single-person households, which is a particularly common household type in hill areas where younger generations have migrated to the plains or to cities for employment. An elderly person living alone who qualifies on age and income grounds is entitled to the full pension without any means test beyond the income ceiling, and the Gram Panchayat is expected to keep a record of such single-person elderly households to ensure they are not missed in registration drives."
+      ]
+    },
+    {
+      "type": "pullquote",
+      "text": "The HP Old Age Pension provides Rs 1,500 to Rs 1,700 per month to senior citizens in Himachal Pradesh, with the higher amount going to those aged 70 and above, ensuring a dignified income floor for the state's elderly population through direct bank transfer."
+    },
+    {
+      "type": "text",
+      "heading": "How to Apply More",
+      "icon": "📝",
+      "content": [
+        "Apple growers and horticulture-dependent families in Himachal Pradesh who have retired from active farming due to age and who do not earn a salary or pension from any other source are among the typical beneficiaries of the HP Old Age Pension; their total family income from occasional horticulture sales may be below the Rs 35,000 annual threshold, making them eligible even if they own land. The land ownership does not disqualify an applicant as long as the total family income from all sources is within the ceiling.",
+        "The HP government has also made provisions for beneficiaries who are literate but unable to use digital tools to submit their life certificate, by allowing the Gram Panchayat secretary to certify their living status in person at the beneficiary's home in cases where the beneficiary cannot travel due to age-related disability or illness. This doorstep life certification service, while informal in many places, has been crucial for maintaining uninterrupted pensions for the oldest and most frail beneficiaries in remote areas."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "HP Old Age Pension: Quick Reference",
+      "icon": "📑",
+      "columns": [
+        "Detail",
+        "Value"
+      ],
+      "rows": [
+        [
+          "Age 60-69 Amount",
+          "Rs 1,500/month"
+        ],
+        [
+          "Age 70+ Amount",
+          "Rs 1,700/month"
+        ],
+        [
+          "Income Limit",
+          "Below Rs 35,000/year family income"
+        ],
+        [
+          "Payment Mode",
+          "DBT to Aadhaar-linked bank account"
+        ],
+        [
+          "Apply At",
+          "Gram Panchayat or ULB office"
+        ],
+        [
+          "Dept",
+          "Social Justice and Empowerment, HP"
+        ],
+        [
+          "Life Certificate",
+          "Annual (Jeevan Pramaan Patra accepted)"
+        ],
+        [
+          "NSAP Top-Up",
+          "Additional Rs 300-500/month for BPL"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Annual Life Certificate",
+      "icon": "🔄",
+      "content": [
+        "Disputes about pension eligibility or payment amounts are handled through the district Social Justice and Empowerment office, where beneficiaries or their family members can file a grievance in writing; the department is required to respond within a set timeframe and to provide a written explanation of any rejection or payment discrepancy. The Chief Minister's Helpline 1100 in Himachal Pradesh has also been used by some beneficiaries to escalate unresolved pension grievances.",
+        "The pension represents one component of a broader state social protection floor for the elderly in Himachal Pradesh that also includes the HIMCARE health insurance scheme, which provides cashless medical care up to Rs 5 lakh per family per year at empanelled hospitals; elderly residents who hold an HP Old Age Pension are encouraged to also register for HIMCARE to ensure their health expenses do not consume their pension income. Together, the two schemes address the two largest financial risks facing elderly people in the state: income shortfall and healthcare cost."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "icon": "info",
+      "title": "Annual Life Certificate Notes",
+      "content": "The HP Old Age Pension is especially valued by elderly men and women who have been excluded from formal sector employment throughout their working lives, including daily wage agricultural workers, forest produce collectors, and pastoralists who moved with their flocks across high pastures and never held a regular salaried job; for this category of workers, there is no Employee Provident Fund, no Employee Pension Scheme, and no gratuity to look forward to in retirement, making the state's social pension their only structured income in old age. The scheme thus serves as the de facto retirement income for the majority of HP's elderly rural population.<br><br>The Social Justice and Empowerment Department has worked with the district administration to conduct periodic doorstep survey drives in high-altitude villages during summer months when roads are accessible, with the aim of identifying elderly residents who have not yet been enrolled in the pension scheme and helping them complete registration on the spot. These targeted outreach efforts have been especially important in remote tracts such as the Spiti valley and the Chamba tribal areas, where awareness of government welfare schemes can be lower among elderly residents who have had limited engagement with formal government services."
+    },
+    {
+      "type": "text",
+      "heading": "For Frail and Remote Beneficiaries",
+      "icon": "⛰️",
+      "content": [
+        "For elderly beneficiaries who die during the year, the Social Justice and Empowerment Department has a process by which the family is expected to report the death to the Gram Panchayat so that the pension can be formally closed in the database; until the death is reported and confirmed, the payment may continue to be credited to the account, creating a risk of duplicate payments that the department audits through annual beneficiary verification. Families that do not report a beneficiary's death face potential recovery proceedings for payments received after the date of death.",
+        "The scheme's targeting mechanism, while based on a straightforward income ceiling, is enforced at the Gram Panchayat level where local officials and community members can raise objections if they believe an applicant's income has been understated in the Tehsildar's certificate; this community-level accountability is an informal but often effective check on ineligible applicants enrolling in the scheme. The Gram Panchayat records of landholding and village livelihoods are cross-referenced by block-level officers when processing applications that appear borderline."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much pension does Himachal Pradesh give to senior citizens?",
+      "answer": "HP gives Rs 1,500 per month to those aged 60-69 and Rs 1,700 per month to those aged 70 and above under the Social Security Old Age Pension scheme."
+    },
+    {
+      "question": "What is the income limit for the HP Old Age Pension?",
+      "answer": "The annual family income must be below Rs 35,000 for the applicant to be eligible for the HP Old Age Pension."
+    },
+    {
+      "question": "Where should I apply for the HP Old Age Pension?",
+      "answer": "Rural applicants should apply at the Gram Panchayat office. Urban applicants should go to the Urban Local Body (municipality or nagar panchayat) office in their area."
+    },
+    {
+      "question": "What documents are needed to apply for the HP Old Age Pension?",
+      "answer": "You need an Aadhaar card, age proof, Himachal Pradesh residence or domicile certificate, income certificate from the Tehsildar, and a bank passbook for an Aadhaar-linked account."
+    },
+    {
+      "question": "Can I receive HP Old Age Pension if I am already getting a widow pension?",
+      "answer": "You cannot receive both at the same time. Women receiving widow pension are typically migrated to the Old Age Pension when they turn 60, as the two benefits cannot be drawn simultaneously."
+    },
+    {
+      "question": "Is there a central government top-up on the HP Old Age Pension?",
+      "answer": "Yes. BPL beneficiaries who are covered under the Indira Gandhi National Old Age Pension Scheme (IGNOAPS) receive an additional Rs 300 per month (age 60-79) or Rs 500 per month (age 80+) from the central government."
+    },
+    {
+      "question": "How is the HP Old Age Pension paid?",
+      "answer": "The pension is paid through Direct Benefit Transfer (DBT) directly to the beneficiary's Aadhaar-linked bank account every month."
+    },
+    {
+      "question": "Do I need to submit a life certificate every year?",
+      "answer": "Yes. An annual life certificate (Jeevan Pramaan Patra) is required to maintain uninterrupted pension.<br><br>You can submit it digitally through the Jeevan Pramaan Patra app or physically at the Gram Panchayat or block office."
+    },
+    {
+      "question": "Can a tribal elder in a remote village receive this pension?",
+      "answer": "Yes. The HP Old Age Pension is available to all eligible residents of Himachal Pradesh, including those in tribal areas and remote high-altitude villages.<br><br>The DBT mechanism ensures payment reaches even isolated beneficiaries."
+    },
+    {
+      "question": "What is the difference between the HP Old Age Pension and IGNOAPS?",
+      "answer": "The HP Old Age Pension is a state-funded scheme for residents with family income below Rs 35,000. IGNOAPS is a central government scheme for BPL households under NSAP.<br><br>Eligible BPL beneficiaries can receive both as a combined payment."
+    }
+  ]
+}
