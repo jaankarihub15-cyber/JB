@@ -57,6 +57,11 @@ export default function RootLayout({
     <html lang="en-IN" className={jakarta.variable}>
       <head>
         <meta name="verify-admitad" content="87e3f0cfe3" />
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1251062595068305"
+          crossOrigin="anonymous"
+        ></script>
         <link rel="alternate" type="application/rss+xml" title="KnowledgeKendra RSS" href="https://knowledgekendra.com/feed.xml" />
         <link rel="preconnect" href="https://www.googletagmanager.com" />
         <link rel="preconnect" href="https://www.clarity.ms" />
@@ -114,12 +119,6 @@ export default function RootLayout({
             gtag('config', 'G-C2HEZF6TV1');
           `}
         </Script>
-        <Script
-          id="adsbygoogle-init"
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1251062595068305"
-          strategy="afterInteractive"
-          crossOrigin="anonymous"
-        />
         <Script id="clarity-init" strategy="lazyOnload">
           {`
             (function(c,l,a,r,i,t,y){
