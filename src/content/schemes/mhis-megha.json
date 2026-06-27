@@ -1,0 +1,507 @@
+{
+  "slug": "mhis-megha",
+  "title": "MHIS Megha Health Insurance Scheme Meghalaya",
+  "meta_description": "MHIS Megha gives Meghalaya families Rs 5 lakh annual cashless health cover. Check eligibility, empanelled hospitals, card enrolment, and how to use the scheme.",
+  "hero": {
+    "icon": "🏥",
+    "one_liner": "MHIS Megha gives every Meghalaya family up to Rs 5.30 lakh cashless health cover a year. A universal state scheme running with PM-JAY since 2019.",
+    "updated_date": "June 2026",
+    "stats": [
+      {
+        "label": "Cover",
+        "value": "₹5.30 L"
+      },
+      {
+        "label": "Who",
+        "value": "All Residents"
+      },
+      {
+        "label": "Mode",
+        "value": "Cashless"
+      },
+      {
+        "label": "Fee",
+        "value": "₹30"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "📝",
+      "label": "Enrol (CSC)",
+      "url": "https://meghealth.gov.in"
+    },
+    {
+      "icon": "🔍",
+      "label": "Hospital list",
+      "url": "https://meghealth.gov.in"
+    },
+    {
+      "icon": "✅",
+      "label": "Eligibility",
+      "url": "/check-eligibility"
+    }
+  ],
+  "what_is_it": [
+    "The Meghalaya Health Insurance Scheme (MHIS Megha) is a state government health insurance programme that provides cashless hospitalisation cover of up to Rs 5 lakh per family per year to Meghalaya residents who are not covered under the national Ayushman Bharat PM-JAY health insurance scheme. The scheme was launched to address the health coverage gap that exists when PM-JAY's SECC-based beneficiary list does not include all households that genuinely need health protection, effectively creating a state-funded safety net that bridges the gap between PM-JAY and the goal of universal health coverage for all Meghalaya residents.",
+    "Meghalaya's unique demographic and geographic profile makes a state-level health insurance scheme particularly important; the state has a predominantly tribal population spread across hilly districts with limited road and hospital infrastructure, and medical expenses for serious illness have historically been a leading cause of household financial distress. MHIS Megha directly addresses this vulnerability by removing the cost barrier to hospitalisation at empanelled facilities, allowing families to seek medical care when they need it rather than deferring treatment due to inability to pay."
+  ],
+  "eligibility": [
+    {
+      "label": "Cover",
+      "value": "Up to Rs 5.30 lakh a family a year, cashless, floater basis.",
+      "highlight": true
+    },
+    {
+      "label": "Who",
+      "value": "All Meghalaya residents except government employees.",
+      "highlight": true
+    },
+    {
+      "label": "With PM-JAY",
+      "value": "Runs with PM-JAY, one smart card for care across India.",
+      "highlight": true
+    },
+    {
+      "label": "Pre-existing",
+      "value": "Covered, and newborns covered from birth.",
+      "highlight": false
+    },
+    {
+      "label": "Enrol",
+      "value": "At a CSC or camp with ID, for a Rs 30 fee.",
+      "highlight": false
+    }
+  ],
+  "eligibility_filters": {
+    "states": [
+      "meghalaya"
+    ],
+    "gender": "any",
+    "age_min": null,
+    "age_max": null,
+    "income_max": null,
+    "notes": "All Meghalaya residents except state and central government employees and pensioners. Up to Rs 5.30 lakh cashless health cover a family a year on floater basis. Universal scheme running since 2012, integrated with PM-JAY since 2019. Smart card via a CSC or camp with ID and a Rs 30 enrolment fee. Pre-existing and newborns covered."
+  },
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Check PM-JAY Status First",
+      "description": "Visit a CSC or the Ayushman Bharat counter at a government hospital to verify whether your family is already on the PM-JAY beneficiary list; if you are on PM-JAY, get the Ayushman Golden Card instead."
+    },
+    {
+      "step": 2,
+      "title": "Enrol at Designated Centre",
+      "description": "If your family is not on PM-JAY, go to a government hospital, CSC, or MHIS Megha enrolment centre with your Aadhaar card and Meghalaya residency proof for Aadhaar-based enrolment."
+    },
+    {
+      "step": 3,
+      "title": "Receive the Health Card",
+      "description": "The MHIS Megha health card is issued after Aadhaar authentication; it covers the entire family for Rs 5 lakh per year and is valid at all empanelled hospitals in Meghalaya."
+    },
+    {
+      "step": 4,
+      "title": "Use at Empanelled Hospitals",
+      "description": "Present your MHIS Megha card at the Ayushman Mitra counter at any empanelled hospital; for emergencies, present on arrival; for planned surgeries, get pre-authorisation in advance."
+    }
+  ],
+  "official_portal": {
+    "name": "MHIS Meghalaya",
+    "url": "https://meghealth.gov.in"
+  },
+  "related_pages": [
+    {
+      "title": "CMELP Meghalaya",
+      "slug": "cmelp-meghalaya",
+      "tag": "Employment",
+      "url": "/yojana/cmelp-meghalaya"
+    },
+    {
+      "title": "Meghalaya Social Pension",
+      "slug": "meghalaya-social-pension",
+      "tag": "Pension",
+      "url": "/yojana/meghalaya-social-pension"
+    }
+  ],
+  "tags": [],
+  "ministry": "Health and Family Welfare Department, Meghalaya",
+  "launch_year": 2012,
+  "category": "health",
+  "state": "meghalaya",
+  "last_reviewed": "June 2026",
+  "schema_type": "FAQPage",
+  "extra_sections": [
+    {
+      "type": "text",
+      "heading": "Inside MHIS Megha",
+      "icon": "📖",
+      "content": [
+        "The Rs 5 lakh annual cover under MHIS Megha is available for secondary and tertiary hospitalisation across a broad range of medical conditions including cardiac surgery, orthopaedic procedures, cancer treatment, kidney disease management, neurosurgical procedures, and maternal health complications; the scheme's package list is aligned with the PM-JAY package framework to ensure comparability. Each empanelled hospital has been provided with the rate schedule for approved packages, and treatment under these packages is fully cashless for enrolled beneficiaries.",
+        "To be eligible for MHIS Megha, a Meghalaya resident must not be an active beneficiary under Ayushman Bharat PM-JAY; Common Service Centres (CSCs) and government hospitals have systems to check PM-JAY eligibility on the spot, and families that are not found in the PM-JAY database can be enrolled in MHIS Megha. This eligibility verification is important to prevent duplication, as a family should not be enrolled in both PM-JAY and MHIS Megha simultaneously."
+      ]
+    },
+    {
+      "type": "number_highlight",
+      "big": "₹5.30 Lakh",
+      "title": "Cover on a Family Floater Basis",
+      "desc": "The Rs 5.30 lakh limit is shared across the whole family on a floater basis, so one member or several can use it.<br><br>Pre-existing diseases are covered, newborns are covered from birth, and pregnant women get antenatal and postnatal care."
+    },
+    {
+      "type": "text",
+      "heading": "Inside MHIS Megha: What Else to Know",
+      "icon": "📖",
+      "content": [
+        "The MHIS Megha health card is issued to enrolled families after Aadhaar-based verification at designated enrolment centres including government hospitals, CSCs, and health facilitation centres operated by the scheme's implementing agency. The card is Aadhaar-linked to prevent fraud and enables the beneficiary to receive cashless treatment at any MHIS Megha empanelled hospital across Meghalaya; the card covers the entire family enrolled under the scheme, and each family member can seek treatment without needing an individual card.",
+        "Empanelled hospitals under MHIS Megha include all major government hospitals in Meghalaya such as Civil Hospital Shillong, Ganesh Das Hospital, North Eastern Indira Gandhi Regional Institute of Health and Medical Sciences (NEIGRIHMS), and district-level government hospitals; private hospitals that meet the scheme's empanelment criteria have also been included in the network. NEIGRIHMS, as the premier tertiary hospital in the Northeast, is a particularly important empanelled facility for MHIS Megha beneficiaries requiring complex or specialist care."
+      ]
+    },
+    {
+      "type": "process_flow",
+      "heading": "How to Apply for MHIS Megha",
+      "steps": [
+        {
+          "icon": "search",
+          "title": "Visit a CSC or camp",
+          "desc": "Go to a Common Service Centre or an MHIS enrolment camp."
+        },
+        {
+          "icon": "file",
+          "title": "Submit documents",
+          "desc": "Provide your ID and family details for verification."
+        },
+        {
+          "icon": "shield",
+          "title": "Biometric and photo",
+          "desc": "Get your photo taken and complete fingerprint verification."
+        },
+        {
+          "icon": "check",
+          "title": "Get the smart card",
+          "desc": "Receive the MHIS smart card to use for cashless treatment."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "The Numbers That Matter",
+      "icon": "📊",
+      "content": [
+        "NEIGRIHMS in Shillong is not only a PM-JAY empanelled hospital but also accepts MHIS Megha for Meghalaya residents; this means that beneficiaries requiring neurosurgery, oncology treatment, transplants, or other highly specialised services available only at a tertiary referral centre can access these services on a cashless basis even if they are not on the PM-JAY list. The availability of NEIGRIHMS for both PM-JAY and MHIS Megha patients reflects Meghalaya's integrated approach to health insurance coverage.",
+        "Ayushman Mitras or health facilitators deployed at empanelled hospitals assist MHIS Megha beneficiaries with the admission process, pre-authorisation for planned procedures, and discharge formalities; these facilitators are specifically trained to handle both PM-JAY and MHIS Megha cases and can guide beneficiaries on which scheme applies to them and how to navigate the cashless admission process at the hospital. For emergency admissions, the facilitator processes the MHIS Megha card on an urgent basis so that treatment can begin immediately."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "MHIS Megha: Quick Reference",
+      "icon": "📑",
+      "columns": [
+        "Detail",
+        "Value"
+      ],
+      "rows": [
+        [
+          "Scheme Name",
+          "Meghalaya Health Insurance Scheme (MHIS Megha)"
+        ],
+        [
+          "Annual Cover",
+          "Rs 5 lakh per family per year"
+        ],
+        [
+          "Eligibility",
+          "All Meghalaya families not covered by PM-JAY"
+        ],
+        [
+          "Card Required",
+          "MHIS Megha health card (Aadhaar-linked)"
+        ],
+        [
+          "Treatment",
+          "Cashless at empanelled hospitals in Meghalaya"
+        ],
+        [
+          "Pre-existing Conditions",
+          "Covered from day one"
+        ],
+        [
+          "Department",
+          "Health and Family Welfare Department, Meghalaya"
+        ],
+        [
+          "State",
+          "Meghalaya"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "In Their Words",
+      "icon": "💬",
+      "content": [
+        "MHIS Megha ensures that every Meghalaya family, whether covered by PM-JAY or not, has access to Rs 5 lakh in annual cashless health insurance, making universal health coverage a reality across the state's diverse tribal communities and remote hill districts."
+      ]
+    },
+    {
+      "type": "eligibility_check",
+      "heading": "Who qualifies",
+      "icon": "✅",
+      "qualify": [
+        "Resident of Meghalaya",
+        "Not a state or central government employee",
+        "Has a valid ID like Aadhaar",
+        "All family members can be enrolled",
+        "No age or income bar to enrol"
+      ],
+      "disqualify": [
+        "State or central government employee",
+        "Pensioner under a separate medical scheme",
+        "Not a Meghalaya resident",
+        "Card or enrolment not completed",
+        "Outpatient care not needing hospitalisation"
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Who Can Apply",
+      "icon": "✅",
+      "content": [
+        "The annual Rs 5 lakh cover under MHIS Megha resets at the start of each scheme year for all enrolled families; families with high medical needs in one year start fresh at the beginning of the following year. This annual reset ensures that families with chronic conditions are not locked out of health cover because they exhausted their limit in a previous year, though it also means that treatment planning for high-cost procedures should take into account the annual ceiling.",
+        "Grievances related to MHIS Megha, such as refusal of cashless treatment by an empanelled hospital, billing disputes, or non-payment of claims, can be reported to the MHIS Megha helpline and to the District Medical and Health Officer; the Health Department has prescribed timelines for grievance resolution and empanelled hospitals that repeatedly violate the cashless treatment mandate can be de-empanelled as a punitive measure. Beneficiaries should always retain a copy of their MHIS Megha card and any pre-authorisation documents as supporting evidence for grievances."
+      ]
+    },
+    {
+      "type": "stat_grid",
+      "heading": "MHIS Megha: Key Numbers",
+      "icon": "📊",
+      "items": [
+        {
+          "icon": "wallet",
+          "value": "₹5.30 L",
+          "label": "Per Family",
+          "color": "green"
+        },
+        {
+          "icon": "users",
+          "value": "Universal",
+          "label": "All Residents",
+          "color": "blue"
+        },
+        {
+          "icon": "shield",
+          "value": "Cashless",
+          "label": "Treatment",
+          "color": "amber"
+        },
+        {
+          "icon": "file",
+          "value": "₹30",
+          "label": "Enrollment Fee",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Who Can Apply: Continued",
+      "icon": "✅",
+      "content": [
+        "The shift to digital health records under the Ayushman Bharat Digital Mission (ABDM) is being integrated with MHIS Megha's enrolment and claims system, enabling digital storage of health records that can be accessed by treating doctors at empanelled hospitals across Meghalaya; this digitisation is expected to improve the quality and continuity of care for MHIS Megha beneficiaries who visit multiple hospitals over time. ABHA (Ayushman Bharat Health Account) IDs are being issued alongside MHIS Megha enrolment where possible.",
+        "For Meghalaya residents who receive treatment at NEIGRIHMS or other referral hospitals after being referred from a district hospital, the MHIS Megha cover follows them to the referral hospital without requiring a new enrolment or card; the referral chain is integrated with the scheme's authorisation system so that the continuity of cashless treatment is maintained throughout the referral journey. This referral integration is particularly important for cancer and cardiac patients who may be referred multiple times across different facilities."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "MHIS Megha vs PM-JAY in Meghalaya",
+      "icon": "📋",
+      "columns": [
+        "Feature",
+        "PM-JAY",
+        "MHIS Megha"
+      ],
+      "rows": [
+        [
+          "Cover Amount",
+          "Rs 5 lakh/year",
+          "Rs 5 lakh/year"
+        ],
+        [
+          "Who Is Covered",
+          "SECC-listed families",
+          "Meghalaya families not on PM-JAY"
+        ],
+        [
+          "Card",
+          "Ayushman Golden Card",
+          "MHIS Megha health card"
+        ],
+        [
+          "Pre-existing Conditions",
+          "Covered",
+          "Covered"
+        ],
+        [
+          "Applicable Hospitals",
+          "Empanelled nationally",
+          "Empanelled in Meghalaya"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "The Numbers That Matter: What Else to Know",
+      "icon": "📊",
+      "content": [
+        "The scheme also covers pre-existing conditions from the first day of enrolment, which is a significant feature given that many Meghalaya residents have chronic conditions like diabetes, hypertension, heart disease, and chronic kidney disease that require hospitalisation; the absence of any waiting period for pre-existing conditions removes a major limitation that exists in private health insurance products and makes MHIS Megha genuinely accessible to those who need it most. Families where an elderly or chronically ill member has already been diagnosed with a serious condition do not have to wait to benefit from the scheme.",
+        "Meghalaya's Khasi, Jaintia, and Garo communities, each with distinct cultural practices and geographic distributions, are all covered under MHIS Megha; the scheme is implemented uniformly across all three major tribal regions of the state, with empanelled facilities available in all major district headquarters. The Health Department has made specific efforts to ensure that the scheme is accessible in the Garo Hills districts, which are geographically more remote and have historically had lower healthcare utilisation rates than the Khasi and Jaintia Hills regions."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "icon": "info",
+      "title": "Carry the Smart Card to Hospital",
+      "content": "Show the MHIS or PM-JAY smart card at the hospital to get cashless treatment, so keep it with you.<br><br>The card also works at empanelled hospitals outside Meghalaya, which helps if you travel for treatment."
+    },
+    {
+      "type": "text",
+      "heading": "Getting Your Application In",
+      "icon": "📝",
+      "content": [
+        "Mental health hospitalisation at government psychiatric facilities in Meghalaya is covered under MHIS Megha for enrolled beneficiaries; Meghalaya has recognised the mental health needs of its population, which faces unique stressors related to geographic isolation, limited economic opportunities, and substance use issues in some communities. The inclusion of psychiatric inpatient care under the health insurance scheme reflects a progressive understanding of health that treats mental illness on par with physical illness for insurance coverage purposes.",
+        "Women in Meghalaya who are enrolled under MHIS Megha can access maternity care, post-natal complications treatment, and gynaecological procedures at empanelled hospitals on a cashless basis; this is important because Meghalaya has a significant share of its population in rural areas where institutional delivery rates have historically been lower than the national average. The cashless hospitalisation available under MHIS Megha complements the financial incentives provided under Janani Suraksha Yojana for institutional delivery, creating a more comprehensive package of support for maternal health."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "info",
+      "icon": "info",
+      "title": "Free Health Cover for Meghalaya Residents",
+      "content": "MHIS Megha gives every Meghalaya family up to Rs 5.30 lakh of cashless health cover a year. It is one of India's earliest universal state health schemes, running since 2012.<br><br>Since 2019 it runs along with PM-JAY, so beneficiaries get a single smart card for cashless care across India."
+    },
+    {
+      "type": "text",
+      "heading": "Getting Your Application In: Going Deeper",
+      "icon": "📝",
+      "content": [
+        "MHIS Megha is one of Meghalaya's flagship welfare schemes and reflects the state government's commitment to achieving Universal Health Coverage for its population; the scheme positions Meghalaya as a state that has taken deliberate policy action to ensure that the financial risk of serious illness does not fall disproportionately on its poorest and most marginalised residents. As the scheme's coverage deepens and more families are enrolled, its impact on reducing household health expenditure and preventing poverty due to catastrophic medical costs is expected to become increasingly measurable and significant.",
+        "The scheme's implementation in Meghalaya's East Khasi Hills, West Garo Hills, and Ri Bhoi districts has required coordination with community leaders and village elders whose trust is essential for successful outreach in tribal communities; the Health Department has involved local community health workers, church-based networks, and village health committees in awareness and enrolment drives. This community-led outreach approach has been more effective than top-down official communication in reaching households in remote areas that are otherwise difficult to engage through government channels."
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "Documents You Need",
+      "items": [
+        {
+          "icon": "file",
+          "title": "Aadhaar or valid ID",
+          "sub": "For each family member at enrolment."
+        },
+        {
+          "icon": "shield",
+          "title": "Residence proof",
+          "sub": "Showing you are a resident of Meghalaya."
+        },
+        {
+          "icon": "wallet",
+          "title": "Family document",
+          "sub": "Any government document listing family members."
+        },
+        {
+          "icon": "search",
+          "title": "Photo and biometrics",
+          "sub": "Captured at the enrolment centre."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "When and How You Are Paid",
+      "icon": "🏦",
+      "content": [
+        "MHIS Megha also covers newborns of enrolled women who are hospitalised for delivery; the newborn child is covered under the mother's MHIS Megha card for any neonatal intensive care or medical procedures required in the same hospitalisation episode. This newborn coverage provision is particularly valuable in Meghalaya given the relatively high incidence of low-birth-weight babies in some districts, who often require neonatal care after delivery.",
+        "Beneficiaries who are discharged from hospital after MHIS Megha-covered treatment are encouraged to maintain their MHIS Megha card for future use and to check with the Health Department at the start of each new year whether any updates to the scheme, revised package rates, or new hospital empanelments have been announced; the scheme is a living programme that is updated periodically and beneficiaries benefit from staying informed about changes. The state health authority publishes updates on its official website and through district health offices."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "warning",
+      "icon": "alert",
+      "title": "Government Employees Are Not Covered",
+      "content": "MHIS Megha is universal, but it does not cover state and central government employees and pensioners. They use a separate medical reimbursement system.<br><br>If you are a government employee, check that scheme instead, since you cannot enrol your family under MHIS in your name."
+    },
+    {
+      "type": "text",
+      "heading": "When and How You Are Paid: Continued",
+      "icon": "🏦",
+      "content": [
+        "Cancer treatment is among the most impactful applications of MHIS Megha coverage in Meghalaya, as cancer care is expensive and Meghalaya has a notable incidence of certain cancers including head and neck cancers associated with traditional practices of betel nut and tobacco use; the cashless cover for oncology packages under MHIS Megha enables families to seek cancer treatment at NEIGRIHMS and other empanelled hospitals without devastating financial consequences. Early cancer detection and treatment supported by the scheme's coverage has improved the prognosis for some categories of patients.",
+        "The financial sustainability of MHIS Megha is supported by a combination of state budget allocation and, where applicable, central government grants for health coverage expansion; the Meghalaya government has prioritised the scheme in successive budgets as part of its social welfare commitment. The scheme's claims are managed through an insurance-based or trust-based model where empanelled hospitals submit claims after providing cashless treatment, and the claims are settled from the scheme fund after verification by the implementing authority."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "icon": "info",
+      "title": "What You Will Need Notes",
+      "content": "Dialysis centres that are part of government hospitals empanelled under MHIS Megha provide free dialysis to beneficiaries on a per-session basis, with the cost settled under the scheme's kidney disease packages; for patients in Meghalaya who require thrice-weekly dialysis, the cashless coverage translates into a saving of Rs 15,000 to Rs 25,000 per month, which would otherwise be catastrophic for most family budgets. The inclusion of dialysis in the MHIS Megha package list reflects the scheme's recognition that some health conditions require recurring expensive treatment rather than one-time surgical intervention.<br><br>MHIS Megha beneficiaries who are residents of Meghalaya but are hospitalised in empanelled facilities in Shillong (the state capital) for treatments not available at their home district hospitals can be reimbursed for reasonable travel costs through a transport allowance component of the scheme; this provision partially offsets the significant travel cost that residents of Garo Hills or Jaintia Hills districts face when they need to travel to Shillong for tertiary care. The transport allowance is a small but meaningful support for rural beneficiaries who already face the burden of distance in accessing healthcare."
+    },
+    {
+      "type": "text",
+      "heading": "What You Will Need: Key Points",
+      "icon": "📄",
+      "content": [
+        "As Meghalaya continues to strengthen its healthcare infrastructure through new government hospitals and the expansion of specialist services at district hospitals, MHIS Megha's network of empanelled facilities is also expected to grow; more empanelled hospitals mean that beneficiaries can access cashless treatment closer to their homes, reducing both travel time and cost. The health insurance scheme and the healthcare infrastructure programme are complementary components of Meghalaya's health system strengthening agenda.",
+        "The process of enroling under MHIS Megha has been made as simple as possible to minimise barriers to access: the Aadhaar card is the only mandatory identity document required for enrolment, and the process can be completed at any government hospital's Ayushman Mitra desk without requiring the family to travel to a specific government office. This single-window enrolment model reflects the Health Department's understanding that burdensome enrolment processes are a key reason why eligible families fail to sign up for welfare schemes."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "icon": "info",
+      "title": "The Bigger Picture Notes",
+      "content": "Families that have recently relocated to Meghalaya from other states and have established Meghalaya residency are eligible for MHIS Megha if they meet the PM-JAY non-coverage condition; the scheme is available to all residents regardless of how long they have been resident in the state, as long as they have Meghalaya domicile or a valid Meghalaya voter ID or ration card. The inclusiveness of the residency criterion ensures that migrant workers and families who have settled in Meghalaya are not excluded from health cover.<br><br>MHIS Megha's impact on hospital utilisation in Meghalaya has been to increase the number of patients from low-income families seeking inpatient treatment at government hospitals, which was historically lower than the national average; the cashless cover has encouraged families to seek care at empanelled government facilities rather than approaching private practitioners or traditional healers for conditions that require hospitalisation. This shift towards institutional care for serious illness is a measurable health systems impact of the scheme that has positive long-term implications for health outcomes across all of Meghalaya's districts, and district health officials track monthly utilisation data to identify gaps and address them in a timely and targeted manner across the empanelled hospital network."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is MHIS Megha?",
+      "answer": "MHIS Megha (Meghalaya Health Insurance Scheme) is a state health insurance scheme providing Rs 5 lakh annual cashless hospitalisation to Meghalaya families who are not covered under the national PM-JAY scheme."
+    },
+    {
+      "question": "Who is eligible for MHIS Megha?",
+      "answer": "All Meghalaya residents who are not active PM-JAY beneficiaries are eligible for MHIS Megha."
+    },
+    {
+      "question": "What is the annual health cover amount?",
+      "answer": "Rs 5 lakh per family per year, matching the PM-JAY cover amount."
+    },
+    {
+      "question": "How do I get the MHIS Megha health card?",
+      "answer": "First confirm you are not on PM-JAY, then visit a government hospital, CSC, or MHIS Megha enrolment centre with your Aadhaar card and Meghalaya residency proof for enrolment."
+    },
+    {
+      "question": "Are pre-existing conditions covered under MHIS Megha?",
+      "answer": "Yes. Pre-existing conditions are covered from the first day of enrolment with no waiting period."
+    },
+    {
+      "question": "Can I use MHIS Megha at NEIGRIHMS?",
+      "answer": "Yes. NEIGRIHMS in Shillong is empanelled under both PM-JAY and MHIS Megha, so Meghalaya residents enrolled in either scheme can receive cashless treatment there."
+    },
+    {
+      "question": "Do I need pre-authorisation for every hospital admission?",
+      "answer": "Emergency admissions can proceed immediately on presenting the MHIS Megha card. Planned (elective) procedures require pre-authorisation from the hospital's Ayushman Mitra before admission."
+    },
+    {
+      "question": "What is the difference between PM-JAY and MHIS Megha?",
+      "answer": "Both provide Rs 5 lakh annual cashless cover. PM-JAY covers SECC-listed BPL families nationally, while MHIS Megha covers Meghalaya families who are not on the PM-JAY list.<br><br>If you are on PM-JAY, use the Ayushman Golden Card; if not, use MHIS Megha."
+    },
+    {
+      "question": "Is mental health hospitalisation covered under MHIS Megha?",
+      "answer": "Yes. Inpatient psychiatric care at empanelled government facilities is covered under MHIS Megha."
+    },
+    {
+      "question": "How do I report a problem with my MHIS Megha card or cashless treatment?",
+      "answer": "Contact the MHIS Megha helpline, the Ayushman Mitra at the hospital, or the District Medical and Health Officer to report and resolve issues with cashless treatment or card-related problems."
+    }
+  ]
+}

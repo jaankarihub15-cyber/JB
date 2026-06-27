@@ -36,6 +36,8 @@ export type StateKey =
   | "karnataka"
   | "odisha"
   | "chhattisgarh"
+  | "tripura"
+  | "meghalaya"
   | "jammu-and-kashmir"
   | "goa"
   | "uttarakhand"
@@ -246,6 +248,8 @@ export const states: Record<StateKey, {
   "karnataka": { slug: "karnataka", label: "Karnataka", short: "KA" },
   "odisha": { slug: "odisha", label: "Odisha", short: "OD" },
   "chhattisgarh": { slug: "chhattisgarh", label: "Chhattisgarh", short: "CG" },
+  "tripura": { slug: "tripura", label: "Tripura", short: "TR" },
+  "meghalaya": { slug: "meghalaya", label: "Meghalaya", short: "ML" },
   "jammu-and-kashmir": { slug: "jammu-and-kashmir", label: "Jammu and Kashmir", short: "JK" },
   "goa": { slug: "goa", label: "Goa", short: "GA" },
   "uttarakhand": { slug: "uttarakhand", label: "Uttarakhand", short: "UK" },

@@ -1,0 +1,516 @@
+{
+  "slug": "tripura-social-pension",
+  "title": "Tripura Social Pension - Old Age Widow Disability",
+  "meta_description": "Tripura Social Pension gives monthly support to elderly, widows, and disabled residents. Check pension amounts, income limit, how to apply, and DBT payment.",
+  "hero": {
+    "icon": "👵",
+    "one_liner": "Tripura Social Pension gives Rs 2,000 a month to the elderly, widows, and persons with disabilities, for families earning under Rs 1 lakh a year.",
+    "updated_date": "June 2026",
+    "stats": [
+      {
+        "label": "Monthly",
+        "value": "₹2,000"
+      },
+      {
+        "label": "Old Age",
+        "value": "60+"
+      },
+      {
+        "label": "Income",
+        "value": "<₹1 L"
+      },
+      {
+        "label": "Mode",
+        "value": "DBT"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "📝",
+      "label": "Apply",
+      "url": "https://tripura.gov.in"
+    },
+    {
+      "icon": "🔍",
+      "label": "Check status",
+      "url": "https://tripura.gov.in"
+    },
+    {
+      "icon": "✅",
+      "label": "Eligibility",
+      "url": "/check-eligibility"
+    }
+  ],
+  "what_is_it": [
+    "The Tripura Social Pension Scheme is a state government programme administered by the Social Welfare and Social Education Department that provides monthly financial support of Rs 2,000 to three categories of vulnerable residents: elderly persons aged 60 and above, widows aged 18 and above, and persons with disabilities where the disability is certified at 40 percent or more. The pension is paid through Direct Benefit Transfer (DBT) directly to the beneficiary's Aadhaar-linked bank account every month, ensuring timely and transparent payment without the delays associated with manual disbursement.",
+    "Tripura's social pension of Rs 2,000 per month is one of the more substantial state pension amounts in Northeast India and reflects the state government's commitment to providing a meaningful income floor for its most vulnerable residents; the amount is significantly higher than the national NSAP base rates and also higher than several other states whose pensions remain at Rs 1,000 to Rs 1,500. The higher amount acknowledges the cost of living in Tripura and the limited alternative livelihood opportunities available to the elderly and disabled in the state's rural and tribal areas."
+  ],
+  "eligibility": [
+    {
+      "label": "Old age",
+      "value": "Rs 2,000 a month for residents aged 60 and above.",
+      "highlight": true
+    },
+    {
+      "label": "Widow and disability",
+      "value": "Rs 2,000 a month for widows and 40%+ disability.",
+      "highlight": true
+    },
+    {
+      "label": "Income limit",
+      "value": "Family annual income below Rs 1 lakh.",
+      "highlight": true
+    },
+    {
+      "label": "Resident",
+      "value": "Must be a Tripura resident.",
+      "highlight": false
+    },
+    {
+      "label": "Mode",
+      "value": "Paid monthly by DBT.",
+      "highlight": false
+    }
+  ],
+  "eligibility_filters": {
+    "states": [
+      "tripura"
+    ],
+    "gender": "any",
+    "age_min": 60,
+    "age_max": null,
+    "income_max": 100000,
+    "notes": "Tripura residents: elderly 60+, widows, or persons with 40%+ disability, family income below Rs 1 lakh a year. Rs 2,000 a month by DBT. Apply at the Social Welfare office with category, income, and residence proof. One pension per person. Periodic verification required."
+  },
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Collect Documents",
+      "description": "Gather your Aadhaar card, income certificate from the Competent Authority (below Rs 1 lakh/year), and the category-specific document: age proof for old age pension, husband's death certificate for widow pension, or disability certificate from the Chief Medical Officer for disability pension."
+    },
+    {
+      "step": 2,
+      "title": "Visit Panchayat or ULB Office",
+      "description": "Go to your local Gram Panchayat office (for rural areas) or Urban Local Body office (for urban areas); collect the social pension application form, fill it accurately, and attach all supporting documents before submission."
+    },
+    {
+      "step": 3,
+      "title": "Application Forwarded to DSWO",
+      "description": "The Panchayat or ULB verifies the application locally and forwards it to the District Social Welfare Officer (DSWO); the DSWO conducts a final review and approves eligible applications for enrolment in the state pension database."
+    },
+    {
+      "step": 4,
+      "title": "Pension Starts via DBT",
+      "description": "After approval, Rs 2,000 is credited to your Aadhaar-linked bank account every month; submit a Jeevan Pramaan Patra (life certificate) every year to keep the pension uninterrupted."
+    }
+  ],
+  "official_portal": {
+    "name": "Social Welfare Department, Tripura",
+    "url": "https://tripura.gov.in"
+  },
+  "related_pages": [
+    {
+      "title": "Mukhyamantri Maa Yojana",
+      "slug": "mukhyamantri-maa-yojana-tripura",
+      "tag": "Health",
+      "url": "/yojana/mukhyamantri-maa-yojana-tripura"
+    },
+    {
+      "title": "PRAYAS Scholarship Tripura",
+      "slug": "tripura-prayas-scholarship",
+      "tag": "Scholarship",
+      "url": "/yojana/tripura-prayas-scholarship"
+    }
+  ],
+  "tags": [],
+  "ministry": "Social Welfare and Social Education Department, Tripura",
+  "launch_year": 2000,
+  "category": "senior-citizen",
+  "state": "tripura",
+  "last_reviewed": "June 2026",
+  "schema_type": "FAQPage",
+  "extra_sections": [
+    {
+      "type": "text",
+      "heading": "What Tripura Social Pension Is",
+      "icon": "📖",
+      "content": [
+        "The old age pension covers all residents of Tripura who have attained 60 years of age and whose annual family income from all sources is below Rs 1 lakh; the relatively generous income ceiling ensures that a large proportion of Tripura's elderly population, most of whom are in rural and agricultural households with modest incomes, can qualify for the pension without being excluded on income grounds. Unlike some states that set separate income limits for urban and rural applicants, Tripura applies a single income ceiling for all residents.",
+        "The widow pension is available to women who have lost their husbands and are at least 18 years of age; there is no upper age limit for the widow pension, meaning that an elderly widow can receive the widow pension until she opts to shift to the old age pension after turning 60. Widows who are employed in government service or who receive any other government pension are not eligible for the widow pension, as the scheme is intended for those without an alternative source of regular income."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "info",
+      "icon": "info",
+      "title": "Rs 2,000 a Month for the Vulnerable",
+      "content": "The Tripura Social Pension pays Rs 2,000 a month to the elderly, widows, and persons with disabilities. It is run by the Social Welfare Department.<br><br>This is a relatively generous state pension, paid by DBT to those whose family income is within the limit."
+    },
+    {
+      "type": "text",
+      "heading": "What Tripura Social Pension Is: Continued",
+      "icon": "📖",
+      "content": [
+        "The disability pension covers Tripura residents with physical, sensory, intellectual, or mental disabilities where the disability is certified at 40 percent or more by the Chief Medical Officer or a designated disability assessment board; the assessment is conducted at the district hospital and the disability certificate issued is the primary eligibility document for the pension. The 40 percent threshold is aligned with the national definition of disability for welfare scheme eligibility under the Rights of Persons with Disabilities Act.",
+        "The Tripura Social Pension scheme is closely integrated with the National Social Assistance Programme (NSAP), which means that BPL beneficiaries in all three pension categories also receive an additional monthly payment from the central government under IGNOAPS (old age), IGNWPS (widow), or IGNDPS (disability); the state pension and the central NSAP payment are typically combined and credited as a single monthly transfer to the beneficiary's bank account. This convergence ensures that the poorest beneficiaries receive the highest combined pension."
+      ]
+    },
+    {
+      "type": "eligibility_check",
+      "heading": "Who qualifies",
+      "icon": "✅",
+      "qualify": [
+        "Aged 60 or above for old age pension",
+        "A widow, for the widow pension",
+        "A person with 40 percent or more disability",
+        "Family income below Rs 1 lakh a year",
+        "Resident of Tripura"
+      ],
+      "disqualify": [
+        "Family income above Rs 1 lakh",
+        "Below the age or disability threshold",
+        "Not a Tripura resident",
+        "Already on a conflicting pension",
+        "Required certificate missing"
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Are You Eligible?",
+      "icon": "✅",
+      "content": [
+        "Tripura's tribal population, which forms a significant share of the state's residents, is well-represented in the social pension beneficiary base; many elderly and disabled tribal residents in Tripura's hill areas and forest villages have limited formal employment histories and no access to contributory pension schemes, making the state social pension their primary source of income in old age. The Social Welfare Department has been working to ensure that tribal areas are covered through dedicated enrolment camps and the involvement of village councils in the outreach process.",
+        "The application process for the Tripura Social Pension requires visiting the local Panchayat office (for rural applicants) or the Urban Local Body office (for urban applicants) to submit the pension application form; the form must be accompanied by Aadhaar card, income certificate from the Competent Authority, age proof (for old age pension), husband's death certificate (for widow pension), disability certificate from the Chief Medical Officer (for disability pension), and a bank passbook showing the Aadhaar-linked account number. The Panchayat or urban body forwards the verified application to the District Social Welfare Officer for final approval."
+      ]
+    },
+    {
+      "type": "number_highlight",
+      "big": "₹2,000/Month",
+      "title": "One Amount, Three Groups",
+      "desc": "The same Rs 2,000 monthly pension covers the elderly aged 60 and above, widows, and persons with 40 percent or more disability.<br><br>You apply under the category you fall in, with the matching proof and income certificate."
+    },
+    {
+      "type": "text",
+      "heading": "Are You Eligible?: Further Notes",
+      "icon": "✅",
+      "content": [
+        "After approval, the beneficiary's details are entered into the state's pension management system and the monthly DBT credit begins from the next payment cycle; beneficiaries receive an SMS notification on their registered mobile number each month when the pension is credited. The entire process from application to first payment is typically completed within 30 to 60 days in cases where documentation is complete, though delays can occur in remote areas where document verification takes longer.",
+        "The Social Welfare Department of Tripura conducts periodic beneficiary verification exercises to confirm that pension recipients remain eligible and alive; the life certificate (Jeevan Pramaan Patra) must be submitted annually by each pensioner to maintain uninterrupted payment. Pensioners who are unable to visit an office due to physical disability or extreme old age can submit the life certificate through a Banking Correspondent or a Common Service Centre (CSC) using Aadhaar biometric authentication."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Tripura Social Pension: Quick Reference",
+      "icon": "📑",
+      "columns": [
+        "Detail",
+        "Value"
+      ],
+      "rows": [
+        [
+          "Old Age Pension",
+          "Rs 2,000/month for residents aged 60+"
+        ],
+        [
+          "Widow Pension",
+          "Rs 2,000/month for widows aged 18+"
+        ],
+        [
+          "Disability Pension",
+          "Rs 2,000/month for 40%+ disability"
+        ],
+        [
+          "Income Limit",
+          "Annual family income below Rs 1 lakh"
+        ],
+        [
+          "Payment Mode",
+          "DBT to Aadhaar-linked bank account"
+        ],
+        [
+          "Department",
+          "Social Welfare and Social Education Department, Tripura"
+        ],
+        [
+          "NSAP Convergence",
+          "BPL beneficiaries also receive central NSAP top-up"
+        ],
+        [
+          "State",
+          "Tripura"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Conditions to Meet",
+      "icon": "📋",
+      "content": [
+        "Tripura's terrain presents unique administrative challenges for social pension delivery: the Tripura Tribal Areas Autonomous District Council (TTAADC) areas and the remote hill ranges of the state have limited banking and road infrastructure, which historically made pension delivery difficult. The shift to DBT-based payment has partially mitigated this challenge, but the need for a functional Aadhaar-linked bank account means that beneficiaries in areas with poor banking access still face difficulties with initial account opening and subsequent withdrawals.",
+        "The India Post Payments Bank (IPPB) network in Tripura has been leveraged to extend pension payment access to remote rural areas where commercial banks do not operate; postal agents with mobile devices and Aadhaar authentication equipment visit villages to help pensioners withdraw their DBT credit without travelling to a distant bank branch. This last-mile payment delivery system has been particularly valuable for elderly and disabled pensioners in Tripura's remoter blocks."
+      ]
+    },
+    {
+      "type": "process_flow",
+      "heading": "How to Apply for Tripura Social Pension",
+      "steps": [
+        {
+          "icon": "file",
+          "title": "Gather documents",
+          "desc": "Aadhaar, age or category proof, income certificate, and bank passbook."
+        },
+        {
+          "icon": "search",
+          "title": "Apply at the office",
+          "desc": "Apply at the Social Welfare office or designated centre."
+        },
+        {
+          "icon": "shield",
+          "title": "Verification",
+          "desc": "The department verifies category, income, and residence."
+        },
+        {
+          "icon": "check",
+          "title": "Monthly DBT",
+          "desc": "Once approved, Rs 2,000 is credited monthly by DBT."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "In Their Words",
+      "icon": "💬",
+      "content": [
+        "The Tripura Social Pension of Rs 2,000 per month, paid by Direct Benefit Transfer, is one of Northeast India's higher state pension rates, providing a meaningful monthly income for elderly residents, widows, and persons with disabilities who have no other regular source of support."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "warning",
+      "icon": "alert",
+      "title": "Keep Certificates Up to Date",
+      "content": "The pension can need a periodic life or status certificate to keep paying. Missing it can pause the pension.<br><br>Submit any required certificate on time and keep your Aadhaar-bank link active to avoid a gap."
+    },
+    {
+      "type": "text",
+      "heading": "How to Apply",
+      "icon": "📝",
+      "content": [
+        "Tripura's social pension has been recognised within the state's broader anti-poverty strategy as a foundational income support measure that complements other welfare programmes such as the PDS ration, Pradhan Mantri Awas Yojana housing assistance, MGNREGA employment, and healthcare programmes. The pension provides the cash component of the social protection package, enabling beneficiaries to meet expenses that cannot be met through in-kind welfare benefits such as food grain.",
+        "The state government has also ensured that the social pension scheme reaches persons with intellectual and psychosocial disabilities, who are often the most marginalised group within the disabled population and the least likely to initiate applications themselves; the Social Welfare Department trains its block-level staff to identify and assist persons with these disabilities in the application process. NGOs working in the disability sector in Tripura have also partnered with the department to facilitate applications from persons with intellectual and psychosocial disabilities."
+      ]
+    },
+    {
+      "type": "stat_grid",
+      "heading": "Tripura Social Pension: Key Numbers",
+      "icon": "📊",
+      "items": [
+        {
+          "icon": "wallet",
+          "value": "₹2,000",
+          "label": "Per Month",
+          "color": "green"
+        },
+        {
+          "icon": "users",
+          "value": "60+",
+          "label": "Old Age",
+          "color": "blue"
+        },
+        {
+          "icon": "shield",
+          "value": "Widow",
+          "label": "Disability Too",
+          "color": "amber"
+        },
+        {
+          "icon": "file",
+          "value": "<₹1 L",
+          "label": "Income Limit",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "How to Apply: Continued",
+      "icon": "📝",
+      "content": [
+        "Tripura's investment in expanding the social pension coverage rate is part of a broader commitment to social welfare that reflects the state's history of strong public service delivery; over the years, the state has focused on ensuring that the social pension reaches remote areas, tribal communities, and women-headed households, which are the groups most likely to be missed by welfare programmes that depend on self-initiated applications. Continuous outreach, administrative reforms, and the DBT payment mechanism together have helped the Tripura Social Pension reach a growing share of the state's vulnerable population.",
+        "Widows in Tripura face particular economic vulnerability because many women in the state have been homemakers with no formal employment history and no savings of their own; the widow pension of Rs 2,000 per month provides them with a regular income that allows them to meet basic expenses for food, healthcare, and utilities without being entirely dependent on adult children or other family members. For widows who live alone in rural areas, the monthly pension credit is often the only financial resource they can reliably count on."
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "Documents You Need",
+      "items": [
+        {
+          "icon": "file",
+          "title": "Aadhaar and category proof",
+          "sub": "Age, widow, or disability proof as relevant."
+        },
+        {
+          "icon": "shield",
+          "title": "Residence proof",
+          "sub": "Of Tripura, for eligibility."
+        },
+        {
+          "icon": "wallet",
+          "title": "Income certificate",
+          "sub": "Showing income below Rs 1 lakh."
+        },
+        {
+          "icon": "search",
+          "title": "Bank passbook",
+          "sub": "Aadhaar-seeded account in your name."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Conditions to Meet: What Else to Know",
+      "icon": "📋",
+      "content": [
+        "Tripura's social pension framework also covers residents who are inmates of government-registered care homes and old age institutions; the pension is credited to the institution's designated account on behalf of the inmate and must be used for the inmate's personal care and welfare. Institutions that accommodate social pension beneficiaries are required to maintain individual records of each inmate's pension and welfare use, and the Social Welfare Department audits these records periodically.",
+        "The District Social Welfare Officer (DSWO) in each of Tripura's eight districts serves as the key administrative authority for the social pension programme; they manage the district beneficiary database, process applications, investigate grievances, and coordinate with block-level staff for field verification. The DSWO's office is the first point of contact for beneficiaries who face issues with their pension such as payment stops, amount discrepancies, or rejection of their application."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Pension Categories and Documents Required",
+      "icon": "📋",
+      "columns": [
+        "Category",
+        "Eligibility",
+        "Amount",
+        "Key Document"
+      ],
+      "rows": [
+        [
+          "Old Age",
+          "Age 60+, income below Rs 1 lakh/year",
+          "Rs 2,000/month",
+          "Age proof + income certificate"
+        ],
+        [
+          "Widow",
+          "Widow aged 18+, income below Rs 1 lakh/year",
+          "Rs 2,000/month",
+          "Husband's death certificate"
+        ],
+        [
+          "Disability",
+          "40%+ disability, income below Rs 1 lakh/year",
+          "Rs 2,000/month",
+          "Disability certificate from CMO"
+        ],
+        [
+          "NSAP Top-Up (BPL)",
+          "BPL in any of above 3 categories",
+          "Rs 200-500 extra/month",
+          "BPL ration card"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "How the Money Arrives",
+      "icon": "🏦",
+      "content": [
+        "Tripura has a high proportion of its population engaged in tea garden work and traditional agriculture, sectors that do not provide formal retirement benefits or pensions; workers who retire from these livelihoods have no contributory pension to fall back on and rely entirely on state welfare programmes like the social pension for income in old age. The social pension therefore plays a particularly important economic role in Tripura's agrarian economy as the primary old-age income support for the large majority of the state's rural workers.",
+        "Persons with disabilities in Tripura who receive the disability pension can also access complementary benefits under other disability welfare programmes of the state and central government, including assistive devices under the ADIP scheme, free bus travel, and scholarships for education; taken together, these programmes create a multi-dimensional support system for disabled residents. The social pension functions as the cash income foundation of this support package."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "icon": "info",
+      "title": "One Pension Per Person",
+      "content": "You can draw only one social security pension at a time, even if you fit more than one category.<br><br>Apply under the category that suits you best and keep that paperwork in order."
+    },
+    {
+      "type": "text",
+      "heading": "How the Money Arrives: in Practice",
+      "icon": "🏦",
+      "content": [
+        "The Social Welfare Department of Tripura also administers outreach programmes that combine awareness about the social pension with other welfare services at the same camp or visit, reducing the cost and time required for beneficiaries to access multiple government services; joint camps for pension enrolment, Aadhaar seeding, PM-JAY SEHAT registration, and ration card verification help rural beneficiaries complete multiple welfare interactions in a single visit. This integrated service delivery model has been effective in Tripura's remote blocks.",
+        "The pension amount of Rs 2,000 per month in Tripura is subject to periodic revision by the state government, with revisions typically announced in the state budget; existing beneficiaries automatically receive the revised amount from the effective date of the revision without needing to submit a fresh application or visit any office. The periodic revisions help maintain the real value of the pension as living costs rise over time."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "icon": "info",
+      "title": "What You Will Need Notes",
+      "content": "For Tripura residents who face temporary disruptions in their pension due to Aadhaar-bank linking failures, the District Social Welfare Officer can issue a manual payment order to ensure that the beneficiary does not go without income while the technical issue is resolved; this backup provision ensures that Aadhaar infrastructure problems do not permanently deprive eligible beneficiaries of their pension. The department has a dedicated DBT cell that monitors payment failures and takes corrective action on a monthly basis.<br><br>The Tripura Social Pension is embedded in the state's broader social protection strategy alongside other programmes for housing, food security, and health, creating a package of welfare services that addresses multiple dimensions of poverty and vulnerability; the pension contributes the regular cash income component that makes it possible for beneficiaries to use other non-cash welfare services such as free rations and free healthcare more effectively. This comprehensive social protection approach positions Tripura as one of the more welfare-oriented states in Northeast India."
+    },
+    {
+      "type": "text",
+      "heading": "What You Will Need: in Practice",
+      "icon": "📄",
+      "content": [
+        "Gram Sabha meetings in Tripura's rural Panchayats also serve as a platform for raising awareness about the social pension; Panchayat Raj institutions are required to publicise the scheme, identify unregistered eligible residents, and assist them with documentation. This community-level engagement has been instrumental in reaching first-time applicants who were not aware that they qualified for the pension.",
+        "The gender dimension of the Tripura Social Pension is significant: women constitute a large majority of widow pension recipients and also make up a substantial share of old age pension recipients because women live longer on average than men in Tripura; the scheme therefore functions de facto as an important women's welfare programme, channelling regular income to older women who are disproportionately represented among the state's most economically vulnerable groups. The direct DBT payment to the woman beneficiary also strengthens her financial autonomy."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "icon": "info",
+      "title": "If You Hit a Snag Notes",
+      "content": "Tripura's social pension is also accessible to elderly and disabled residents who belong to the state's scheduled tribe communities, who have historically faced multiple layers of disadvantage including geographic isolation, limited formal education, and dependence on subsistence farming; the pension provides these communities with a financial resource that supplements whatever they earn from their agricultural activities and enables them to meet essential non-food expenses such as medicines, clothing, and utilities. The involvement of the TTAADC in pension outreach has been important for reaching tribal beneficiaries in remote hill areas."
+    },
+    {
+      "type": "text",
+      "heading": "If You Hit a Snag: Going Deeper",
+      "icon": "⚠️",
+      "content": [
+        "The Tripura government uses the state pension management system to generate district-wise reports on enrolment, payment, and grievance resolution, allowing senior officials to monitor scheme performance and identify districts or blocks where coverage is below expected levels; this data-driven monitoring helps the Social Welfare Department proactively address gaps in coverage rather than waiting for beneficiaries to come forward with complaints. Regular performance reviews at the Commissioner level have contributed to improvements in the scheme's reach and payment timeliness over the years, making Tripura's social pension one of the more consistently delivered welfare programmes in the Northeast region of India.",
+        "Eligible residents who have not yet enrolled in the Tripura Social Pension are encouraged to approach their Gram Panchayat or Urban Local Body office without delay, as the pension begins only from the date of approval and no arrears are paid for periods before the application was submitted; early application ensures that elderly, widowed, and disabled residents begin receiving the benefit at the earliest opportunity and do not lose out on the income support they are entitled to. District Social Welfare Officers and ASHA workers in Tripura can provide guidance on the application process to those who need assistance gathering documents."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much is the Tripura Social Pension?",
+      "answer": "Rs 2,000 per month for all three categories: old age (60+), widow (18+), and disability (40%+ disability). BPL beneficiaries receive an additional Rs 200-500/month from the central NSAP scheme."
+    },
+    {
+      "question": "Who is eligible for the Tripura Old Age Pension?",
+      "answer": "Tripura residents aged 60 years or above whose annual family income from all sources is below Rs 1 lakh are eligible."
+    },
+    {
+      "question": "What income limit applies to the Tripura Social Pension?",
+      "answer": "Annual family income must be below Rs 1 lakh from all sources to be eligible for any category of the Tripura Social Pension."
+    },
+    {
+      "question": "What disability percentage is required for the disability pension in Tripura?",
+      "answer": "A disability of 40 percent or more, certified by the Chief Medical Officer or a designated disability assessment board, is required."
+    },
+    {
+      "question": "Where do I apply for the Tripura Social Pension?",
+      "answer": "Apply at your local Gram Panchayat office (rural) or Urban Local Body office (urban). The application is then forwarded to the District Social Welfare Officer for approval."
+    },
+    {
+      "question": "How is the pension paid?",
+      "answer": "The pension is credited directly to the beneficiary's Aadhaar-linked bank account every month through Direct Benefit Transfer (DBT)."
+    },
+    {
+      "question": "Do I need to submit a life certificate every year?",
+      "answer": "Yes. An annual Jeevan Pramaan Patra is required to keep the pension uninterrupted.<br><br>It can be submitted digitally via the Jeevan Pramaan app or physically at the Panchayat, CSC, or bank."
+    },
+    {
+      "question": "What is the NSAP top-up on the Tripura pension?",
+      "answer": "BPL beneficiaries receive an additional Rs 200-500/month from the central government under IGNOAPS, IGNWPS, or IGNDPS, which is credited to their account alongside the state pension."
+    },
+    {
+      "question": "Can I apply if I have a BPL ration card?",
+      "answer": "Yes, BPL cardholders are eligible for both the state social pension and the additional central NSAP top-up payment."
+    },
+    {
+      "question": "What should I do if my pension payment stops?",
+      "answer": "First check if your Jeevan Pramaan Patra is current. If the life certificate is submitted and payment still does not arrive, contact the District Social Welfare Officer or your local Panchayat to investigate and resolve the issue."
+    }
+  ]
+}

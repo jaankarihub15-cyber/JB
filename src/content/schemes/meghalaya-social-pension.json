@@ -1,0 +1,490 @@
+{
+  "slug": "meghalaya-social-pension",
+  "title": "Meghalaya Social Pension Scheme - Old Age Widow",
+  "meta_description": "Meghalaya Social Pension provides monthly support to elderly and widows. Check pension amount, income eligibility, how to apply at CSC, and DBT payment details.",
+  "hero": {
+    "icon": "👵",
+    "one_liner": "Meghalaya Social Pension gives a monthly pension to the elderly, widows, and persons with disabilities, with an NSAP top-up for BPL families.",
+    "updated_date": "June 2026",
+    "stats": [
+      {
+        "label": "Old Age",
+        "value": "60+"
+      },
+      {
+        "label": "Widow",
+        "value": "Covered"
+      },
+      {
+        "label": "Disabled",
+        "value": "Covered"
+      },
+      {
+        "label": "Mode",
+        "value": "DBT"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "📝",
+      "label": "Apply",
+      "url": "https://megsocialwelfare.gov.in"
+    },
+    {
+      "icon": "🔍",
+      "label": "Check status",
+      "url": "https://megsocialwelfare.gov.in"
+    },
+    {
+      "icon": "✅",
+      "label": "Eligibility",
+      "url": "/check-eligibility"
+    }
+  ],
+  "what_is_it": [
+    "The Meghalaya Social Pension Scheme is a state government welfare programme that provides monthly financial assistance to elderly residents aged 60 and above and to widows in the 40-59 age group whose husbands have died and who have no other reliable source of income. The pension is paid through the Direct Benefit Transfer (DBT) mechanism directly to the beneficiary's Aadhaar-linked bank account, ensuring timely and transparent delivery; the scheme is administered by the Social Welfare Department of Meghalaya in coordination with the Department of Social Welfare and all eleven districts of the state.",
+    "Meghalaya's social pension framework is integrated with the National Social Assistance Programme (NSAP), which means that eligible beneficiaries who are below the poverty line also receive central government top-up payments under IGNOAPS (old age) and IGNWPS (widow pension); the combined state and central pension provides a more substantial monthly income to the poorest beneficiaries. The state component and the central NSAP top-up are typically credited together as a single monthly transfer to the beneficiary's bank account, simplifying the payment experience for the beneficiary."
+  ],
+  "eligibility": [
+    {
+      "label": "Old age",
+      "value": "Monthly pension for residents aged 60 and above.",
+      "highlight": true
+    },
+    {
+      "label": "Widows and disabled",
+      "value": "Also for widows and persons with disabilities.",
+      "highlight": true
+    },
+    {
+      "label": "NSAP top-up",
+      "value": "BPL families get a central NSAP top-up.",
+      "highlight": true
+    },
+    {
+      "label": "Income",
+      "value": "Within the state income ceiling.",
+      "highlight": false
+    },
+    {
+      "label": "Mode",
+      "value": "Paid monthly by DBT.",
+      "highlight": false
+    }
+  ],
+  "eligibility_filters": {
+    "states": [
+      "meghalaya"
+    ],
+    "gender": "any",
+    "age_min": 60,
+    "age_max": null,
+    "income_max": null,
+    "notes": "Meghalaya residents: elderly 60+, widows, and persons with disabilities within the state income ceiling. Monthly pension by DBT, with a central NSAP top-up for BPL families. Apply at the Social Welfare office with category, income, and residence proof. Periodic verification required."
+  },
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Collect Documents",
+      "description": "Gather your Aadhaar card, income certificate from the Competent Authority, age proof for old age pension or husband's death certificate for widow pension, and a bank passbook showing your Aadhaar-linked account number."
+    },
+    {
+      "step": 2,
+      "title": "Submit at Dorbar, Panchayat, CSC, or DSWO",
+      "description": "Submit the pension application form along with all supporting documents at your local Dorbar Shnong (Khasi/Jaintia Hills), Panchayat office (Garo Hills), Common Service Centre, or District Social Welfare Office; collect an acknowledgement receipt."
+    },
+    {
+      "step": 3,
+      "title": "Verification and Approval",
+      "description": "The Social Welfare Department verifies your application at block and district level; after approval, your name is added to the pension roll and the monthly DBT payment begins from the next payment cycle."
+    },
+    {
+      "step": 4,
+      "title": "Annual Life Certificate",
+      "description": "Submit your Jeevan Pramaan Patra every year to maintain uninterrupted pension; this can be done digitally via the Jeevan Pramaan app using Aadhaar biometrics, or physically at a CSC, post office, or the block Social Welfare office."
+    }
+  ],
+  "official_portal": {
+    "name": "Social Welfare Department, Meghalaya",
+    "url": "https://megsocialwelfare.gov.in"
+  },
+  "related_pages": [
+    {
+      "title": "MHIS Megha Health Insurance",
+      "slug": "mhis-megha",
+      "tag": "Health",
+      "url": "/yojana/mhis-megha"
+    },
+    {
+      "title": "CMELP Meghalaya",
+      "slug": "cmelp-meghalaya",
+      "tag": "Employment",
+      "url": "/yojana/cmelp-meghalaya"
+    }
+  ],
+  "tags": [],
+  "ministry": "Social Welfare Department, Meghalaya",
+  "launch_year": 2000,
+  "category": "senior-citizen",
+  "state": "meghalaya",
+  "last_reviewed": "June 2026",
+  "schema_type": "FAQPage",
+  "extra_sections": [
+    {
+      "type": "text",
+      "heading": "Inside Meghalaya Social Pension",
+      "icon": "📖",
+      "content": [
+        "The old age pension is available to Meghalaya residents who have crossed 60 years of age and whose family income is below a prescribed limit; the income threshold is assessed annually and applicants are required to furnish a certificate of income from the competent authority or the Sarpanch/village headman confirming that their family income is below the eligibility ceiling. Elderly persons who are widowed and over 60 can apply for the old age pension rather than the widow pension if the old age pension is higher or more convenient to access.",
+        "The widow pension targets women aged 40 to 59 whose husbands have died; this age group is considered particularly vulnerable because younger widows in their 20s and 30s may have employable skills and the ability to re-enter the workforce, while widows who are 60 and above are covered under the old age pension. The 40-59 age bracket widow pension specifically supports women in the economically difficult middle-age window when they are too old for some forms of labour and too young to access the old age pension."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "icon": "info",
+      "title": "Check the NSAP Top-up",
+      "content": "If your family is BPL, ask whether the central NSAP top-up applies to your pension.<br><br>It can raise the amount you receive, so it is worth confirming at the Social Welfare office."
+    },
+    {
+      "type": "text",
+      "heading": "Inside Meghalaya Social Pension: The Specifics",
+      "icon": "📖",
+      "content": [
+        "Meghalaya's predominantly tribal population, with its matrilineal social structure in the Khasi and Jaintia communities, has distinctive inheritance and family support patterns that affect the welfare needs of elderly and widowed members; while the matrilineal system provides some protections for women, the social pension remains important for widows and elderly women who may not have property or children in a position to provide financial support. The Social Welfare Department's outreach for the pension programme takes into account these community-specific social dynamics.",
+        "The application for the Meghalaya Social Pension can be submitted at the village Dorbar (for Khasi and Jaintia Hills) or at the traditional village administration office, at the local Panchayat (in Garo Hills), at the District Social Welfare Office, or at a Common Service Centre (CSC); the multi-channel application process is designed to ensure that applicants in remote areas have a nearby option for submitting their application without travelling to the district headquarters. The required documents include Aadhaar card, age proof, income certificate, husband's death certificate (for widow pension), and a bank passbook showing the Aadhaar-linked account number."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "info",
+      "icon": "info",
+      "title": "A Monthly Pension for the Vulnerable",
+      "content": "The Meghalaya Social Pension supports the elderly, widows, and persons with disabilities with a monthly pension. It is run by the Social Welfare Department.<br><br>For BPL families, the state amount is topped up by the central NSAP, so the most needy get a fuller pension."
+    },
+    {
+      "type": "text",
+      "heading": "Who Qualifies",
+      "icon": "✅",
+      "content": [
+        "Meghalaya's hilly terrain and the dispersed settlement pattern of its tribal communities mean that the last-mile delivery of the social pension through DBT relies on the availability of functional bank branches, Banking Correspondents, and India Post Payments Bank (IPPB) services within a reasonable distance of the pensioner's home; in blocks where banking access is limited, the IPPB network with door-to-door payment services has been deployed to ensure that elderly and widow beneficiaries can withdraw their pension without long travel. Community-level banking access has been a key operational focus of the pension programme in Meghalaya.",
+        "The Social Welfare Department conducts periodic beneficiary verification to ensure that pension recipients remain alive and eligible; the annual life certificate (Jeevan Pramaan Patra) submission is mandatory for all pensioners to continue receiving their monthly payment. Meghalaya has expanded the avenues for life certificate submission to include CSCs, designated government offices, and digital submission through the Jeevan Pramaan app using Aadhaar biometric authentication, reducing the burden on elderly pensioners who may have mobility limitations."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Pension Details by Category",
+      "icon": "📋",
+      "columns": [
+        "Category",
+        "Eligibility",
+        "Payment",
+        "Key Document"
+      ],
+      "rows": [
+        [
+          "Old Age Pension",
+          "Age 60+, income below state ceiling",
+          "State amount + NSAP top-up for BPL",
+          "Age proof + income certificate"
+        ],
+        [
+          "Widow Pension",
+          "Widow aged 40-59, income below ceiling",
+          "State amount + NSAP top-up for BPL",
+          "Husband's death certificate"
+        ],
+        [
+          "NSAP Top-Up",
+          "BPL beneficiaries in both categories",
+          "Rs 200-500 extra/month from central govt",
+          "BPL ration card"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Who Qualifies: Going Deeper",
+      "icon": "✅",
+      "content": [
+        "Meghalaya's social pension programme covers the Garo Hills districts (East Garo Hills, West Garo Hills, South Garo Hills, and North Garo Hills) as well as the Khasi Hills and Jaintia Hills districts; the programme is administered through district Social Welfare Officers and block-level welfare inspectors who are responsible for processing applications, maintaining the beneficiary database, and coordinating with banks for timely DBT credits. Block-level officers also conduct field visits to verify the living conditions and income status of applicants and existing beneficiaries.",
+        "The convergence of the state social pension with NSAP creates a dual funding stream for BPL beneficiaries: the state pays its component and the central government pays the NSAP top-up; for non-BPL beneficiaries who are below the state income ceiling but above the BPL threshold, only the state pension is applicable. This tiered structure means that the poorest beneficiaries receive the highest total monthly pension, creating a progressive distribution of welfare resources that prioritises those most in need."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Meghalaya Social Pension: Quick Reference",
+      "icon": "📑",
+      "columns": [
+        "Detail",
+        "Value"
+      ],
+      "rows": [
+        [
+          "Old age",
+          "Monthly pension for residents aged 60 and above."
+        ],
+        [
+          "Widows and disabled",
+          "Also for widows and persons with disabilities."
+        ],
+        [
+          "NSAP top-up",
+          "BPL families get a central NSAP top-up."
+        ],
+        [
+          "Income",
+          "Within the state income ceiling."
+        ],
+        [
+          "Mode",
+          "Paid monthly by DBT."
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "The Fine Print on Eligibility",
+      "icon": "📋",
+      "content": [
+        "Elderly persons in Meghalaya who are also suffering from disabilities can receive the social pension if they meet the age and income eligibility; Meghalaya also has a separate disability welfare programme for persons with significant disabilities who are not yet 60 years old. The coexistence of these programmes ensures that different categories of vulnerability have corresponding welfare support, though a person can only receive one social pension at a time.",
+        "For widows in the Garo Hills who belong to the Garo tribal community, the pension is particularly important because the Garo matrilineal system, which differs from the Khasi matrilineal system, has specific inheritance rules that may not always guarantee economic security for widows, especially those who are childless or whose marital family is in dispute over inheritance. The pension provides a baseline income that allows these women to maintain their basic needs without being entirely dependent on the goodwill of extended family members."
+      ]
+    },
+    {
+      "type": "process_flow",
+      "heading": "How to Apply for Meghalaya Social Pension",
+      "steps": [
+        {
+          "icon": "file",
+          "title": "Gather documents",
+          "desc": "Aadhaar, age or category proof, income certificate, and bank passbook."
+        },
+        {
+          "icon": "search",
+          "title": "Apply at the office",
+          "desc": "Apply at the Social Welfare office or designated centre."
+        },
+        {
+          "icon": "shield",
+          "title": "Verification",
+          "desc": "The department verifies your category, income, and residence."
+        },
+        {
+          "icon": "check",
+          "title": "Monthly pension",
+          "desc": "Once approved, the pension is credited monthly by DBT."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "The Fine Print on Eligibility: What Else to Know",
+      "icon": "📋",
+      "content": [
+        "Awareness about the Meghalaya Social Pension has been gradually increasing over the years due to active outreach by the Social Welfare Department, Auxiliary Nurse Midwives (ANMs), Asha workers, and local Dorbar Shnong (neighbourhood councils) in the Khasi Hills areas; the traditional governance structures of Meghalaya's tribal communities have been important allies in identifying eligible but unenrolled beneficiaries and helping them navigate the application process. Village headmen and secretaries of Dorbar Shnong have been specifically trained to assist with pension application documentation.",
+        "The Meghalaya social pension is also available to persons who have migrated from other states but have established long-term residency in Meghalaya, provided they meet all income and age eligibility requirements and have valid Meghalaya residency documents; this inclusion of long-term residents reflects the state's recognition that welfare eligibility should be based on actual vulnerability and residency rather than on community origin. The Social Welfare Department verifies residency through voter ID, ration card, or Meghalaya domicile certificate."
+      ]
+    },
+    {
+      "type": "eligibility_check",
+      "heading": "Who qualifies",
+      "icon": "✅",
+      "qualify": [
+        "Aged 60 or above for old age pension",
+        "A widow, for the widow pension",
+        "A person with disability, for that pension",
+        "Resident of Meghalaya within the income ceiling",
+        "Has the required category and income proof"
+      ],
+      "disqualify": [
+        "Below the age for old age pension",
+        "Income above the state ceiling",
+        "Not a Meghalaya resident",
+        "Already on a conflicting pension",
+        "Required certificate missing"
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "The Application Process",
+      "icon": "📝",
+      "content": [
+        "Payment irregularities such as missed monthly credits, amount discrepancies, or payment to the wrong bank account are addressed through the District Social Welfare Officer, who has the authority to issue correction orders and coordinate with the bank for reversal and re-credit of erroneous transactions; beneficiaries who notice payment issues are encouraged to report them promptly to the district office rather than waiting for the issue to resolve itself. The state pension management system logs all payment transactions and generates exception reports that alert officials to payment failures.",
+        "The NSAP state portal and the national NSAP MIS system maintain records of all Meghalaya social pension beneficiaries, including their personal details, bank account information, payment history, and life certificate submission records; this centralised database is used by state and district officials to monitor the programme and identify beneficiaries who are at risk of having their pension suspended due to life certificate non-submission or Aadhaar-bank linkage issues. The database also enables cross-verification with other welfare scheme databases to prevent duplication of benefits."
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "Documents You Need",
+      "items": [
+        {
+          "icon": "file",
+          "title": "Aadhaar and category proof",
+          "sub": "Age, widow, or disability proof as relevant."
+        },
+        {
+          "icon": "shield",
+          "title": "Residence proof",
+          "sub": "Of Meghalaya, for eligibility."
+        },
+        {
+          "icon": "wallet",
+          "title": "Income certificate",
+          "sub": "Within the state ceiling."
+        },
+        {
+          "icon": "search",
+          "title": "Bank passbook",
+          "sub": "Aadhaar-seeded account in your name."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "The Application Process: Further Notes",
+      "icon": "📝",
+      "content": [
+        "The Meghalaya Social Pension, together with MHIS Megha health insurance, the National Food Security Act rations, and MGNREGA employment, forms the backbone of Meghalaya's social protection system for its most vulnerable residents; the pension provides the regular cash income component that enables beneficiaries to meet non-food expenses and emergency cash needs that other welfare schemes do not cover. As Meghalaya continues to develop its economy and governance capacity, the social pension remains a critical anchor of its commitment to protecting its elderly and widowed residents from destitution.",
+        "The social pension has been particularly impactful for elderly residents in Meghalaya's remote villages who have no agricultural land or savings to fall back on in old age; for these residents, the pension is often the only reliable monthly income and is used to pay for medicines, utilities, and transport to health facilities. The regularity of the DBT credit, which arrives at a fixed time each month, allows pensioners to plan their monthly expenditure in a way that was impossible when pension payments were irregular or required physical collection."
+      ]
+    },
+    {
+      "type": "number_highlight",
+      "big": "3 Groups",
+      "title": "Old Age, Widow, and Disability",
+      "desc": "The same system serves three groups: the elderly aged 60 and above, widows, and persons with disabilities.<br><br>For BPL beneficiaries, the central NSAP adds a top-up to the state pension amount."
+    },
+    {
+      "type": "text",
+      "heading": "How the Payment Reaches You",
+      "icon": "🏦",
+      "content": [
+        "Meghalaya's Department of Social Welfare also administers programmes for persons with disabilities and for children in need of care, and the social pension for the elderly and widowed is managed alongside these other welfare streams by the same district and block-level staff; this administrative proximity means that a single welfare inspector in a block can assist multiple categories of vulnerable persons with their welfare entitlements. The co-location of welfare services at the district office level simplifies the experience for beneficiaries who need access to multiple schemes.",
+        "Elderly beneficiaries in Meghalaya who live in multi-generational households may sometimes be asked by their families to transfer or share their pension with other family members; while the pension is legally the property of the individual beneficiary, the Social Welfare Department has noted cases where elderly persons face pressure to share or surrender their pension. The direct bank account credit mechanism provides the elderly beneficiary with individual control over the pension, strengthening their financial autonomy within the household."
+      ]
+    },
+    {
+      "type": "stat_grid",
+      "heading": "Meghalaya Social Pension: Key Numbers",
+      "icon": "📊",
+      "items": [
+        {
+          "icon": "users",
+          "value": "60+",
+          "label": "Old Age",
+          "color": "green"
+        },
+        {
+          "icon": "shield",
+          "value": "Widows",
+          "label": "Covered",
+          "color": "blue"
+        },
+        {
+          "icon": "wallet",
+          "value": "Disabled",
+          "label": "Covered",
+          "color": "amber"
+        },
+        {
+          "icon": "file",
+          "value": "+NSAP",
+          "label": "Top-up",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "How the Payment Reaches You: Further Notes",
+      "icon": "🏦",
+      "content": [
+        "The transition from manual pension delivery to DBT in Meghalaya has required significant investments in Aadhaar enrolment, bank account opening, and Aadhaar-bank seeding for the beneficiary population; in the early years of DBT, many elderly beneficiaries in remote areas did not have functional Aadhaar-linked bank accounts, and outreach camps were organised to address this gap. The completion of this infrastructure work has been a prerequisite for the smooth functioning of the DBT pension delivery system in Meghalaya's remote districts.",
+        "The Meghalaya government periodically revises the social pension amount through budget announcements, and existing beneficiaries receive the revised amount automatically from the effective date without needing to reapply; these revisions are meant to partially address the erosion of the pension's real value due to inflation. Beneficiaries are informed of revisions through notifications sent to their registered mobile numbers and through announcements at the Panchayat and Dorbar level."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "warning",
+      "icon": "alert",
+      "title": "Keep Your Verification Current",
+      "content": "Social pensions usually need a periodic life or status check to keep paying. Missing it can pause the pension.<br><br>Submit any required certificate on time and keep your Aadhaar-bank link active to avoid a gap."
+    },
+    {
+      "type": "text",
+      "heading": "What You Will Need",
+      "icon": "📄",
+      "content": [
+        "Seasonal accessibility challenges in some parts of Meghalaya, particularly in hill areas that experience road closures during the monsoon, can temporarily disrupt the ability of beneficiaries to access their bank accounts for pension withdrawal; the Banking Correspondent network and mobile banking units deployed in these areas during accessible months help pensioners withdraw accumulated pension credits when they become accessible again. This seasonal accessibility planning is a unique operational feature of social pension delivery in Meghalaya's challenging geography.",
+        "The Meghalaya Social Pension scheme is regularly reviewed by the state's planning and finance departments as part of the state budget exercise; the review examines coverage rates, payment efficiency, and the adequacy of the pension amount relative to the state's cost of living. Inputs from district social welfare officers and beneficiary feedback gathered through periodic surveys inform these reviews, which help shape the scheme's design and funding in subsequent years."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "icon": "info",
+      "title": "What You Will Need Notes",
+      "content": "The social pension has been documented to reduce the incidence of extreme poverty among elderly single-person households in Meghalaya, particularly in rural and tribal areas where community support structures may not always be sufficient to meet daily cash needs; elderly persons who live alone are especially vulnerable because they cannot rely on other household members' earnings. The pension provides a predictable cash income that allows them to manage essential expenses without the psychological and practical burden of dependence on irregular family or community charity.<br><br>For widow beneficiaries in the 40-59 age group, the pension also serves as a bridge income during the years when they are re-establishing their financial footing after the loss of their husband; in communities where women have traditionally depended on their husband's income, the sudden loss of that income creates an acute financial crisis that the pension partially alleviates. Widow beneficiaries in Meghalaya have reported using the pension to pay for their children's school-related expenses, medicines for their own health conditions, and basic household maintenance costs."
+    },
+    {
+      "type": "text",
+      "heading": "Fixing Common Issues",
+      "icon": "⚠️",
+      "content": [
+        "Meghalaya's social pension coverage rate is monitored as part of the state's annual welfare programme review, with targets set for each district in terms of the number of eligible persons enrolled; districts that fall significantly below their targets are required to report the reasons and submit an action plan for improving enrolment. This accountability mechanism has helped prevent stagnation in enrolment rates and has driven proactive outreach in districts where coverage has historically been low.",
+        "Citizens of Meghalaya who believe they are eligible for the social pension but have not received communication about their application status can approach the State Welfare Commissioner's office for assistance; the Commissioner's office has a citizen interface function that handles escalated grievances from beneficiaries across all welfare schemes in the state. This escalation pathway ensures that persistent issues with the social pension application or payment process can be resolved at the state level if the district-level response is inadequate."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "icon": "info",
+      "title": "In Their Words Notes",
+      "content": "The Meghalaya Social Pension delivers monthly DBT support to elderly residents and widows, supplemented by NSAP payments for BPL beneficiaries, forming the cash income foundation of Meghalaya's social protection system for its most vulnerable tribal and non-tribal communities."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Who is eligible for the Meghalaya Social Pension?",
+      "answer": "Meghalaya residents aged 60 and above (old age pension) and widows aged 40 to 59 (widow pension) whose family income is below the prescribed ceiling are eligible."
+    },
+    {
+      "question": "What is the pension amount under Meghalaya Social Pension?",
+      "answer": "The amount includes a state component plus a central NSAP top-up for BPL beneficiaries. The exact state amount is updated periodically; BPL beneficiaries receive an additional Rs 200-500/month from IGNOAPS/IGNWPS."
+    },
+    {
+      "question": "Where do I apply for the Meghalaya Social Pension?",
+      "answer": "Apply at your local Dorbar Shnong (Khasi/Jaintia Hills), Panchayat office (Garo Hills), Common Service Centre, or District Social Welfare Office. Bring Aadhaar, income certificate, and the category-specific document."
+    },
+    {
+      "question": "What is the widow pension age limit in Meghalaya?",
+      "answer": "The widow pension covers widows aged 40 to 59. Widows aged 60 and above are covered under the old age pension instead."
+    },
+    {
+      "question": "How is the pension paid?",
+      "answer": "The pension is credited directly to the beneficiary's Aadhaar-linked bank account every month through Direct Benefit Transfer (DBT)."
+    },
+    {
+      "question": "Do I need to submit a life certificate every year?",
+      "answer": "Yes. An annual Jeevan Pramaan Patra is required to keep the pension uninterrupted.<br><br>It can be submitted via the Jeevan Pramaan app, CSC, post office, or Social Welfare office."
+    },
+    {
+      "question": "What is the NSAP top-up for BPL beneficiaries?",
+      "answer": "BPL beneficiaries receive Rs 200-500/month extra from the central government under IGNOAPS (for those aged 60-79) or Rs 500/month under NOAPS for those aged 80+, and Rs 300/month under IGNWPS for widows."
+    },
+    {
+      "question": "Can persons with disabilities also receive the social pension?",
+      "answer": "Yes, if they meet the age and income eligibility (60+ for old age pension). Meghalaya also has a separate disability welfare programme for persons under 60 who are significantly disabled."
+    },
+    {
+      "question": "What should I do if my pension payment stops?",
+      "answer": "First check whether your life certificate is current. If it is, contact the District Social Welfare Officer or your local Panchayat or Dorbar office to investigate and resolve the payment issue."
+    },
+    {
+      "question": "Is the Meghalaya Social Pension available to people from other states?",
+      "answer": "Long-term residents of Meghalaya who have established residency with valid documents (voter ID, ration card, domicile certificate) and meet the income and age eligibility are eligible, regardless of their community origin."
+    }
+  ]
+}
