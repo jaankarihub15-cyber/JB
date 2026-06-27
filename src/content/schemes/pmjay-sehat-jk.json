@@ -1,0 +1,526 @@
+{
+  "slug": "pmjay-sehat-jk",
+  "title": "PM-JAY SEHAT Scheme Jammu and Kashmir",
+  "meta_description": "PM-JAY SEHAT gives Rs 5 lakh cashless health cover to all J&K residents. Eligibility, how to get the golden card, empanelled hospitals, and how to use it.",
+  "hero": {
+    "icon": "🏥",
+    "one_liner": "PM-JAY SEHAT gives every family in Jammu and Kashmir Rs 5 lakh cashless health cover a year, regardless of income. Card via your nearest CSC.",
+    "updated_date": "June 2026",
+    "stats": [
+      {
+        "label": "Cover",
+        "value": "₹5 Lakh"
+      },
+      {
+        "label": "Who",
+        "value": "All Residents"
+      },
+      {
+        "label": "Mode",
+        "value": "Cashless"
+      },
+      {
+        "label": "Card",
+        "value": "Golden Card"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "📝",
+      "label": "Get card (CSC)",
+      "url": "https://pmjay.gov.in"
+    },
+    {
+      "icon": "🔍",
+      "label": "Check eligibility",
+      "url": "https://pmjay.gov.in"
+    },
+    {
+      "icon": "✅",
+      "label": "Eligibility",
+      "url": "/check-eligibility"
+    }
+  ],
+  "what_is_it": [
+    "The PM-JAY SEHAT scheme, formally called Ayushman Bharat Pradhan Mantri Jan Arogya Yojana SEHAT (Social Endeavour for Health and Telemedicine), was launched in Jammu and Kashmir on December 26, 2020 by Prime Minister Narendra Modi. It extends the PM-JAY health insurance of Rs 5 lakh per family per year to all residents of J&K, including those who are not covered under the national PM-JAY scheme, making health insurance universal for the entire population of the UT.",
+    "The most significant feature of PM-JAY SEHAT that distinguishes it from the standard national PM-JAY programme is its universal eligibility: while PM-JAY nationally covers only families below a defined socio-economic threshold (as identified in the Socio-Economic Caste Census), SEHAT covers every resident of Jammu and Kashmir regardless of income, landholding, or socio-economic status. This means that middle-income families, government employees, and even relatively prosperous residents of J&K who do not qualify for the national PM-JAY can also obtain an Ayushman Golden Card and access cashless treatment at empanelled hospitals."
+  ],
+  "eligibility": [
+    {
+      "label": "Cover",
+      "value": "Rs 5 lakh a family a year, cashless, floater basis.",
+      "highlight": true
+    },
+    {
+      "label": "Who",
+      "value": "All permanent residents of J&K, regardless of income.",
+      "highlight": true
+    },
+    {
+      "label": "Special feature",
+      "value": "Covers the 21 lakh families left out of national PM-JAY.",
+      "highlight": true
+    },
+    {
+      "label": "Card",
+      "value": "SEHAT Golden Card via a CSC with Aadhaar and domicile.",
+      "highlight": false
+    },
+    {
+      "label": "Hospitals",
+      "value": "Empanelled hospitals in J&K and across India.",
+      "highlight": false
+    }
+  ],
+  "eligibility_filters": {
+    "states": [
+      "jammu-and-kashmir"
+    ],
+    "gender": "any",
+    "age_min": null,
+    "age_max": null,
+    "income_max": null,
+    "notes": "All permanent residents of Jammu and Kashmir with a valid domicile certificate, regardless of income. Rs 5 lakh cashless health cover a family a year on floater basis. SEHAT extends national PM-JAY to the ~21 lakh families left out. SEHAT Golden Card via a CSC with Aadhaar and J&K domicile. No cap on family size or age."
+  },
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Visit a CSC or Empanelled Hospital",
+      "description": "Go to the nearest Common Service Centre (CSC), Jan Aushadhi Kendra, or the Ayushman Bharat counter at any empanelled government hospital in J&K; all J&K residents are eligible, so no income certificate or BPL card is needed to apply."
+    },
+    {
+      "step": 2,
+      "title": "Aadhaar Authentication",
+      "description": "Provide your Aadhaar card for authentication; your details are verified against the PM-JAY SEHAT beneficiary database using biometric or OTP authentication on the Aadhaar-linked mobile number. All family members can be enrolled under the same household golden card."
+    },
+    {
+      "step": 3,
+      "title": "Golden Card Issued",
+      "description": "After successful authentication, the Ayushman Golden Card is issued on the spot or printed within a few minutes; keep the card safely and share it with all family members who may need it for hospital admissions."
+    },
+    {
+      "step": 4,
+      "title": "Use at Any Empanelled Hospital",
+      "description": "When seeking cashless hospitalisation, present your Ayushman Golden Card at the Ayushman Mitra counter of any empanelled hospital in India; the Mitra will verify eligibility, obtain pre-authorisation, and arrange for cashless admission and treatment."
+    }
+  ],
+  "official_portal": {
+    "name": "PM-JAY SEHAT (J&K Health)",
+    "url": "https://pmjay.gov.in"
+  },
+  "related_pages": [
+    {
+      "title": "Ladli Beti Scheme J&K",
+      "slug": "ladli-beti-scheme-jk",
+      "tag": "Girl Child",
+      "url": "/yojana/ladli-beti-scheme-jk"
+    },
+    {
+      "title": "J&K Social Security Pension",
+      "slug": "jk-social-security-pension",
+      "tag": "Pension",
+      "url": "/yojana/jk-social-security-pension"
+    }
+  ],
+  "tags": [],
+  "ministry": "Health and Medical Education Department, J&K",
+  "launch_year": 2020,
+  "category": "health",
+  "state": "jammu-and-kashmir",
+  "last_reviewed": "June 2026",
+  "schema_type": "FAQPage",
+  "extra_sections": [
+    {
+      "type": "text",
+      "heading": "Understanding PM-JAY SEHAT",
+      "icon": "📖",
+      "content": [
+        "The Rs 5 lakh annual cover under PM-JAY SEHAT applies per family and resets each year; it covers secondary and tertiary level hospitalisation, including surgeries, chemotherapy, cardiac procedures, organ transplants, and intensive care treatment. The cover is available at all empanelled government hospitals in J&K and at a large network of private hospitals empanelled under the scheme across the country, which is particularly valuable for J&K residents who need specialised treatment in hospitals in Delhi, Chandigarh, or other major cities.",
+        "To access PM-JAY SEHAT benefits, a J&K resident must obtain an Ayushman Golden Card, which is an Aadhaar-linked health card that is recognised at all PM-JAY empanelled hospitals across India. The golden card can be obtained at Common Service Centres (CSCs), Jan Aushadhi Kendras, or at the Ayushman Bharat counters in government hospitals; the process is based on Aadhaar authentication and typically takes only a few minutes, after which the card is issued on the spot or sent to the applicant."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "info",
+      "icon": "info",
+      "title": "Free Health Cover for Every J&K Resident",
+      "content": "PM-JAY SEHAT gives every family in Jammu and Kashmir Rs 5 lakh of cashless health cover a year, no matter their income. It was launched on 26 December 2020.<br><br>SEHAT extends the national Ayushman Bharat to the roughly 21 lakh J&K families who were left out of it, so the cover is now universal."
+    },
+    {
+      "type": "text",
+      "heading": "Understanding PM-JAY SEHAT: What Else to Know",
+      "icon": "📖",
+      "content": [
+        "J&K's SEHAT scheme is implemented by the State Health Agency (SHA J&K), which maintains the network of empanelled hospitals, manages the pre-authorisation system for planned treatments, and handles claims processing and payment to hospitals. The SHA operates through district-level health officials and Ayushman Mitras posted at empanelled hospitals who assist beneficiaries with the admission and claim process.",
+        "Over 1,500 health benefit packages are covered under PM-JAY SEHAT, spanning a wide range of medical and surgical specialties including oncology, cardiology, neurology, orthopaedics, nephrology, urology, and more; each package has a government-approved rate that the empanelled hospital is paid, irrespective of the actual billing, ensuring that the beneficiary pays nothing for the covered treatment. Pre-existing conditions are also covered from day one, with no waiting period, which is a significant advantage over private health insurance products."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "warning",
+      "icon": "alert",
+      "title": "Carry the SEHAT Card Always",
+      "content": "You must show the SEHAT Golden Card at the hospital to get cashless treatment, so keep it with you.<br><br>If you do not have it yet, the hospital's Arogya Mitra desk can also help look up your eligibility by Aadhaar."
+    },
+    {
+      "type": "text",
+      "heading": "The Headline Figures",
+      "icon": "📊",
+      "content": [
+        "One of the most transformative aspects of PM-JAY SEHAT for J&K's population is the extension of cashless healthcare access to residents in remote areas of the Jammu division and the Kashmir valley who previously had to self-fund expensive hospitalisation or travel to government facilities that might be far from their homes. A farmer from Kishtwar or a shopkeeper from Bandipora who develops a serious illness now has access to the same Rs 5 lakh cover as a resident of Srinagar or Jammu city, narrowing the healthcare access gap between urban and rural J&K.",
+        "The PM-JAY SEHAT golden card is valid at any empanelled hospital across India, not just in J&K; this portability is important for J&K residents who migrate seasonally to other states for agricultural or construction work, as they can access cashless treatment at PM-JAY empanelled hospitals in Punjab, Delhi, Haryana, and other states using the same card. The national portability of the golden card makes it a genuinely useful health protection instrument for J&K's significant migratory workforce."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "PM-JAY SEHAT: Quick Reference",
+      "icon": "📑",
+      "columns": [
+        "Detail",
+        "Value"
+      ],
+      "rows": [
+        [
+          "Annual Cover",
+          "Rs 5 lakh per family per year"
+        ],
+        [
+          "Who Is Eligible",
+          "All J&K residents (no income limit)"
+        ],
+        [
+          "Card Needed",
+          "Ayushman Golden Card (Aadhaar-based)"
+        ],
+        [
+          "Get Card At",
+          "CSC, Jan Aushadhi Kendra, empanelled hospital"
+        ],
+        [
+          "Packages",
+          "1,500+ medical and surgical packages"
+        ],
+        [
+          "Pre-existing Conditions",
+          "Covered from day one, no waiting period"
+        ],
+        [
+          "Helpline",
+          "14555"
+        ],
+        [
+          "Launched",
+          "December 26, 2020"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "In Their Words",
+      "icon": "💬",
+      "content": [
+        "PM-JAY SEHAT makes Jammu and Kashmir one of the only places in India where all residents, rich or poor, are entitled to Rs 5 lakh annual cashless health insurance, covering over 1,500 medical and surgical packages at empanelled hospitals across the country."
+      ]
+    },
+    {
+      "type": "process_flow",
+      "heading": "How to Get Your SEHAT Golden Card",
+      "steps": [
+        {
+          "icon": "search",
+          "title": "Visit a CSC",
+          "desc": "Go to your nearest Common Service Centre with your documents."
+        },
+        {
+          "icon": "file",
+          "title": "Provide documents",
+          "desc": "Give your Aadhaar and J&K domicile certificate for verification."
+        },
+        {
+          "icon": "shield",
+          "title": "Registration",
+          "desc": "The CSC operator registers you on the Ayushman Bharat portal."
+        },
+        {
+          "icon": "check",
+          "title": "Get the Golden Card",
+          "desc": "Collect or download your SEHAT Golden Card once approved."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Who Can Apply",
+      "icon": "✅",
+      "content": [
+        "The SEHAT scheme also includes a telemedicine component, as reflected in its full name, which allows J&K residents to access medical consultations remotely through government telemedicine platforms. This is particularly relevant in J&K's hard-to-reach hill areas where a patient may need medical advice without being able to travel to the nearest hospital; the telemedicine access complements the hospitalisation cover by providing a first point of contact for medical guidance in remote settings.",
+        "Children and elderly members of the family are covered under the Rs 5 lakh annual limit, which means that a serious illness in any family member draws down the same annual health cover pool; families with multiple serious health conditions in a year should be aware that the combined claims of all family members are subject to the Rs 5 lakh annual ceiling, and that any amount exceeding this ceiling must be paid by the patient. The SHA advises beneficiaries of this limit when seeking pre-authorisation for expensive treatments."
+      ]
+    },
+    {
+      "type": "stat_grid",
+      "heading": "PM-JAY SEHAT: Key Numbers",
+      "icon": "📊",
+      "items": [
+        {
+          "icon": "wallet",
+          "value": "₹5 Lakh",
+          "label": "Per Family",
+          "color": "green"
+        },
+        {
+          "icon": "users",
+          "value": "Universal",
+          "label": "All Residents",
+          "color": "blue"
+        },
+        {
+          "icon": "shield",
+          "value": "Cashless",
+          "label": "Treatment",
+          "color": "amber"
+        },
+        {
+          "icon": "file",
+          "value": "Golden Card",
+          "label": "Via CSC",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Who Can Apply: The Specifics",
+      "icon": "✅",
+      "content": [
+        "The scheme has also had a significant impact on the government hospitals of J&K by bringing in revenue through PM-JAY reimbursements that would not have been available under a purely free treatment model; government medical colleges and district hospitals receive payment from the SHA for each PM-JAY package provided to beneficiaries, which incentivises hospitals to improve their quality of care and infrastructure to attract PM-JAY patients. This revenue inflow has helped some government hospitals upgrade equipment and hire additional specialists.",
+        "For J&K residents who are covered under CGHS (Central Government Health Scheme) as central government employees, PM-JAY SEHAT provides complementary coverage for treatments at non-CGHS facilities or for family members who are not CGHS-covered; the two schemes can be used in coordination to ensure that the employee's family has comprehensive health protection. Central government retirees in J&K who lose CGHS coverage after a certain age can fall back on PM-JAY SEHAT as their primary health protection."
+      ]
+    },
+    {
+      "type": "eligibility_check",
+      "heading": "Who qualifies",
+      "icon": "✅",
+      "qualify": [
+        "Any permanent resident of J&K",
+        "Holds a valid J&K domicile certificate",
+        "Aadhaar available for verification",
+        "All family members can be added",
+        "No cap on family size or age"
+      ],
+      "disqualify": [
+        "No J&K domicile certificate",
+        "Aadhaar not available for eKYC",
+        "SEHAT card not generated",
+        "Treatment outside listed packages",
+        "Not a resident of the UT"
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "The Headline Figures: Key Points",
+      "icon": "📊",
+      "content": [
+        "Empanelled hospitals under PM-JAY SEHAT in J&K include all government medical colleges (GMC Jammu, GMC Srinagar, and associated hospitals), district hospitals, sub-district hospitals, and a growing number of private hospitals across the UT; the list of empanelled hospitals is updated periodically by the SHA and can be checked on the PM-JAY portal or the Ayushman Bharat app. Beneficiaries should always confirm that a hospital is empanelled before seeking cashless admission.",
+        "The SHA J&K has deployed Ayushman Mitras at all major empanelled hospitals to assist beneficiaries who arrive for treatment; the Ayushman Mitra verifies the beneficiary's eligibility on the PM-JAY portal, obtains pre-authorisation for the planned treatment from the insurance provider, and ensures that the beneficiary is admitted and treated on a cashless basis. The Mitra also assists with discharge formalities and helps the beneficiary understand what is covered if there are components of the treatment that fall outside the PM-JAY packages."
+      ]
+    },
+    {
+      "type": "number_highlight",
+      "big": "Universal",
+      "title": "Cover for All, Rich or Poor",
+      "desc": "What makes SEHAT special is that every J&K resident is covered, regardless of economic status. This is wider than national PM-JAY.<br><br>It was made possible after the reorganisation of J&K, which let the centre extend full health benefits to all residents."
+    },
+    {
+      "type": "text",
+      "heading": "How to Register",
+      "icon": "📝",
+      "content": [
+        "The SHA J&K maintains a grievance redressal mechanism for PM-JAY SEHAT beneficiaries who face difficulties such as refusal of treatment by an empanelled hospital, incorrect billing, or denial of cashless admission; beneficiaries can call the PM-JAY helpline 14555 or visit the SHA's district office to report and resolve such issues. Hospitals that repeatedly violate PM-JAY guidelines can be de-empanelled by the SHA, which serves as a deterrent against abuse of the system.",
+        "Awareness about PM-JAY SEHAT's universal eligibility in J&K remains an ongoing challenge, as many residents still believe that the scheme is only for BPL families; the SHA and the Health Department have conducted mass awareness campaigns through radio, social media, community health workers, and hospital outreach to correct this misconception. The fact that every J&K resident is eligible regardless of income is the scheme's most important and often underutilised feature."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "PM-JAY SEHAT at a Glance",
+      "icon": "📋",
+      "columns": [
+        "Detail",
+        "Information"
+      ],
+      "rows": [
+        [
+          "Scheme Name",
+          "Ayushman Bharat PM-JAY SEHAT"
+        ],
+        [
+          "Annual Cover",
+          "Rs 5 lakh per family per year"
+        ],
+        [
+          "Eligibility",
+          "All residents of J&K (no income limit)"
+        ],
+        [
+          "Card Required",
+          "Ayushman Golden Card (Aadhaar-based)"
+        ],
+        [
+          "Treatment",
+          "Cashless at empanelled govt and private hospitals"
+        ],
+        [
+          "Packages Covered",
+          "1,500+ medical and surgical packages"
+        ],
+        [
+          "Launched",
+          "December 26, 2020"
+        ],
+        [
+          "Implementing Body",
+          "SHA J&K (State Health Agency)"
+        ],
+        [
+          "UT",
+          "Jammu and Kashmir"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "How to Register: What Else to Know",
+      "icon": "📝",
+      "content": [
+        "PM-JAY SEHAT represents a landmark in J&K's health system, making the UT one of the pioneers of universal health insurance coverage in India; the model has been cited as an example for other states and UTs considering how to extend the PM-JAY framework beyond the SECC-defined BPL population. J&K's experience with universal coverage under SEHAT provides valuable lessons on implementation, hospital network expansion, and beneficiary awareness that are relevant to the national goal of Universal Health Coverage.",
+        "The empanelment process for private hospitals under PM-JAY SEHAT is managed by the SHA J&K and requires hospitals to meet specific infrastructure and quality standards before they are admitted into the network; private hospitals that seek empanelment must have minimum bed strength, qualified specialists, diagnostic equipment, and an NABH accreditation or equivalent quality certification. The SHA conducts periodic audits of empanelled private hospitals to ensure that they maintain service quality standards and do not turn away SEHAT beneficiaries."
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "What the Cover Includes",
+      "items": [
+        {
+          "icon": "shield",
+          "title": "Major surgeries",
+          "sub": "Cardiology, nephrology, oncology, and other tertiary care."
+        },
+        {
+          "icon": "file",
+          "title": "Cashless hospitalisation",
+          "sub": "At empanelled hospitals in J&K and across India."
+        },
+        {
+          "icon": "sparkles",
+          "title": "Secondary and tertiary care",
+          "sub": "A wide range of listed treatment packages."
+        },
+        {
+          "icon": "arrow",
+          "title": "National portability",
+          "sub": "Use the card at empanelled hospitals anywhere in India."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Payment and Timing",
+      "icon": "🏦",
+      "content": [
+        "J&K's geography presents unique challenges for PM-JAY SEHAT implementation: high-altitude districts like Gurez, Kupwara, Zanskar, and Ramban have limited access to secondary and tertiary hospitals, meaning that beneficiaries from these areas must travel significant distances to reach an empanelled hospital for non-emergency procedures. The government has been working to expand the telemedicine component of SEHAT and to increase the empanelment of CHCs and sub-district hospitals in remote areas so that basic secondary care is available closer to beneficiaries.",
+        "Mental health conditions are included in the PM-JAY SEHAT package following the inclusion of mental health packages in the national PM-JAY framework; beneficiaries in J&K can access inpatient psychiatric care, including hospital admissions for severe mental health conditions, at empanelled government hospitals under the scheme. This inclusion is significant for J&K given the documented prevalence of trauma-related mental health conditions in the population."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "icon": "info",
+      "title": "Add Every Family Member",
+      "content": "There is no cap on family size, so make sure every member of your household is added to the SEHAT card.<br><br>Each person can then get cashless treatment up to the shared Rs 5 lakh family limit."
+    },
+    {
+      "type": "text",
+      "heading": "Payment and Timing: Going Deeper",
+      "icon": "🏦",
+      "content": [
+        "The SEHAT scheme interacts with the J&K government's SADIQ (Social Assistance for Destitute, Infirm, and Qualitatively deficient) and other welfare programmes to create a layered social protection system; the health insurance cover from SEHAT complements income-support programmes like the Social Security Pension, which together reduce the combined risk of poverty and medical expenses that is especially high among the elderly and disabled population. Together, these programmes form a more comprehensive social safety net than any individual scheme can provide.",
+        "Claims under PM-JAY SEHAT are processed by the insurance company or trust fund managing the scheme on behalf of SHA J&K, and payment is made directly to the empanelled hospital for each approved package; the process is entirely cashless and paperless for the beneficiary, who only needs to present the golden card at admission. The backend claims system is integrated with the national PM-JAY technology platform, enabling real-time tracking of utilisation and fraud detection across the empanelled hospital network."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "icon": "info",
+      "title": "What You Will Need Notes",
+      "content": "Long-term tracking of PM-JAY SEHAT utilisation in J&K has shown that the scheme is particularly well-used for orthopaedic procedures (common due to agricultural and construction injuries), cardiac care (with rising cardiovascular disease incidence), and oncology treatments; these are precisely the categories of treatment where the out-of-pocket cost in the absence of insurance would be catastrophic for most J&K families. The scheme's coverage of these high-cost procedures is a central reason why it is considered a key pillar of J&K's social protection architecture.<br><br>Beneficiaries who are hospitalised under PM-JAY SEHAT are also entitled to a transport allowance for travel to the empanelled hospital; this component, while modest, helps offset the significant travel costs that families in remote J&K districts incur when they need to reach a major hospital in Jammu or Srinagar. The transport allowance is claimed through the Ayushman Mitra at the hospital and is credited to the beneficiary's bank account after discharge."
+    },
+    {
+      "type": "text",
+      "heading": "What You Will Need: What Else to Know",
+      "icon": "📄",
+      "content": [
+        "For J&K residents who require treatment for conditions not covered under the PM-JAY SEHAT package list, the government's Chief Minister's Relief Fund provides a separate channel for financial assistance; families can apply to the Relief Fund if their medical condition is genuine, costly, and not covered by SEHAT. This complementary mechanism ensures that even beneficiaries who exhaust their SEHAT cover or require treatment for out-of-package conditions have a fallback financial resource through the government.",
+        "The SHA J&K also collaborates with Asha workers and Anganwadi workers to identify unenrolled families in remote villages and encourage them to get their Ayushman Golden Card; these frontline workers play a critical outreach role in ensuring that the poorest and most marginalised J&K households, who are often the least likely to self-enrol, are brought into the SEHAT system before a medical emergency forces them to seek care without coverage. Camp-based golden card enrolment drives organised at village and panchayat level have been the most effective method for reaching these households."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "icon": "info",
+      "title": "What Difference It Makes Notes",
+      "content": "The Ayushman Bharat Digital Mission (ABDM) is being progressively integrated with PM-JAY SEHAT in J&K, enabling beneficiaries to create an Ayushman Bharat Health Account (ABHA) linked to their golden card; the ABHA account allows for digital storage and sharing of health records, making it easier for treating doctors at empanelled hospitals to access the patient's medical history. This digital health infrastructure is expected to improve the quality and continuity of care for PM-JAY SEHAT beneficiaries across multiple hospital visits."
+    },
+    {
+      "type": "text",
+      "heading": "What Difference It Makes: Further Notes",
+      "icon": "📈",
+      "content": [
+        "Women beneficiaries in J&K have been among the heaviest users of PM-JAY SEHAT for reproductive health services, including maternity care, post-natal complications, and gynaecological surgeries; prior to SEHAT, many women in J&K's rural and remote areas either avoided seeking hospital care for these conditions due to cost, or were discharged early because families could not afford extended hospitalisation. The cashless hospitalisation available under SEHAT has improved women's access to timely and complete maternity and gynaecological care, with measurable improvements in outcomes in several districts.",
+        "As J&K continues to expand the SEHAT network and improve its implementation over time, the scheme represents not just a health financing mechanism but a statement about the UT government's commitment to universal social protection; the extension of the Rs 5 lakh health cover to every resident regardless of income is a deliberate policy choice that places J&K at the forefront of India's Universal Health Coverage ambitions. The sustained political and administrative commitment to SEHAT will determine how effectively it translates the promise of universal coverage into real health security for J&K's diverse population."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is PM-JAY SEHAT J&K?",
+      "answer": "PM-JAY SEHAT is a J&K-specific extension of the national Ayushman Bharat scheme that provides Rs 5 lakh annual cashless health insurance to all residents of J&K, regardless of income or BPL status."
+    },
+    {
+      "question": "Do I need to be BPL to get PM-JAY SEHAT coverage?",
+      "answer": "No. SEHAT covers all residents of J&K regardless of income. You do not need a BPL ration card or income certificate to get the Ayushman Golden Card in J&K."
+    },
+    {
+      "question": "How do I get the Ayushman Golden Card for SEHAT?",
+      "answer": "Visit a Common Service Centre (CSC), Jan Aushadhi Kendra, or the Ayushman Bharat counter at any empanelled hospital with your Aadhaar card. The card is issued after biometric or OTP authentication."
+    },
+    {
+      "question": "What is the annual health cover amount?",
+      "answer": "The cover is Rs 5 lakh per family per year, which applies to the entire family and resets annually."
+    },
+    {
+      "question": "Can I use the Ayushman Golden Card in other states?",
+      "answer": "Yes. The card is valid at all PM-JAY empanelled hospitals across India, not just in J&K. J&K residents seeking treatment in Delhi, Chandigarh, or any other state can use the card at empanelled hospitals."
+    },
+    {
+      "question": "Are pre-existing conditions covered under SEHAT?",
+      "answer": "Yes. All pre-existing conditions are covered from day one with no waiting period, which is a key advantage of SEHAT over most private health insurance products."
+    },
+    {
+      "question": "How many hospitals are covered under SEHAT in J&K?",
+      "answer": "All government hospitals in J&K (medical colleges, district hospitals, sub-district hospitals) are empanelled, along with a growing number of private hospitals. Check the current list on the PM-JAY portal or Ayushman Bharat app."
+    },
+    {
+      "question": "What is the PM-JAY SEHAT helpline number?",
+      "answer": "Call 14555 for any PM-JAY SEHAT queries, assistance with hospital admission, or to report grievances."
+    },
+    {
+      "question": "What should I do if a hospital refuses cashless treatment?",
+      "answer": "Contact the Ayushman Mitra at the hospital or call the PM-JAY helpline 14555. You can also report the issue to the SHA J&K district office.<br><br>Empanelled hospitals are required to provide cashless treatment to eligible beneficiaries."
+    },
+    {
+      "question": "When was PM-JAY SEHAT launched in J&K?",
+      "answer": "PM-JAY SEHAT was launched on December 26, 2020 by the Prime Minister of India."
+    }
+  ]
+}

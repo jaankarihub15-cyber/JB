@@ -1,0 +1,512 @@
+{
+  "slug": "jk-social-security-pension",
+  "title": "J&K Social Security Pension - Old Age Widow Disability",
+  "meta_description": "J&K Social Security Pension provides Rs 1,000/month for elderly, widows, and Divyang. Eligibility, how to apply at district office, and DBT payment details.",
+  "hero": {
+    "icon": "👵",
+    "one_liner": "J&K Social Security Pension gives Rs 1,000 a month to the elderly, widows, and persons with disabilities, for families earning under Rs 75,000 a year.",
+    "updated_date": "June 2026",
+    "stats": [
+      {
+        "label": "Monthly",
+        "value": "₹1,000"
+      },
+      {
+        "label": "Old Age",
+        "value": "60+"
+      },
+      {
+        "label": "Income",
+        "value": "<₹75k"
+      },
+      {
+        "label": "Mode",
+        "value": "DBT"
+      }
+    ]
+  },
+  "quick_actions": [
+    {
+      "icon": "📝",
+      "label": "Apply (Jansugam)",
+      "url": "https://jansugam.jk.gov.in"
+    },
+    {
+      "icon": "🔍",
+      "label": "Check status",
+      "url": "https://jansugam.jk.gov.in"
+    },
+    {
+      "icon": "✅",
+      "label": "Eligibility",
+      "url": "/check-eligibility"
+    }
+  ],
+  "what_is_it": [
+    "The Jammu and Kashmir Social Security Pension is a state-funded monthly pension programme administered by the Social Welfare Department that provides financial support to three vulnerable categories of the population: elderly residents aged 60 and above, widows, and persons with disabilities. The pension of Rs 1,000 per month is paid directly to Aadhaar-linked bank accounts through the DBT mechanism, ensuring regular and transparent delivery to beneficiaries across all districts of J&K.",
+    "The old age pension component covers all J&K residents who have attained the age of 60 years and whose annual family income is below Rs 75,000; unlike some states that set income limits below Rs 35,000 to Rs 50,000, J&K's more generous income ceiling ensures that a larger proportion of the elderly population in the UT can access the pension without being excluded by the income threshold. The income is assessed for the entire family and must be below the ceiling from all sources combined."
+  ],
+  "eligibility": [
+    {
+      "label": "Old age",
+      "value": "Rs 1,000 a month for residents aged 60 and above.",
+      "highlight": true
+    },
+    {
+      "label": "Widow",
+      "value": "Rs 1,000 a month for widows aged 18 and above.",
+      "highlight": true
+    },
+    {
+      "label": "Disability",
+      "value": "Rs 1,000 a month for 40 percent or more disability.",
+      "highlight": true
+    },
+    {
+      "label": "Income limit",
+      "value": "Family annual income below Rs 75,000.",
+      "highlight": false
+    },
+    {
+      "label": "Mode",
+      "value": "Paid monthly by DBT, combined with NSAP.",
+      "highlight": false
+    }
+  ],
+  "eligibility_filters": {
+    "states": [
+      "jammu-and-kashmir"
+    ],
+    "gender": "any",
+    "age_min": 60,
+    "age_max": null,
+    "income_max": 75000,
+    "notes": "J&K residents: elderly 60+, widows 18+, or persons with 40%+ disability, family income below Rs 75,000 a year. Rs 1,000 a month by DBT, combined with NSAP. Apply on the Jansugam portal or at the Social Welfare Office. One pension per person."
+  },
+  "how_to_apply": [
+    {
+      "step": 1,
+      "title": "Obtain Required Documents",
+      "description": "Collect your Aadhaar card, J&K domicile or permanent resident certificate, income certificate from the Tehsildar showing family income below Rs 75,000, age proof if applying for old age pension, husband's death certificate for widow pension, or disability certificate from the Chief Medical Officer for disability pension."
+    },
+    {
+      "step": 2,
+      "title": "Visit District Social Welfare Office",
+      "description": "Go to the Social Welfare Office in your district; collect the pension application form specific to your category (old age, widow, or disability), fill it carefully with all required details, and get it attested if required by the district office."
+    },
+    {
+      "step": 3,
+      "title": "Submit the Application",
+      "description": "Submit the completed form with all supporting documents and a copy of your Aadhaar-linked bank account passbook; the Social Welfare Office will provide an acknowledgement receipt with a reference number that you can use to track your application status."
+    },
+    {
+      "step": 4,
+      "title": "Verification and Approval",
+      "description": "The Social Welfare Department verifies the application at block and district level; approved applications are added to the monthly pension roll and the first payment is credited to your Aadhaar-linked bank account in the next payment cycle after approval."
+    },
+    {
+      "step": 5,
+      "title": "Annual Life Certificate",
+      "description": "Every year, submit a Jeevan Pramaan Patra (life certificate) to maintain uninterrupted pension; you can do this digitally through the Jeevan Pramaan app using your Aadhaar biometrics, or physically at the block Social Welfare office or a nearby Common Service Centre."
+    }
+  ],
+  "official_portal": {
+    "name": "Social Welfare Department, J&K",
+    "url": "https://jansugam.jk.gov.in"
+  },
+  "related_pages": [
+    {
+      "title": "PM-JAY SEHAT J&K",
+      "slug": "pmjay-sehat-jk",
+      "tag": "Health",
+      "url": "/yojana/pmjay-sehat-jk"
+    },
+    {
+      "title": "Ladli Beti Scheme J&K",
+      "slug": "ladli-beti-scheme-jk",
+      "tag": "Girl Child",
+      "url": "/yojana/ladli-beti-scheme-jk"
+    }
+  ],
+  "tags": [],
+  "ministry": "Social Welfare Department, J&K",
+  "launch_year": 2000,
+  "category": "senior-citizen",
+  "state": "jammu-and-kashmir",
+  "last_reviewed": "June 2026",
+  "schema_type": "FAQPage",
+  "extra_sections": [
+    {
+      "type": "text",
+      "heading": "J&K Social Security Pension: The Basics",
+      "icon": "📖",
+      "content": [
+        "The widow pension is available to women who have lost their husbands and are aged 18 years or above; there is no upper age limit for the widow pension in J&K (though widows who cross 60 may opt to shift to the old age pension if that amount is higher). Widows must not be employed in any government service and must not be receiving any other government pension to be eligible for the widow pension under the Social Security scheme.",
+        "The disability pension covers persons with physical, mental, or sensory disabilities where the disability is certified at 40 percent or more by a competent medical authority; applicants must produce a disability certificate from the Chief Medical Officer or a designated medical board to establish the degree of disability. The disability pension provides income support to individuals whose disability affects their ability to earn a regular livelihood through employment."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Pension Details by Category",
+      "icon": "📋",
+      "columns": [
+        "Category",
+        "Eligibility",
+        "Monthly Amount",
+        "Key Document"
+      ],
+      "rows": [
+        [
+          "Old Age",
+          "Age 60+, income below Rs 75,000/yr",
+          "Rs 1,000",
+          "Age proof + income certificate"
+        ],
+        [
+          "Widow",
+          "Widow aged 18+, income below Rs 75,000/yr",
+          "Rs 1,000",
+          "Husband's death certificate"
+        ],
+        [
+          "Disability",
+          "40%+ disability, income below Rs 75,000/yr",
+          "Rs 1,000",
+          "Disability certificate from CMO"
+        ],
+        [
+          "NSAP Top-Up (BPL)",
+          "BPL beneficiaries in all 3 categories",
+          "Rs 200-500 extra",
+          "BPL ration card"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "J&K Social Security Pension: in Practice",
+      "icon": "📖",
+      "content": [
+        "All three pension types are paid through Direct Benefit Transfer (DBT) to the beneficiary's Aadhaar-linked bank account, eliminating the need for beneficiaries to physically collect payments at a government office or treasury. This DBT-based payment system has significantly reduced delays and payment irregularities that were associated with the earlier manual disbursement system in J&K.",
+        "The J&K Social Security Pension is aligned with the National Social Assistance Programme (NSAP) of the central government, which means that BPL beneficiaries who are covered under IGNOAPS (Indira Gandhi National Old Age Pension Scheme), IGNWPS (Indira Gandhi National Widow Pension Scheme), and IGNDPS (Indira Gandhi National Disability Pension Scheme) receive an additional central top-up payment of Rs 200 to Rs 500 per month depending on the category and age. The combined state-plus-central pension is credited to the beneficiary's account as a single monthly transfer."
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "Documents You Need",
+      "items": [
+        {
+          "icon": "file",
+          "title": "Aadhaar card",
+          "sub": "Linked to your bank account for DBT."
+        },
+        {
+          "icon": "shield",
+          "title": "Category proof",
+          "sub": "Age proof, widow certificate, or disability certificate."
+        },
+        {
+          "icon": "wallet",
+          "title": "Income certificate",
+          "sub": "Showing family income below Rs 75,000."
+        },
+        {
+          "icon": "search",
+          "title": "Bank passbook",
+          "sub": "Aadhaar-seeded account in your name."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Eligibility, Explained",
+      "icon": "✅",
+      "content": [
+        "Applying for the J&K Social Security Pension requires visiting the district Social Welfare Office in the applicant's home district; applicants are required to submit the relevant pension application form along with Aadhaar card, J&K domicile certificate or permanent resident certificate, age proof (for old age pension), husband's death certificate (for widow pension), disability certificate (for disability pension), income certificate from the Tehsildar, and bank account details. The documentation requirement has been streamlined in recent years to reduce the number of certificates required.",
+        "The Gram Panchayat and the Urban Local Body play a supportive role in the application process by providing local certification of the applicant's age, residence, and income status; the Sarpanch or municipal ward member's letter is accepted as supplementary evidence in cases where other income documentation is not readily available. This localised verification mechanism helps reduce the documentation burden on applicants from poor households."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "warning",
+      "icon": "alert",
+      "title": "Keep Your Certificates Current",
+      "content": "The pension can need a periodic life or status certificate to keep paying. Missing it can pause the pension.<br><br>Submit any required certificate on time, and keep your Aadhaar-bank link active to avoid a gap."
+    },
+    {
+      "type": "text",
+      "heading": "In Their Words",
+      "icon": "💬",
+      "content": [
+        "The J&K Social Security Pension delivers Rs 1,000 every month to elderly residents, widows, and persons with disabilities, paid directly into their bank accounts and supplemented by central NSAP top-ups for BPL beneficiaries, forming the core of J&K's social protection network."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "info",
+      "icon": "info",
+      "title": "A Monthly Pension for the Vulnerable",
+      "content": "The J&K Social Security Pension pays Rs 1,000 a month to the elderly, widows, and persons with disabilities. It is run by the Social Welfare Department.<br><br>It is combined with the central NSAP, so eligible people get a single, steady monthly pension by DBT."
+    },
+    {
+      "type": "text",
+      "heading": "The Income and Exclusion Rules",
+      "icon": "📋",
+      "content": [
+        "The disability pension in J&K has helped reduce the economic exclusion of persons with disabilities who face multiple barriers to employment, including physical access issues, communication barriers, and social stigma; the Rs 1,000 monthly pension does not replace the need for livelihood opportunities for persons with disabilities, but it provides a baseline income that makes it possible for them to meet their essential needs with less dependence on family or charitable assistance. Families of persons with severe disabilities who are unable to work have reported that the pension significantly reduces the financial strain associated with disability care.",
+        "Widow beneficiaries in J&K include women who have lost their husbands to various causes including illness, accidents, conflict, and age-related death; the UT has a significant number of widows in districts that experienced conflict over recent decades, and the widow pension serves as an especially important income support for this category of women who may have been homemakers throughout their adult lives and have no independent earning capacity. The Social Welfare Department prioritises the processing of widow pension applications from conflict-affected areas."
+      ]
+    },
+    {
+      "type": "process_flow",
+      "heading": "How to Apply for the Pension",
+      "steps": [
+        {
+          "icon": "file",
+          "title": "Gather documents",
+          "desc": "Aadhaar, age or category proof, income certificate, and bank passbook."
+        },
+        {
+          "icon": "search",
+          "title": "Apply online or at office",
+          "desc": "Apply on the Jansugam portal or at the Social Welfare Office."
+        },
+        {
+          "icon": "shield",
+          "title": "Verification",
+          "desc": "The department verifies your category, income, and residence."
+        },
+        {
+          "icon": "check",
+          "title": "Monthly DBT",
+          "desc": "Once approved, Rs 1,000 is credited monthly to your account."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "The Income and Exclusion Rules: Key Points",
+      "icon": "📋",
+      "content": [
+        "The J&K Social Security Pension is also extended to elderly and disabled inmates of government-registered old age homes and care institutions in the UT, with the pension being credited to the institution's account on the inmate's behalf and used for their care; this provision ensures that institutionalised elderly and disabled persons are not excluded from the pension simply because they do not have an individual bank account. The institution must be registered with the Social Welfare Department to be eligible for this arrangement.",
+        "Pension amounts under the J&K Social Security scheme are periodically revised by the UT government through executive order; existing beneficiaries benefit from enhanced rates automatically from the effective date of the revision without needing to reapply or submit a fresh application. The revisions are intended to partially offset the effect of inflation on the real value of the pension and to maintain the scheme's relevance as a social protection instrument."
+      ]
+    },
+    {
+      "type": "stat_grid",
+      "heading": "J&K Social Security Pension: Key Numbers",
+      "icon": "📊",
+      "items": [
+        {
+          "icon": "wallet",
+          "value": "₹1,000",
+          "label": "Per Month",
+          "color": "green"
+        },
+        {
+          "icon": "users",
+          "value": "60+",
+          "label": "Old Age",
+          "color": "blue"
+        },
+        {
+          "icon": "shield",
+          "value": "Widow",
+          "label": "Disability Too",
+          "color": "amber"
+        },
+        {
+          "icon": "file",
+          "value": "<₹75k",
+          "label": "Income Limit",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Eligibility, Explained: Key Points",
+      "icon": "✅",
+      "content": [
+        "The J&K Social Welfare Department conducts annual beneficiary verification exercises to confirm that pension recipients remain alive and eligible; beneficiaries are required to submit a life certificate (Jeevan Pramaan Patra) annually, which can be done digitally through the Jeevan Pramaan app or physically at the block Social Welfare office. Pensioners who fail to submit the life certificate within the prescribed period may see their pension temporarily suspended until verification is completed.",
+        "For J&K's elderly population in remote areas of the Jammu division's hill districts and the Kashmir valley's high-altitude villages, the DBT payment mechanism is particularly valuable because it removes the need to travel to a government office to collect pension payments; elderly pensioners who are physically unable to visit banks regularly can use Banking Correspondent services or the India Post Payments Bank network to withdraw their pension. The expansion of BC services to remote J&K villages has been an important enabler of the Social Security Pension's reach."
+      ]
+    },
+    {
+      "type": "eligibility_check",
+      "heading": "Who qualifies",
+      "icon": "✅",
+      "qualify": [
+        "Aged 60 or above for old age pension",
+        "A widow aged 18 or above",
+        "A person with 40 percent or more disability",
+        "Family income below Rs 75,000 a year",
+        "Permanent resident of J&K"
+      ],
+      "disqualify": [
+        "Family income above Rs 75,000",
+        "Below the age or disability threshold",
+        "Not a J&K resident",
+        "Already on a conflicting pension",
+        "Required certificate missing"
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "How to Apply",
+      "icon": "📝",
+      "content": [
+        "The J&K government's SEHAT (Social and Economic Health and Transformation) initiative has also worked to integrate social security pension data with other welfare databases in the UT, enabling cross-referencing to identify eligible persons who are not yet enrolled and to prevent duplicate benefits to the same person across multiple schemes. This data integration is an ongoing administrative effort that is expected to improve the efficiency and coverage of the Social Security Pension over time.",
+        "Grievances related to the J&K Social Security Pension, such as delayed payments, erroneous rejection, or discrepancies in pension amounts, can be filed at the district Social Welfare Office, escalated to the Divisional Commissioner's office, or reported through the J&K Chief Minister's Grievance Cell; beneficiaries are encouraged to keep a record of their pension credit dates in their passbook so that any discrepancy can be quickly identified and reported. The department has a prescribed timeline for resolving pension grievances."
+      ]
+    },
+    {
+      "type": "number_highlight",
+      "big": "3 Groups",
+      "title": "Old Age, Widow, and Disability",
+      "desc": "The same Rs 1,000 monthly pension covers three groups: the elderly aged 60 and above, widows aged 18 and above, and persons with 40 percent or more disability.<br><br>You apply under the category you fall in, with the matching proof."
+    },
+    {
+      "type": "text",
+      "heading": "How to Apply: Key Points",
+      "icon": "📝",
+      "content": [
+        "The cumulative impact of the J&K Social Security Pension on poverty reduction among the elderly, widowed, and disabled populations is significant given that J&K has a relatively high share of its population in hilly and tribal areas with limited livelihood opportunities; the pension ensures a minimum monthly income floor for the state's most vulnerable residents and reduces their dependence on family support, which may itself be strained in poor rural households. As J&K continues its development trajectory after attaining UT status, the Social Security Pension remains a cornerstone of its social protection architecture.",
+        "The J&K Social Security Pension for persons with disability is complemented by other disability-specific welfare programmes including free bus passes, assistive device support under the ADIP scheme, and scholarship support for disabled students; taken together, these programmes create a multi-dimensional support system that addresses the economic, mobility, and educational barriers faced by persons with disabilities in J&K. The Social Security Pension serves as the income foundation on which these other supports are built."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "J&K Social Security Pension: Quick Reference",
+      "icon": "📑",
+      "columns": [
+        "Detail",
+        "Value"
+      ],
+      "rows": [
+        [
+          "Old Age Pension",
+          "Rs 1,000/month for residents aged 60+"
+        ],
+        [
+          "Widow Pension",
+          "Rs 1,000/month for widows (18+)"
+        ],
+        [
+          "Disability Pension",
+          "Rs 1,000/month for 40%+ disability"
+        ],
+        [
+          "Income Limit",
+          "Annual family income below Rs 75,000"
+        ],
+        [
+          "Payment Mode",
+          "DBT to Aadhaar-linked bank account"
+        ],
+        [
+          "NSAP Convergence",
+          "BPL beneficiaries get additional central top-up"
+        ],
+        [
+          "Department",
+          "Social Welfare Department, J&K"
+        ],
+        [
+          "UT",
+          "Jammu and Kashmir"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "When and How You Are Paid",
+      "icon": "🏦",
+      "content": [
+        "For elderly J&K residents who have migrated to other states for seasonal employment or family care but retain their J&K domicile, the pension remains payable as long as their Aadhaar-linked bank account is operational and the annual life certificate is submitted; the DBT mechanism does not require the beneficiary to be physically present in J&K to receive the monthly credit. This portability has been particularly useful for elderly Kashmiri families who spend time with relatives in cities like Delhi, Jammu, or Chandigarh during winter months.",
+        "Social Welfare Department officers at the district level in J&K are responsible for maintaining an up-to-date database of all pension beneficiaries and ensuring that pension credits are issued on time each month; they also coordinate with banks to resolve issues where Aadhaar-bank linking failures have caused payment rejections. The district Social Welfare Officer can be contacted by beneficiaries who receive an SMS indicating that their payment was attempted but failed, which is often caused by an expired or unlinked Aadhaar-bank connection."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "icon": "info",
+      "title": "One Pension Per Person",
+      "content": "You can draw only one social security pension at a time, even if you fall in more than one category.<br><br>Apply under the category that fits you best, and keep the paperwork for that one in order."
+    },
+    {
+      "type": "text",
+      "heading": "When and How You Are Paid: Continued",
+      "icon": "🏦",
+      "content": [
+        "The J&K Social Security Pension scheme covers a large absolute number of beneficiaries given J&K's demographic profile, which includes a significant elderly population in its rural areas and a notable share of widow-headed households particularly in districts that experienced conflict-related mortality in previous decades. The Social Welfare Department's mandate includes ensuring that this large and diverse beneficiary population receives their pension without exclusion due to documentation gaps, distance, or disability.",
+        "J&K has been working to shift from paper-based applications to a more streamlined digital application process under its e-governance initiatives, and the Social Security Pension is one of the schemes being brought under this umbrella; the goal is to allow applicants to submit their application online, track its status digitally, and receive automated SMS notifications at each stage of processing, reducing the need for multiple in-person visits to the district office. This digitalisation effort is expected to particularly benefit applicants from remote areas."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "icon": "info",
+      "title": "What to Keep Ready Notes",
+      "content": "The pension also has an important psychological dimension for elderly beneficiaries who may feel a loss of economic relevance after retirement from active farming or labour work; the regular monthly credit arriving in their bank account is a concrete reminder that the government recognises their status as citizens entitled to social support, and this recognition has been reported by welfare workers in J&K to improve the morale and self-esteem of pension recipients, particularly among those who live alone in single-person elderly households in hill villages far from their children. Families with multiple eligible members - for example, an elderly widowed woman who is also disabled - are entitled to apply for the pension category that provides the greatest benefit, but cannot claim multiple pension amounts simultaneously from the same scheme; the Social Welfare Department helps applicants identify the most appropriate category during the application stage.<br><br>In some cases, where a person is both widowed and elderly, the district officer may advise them to apply under the old age category for simplicity."
+    },
+    {
+      "type": "text",
+      "heading": "What to Keep Ready: in Practice",
+      "icon": "📄",
+      "content": [
+        "The J&K Social Security Pension is one of the schemes being monitored under J&K's Results Framework for governance performance, with targets for coverage rate, payment timeliness, and grievance resolution; this monitoring framework creates accountability at the district administration level and ensures that improvements in scheme delivery are tracked and reported to the government. Districts that consistently underperform on pension delivery metrics are subject to review meetings with the Social Welfare Department's director.",
+        "As J&K's Aadhaar enrolment has reached near-universal levels even in remote areas, the Aadhaar-linked DBT mechanism for the Social Security Pension has become increasingly reliable; the few remaining cases of Aadhaar-bank linkage failures are addressed through camp-based Aadhaar seeding services organised by the Social Welfare Department in collaboration with district-level bank branches. This last-mile connectivity effort ensures that even the most marginalised elderly and disabled residents can access the pension payment system."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "icon": "info",
+      "title": "When the Money Does Not Come Notes",
+      "content": "The J&K Social Security Pension also plays a role in the economic empowerment of women, as the majority of pension recipients in the widow category and a large share in the old age category are women; for women who have been financially dependent throughout their lives on male family members, the monthly pension credit is often the first recurring financial resource they control personally. This individual economic resource strengthens their position within the household and their ability to make autonomous decisions about healthcare, nutrition, and daily expenses.<br><br>Looking ahead, the J&K government has been studying the possibility of incrementally raising the Social Security Pension amount to better reflect the cost of living in the UT, particularly for residents in Kashmir valley where food and fuel costs can be significantly higher than in the plains; any revision would benefit all existing beneficiaries automatically without requiring fresh applications. The scheme's continued relevance as a social protection instrument will depend on periodic revisions that maintain its real purchasing power in the hands of J&K's elderly, widowed, and disabled residents, ensuring that the pension remains a meaningful and dignified source of income for the UT's most vulnerable population."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How much is the J&K Social Security Pension?",
+      "answer": "The pension is Rs 1,000 per month for all three categories: old age (60+), widow, and disability (40%+ disability). BPL beneficiaries receive an additional central government top-up of Rs 200-500 per month under NSAP."
+    },
+    {
+      "question": "Who is eligible for the J&K Old Age Pension?",
+      "answer": "J&K residents aged 60 years or above whose annual family income is below Rs 75,000 are eligible. They must not be receiving any other government pension."
+    },
+    {
+      "question": "Can a widow aged over 60 receive both widow and old age pension?",
+      "answer": "No. A person can receive only one Social Security Pension at a time. A widow who crosses 60 may switch to the old age pension if applicable, but cannot receive both simultaneously."
+    },
+    {
+      "question": "What disability percentage is required for the disability pension in J&K?",
+      "answer": "A disability of 40 percent or more, certified by a government medical authority (Chief Medical Officer or medical board), is required for the disability pension."
+    },
+    {
+      "question": "Where do I apply for the J&K Social Security Pension?",
+      "answer": "Apply at the District Social Welfare Office in your district. Bring your Aadhaar card, income certificate, and the category-specific document (age proof, death certificate, or disability certificate)."
+    },
+    {
+      "question": "What is the income limit for the J&K Social Security Pension?",
+      "answer": "The annual family income must be below Rs 75,000 from all sources combined to be eligible."
+    },
+    {
+      "question": "How is the pension paid?",
+      "answer": "The pension is credited directly to the beneficiary's Aadhaar-linked bank account every month through Direct Benefit Transfer (DBT)."
+    },
+    {
+      "question": "Do I need to submit a life certificate every year?",
+      "answer": "Yes. An annual Jeevan Pramaan Patra (life certificate) is required.<br><br>It can be submitted digitally via the Jeevan Pramaan app or physically at the block Social Welfare office."
+    },
+    {
+      "question": "What is the NSAP top-up on J&K pension?",
+      "answer": "BPL beneficiaries receive an additional central government payment: Rs 200-300/month for the 60-79 age group under IGNOAPS, and Rs 500/month for those aged 80+ under IGNOAPS. Similar top-ups apply for widow and disability pension under IGNWPS and IGNDPS."
+    },
+    {
+      "question": "What if my pension payment is delayed or stopped?",
+      "answer": "Check your life certificate submission status first. If the certificate is current and payment is still not received, file a grievance at the District Social Welfare Office, the Divisional Commissioner's office, or the J&K Chief Minister's Grievance Cell."
+    }
+  ]
+}
