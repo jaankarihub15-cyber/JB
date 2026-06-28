@@ -32,7 +32,13 @@
       "type": "text",
       "heading": "What You Can and Cannot Update in Aadhaar",
       "icon": "📝",
-      "content": "Aadhaar holds two kinds of data. Demographic data (name, address, date of birth, gender, email, mobile) can be changed online or at a centre. Biometric data (photograph, fingerprints, iris) can only be updated in person at an Aadhaar centre. It is never done online. You can do a limited number of demographic updates online. After that you must visit a centre, a rule meant to prevent casual misuse of a critical ID. Email and mobile updates need no document. Name, address, and DOB changes always need supporting proof. Keep your linked mobile active before starting any online update. Without it, the OTP login will not work and you will be forced to visit a centre."
+      "content": [
+        "Aadhaar holds two kinds of data. Demographic data (name, address, date of birth, gender, email, mobile) can be changed online or at a centre.",
+        "Biometric data (photograph, fingerprints, iris) can only be updated in person at an Aadhaar centre. It is never done online.",
+        "You can do a limited number of demographic updates online. After that you must visit a centre, a rule meant to prevent casual misuse of a critical ID.",
+        "Email and mobile updates need no document. Name, address, and DOB changes always need supporting proof.",
+        "Keep your linked mobile active before starting any online update. Without it, the OTP login will not work and you will be forced to visit a centre."
+      ]
     },
     {
       "type": "quick_action_grid",
@@ -280,7 +286,13 @@
       "type": "text",
       "heading": "Biometric Update: Photo, Fingerprints, Iris",
       "icon": "🧬",
-      "content": "Biometric updates happen only at an Aadhaar centre. Book a slot at appointments.uidai.gov.in or walk in, then carry your original Aadhaar; no other document is needed. The operator captures a fresh photo, all ten fingerprints, and an iris scan. The fee is ₹125 for adults. Why it matters: biometrics age. An old photo can fail facial matching, and worn fingerprints (common for farmers and labourers) can block bank and pension authentication. A biometric refresh keeps authentication working. UIDAI recommends updating documents at least once every 10 years. If your fingerprints repeatedly fail at a ration shop or bank, a biometric update usually fixes it. Carry your Aadhaar and ask the operator to recapture all ten fingers."
+      "content": [
+        "Biometric updates happen only at an Aadhaar centre. Book a slot at appointments.uidai.gov.in or walk in, then carry your original Aadhaar; no other document is needed.",
+        "The operator captures a fresh photo, all ten fingerprints, and an iris scan. The fee is ₹125 for adults.",
+        "Why it matters: biometrics age. An old photo can fail facial matching, and worn fingerprints (common for farmers and labourers) can block bank and pension authentication.",
+        "A biometric refresh keeps authentication working. UIDAI recommends updating documents at least once every 10 years.",
+        "If your fingerprints repeatedly fail at a ration shop or bank, a biometric update usually fixes it. Carry your Aadhaar and ask the operator to recapture all ten fingers."
+      ]
     },
     {
       "type": "number_highlight",
@@ -375,7 +387,12 @@
       "type": "text",
       "heading": "Address Update Without Standard Documents",
       "icon": "🏠",
-      "content": "If you have no address proof for a new home, use the Address Validation Letter service on myAadhaar. UIDAI posts a letter with a secret code to your new address. Once it arrives, you log in and enter the code to confirm you live there. The whole process takes about 15 to 30 days including postal delivery. Alternatively, the Head of Family method links you to a relative who already has the correct address. Both visit a centre together and your address updates to match theirs. Note that the Aadhaar address is not legal address proof for courts. There is no limit on how many times you can change your address, unlike DOB."
+      "content": [
+        "If you have no address proof for a new home, use the Address Validation Letter service on myAadhaar. UIDAI posts a letter with a secret code to your new address.",
+        "Once it arrives, you log in and enter the code to confirm you live there. The whole process takes about 15 to 30 days including postal delivery.",
+        "Alternatively, the Head of Family method links you to a relative who already has the correct address. Both visit a centre together and your address updates to match theirs.",
+        "Note that the Aadhaar address is not legal address proof for courts. There is no limit on how many times you can change your address, unlike DOB."
+      ]
     },
     {
       "type": "table",
@@ -449,7 +466,12 @@
       "type": "text",
       "heading": "Mandatory Biometric Updates for Children",
       "icon": "🧒",
-      "content": "A child under 5 gets Aadhaar with photo and demographics only, no fingerprints or iris. It carries a 'child' watermark and has limited use. The first mandatory biometric update (MBU) is at age 5, and the second is at age 15. Both capture fingerprints and iris as the child grows. UIDAI has waived the MBU charge for children aged 5 to 17, free till October 2026, so these updates currently cost nothing. A parent must accompany the child to the centre. Skipping these updates can make the child's Aadhaar unusable for school, banking, or SIM verification later."
+      "content": [
+        "A child under 5 gets Aadhaar with photo and demographics only, no fingerprints or iris. It carries a 'child' watermark and has limited use.",
+        "The first mandatory biometric update (MBU) is at age 5, and the second is at age 15. Both capture fingerprints and iris as the child grows.",
+        "UIDAI has waived the MBU charge for children aged 5 to 17, free till October 2026, so these updates currently cost nothing. A parent must accompany the child to the centre.",
+        "Skipping these updates can make the child's Aadhaar unusable for school, banking, or SIM verification later."
+      ]
     },
     {
       "type": "modern_callout",
@@ -537,7 +559,12 @@
       "type": "text",
       "heading": "Updating Aadhaar for Common Life Situations",
       "icon": "🔄",
-      "content": "After marriage: update your name on myAadhaar with a marriage certificate, then update PAN, passport, and bank using the new Aadhaar. Keeping your maiden name is also legally valid; a name change is not required. After relocating for work: update your address within a month using a new rent agreement or utility bill. Remember that ration card and voter registration need separate updates. Lost Aadhaar and changed mobile: visit a centre in person, where biometric verification retrieves your number without an OTP. You can update the mobile and download a fresh e-Aadhaar in one visit. For senior citizens: help elderly parents fix an outdated photo, address, or mobile at a centre. Pension and PM-JAY authentication depend on a correct, current Aadhaar."
+      "content": [
+        "After marriage: update your name on myAadhaar with a marriage certificate, then update PAN, passport, and bank using the new Aadhaar. Keeping your maiden name is also legally valid; a name change is not required.",
+        "After relocating for work: update your address within a month using a new rent agreement or utility bill. Remember that ration card and voter registration need separate updates.",
+        "Lost Aadhaar and changed mobile: visit a centre in person, where biometric verification retrieves your number without an OTP. You can update the mobile and download a fresh e-Aadhaar in one visit.",
+        "For senior citizens: help elderly parents fix an outdated photo, address, or mobile at a centre. Pension and PM-JAY authentication depend on a correct, current Aadhaar."
+      ]
     },
     {
       "type": "text",
@@ -600,7 +627,11 @@
       "type": "text",
       "heading": "Official Aadhaar Resources",
       "icon": "🔗",
-      "content": "All services live at uidai.gov.in, including the centre locator and FAQs. The myAadhaar portal (myaadhaar.uidai.gov.in) handles updates, downloads, biometric locking, VID, and authentication history. The toll-free helpline is 1947, available 24x7, and the email is help@uidai.gov.in. Aadhaar is auto-fetched in DigiLocker, so no separate upload is needed. Avoid third-party websites that charge for Aadhaar services. Every genuine update, download, and complaint is free or fixed-fee through the official UIDAI channels above."
+      "content": [
+        "All services live at uidai.gov.in, including the centre locator and FAQs. The myAadhaar portal (myaadhaar.uidai.gov.in) handles updates, downloads, biometric locking, VID, and authentication history.",
+        "The toll-free helpline is 1947, available 24x7, and the email is help@uidai.gov.in. Aadhaar is auto-fetched in DigiLocker, so no separate upload is needed.",
+        "Avoid third-party websites that charge for Aadhaar services. Every genuine update, download, and complaint is free or fixed-fee through the official UIDAI channels above."
+      ]
     },
     {
       "type": "text",
