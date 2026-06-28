@@ -1,457 +1,528 @@
 {
- "slug": "activate-uan",
- "title": "How to Activate UAN - EPF Universal Account Number 2026",
- "meta_description": "Activate your EPF UAN (Universal Account Number) online in 5 minutes. Step-by-step guide for PF balance check, withdrawal, and transfer.",
- "hero": {
- "one_liner": "Your UAN (Universal Account Number) is the master key to all EPF services - activate it in 5 minutes to check balance, withdraw PF, and transfer funds",
- "icon": "🔑",
- "updated_date": "May 2026",
- "tags": [
- "EPF",
- "PF",
- "Finance"
- ],
- "read_time": "6 min",
- "stats": [
- {
- "label": "Activation Time",
- "value": "5 minutes"
- },
- {
- "label": "Portal",
- "value": "epfindia.gov.in"
- },
- {
- "label": "Requirements",
- "value": "UAN + Aadhaar"
- },
- {
- "label": "Cost",
- "value": "Free"
- }
- ]
- },
- "sections": [
- {
- "heading": "What is UAN and Why You Need It",
- "icon": "📋",
- "type": "text",
- "content": [
- "UAN stands for Universal <a href=\"/guide/link-aadhaar-bank\" style=\"text-decoration:underline;color:inherit\">Account</a> Number - a 12-digit unique ID issued by the EPFO (Employees' Provident Fund Organization) to every employee covered under EPF. Your UAN links all your EPF accounts across different employers and jobs into one portal account.",
- "Without UAN activation, you cannot: (1) <a href=\"/guide/check-epf-balance\" style=\"text-decoration:underline;color:inherit\">Check</a> your PF balance online, (2) Download your PF passbook, (3) Apply for PF withdrawal (partial or full), (4) Transfer PF from one employer to another, (5) Apply for pension, (6) Use EPFO's UMANG mobile app.",
- "Once activated, your UAN becomes your single login credential for all EPFO online services. Even if you change 10 jobs in your lifetime, the same UAN follows you - all employer contributions merge into your one <a href=\"/paisa/demat-account-guide\" style=\"text-decoration:underline;color:inherit\">account</a>.",
- "This makes PF management simple.",
- "Your UAN is printed on: Salary slip (check 'UAN' field), PF passbook (issued by your company), EPF certificate issued by your company HR. If you don't have any of these, ask your HR department or visit your nearest EPFO office."
- ]
- },
- {
- "heading": "",
- "type": "svg_block",
- "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">UAN Activation unlock your EPF online se</text><rect x=\"50\" y=\"50\" width=\"190\" height=\"75\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"145\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#145236\">Step 1</text><text x=\"145\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">Get UAN employer</text><rect x=\"260\" y=\"50\" width=\"190\" height=\"75\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"355\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1E40AF\">Step 2</text><text x=\"355\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">Activate at unifiedp</text><rect x=\"470\" y=\"50\" width=\"190\" height=\"75\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"565\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#C2410C\">Step 3</text><text x=\"565\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#C2410C\">Link Aadhaar + KYC</text></svg>",
- "caption": "Your UAN (Universal Account Number) is your permanent EPF identity. Activate it once - it stays with you across all jobs for life. Check balance, withdraw PF, and transfer PF online after activation."
- },
- {
- "heading": "How to Find Your UAN Number",
- "icon": "🔍",
- "type": "steps",
- "steps": [
- {
- "step": 1,
- "title": "Check your salary slip",
- "description": "Your payroll department issues a salary slip monthly (or quarterly in some cases). Open your latest slip in PDF or hardcopy. Look for a field labeled 'UAN' or 'Universal Account Number' - usually in the top section of the slip. It's a 12-digit number starting with letters (e.g., DL/092/03456789). Write it down."
- },
- {
- "step": 2,
- "title": "Ask your HR/Payroll team",
- "description": "If salary slip doesn't show UAN, email your HR or payroll department saying 'Can you provide my UAN number for EPFO login?' Most HR teams respond within 1 day. Your UAN is recorded in your company's EPFO registration, so they can instantly provide it."
- },
- {
- "step": 3,
- "title": "Use the EPFO 'Know Your UAN' service",
- "description": "Visit <a href='https://www.epfindia.gov.in' target='_blank'>epfindia.gov.in</a>. Scroll to bottom → click 'Know Your UAN'. Enter: (1) Your company's EPFO Establishment Code (ask HR), (2) Your date of birth, (3) Your full name as per Aadhaar. The portal will display your UAN if you're registered in the system."
- }
- ]
- },
- {
- "heading": "Step-by-Step UAN Activation Process",
- "icon": "📱",
- "type": "steps",
- "steps": [
- {
- "step": 1,
- "title": "Visit the EPFO portal: unifiedportal-mem.epfindia.gov.in",
- "description": "Open a web browser and go to <a href='https://unifiedportal-mem.epfindia.gov.in' target='_blank'>unifiedportal-mem.epfindia.gov.in</a>. You'll see the login page. On the left side, there's a button 'Activate UAN' or 'New Registration'. Click it."
- },
- {
- "step": 2,
- "title": "Enter your UAN and Aadhaar details",
- "description": "Fill the form with: (1) UAN (12-digit number), (2) Aadhaar number (12 digits), (3) Your full name EXACTLY as it appears on your Aadhaar (spelling, spaces, hyphens must match), (4) Date of birth (DD/MM/YYYY format), (5) Mobile number registered with Aadhaar, (6) Email address (can be any active email)."
- },
- {
- "step": 3,
- "title": "Verify with Aadhaar OTP",
- "description": "Click 'Next' or 'Submit'. An OTP (one-time password) is sent to your Aadhaar-registered mobile number. The OTP comes via SMS - read it and enter it in the box on the portal within 10 minutes. If the OTP doesn't arrive: (a) Check your phone's SMS, (b) Your mobile may not be linked with Aadhaar - update it at aadhar.uidai.gov.in first, (c) Wait 5 minutes and request OTP again."
- },
- {
- "step": 4,
- "title": "Create your password and activate UAN",
- "description": "After OTP verification, you'll be asked to set a password. Password must be 8+ characters with: (1) At least 1 uppercase letter (A-Z), (2) At least 1 lowercase letter (a-z), (3) At least 1 number (0-9), (4) At least 1 special character (!@#$%^&*). Example: 'Epf@1234MyPass'. Enter this password, confirm it, and click 'Activate'. Within seconds, you'll see 'UAN Successfully Activated' message."
- },
- {
- "step": 5,
- "title": "Login to your EPFO account",
- "description": "You're immediately logged in. You'll see your dashboard with: member name, UAN, current establishment (company), and options like 'View Passbook', 'Apply for Withdrawal', etc. Bookmark this page or save the login details for future access. Your UAN is now fully activated."
- }
- ]
- },
- {
- "heading": "Troubleshooting: Why Activation Might Fail",
- "icon": "⚠️",
- "type": "table",
- "columns": [
- "Problem",
- "Reason",
- "Solution"
- ],
- "rows": [
- [
- "UAN not found in system",
- "Your employer hasn't uploaded your UAN to EPFO portal yet, or UAN number is wrong",
- "Double-check UAN from salary slip. Ask HR if they've filed your Establishment Registration. If yes, wait 3-5 days and try again."
- ],
- [
- "Name mismatch error",
- "Your name on Aadhaar and in EPFO database are different (spelling, spaces, etc.)",
- "Correct your name on Aadhaar first (aadhar.uidai.gov.in, ₹50 fee, 10-30 days). Or ask HR to update name in EPFO system and try again."
- ],
- [
- "Mobile not registered with Aadhaar",
- "You received no OTP on your phone",
- "Update your mobile number on Aadhaar at aadhar.uidai.gov.in or any UIDAI center. Takes 30 minutes. Then retry activation."
- ],
- [
- "Date of birth mismatch",
- "DOB on Aadhaar and EPFO system don't match",
- "Confirm DOB - if wrong on Aadhaar, correct it. If wrong in EPFO, ask HR to correct it via Establishment Portal."
- ],
- [
- "Forgot password after activation",
- "You can't login to your activated account",
- "Go to <a href='https://unifiedportal-mem.epfindia.gov.in' target='_blank'>unifiedportal-mem.epfindia.gov.in</a> → 'Forgot Password' → Enter UAN → OTP on mobile → set new password. Process takes 2 minutes."
- ],
- [
- "Old account already exists",
- "You're trying to activate same UAN twice",
- "Your UAN is already activated (probably from a previous job change). Just login with UAN + password. If you forgot password, use 'Forgot Password' option."
- ]
- ]
- },
- {
- "heading": "What to Do After Activation",
- "icon": "✅",
- "type": "text",
- "content": [
- "<h3>Immediately after activation:</h3>",
- "1. Check your PF balance: Login → click 'View Passbook' → see your current PF balance, monthly contributions from your current and previous employers, and interest earned.",
- "2. Download your PF passbook: Click 'View Passbook' → scroll down → 'Download Passbook as PDF'. Save it - useful for loans, background checks, and record-keeping.",
- "3. Update your bank account (if applying for withdrawal): Go to 'Profile' → update your bank account details (IFSC, account number). Withdrawals are credited to this bank account only.",
- "<h3>If you changed jobs recently:</h3>",
- "Check if your old employer's PF has been transferred to your new UAN. Go to 'Online Services' → 'Transfer History'.",
- "If transfer is pending, your new employer should have received Form 11 (transfer request) from your old employer. This process takes 15-30 days.",
- "<h3>If you haven't worked in EPFO sector:</h3>",
- "If you have a UAN but never worked for an EPFO-registered company, your account will be 'inactive' with zero balance. Once you join any EPFO company, it becomes active and you start contributing."
- ]
- },
- {
- "heading": "FAQs About UAN and Activation",
- "icon": "💬",
- "type": "text",
- "content": [
- "Q: Do I need to activate UAN for each job change? No. One UAN for life.",
- "When you change jobs, inform your new employer of your UAN. They'll add their contributions to your existing account.",
- "Old employer's balance automatically merges.",
- "Q: My employer says I don't have UAN. What should I do? By law, every employer registered with EPFO must give all employees a UAN within 10 days of hiring.",
- "This is non-negotiable. Ask HR in writing to provide UAN, or contact your nearest EPFO office.",
- "EPFO can penalize the employer for non-compliance.",
- "Q: Can I reset my UAN password from mobile app? Yes. Download UMANG app or EPFO's official mobile app → 'Forgot Password' → UAN → OTP → reset.",
- "Alternatively, use web portal.",
- "Q: What if my UAN is under another state's EPFO office? UAN doesn't depend on current state. If your first job was in Delhi, your UAN is under Delhi EPFO.",
- "Even if you later move to Mumbai, same UAN works across all EPFO offices. It's national.",
- "Q: Is activation free? Yes, 100% free. EPFO provides all services free.",
- "Beware of agents/consultants claiming to do activation for ₹500-1000 - you can do it yourself in 5 minutes for free.",
- "Q: What if I worked for multiple companies? Do I have multiple UANs? You should have only ONE UAN for all jobs.",
- "However, if you were issued a second UAN by mistake, inform EPFO to merge them. Contact the nearest EPFO office or file RTI asking to consolidate your accounts."
- ]
- },
- {
- "type": "svg_block",
- "heading": "Visual: How to Activate UAN Key Numbers",
- "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">5 minutes</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Activation Time</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">epfindia.gov.in</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Portal</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">UAN + Aadhaar</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Requirements</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">Free</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Cost</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
- "caption": "Key numbers for How to Activate UAN - EPF Univ",
- "description": "Quick overview of the most important numbers and facts."
- },
- {
- "heading": "External Links & Resources",
- "icon": "🔗",
- "type": "text",
- "content": [
- "<h3>EPFO Official Portals:</h3>",
- "<a href='https://unifiedportal-mem.epfindia.gov.in' target='_blank'>EPFO Member Portal (unifiedportal-mem.epfindia.gov.in)</a> - Login/activation, view balance, apply for withdrawal.",
- "<a href='https://www.epfindia.gov.in' target='_blank'>EPFO Homepage (epfindia.gov.in)</a> - General information, office locations, FAQs.",
- "<h3>Mobile Apps:</h3>",
- "<a href='https://umang.gov.in' target='_blank'>UMANG App</a> - Download from Google Play or App Store. View PF balance, passbook, and apply for withdrawal from your phone.",
- "<h3>Contact EPFO:</h3>",
- "Toll-free helpline: 1800-180-5947 (Monday-Friday, 10 AM - 5 PM).",
- "Email: grievance@epfo.gov.in.",
- "Nearest EPFO office: Find at <a href='https://www.epfindia.gov.in' target='_blank'>epfindia.gov.in → Office Locator</a>."
- ]
- },
- {
- "type": "svg_block",
- "heading": "Quick Facts",
- "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Quick Facts</text><rect x=\"17\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"94\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">5 minutes</text><text x=\"94\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Activation Time</text><rect x=\"187\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"264\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">epfindia.gov.in</text><text x=\"264\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Portal</text><rect x=\"357\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"434\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#92400E\">UAN + Aadhaar</text><text x=\"434\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Requirements</text><rect x=\"527\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"604\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">Free</text><text x=\"604\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Cost</text></svg>",
- "caption": "Quick reference facts",
- "description": "Key facts and numbers at a glance"
- },
- {
- "type": "text",
- "heading": "What is UAN and why you need to activate it",
- "icon": "📋",
- "content": [
- "UAN (Universal Account Number) is a 12-digit permanent number assigned to every EPF (Employees Provident Fund) member. Unlike your Member ID (which changes with each employer), your UAN stays the same throughout your career - whether you work at 1 company or 10.",
- "It's your single identity in the EPFO system that links all your PF accounts across different employers.",
- "Without an activated UAN, you can't: check your EPF balance online, transfer PF from old employer to new employer, file online PF <a href=\"/paisa/epf-withdrawal\" style=\"text-decoration:underline;color:inherit\">withdrawal</a>/advance claims, download your PF passbook, or update your KYC details. Essentially, an inactive UAN locks you out of all EPFO online services - forcing you to visit the EPFO office physically for every single transaction.",
- "Every salaried employee whose company deducts EPF has a UAN - your employer generates it when you join. But the UAN must be ACTIVATED by you at unifiedportal-mem.epfindia.gov.in before you can use EPFO's online services. Activation takes 5 minutes and is a one-time process."
- ]
- },
- {
- "type": "text",
- "heading": "How to activate UAN - step by step",
- "icon": "📝",
- "content": [
- "Step 1: Get your UAN number. Check your salary slip - UAN is printed on it. If not on the salary slip, ask your HR department. You can also find it on the EPFO portal: visit unifiedportal-mem.epfindia.gov.in → 'Know Your UAN' → enter your Member ID or Aadhaar or PAN → your UAN is displayed.",
- "Step 2: Visit unifiedportal-mem.epfindia.gov.in → Click 'Activate UAN.' Enter your UAN, Aadhaar number, date of birth, mobile number (registered with Aadhaar), and CAPTCHA. Click 'Get Authorization Pin.' An OTP is sent to your Aadhaar-registered mobile number.",
- "Step 3: Enter the OTP. Set a password for your EPFO account (minimum 8 characters with uppercase, lowercase, number, and special character). Confirm the password. Click 'Validate.' Your UAN is now ACTIVATED.",
- "Step 4: Log in at unifiedportal-mem.epfindia.gov.in with your UAN and newly created password. Complete KYC: link Aadhaar (mandatory), PAN, and bank account.",
- "KYC approval takes 2-7 days (your employer must approve the KYC from their portal). After KYC approval, all online services - balance check, transfer, withdrawal, passbook download - are unlocked."
- ]
- },
- {
- "type": "text",
- "heading": "What you can do after UAN activation",
- "icon": "🔓",
- "content": [
- "Check EPF balance: Log in → 'Passbook' → view monthly contributions (employee + employer), interest credited, and total balance. You can also check via SMS: send EPFOHO UAN ENG to 7738299899 from your registered mobile.",
- "Or give a missed call to 011-22901406 from your registered number - balance is sent via SMS.",
- "Transfer PF when changing jobs: Log in → 'Online Services' → 'One Member – One EPF Account (Transfer Request).' Select your previous employer's PF account and current employer. Submit the transfer request online - no paper forms, no employer visit.",
- "Transfer is processed within 15-20 days. This is the most valuable UAN feature - without it, transferring PF required visiting EPFO offices and waiting 2-3 months.",
- "Withdraw PF: Log in → 'Online Services' → 'Claim (Form-31, 19, 10C).' Select withdrawal type: Form 31 (advance/partial withdrawal for medical, housing, education, marriage), Form 19 (full settlement after leaving employment for 2+ months), or Form 10C (pension withdrawal). Online claims are processed within 10-20 days - much faster than the 30-60 day offline process.",
- "Download UAN card and passbook: Log in → 'Download' → select 'UAN Card' or 'Passbook.' The UAN card shows your UAN, name, DOB, and Aadhaar-linked photo - serves as EPF identity proof. The passbook is a month-by-month record of all PF contributions and interest - useful for loan applications and financial planning."
- ]
- },
- {
- "type": "text",
- "heading": "Common UAN activation problems and fixes",
- "icon": "🔧",
- "content": [
- "Problem: Mobile number mismatch - OTP not received. Your activation mobile must match the number linked to your Aadhaar.",
- "If you changed your mobile after getting Aadhaar, update your Aadhaar mobile first at myaadhaar.uidai.gov.in or visit an Aadhaar enrollment center. After Aadhaar mobile update (takes 7-15 days), retry UAN activation.",
- "Problem: Aadhaar not matching - name/DOB discrepancy. Your name and DOB in the EPFO system (as entered by your employer) must match your Aadhaar.",
- "Common issues: employer entered 'R Kumar' but Aadhaar says 'Rajesh Kumar,' or DOB differs by a day. Fix: ask your employer to update your name/DOB in the EPFO portal to match Aadhaar exactly.",
- "After employer update, retry activation.",
- "Problem: UAN already activated (by a previous employer). If you had a UAN at a previous job and forgot the password, use 'Forgot Password' at the login page. Enter UAN + Aadhaar/mobile → reset password via OTP. You don't need to create a new UAN - your old UAN carries forward to every new job.",
- "Problem: Multiple UANs generated by different employers. This happens when a new employer generates a fresh UAN instead of using your existing one.",
- "Fix: log in with your primary UAN → 'One Member – One EPF Account' → link the secondary UAN's PF account to your primary UAN. Alternatively, request your current employer's HR to merge the UANs.",
- "Having multiple UANs splits your PF balance across accounts - merge them."
- ]
- },
- {
- "type": "text",
- "heading": "UAN KYC - linking Aadhaar, PAN, and bank account",
- "icon": "🔗",
- "content": [
- "Why KYC is mandatory: Without approved KYC (Aadhaar + PAN + bank account linked to UAN), you cannot file online claims - no withdrawal, no transfer, no advance. The EPFO system rejects all online transactions from accounts without complete KYC.",
- "This is the most common reason employees can't withdraw PF - not technical issues, but missing KYC.",
- "How to complete KYC: Log in at unifiedportal-mem.epfindia.gov.in → 'Manage' → 'KYC.' Enter Aadhaar number (12 digits), PAN number (10 characters), and bank account details (IFSC + account number). Submit.",
- "Your employer must approve the KYC from their EPFO employer portal. After employer approval, EPFO verifies the details against Aadhaar/PAN databases.",
- "Total processing: 2-7 days.",
- "Bank account linking: The bank account linked to UAN is where PF withdrawals and transfers are credited. Ensure it's YOUR personal savings account (not joint, not salary account that may close when you leave the job).",
- "If you change banks, update the bank details in KYC before filing any withdrawal claim.",
- "KYC rejected? Common reasons: Aadhaar name doesn't match EPFO records (fix name in either system), PAN not matching (verify PAN details at incometax.gov.in), bank account number incorrect (re-enter carefully - one wrong digit means the money goes nowhere).",
- "After fixing the issue, resubmit KYC. If employer doesn't approve within 7 days, escalate to HR and ask them to log in to the employer portal."
- ]
- },
- {
- "type": "callout",
- "variant": "tip",
- "heading": "Activate UAN on your first day at a new job",
- "content": "Don't wait 6 months or until you need to withdraw PF. Activate your UAN and complete KYC within the first week of joining a new job. This ensures all online services are ready when you need them. Many employees discover their UAN is inactive only when they try to withdraw PF after leaving - causing 2-3 week delays. 5 minutes of activation now saves weeks of frustration later."
- },
- {
- "type": "svg_block",
- "heading": "Visual: Process Steps",
- "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><defs><marker id=\"af\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><polygon points=\"0 0, 10 3, 0 6\" fill=\"#1E40AF\"/></marker></defs><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Process Steps</text><rect x=\"25\" y=\"45\" width=\"190\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"120\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Check your salary </text><line x1=\"215\" y1=\"65\" x2=\"240\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"250\" y=\"45\" width=\"190\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"345\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Ask your HR/Payrol</text><line x1=\"440\" y1=\"65\" x2=\"465\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"475\" y=\"45\" width=\"190\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"570\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Use the EPFO 'Know</text></svg>",
- "caption": "Steps to follow",
- "description": "Visual guide to the process."
- },
- {
- "type": "callout",
- "variant": "warning",
- "heading": "Don't share your UAN password with HR or anyone",
- "content": "Your UAN password gives full access to your EPF account - balance, withdrawal, transfer. Never share it with your employer's HR, payroll team, or any 'PF consultant.' They don't need your password for any legitimate purpose. If anyone asks for your UAN password, it's a scam or unauthorized request. Change your password immediately if compromised."
- },
- {
- "type": "pullquote",
- "text": "6.5 crore active EPF members. Over 50% haven't activated their UAN - meaning they can't check their PF balance, can't transfer PF when switching jobs, and can't file withdrawal claims online. Activation takes 5 minutes at unifiedportal-mem.epfindia.gov.in. Those 5 minutes unlock your entire EPF savings - potentially Rs 5-50 lakh accumulated over your career."
- },
- {
- "type": "text",
- "heading": "EPF withdrawal after UAN activation - when and how",
- "icon": "💰",
- "content": [
- "Full PF withdrawal (Form 19): Allowed only after leaving employment for 2+ months (60 days of unemployment). File online at unifiedportal → Online Services → Claim → Form 19.",
- "The full PF balance (employee + employer contribution + interest) is credited to your linked bank account within 10-20 days. You must have completed KYC (Aadhaar + PAN + bank linked) before filing.",
- "Partial withdrawal/advance (Form 31): Allowed for specific purposes WITHOUT leaving employment - medical emergency (any amount), house purchase/construction (up to 36 months' basic wages + DA), home loan repayment (up to 36 months' wages), marriage (up to 50% of employee share), and education (up to 50% of employee share). Each purpose has specific eligibility conditions - check at epfindia.gov.in → FAQs → Withdrawal.",
- "COVID advance (special provision): During COVID-19, EPFO allowed non-refundable advance of 75% of PF balance or 3 months' basic wages (whichever is lower). While this was a COVID-specific provision, similar emergency withdrawal provisions may be activated during future pandemics or national emergencies.",
- "Keep your UAN activated and KYC updated to access such provisions instantly.",
- "Tax on PF withdrawal: If you withdraw before completing 5 years of continuous service, TDS at 10% is deducted (if PF balance exceeds Rs 50,000). If you've completed 5 years, withdrawal is completely tax-free.",
- "Continuous service includes periods across different employers if you transferred PF (didn't withdraw and restart). This is another reason to TRANSFER PF when changing jobs rather than withdrawing - it preserves your 5-year tax-free eligibility."
- ]
- },
- {
- "type": "text",
- "heading": "UAN for gig workers and contract employees",
- "icon": "👷",
- "content": [
- "Contract employees: If your employer has 20+ employees and you're on a contract/temporary basis, the employer is legally required to register you for EPF and generate a UAN. Many contract employers skip this obligation.",
- "If your employer deducts PF from your salary but you don't have a UAN, demand one in writing. File a complaint at epfigms.gov.in if the employer doesn't comply.",
- "Gig workers (Swiggy, Zomato, Uber, Ola): Currently, gig platform workers are NOT covered under EPF (they're classified as 'partners,' not 'employees'). The Code on Social Security 2020 recognizes gig workers and proposes extending EPF-like benefits, but implementation is pending.",
- "Gig workers should register on e-Shram (eshram.gov.in) for basic social security and consider voluntary EPF contribution through the EPFO portal.",
- "Voluntary PF contribution: Self-employed individuals and informal workers can open a Voluntary Provident Fund (VPF) account through EPFO. Contribute any amount above the mandatory PF - the interest rate (8.25%) is the same as regular EPF.",
- "VPF contributions qualify for 80C deduction. This is an excellent option for freelancers and gig workers who want the safety of PF returns without formal employment.",
- "Official portals: EPFO member portal - unifiedportal-mem.epfindia.gov.in. EPFO grievance - epfigms.gov.in. EPF balance check - give missed call to 011-22901406. EPFO helpline - 1800-118-005 (toll-free). UMANG app - download from Play Store/App Store for EPF services on mobile."
- ]
- },
- {
- "type": "text",
- "heading": "PF interest rate and how it's calculated",
- "icon": "📊",
- "content": [
- "EPF currently pays 8.25% annual interest - one of the highest risk-free returns available in India. The rate is set annually by the EPFO Central Board of Trustees and approved by the Finance Ministry. Historical rates: 8.5% (2020-21), 8.1% (2021-22), 8.15% (2022-23), 8.25% (2023-24 onwards). The rate has never gone below 8% in the last 15 years - making EPF a remarkably consistent investment.",
- "Interest calculation: Interest is calculated monthly on the running balance (opening balance + monthly contributions) but credited annually on March 31. The monthly calculation means your January contribution earns interest for 3 months in that financial year, while your March contribution earns interest for 1 month. Early-year contributions earn more interest than late-year ones.",
- "Tax on EPF interest: Interest on EPF contributions up to Rs 2.5 lakh/year is tax-free. Interest on contributions ABOVE Rs 2.5 lakh/year (from April 2021 onwards) is taxable. For most employees contributing 12% of basic salary, the Rs 2.5 lakh threshold is crossed only when basic salary exceeds Rs 20,800/month. If your basic salary is below this, your entire EPF interest is tax-free.",
- "Compounding power: Rs 5,000/month EPF contribution (employee + employer combined) for 30 years at 8.25% grows to approximately Rs 78 lakh - of which Rs 60 lakh is tax-free interest. This Rs 78 lakh from EPF alone, combined with PPF (Rs 40 lakh at maturity) and NPS (market-linked growth), creates a comfortable retirement corpus without any active investment management."
- ]
- },
- {
- "type": "callout",
- "heading": "Official Sources & References",
- "icon": "📖",
- "variant": "info",
- "content": "Source: EPFO (Employees' Provident Fund Organisation), Ministry of Labour. All information on this page has been verified against official government notifications and regulatory circulars. For the latest updates, always check the official portal."
- },
- {
- "type": "svg_block",
- "heading": "UAN Activation Steps",
- "icon": "🔑",
- "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">UAN Activation Process</text><rect x=\"20\" y=\"45\" width=\"130\" height=\"40\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"85\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#1B6B4A\">Visit EPFO portal</text><rect x=\"165\" y=\"45\" width=\"130\" height=\"40\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"230\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#1E40AF\">Enter UAN Aadhaar</text><rect x=\"310\" y=\"45\" width=\"130\" height=\"40\" rx=\"8\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"375\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#92400E\">Verify OTP</text><rect x=\"455\" y=\"45\" width=\"130\" height=\"40\" rx=\"8\" fill=\"#F3E8FF\" stroke=\"#7C3AED\" stroke-width=\"2\"/><text x=\"520\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#5B21B6\">Set password</text><text x=\"600\" y=\"65\" font-family=\"sans-serif\" font-size=\"14\" fill=\"#1B6B4A\">✓</text></svg>",
- "caption": "Entire activation takes under 5 minutes with Aadhaar-linked mobile",
- "description": "Your UAN stays the same even when you change employers."
- }
- ],
- "faqs": [
- {
- "question": "I forgot my UAN password. How to reset without visiting office?",
- "answer": "Visit unifiedportal-mem.epfindia.gov.in → click 'Forgot Password' → Enter your 12-digit UAN → Click 'Send OTP' → OTP sent to your Aadhaar-registered mobile → Enter OTP → Set a new password (8+ chars, upper, lower, number, special char) → Done. You can reset password online within 2 minutes. No office visit needed."
- },
- {
- "question": "My company says I don't have UAN and won't provide it. What's my recourse?",
- "answer": "By law under the EPF Act, every employer registered with EPFO must issue UAN to all employees within 10 days of hiring. If your employer is refusing or delaying: (1) Email HR in writing asking for UAN, (2) If ignored, complain to the nearest EPFO office with appointment letter and salary slips as proof. (3) File a complaint at epfigms.gov.in. EPFO can levy a fine on the employer. Many startups and small companies ignore this - be firm and escalate."
- },
- {
- "question": "I have an old employer's UAN from 5 years ago. Can I use it with my new employer?",
- "answer": "Yes, use the old UAN! When you join a new EPFO company, inform your new HR about your old UAN. They'll register your employment under the same UAN. Your new employer's contribution will be added to your old balance, creating one consolidated account. PF is NOT lost - it all merges under one UAN. This is the entire point of the UAN system."
- },
- {
- "question": "What's the difference between UAN activation and EPFO membership?",
- "answer": "EPFO membership is created the moment your employer registers your details with EPFO (automatic, your employer does it). UAN activation is when YOU personally access the EPFO portal with your UAN and password to check balance, apply for withdrawal, etc. Membership is passive (your employer manages it), activation is active (you access services)."
- },
- {
- "question": "Can I activate UAN without Aadhaar?",
- "answer": "No, Aadhaar is mandatory for UAN activation as of 2024. EPFO requires Aadhaar for verification and OTP-based authentication. If you don't have Aadhaar, get it first (aadhar.uidai.gov.in or UIDAI center). Process takes 30 minutes. Once you have Aadhaar linked to your mobile, UAN activation takes 5 minutes."
- },
- {
- "question": "After activation, can I check my spouse's or child's PF balance using my login?",
- "answer": "No, each person's UAN is private. Your UAN is only for you. Your spouse and children have their own UANs (if they're employees under EPFO). Each person must activate and login with their own UAN and password. EPFO doesn't allow account linking between family members."
- },
- {
- "question": "I activated UAN but passbook shows zero balance. Is my PF lost?",
- "answer": "No, PF is not lost. Possible reasons: (1) You recently joined and employer hasn't credited first month's contribution yet. (2) This is your first UAN activation and old employer's PF hasn't transferred yet. (3) You were in probation and hadn't contributed to EPF yet. Check 'View Passbook' → see month-wise contributions. If no contributions for months you worked, complain to HR or EPFO. PF is credited monthly by law."
- },
- {
- "question": "Can I have two active UANs?",
- "answer": "No, you should have only one UAN. If you were mistakenly issued two UANs (from two different employers who didn't realize you already had one), contact EPFO to consolidate them. File a request at nearest EPFO office with proof of both UANs. They'll merge both accounts into one UAN, and you'll get the full balance."
- },
- {
- "question": "How to check EPF balance without activating UAN?",
- "answer": "Give a missed call to 011-22901406 from your UAN-registered mobile - balance is sent via SMS (works without portal activation but requires mobile number registered with EPFO). Or send SMS: EPFOHO UAN ENG to 7738299899. For detailed passbook with monthly breakdown, you need portal activation - the SMS methods show only total balance."
- },
- {
- "question": "Can I activate UAN without employer?",
- "answer": "Partial activation is possible using Aadhaar-based OTP. But KYC approval requires employer action from their portal. If you've left the company and KYC is pending, contact your previous employer's HR to approve pending KYC. If the employer is non-responsive, visit your jurisdictional EPFO office with UAN, Aadhaar, and a written request for manual KYC approval."
- },
- {
- "question": "What if I forgot my UAN number?",
- "answer": "Visit unifiedportal-mem.epfindia.gov.in → 'Know Your UAN.' Enter any ONE: Member ID (from salary slip), Aadhaar number, or PAN number. The portal displays your UAN. You can also check your salary slip (UAN is printed on most payslips) or ask your current/previous employer's HR department."
- },
- {
- "question": "Is UAN same as PF number?",
- "answer": "No. PF number (Member ID) changes with every employer - format: REGION/ESTABLISHMENT/ACCOUNT (e.g., DL/DLN/12345). UAN is permanent - 12-digit number that stays same across all jobs. One UAN can have multiple PF numbers (one from each employer). UAN links all your PF accounts into one identity."
- }
- ],
- "disclaimer": "This guide is based on EPFO procedures as of March 2026. EPFO processes, portal features, and requirements may change. Always verify current information from epfindia.gov.in or your EPFO office.",
- "related_pages": [
- {
- "title": "How to Check EPF Balance - 4 Easy Methods",
- "slug": "check-epf-balance",
- "tag": "EPF",
- "url": "/guide/check-epf-balance"
- },
- {
- "title": "EPF Withdrawal Guide - Full and Partial",
- "slug": "epf-withdrawal",
- "tag": "EPF",
- "url": "/paisa/epf-withdrawal"
- },
- {
- "title": "Gratuity Calculation & Claim Process",
- "slug": "gratuity-guide",
- "tag": "Finance",
- "url": "/paisa/gratuity-guide"
- },
- {
- "title": "NPS vs EPF vs PPF Comparison",
- "slug": "nps-vs-epf-vs-ppf",
- "tag": "Investments",
- "url": "/compare/nps-vs-epf-vs-ppf"
- }
- ],
- "tags": [
- "UAN",
- "EPF",
- "PF Balance",
- "EPFO",
- "Activation",
- "Employee Benefits"
- ],
- "image_suggestions": [
- "Screenshot of EPFO portal homepage with Activate UAN button",
- "Step-by-step activation form with field labels highlighted",
- "UAN example showing 12-digit format and where it appears on salary slip",
- "UMANG mobile app interface showing PF balance",
- "Sample PF passbook downloaded from portal",
- "Error messages and troubleshooting screenshots",
- "Mobile phone with OTP screen during activation process"
- ],
- "last_reviewed": "May 2026"
+  "slug": "activate-uan",
+  "title": "How to Activate UAN 2026: EPF Face Auth, KYC, Balance",
+  "meta_description": "Activate your EPF UAN (Universal Account Number) online in 5 minutes. Step-by-step guide for PF balance check, withdrawal, and transfer.",
+  "hero": {
+    "one_liner": "Your UAN (Universal Account Number) is the master key to all EPF services - activate it in 5 minutes to check balance, withdraw PF, and transfer funds",
+    "icon": "\ud83d\udd11",
+    "updated_date": "June 2026",
+    "tags": [
+      "EPF",
+      "PF",
+      "Finance"
+    ],
+    "read_time": "6 min",
+    "stats": [
+      {
+        "label": "Activation Time",
+        "value": "5 minutes"
+      },
+      {
+        "label": "Portal",
+        "value": "epfindia.gov.in"
+      },
+      {
+        "label": "Requirements",
+        "value": "UAN + Aadhaar"
+      },
+      {
+        "label": "Cost",
+        "value": "Free"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "heading": "What a UAN Is and Why You Activate It",
+      "icon": "\ud83d\udd11",
+      "content": [
+        "UAN stands for Universal Account Number, a 12-digit permanent ID issued by EPFO to every EPF member. Unlike your Member ID, which changes with each job, the UAN stays the same for life.",
+        "It is your single login for all EPFO online services, and it links every PF account across all your employers. Even if you change ten jobs, the same UAN follows you.",
+        "Without an activated UAN you cannot check your PF balance online, transfer PF between jobs, or file a withdrawal claim. Your employer generates the UAN when you join, but you must activate it yourself.",
+        "The UAN system replaced the old paper-based transfer process, where moving PF between jobs meant office visits and months of waiting.",
+        "Now the same number carries your entire PF history, so management stays simple no matter how often you switch employers.",
+        "By law, every employer registered with EPFO must allot a UAN to a new employee within a few days of joining. If yours has not, that is a compliance failure you can raise.",
+        "A UAN that was generated but never linked to an active job simply stays dormant with a zero balance until you join an EPFO-covered employer."
+      ]
+    },
+    {
+      "type": "stat_grid",
+      "heading": "UAN Activation: Key Numbers",
+      "icon": "\ud83d\udcca",
+      "items": [
+        {
+          "icon": "file",
+          "value": "12-Digit",
+          "label": "Permanent Number",
+          "color": "green"
+        },
+        {
+          "icon": "check",
+          "value": "Free",
+          "label": "100% Free to Activate",
+          "color": "blue"
+        },
+        {
+          "icon": "calendar",
+          "value": "5 Min",
+          "label": "Takes Under 5 Minutes",
+          "color": "amber"
+        },
+        {
+          "icon": "trending",
+          "value": "8.25%",
+          "label": "EPF Interest 2025-26",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "info",
+      "icon": "info",
+      "title": "New: UAN Activation Now Uses Aadhaar Face Authentication",
+      "content": "Since 1 August 2025, EPFO activates new UANs through Aadhaar-based Face Authentication on the UMANG app, not the old OTP form. This cuts fraud and works even if your Aadhaar mobile is not handy.<br><br>The older portal and OTP method still works for many members, so this guide covers both. Use the UMANG face-auth route if the portal OTP fails."
+    },
+    {
+      "type": "text",
+      "heading": "Where to Find Your UAN Number",
+      "icon": "\ud83d\udd0d",
+      "content": [
+        "Your UAN is printed on your salary slip in the UAN field, and on the PF passbook your company issues. It is also on the EPF certificate from your HR.",
+        "If you cannot find it, ask your HR or payroll team, since by law they must give you a UAN within days of joining. You can also use the Know Your UAN service on the EPFO portal.",
+        "If your first job was in one state and you later move, the UAN does not change, since it is national and works across all EPFO offices.",
+        "Keep your UAN noted somewhere safe, because you will need it for every balance check, transfer, and withdrawal for the rest of your working life."
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "What to Keep Ready Before You Start",
+      "items": [
+        {
+          "icon": "file",
+          "title": "Your 12-digit UAN",
+          "sub": "From the salary slip, PF passbook, or HR."
+        },
+        {
+          "icon": "shield",
+          "title": "Aadhaar number",
+          "sub": "With the linked mobile active for verification."
+        },
+        {
+          "icon": "wallet",
+          "title": "Bank account and PAN",
+          "sub": "Needed right after, for KYC and withdrawals."
+        },
+        {
+          "icon": "search",
+          "title": "UMANG or the portal",
+          "sub": "The official app or unifiedportal-mem.epfindia.gov.in."
+        }
+      ]
+    },
+    {
+      "type": "process_flow",
+      "heading": "Activate UAN via UMANG Face Authentication",
+      "steps": [
+        {
+          "icon": "file",
+          "title": "Install UMANG",
+          "desc": "Download the UMANG app and register with your Aadhaar-linked mobile number."
+        },
+        {
+          "icon": "search",
+          "title": "Open UAN service",
+          "desc": "Search EPFO, then choose UAN Activation through Face Auth."
+        },
+        {
+          "icon": "shield",
+          "title": "Face scan",
+          "desc": "Enter your UAN and Aadhaar, then complete the Aadhaar face scan when prompted."
+        },
+        {
+          "icon": "check",
+          "title": "Set password",
+          "desc": "Once verified, set your password. Activation usually completes within a few hours."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Activate UAN on the EPFO Portal (Alternate)",
+      "icon": "\ud83e\ude9c",
+      "content": [
+        "If you prefer the web portal, go to unifiedportal-mem.epfindia.gov.in and click Activate UAN. Enter your UAN, Aadhaar, date of birth, and Aadhaar-linked mobile.",
+        "Click Get Authorization PIN, enter the OTP, and set an 8-character password. Log in with your UAN and new password, then your dashboard opens."
+      ]
+    },
+    {
+      "type": "eligibility_check",
+      "heading": "Will your activation go through",
+      "icon": "\u2705",
+      "qualify": [
+        "Your mobile matches your Aadhaar-linked number",
+        "Name and DOB match between Aadhaar and EPFO",
+        "You have your 12-digit UAN ready",
+        "Your employer has uploaded your UAN",
+        "You use the official EPFO or UMANG app"
+      ],
+      "disqualify": [
+        "Activation mobile differs from Aadhaar mobile",
+        "Name or DOB mismatch with Aadhaar",
+        "Employer has not yet filed your UAN",
+        "A second UAN was created by mistake",
+        "Using an unofficial lookalike portal"
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Common Activation Problems and Fixes",
+      "icon": "\u26a0\ufe0f",
+      "content": [
+        "The top reason activation fails is a mobile mismatch, where your activation number does not match your Aadhaar-linked number. Update your Aadhaar mobile first, then retry.",
+        "A name or DOB mismatch is the next most common, for example HR entered R Kumar but Aadhaar says Rajesh Kumar. Ask your employer to correct it in the EPFO portal, then try again.",
+        "If your UAN is already activated from a past job, do not re-activate. Use Forgot Password at the login page to reset it instead.",
+        "If a new employer mistakenly generated a second UAN, do not leave it, since it splits your PF balance across two numbers.",
+        "Log in with your primary UAN and use One Member One EPF Account to merge the duplicate, or ask EPFO to consolidate them."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Activation Errors and How to Solve Them",
+      "icon": "\ud83d\udee0\ufe0f",
+      "columns": [
+        "Problem",
+        "Reason",
+        "Solution"
+      ],
+      "rows": [
+        [
+          "UAN not found in system",
+          "Your employer hasn't uploaded your UAN to EPFO portal yet, or UAN number is wrong",
+          "Double-check UAN from salary slip. Ask HR if they've filed your Establishment Registration. If yes, wait 3-5 days and try again."
+        ],
+        [
+          "Name mismatch error",
+          "Your name on Aadhaar and in EPFO database are different (spelling, spaces, etc.)",
+          "Correct your name on Aadhaar first (aadhar.uidai.gov.in, \u20b950 fee, 10-30 days). Or ask HR to update name in EPFO system and try again."
+        ],
+        [
+          "Mobile not registered with Aadhaar",
+          "You received no OTP on your phone",
+          "Update your mobile number on Aadhaar at aadhar.uidai.gov.in or any UIDAI center. Takes 30 minutes. Then retry activation."
+        ],
+        [
+          "Date of birth mismatch",
+          "DOB on Aadhaar and EPFO system don't match",
+          "Confirm DOB - if wrong on Aadhaar, correct it. If wrong in EPFO, ask HR to correct it via Establishment Portal."
+        ],
+        [
+          "Forgot password after activation",
+          "You can't login to your activated account",
+          "Go to <a href='https://unifiedportal-mem.epfindia.gov.in' target='_blank'>unifiedportal-mem.epfindia.gov.in</a> \u2192 'Forgot Password' \u2192 Enter UAN \u2192 OTP on mobile \u2192 set new password. Process takes 2 minutes."
+        ],
+        [
+          "Old account already exists",
+          "You're trying to activate same UAN twice",
+          "Your UAN is already activated (probably from a previous job change). Just login with UAN + password. If you forgot password, use 'Forgot Password' option."
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "UAN KYC: Linking Aadhaar, PAN, and Bank",
+      "icon": "\ud83d\udccb",
+      "content": [
+        "Without approved KYC, Aadhaar plus PAN plus a bank account linked to your UAN, you cannot file any online claim. This is the most common reason people cannot withdraw PF.",
+        "Log in, go to Manage then KYC, and enter your Aadhaar, PAN, and bank account with IFSC. Your employer must approve the KYC from their portal, after which EPFO verifies it.",
+        "Total processing is about 2 to 7 days. Make sure the linked bank account is your own personal savings account, not a joint or closed one.",
+        "If your KYC is rejected, the usual reasons are an Aadhaar name mismatch, a wrong PAN, or bank details that do not match. Fix the specific field and resubmit.",
+        "If your employer does not approve the KYC within about a week, escalate to HR and ask them to log in to the employer portal and clear it."
+      ]
+    },
+    {
+      "type": "number_highlight",
+      "big": "8.25%",
+      "title": "EPF Interest for FY 2025-26",
+      "desc": "EPF pays 8.25% a year for 2025-26, one of the highest risk-free returns in India, held steady for the third year running. Interest is calculated monthly and credited annually.<br><br>A combined Rs 5,000 a month for 30 years at 8.25% grows to roughly Rs 78 lakh, with about Rs 60 lakh of that being interest. That is the quiet power of EPF."
+    },
+    {
+      "type": "text",
+      "heading": "What You Can Do After Activation",
+      "icon": "\ud83d\udce5",
+      "content": [
+        "Check your EPF balance through Passbook to see monthly employee and employer contributions, interest, and the total. You can also check by SMS or a missed call to 011-22901406.",
+        "Transfer PF when you change jobs through Online Services, One Member One EPF Account. This is the single most valuable UAN feature, processed in about 15 to 20 days.",
+        "Download your UAN card and passbook anytime, and update your bank details before filing any withdrawal.",
+        "If you changed jobs recently, check whether your old employer's PF has been transferred to your new account under Transfer History.",
+        "A pending transfer usually clears in 15 to 30 days once both employers have acted, so track it rather than assuming it is done."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "One UAN for Life, Across Every Job",
+      "icon": "\ud83d\udd04",
+      "content": [
+        "You never need a new UAN for a job change. Just tell your new employer your existing UAN, and they add their contributions to the same account.",
+        "Your old employer's balance merges automatically once the transfer goes through. If you were wrongly issued two UANs, ask EPFO to merge them.",
+        "Activation is always free, so never pay an agent who claims to do it for a fee. The whole process takes about five minutes on your own phone."
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "Key EPFO Services and Links",
+      "items": [
+        {
+          "icon": "file",
+          "title": "Member Portal",
+          "sub": "unifiedportal-mem.epfindia.gov.in for login, activation, and claims."
+        },
+        {
+          "icon": "search",
+          "title": "UMANG App",
+          "sub": "Face-auth activation, balance, passbook, and withdrawal."
+        },
+        {
+          "icon": "shield",
+          "title": "Grievance",
+          "sub": "epfigms.gov.in to raise a complaint if something is stuck."
+        },
+        {
+          "icon": "check",
+          "title": "Helpline",
+          "sub": "Toll-free 1800-118-005 for activation and claim help."
+        }
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "icon": "info",
+      "title": "Activate on Your First Week at a New Job",
+      "content": "Do not wait until you need to withdraw PF. Activate your UAN and complete KYC within the first week of joining, so every service is ready when you need it.<br><br>Many people discover a broken KYC only when they urgently need money, and then face days of delay. Doing it early avoids that scramble."
+    },
+    {
+      "type": "text",
+      "heading": "EPFO 3.0: UPI and ATM Withdrawals",
+      "icon": "\ud83d\ude80",
+      "content": [
+        "EPFO is rolling out EPFO 3.0 through 2026, which lets members withdraw up to 75% of their balance instantly via UPI apps or a dedicated EPFO ATM card.",
+        "Claims up to Rs 5 lakh are now auto-settled without manual verification if your KYC is complete, and most online claims settle in 3 to 5 working days.",
+        "All of this needs an activated UAN with seeded Aadhaar, PAN, and bank, which is one more reason to activate and complete KYC early."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "warning",
+      "icon": "alert",
+      "title": "Never Share Your UAN Password",
+      "content": "Your UAN password gives full access to your EPF account, including balance, transfer, and withdrawal. Never share it with HR, payroll, or any PF consultant.<br><br>EPFO services are always free. Anyone charging Rs 500 to Rs 1000 to activate your UAN is exploiting you, since you can do it yourself in five minutes."
+    },
+    {
+      "type": "text",
+      "heading": "PF Withdrawal After Activation",
+      "icon": "\ud83d\udcb0",
+      "content": [
+        "A full withdrawal using Form 19 is allowed only after you have left a job for 2 months. The full balance reaches your linked bank account in about 10 to 20 days, if KYC is done.",
+        "A partial advance using Form 31 is allowed while still employed, for needs like medical, housing, or education. There is no waiting period for genuine emergencies.",
+        "Withdrawing before 5 years of continuous service attracts TDS if the balance is above Rs 50,000. Transferring rather than withdrawing keeps your service period unbroken.",
+        "Continuous service counts across employers if you transferred your PF rather than withdrawing it, which is what keeps your withdrawal tax-free after 5 years.",
+        "This is the strongest reason to transfer and not withdraw when you switch jobs, since restarting the clock can cost you tax later."
+      ]
+    },
+    {
+      "type": "pullquote",
+      "text": "6.5 crore active EPF members. Over 50% haven't activated their UAN - meaning they can't check their PF balance, can't transfer PF when switching jobs, and can't file withdrawal claims online. Activation takes 5 minutes at unifiedportal-mem.epfindia.gov.in. Those 5 minutes unlock your entire EPF savings - potentially Rs 5-50 lakh accumulated over your career."
+    },
+    {
+      "type": "text",
+      "heading": "UAN for Gig and Contract Workers",
+      "icon": "\ud83d\udc77",
+      "content": [
+        "If you are a contract employee at a company with 20 or more staff, the employer must register you for EPF and give you a UAN. If they deduct PF but give no UAN, demand one in writing.",
+        "Gig platform workers like delivery riders are currently classed as partners, not employees, so they are not covered by EPF yet. They should register on e-Shram for basic social security.",
+        "Freelancers can open a Voluntary Provident Fund through EPFO and contribute any amount, which qualifies for an 80C deduction.",
+        "A Voluntary Provident Fund lets salaried people contribute more than the standard 12%, and it earns the same EPF interest with the same tax treatment.",
+        "For freelancers and informal workers, this is a rare way to get a safe, government-backed return without formal employment."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Three Ways to Check Your Balance",
+      "icon": "\ud83d\udcf2",
+      "content": [
+        "After activation you have three quick ways to see your PF balance without logging in every time. The fastest is a missed call to 011-22901406 from your registered mobile.",
+        "You can also send an SMS in the format EPFOHO UAN ENG to 7738299899, replacing ENG with your preferred language code. The balance arrives by return SMS.",
+        "For full detail, the passbook on the member portal or UMANG app shows every monthly contribution, the interest credited, and your running total."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "How PF Transfer Works When You Switch Jobs",
+      "icon": "\ud83d\udd01",
+      "content": [
+        "When you join a new company, do not withdraw your old PF. Instead transfer it, so your savings and your pension service stay unbroken.",
+        "Log in, open Online Services, and choose One Member One EPF Account. Pick your previous employer's account and submit the transfer request.",
+        "Either your old or new employer attests it online, and the balance moves in about 15 to 20 days. With EPFO 3.0, fully verified KYC can let many transfers happen without employer consent.",
+        "If a transfer is pending, your new employer should have received the request from your old one. Chase it if it has been more than a month.",
+        "Keeping the transfer moving matters because an idle old account stops earning interest after three years of no contributions."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Tax Rules on EPF You Should Know",
+      "icon": "\ud83e\uddfe",
+      "content": [
+        "Interest on your own EPF contributions up to Rs 2.5 lakh a year is tax-free. Anything above that threshold earns interest that is taxable.",
+        "If you withdraw before completing five years of continuous service and the balance is over Rs 50,000, TDS applies. Linking your PAN keeps that deduction at the lower rate.",
+        "A withdrawal after five years of continuous service is fully tax-free, which is another reason to transfer rather than restart with each job.",
+        "EPF contributions also qualify for deduction under Section 80C, up to the overall limit, which lowers your taxable income in the year you contribute.",
+        "Together with the tax-free interest and tax-free maturity after five years, this makes EPF one of the most tax-efficient savings tools for salaried people."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Why Activate Early, Not at the Last Minute",
+      "icon": "\u23f0",
+      "content": [
+        "Most people only discover a broken KYC or a name mismatch when they urgently need to withdraw money, and then face days of back-and-forth.",
+        "Activating in your first week and finishing KYC means everything is verified and ready well before any emergency.",
+        "It also means your balance alerts, passbook, and transfer features all work from day one, so you always know where your retirement money stands.",
+        "During emergencies in the past, EPFO allowed special non-refundable advances of up to 75% of the balance, processed quickly for activated accounts.",
+        "Having an active UAN with clean KYC is what lets you tap any such provision instantly rather than scrambling to fix records first."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Keep Your Details Updated Over Time",
+      "icon": "\ud83d\udd27",
+      "content": [
+        "Your EPF records are only useful if they stay current. If you change your phone number, update it in your Aadhaar and your EPFO profile so OTP and alerts keep working.",
+        "If you change banks, update the bank details in KYC before filing any claim, or the money can bounce back.",
+        "A quick yearly check of your passbook and KYC status takes minutes and saves you from nasty surprises when you actually need your PF."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "info",
+      "icon": "info",
+      "title": "Official Sources and References",
+      "content": "This page is based on EPFO, the Employees Provident Fund Organisation under the Ministry of Labour, and verified against official notifications.<br><br>For the latest rules, always check the EPFO member portal at epfindia.gov.in and the UMANG app."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "I forgot my UAN password. How to reset without visiting office?",
+      "answer": "Visit unifiedportal-mem.epfindia.gov.in \u2192 click 'Forgot Password' \u2192 Enter your 12-digit UAN \u2192 Click 'Send OTP' \u2192 OTP sent to your Aadhaar-registered mobile \u2192 Enter OTP \u2192 Set a new password (8+ chars, upper, lower, number, special char) \u2192 Done. You can reset password online within 2 minutes.<br><br>No office visit needed."
+    },
+    {
+      "question": "My company says I don't have UAN and won't provide it. What's my recourse?",
+      "answer": "By law under the EPF Act, every employer registered with EPFO must issue UAN to all employees within 10 days of hiring. If your employer is refusing or delaying: (1) Email HR in writing asking for UAN, (2) If ignored, complain to the nearest EPFO office with appointment letter and salary slips as proof.<br><br>(3) File a complaint at epfigms.gov.in. EPFO can levy a fine on the employer.<br><br>Many startups and small companies ignore this - be firm and escalate."
+    },
+    {
+      "question": "I have an old employer's UAN from 5 years ago. Can I use it with my new employer?",
+      "answer": "Yes, use the old UAN! When you join a new EPFO company, inform your new HR about your old UAN.<br><br>They'll register your employment under the same UAN. Your new employer's contribution will be added to your old balance, creating one consolidated account.<br><br>PF is NOT lost - it all merges under one UAN. This is the entire point of the UAN system."
+    },
+    {
+      "question": "What's the difference between UAN activation and EPFO membership?",
+      "answer": "EPFO membership is created the moment your employer registers your details, and it happens automatically. UAN activation is when you personally log in with your UAN and password to use the services.<br><br>Membership is passive and managed by your employer. Activation is active, and only you can do it to check balance, transfer, or withdraw."
+    },
+    {
+      "question": "Can I activate UAN without Aadhaar?",
+      "answer": "No, Aadhaar is mandatory for UAN activation as of 2024. EPFO requires Aadhaar for verification and OTP-based authentication.<br><br>If you don't have Aadhaar, get it first (aadhar.uidai.gov.in or UIDAI center). Process takes 30 minutes.<br><br>Once you have Aadhaar linked to your mobile, UAN activation takes 5 minutes."
+    },
+    {
+      "question": "After activation, can I check my spouse's or child's PF balance using my login?",
+      "answer": "No, each person's UAN is private. Your UAN is only for you.<br><br>Your spouse and children have their own UANs (if they're employees under EPFO). Each person must activate and login with their own UAN and password.<br><br>EPFO doesn't allow account linking between family members."
+    },
+    {
+      "question": "I activated UAN but passbook shows zero balance. Is my PF lost?",
+      "answer": "No, PF is not lost. Possible reasons: (1) You recently joined and employer hasn't credited first month's contribution yet.<br><br>(2) This is your first UAN activation and old employer's PF hasn't transferred yet. (3) You were in probation and hadn't contributed to EPF yet.<br><br>Check 'View Passbook' \u2192 see month-wise contributions. If no contributions for months you worked, complain to HR or EPFO.<br><br>PF is credited monthly by law."
+    },
+    {
+      "question": "Can I have two active UANs?",
+      "answer": "No, you should have only one UAN. If you were mistakenly issued two UANs (from two different employers who didn't realize you already had one), contact EPFO to consolidate them.<br><br>File a request at nearest EPFO office with proof of both UANs. They'll merge both accounts into one UAN, and you'll get the full balance."
+    },
+    {
+      "question": "How to check EPF balance without activating UAN?",
+      "answer": "Give a missed call to 011-22901406 from your UAN-registered mobile - balance is sent via SMS (works without portal activation but requires mobile number registered with EPFO). Or send SMS: EPFOHO UAN ENG to 7738299899.<br><br>For detailed passbook with monthly breakdown, you need portal activation - the SMS methods show only total balance."
+    },
+    {
+      "question": "Can I activate UAN without employer?",
+      "answer": "Partial activation is possible using Aadhaar-based OTP. But KYC approval requires employer action from their portal.<br><br>If you've left the company and KYC is pending, contact your previous employer's HR to approve pending KYC. If the employer is non-responsive, visit your jurisdictional EPFO office with UAN, Aadhaar, and a written request for manual KYC approval."
+    },
+    {
+      "question": "What if I forgot my UAN number?",
+      "answer": "Visit unifiedportal-mem.epfindia.gov.in \u2192 'Know Your UAN.' Enter any ONE: Member ID (from salary slip), Aadhaar number, or PAN number. The portal displays your UAN.<br><br>You can also check your salary slip (UAN is printed on most payslips) or ask your current/previous employer's HR department."
+    },
+    {
+      "question": "Is UAN same as PF number?",
+      "answer": "No, they are different. Your PF number, the Member ID, changes with every employer, while the UAN is permanent and stays the same across all jobs.<br><br>One UAN can hold several PF numbers, one from each employer. The UAN links all of them into a single identity."
+    },
+    {
+      "question": "Can I activate my UAN without OTP now?",
+      "answer": "Yes. Since August 2025, you can activate your UAN using Aadhaar Face Authentication on the UMANG app, without an OTP.<br><br>The OTP-based portal method still works too, so use whichever is easier for you."
+    },
+    {
+      "question": "Can I withdraw PF through UPI now?",
+      "answer": "Under EPFO 3.0, rolling out through 2026, members can withdraw up to 75% of their balance via UPI or an EPFO ATM card.<br><br>This needs an activated UAN with complete KYC, so finish KYC early to use it."
+    }
+  ],
+  "disclaimer": "This guide is based on EPFO procedures as of March 2026. EPFO processes, portal features, and requirements may change. Always verify current information from epfindia.gov.in or your EPFO office.",
+  "related_pages": [
+    {
+      "title": "How to Check EPF Balance - 4 Easy Methods",
+      "slug": "check-epf-balance",
+      "tag": "EPF",
+      "url": "/guide/check-epf-balance"
+    },
+    {
+      "title": "EPF Withdrawal Guide - Full and Partial",
+      "slug": "epf-withdrawal",
+      "tag": "EPF",
+      "url": "/paisa/epf-withdrawal"
+    },
+    {
+      "title": "Gratuity Calculation & Claim Process",
+      "slug": "gratuity-guide",
+      "tag": "Finance",
+      "url": "/paisa/gratuity-guide"
+    },
+    {
+      "title": "NPS vs EPF vs PPF Comparison",
+      "slug": "nps-vs-epf-vs-ppf",
+      "tag": "Investments",
+      "url": "/compare/nps-vs-epf-vs-ppf"
+    }
+  ],
+  "tags": [
+    "UAN",
+    "EPF",
+    "PF Balance",
+    "EPFO",
+    "Activation",
+    "Employee Benefits"
+  ],
+  "image_suggestions": [
+    "Screenshot of EPFO portal homepage with Activate UAN button",
+    "Step-by-step activation form with field labels highlighted",
+    "UAN example showing 12-digit format and where it appears on salary slip",
+    "UMANG mobile app interface showing PF balance",
+    "Sample PF passbook downloaded from portal",
+    "Error messages and troubleshooting screenshots",
+    "Mobile phone with OTP screen during activation process"
+  ],
+  "last_reviewed": "June 2026",
+  "quick_actions": [
+    {
+      "label": "\ud83d\udcf1 Activate on UMANG",
+      "href": "https://web.umang.gov.in",
+      "primary": true
+    },
+    {
+      "label": "\ud83d\udcb0 Check PF Balance",
+      "href": "https://passbook.epfindia.gov.in"
+    }
+  ]
 }
