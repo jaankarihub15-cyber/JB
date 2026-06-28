@@ -4,7 +4,7 @@
   "meta_description": "Aadhaar update 2026: online free till 14 June 2027 on myAadhaar, biometric Rs 125, address/name/DOB change, documents, processing time.",
   "hero": {
     "one_liner": "Update your Aadhaar name, address, mobile, DOB or biometrics online at myAadhaar or at a centre. Document update is free online till 14 June 2027.",
-    "icon": "🆔",
+    "icon": "\ud83c\udd94",
     "updated_date": "June 2026",
     "tags": [
       "Aadhaar",
@@ -19,11 +19,11 @@
       },
       {
         "label": "Demographic Fee",
-        "value": "₹75 at centre"
+        "value": "\u20b975 at centre"
       },
       {
         "label": "Biometric Fee",
-        "value": "₹125"
+        "value": "\u20b9125"
       }
     ]
   },
@@ -31,7 +31,7 @@
     {
       "type": "text",
       "heading": "What You Can and Cannot Update in Aadhaar",
-      "icon": "📝",
+      "icon": "\ud83d\udcdd",
       "content": [
         "Aadhaar holds two kinds of data. Demographic data (name, address, date of birth, gender, email, mobile) can be changed online or at a centre.",
         "Biometric data (photograph, fingerprints, iris) can only be updated in person at an Aadhaar centre. It is never done online.",
@@ -73,7 +73,7 @@
     {
       "type": "stat_grid",
       "heading": "Aadhaar Update Fees at a Glance",
-      "icon": "📊",
+      "icon": "\ud83d\udcca",
       "items": [
         {
           "icon": "check",
@@ -83,13 +83,13 @@
         },
         {
           "icon": "wallet",
-          "value": "₹75",
+          "value": "\u20b975",
           "label": "Demographic at Centre",
           "color": "blue"
         },
         {
           "icon": "file",
-          "value": "₹125",
+          "value": "\u20b9125",
           "label": "Biometric Update",
           "color": "amber"
         },
@@ -106,12 +106,12 @@
       "variant": "info",
       "icon": "info",
       "title": "Free Online Document Update Extended to June 2027",
-      "content": "Per UIDAI OM No. HQ-16027/1/2022-EU-I-HQ dated 13 May 2026, updating documents through the myAadhaar portal is free of cost up to 14 June 2027.<br><br>After that, the same update costs ₹75. Mobile and biometric updates are separate and are not covered by this free window."
+      "content": "Per UIDAI OM No. HQ-16027/1/2022-EU-I-HQ dated 13 May 2026, updating documents through the myAadhaar portal is free of cost up to 14 June 2027.<br><br>After that, the same update costs \u20b975. Mobile and biometric updates are separate and are not covered by this free window."
     },
     {
       "type": "text",
       "heading": "How Long an Aadhaar Update Takes",
-      "icon": "⏱️",
+      "icon": "\u23f1\ufe0f",
       "content": [
         "Most Aadhaar updates are processed within 7 to 30 days of your request. Demographic changes like name or address usually update faster than biometric ones.",
         "You get an Update Request Number (URN) or SRN when you apply. Use it to track the status until the update is approved and your e-Aadhaar refreshes."
@@ -145,7 +145,7 @@
     },
     {
       "heading": "Step by Step: Updating at myAadhaar or a Centre",
-      "icon": "🪜",
+      "icon": "\ud83e\ude9c",
       "type": "steps",
       "steps": [
         {
@@ -185,8 +185,8 @@
         },
         {
           "step": 8,
-          "title": "Pay ₹50 fee per update",
-          "description": "Each demographic field update costs ₹50. Pay via: Net banking, Debit card, Credit card, or UPI. You get payment receipt. Fee is non-refundable (even if update is rejected after submission)."
+          "title": "Pay \u20b950 fee per update",
+          "description": "Each demographic field update costs \u20b950. Pay via: Net banking, Debit card, Credit card, or UPI. You get payment receipt. Fee is non-refundable (even if update is rejected after submission)."
         },
         {
           "step": 9,
@@ -208,7 +208,7 @@
     {
       "type": "text",
       "heading": "Mobile Number Update, a Special Case",
-      "icon": "📱",
+      "icon": "\ud83d\udcf1",
       "content": [
         "Mobile number is the most frequently changed field, and it cannot be updated online. You must visit an Aadhaar centre in person for it.",
         "At the centre, biometric verification (fingerprint or iris) confirms your identity, then the operator updates the number. There is no fee for a mobile update.",
@@ -221,7 +221,7 @@
     {
       "type": "text",
       "heading": "How to Check Your Aadhaar Update Status",
-      "icon": "🔍",
+      "icon": "\ud83d\udd0d",
       "content": [
         "After you submit an update, check its status on myAadhaar using your Update Request Number. The portal shows whether it is in process, approved, or rejected.",
         "If it is approved, download the fresh e-Aadhaar right away. If it is rejected, the reason is usually a document mismatch, so fix that and reapply."
@@ -230,7 +230,7 @@
     {
       "type": "table",
       "heading": "What Updates Online vs at a Centre",
-      "icon": "📋",
+      "icon": "\ud83d\udccb",
       "columns": [
         "Field",
         "Online?",
@@ -242,25 +242,25 @@
           "Name",
           "Yes",
           "Yes",
-          "Free online till Jun 2027, else ₹75"
+          "Free online till Jun 2027, else \u20b975"
         ],
         [
           "Address",
           "Yes",
           "Yes",
-          "Free online till Jun 2027, else ₹75"
+          "Free online till Jun 2027, else \u20b975"
         ],
         [
           "Date of birth",
           "Yes (one-time)",
           "Yes",
-          "Free online till Jun 2027, else ₹75"
+          "Free online till Jun 2027, else \u20b975"
         ],
         [
           "Gender",
           "Yes",
           "Yes",
-          "Free online till Jun 2027, else ₹75"
+          "Free online till Jun 2027, else \u20b975"
         ],
         [
           "Email",
@@ -278,17 +278,17 @@
           "Photo / fingerprints / iris",
           "No",
           "Yes",
-          "₹125"
+          "\u20b9125"
         ]
       ]
     },
     {
       "type": "text",
       "heading": "Biometric Update: Photo, Fingerprints, Iris",
-      "icon": "🧬",
+      "icon": "\ud83e\uddec",
       "content": [
         "Biometric updates happen only at an Aadhaar centre. Book a slot at appointments.uidai.gov.in or walk in, then carry your original Aadhaar; no other document is needed.",
-        "The operator captures a fresh photo, all ten fingerprints, and an iris scan. The fee is ₹125 for adults.",
+        "The operator captures a fresh photo, all ten fingerprints, and an iris scan. The fee is \u20b9125 for adults.",
         "Why it matters: biometrics age. An old photo can fail facial matching, and worn fingerprints (common for farmers and labourers) can block bank and pension authentication.",
         "A biometric refresh keeps authentication working. UIDAI recommends updating documents at least once every 10 years.",
         "If your fingerprints repeatedly fail at a ration shop or bank, a biometric update usually fixes it. Carry your Aadhaar and ask the operator to recapture all ten fingers."
@@ -303,7 +303,7 @@
     {
       "type": "table",
       "heading": "Accepted Documents by Update Type",
-      "icon": "📄",
+      "icon": "\ud83d\udcc4",
       "columns": [
         "Update Field",
         "Accepted Documents",
@@ -355,7 +355,7 @@
     {
       "type": "text",
       "heading": "Which Documents Are Accepted",
-      "icon": "✅",
+      "icon": "\u2705",
       "content": [
         "For identity (POI): passport, PAN card, voter ID, driving licence, or any government photo ID. For date of birth: birth certificate, 10th marksheet, or passport.",
         "For address (POA): a utility bill under three months old, bank statement, passport, or rent agreement. Since November 2025, electricity and water bills are accepted as valid address proof for online updates.",
@@ -367,7 +367,7 @@
     {
       "type": "eligibility_check",
       "heading": "Will your update go through",
-      "icon": "✅",
+      "icon": "\u2705",
       "qualify": [
         "Document is clear and fully visible",
         "Name and details match across documents",
@@ -386,7 +386,7 @@
     {
       "type": "text",
       "heading": "Address Update Without Standard Documents",
-      "icon": "🏠",
+      "icon": "\ud83c\udfe0",
       "content": [
         "If you have no address proof for a new home, use the Address Validation Letter service on myAadhaar. UIDAI posts a letter with a secret code to your new address.",
         "Once it arrives, you log in and enter the code to confirm you live there. The whole process takes about 15 to 30 days including postal delivery.",
@@ -397,7 +397,7 @@
     {
       "type": "table",
       "heading": "Update Limits and Costs",
-      "icon": "📋",
+      "icon": "\ud83d\udccb",
       "columns": [
         "Update type",
         "Online?",
@@ -439,14 +439,14 @@
           "Biometric",
           "Centre only",
           "Recommended every 10 years",
-          "₹125"
+          "\u20b9125"
         ]
       ]
     },
     {
       "type": "text",
       "heading": "Common Mistakes That Delay Your Update",
-      "icon": "⚠️",
+      "icon": "\u26a0\ufe0f",
       "content": [
         "Uploading a blurry or cropped document is the top reason updates get rejected. Scan the full document clearly before uploading.",
         "A name that does not match your current Aadhaar exactly also triggers rejection. Match spelling, initials, and order carefully.",
@@ -465,7 +465,7 @@
     {
       "type": "text",
       "heading": "Mandatory Biometric Updates for Children",
-      "icon": "🧒",
+      "icon": "\ud83e\uddd2",
       "content": [
         "A child under 5 gets Aadhaar with photo and demographics only, no fingerprints or iris. It carries a 'child' watermark and has limited use.",
         "The first mandatory biometric update (MBU) is at age 5, and the second is at age 15. Both capture fingerprints and iris as the child grows.",
@@ -478,12 +478,12 @@
       "variant": "tip",
       "icon": "info",
       "title": "The 10-Year Document Update Rule",
-      "content": "UIDAI asks every Aadhaar holder to refresh their identity and address documents at least once every 10 years.<br><br>If your Aadhaar is over 10 years old and never updated, you may hit authentication failures at banks and gas agencies. Update online for free till June 2027, or at a centre for ₹75."
+      "content": "UIDAI asks every Aadhaar holder to refresh their identity and address documents at least once every 10 years.<br><br>If your Aadhaar is over 10 years old and never updated, you may hit authentication failures at banks and gas agencies. Update online for free till June 2027, or at a centre for \u20b975."
     },
     {
       "type": "text",
       "heading": "Why an Updated Aadhaar Matters",
-      "icon": "📈",
+      "icon": "\ud83d\udcc8",
       "content": [
         "Bank KYC: a mismatched address can trigger re-verification and even freeze your account. Update Aadhaar first after moving, then your bank.",
         "Government schemes: PM Kisan, LPG subsidy, MGNREGA wages, and pensions all reach your Aadhaar-linked account. A wrong mobile number blocks the authentication and stops the benefit.",
@@ -500,7 +500,7 @@
     {
       "type": "text",
       "heading": "Aadhaar Security Features to Use",
-      "icon": "🔒",
+      "icon": "\ud83d\udd12",
       "content": [
         "Lock biometrics on myAadhaar so nobody can use your fingerprint or iris without you. Unlock it briefly only when you need to authenticate.",
         "Use Masked Aadhaar, which shows only the last four digits, when sharing for KYC. It is legally valid and keeps your full number private.",
@@ -520,7 +520,7 @@
     {
       "type": "text",
       "heading": "When Not to Share Your Aadhaar",
-      "icon": "🚫",
+      "icon": "\ud83d\udeab",
       "content": [
         "Never post your Aadhaar number on social media or unverified websites, and never share the OTP with anyone over the phone. No bank or agency ever asks for it.",
         "If a hotel, courier, or random service demands Aadhaar, ask whether a voter ID or driving licence works instead. Share Masked Aadhaar when you must.",
@@ -558,7 +558,7 @@
     {
       "type": "text",
       "heading": "Updating Aadhaar for Common Life Situations",
-      "icon": "🔄",
+      "icon": "\ud83d\udd04",
       "content": [
         "After marriage: update your name on myAadhaar with a marriage certificate, then update PAN, passport, and bank using the new Aadhaar. Keeping your maiden name is also legally valid; a name change is not required.",
         "After relocating for work: update your address within a month using a new rent agreement or utility bill. Remember that ration card and voter registration need separate updates.",
@@ -569,7 +569,7 @@
     {
       "type": "text",
       "heading": "What C/O Means on Your Aadhaar",
-      "icon": "📑",
+      "icon": "\ud83d\udcd1",
       "content": [
         "C/O on an Aadhaar card stands for care of, and it shows whose address the holder lives at, such as a father, husband, or guardian.",
         "If your C/O details are wrong after marriage or a move, update them through the address section on myAadhaar with valid proof.",
@@ -579,7 +579,7 @@
     {
       "type": "text",
       "heading": "Aadhaar and Udyog Aadhaar Are Not the Same",
-      "icon": "🏢",
+      "icon": "\ud83c\udfe2",
       "content": [
         "Many people confuse Aadhaar with Udyog Aadhaar, but they are different. Aadhaar is your personal identity number.",
         "Udyog Aadhaar, now Udyam Registration, is a separate registration for small businesses and does not replace your personal Aadhaar.",
@@ -589,7 +589,7 @@
     {
       "type": "table",
       "heading": "Troubleshooting Common Update Problems",
-      "icon": "🛠️",
+      "icon": "\ud83d\udee0\ufe0f",
       "columns": [
         "Issue",
         "Reason",
@@ -619,14 +619,14 @@
         [
           "Physical card not received after 90 days",
           "Postal delivery delay or address issue",
-          "Visit Aadhaar center → request status check. They can reprint or courier physical card."
+          "Visit Aadhaar center \u2192 request status check. They can reprint or courier physical card."
         ]
       ]
     },
     {
       "type": "text",
       "heading": "Official Aadhaar Resources",
-      "icon": "🔗",
+      "icon": "\ud83d\udd17",
       "content": [
         "All services live at uidai.gov.in, including the centre locator and FAQs. The myAadhaar portal (myaadhaar.uidai.gov.in) handles updates, downloads, biometric locking, VID, and authentication history.",
         "The toll-free helpline is 1947, available 24x7, and the email is help@uidai.gov.in. Aadhaar is auto-fetched in DigiLocker, so no separate upload is needed.",
@@ -636,7 +636,7 @@
     {
       "type": "text",
       "heading": "After Your Update Is Approved",
-      "icon": "📥",
+      "icon": "\ud83d\udce5",
       "content": [
         "Once approved, download the latest e-Aadhaar from myAadhaar and reprint any copies you keep at home.",
         "Then update the new details wherever your old Aadhaar was used, such as your bank, PAN, ration card, and EPF account.",
@@ -658,11 +658,11 @@
     },
     {
       "question": "What is the Aadhaar update fee in 2026?",
-      "answer": "Online document update is free on myAadhaar until 14 June 2027. At a centre, a demographic update costs ₹75.<br><br>A biometric update costs ₹125, and mobile or email updates are free."
+      "answer": "Online document update is free on myAadhaar until 14 June 2027. At a centre, a demographic update costs \u20b975.<br><br>A biometric update costs \u20b9125, and mobile or email updates are free."
     },
     {
       "question": "How do I update biometrics in Aadhaar?",
-      "answer": "Biometric updates cannot be done online. Visit any Aadhaar centre with your original Aadhaar; no other document is needed.<br><br>The operator captures a fresh photo, fingerprints, and iris for ₹125. Children aged 5 to 17 pay nothing till October 2026."
+      "answer": "Biometric updates cannot be done online. Visit any Aadhaar centre with your original Aadhaar; no other document is needed.<br><br>The operator captures a fresh photo, fingerprints, and iris for \u20b9125. Children aged 5 to 17 pay nothing till October 2026."
     },
     {
       "question": "Will I get a new Aadhaar card after a biometric update?",
@@ -749,5 +749,16 @@
     "e-Aadhaar PDF sample",
     "Masked Aadhaar for secure sharing"
   ],
-  "last_reviewed": "June 2026"
+  "last_reviewed": "June 2026",
+  "quick_actions": [
+    {
+      "label": "\u2702\ufe0f Resize Photo & Signature",
+      "href": "/tools/photo-resizer",
+      "primary": true
+    },
+    {
+      "label": "\ud83d\udcdd Update on myAadhaar",
+      "href": "https://myaadhaar.uidai.gov.in"
+    }
+  ]
 }

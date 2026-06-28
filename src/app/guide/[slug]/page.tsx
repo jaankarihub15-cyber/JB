@@ -121,10 +121,14 @@ export default async function GuideDetailPage({ params }: Props) {
             badge={g.tags?.[0] ? `\u{1F4D8} ${String(g.tags[0]).toUpperCase()}` : "\u{1F4D8} HOW-TO GUIDE"}
             updatedDate={g.hero.updated_date}
             primaryStat={primaryStat}
-            quickActions={[
-              { label: "\u{2705} Check Eligibility", href: "/check-eligibility", primary: true },
-              { label: "\u{1F9EE} Calculators", href: "/calculator" },
-            ]}
+            quickActions={
+              (g as any).quick_actions?.length
+                ? (g as any).quick_actions.map((qa: any) => ({ label: qa.label, href: qa.href || qa.url, primary: qa.primary }))
+                : [
+                    { label: "\u2702\uFE0F Resize Photo", href: "/tools/photo-resizer", primary: true },
+                    { label: "\u{1F4D6} All Guides", href: "/guide" },
+                  ]
+            }
           />
           {g.hero.stats && g.hero.stats.length > 1 && (
             <div className="grid grid-cols-2 md:grid-cols-4 gap-2.5 mt-2 pb-1">
