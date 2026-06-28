@@ -1,547 +1,722 @@
 {
- "slug": "aadhaar-update",
- "title": "Aadhaar Update 2026: Biometric, Address, Online & Fees",
- "meta_description": "Aadhaar update 2026: online free till 14 June 2027 on myAadhaar, biometric Rs 125, address/name/DOB change, documents, processing time.",
- "hero": {
-  "one_liner": "Update your Aadhaar name, address, mobile, DOB or biometrics online at myAadhaar or at a centre. Document update is free online till 14 June 2027.",
-  "icon": "🆔",
-  "updated_date": "June 2026",
-  "tags": [
-   "Aadhaar",
-   "Identity",
-   "UIDAI"
+  "slug": "aadhaar-update",
+  "title": "Aadhaar Update 2026: Biometric, Address, Online & Fees",
+  "meta_description": "Aadhaar update 2026: online free till 14 June 2027 on myAadhaar, biometric Rs 125, address/name/DOB change, documents, processing time.",
+  "hero": {
+    "one_liner": "Update your Aadhaar name, address, mobile, DOB or biometrics online at myAadhaar or at a centre. Document update is free online till 14 June 2027.",
+    "icon": "🆔",
+    "updated_date": "June 2026",
+    "tags": [
+      "Aadhaar",
+      "Identity",
+      "UIDAI"
+    ],
+    "read_time": "8 min",
+    "stats": [
+      {
+        "label": "Online Doc Update",
+        "value": "Free till Jun 2027"
+      },
+      {
+        "label": "Demographic Fee",
+        "value": "₹75 at centre"
+      },
+      {
+        "label": "Biometric Fee",
+        "value": "₹125"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "type": "text",
+      "heading": "What You Can and Cannot Update in Aadhaar",
+      "icon": "📝",
+      "content": "Aadhaar holds two kinds of data. Demographic data (name, address, date of birth, gender, email, mobile) can be changed online or at a centre. Biometric data (photograph, fingerprints, iris) can only be updated in person at an Aadhaar centre. It is never done online. You can do a limited number of demographic updates online. After that you must visit a centre, a rule meant to prevent casual misuse of a critical ID. Email and mobile updates need no document. Name, address, and DOB changes always need supporting proof. Keep your linked mobile active before starting any online update. Without it, the OTP login will not work and you will be forced to visit a centre."
+    },
+    {
+      "type": "quick_action_grid",
+      "heading": "Quick Aadhaar Actions",
+      "items": [
+        {
+          "icon": "file",
+          "label": "Update Aadhaar",
+          "sub": "Name, address, or documents on myAadhaar",
+          "url": "https://myaadhaar.uidai.gov.in"
+        },
+        {
+          "icon": "search",
+          "label": "Check Update Status",
+          "sub": "Track with your Update Request Number",
+          "url": "https://myaadhaar.uidai.gov.in"
+        },
+        {
+          "icon": "check",
+          "label": "Resize Photo & Signature",
+          "sub": "Crop to the exact size UIDAI needs",
+          "url": "/tools/photo-resizer"
+        },
+        {
+          "icon": "shield",
+          "label": "Lock Biometrics",
+          "sub": "Secure your fingerprint and iris",
+          "url": "https://myaadhaar.uidai.gov.in"
+        }
+      ]
+    },
+    {
+      "type": "stat_grid",
+      "heading": "Aadhaar Update Fees at a Glance",
+      "icon": "📊",
+      "items": [
+        {
+          "icon": "check",
+          "value": "Free",
+          "label": "Online Documents",
+          "color": "green"
+        },
+        {
+          "icon": "wallet",
+          "value": "₹75",
+          "label": "Demographic at Centre",
+          "color": "blue"
+        },
+        {
+          "icon": "file",
+          "value": "₹125",
+          "label": "Biometric Update",
+          "color": "amber"
+        },
+        {
+          "icon": "check",
+          "value": "Free",
+          "label": "Mobile / Email",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "info",
+      "icon": "info",
+      "title": "Free Online Document Update Extended to June 2027",
+      "content": "Per UIDAI OM No. HQ-16027/1/2022-EU-I-HQ dated 13 May 2026, updating documents through the myAadhaar portal is free of cost up to 14 June 2027.<br><br>After that, the same update costs ₹75. Mobile and biometric updates are separate and are not covered by this free window."
+    },
+    {
+      "type": "text",
+      "heading": "How Long an Aadhaar Update Takes",
+      "icon": "⏱️",
+      "content": [
+        "Most Aadhaar updates are processed within 7 to 30 days of your request. Demographic changes like name or address usually update faster than biometric ones.",
+        "You get an Update Request Number (URN) or SRN when you apply. Use it to track the status until the update is approved and your e-Aadhaar refreshes."
+      ]
+    },
+    {
+      "type": "process_flow",
+      "heading": "How to Update Aadhaar Online",
+      "steps": [
+        {
+          "icon": "search",
+          "title": "Log in to myAadhaar",
+          "desc": "Go to myaadhaar.uidai.gov.in and log in with your Aadhaar number and OTP."
+        },
+        {
+          "icon": "file",
+          "title": "Pick the field",
+          "desc": "Choose what to update: name, address, date of birth, gender, or documents."
+        },
+        {
+          "icon": "shield",
+          "title": "Upload documents",
+          "desc": "Upload a clear scan of a valid proof, then submit and pay any fee."
+        },
+        {
+          "icon": "check",
+          "title": "Track with URN",
+          "desc": "Note the Update Request Number and track the status till it is approved."
+        }
+      ]
+    },
+    {
+      "heading": "Step by Step: Updating at myAadhaar or a Centre",
+      "icon": "🪜",
+      "type": "steps",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Visit myaadhaar.uidai.gov.in (UIDAI Self-Service Portal)",
+          "description": "Go to official Aadhaar self-service portal. Click 'Login' on the page. You'll be asked for your Aadhaar number and OTP."
+        },
+        {
+          "step": 2,
+          "title": "Enter Aadhaar number and request OTP",
+          "description": "Enter your 12-digit Aadhaar number. Click 'Send OTP'. OTP is sent to your Aadhaar-registered mobile number. This is the phone number registered when you first got Aadhaar."
+        },
+        {
+          "step": 3,
+          "title": "Enter OTP and login",
+          "description": "Enter the 6-digit OTP received on your phone. You're now logged into your Aadhaar account dashboard."
+        },
+        {
+          "step": 4,
+          "title": "Click 'Update Aadhaar' from dashboard",
+          "description": "On dashboard, click 'Update Aadhaar Online'. You'll see a list of fields you can update: Name, Address, Date of Birth, Gender, Email, Mobile, etc."
+        },
+        {
+          "step": 5,
+          "title": "Select field(s) to update",
+          "description": "Click on the field you want to change (e.g., 'Update Name' or 'Update Address'). You can update multiple fields in one session, and online document update is currently free till June 2027."
+        },
+        {
+          "step": 6,
+          "title": "Enter new information",
+          "description": "For name update: Enter full name as you want it shown. For address: Enter new address (building, street, locality, city, state, PIN code). For DOB: Select correct date of birth. For email: Enter new email. For mobile: Enter new mobile (OTP will be sent to verify)."
+        },
+        {
+          "step": 7,
+          "title": "Upload supporting document",
+          "description": "For name: Passport, PAN, Voter ID, or 10th marksheet. For address: Utility bill (electricity/water/gas, <3 months old), Bank statement, Passport, or Rent agreement. For DOB: Birth certificate, 10th marksheet, or Passport. Document must be clear scan/photo in JPEG or PDF format (max 2MB). If name appears on Aadhaar and document, document will validate instantly. Otherwise, admin review needed."
+        },
+        {
+          "step": 8,
+          "title": "Pay ₹50 fee per update",
+          "description": "Each demographic field update costs ₹50. Pay via: Net banking, Debit card, Credit card, or UPI. You get payment receipt. Fee is non-refundable (even if update is rejected after submission)."
+        },
+        {
+          "step": 9,
+          "title": "Get URN (Update Request Number)",
+          "description": "After payment, system generates URN (unique reference number). SAVE THIS - you'll use it to track your update and download updated Aadhaar."
+        },
+        {
+          "step": 10,
+          "title": "Track status at myaadhaar.uidai.gov.in",
+          "description": "Use your URN to check status: 'Submitted', 'Under Review', 'Approved', or 'Rejected'. Most updates take 10-30 days. Once approved, download your updated e-Aadhaar from the portal - immediately available for use."
+        },
+        {
+          "step": 11,
+          "title": "Updated e-Aadhaar downloads; Physical card mailed",
+          "description": "e-Aadhaar (digital copy) available for download within 2-3 days of approval. Download and save - valid for all purposes immediately. Physical Aadhaar card with updated details is printed and mailed to your registered address in 60-90 days."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Mobile Number Update, a Special Case",
+      "icon": "📱",
+      "content": [
+        "Mobile number is the most frequently changed field, and it cannot be updated online. You must visit an Aadhaar centre in person for it.",
+        "At the centre, biometric verification (fingerprint or iris) confirms your identity, then the operator updates the number. There is no fee for a mobile update.",
+        "Your registered mobile is critical: it receives the OTP for bank authentication, scheme disbursements, and tax e-filing. If it is wrong, you lose access to all Aadhaar OTP services until you fix it.",
+        "If your old number is lost and you have no OTP access, the centre visit is the only route, since the OTP cannot reach a dead number.",
+        "If you have lost access to your old number, you cannot recover OTP-based services until you update it at a centre.",
+        "Carry your original Aadhaar and a valid ID. The operator captures your fingerprint to verify you, so no document is needed for the mobile field itself."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "How to Check Your Aadhaar Update Status",
+      "icon": "🔍",
+      "content": [
+        "After you submit an update, check its status on myAadhaar using your Update Request Number. The portal shows whether it is in process, approved, or rejected.",
+        "If it is approved, download the fresh e-Aadhaar right away. If it is rejected, the reason is usually a document mismatch, so fix that and reapply."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "What Updates Online vs at a Centre",
+      "icon": "📋",
+      "columns": [
+        "Field",
+        "Online?",
+        "At centre?",
+        "Cost"
+      ],
+      "rows": [
+        [
+          "Name",
+          "Yes",
+          "Yes",
+          "Free online till Jun 2027, else ₹75"
+        ],
+        [
+          "Address",
+          "Yes",
+          "Yes",
+          "Free online till Jun 2027, else ₹75"
+        ],
+        [
+          "Date of birth",
+          "Yes (one-time)",
+          "Yes",
+          "Free online till Jun 2027, else ₹75"
+        ],
+        [
+          "Gender",
+          "Yes",
+          "Yes",
+          "Free online till Jun 2027, else ₹75"
+        ],
+        [
+          "Email",
+          "Yes",
+          "Yes",
+          "Free"
+        ],
+        [
+          "Mobile",
+          "No",
+          "Yes",
+          "Free"
+        ],
+        [
+          "Photo / fingerprints / iris",
+          "No",
+          "Yes",
+          "₹125"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Biometric Update: Photo, Fingerprints, Iris",
+      "icon": "🧬",
+      "content": "Biometric updates happen only at an Aadhaar centre. Book a slot at appointments.uidai.gov.in or walk in, then carry your original Aadhaar; no other document is needed. The operator captures a fresh photo, all ten fingerprints, and an iris scan. The fee is ₹125 for adults. Why it matters: biometrics age. An old photo can fail facial matching, and worn fingerprints (common for farmers and labourers) can block bank and pension authentication. A biometric refresh keeps authentication working. UIDAI recommends updating documents at least once every 10 years. If your fingerprints repeatedly fail at a ration shop or bank, a biometric update usually fixes it. Carry your Aadhaar and ask the operator to recapture all ten fingers."
+    },
+    {
+      "type": "number_highlight",
+      "big": "Book First",
+      "title": "Find a Centre and Book Online",
+      "desc": "For anything biometric or a mobile number change, you must visit an Aadhaar centre. Book a slot at appointments.uidai.gov.in to avoid long queues.<br><br>Use the UIDAI centre locator to find the nearest enrolment centre near you, then carry your original documents on the day."
+    },
+    {
+      "type": "table",
+      "heading": "Accepted Documents by Update Type",
+      "icon": "📄",
+      "columns": [
+        "Update Field",
+        "Accepted Documents",
+        "Document Requirements"
+      ],
+      "rows": [
+        [
+          "Name",
+          "Passport, PAN card, Voter ID, 10th marksheet, Marriage certificate (if name changed)",
+          "Must show new name clearly"
+        ],
+        [
+          "Address",
+          "Utility bill (electricity/water/gas, <3 months), Bank statement, Passport, Rent agreement with owner's ID copy",
+          "Must show name and current address"
+        ],
+        [
+          "Date of Birth",
+          "Birth certificate, SSLC/10th marksheet, Passport, Aadhaar copy (if updating based on Aadhaar error)",
+          "Must clearly show DOB"
+        ],
+        [
+          "Gender",
+          "Any ID proof showing gender",
+          "Usually not questioned, self-declaration sufficient"
+        ],
+        [
+          "Email",
+          "No document needed",
+          "Just verify email (OTP sent to verify)"
+        ],
+        [
+          "Mobile",
+          "No document needed",
+          "Verify by OTP on old and new mobile"
+        ],
+        [
+          "Photo (Biometric)",
+          "None needed - taken at center",
+          "Operator takes fresh photo"
+        ],
+        [
+          "Fingerprints (Biometric)",
+          "None needed - scanned at center",
+          "Operator scans all 10 fingers"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Which Documents Are Accepted",
+      "icon": "✅",
+      "content": [
+        "For identity (POI): passport, PAN card, voter ID, driving licence, or any government photo ID. For date of birth: birth certificate, 10th marksheet, or passport.",
+        "For address (POA): a utility bill under three months old, bank statement, passport, or rent agreement. Since November 2025, electricity and water bills are accepted as valid address proof for online updates.",
+        "Each document must clearly show the new detail you are changing. Name documents must show the new name, address documents the current address.",
+        "For date of birth, a passport, PAN, or a government mark sheet showing the date works as proof.",
+        "Always carry the original when you visit a centre, since the operator verifies it against your uploaded scan."
+      ]
+    },
+    {
+      "type": "eligibility_check",
+      "heading": "Will your update go through",
+      "icon": "✅",
+      "qualify": [
+        "Document is clear and fully visible",
+        "Name and details match across documents",
+        "You have the original for centre visits",
+        "Mobile is linked for OTP where needed",
+        "You use a valid government-issued proof"
+      ],
+      "disqualify": [
+        "Blurry, cropped, or partial document scan",
+        "Name spelling differs across proofs",
+        "Expired or unaccepted document",
+        "No linked mobile for OTP verification",
+        "Self-made or edited document images"
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Address Update Without Standard Documents",
+      "icon": "🏠",
+      "content": "If you have no address proof for a new home, use the Address Validation Letter service on myAadhaar. UIDAI posts a letter with a secret code to your new address. Once it arrives, you log in and enter the code to confirm you live there. The whole process takes about 15 to 30 days including postal delivery. Alternatively, the Head of Family method links you to a relative who already has the correct address. Both visit a centre together and your address updates to match theirs. Note that the Aadhaar address is not legal address proof for courts. There is no limit on how many times you can change your address, unlike DOB."
+    },
+    {
+      "type": "table",
+      "heading": "Update Limits and Costs",
+      "icon": "📋",
+      "columns": [
+        "Update type",
+        "Online?",
+        "Limit",
+        "Cost"
+      ],
+      "rows": [
+        [
+          "Name",
+          "Yes",
+          "Limited online, then centre",
+          "Free online till Jun 2027"
+        ],
+        [
+          "Address",
+          "Yes",
+          "No limit on number of changes",
+          "Free online till Jun 2027"
+        ],
+        [
+          "Date of birth",
+          "Yes",
+          "One lifetime correction only",
+          "Free online till Jun 2027"
+        ],
+        [
+          "Email",
+          "Yes",
+          "Unlimited",
+          "Free"
+        ],
+        [
+          "Mobile",
+          "Centre only",
+          "Unlimited",
+          "Free"
+        ],
+        [
+          "Biometric",
+          "Centre only",
+          "Recommended every 10 years",
+          "₹125"
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Common Mistakes That Delay Your Update",
+      "icon": "⚠️",
+      "content": [
+        "Uploading a blurry or cropped document is the top reason updates get rejected. Scan the full document clearly before uploading.",
+        "A name that does not match your current Aadhaar exactly also triggers rejection. Match spelling, initials, and order carefully.",
+        "People also forget that mobile and biometric updates cannot be done online. Plan a centre visit for those rather than waiting on the portal.",
+        "Another frequent error is a name that does not match across your documents, even by a single letter or initial.",
+        "Fix spelling and order to match exactly before you apply, and avoid using nicknames or short forms."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "warning",
+      "icon": "alert",
+      "title": "A Badly Cropped Photo Is the Top Reason Updates Fail",
+      "content": "Uploading a blurry, oversized, or wrongly cropped document or photo is the most common reason an Aadhaar update gets rejected. The file must be clear and within UIDAI's size limits.<br><br>Resize and crop your photo and signature to the exact required dimensions before you upload, so the document is accepted the first time."
+    },
+    {
+      "type": "text",
+      "heading": "Mandatory Biometric Updates for Children",
+      "icon": "🧒",
+      "content": "A child under 5 gets Aadhaar with photo and demographics only, no fingerprints or iris. It carries a 'child' watermark and has limited use. The first mandatory biometric update (MBU) is at age 5, and the second is at age 15. Both capture fingerprints and iris as the child grows. UIDAI has waived the MBU charge for children aged 5 to 17, free till October 2026, so these updates currently cost nothing. A parent must accompany the child to the centre. Skipping these updates can make the child's Aadhaar unusable for school, banking, or SIM verification later."
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "icon": "info",
+      "title": "The 10-Year Document Update Rule",
+      "content": "UIDAI asks every Aadhaar holder to refresh their identity and address documents at least once every 10 years.<br><br>If your Aadhaar is over 10 years old and never updated, you may hit authentication failures at banks and gas agencies. Update online for free till June 2027, or at a centre for ₹75."
+    },
+    {
+      "type": "text",
+      "heading": "Why an Updated Aadhaar Matters",
+      "icon": "📈",
+      "content": [
+        "Bank KYC: a mismatched address can trigger re-verification and even freeze your account. Update Aadhaar first after moving, then your bank.",
+        "Government schemes: PM Kisan, LPG subsidy, MGNREGA wages, and pensions all reach your Aadhaar-linked account. A wrong mobile number blocks the authentication and stops the benefit.",
+        "Passport: a mismatch with your Aadhaar triggers manual police verification and delays issuance by weeks. Fix Aadhaar before applying.",
+        "PAN: a name or DOB mismatch blocks PAN-Aadhaar linking, and an unlinked PAN becomes inoperative. Correct one document before linking.",
+        "A current Aadhaar also speeds up passport, PAN, and pension work, where the address and name must match.",
+        "For students and job seekers, a correct Aadhaar avoids last-minute trouble during exams and document checks."
+      ]
+    },
+    {
+      "type": "pullquote",
+      "text": "An outdated Aadhaar can block your bank transactions, gas subsidy, and government benefits - a 15-minute update at the nearest centre keeps everything running smoothly."
+    },
+    {
+      "type": "text",
+      "heading": "Aadhaar Security Features to Use",
+      "icon": "🔒",
+      "content": [
+        "Lock biometrics on myAadhaar so nobody can use your fingerprint or iris without you. Unlock it briefly only when you need to authenticate.",
+        "Use Masked Aadhaar, which shows only the last four digits, when sharing for KYC. It is legally valid and keeps your full number private.",
+        "Check your Authentication History on myAadhaar to see every use in the last six months. Anything you do not recognise should be reported at 1947.",
+        "Generate a Virtual ID (VID) to use instead of your real Aadhaar number, and download a password-protected e-Aadhaar after every update.",
+        "Set up email and mobile alerts so you are told whenever your Aadhaar is used for authentication.",
+        "Review your authentication history on myAadhaar from time to time to spot any use you do not recognise."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "icon": "info",
+      "title": "Five Habits That Protect Your Aadhaar",
+      "content": "Lock your biometrics, share only Masked Aadhaar, and use a Virtual ID when a service asks for your number.<br><br>Check your authentication history every few months, and keep your e-Aadhaar in DigiLocker for instant, secure access."
+    },
+    {
+      "type": "text",
+      "heading": "When Not to Share Your Aadhaar",
+      "icon": "🚫",
+      "content": [
+        "Never post your Aadhaar number on social media or unverified websites, and never share the OTP with anyone over the phone. No bank or agency ever asks for it.",
+        "If a hotel, courier, or random service demands Aadhaar, ask whether a voter ID or driving licence works instead. Share Masked Aadhaar when you must.",
+        "Treat your Aadhaar like your ATM PIN, since it links to your bank accounts and biometrics. Report any suspicious use at 1947 or on the UIDAI complaint page.",
+        "Use a Virtual ID or Masked Aadhaar where full disclosure is not legally required, such as hotel check-ins.",
+        "If a service insists on a photocopy, write the purpose and date across the masked copy so it cannot be reused."
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "Key Aadhaar Online Services",
+      "items": [
+        {
+          "icon": "file",
+          "title": "Update documents",
+          "sub": "Refresh name, address, or proof on myAadhaar, free till June 2027."
+        },
+        {
+          "icon": "search",
+          "title": "Check update status",
+          "sub": "Track any request with your Update Request Number."
+        },
+        {
+          "icon": "shield",
+          "title": "Lock biometrics",
+          "sub": "Lock or unlock your fingerprint and iris on myAadhaar."
+        },
+        {
+          "icon": "check",
+          "title": "Download e-Aadhaar",
+          "sub": "Get the latest PDF copy after any approved update."
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Updating Aadhaar for Common Life Situations",
+      "icon": "🔄",
+      "content": "After marriage: update your name on myAadhaar with a marriage certificate, then update PAN, passport, and bank using the new Aadhaar. Keeping your maiden name is also legally valid; a name change is not required. After relocating for work: update your address within a month using a new rent agreement or utility bill. Remember that ration card and voter registration need separate updates. Lost Aadhaar and changed mobile: visit a centre in person, where biometric verification retrieves your number without an OTP. You can update the mobile and download a fresh e-Aadhaar in one visit. For senior citizens: help elderly parents fix an outdated photo, address, or mobile at a centre. Pension and PM-JAY authentication depend on a correct, current Aadhaar."
+    },
+    {
+      "type": "text",
+      "heading": "What C/O Means on Your Aadhaar",
+      "icon": "📑",
+      "content": [
+        "C/O on an Aadhaar card stands for care of, and it shows whose address the holder lives at, such as a father, husband, or guardian.",
+        "If your C/O details are wrong after marriage or a move, update them through the address section on myAadhaar with valid proof.",
+        "Getting the C/O right matters because banks and offices read it as part of your full address."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Aadhaar and Udyog Aadhaar Are Not the Same",
+      "icon": "🏢",
+      "content": [
+        "Many people confuse Aadhaar with Udyog Aadhaar, but they are different. Aadhaar is your personal identity number.",
+        "Udyog Aadhaar, now Udyam Registration, is a separate registration for small businesses and does not replace your personal Aadhaar.",
+        "If you run a small business, keep both in order, since your personal Aadhaar is linked to the Udyam registration."
+      ]
+    },
+    {
+      "type": "table",
+      "heading": "Troubleshooting Common Update Problems",
+      "icon": "🛠️",
+      "columns": [
+        "Issue",
+        "Reason",
+        "Solution"
+      ],
+      "rows": [
+        [
+          "Online update rejected",
+          "Poor quality document scan or name mismatch with current Aadhaar",
+          "Re-upload clearer scan. Ensure name in document matches current Aadhaar name exactly."
+        ],
+        [
+          "Status shows 'Under Review' for 30+ days",
+          "Requires admin verification due to major change (name change, DOB correction)",
+          "Visit Aadhaar center with original Aadhaar + documents. Center operator can fast-track."
+        ],
+        [
+          "Can't login - OTP not received",
+          "Current registered mobile not receiving OTP (phone off, network issue, wrong number saved)",
+          "Wait, check network, try SMS from different sender. If persistent, visit Aadhaar center for mobile update."
+        ],
+        [
+          "Updated e-Aadhaar still shows old info",
+          "e-Aadhaar not refreshed yet or cached",
+          "Download latest e-Aadhaar (refresh browser, clear cache). Or check next day - system may be syncing."
+        ],
+        [
+          "Physical card not received after 90 days",
+          "Postal delivery delay or address issue",
+          "Visit Aadhaar center → request status check. They can reprint or courier physical card."
+        ]
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Official Aadhaar Resources",
+      "icon": "🔗",
+      "content": "All services live at uidai.gov.in, including the centre locator and FAQs. The myAadhaar portal (myaadhaar.uidai.gov.in) handles updates, downloads, biometric locking, VID, and authentication history. The toll-free helpline is 1947, available 24x7, and the email is help@uidai.gov.in. Aadhaar is auto-fetched in DigiLocker, so no separate upload is needed. Avoid third-party websites that charge for Aadhaar services. Every genuine update, download, and complaint is free or fixed-fee through the official UIDAI channels above."
+    },
+    {
+      "type": "text",
+      "heading": "After Your Update Is Approved",
+      "icon": "📥",
+      "content": [
+        "Once approved, download the latest e-Aadhaar from myAadhaar and reprint any copies you keep at home.",
+        "Then update the new details wherever your old Aadhaar was used, such as your bank, PAN, ration card, and EPF account.",
+        "This keeps your records consistent everywhere and avoids a mismatch that could pause a service later."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "info",
+      "icon": "info",
+      "title": "Official Sources and References",
+      "content": "Sources: UIDAI portals uidai.gov.in and myaadhaar.uidai.gov.in, and UIDAI OM No. HQ-16027/1/2022-EU-I-HQ dated 13 May 2026.<br><br>All figures are verified against official UIDAI notifications. Fees and deadlines can change, so confirm on the portal before paying."
+    }
   ],
-  "read_time": "8 min",
-  "stats": [
-   {
-    "label": "Online Doc Update",
-    "value": "Free till Jun 2027"
-   },
-   {
-    "label": "Demographic Fee",
-    "value": "₹75 at centre"
-   },
-   {
-    "label": "Biometric Fee",
-    "value": "₹125"
-   }
-  ]
- },
- "sections": [
-  {
-   "type": "text",
-   "icon": "📋",
-   "heading": "What you can and cannot update in Aadhaar",
-   "content": [
-    "Aadhaar holds two kinds of data. Demographic data (name, address, date of birth, gender, email, mobile) can be changed online or at a centre.",
-    "Biometric data (photograph, fingerprints, iris) can only be updated in person at an Aadhaar centre. It is never done online.",
-    "You can do a limited number of demographic updates online. After that you must visit a centre, a rule meant to prevent casual misuse of a critical ID.",
-    "Email and mobile updates need no document. Name, address, and DOB changes always need supporting proof.",
-    "Keep your linked mobile active before starting any online update. Without it, the OTP login will not work and you will be forced to visit a centre."
-   ]
-  },
-  {
-   "type": "stat_cards",
-   "heading": "Aadhaar update fees in 2026",
-   "icon": "💰",
-   "cards": [
+  "faqs": [
     {
-     "label": "Online document update",
-     "value": "Free till Jun 2027"
+      "question": "How long does an Aadhaar update take?",
+      "answer": "Online demographic updates are usually processed in 7 to 15 days. You can track progress with the URN on the myAadhaar portal.<br><br>Biometric updates done at a centre can take 15 to 30 days to reflect."
     },
     {
-     "label": "Demographic at centre",
-     "value": "₹75"
+      "question": "What is the Aadhaar update fee in 2026?",
+      "answer": "Online document update is free on myAadhaar until 14 June 2027. At a centre, a demographic update costs ₹75.<br><br>A biometric update costs ₹125, and mobile or email updates are free."
     },
     {
-     "label": "Biometric update",
-     "value": "₹125"
+      "question": "How do I update biometrics in Aadhaar?",
+      "answer": "Biometric updates cannot be done online. Visit any Aadhaar centre with your original Aadhaar; no other document is needed.<br><br>The operator captures a fresh photo, fingerprints, and iris for ₹125. Children aged 5 to 17 pay nothing till October 2026."
     },
     {
-     "label": "Mobile / email",
-     "value": "Free"
+      "question": "Will I get a new Aadhaar card after a biometric update?",
+      "answer": "Your Aadhaar number stays the same; only the stored biometrics are refreshed. You can download an updated e-Aadhaar after the change is approved.<br><br>A reprinted physical card can be requested separately if you want one."
+    },
+    {
+      "question": "Can I update Aadhaar without my registered mobile number?",
+      "answer": "No, online updates need an OTP sent to your registered mobile. If that number is lost, you cannot update online.<br><br>Visit an Aadhaar centre in person, where biometric verification replaces the OTP."
+    },
+    {
+      "question": "How many times can I update my Aadhaar address?",
+      "answer": "There is no limit on how many times you can change your address. You update it each time you move.<br><br>Date of birth is different: only one lifetime correction is allowed."
+    },
+    {
+      "question": "Can I update multiple fields in one session?",
+      "answer": "Yes, you can update name, address, and other fields in a single myAadhaar session. Each field still needs its own valid proof.<br><br>While online document update is free till June 2027, this saves repeat visits."
+    },
+    {
+      "question": "What documents are accepted for an address update?",
+      "answer": "A utility bill under three months old, bank statement, passport, or rent agreement all work. Since November 2025, electricity and water bills are accepted online.<br><br>If you have no proof at all, use the Address Validation Letter service."
+    },
+    {
+      "question": "Is my Aadhaar locked, and how do I unlock it?",
+      "answer": "If you locked your biometrics on myAadhaar, no one can authenticate using your fingerprint or iris.<br><br>Unlock it temporarily on the same portal with an OTP whenever you need to authenticate, then it relocks."
+    },
+    {
+      "question": "Is e-Aadhaar valid after an update?",
+      "answer": "Yes, e-Aadhaar is legally equal to the physical card. After any update, download a fresh copy so it shows the new details.<br><br>The password is the first four letters of your name in capitals plus your birth year."
+    },
+    {
+      "question": "How many days does an Aadhaar update take?",
+      "answer": "Most Aadhaar updates are processed within 7 to 30 days. Demographic changes like name or address are usually faster than biometric updates.<br><br>You can track progress with your Update Request Number on myAadhaar until the e-Aadhaar refreshes."
+    },
+    {
+      "question": "How do I check my Aadhaar update status online?",
+      "answer": "Log in to myAadhaar and use your Update Request Number to see the status. It will show as in process, approved, or rejected.<br><br>If approved, download the fresh e-Aadhaar. If rejected, fix the document issue and reapply."
+    },
+    {
+      "question": "Can I update my Aadhaar address online without documents?",
+      "answer": "Yes, if you have no standard address proof, use the Address Validation Letter service on myAadhaar. A verifier at the new address gives consent.<br><br>UIDAI then sends a secret code by post to confirm the address before the update."
+    },
+    {
+      "question": "How do I find an Aadhaar update centre near me?",
+      "answer": "Use the UIDAI centre locator at uidai.gov.in to find the nearest enrolment centre. For biometric or mobile updates you must visit in person.<br><br>Book a slot at appointments.uidai.gov.in first to avoid long queues."
+    },
+    {
+      "question": "What photo size is needed for an Aadhaar document upload?",
+      "answer": "The uploaded document or photo must be clear and within UIDAI's file size limits, or it is rejected. A blurry or wrongly cropped file is the top reason updates fail.<br><br>Resize and crop your photo to the required dimensions before uploading so it is accepted the first time."
     }
-   ]
-  },
-  {
-   "type": "callout",
-   "variant": "info",
-   "heading": "Free online document update extended to June 2027",
-   "content": "Per UIDAI OM No. HQ-16027/1/2022-EU-I-HQ dated 13 May 2026, updating documents through the myAadhaar portal is free of cost up to 14 June 2027.<br><br>After that, the same update costs ₹75. Mobile and biometric updates are separate and are not covered by this free window."
-  },
-  {
-   "heading": "How to Update Aadhaar Online (Demographic Data)",
-   "icon": "💻",
-   "type": "steps",
-   "steps": [
+  ],
+  "disclaimer": "Aadhaar update procedures, fees, and limits based on UIDAI guidelines as of March 2026. UIDAI may update procedures, document requirements, or fees. Always verify at uidai.gov.in or myaadhaar.uidai.gov.in before updating.",
+  "related_pages": [
     {
-     "step": 1,
-     "title": "Visit myaadhaar.uidai.gov.in (UIDAI Self-Service Portal)",
-     "description": "Go to official Aadhaar self-service portal. Click 'Login' on the page. You'll be asked for your Aadhaar number and OTP."
+      "title": "How to Link Aadhaar with PAN",
+      "slug": "link-aadhaar-pan",
+      "tag": "Aadhaar",
+      "url": "/guide/link-aadhaar-pan"
     },
     {
-     "step": 2,
-     "title": "Enter Aadhaar number and request OTP",
-     "description": "Enter your 12-digit Aadhaar number. Click 'Send OTP'. OTP is sent to your Aadhaar-registered mobile number. This is the phone number registered when you first got Aadhaar."
+      "title": "How to Apply for PAN Card",
+      "slug": "apply-pan-card",
+      "tag": "PAN",
+      "url": "/guide/apply-pan-card"
     },
     {
-     "step": 3,
-     "title": "Enter OTP and login",
-     "description": "Enter the 6-digit OTP received on your phone. You're now logged into your Aadhaar account dashboard."
-    },
-    {
-     "step": 4,
-     "title": "Click 'Update Aadhaar' from dashboard",
-     "description": "On dashboard, click 'Update Aadhaar Online'. You'll see a list of fields you can update: Name, Address, Date of Birth, Gender, Email, Mobile, etc."
-    },
-    {
-     "step": 5,
-     "title": "Select field(s) to update",
-     "description": "Click on the field you want to change (e.g., 'Update Name' or 'Update Address'). You can update multiple fields in one session, and online document update is currently free till June 2027."
-    },
-    {
-     "step": 6,
-     "title": "Enter new information",
-     "description": "For name update: Enter full name as you want it shown. For address: Enter new address (building, street, locality, city, state, PIN code). For DOB: Select correct date of birth. For email: Enter new email. For mobile: Enter new mobile (OTP will be sent to verify)."
-    },
-    {
-     "step": 7,
-     "title": "Upload supporting document",
-     "description": "For name: Passport, PAN, Voter ID, or 10th marksheet. For address: Utility bill (electricity/water/gas, <3 months old), Bank statement, Passport, or Rent agreement. For DOB: Birth certificate, 10th marksheet, or Passport. Document must be clear scan/photo in JPEG or PDF format (max 2MB). If name appears on Aadhaar and document, document will validate instantly. Otherwise, admin review needed."
-    },
-    {
-     "step": 8,
-     "title": "Pay ₹50 fee per update",
-     "description": "Each demographic field update costs ₹50. Pay via: Net banking, Debit card, Credit card, or UPI. You get payment receipt. Fee is non-refundable (even if update is rejected after submission)."
-    },
-    {
-     "step": 9,
-     "title": "Get URN (Update Request Number)",
-     "description": "After payment, system generates URN (unique reference number). SAVE THIS - you'll use it to track your update and download updated Aadhaar."
-    },
-    {
-     "step": 10,
-     "title": "Track status at myaadhaar.uidai.gov.in",
-     "description": "Use your URN to check status: 'Submitted', 'Under Review', 'Approved', or 'Rejected'. Most updates take 10-30 days. Once approved, download your updated e-Aadhaar from the portal - immediately available for use."
-    },
-    {
-     "step": 11,
-     "title": "Updated e-Aadhaar downloads; Physical card mailed",
-     "description": "e-Aadhaar (digital copy) available for download within 2-3 days of approval. Download and save - valid for all purposes immediately. Physical Aadhaar card with updated details is printed and mailed to your registered address in 60-90 days."
+      "title": "How to Update Voter ID",
+      "slug": "download-voter-id",
+      "tag": "Voter ID",
+      "url": "/guide/download-voter-id"
     }
-   ]
-  },
-  {
-   "type": "text",
-   "icon": "📱",
-   "heading": "Mobile number update (a special case)",
-   "content": [
-    "Mobile number is the most frequently changed field, and it cannot be updated online. You must visit an Aadhaar centre in person for it.",
-    "At the centre, biometric verification (fingerprint or iris) confirms your identity, then the operator updates the number. There is no fee for a mobile update.",
-    "Your registered mobile is critical: it receives the OTP for bank authentication, scheme disbursements, and tax e-filing. If it is wrong, you lose access to all Aadhaar OTP services until you fix it.",
-    "If your old number is lost and you have no OTP access, the centre visit is the only route, since the OTP cannot reach a dead number."
-   ]
-  },
-  {
-   "type": "table",
-   "heading": "What you can update online vs at a centre",
-   "icon": "🔄",
-   "columns": [
-    "Field",
-    "Online?",
-    "At centre?",
-    "Cost"
-   ],
-   "rows": [
-    [
-     "Name",
-     "Yes",
-     "Yes",
-     "Free online till Jun 2027, else ₹75"
-    ],
-    [
-     "Address",
-     "Yes",
-     "Yes",
-     "Free online till Jun 2027, else ₹75"
-    ],
-    [
-     "Date of birth",
-     "Yes (one-time)",
-     "Yes",
-     "Free online till Jun 2027, else ₹75"
-    ],
-    [
-     "Gender",
-     "Yes",
-     "Yes",
-     "Free online till Jun 2027, else ₹75"
-    ],
-    [
-     "Email",
-     "Yes",
-     "Yes",
-     "Free"
-    ],
-    [
-     "Mobile",
-     "No",
-     "Yes",
-     "Free"
-    ],
-    [
-     "Photo / fingerprints / iris",
-     "No",
-     "Yes",
-     "₹125"
-    ]
-   ]
-  },
-  {
-   "type": "text",
-   "icon": "📸",
-   "heading": "Biometric update: photo, fingerprints, iris",
-   "content": [
-    "Biometric updates happen only at an Aadhaar centre. Book a slot at appointments.uidai.gov.in or walk in, then carry your original Aadhaar; no other document is needed.",
-    "The operator captures a fresh photo, all ten fingerprints, and an iris scan. The fee is ₹125 for adults.",
-    "Why it matters: biometrics age. An old photo can fail facial matching, and worn fingerprints (common for farmers and labourers) can block bank and pension authentication.",
-    "A biometric refresh keeps authentication working. UIDAI recommends updating documents at least once every 10 years.",
-    "If your fingerprints repeatedly fail at a ration shop or bank, a biometric update usually fixes it. Carry your Aadhaar and ask the operator to recapture all ten fingers."
-   ]
-  },
-  {
-   "heading": "Aadhaar Update Documents Needed",
-   "icon": "📄",
-   "type": "table",
-   "columns": [
-    "Update Field",
-    "Accepted Documents",
-    "Document Requirements"
-   ],
-   "rows": [
-    [
-     "Name",
-     "Passport, PAN card, Voter ID, 10th marksheet, Marriage certificate (if name changed)",
-     "Must show new name clearly"
-    ],
-    [
-     "Address",
-     "Utility bill (electricity/water/gas, <3 months), Bank statement, Passport, Rent agreement with owner's ID copy",
-     "Must show name and current address"
-    ],
-    [
-     "Date of Birth",
-     "Birth certificate, SSLC/10th marksheet, Passport, Aadhaar copy (if updating based on Aadhaar error)",
-     "Must clearly show DOB"
-    ],
-    [
-     "Gender",
-     "Any ID proof showing gender",
-     "Usually not questioned, self-declaration sufficient"
-    ],
-    [
-     "Email",
-     "No document needed",
-     "Just verify email (OTP sent to verify)"
-    ],
-    [
-     "Mobile",
-     "No document needed",
-     "Verify by OTP on old and new mobile"
-    ],
-    [
-     "Photo (Biometric)",
-     "None needed - taken at center",
-     "Operator takes fresh photo"
-    ],
-    [
-     "Fingerprints (Biometric)",
-     "None needed - scanned at center",
-     "Operator scans all 10 fingers"
-    ]
-   ]
-  },
-  {
-   "type": "text",
-   "icon": "📄",
-   "heading": "Which documents are accepted",
-   "content": [
-    "For identity (POI): passport, PAN card, voter ID, driving licence, or any government photo ID. For date of birth: birth certificate, 10th marksheet, or passport.",
-    "For address (POA): a utility bill under three months old, bank statement, passport, or rent agreement. Since November 2025, electricity and water bills are accepted as valid address proof for online updates.",
-    "Each document must clearly show the new detail you are changing. Name documents must show the new name, address documents the current address."
-   ]
-  },
-  {
-   "type": "text",
-   "icon": "📬",
-   "heading": "Address update without standard documents",
-   "content": [
-    "If you have no address proof for a new home, use the Address Validation Letter service on myAadhaar. UIDAI posts a letter with a secret code to your new address.",
-    "Once it arrives, you log in and enter the code to confirm you live there. The whole process takes about 15 to 30 days including postal delivery.",
-    "Alternatively, the Head of Family method links you to a relative who already has the correct address. Both visit a centre together and your address updates to match theirs.",
-    "Note that the Aadhaar address is not legal address proof for courts. There is no limit on how many times you can change your address, unlike DOB."
-   ]
-  },
-  {
-   "type": "table",
-   "heading": "Update limits and when to visit a centre",
-   "icon": "📊",
-   "columns": [
-    "Update type",
-    "Online?",
-    "Limit",
-    "Cost"
-   ],
-   "rows": [
-    [
-     "Name",
-     "Yes",
-     "Limited online, then centre",
-     "Free online till Jun 2027"
-    ],
-    [
-     "Address",
-     "Yes",
-     "No limit on number of changes",
-     "Free online till Jun 2027"
-    ],
-    [
-     "Date of birth",
-     "Yes",
-     "One lifetime correction only",
-     "Free online till Jun 2027"
-    ],
-    [
-     "Email",
-     "Yes",
-     "Unlimited",
-     "Free"
-    ],
-    [
-     "Mobile",
-     "Centre only",
-     "Unlimited",
-     "Free"
-    ],
-    [
-     "Biometric",
-     "Centre only",
-     "Recommended every 10 years",
-     "₹125"
-    ]
-   ]
-  },
-  {
-   "type": "text",
-   "icon": "⚠️",
-   "heading": "Common mistakes that delay your update",
-   "content": [
-    "Uploading a blurry or cropped document is the top reason updates get rejected. Scan the full document clearly before uploading.",
-    "A name that does not match your current Aadhaar exactly also triggers rejection. Match spelling, initials, and order carefully.",
-    "People also forget that mobile and biometric updates cannot be done online. Plan a centre visit for those rather than waiting on the portal."
-   ]
-  },
-  {
-   "type": "text",
-   "icon": "👶",
-   "heading": "Mandatory biometric updates for children",
-   "content": [
-    "A child under 5 gets Aadhaar with photo and demographics only, no fingerprints or iris. It carries a 'child' watermark and has limited use.",
-    "The first mandatory biometric update (MBU) is at age 5, and the second is at age 15. Both capture fingerprints and iris as the child grows.",
-    "UIDAI has waived the MBU charge for children aged 5 to 17, free till October 2026, so these updates currently cost nothing. A parent must accompany the child to the centre.",
-    "Skipping these updates can make the child's Aadhaar unusable for school, banking, or SIM verification later."
-   ]
-  },
-  {
-   "type": "callout",
-   "variant": "warning",
-   "heading": "The 10-year document update rule",
-   "content": "UIDAI asks every Aadhaar holder to refresh their identity and address documents at least once every 10 years.<br><br>If your Aadhaar is over 10 years old and never updated, you may hit authentication failures at banks and gas agencies. Update online for free till June 2027, or at a centre for ₹75."
-  },
-  {
-   "type": "text",
-   "icon": "⚠️",
-   "heading": "Why an updated Aadhaar matters",
-   "content": [
-    "Bank KYC: a mismatched address can trigger re-verification and even freeze your account. Update Aadhaar first after moving, then your bank.",
-    "Government schemes: PM Kisan, LPG subsidy, MGNREGA wages, and pensions all reach your Aadhaar-linked account. A wrong mobile number blocks the authentication and stops the benefit.",
-    "Passport: a mismatch with your Aadhaar triggers manual police verification and delays issuance by weeks. Fix Aadhaar before applying.",
-    "PAN: a name or DOB mismatch blocks PAN-Aadhaar linking, and an unlinked PAN becomes inoperative. Correct one document before linking."
-   ]
-  },
-  {
-   "type": "pullquote",
-   "text": "An outdated Aadhaar can block your bank transactions, gas subsidy, and government benefits - a 15-minute update at the nearest centre keeps everything running smoothly."
-  },
-  {
-   "type": "text",
-   "icon": "🔒",
-   "heading": "Aadhaar security features to use",
-   "content": [
-    "Lock biometrics on myAadhaar so nobody can use your fingerprint or iris without you. Unlock it briefly only when you need to authenticate.",
-    "Use Masked Aadhaar, which shows only the last four digits, when sharing for KYC. It is legally valid and keeps your full number private.",
-    "Check your Authentication History on myAadhaar to see every use in the last six months. Anything you do not recognise should be reported at 1947.",
-    "Generate a Virtual ID (VID) to use instead of your real Aadhaar number, and download a password-protected e-Aadhaar after every update."
-   ]
-  },
-  {
-   "type": "callout",
-   "variant": "tip",
-   "heading": "Five habits that protect your Aadhaar",
-   "content": "Lock your biometrics, share only Masked Aadhaar, and use a Virtual ID when a service asks for your number.<br><br>Check your authentication history every few months, and keep your e-Aadhaar in DigiLocker for instant, secure access."
-  },
-  {
-   "type": "text",
-   "icon": "🚫",
-   "heading": "When not to share your Aadhaar",
-   "content": [
-    "Never post your Aadhaar number on social media or unverified websites, and never share the OTP with anyone over the phone. No bank or agency ever asks for it.",
-    "If a hotel, courier, or random service demands Aadhaar, ask whether a voter ID or driving licence works instead. Share Masked Aadhaar when you must.",
-    "Treat your Aadhaar like your ATM PIN, since it links to your bank accounts and biometrics. Report any suspicious use at 1947 or on the UIDAI complaint page."
-   ]
-  },
-  {
-   "type": "text",
-   "icon": "👥",
-   "heading": "Updating Aadhaar for common life situations",
-   "content": [
-    "After marriage: update your name on myAadhaar with a marriage certificate, then update PAN, passport, and bank using the new Aadhaar. Keeping your maiden name is also legally valid; a name change is not required.",
-    "After relocating for work: update your address within a month using a new rent agreement or utility bill. Remember that ration card and voter registration need separate updates.",
-    "Lost Aadhaar and changed mobile: visit a centre in person, where biometric verification retrieves your number without an OTP. You can update the mobile and download a fresh e-Aadhaar in one visit.",
-    "For senior citizens: help elderly parents fix an outdated photo, address, or mobile at a centre. Pension and PM-JAY authentication depend on a correct, current Aadhaar."
-   ]
-  },
-  {
-   "heading": "Aadhaar Update Troubleshooting",
-   "icon": "🔧",
-   "type": "table",
-   "columns": [
-    "Issue",
-    "Reason",
-    "Solution"
-   ],
-   "rows": [
-    [
-     "Online update rejected",
-     "Poor quality document scan or name mismatch with current Aadhaar",
-     "Re-upload clearer scan. Ensure name in document matches current Aadhaar name exactly."
-    ],
-    [
-     "Status shows 'Under Review' for 30+ days",
-     "Requires admin verification due to major change (name change, DOB correction)",
-     "Visit Aadhaar center with original Aadhaar + documents. Center operator can fast-track."
-    ],
-    [
-     "Can't login - OTP not received",
-     "Current registered mobile not receiving OTP (phone off, network issue, wrong number saved)",
-     "Wait, check network, try SMS from different sender. If persistent, visit Aadhaar center for mobile update."
-    ],
-    [
-     "Updated e-Aadhaar still shows old info",
-     "e-Aadhaar not refreshed yet or cached",
-     "Download latest e-Aadhaar (refresh browser, clear cache). Or check next day - system may be syncing."
-    ],
-    [
-     "Physical card not received after 90 days",
-     "Postal delivery delay or address issue",
-     "Visit Aadhaar center → request status check. They can reprint or courier physical card."
-    ]
-   ]
-  },
-  {
-   "type": "text",
-   "icon": "📞",
-   "heading": "Official Aadhaar resources",
-   "content": [
-    "All services live at uidai.gov.in, including the centre locator and FAQs. The myAadhaar portal (myaadhaar.uidai.gov.in) handles updates, downloads, biometric locking, VID, and authentication history.",
-    "The toll-free helpline is 1947, available 24x7, and the email is help@uidai.gov.in. Aadhaar is auto-fetched in DigiLocker, so no separate upload is needed.",
-    "Avoid third-party websites that charge for Aadhaar services. Every genuine update, download, and complaint is free or fixed-fee through the official UIDAI channels above."
-   ]
-  },
-  {
-   "type": "callout",
-   "variant": "info",
-   "heading": "Official Sources & References",
-   "content": "Sources: UIDAI portals uidai.gov.in and myaadhaar.uidai.gov.in, and UIDAI OM No. HQ-16027/1/2022-EU-I-HQ dated 13 May 2026.<br><br>All figures are verified against official UIDAI notifications. Fees and deadlines can change, so confirm on the portal before paying."
-  }
- ],
- "faqs": [
-  {
-   "question": "How long does an Aadhaar update take?",
-   "answer": "Online demographic updates are usually processed in 7 to 15 days. You can track progress with the URN on the myAadhaar portal.<br><br>Biometric updates done at a centre can take 15 to 30 days to reflect."
-  },
-  {
-   "question": "What is the Aadhaar update fee in 2026?",
-   "answer": "Online document update is free on myAadhaar until 14 June 2027. At a centre, a demographic update costs ₹75.<br><br>A biometric update costs ₹125, and mobile or email updates are free."
-  },
-  {
-   "question": "How do I update biometrics in Aadhaar?",
-   "answer": "Biometric updates cannot be done online. Visit any Aadhaar centre with your original Aadhaar; no other document is needed.<br><br>The operator captures a fresh photo, fingerprints, and iris for ₹125. Children aged 5 to 17 pay nothing till October 2026."
-  },
-  {
-   "question": "Will I get a new Aadhaar card after a biometric update?",
-   "answer": "Your Aadhaar number stays the same; only the stored biometrics are refreshed. You can download an updated e-Aadhaar after the change is approved.<br><br>A reprinted physical card can be requested separately if you want one."
-  },
-  {
-   "question": "Can I update Aadhaar without my registered mobile number?",
-   "answer": "No, online updates need an OTP sent to your registered mobile. If that number is lost, you cannot update online.<br><br>Visit an Aadhaar centre in person, where biometric verification replaces the OTP."
-  },
-  {
-   "question": "How many times can I update my Aadhaar address?",
-   "answer": "There is no limit on how many times you can change your address. You update it each time you move.<br><br>Date of birth is different: only one lifetime correction is allowed."
-  },
-  {
-   "question": "Can I update multiple fields in one session?",
-   "answer": "Yes, you can update name, address, and other fields in a single myAadhaar session. Each field still needs its own valid proof.<br><br>While online document update is free till June 2027, this saves repeat visits."
-  },
-  {
-   "question": "What documents are accepted for an address update?",
-   "answer": "A utility bill under three months old, bank statement, passport, or rent agreement all work. Since November 2025, electricity and water bills are accepted online.<br><br>If you have no proof at all, use the Address Validation Letter service."
-  },
-  {
-   "question": "Is my Aadhaar locked, and how do I unlock it?",
-   "answer": "If you locked your biometrics on myAadhaar, no one can authenticate using your fingerprint or iris.<br><br>Unlock it temporarily on the same portal with an OTP whenever you need to authenticate, then it relocks."
-  },
-  {
-   "question": "Is e-Aadhaar valid after an update?",
-   "answer": "Yes, e-Aadhaar is legally equal to the physical card. After any update, download a fresh copy so it shows the new details.<br><br>The password is the first four letters of your name in capitals plus your birth year."
-  }
- ],
- "disclaimer": "Aadhaar update procedures, fees, and limits based on UIDAI guidelines as of March 2026. UIDAI may update procedures, document requirements, or fees. Always verify at uidai.gov.in or myaadhaar.uidai.gov.in before updating.",
- "related_pages": [
-  {
-   "title": "How to Link Aadhaar with PAN",
-   "slug": "link-aadhaar-pan",
-   "tag": "Aadhaar",
-   "url": "/guide/link-aadhaar-pan"
-  },
-  {
-   "title": "How to Apply for PAN Card",
-   "slug": "apply-pan-card",
-   "tag": "PAN",
-   "url": "/guide/apply-pan-card"
-  },
-  {
-   "title": "How to Update Voter ID",
-   "slug": "download-voter-id",
-   "tag": "Voter ID",
-   "url": "/guide/download-voter-id"
-  }
- ],
- "tags": [
-  "Aadhaar",
-  "UIDAI",
-  "Identity Update",
-  "Address Change",
-  "Name Change",
-  "Biometric Update"
- ],
- "image_suggestions": [
-  "myaadhaar.uidai.gov.in portal dashboard",
-  "Aadhaar update form with fields",
-  "Aadhaar Enrollment Center biometric capture",
-  "e-Aadhaar PDF sample",
-  "Masked Aadhaar for secure sharing"
- ],
- "last_reviewed": "May 2026"
+  ],
+  "tags": [
+    "Aadhaar",
+    "UIDAI",
+    "Identity Update",
+    "Address Change",
+    "Name Change",
+    "Biometric Update"
+  ],
+  "image_suggestions": [
+    "myaadhaar.uidai.gov.in portal dashboard",
+    "Aadhaar update form with fields",
+    "Aadhaar Enrollment Center biometric capture",
+    "e-Aadhaar PDF sample",
+    "Masked Aadhaar for secure sharing"
+  ],
+  "last_reviewed": "June 2026"
 }

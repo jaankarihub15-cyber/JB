@@ -5,6 +5,8 @@ import { SaveForLater } from "@/components/save-for-later";
 import { SourceCitations } from "@/components/source-citations";
 import { PdfSummary } from "@/components/pdf-summary";
 import { EligibilityCTA } from "@/components/eligibility-cta";
+import { ResizerCTA } from "@/components/resizer-cta";
+import { Fragment } from "react";
 import { TableOfContents } from "@/components/table-of-contents";
 import { notFound } from "next/navigation";
 import { getGuideBySlug, getAllGuideSlugs } from "@/lib/content";
@@ -76,7 +78,7 @@ export default async function GuideDetailPage({ params }: Props) {
     });
 
   return (
-    <div className="max-w-[860px] mx-auto px-5 py-6">
+    <div className="theme-v2 max-w-[860px] mx-auto px-5 py-6">
       <TableOfContents items={tocItems} />
       <article itemScope itemType="https://schema.org/HowTo">
         <meta itemProp="name" content={g.title} />
@@ -115,7 +117,8 @@ export default async function GuideDetailPage({ params }: Props) {
       {g.sections.map((section: any, idx: number) => {
         const sectionId = section.heading && !["svg_block", "stat_grid", "process_flow", "icon_list", "timeline", "comparison_card", "bar_chart", "number_highlight", "modern_callout", "quick_action_grid", "eligibility_check"].includes(section.type) ? `section-${g.sections.filter((s: any, i: number) => i < idx && s.heading && !["svg_block", "stat_grid", "process_flow", "icon_list", "timeline", "comparison_card", "bar_chart", "number_highlight", "modern_callout", "quick_action_grid", "eligibility_check"].includes(s.type)).length}` : undefined;
         return (
-        <div key={idx} id={sectionId}>
+        <Fragment key={idx}>
+        <div id={sectionId}>
           {section.heading && !["svg_block", "stat_grid", "process_flow", "icon_list", "timeline", "comparison_card", "bar_chart", "number_highlight", "modern_callout", "quick_action_grid", "eligibility_check"].includes(section.type) && <SectionHeading icon={section.icon}>{section.heading}</SectionHeading>}
 
           {section.type === "text" &&
@@ -263,6 +266,8 @@ export default async function GuideDetailPage({ params }: Props) {
             </figure>
           )}
         </div>
+        {idx === 0 && <ResizerCTA />}
+        </Fragment>
       );})}
 
       {/* Infographic */}
