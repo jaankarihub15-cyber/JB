@@ -8,6 +8,7 @@ import { SourceCitations } from "@/components/source-citations";
 import { PdfSummary } from "@/components/pdf-summary";
 import { EligibilityCTA } from "@/components/eligibility-cta";
 import { ResizerCTA } from "@/components/resizer-cta";
+import { AdSlot } from "@/components/ad-slot";
 import { Fragment } from "react";
 import { TableOfContents } from "@/components/table-of-contents";
 import { notFound } from "next/navigation";
@@ -302,6 +303,7 @@ export default async function GuideDetailPage({ params }: Props) {
           )}
         </div>
         {idx === 0 && <ResizerCTA />}
+        {idx === 1 && <AdSlot />}
         </Fragment>
       );})}
 
