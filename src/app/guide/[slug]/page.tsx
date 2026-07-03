@@ -303,7 +303,8 @@ export default async function GuideDetailPage({ params }: Props) {
           )}
         </div>
         {idx === 0 && <ResizerCTA />}
-        {idx === 1 && <AdSlot />}
+        {idx === 1 && <AdSlot slot="2574732999" />}
+        {idx === 9 && <AdSlot slot="8366115724" />}
         </Fragment>
       );})}
 

@@ -318,7 +318,8 @@ export default async function PaisaDetailPage({ params }: Props) {
             </figure>
           )}
 
-        {idx === 1 && <AdSlot />}
+        {idx === 1 && <AdSlot slot="2574732999" />}
+        {idx === 9 && <AdSlot slot="8366115724" />}
 
         </div>
       );})}

@@ -228,7 +228,8 @@ export default async function ExamDetailPage({ params }: Props) {
                 {section.type === "divider" && (<div className="my-8 flex items-center gap-3"><div className="flex-1 h-px bg-border"></div>{section.label && <span className="text-xs text-text-muted uppercase tracking-wider font-semibold">{section.label}</span>}<div className="flex-1 h-px bg-border"></div></div>)}
               </div>
               {idx === 0 && <ResizerCTA />}
-              {idx === 1 && <AdSlot />}
+              {idx === 1 && <AdSlot slot="2574732999" />}
+        {idx === 9 && <AdSlot slot="8366115724" />}
               </Fragment>
             );})}
 
