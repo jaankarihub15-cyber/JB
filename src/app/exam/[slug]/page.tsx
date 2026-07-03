@@ -1,4 +1,5 @@
 import { AuthorBox } from "@/components/author-box";
+import { AdSlot } from "@/components/ad-slot";
 import { ResizerCTA } from "@/components/resizer-cta";
 import { FormKitCTA } from "@/components/form-kit-cta";
 import { Fragment } from "react";
@@ -227,6 +228,7 @@ export default async function ExamDetailPage({ params }: Props) {
                 {section.type === "divider" && (<div className="my-8 flex items-center gap-3"><div className="flex-1 h-px bg-border"></div>{section.label && <span className="text-xs text-text-muted uppercase tracking-wider font-semibold">{section.label}</span>}<div className="flex-1 h-px bg-border"></div></div>)}
               </div>
               {idx === 0 && <ResizerCTA />}
+              {idx === 1 && <AdSlot />}
               </Fragment>
             );})}
 

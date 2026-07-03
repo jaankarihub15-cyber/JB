@@ -1,4 +1,5 @@
 import { AuthorBox } from "@/components/author-box";
+import { AdSlot } from "@/components/ad-slot";
 import { HeroV2 } from "@/components/hero-v2";
 import { TocSidebarV2 } from "@/components/toc-sidebar-v2";
 import { Infographic } from "@/components/infographic";
@@ -316,6 +317,8 @@ export default async function PaisaDetailPage({ params }: Props) {
               )}
             </figure>
           )}
+
+        {idx === 1 && <AdSlot />}
 
         </div>
       );})}

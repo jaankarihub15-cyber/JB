@@ -1,4 +1,5 @@
 import { AuthorBox } from "@/components/author-box";
+import { AdSlot } from "@/components/ad-slot";
 import { SchemeBlock } from "@/components/scheme-blocks";
 import { Infographic } from "@/components/infographic";
 import { SaveForLater } from "@/components/save-for-later";
@@ -254,6 +255,7 @@ export default async function SchemeDetailPage({ params }: Props) {
               <div className="flex-1 h-px bg-border"></div>
             </div>
           )}
+        {idx === 1 && <AdSlot />}
         </div>
       );})}
 

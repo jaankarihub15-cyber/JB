@@ -1,4 +1,5 @@
 import { AuthorBox } from "@/components/author-box";
+import { AdSlot } from "@/components/ad-slot";
 import { Infographic } from "@/components/infographic";
 import { SaveForLater } from "@/components/save-for-later";
 import { SourceCitations } from "@/components/source-citations";
@@ -173,6 +174,7 @@ export default async function CompareDetailPage({ params }: Props) {
               )}
             </figure>
           )}
+        {idx === 1 && <AdSlot />}
         </div>
       );})}
 
