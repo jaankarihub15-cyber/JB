@@ -3,10 +3,11 @@
 import { useEffect, useRef } from "react";
 
 // In-article AdSense unit, CLS-safe.
-// The AdSense loader script is injected on first user interaction
-// (see AdSenseLoader in layout). Because the script may not be present
-// when this component mounts, we wait until adsbygoogle is available
-// before pushing, so the ad reliably fills.
+// Pattern: queue the ad request immediately on mount by pushing to
+// window.adsbygoogle (creating the array if needed). AdSense's script,
+// whenever it loads (here: injected on first user interaction by
+// AdSenseLoader), drains this queue and fills the <ins> slot.
+// Pushing BEFORE the script loads is the supported, reliable pattern.
 // A fixed min-height reserves space so the ad never shifts layout.
 
 declare global {
@@ -20,32 +21,14 @@ export function AdSlot({ slot = "2574732999" }: { slot?: string }) {
 
   useEffect(() => {
     if (pushed.current) return;
-
-    const tryPush = () => {
-      if (pushed.current) return true;
-      if (typeof window !== "undefined" && Array.isArray(window.adsbygoogle)) {
-        try {
-          window.adsbygoogle.push({});
-          pushed.current = true;
-          return true;
-        } catch {
-          // fall through to retry
-        }
-      }
-      return false;
-    };
-
-    if (tryPush()) return;
-
-    const interval = window.setInterval(() => {
-      if (tryPush()) window.clearInterval(interval);
-    }, 500);
-    const stop = window.setTimeout(() => window.clearInterval(interval), 15000);
-
-    return () => {
-      window.clearInterval(interval);
-      window.clearTimeout(stop);
-    };
+    pushed.current = true;
+    try {
+      // Create the queue if it doesn't exist yet, and queue this slot.
+      // The AdSense script drains this queue when it loads.
+      (window.adsbygoogle = window.adsbygoogle || []).push({});
+    } catch {
+      // Blocked or errored; fail silently.
+    }
   }, []);
 
   return (
