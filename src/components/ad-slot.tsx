@@ -3,9 +3,11 @@
 import { useEffect, useRef } from "react";
 
 // In-article AdSense unit, CLS-safe.
-// The loader script (adsbygoogle.js) is already in <head> via layout.tsx,
-// so this component only renders the <ins> unit and triggers the push.
-// A fixed min-height reserves space so the ad never shifts layout while loading.
+// The AdSense loader script is injected on first user interaction
+// (see AdSenseLoader in layout). Because the script may not be present
+// when this component mounts, we wait until adsbygoogle is available
+// before pushing, so the ad reliably fills.
+// A fixed min-height reserves space so the ad never shifts layout.
 
 declare global {
   interface Window {
@@ -18,12 +20,32 @@ export function AdSlot({ slot = "2574732999" }: { slot?: string }) {
 
   useEffect(() => {
     if (pushed.current) return;
-    pushed.current = true;
-    try {
-      (window.adsbygoogle = window.adsbygoogle || []).push({});
-    } catch {
-      // AdSense not ready or blocked; fail silently
-    }
+
+    const tryPush = () => {
+      if (pushed.current) return true;
+      if (typeof window !== "undefined" && Array.isArray(window.adsbygoogle)) {
+        try {
+          window.adsbygoogle.push({});
+          pushed.current = true;
+          return true;
+        } catch {
+          // fall through to retry
+        }
+      }
+      return false;
+    };
+
+    if (tryPush()) return;
+
+    const interval = window.setInterval(() => {
+      if (tryPush()) window.clearInterval(interval);
+    }, 500);
+    const stop = window.setTimeout(() => window.clearInterval(interval), 15000);
+
+    return () => {
+      window.clearInterval(interval);
+      window.clearTimeout(stop);
+    };
   }, []);
 
   return (

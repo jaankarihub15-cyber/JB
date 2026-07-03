@@ -3,6 +3,7 @@ import Script from "next/script";
 // FONT DISABLED
 import { Header } from "@/components/header";
 import { Footer } from "@/components/footer";
+import { AdSenseLoader } from "@/components/adsense-loader";
 import { Analytics } from "@vercel/analytics/react";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 import "./globals.css";
@@ -57,11 +58,6 @@ export default function RootLayout({
     <html lang="en-IN" className={jakarta.variable}>
       <head>
         <meta name="verify-admitad" content="87e3f0cfe3" />
-        <script
-          async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1251062595068305"
-          crossOrigin="anonymous"
-        ></script>
         <link rel="alternate" type="application/rss+xml" title="KnowledgeKendra RSS" href="https://knowledgekendra.com/feed.xml" />
         <link rel="preconnect" href="https://www.googletagmanager.com" />
         <link rel="preconnect" href="https://www.clarity.ms" />
@@ -130,6 +126,7 @@ export default function RootLayout({
         </Script>
         <Analytics />
         <SpeedInsights />
+        <AdSenseLoader />
       </body>
     </html>
   );
