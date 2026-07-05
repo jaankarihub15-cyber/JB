@@ -4,7 +4,6 @@ import Script from "next/script";
 import { Header } from "@/components/header";
 import { Footer } from "@/components/footer";
 import { AdSenseLoader } from "@/components/adsense-loader";
-import { OneSignalLoader } from "@/components/onesignal-loader";
 import { Analytics } from "@vercel/analytics/react";
 import { SpeedInsights } from "@vercel/speed-insights/next";
 import "./globals.css";
@@ -128,7 +127,6 @@ export default function RootLayout({
         <Analytics />
         <SpeedInsights />
         <AdSenseLoader />
-        <OneSignalLoader />
       </body>
     </html>
   );
