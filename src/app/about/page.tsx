@@ -17,7 +17,7 @@ export default function AboutPage() {
         <section>
           <h2 className="heading text-xl mt-8 mb-3 text-text">Our Mission</h2>
           <p className="text-base">KnowledgeKendra exists to bridge the information gap that prevents millions of Indians from accessing government benefits, preparing for competitive exams, and building financial literacy. We simplify complex official information into clear, actionable guides — in plain language, with no jargon.</p>
-          <p className="text-base">We cover 150+ topics across government schemes (Yojana), competitive exams, personal finance (Paisa), how-to guides, and side-by-side comparisons — all sourced from official government portals and verified publications.</p>
+          <p className="text-base">We cover 150+ topics across government schemes (Yojana), competitive exams, personal finance (Paisa), how-to guides, and side-by-side comparisons, all sourced from official government portals and verified publications.</p>
         </section>
 
         <section>
@@ -82,8 +82,8 @@ export default function AboutPage() {
           <h2 className="heading text-xl mt-8 mb-3 text-text">Our Standards</h2>
           <div className="text-base space-y-2">
             <p>✅ We never publish information we cannot verify from official sources</p>
-            <p>✅ We link directly to official application portals — not affiliate links</p>
-            <p>✅ We do not accept paid placements or sponsored content</p>
+            <p>✅ We always link to official government portals for applications</p>
+            <p>✅ Some pages include affiliate links, like bank accounts, that help keep the site free. These never affect our scheme information.</p>
             <p>✅ We clearly state when information is estimated vs. confirmed</p>
             <p>✅ We disclose the last updated date on every article</p>
           </div>
@@ -95,7 +95,7 @@ export default function AboutPage() {
           <div className="mt-4 space-y-3">
             <div className="flex gap-3 items-start">
               <span className="text-accent font-bold text-lg mt-0.5">1.</span>
-              <p className="text-base"><strong>Official Source First</strong> — All facts, figures, eligibility criteria, and dates are sourced directly from official government portals (.gov.in), Press Information Bureau (PIB) releases, and official gazette notifications.</p>
+              <p className="text-base"><strong>Official Source First</strong>. All facts, figures, eligibility criteria, and dates are sourced directly from official government portals (.gov.in), Press Information Bureau (PIB) releases, and official gazette notifications.</p>
             </div>
             <div className="flex gap-3 items-start">
               <span className="text-accent font-bold text-lg mt-0.5">2.</span>

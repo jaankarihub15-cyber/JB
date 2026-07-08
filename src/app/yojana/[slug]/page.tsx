@@ -354,6 +354,11 @@ export default async function SchemeDetailPage({ params }: Props) {
         </>
       )}
 
+      {JSON.stringify(s.extra_sections || []).includes("linksredirect.com") && (
+        <p className="mt-6 text-xs text-text-muted italic border-t border-border pt-4">
+          This page contains affiliate links. We may earn a commission if you open an account through them, at no extra cost to you. This never affects our scheme information.
+        </p>
+      )}
       <div className="mt-8 border-t border-border pt-6">
         <PdfSummary title={s.title} stats={s.hero?.stats} faqs={s.faqs} />
         <SourceCitations />
