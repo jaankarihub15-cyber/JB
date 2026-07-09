@@ -135,6 +135,19 @@ export default async function SchemeDetailPage({ params }: Props) {
         <p key={i} className="text-base text-text-secondary leading-[1.75] mb-5" dangerouslySetInnerHTML={{ __html: p }} />
       ))}
 
+      {s.affiliate_kotak && (
+        <div className="my-6 rounded-2xl border border-green-300 bg-green-50 p-5">
+          <div className="flex items-center gap-3 mb-3">
+            <div className="w-9 h-9 rounded-lg bg-green-600 flex items-center justify-center text-lg shrink-0">💳</div>
+            <p className="font-bold text-green-900 text-[15px] m-0">Need a bank account to receive this benefit?</p>
+          </div>
+          <p className="text-[13.5px] leading-relaxed text-green-800 mb-3">
+            This benefit is paid straight to your bank account through DBT. If you do not have one yet, you can open a free zero-balance Kotak 811 account online to receive the payment.
+          </p>
+          <a href="https://linksredirect.com/?cid=301717&source=linkkit&url=https%3A%2F%2Fwww.kotak811.com%2Fopen-zero-balance-savings-account" target="_blank" rel="sponsored noopener" className="inline-block bg-green-600 text-white text-sm font-semibold px-4 py-2.5 rounded-xl no-underline">Open a free Kotak 811 account →</a>
+        </div>
+      )}
+
       {/* Eligibility */}
       <SectionHeading icon="✅">Eligibility</SectionHeading>
       <Card>
@@ -354,7 +367,7 @@ export default async function SchemeDetailPage({ params }: Props) {
         </>
       )}
 
-      {JSON.stringify(s.extra_sections || []).includes("linksredirect.com") && (
+      {s.affiliate_kotak && (
         <p className="mt-6 text-xs text-text-muted italic border-t border-border pt-4">
           This page contains affiliate links. We may earn a commission if you open an account through them, at no extra cost to you. This never affects our scheme information.
         </p>

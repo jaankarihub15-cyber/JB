@@ -264,13 +264,6 @@
       ]
     },
     {
-      "type": "modern_callout",
-      "variant": "tip",
-      "icon": "lightbulb",
-      "title": "\ud83d\udcb3 Need a bank account to receive this benefit?",
-      "content": "The Rupashree grant is paid straight to your bank account through DBT. If you do not have one yet, you can open a free zero-balance Kotak 811 account online to receive the payment.<br><br><a href=\"https://linksredirect.com/?cid=301717&source=linkkit&url=https%3A%2F%2Fwww.kotak811.com%2Fopen-zero-balance-savings-account\" target=\"_blank\" rel=\"sponsored noopener\">Open a free Kotak 811 account \u2192</a>"
-    },
-    {
       "type": "text",
       "heading": "\ud83d\udcc4 What Is Rupashree Prakalpa and Who Runs It (continued)",
       "content": [
@@ -713,5 +706,6 @@
       "question": "What happens if my marriage is postponed after I apply?",
       "answer": "Contact your BSK with your Applicant ID as soon as the date changes. Depending on the new date, they will update your existing application or ask you to file a fresh one inside the 30 to 60 day window."
     }
-  ]
+  ],
+  "affiliate_kotak": true
 }

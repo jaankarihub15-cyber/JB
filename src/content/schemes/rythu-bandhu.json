@@ -403,13 +403,6 @@
       ]
     },
     {
-      "type": "modern_callout",
-      "variant": "tip",
-      "icon": "lightbulb",
-      "title": "\ud83d\udcb3 Need a bank account to receive this benefit?",
-      "content": "Your Rythu Bharosa payment is paid straight to your bank account through DBT. If you do not have one yet, you can open a free zero-balance Kotak 811 account online to receive the payment.<br><br><a href=\"https://linksredirect.com/?cid=301717&source=linkkit&url=https%3A%2F%2Fwww.kotak811.com%2Fopen-zero-balance-savings-account\" target=\"_blank\" rel=\"sponsored noopener\">Open a free Kotak 811 account \u2192</a>"
-    },
-    {
       "type": "process_flow",
       "heading": "Application & Verification Process",
       "steps": [
@@ -826,5 +819,6 @@
   ],
   "last_reviewed": "May 2026",
   "category": "farmer",
-  "state": "telangana"
+  "state": "telangana",
+  "affiliate_kotak": true
 }
