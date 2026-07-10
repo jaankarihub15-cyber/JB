@@ -1,3 +1,4 @@
+import { Fragment } from "react";
 import { AuthorBox } from "@/components/author-box";
 import { AdSlot } from "@/components/ad-slot";
 import { SchemeBlock } from "@/components/scheme-blocks";
@@ -115,17 +116,29 @@ export default async function SchemeDetailPage({ params }: Props) {
 
       {/* Quick Actions */}
       <div className="flex gap-3 mb-8 flex-wrap">
-        {s.quick_actions.map((a: any) => (
-          <a
-            key={a.label}
-            href={a.url}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="flex items-center gap-2 px-4 py-3 rounded-lg border border-border bg-card text-sm font-medium text-text hover:border-accent/40 transition-colors"
-          >
-            <span>{a.icon}</span>
-            {a.label}
-          </a>
+        {s.quick_actions.map((a: any, qi: number) => (
+          <Fragment key={a.label}>
+            <a
+              href={a.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-2 px-4 py-3 rounded-lg border border-border bg-card text-sm font-medium text-text hover:border-accent/40 transition-colors"
+            >
+              <span>{a.icon}</span>
+              {a.label}
+            </a>
+            {s.affiliate_kotak && qi === 0 && (
+              <a
+                href="https://linksredirect.com/?cid=301717&source=linkkit&url=https%3A%2F%2Fwww.kotak811.com%2Fopen-zero-balance-savings-account"
+                target="_blank"
+                rel="sponsored noopener"
+                className="flex items-center gap-2 px-4 py-3 rounded-lg bg-green-600 text-white text-sm font-semibold hover:bg-green-700 transition-colors no-underline"
+              >
+                <span>💳</span>
+                Open Free Bank A/C
+              </a>
+            )}
+          </Fragment>
         ))}
       </div>
 
@@ -135,18 +148,6 @@ export default async function SchemeDetailPage({ params }: Props) {
         <p key={i} className="text-base text-text-secondary leading-[1.75] mb-5" dangerouslySetInnerHTML={{ __html: p }} />
       ))}
 
-      {s.affiliate_kotak && (
-        <div className="my-6 rounded-2xl border border-green-300 bg-green-50 p-5">
-          <div className="flex items-center gap-3 mb-3">
-            <div className="w-9 h-9 rounded-lg bg-green-600 flex items-center justify-center text-lg shrink-0">💳</div>
-            <p className="font-bold text-green-900 text-[15px] m-0">Need a bank account to receive this benefit?</p>
-          </div>
-          <p className="text-[13.5px] leading-relaxed text-green-800 mb-3">
-            This benefit is paid straight to your bank account through DBT. If you do not have one yet, you can open a free zero-balance Kotak 811 account online to receive the payment.
-          </p>
-          <a href="https://linksredirect.com/?cid=301717&source=linkkit&url=https%3A%2F%2Fwww.kotak811.com%2Fopen-zero-balance-savings-account" target="_blank" rel="sponsored noopener" className="inline-block bg-green-600 text-white text-sm font-semibold px-4 py-2.5 rounded-xl no-underline">Open a free Kotak 811 account →</a>
-        </div>
-      )}
 
       {/* Eligibility */}
       <SectionHeading icon="✅">Eligibility</SectionHeading>
