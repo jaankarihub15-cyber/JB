@@ -8,6 +8,7 @@ import { SourceCitations } from "@/components/source-citations";
 import { PdfSummary } from "@/components/pdf-summary";
 import { TableOfContents } from "@/components/table-of-contents";
 import { EligibilityCTA } from "@/components/eligibility-cta";
+import { FinanceBridge } from "@/components/finance-bridge";
 import { notFound } from "next/navigation";
 import { getSchemeBySlug, getAllSchemeSlugs } from "@/lib/content";
 import {
@@ -344,6 +345,8 @@ export default async function SchemeDetailPage({ params }: Props) {
           </div>
         </div>
       )}
+
+      <FinanceBridge slug={slug} />
 
       {/* FAQs */}
       <div id="faqs"><SectionHeading icon="❓">Frequently Asked Questions</SectionHeading></div>
