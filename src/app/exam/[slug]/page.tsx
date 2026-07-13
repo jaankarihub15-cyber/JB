@@ -35,11 +35,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!exam) return {};
   const url = `https://knowledgekendra.com/exam/${slug}`;
   return {
-    title: `${exam.title} — Pattern, Syllabus, Dates & Salary`,
+    title: exam.title,
     description: exam.meta_description,
     alternates: { canonical: url },
     openGraph: {
-      title: `${exam.title} — Pattern, Syllabus, Dates & Salary`,
+      title: exam.title,
       description: exam.meta_description,
       url, type: "article",
       images: [{ url: `/api/og?title=${encodeURIComponent(exam.title)}&icon=${encodeURIComponent(exam.hero?.icon || '📝')}&cat=exam`, width: 1200, height: 630, alt: exam.title }],

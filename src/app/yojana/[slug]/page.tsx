@@ -30,11 +30,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!scheme) return {};
   const url = `https://knowledgekendra.com/yojana/${slug}`;
   return {
-    title: `${scheme.title} — Eligibility, Benefits & How to Apply`,
+    title: scheme.title,
     description: scheme.meta_description,
     alternates: { canonical: url },
     openGraph: {
-      title: `${scheme.title} — Eligibility, Benefits & How to Apply`,
+      title: scheme.title,
       description: scheme.meta_description,
       url,
       type: "article",
