@@ -48,6 +48,11 @@ const nextConfig: NextConfig = {
         permanent: true,
       },
       {
+        source: '/guide/get-birth-certificate',
+        destination: '/guide/birth-certificate',
+        permanent: true,
+      },
+      {
         source: '/yojana/kanya-sumangala',
         destination: '/yojana/kanya-sumangala-yojana',
         permanent: true,
