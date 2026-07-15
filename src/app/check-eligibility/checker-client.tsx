@@ -112,6 +112,46 @@ const questions = [
   },
 ];
 
+type NextStep = { href: string; icon: string; title: string; sub: string };
+
+const NEXT_STEPS: Record<string, NextStep[]> = {
+  student: [
+    { href: "/exam", icon: "📝", title: "Government Exam Guides", sub: "Eligibility, syllabus and salary for 40+ exams" },
+    { href: "/calculator/cgpa-calculator", icon: "🧮", title: "CGPA Calculator", sub: "Convert CGPA to percentage instantly" },
+    { href: "/paisa/education-loan-guide", icon: "🎓", title: "Education Loan Guide", sub: "Rates, moratorium and subsidy explained" },
+  ],
+  unemployed: [
+    { href: "/exam", icon: "📝", title: "Government Exam Guides", sub: "Which exams you can sit, and what they pay" },
+    { href: "/sarkari-naukri", icon: "🏛️", title: "Sarkari Naukri", sub: "Government job routes and requirements" },
+  ],
+  salaried: [
+    { href: "/calculator/income-tax-calculator", icon: "🧾", title: "Income Tax Calculator", sub: "Old vs new regime on your salary" },
+    { href: "/calculator/hra-calculator", icon: "🏠", title: "HRA Calculator", sub: "How much rent exemption you can claim" },
+    { href: "/calculator/epf-calculator", icon: "💼", title: "EPF Calculator", sub: "What your PF grows to by retirement" },
+  ],
+  "self-employed": [
+    { href: "/calculator/gst-calculator", icon: "🧮", title: "GST Calculator", sub: "Add or remove GST at any slab" },
+    { href: "/yojana/pm-mudra-yojana", icon: "🏦", title: "PM Mudra Loan", sub: "Business loans up to ₹10 lakh without collateral" },
+  ],
+  farmer: [
+    { href: "/yojana/pm-kisan-credit-card", icon: "🌾", title: "Kisan Credit Card", sub: "Crop loans at subsidised interest" },
+    { href: "/agriculture", icon: "🚜", title: "Agriculture Schemes", sub: "Everything else you may be entitled to" },
+  ],
+  labourer: [
+    { href: "/yojana/e-shram-card", icon: "🪪", title: "e-Shram Card", sub: "Free registration, ₹2 lakh accident cover" },
+  ],
+};
+
+const SENIOR_STEPS: NextStep[] = [
+  { href: "/paisa/nps-vs-ppf", icon: "🏦", title: "NPS vs PPF", sub: "Which builds a bigger pension, compared" },
+  { href: "/calculator/nps-calculator", icon: "🧮", title: "NPS Calculator", sub: "Estimate your retirement corpus" },
+];
+
+function getNextSteps(data: Record<string, string>): NextStep[] {
+  if (data.age === "60+") return SENIOR_STEPS;
+  return NEXT_STEPS[data.occupation] || [];
+}
+
 const ageRanges: Record<string, [number, number]> = {
   "0-10": [0, 10],
   "11-17": [11, 17],
@@ -201,6 +241,9 @@ export default function CheckerClient({ schemes }: { schemes: CheckerScheme[] })
   };
 
   const notEligible = results ? schemes.filter((s) => !results.includes(s)).map((s) => ({ ...s, reason: getRejectReason(s, data) })).filter((s) => s.reason) : [];
+
+  // Onward routing based on the answers given
+  const nextSteps = getNextSteps(data);
 
   // Category filter on results
   const resultTags = results ? [...new Set(results.map((s) => s.tag))].sort() : [];
@@ -322,7 +365,21 @@ export default function CheckerClient({ schemes }: { schemes: CheckerScheme[] })
           </div>
 
           {results.length === 0 && (
-            <div className="p-10 text-center text-text-muted text-base">No matching schemes found. Try changing your answers.</div>
+            <div className="p-8 text-center">
+              <div className="text-4xl mb-3">🔍</div>
+              <h2 className="text-[17px] font-extrabold mb-1">No scheme matched this exact profile</h2>
+              <p className="text-[13px] text-text-secondary leading-relaxed max-w-[420px] mx-auto mb-5">
+                That usually means an income or age cutoff, not that nothing exists. Scheme rules also change every year.
+              </p>
+              <div className="flex flex-wrap gap-2 justify-center">
+                <Link href="/yojana" className="rounded-xl border border-border bg-card px-4 py-2.5 text-[13px] font-bold hover:border-accent transition-colors">
+                  Browse all schemes
+                </Link>
+                <button onClick={reset} className="rounded-xl border border-border bg-card px-4 py-2.5 text-[13px] font-bold cursor-pointer hover:border-accent transition-colors">
+                  Change my answers
+                </button>
+              </div>
+            </div>
           )}
 
           {/* NOT ELIGIBLE */}
@@ -332,18 +389,37 @@ export default function CheckerClient({ schemes }: { schemes: CheckerScheme[] })
               <p className="text-[12.5px] mb-4" style={{ color: "#aab5ad" }}>Showing why, so you know what to check if your situation changes.</p>
               <div className="flex flex-col gap-2">
                 {notEligible.slice(0, 5).map((s) => (
-                  <div key={s.slug} className="flex items-center gap-3 p-4 rounded-[14px] border border-border opacity-60" style={{ background: "#FAFBF9" }}>
+                  <Link key={s.slug} href={`/yojana/${s.slug}`} className="flex items-center gap-3 p-4 rounded-[14px] border border-border opacity-60 transition-all hover:opacity-100 hover:border-accent" style={{ background: "#FAFBF9" }}>
                     <div className="w-10 h-10 rounded-xl flex items-center justify-center text-xl shrink-0" style={{ background: "#FEF2F2" }}>{s.icon}</div>
                     <div className="flex-1 min-w-0">
                       <h3 className="text-[14px] font-semibold" style={{ color: "#67786D" }}>{s.title}</h3>
                       <p className="text-[11.5px]" style={{ color: "#aab5ad" }}>{s.desc.slice(0, 80)}...</p>
                     </div>
                     <span className="text-[11px] font-bold shrink-0 whitespace-nowrap" style={{ color: "#DC6B5B" }}>{s.reason}</span>
-                  </div>
+                  </Link>
                 ))}
                 {notEligible.length > 5 && (
                   <p className="text-[12px] text-center" style={{ color: "#aab5ad" }}>+ {notEligible.length - 5} more not shown</p>
                 )}
+              </div>
+            </div>
+          )}
+
+          {/* NEXT STEPS, routed by answers */}
+          {nextSteps.length > 0 && (
+            <div className="mt-10 pt-7" style={{ borderTop: "2px dashed #E4EAE2" }}>
+              <h2 className="text-[16px] font-extrabold mb-1">Next steps for you</h2>
+              <p className="text-[12.5px] text-text-secondary mb-4">Based on what you told us. Schemes are one part, these are the rest.</p>
+              <div className="grid gap-3 md:grid-cols-3">
+                {nextSteps.map((n) => (
+                  <Link key={n.href} href={n.href} className="flex items-start gap-3 rounded-[14px] border border-border bg-card p-4 hover:border-accent transition-colors">
+                    <span className="text-xl shrink-0">{n.icon}</span>
+                    <span>
+                      <span className="block text-[13.5px] font-bold leading-snug">{n.title}</span>
+                      <span className="block text-[11.5px] text-text-secondary mt-0.5">{n.sub}</span>
+                    </span>
+                  </Link>
+                ))}
               </div>
             </div>
           )}
