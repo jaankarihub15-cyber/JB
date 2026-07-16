@@ -9,6 +9,7 @@ import { PdfSummary } from "@/components/pdf-summary";
 import { TableOfContents } from "@/components/table-of-contents";
 import { EligibilityCTA } from "@/components/eligibility-cta";
 import { FinanceBridge } from "@/components/finance-bridge";
+import { StateSchemes } from "@/components/state-schemes";
 import { notFound } from "next/navigation";
 import { getSchemeBySlug, getAllSchemeSlugs } from "@/lib/content";
 import {
@@ -347,6 +348,8 @@ export default async function SchemeDetailPage({ params }: Props) {
       )}
 
       <FinanceBridge slug={slug} category={s.category} state={s.state} />
+
+      <StateSchemes slug={slug} state={s.state} excludeSlugs={(s.related_pages || []).slice(0, 3).map((r: any) => r.slug).filter(Boolean)} />
 
       {/* FAQs */}
       <div id="faqs"><SectionHeading icon="❓">Frequently Asked Questions</SectionHeading></div>
