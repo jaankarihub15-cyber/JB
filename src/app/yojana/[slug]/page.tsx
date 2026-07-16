@@ -346,7 +346,7 @@ export default async function SchemeDetailPage({ params }: Props) {
         </div>
       )}
 
-      <FinanceBridge slug={slug} />
+      <FinanceBridge slug={slug} category={s.category} state={s.state} />
 
       {/* FAQs */}
       <div id="faqs"><SectionHeading icon="❓">Frequently Asked Questions</SectionHeading></div>
