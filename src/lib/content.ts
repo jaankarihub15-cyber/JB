@@ -307,6 +307,7 @@ export type BookItem = {
   priority: "must" | "recommended" | "optional";
   beginner_friendly?: boolean;
   why: string;
+  edition_note?: { kind: "any" | "current"; text: string };
   amazon_url?: string;
 };
 export type BookSubject = {
@@ -329,6 +330,9 @@ export type BooksContent = {
   };
   intro: string[];
   reading_order: { step: number; title: string; description: string }[];
+  buying_plan?: { step: number; title: string; description: string; spend?: string }[];
+  versus?: { heading: string; a: { name: string; pick_if: string }; b: { name: string; pick_if: string }; verdict: string }[];
+  free_resources?: { title: string; where: string }[];
   subjects: BookSubject[];
   buying_tips: string[];
   faqs: { question: string; answer: string }[];

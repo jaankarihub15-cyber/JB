@@ -87,21 +87,51 @@ export default async function BooksExamPage({ params }: Props) {
 
 
 
-      {/* Reading order */}
-      <SectionHeading icon="🧭">Reading order at a glance</SectionHeading>
-      <div className="bg-card border border-border rounded-2xl p-5 mb-4 space-y-3">
-        {b.reading_order.map((r) => (
-          <div key={r.step} className="flex gap-3 items-start">
-            <div className="w-7 h-7 rounded-lg bg-accent text-white grid place-items-center font-bold text-sm shrink-0">
-              {r.step}
-            </div>
-            <div className="text-sm">
-              <b className="block text-text">{r.title}</b>
-              <span className="text-text-secondary">{r.description}</span>
-            </div>
+      {/* Budget shelf builder (only for pages with free_resources data) */}
+      {b.free_resources && b.free_resources.length > 0 && <BudgetShelf b={b} />}
+
+      {/* Buying plan timeline (upgraded pages) or classic reading order */}
+      {b.buying_plan && b.buying_plan.length > 0 ? (
+        <>
+          <SectionHeading icon="🗓️">Buy in this order, not all at once</SectionHeading>
+          <div className="bg-card border border-border rounded-2xl p-5 mb-4">
+            {b.buying_plan.map((r, i) => (
+              <div key={r.step} className="flex gap-3">
+                <div className="flex flex-col items-center">
+                  <div className="w-7 h-7 rounded-lg bg-accent text-white grid place-items-center font-bold text-sm shrink-0">
+                    {r.step}
+                  </div>
+                  {i < b.buying_plan!.length - 1 && <div className="w-0.5 flex-1 bg-border my-1" />}
+                </div>
+                <div className={`text-sm ${i < b.buying_plan!.length - 1 ? "pb-4" : ""}`}>
+                  <b className="block text-text">
+                    {r.title}
+                    {r.spend && <span className="ml-2 text-[11px] font-bold px-2 py-0.5 rounded-full bg-accent-light text-accent-dark align-middle">{r.spend}</span>}
+                  </b>
+                  <span className="text-text-secondary">{r.description}</span>
+                </div>
+              </div>
+            ))}
           </div>
-        ))}
-      </div>
+        </>
+      ) : (
+        <>
+          <SectionHeading icon="🧭">Reading order at a glance</SectionHeading>
+          <div className="bg-card border border-border rounded-2xl p-5 mb-4 space-y-3">
+            {b.reading_order.map((r) => (
+              <div key={r.step} className="flex gap-3 items-start">
+                <div className="w-7 h-7 rounded-lg bg-accent text-white grid place-items-center font-bold text-sm shrink-0">
+                  {r.step}
+                </div>
+                <div className="text-sm">
+                  <b className="block text-text">{r.title}</b>
+                  <span className="text-text-secondary">{r.description}</span>
+                </div>
+              </div>
+            ))}
+          </div>
+        </>
+      )}
 
       {/* Subjects - simple grouped lists */}
       {b.subjects.map((subject) => {
@@ -147,6 +177,33 @@ export default async function BooksExamPage({ params }: Props) {
         );
       })}
 
+      {/* Book vs book verdicts */}
+      {b.versus && b.versus.length > 0 && (
+        <>
+          <SectionHeading icon="⚖️">One or the other: honest verdicts</SectionHeading>
+          <div className="flex flex-col gap-4 mb-6">
+            {b.versus.map((v, i) => (
+              <div key={i} className="bg-card border border-border rounded-2xl p-5">
+                <h3 className="text-[15px] font-bold text-text mb-3">{v.heading}</h3>
+                <div className="grid md:grid-cols-2 gap-3 mb-3">
+                  <div className="bg-card-alt border border-border rounded-xl p-3.5">
+                    <div className="text-[13px] font-bold text-text mb-1">{v.a.name}</div>
+                    <div className="text-[13px] text-text-secondary leading-relaxed">{v.a.pick_if}</div>
+                  </div>
+                  <div className="bg-card-alt border border-border rounded-xl p-3.5">
+                    <div className="text-[13px] font-bold text-text mb-1">{v.b.name}</div>
+                    <div className="text-[13px] text-text-secondary leading-relaxed">{v.b.pick_if}</div>
+                  </div>
+                </div>
+                <p className="text-[12.5px] text-text-secondary border-t border-border pt-3">
+                  <span className="font-bold text-accent-dark">Verdict: </span>{v.verdict}
+                </p>
+              </div>
+            ))}
+          </div>
+        </>
+      )}
+
       {/* Buying tips */}
       <SectionHeading icon="🛒">Buying tips</SectionHeading>
       <div className="bg-card border border-border rounded-2xl p-5 mb-6 space-y-2">
@@ -190,6 +247,57 @@ export default async function BooksExamPage({ params }: Props) {
   );
 }
 
+function parsePrice(p: string): number {
+  const m = p.replace(/,/g, "").match(/\d+/);
+  return m ? parseInt(m[0], 10) : 0;
+}
+
+function BudgetShelf({ b }: { b: any }) {
+  const all = b.subjects.flatMap((s: any) => s.books);
+  const paid = all.filter((bk: any) => parsePrice(bk.price_approx) > 0);
+  const mustTotal = paid
+    .filter((bk: any) => bk.priority === "must")
+    .reduce((sum: number, bk: any) => sum + parsePrice(bk.price_approx), 0);
+  const fullTotal = paid.reduce((sum: number, bk: any) => sum + parsePrice(bk.price_approx), 0);
+  const mustCount = paid.filter((bk: any) => bk.priority === "must").length;
+
+  return (
+    <>
+      <SectionHeading icon="🧮">Build your shelf by budget</SectionHeading>
+      <p className="text-sm text-text-muted -mt-2 mb-4">
+        Three honest ways to buy. Start with the minimum shelf and upgrade only when a mock test shows a real gap.
+      </p>
+      <div className="grid md:grid-cols-3 gap-3 mb-6">
+        <div className="bg-card border border-border rounded-2xl p-4">
+          <div className="text-xs font-semibold text-text-muted mb-1">Actually free</div>
+          <div className="text-2xl font-extrabold text-accent mb-1.5">₹0</div>
+          <ul className="text-[12.5px] text-text-secondary space-y-1">
+            {b.free_resources.map((f: any, i: number) => (
+              <li key={i}>
+                <span className="text-text font-semibold">{f.title}</span> · {f.where}
+              </li>
+            ))}
+          </ul>
+        </div>
+        <div className="bg-card border-2 border-accent rounded-2xl p-4">
+          <div className="text-xs font-bold text-accent-dark mb-1">Minimum shelf · start here</div>
+          <div className="text-2xl font-extrabold text-text mb-1.5">₹{mustTotal.toLocaleString("en-IN")}</div>
+          <p className="text-[12.5px] text-text-secondary leading-relaxed">
+            The {mustCount} must-have books below. This alone covers the full syllabus for a serious attempt.
+          </p>
+        </div>
+        <div className="bg-card border border-border rounded-2xl p-4">
+          <div className="text-xs font-semibold text-text-muted mb-1">Complete shelf</div>
+          <div className="text-2xl font-extrabold text-text mb-1.5">₹{fullTotal.toLocaleString("en-IN")}</div>
+          <p className="text-[12.5px] text-text-secondary leading-relaxed">
+            Every paid book on this page, including the recommended and optional extras. Prices are approximate.
+          </p>
+        </div>
+      </div>
+    </>
+  );
+}
+
 function BookCard({ bk }: { bk: any }) {
   const badge = priorityBadge[bk.priority] ?? priorityBadge.recommended;
   return (
@@ -207,6 +315,15 @@ function BookCard({ bk }: { bk: any }) {
           {bk.beginner_friendly && (
             <span className="text-[11px] font-semibold px-2.5 py-1 rounded-xl bg-accent-light text-accent-dark">
               Beginner OK
+            </span>
+          )}
+          {bk.edition_note && (
+            <span
+              className={`text-[11px] font-semibold px-2.5 py-1 rounded-xl ${
+                bk.edition_note.kind === "current" ? "bg-orange-light text-orange" : "bg-accent-light text-accent-dark"
+              }`}
+            >
+              {bk.edition_note.text}
             </span>
           )}
           {/* Book link: direct product URL if set, else Amazon search. */}
