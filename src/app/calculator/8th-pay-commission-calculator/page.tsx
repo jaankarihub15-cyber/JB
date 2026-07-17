@@ -11,6 +11,8 @@ export const metadata: Metadata = {
 };
 
 const faqs = [
+  { question: "What salary hike percentage is expected under the 8th Pay Commission?", answer: "The real increase depends on the fitment factor, which is not final. Because DA (currently 60%) merges into the new basic and resets to zero, the effective take-home hike is smaller than the fitment factor suggests. At a 2.57 factor the gross basic rises 157%, but the net gain over basic-plus-DA is closer to 60%." },
+  { question: "How will the 8th Pay Commission pension be calculated?", answer: "Pension revises using the same fitment approach applied to basic pension, so a pensioner drawing ₹9,000 minimum pension would move to about ₹23,130 at a 2.57 scenario. Dearness Relief resets alongside DA. Final pension rules come only with the Commission's report." },
   { question: "When will the 8th Pay Commission be implemented?", answer: "The 8th Pay Commission was constituted in January 2026. Based on previous timelines, the commission typically takes 18-24 months to submit its report. Implementation is expected from January 1, 2026, with actual salary disbursement likely from mid-2027 or early 2028. Arrears from January 2026 will be paid separately." },
   { question: "What is the expected fitment factor for the 8th Pay Commission?", answer: "The fitment factor has not been officially announced yet. Historically: 6th CPC used 1.86x, 7th CPC used 2.57x. Estimates for the 8th CPC range from 2.28x to 2.86x. Most analysts expect around 2.57x (same as 7th CPC) or higher. The minimum basic pay is expected to increase from ₹18,000 to approximately ₹46,000-51,000." },
   { question: "What is a fitment factor?", answer: "Fitment factor is the multiplier applied to your current basic pay to calculate your new basic pay under the new pay commission. Fitment factor of 2.57x means: New Basic = Current Basic × 2.57. If your current 7th CPC basic is ₹56,100, your estimated 8th CPC basic would be ₹56,100 × 2.57 = ₹1,44,177. It's the single most impactful number in a pay commission revision." },
@@ -45,6 +47,18 @@ export default function Page() {
         updated="June 2026"
       />
 
+      {/* Quick answer */}
+      <div className="bg-card border-l-4 border-accent border-y border-r border-border rounded-r-2xl p-4 my-5">
+        <div className="text-[11px] font-bold uppercase tracking-wide text-accent-dark mb-1">The short answer</div>
+        <p className="text-[14px] text-text leading-relaxed">The 8th Pay Commission fitment factor is not final yet. Projections range from 1.83 to 2.86, and at the 7th CPC&apos;s 2.57 the minimum basic pay of ₹18,000 becomes about ₹46,260. Enter your current basic below and test any scenario.</p>
+      </div>
+
+      <div className="bg-card border border-border rounded-2xl p-4 my-5">
+        <div className="text-[11px] font-bold uppercase tracking-wide text-text-muted mb-1.5">Status as of July 2026</div>
+        <p className="text-sm text-text-secondary leading-relaxed mb-2">The Commission is in the consultation stage. Its data collection portal deadline for ministries was extended to July 31, 2026, and a public feedback module is open on MyGov.</p>
+        <p className="text-sm text-text-secondary leading-relaxed">DA stands at 60% from January 1, 2026, a routine hike separate from the 8th CPC. January 1, 2026 remains the reference date, so arrears are expected for the months until the new pay is notified.</p>
+      </div>
+
       <PayCommissionCalc />
 
       <div className="my-5 rounded-r-lg p-4" style={{ borderLeft: "4px solid #2563EB", backgroundColor: "#DBEAFE" }}>
@@ -58,7 +72,23 @@ export default function Page() {
 
       <div className="my-6">
         <p className="text-xs text-text-muted mb-2 text-center italic">Fitment factor history across pay commissions</p>
-        <div className="card p-4 flex justify-center overflow-x-auto" dangerouslySetInnerHTML={{ __html: '<svg viewBox="0 0 700 230" xmlns="http://www.w3.org/2000/svg" style="max-width:100%;height:auto"><text x="350" y="25" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="700" fill="#111827">Pay Commission fitment factors, 5th to 8th</text><rect x="60" y="60" width="130" height="140" rx="12" fill="#DBEAFE" stroke="#2563EB" stroke-width="2"/><text x="125" y="90" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="700" fill="#1E40AF">5th CPC (1996)</text><text x="125" y="125" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="800" fill="#2563EB">1.86×</text><text x="125" y="150" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#1E40AF">Min: ₹2,550</text><text x="125" y="170" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#1E40AF">→ ₹4,743</text><rect x="210" y="60" width="130" height="140" rx="12" fill="#DCFCE7" stroke="#1B6B4A" stroke-width="2"/><text x="275" y="90" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="700" fill="#145236">6th CPC (2006)</text><text x="275" y="125" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="800" fill="#1B6B4A">1.86×</text><text x="275" y="150" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#145236">Min: ₹4,860</text><text x="275" y="170" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#145236">→ ₹7,000</text><rect x="360" y="60" width="130" height="140" rx="12" fill="#FFF7ED" stroke="#EA580C" stroke-width="2"/><text x="425" y="90" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="700" fill="#C2410C">7th CPC (2016)</text><text x="425" y="125" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="800" fill="#EA580C">2.57×</text><text x="425" y="150" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#C2410C">Min: ₹7,000</text><text x="425" y="170" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#C2410C">→ ₹18,000</text><rect x="510" y="60" width="150" height="140" rx="12" fill="#F3E8FF" stroke="#7C3AED" stroke-width="2"/><text x="585" y="90" text-anchor="middle" font-family="sans-serif" font-size="13" font-weight="700" fill="#6B21A8">8th CPC (2026)</text><text x="585" y="125" text-anchor="middle" font-family="sans-serif" font-size="28" font-weight="800" fill="#7C3AED">2.57×?</text><text x="585" y="150" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#6B21A8">Min: ₹18,000</text><text x="585" y="170" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#6B21A8">→ ₹46,260?</text><text x="585" y="188" text-anchor="middle" font-family="sans-serif" font-size="10" font-style="italic" fill="#6B21A8">(estimated)</text></svg>' }} />
+        <div className="grid md:grid-cols-3 gap-3">
+          <div className="bg-card border border-border rounded-2xl p-4 text-center">
+            <div className="text-xs font-bold text-text-muted mb-1">6th CPC (2006)</div>
+            <div className="text-3xl font-extrabold text-blue">1.86×</div>
+            <div className="text-xs text-text-secondary mt-1.5">Minimum pay became ₹7,000</div>
+          </div>
+          <div className="bg-card border border-border rounded-2xl p-4 text-center">
+            <div className="text-xs font-bold text-text-muted mb-1">7th CPC (2016)</div>
+            <div className="text-3xl font-extrabold text-accent">2.57×</div>
+            <div className="text-xs text-text-secondary mt-1.5">Minimum pay ₹7,000 → ₹18,000</div>
+          </div>
+          <div className="bg-card border-2 border-accent rounded-2xl p-4 text-center">
+            <div className="text-xs font-bold text-accent-dark mb-1">8th CPC (awaited)</div>
+            <div className="text-3xl font-extrabold text-text">1.83-2.86×</div>
+            <div className="text-xs text-text-secondary mt-1.5">Projected range, not final. At 2.57: ₹18,000 → ₹46,260</div>
+          </div>
+        </div>
         <p className="text-sm text-text-secondary mt-3">The jump from 1.86x (5th/6th CPC) to 2.57x (7th CPC) was historic. Employee unions are pushing for 2.86x or higher for the 8th CPC. The final factor will depend on fiscal capacity and inflation trajectory.</p>
       </div>
 
@@ -81,10 +111,10 @@ export default function Page() {
 
       <div className="my-5 rounded-r-lg p-4" style={{ borderLeft: "4px solid #1B6B4A", backgroundColor: "#DCFCE7" }}>
         <p className="text-sm font-bold mb-1.5 text-text flex items-center gap-2"><span>📌</span><span>Official source</span></p>
-        <p className="text-sm text-text-secondary leading-relaxed">The 8th Pay Commission was constituted via <strong>Government of India Gazette Notification, January 2026</strong>. Official updates are published at <a href="https://doe.gov.in" target="_blank" rel="noopener" className="text-accent hover:underline">doe.gov.in</a> (Department of Expenditure) and <a href="https://finmin.nic.in" target="_blank" rel="noopener" className="text-accent hover:underline">finmin.nic.in</a> (Ministry of Finance).</p>
+        <p className="text-sm text-text-secondary leading-relaxed">The 8th Pay Commission was constituted via <strong>the Union Cabinet in January 2025, with the formal gazette notification in November 2025</strong>. Official updates are published at <a href="https://doe.gov.in" target="_blank" rel="noopener" className="text-accent hover:underline">doe.gov.in</a> (Department of Expenditure) and <a href="https://finmin.nic.in" target="_blank" rel="noopener" className="text-accent hover:underline">finmin.nic.in</a> (Ministry of Finance).</p>
       </div>
 
-      <p className="text-xs text-text-muted mt-6 mb-8 italic">Last reviewed: April 2026 • All 8th CPC figures are estimates based on assumed fitment factors. Final figures will be determined by the Pay Commission&apos;s report and government acceptance.</p>
+      <p className="text-xs text-text-muted mt-6 mb-8 italic">Last reviewed: July 2026 • All 8th CPC figures are estimates based on assumed fitment factors. Final figures will be determined by the Pay Commission&apos;s report and government acceptance.</p>
 
       
       <SectionHeading icon="💼">Who is covered by the 8th Pay Commission?</SectionHeading>
@@ -99,7 +129,31 @@ export default function Page() {
 
       <div className="my-6">
         <p className="text-xs text-text-muted mb-2 text-center italic">Key pay levels and their 8th CPC estimates (at 2.57x fitment)</p>
-        <div className="card p-4 flex justify-center overflow-x-auto" dangerouslySetInnerHTML={{ __html: '<svg viewBox="0 0 700 280" xmlns="http://www.w3.org/2000/svg" style="max-width:100%;height:auto"><text x="350" y="25" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="700" fill="#111827">7th CPC vs estimated 8th CPC basic pay</text><line x1="80" y1="240" x2="650" y2="240" stroke="#4B5563" stroke-width="1"/><rect x="100" y="200" width="55" height="40" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.5"/><rect x="160" y="170" width="55" height="70" fill="#1B6B4A"/><text x="130" y="260" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4B5563">Level 1</text><text x="128" y="195" text-anchor="middle" font-family="sans-serif" font-size="9" font-weight="700" fill="#1E40AF">₹18K</text><text x="188" y="166" text-anchor="middle" font-family="sans-serif" font-size="9" font-weight="700" fill="#1B6B4A">₹46K</text><rect x="240" y="175" width="55" height="65" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.5"/><rect x="300" y="115" width="55" height="125" fill="#1B6B4A"/><text x="270" y="260" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4B5563">Level 7</text><text x="268" y="170" text-anchor="middle" font-family="sans-serif" font-size="9" font-weight="700" fill="#1E40AF">₹44.9K</text><text x="328" y="111" text-anchor="middle" font-family="sans-serif" font-size="9" font-weight="700" fill="#1B6B4A">₹1.15L</text><rect x="380" y="155" width="55" height="85" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.5"/><rect x="440" y="75" width="55" height="165" fill="#1B6B4A"/><text x="410" y="260" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4B5563">Level 10</text><text x="408" y="150" text-anchor="middle" font-family="sans-serif" font-size="9" font-weight="700" fill="#1E40AF">₹56.1K</text><text x="468" y="71" text-anchor="middle" font-family="sans-serif" font-size="9" font-weight="700" fill="#1B6B4A">₹1.44L</text><rect x="520" y="125" width="55" height="115" fill="#DBEAFE" stroke="#2563EB" stroke-width="1.5"/><rect x="580" y="45" width="55" height="195" fill="#1B6B4A"/><text x="550" y="260" text-anchor="middle" font-family="sans-serif" font-size="10" fill="#4B5563">Level 14</text><text x="548" y="120" text-anchor="middle" font-family="sans-serif" font-size="9" font-weight="700" fill="#1E40AF">₹1.44L</text><text x="608" y="41" text-anchor="middle" font-family="sans-serif" font-size="9" font-weight="700" fill="#1B6B4A">₹3.7L</text><rect x="130" y="270" width="12" height="8" fill="#DBEAFE" stroke="#2563EB" stroke-width="1"/><text x="148" y="278" font-family="sans-serif" font-size="10" fill="#4B5563">7th CPC</text><rect x="250" y="270" width="12" height="8" fill="#1B6B4A"/><text x="268" y="278" font-family="sans-serif" font-size="10" fill="#4B5563">8th CPC (est.)</text></svg>' }} />
+        <div className="bg-card border border-border rounded-2xl p-5">
+          <div className="space-y-4">
+            {[
+              { level: "Level 1", now: 18000, nowL: "₹18,000", est: "₹46,260" },
+              { level: "Level 7", now: 44900, nowL: "₹44,900", est: "₹1.15 lakh" },
+              { level: "Level 10", now: 56100, nowL: "₹56,100", est: "₹1.44 lakh" },
+              { level: "Level 14", now: 144200, nowL: "₹1.44 lakh", est: "₹3.71 lakh" },
+            ].map((r) => (
+              <div key={r.level}>
+                <div className="flex justify-between text-xs mb-1">
+                  <span className="font-bold text-text">{r.level}</span>
+                  <span className="text-text-muted">{r.nowL} now · <span className="text-accent-dark font-bold">{r.est}</span> at 2.57×</span>
+                </div>
+                <div className="flex gap-1.5 items-center">
+                  <div className="h-3 rounded-full bg-blue-light" style={{ width: `${(r.now / 144200) * 38}%` }} />
+                  <div className="h-3 rounded-full bg-accent" style={{ width: `${(r.now / 144200) * 97}%` }} />
+                </div>
+              </div>
+            ))}
+          </div>
+          <div className="flex gap-4 mt-4 text-[11px] text-text-muted">
+            <span className="flex items-center gap-1.5"><span className="w-3 h-3 rounded-full bg-blue-light inline-block" /> 7th CPC basic</span>
+            <span className="flex items-center gap-1.5"><span className="w-3 h-3 rounded-full bg-accent inline-block" /> 8th CPC at 2.57× (scenario, not final)</span>
+          </div>
+        </div>
       </div>
 
       <SectionHeading icon="🏠">Allowances beyond basic pay</SectionHeading>

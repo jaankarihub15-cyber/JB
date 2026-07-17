@@ -12,6 +12,9 @@ export const metadata: Metadata = {
 };
 
 const faqs = [
+  { question: "What is the SRM CGPA to percentage formula?", answer: "SRM works on a 10-point scale and Percentage = CGPA \u00d7 10 is the commonly used conversion, so 8.5 CGPA reads as 85%. SRM states the official conversion on the consolidated grade sheet, and that printed version is what recruiters and universities accept." },
+  { question: "What is 9.2 CGPA in percentage?", answer: "It depends on the formula. Under CBSE (\u00d7 9.5) it is 87.4%, under the \u00d7 10 engineering-university formula it is 92%, and under AKTU ((CGPA - 0.5) \u00d7 10) it is 87%. Use the formula your own board or university publishes." },
+  { question: "Which VTU CGPA formula applies to me?", answer: "Admitted in 2021 or later under the new CBCS scheme: Percentage = CGPA \u00d7 10. Admitted under the 2015-2018 schemes: (CGPA - 0.75) \u00d7 10. The two differ by 7.5 percentage points, so confirm your scheme with the college exam cell before quoting a number." },
   { question: "How to convert CGPA to percentage?", answer: "The most common formula is: Percentage = CGPA × 9.5. This is the CBSE-recommended conversion. So a CGPA of 8.5 = 80.75%. However, different universities use different multipliers, VTU uses CGPA × 10 - 7.5, Anna University uses a direct mapping table, and some IITs use CGPA × 10. Always check your university's specific conversion formula." },
   { question: "What is the difference between CGPA and GPA?", answer: "GPA (Grade Point Average) is typically calculated for a single semester. CGPA (Cumulative Grade Point Average) is the weighted average across ALL semesters. When companies ask for your 'CGPA,' they mean the cumulative GPA across your entire degree. Some universities call it CPI (Cumulative Performance Index), it's the same thing." },
   { question: "What is a good CGPA in India?", answer: "Generally: 9.0+ = Outstanding (top 5-10% of class), 8.0-8.9 = Excellent (competitive for top companies), 7.0-7.9 = Good (meets most job requirements), 6.0-6.9 = Average (may face cutoff issues at some companies), Below 6.0 = Below average. For higher studies abroad, 8.5+ CGPA (or 80%+) is typically expected for good universities." },
@@ -47,6 +50,12 @@ export default function Page() {
         chips={["SGPA to CGPA", "CGPA to percentage", "VIT · SRM · KTU · VTU"]}
         updated="June 2026"
       />
+
+      {/* Quick answer */}
+      <div className="bg-card border-l-4 border-accent border-y border-r border-border rounded-r-2xl p-4 my-5">
+        <div className="text-[11px] font-bold uppercase tracking-wide text-accent-dark mb-1">The short answer</div>
+        <p className="text-[14px] text-text leading-relaxed">CBSE converts CGPA to percentage with CGPA &times; 9.5, so 8.0 CGPA is 76%. Most engineering universities (VTU 2021+ scheme, Anna, KTU, JNTU) use CGPA &times; 10, AKTU uses (CGPA - 0.5) &times; 10. The formula on your own marksheet always wins, check it before filling any form.</p>
+      </div>
 
       <CgpaCalc />
 
@@ -131,10 +140,13 @@ export default function Page() {
 
       <SectionHeading icon="🏫">University-specific conversion formulas</SectionHeading>
       <p className="text-base text-text-secondary leading-[1.75] mb-5">CBSE: Percentage = CGPA × 9.5. Officially recommended by CBSE for Class 10. Widely used as a default when no university-specific formula exists.</p>
-      <p className="text-base text-text-secondary leading-[1.75] mb-5">VTU (Visvesvaraya Technological University): Percentage = (CGPA - 0.75) × 10. So 8.0 CGPA = 72.5%. VTU uses a different scale than CBSE, don&apos;t use the 9.5 multiplier for VTU transcripts.</p>
+      <p className="text-base text-text-secondary leading-[1.75] mb-5">VTU (Visvesvaraya Technological University): the formula depends on your scheme. Students under the 2021/2022 CBCS scheme use Percentage = CGPA &times; 10, while older 2015-2018 scheme students use (CGPA - 0.75) &times; 10, a 7.5-point difference for the same CGPA. Confirm your scheme with your college exam cell before quoting either.</p>
       <p className="text-base text-text-secondary leading-[1.75] mb-5">Anna University: Uses a direct mapping table rather than a formula. Approximately: 9.5+ CGPA ≈ 95%+, 8.5 ≈ 82%, 7.5 ≈ 72%. Anna University provides official conversion on degree certificates.</p>
       <p className="text-base text-text-secondary leading-[1.75] mb-5">VIT, SRM, BITS: Percentage = CGPA × 10. So 8.5 CGPA = 85%. This is the simplest conversion and is used by many private universities.</p>
       <p className="text-base text-text-secondary leading-[1.75] mb-5">KTU (APJ Abdul Kalam Technological University): Percentage = CGPA × 10 for placements. KTU uses S (10), A+ (9), A (8.5), B+ (8), B (7), C+ (6), C (5.5), D (5), F (0).</p>
+      <p className="text-base text-text-secondary leading-[1.75] mb-5">AKTU (Dr. APJ Abdul Kalam Technical University, UP): Percentage = (CGPA - 0.5) &times; 10. An 8.0 CGPA is 75%, not 80%. This half-point deduction trips up UP engineering students on government job forms every year.</p>
+      <p className="text-base text-text-secondary leading-[1.75] mb-5">KIIT, GGSIPU (IP University), JNTU: Percentage = CGPA &times; 10 is the commonly used conversion. Private and deemed universities generally state the formula on the consolidated marksheet or degree, which is the version that counts.</p>
+      <p className="text-base text-text-secondary leading-[1.75] mb-5">No official formula from your university? The UGC-recognised default is Percentage = CGPA &times; 9.5. Use it only when your institution has published nothing, and say so on the form if asked.</p>
 
       <div className="my-5 rounded-r-lg p-4" style={{ borderLeft: "4px solid #DC2626", backgroundColor: "#FEE2E2" }}>
         <p className="text-sm font-bold mb-1.5 text-text flex items-center gap-2"><span>⚠️</span><span>Common mistake on resumes</span></p>
