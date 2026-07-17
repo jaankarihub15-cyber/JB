@@ -87,6 +87,13 @@ export default async function BooksExamPage({ params }: Props) {
 
 
 
+      {/* Affiliate disclosure (Amazon Associates requirement) */}
+      <div className="bg-accent-light border border-accent/30 rounded-2xl p-4 mb-6 text-[12.5px] text-accent-dark leading-relaxed">
+        <b>Affiliate disclosure:</b> As an Amazon Associate, KnowledgeKendra earns from qualifying purchases. The
+        View on Amazon links below are affiliate links. This never affects the price you pay or which books we
+        recommend.
+      </div>
+
       {/* Budget shelf builder (only for pages with free_resources data) */}
       {b.free_resources && b.free_resources.length > 0 && <BudgetShelf b={b} />}
 
@@ -326,16 +333,16 @@ function BookCard({ bk }: { bk: any }) {
               {bk.edition_note.text}
             </span>
           )}
-          {/* Book link: direct product URL if set, else Amazon search. */}
+          {/* Book link: direct product URL if set, else Amazon search. Both carry the Associates tag. */}
           <a
             href={
               bk.amazon_url
-                ? `${bk.amazon_url}${bk.amazon_url.includes("?") ? "&" : "?"}`
+                ? `${bk.amazon_url}${bk.amazon_url.includes("?") ? "&" : "?"}tag=knowledgekendra-21`
                 : `https://www.amazon.in/s?k=${encodeURIComponent(
                     `${bk.title} ${bk.author || ""}`.trim()
-                  )}&`
+                  )}&tag=knowledgekendra-21`
             }
-            rel="nofollow"
+            rel="nofollow sponsored"
             target="_blank"
             className="text-[12.5px] font-bold px-3.5 py-1.5 rounded-lg"
             style={{ background: "#FF9900", color: "#1a1a1a" }}

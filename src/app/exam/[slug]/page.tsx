@@ -1,4 +1,5 @@
 import { AuthorBox } from "@/components/author-box";
+import { BookBridge } from "@/components/book-bridge";
 import { AdSlot } from "@/components/ad-slot";
 import { ResizerCTA } from "@/components/resizer-cta";
 import { FormKitCTA } from "@/components/form-kit-cta";
@@ -263,6 +264,8 @@ export default async function ExamDetailPage({ params }: Props) {
                 </Card>
               </div>
             )}
+
+            <BookBridge slug={slug} />
 
             {/* FAQS */}
             <div id="faqs" className="mt-6 scroll-mt-40">

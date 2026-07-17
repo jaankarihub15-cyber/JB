@@ -96,7 +96,7 @@ export default function BooksHubPage() {
       </div>
 
       <p className="text-xs text-text-muted italic border-t border-border pt-4">
-        Book prices and editions are approximate and last checked in June 2026. Independent guide, not affiliated with any exam body or publisher.
+        Book prices and editions are approximate and last checked in June 2026. Independent guide, not affiliated with any exam body or publisher. As an Amazon Associate, KnowledgeKendra earns from qualifying purchases made through links on these pages.
       </p>
     </div>
   );
