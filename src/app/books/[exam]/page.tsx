@@ -53,6 +53,21 @@ export default async function BooksExamPage({ params }: Props) {
     <div className="max-w-[860px] mx-auto px-5 py-6">
       <JsonLd data={breadcrumbSchema(crumbSchema)} />
       <JsonLd data={faqSchema(b.faqs)} />
+      <JsonLd
+        data={{
+          "@context": "https://schema.org",
+          "@type": "ItemList",
+          name: b.title,
+          numberOfItems: b.subjects.reduce((n: number, s: any) => n + s.books.length, 0),
+          itemListElement: b.subjects
+            .flatMap((s: any) => s.books)
+            .map((bk: any, i: number) => ({
+              "@type": "ListItem",
+              position: i + 1,
+              item: { "@type": "Book", name: bk.title, author: { "@type": "Person", name: bk.author } },
+            })),
+        }}
+      />
 
       <Breadcrumb items={crumbNav} />
 
@@ -77,6 +92,14 @@ export default async function BooksExamPage({ params }: Props) {
           ))}
         </div>
       </div>
+
+      {/* Quick answer (snippet + AI-answer friendly) */}
+      {b.quick_answer && (
+        <div className="bg-card border-l-4 border-accent border-y border-r border-border rounded-r-2xl p-4 mb-5">
+          <div className="text-[11px] font-bold uppercase tracking-wide text-accent-dark mb-1">The short answer</div>
+          <p className="text-[14px] text-text leading-relaxed">{b.quick_answer}</p>
+        </div>
+      )}
 
       {/* Intro */}
       <div className="space-y-3 mb-2">

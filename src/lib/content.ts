@@ -329,6 +329,7 @@ export type BooksContent = {
     stats: { label: string; value: string }[];
   };
   intro: string[];
+  quick_answer?: string;
   reading_order: { step: number; title: string; description: string }[];
   buying_plan?: { step: number; title: string; description: string; spend?: string }[];
   versus?: { heading: string; a: { name: string; pick_if: string }; b: { name: string; pick_if: string }; verdict: string }[];
