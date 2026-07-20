@@ -10,6 +10,7 @@ import { TableOfContents } from "@/components/table-of-contents";
 import { EligibilityCTA } from "@/components/eligibility-cta";
 import { FinanceBridge } from "@/components/finance-bridge";
 import { StateSchemes } from "@/components/state-schemes";
+import { ShareRail } from "@/components/share-rail";
 import { notFound } from "next/navigation";
 import { getSchemeBySlug, getAllSchemeSlugs } from "@/lib/content";
 import {
@@ -71,6 +72,7 @@ export default async function SchemeDetailPage({ params }: Props) {
 
   return (
     <div className="max-w-[860px] mx-auto px-6 py-8">
+      <ShareRail title={s.title} />
       <TableOfContents items={tocItems} />
       {/* LLM-friendly structured summary — visible to crawlers, sr-only for screen readers */}
       <article itemScope itemType="https://schema.org/Article">
