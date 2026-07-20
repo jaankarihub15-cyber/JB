@@ -1,645 +1,645 @@
 {
-  "slug": "kanya-vivah-yojana",
-  "title": "Kanya Vivah Yojana: Marriage Assistance for Daughters from Poor Families",
-  "meta_description": "Marriage assistance scheme: Get ₹5,000-₹51,000 for your daughter's wedding across states. Documents, eligibility & application process.",
-  "hero": {
-    "status": "active",
-    "one_liner": "₹5,000 to ₹51,000 marriage assistance for daughters from low-income families across states",
-    "icon": "💍",
-    "updated_date": "May 2026",
-    "stats": [
-      {
-        "label": "Benefit Range",
-        "value": "₹5,000 - ₹51,000"
-      },
-      {
-        "label": "States Covered",
-        "value": "10+ States"
-      },
-      {
-        "label": "Beneficiaries",
-        "value": "Millions"
-      }
+ "slug": "kanya-vivah-yojana",
+ "title": "Kanya Vivah Yojana 2026: Marriage Aid for Poor Families",
+ "meta_description": "Marriage assistance scheme: Get ₹5,000-₹51,000 for your daughter's wedding across states. Documents, eligibility & application process.",
+ "hero": {
+  "status": "active",
+  "one_liner": "₹5,000 to ₹51,000 marriage assistance for daughters from low-income families across states",
+  "icon": "💍",
+  "updated_date": "May 2026",
+  "stats": [
+   {
+    "label": "Benefit Range",
+    "value": "₹5,000 - ₹51,000"
+   },
+   {
+    "label": "States Covered",
+    "value": "10+ States"
+   },
+   {
+    "label": "Beneficiaries",
+    "value": "Millions"
+   }
+  ]
+ },
+ "quick_actions": [
+  {
+   "icon": "📋",
+   "label": "Apply Online",
+   "url": "https://shadianudan.upsdc.gov.in/"
+  },
+  {
+   "icon": "✅",
+   "label": "Check Status",
+   "url": "https://serviceonline.bihar.gov.in/"
+  },
+  {
+   "icon": "📞",
+   "label": "Contact Support",
+   "url": "#"
+  }
+ ],
+ "what_is_it": [
+  "Marriage in poor families is often delayed or doesn't happen because parents can't afford the expenses. Kanya Vivah Yojana addresses this by giving cash assistance to families when their daughters get married. The amount varies by state - from ₹5,000 in Bihar to ₹51,000 in Madhya Pradesh and Uttar Pradesh. This money is meant to cover marriage expenses like venue, decorations, food, and essential shopping.",
+  "Different states run their own versions of this scheme with different names: Bihar calls it Mukhyamantri Kanya Vivah Yojana, Madhya Pradesh has Chief Minister Kananya Vivah Yojana, and Uttar Pradesh runs Shramik Kanya Vivah Yojana for laborer families. All aim for the same thing - removing financial barriers to marriage and allowing families to celebrate this important event without going into debt.",
+  "The scheme doesn't give cash to the bride directly. Instead, it transfers money to the parents' or guardian's bank account after the wedding is registered. This ensures the money is actually used for the marriage and prevents misuse. Many states also offer additional benefits like a gift for the couple, kitchen utensils, clothes, or household items.",
+  "Eligibility is based on family income, caste (in some states), and sometimes parental occupation. The goal is to help families living below the poverty line or in the lower-middle-income group. If your family struggles financially and your daughter is getting married, this scheme can provide significant relief and allow you to organize a decent wedding without borrowing heavily."
+ ],
+ "eligibility": [
+  {
+   "label": "Daughter's Age",
+   "value": "Usually 18 years or above (some states require 21+)",
+   "highlight": true
+  },
+  {
+   "label": "Family Income",
+   "value": "Below poverty line or low income (varies by state)",
+   "highlight": true
+  },
+  {
+   "label": "Marriage Registration",
+   "value": "Marriage must be registered under law",
+   "highlight": true
+  },
+  {
+   "label": "Residency",
+   "value": "Applicant must be resident of the state where scheme is applied",
+   "highlight": true
+  },
+  {
+   "label": "One Benefit Per Daughter",
+   "value": "Only one daughter per family can receive benefit in some states",
+   "highlight": false
+  },
+  {
+   "label": "Parental Occupation",
+   "value": "Some states require parents to be laborers or in informal sector",
+   "highlight": false
+  },
+  {
+   "label": "Caste Category",
+   "value": "Some states have SC/ST/OBC reservations or restrictions",
+   "highlight": false
+  }
+ ],
+ "eligibility_filters": {
+  "gender": [
+   "female"
+  ],
+  "age_min": 18,
+  "age_max": 100,
+  "occupation": [
+   "any"
+  ],
+  "income_max": 200000,
+  "category": [
+   "all"
+  ],
+  "states": [
+   "bihar"
+  ]
+ },
+ "extra_sections": [
+  {
+   "heading": "State-Wise Scheme Amounts and Details",
+   "icon": "🏛️",
+   "type": "table",
+   "columns": [
+    "State",
+    "Scheme Name",
+    "Amount",
+    "Eligibility Focus"
+   ],
+   "rows": [
+    [
+     "Bihar",
+     "Mukhyamantri Kanya Vivah Yojana",
+     "₹5,000",
+     "BPL and EWS families"
+    ],
+    [
+     "Madhya Pradesh",
+     "Chief Minister Kananya Vivah Yojana",
+     "₹51,000",
+     "Below poverty line families"
+    ],
+    [
+     "Uttar Pradesh",
+     "Shramik Kanya Vivah Yojana",
+     "₹51,000",
+     "Laborer families (registered with BOCW board)"
+    ],
+    [
+     "Rajasthan",
+     "Mukhyamantri Kanyadan Yojana",
+     "₹21,000-₹41,000",
+     "BPL and SC/ST families"
+    ],
+    [
+     "Chhattisgarh",
+     "Kanya Vivah Yojana",
+     "₹25,000",
+     "Low-income families"
+    ],
+    [
+     "Jharkhand",
+     "Kanya Vivah Yojana",
+     "₹40,000",
+     "SC/ST and BPL families"
     ]
+   ]
   },
-  "quick_actions": [
-    {
-      "icon": "📋",
-      "label": "Apply Online",
-      "url": "https://shadianudan.upsdc.gov.in/"
-    },
-    {
-      "icon": "✅",
-      "label": "Check Status",
-      "url": "https://serviceonline.bihar.gov.in/"
-    },
-    {
-      "icon": "📞",
-      "label": "Contact Support",
-      "url": "#"
-    }
-  ],
-  "what_is_it": [
-    "Marriage in poor families is often delayed or doesn't happen because parents can't afford the expenses. Kanya Vivah Yojana addresses this by giving cash assistance to families when their daughters get married. The amount varies by state - from ₹5,000 in Bihar to ₹51,000 in Madhya Pradesh and Uttar Pradesh. This money is meant to cover marriage expenses like venue, decorations, food, and essential shopping.",
-    "Different states run their own versions of this scheme with different names: Bihar calls it Mukhyamantri Kanya Vivah Yojana, Madhya Pradesh has Chief Minister Kananya Vivah Yojana, and Uttar Pradesh runs Shramik Kanya Vivah Yojana for laborer families. All aim for the same thing - removing financial barriers to marriage and allowing families to celebrate this important event without going into debt.",
-    "The scheme doesn't give cash to the bride directly. Instead, it transfers money to the parents' or guardian's bank account after the wedding is registered. This ensures the money is actually used for the marriage and prevents misuse. Many states also offer additional benefits like a gift for the couple, kitchen utensils, clothes, or household items.",
-    "Eligibility is based on family income, caste (in some states), and sometimes parental occupation. The goal is to help families living below the poverty line or in the lower-middle-income group. If your family struggles financially and your daughter is getting married, this scheme can provide significant relief and allow you to organize a decent wedding without borrowing heavily."
-  ],
-  "eligibility": [
-    {
-      "label": "Daughter's Age",
-      "value": "Usually 18 years or above (some states require 21+)",
-      "highlight": true
-    },
-    {
-      "label": "Family Income",
-      "value": "Below poverty line or low income (varies by state)",
-      "highlight": true
-    },
-    {
-      "label": "Marriage Registration",
-      "value": "Marriage must be registered under law",
-      "highlight": true
-    },
-    {
-      "label": "Residency",
-      "value": "Applicant must be resident of the state where scheme is applied",
-      "highlight": true
-    },
-    {
-      "label": "One Benefit Per Daughter",
-      "value": "Only one daughter per family can receive benefit in some states",
-      "highlight": false
-    },
-    {
-      "label": "Parental Occupation",
-      "value": "Some states require parents to be laborers or in informal sector",
-      "highlight": false
-    },
-    {
-      "label": "Caste Category",
-      "value": "Some states have SC/ST/OBC reservations or restrictions",
-      "highlight": false
-    }
-  ],
-  "eligibility_filters": {
-    "gender": [
-      "female"
+  {
+   "heading": "",
+   "type": "svg_block",
+   "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Kanya Vivah Yojana state-wise marriage a</text><rect x=\"30\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"130\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#145236\">MP: Rs 51,000</text><text x=\"130\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">household items + ca</text><rect x=\"250\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"350\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1E40AF\">Bihar: Rs 50,000</text><text x=\"350\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">for inter-caste marr</text><rect x=\"470\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"570\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#C2410C\">UP: Rs 51,000</text><text x=\"570\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#C2410C\">mass marriage + gift</text></svg>",
+   "caption": "Multiple states run Kanya Vivah/Samuhik Vivah schemes providing Rs 10,000-51,000 financial assistance for marriages of daughters from BPL families. Reduces dowry burden and promotes simple marriages."
+  },
+  {
+   "heading": "Documents You'll Need",
+   "icon": "📄",
+   "type": "table",
+   "columns": [
+    "Document",
+    "Where to Get It",
+    "Important Note"
+   ],
+   "rows": [
+    [
+     "Aadhaar Card of Applicant",
+     "Aadhaar Enrollment Center (if not already made)",
+     "Required for identity verification and DBT transfers"
     ],
-    "age_min": 18,
-    "age_max": 100,
-    "occupation": [
-      "any"
+    [
+     "Age Proof of Daughter",
+     "Birth Certificate, School Certificate, or Passport",
+     "Must prove daughter is 18+ years old"
     ],
-    "income_max": 200000,
-    "category": [
-      "all"
+    [
+     "Marriage Certificate",
+     "Registrar of Marriages in your district",
+     "Proof that marriage has been legally registered"
     ],
-    "states": [
-      "bihar"
+    [
+     "Income Certificate",
+     "Issued by Block or Tahsildar office",
+     "Proof that family income is below the limit for your state"
+    ],
+    [
+     "Caste Certificate",
+     "Issued by Tahsildar or Tehsildar office",
+     "Required if state scheme has SC/ST/OBC component"
+    ],
+    [
+     "Residence Certificate",
+     "Issued by District/Tehsildar office",
+     "Proof of permanent residency in the state"
+    ],
+    [
+     "Bank Account Details",
+     "Your own bank account (passbook or statement)",
+     "Account must be in parent's/guardian's name for transfer"
+    ],
+    [
+     "Passport-Size Photos",
+     "Any photography studio",
+     "Usually 2-4 photos needed for application form"
     ]
+   ]
   },
-  "extra_sections": [
-    {
-      "heading": "State-Wise Scheme Amounts and Details",
-      "icon": "🏛️",
-      "type": "table",
-      "columns": [
-        "State",
-        "Scheme Name",
-        "Amount",
-        "Eligibility Focus"
-      ],
-      "rows": [
-        [
-          "Bihar",
-          "Mukhyamantri Kanya Vivah Yojana",
-          "₹5,000",
-          "BPL and EWS families"
-        ],
-        [
-          "Madhya Pradesh",
-          "Chief Minister Kananya Vivah Yojana",
-          "₹51,000",
-          "Below poverty line families"
-        ],
-        [
-          "Uttar Pradesh",
-          "Shramik Kanya Vivah Yojana",
-          "₹51,000",
-          "Laborer families (registered with BOCW board)"
-        ],
-        [
-          "Rajasthan",
-          "Mukhyamantri Kanyadan Yojana",
-          "₹21,000-₹41,000",
-          "BPL and SC/ST families"
-        ],
-        [
-          "Chhattisgarh",
-          "Kanya Vivah Yojana",
-          "₹25,000",
-          "Low-income families"
-        ],
-        [
-          "Jharkhand",
-          "Kanya Vivah Yojana",
-          "₹40,000",
-          "SC/ST and BPL families"
-        ]
-      ]
-    },
-    {
-      "heading": "",
-      "type": "svg_block",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Kanya Vivah Yojana state-wise marriage a</text><rect x=\"30\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"130\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#145236\">MP: Rs 51,000</text><text x=\"130\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">household items + ca</text><rect x=\"250\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"350\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1E40AF\">Bihar: Rs 50,000</text><text x=\"350\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">for inter-caste marr</text><rect x=\"470\" y=\"50\" width=\"200\" height=\"75\" rx=\"10\" fill=\"#FFF7ED\" stroke=\"#EA580C\" stroke-width=\"2\"/><text x=\"570\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#C2410C\">UP: Rs 51,000</text><text x=\"570\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#C2410C\">mass marriage + gift</text></svg>",
-      "caption": "Multiple states run Kanya Vivah/Samuhik Vivah schemes providing Rs 10,000-51,000 financial assistance for marriages of daughters from BPL families. Reduces dowry burden and promotes simple marriages."
-    },
-    {
-      "heading": "Documents You'll Need",
-      "icon": "📄",
-      "type": "table",
-      "columns": [
-        "Document",
-        "Where to Get It",
-        "Important Note"
-      ],
-      "rows": [
-        [
-          "Aadhaar Card of Applicant",
-          "Aadhaar Enrollment Center (if not already made)",
-          "Required for identity verification and DBT transfers"
-        ],
-        [
-          "Age Proof of Daughter",
-          "Birth Certificate, School Certificate, or Passport",
-          "Must prove daughter is 18+ years old"
-        ],
-        [
-          "Marriage Certificate",
-          "Registrar of Marriages in your district",
-          "Proof that marriage has been legally registered"
-        ],
-        [
-          "Income Certificate",
-          "Issued by Block or Tahsildar office",
-          "Proof that family income is below the limit for your state"
-        ],
-        [
-          "Caste Certificate",
-          "Issued by Tahsildar or Tehsildar office",
-          "Required if state scheme has SC/ST/OBC component"
-        ],
-        [
-          "Residence Certificate",
-          "Issued by District/Tehsildar office",
-          "Proof of permanent residency in the state"
-        ],
-        [
-          "Bank Account Details",
-          "Your own bank account (passbook or statement)",
-          "Account must be in parent's/guardian's name for transfer"
-        ],
-        [
-          "Passport-Size Photos",
-          "Any photography studio",
-          "Usually 2-4 photos needed for application form"
-        ]
-      ]
-    },
-    {
-      "heading": "Mass Marriage vs Individual Marriage Applications",
-      "icon": "👥",
-      "type": "text",
-      "content": [
-        "<h3>What is a Mass Marriage Program?</h3>Many states organize mass marriage events where hundreds of couples get married <a href=\"/compare/ayushman-vs-state-health\" style=\"text-decoration:underline;color:inherit\">together</a>. The government handles the wedding venue, decorations, food, and other arrangements.",
-        "Both the bride and groom from poor families register in advance, and the state conducts the ceremony. This is different from an individual marriage where you arrange the wedding privately.",
-        "<h3>Benefits of Mass Marriage</h3>In mass marriage programs, the <a href=\"/yojana/kanya-sumangala-yojana\" style=\"text-decoration:underline;color:inherit\">Kanya</a> Vivah Yojana assistance is often higher because the government also covers venue and catering costs. Some states give additional gifts like utensils, clothes, or furniture for the couple.",
-        "The event is festive, and you don't have to spend on basic arrangements. For families with almost no money, this removes enormous financial pressure.",
-        "<h3>Drawbacks of Mass Marriage</h3>You have less control over the guest list and wedding timing. The government picks the date based on their schedule.",
-        "You can't invite everyone you want if the government limits numbers. Some couples find it impersonal compared to family-arranged weddings.",
-        "Also, finding a suitable partner on the government-set date might be challenging.",
-        "<h3>Individual Marriage Applications</h3>If your daughter is already married or you want a private family wedding, you can apply under the individual marriage category. You arrange the wedding yourself, and after it's legally registered, you apply for the scheme assistance.",
-        "The amount is usually lower than mass marriage benefits because the government isn't handling arrangements.",
-        "<h3>How to Choose?</h3>If you're planning your daughter's marriage and money is your main concern, mass marriage programs offer better financial support. If you already have a suitable groom selected and want a family-controlled wedding, individual application is the way.",
-        "Check with your state's <a href=\"/yojana/gruha-lakshmi\" style=\"text-decoration:underline;color:inherit\">women</a> and child development office to see when mass marriages are scheduled."
-      ]
-    },
-    {
-      "heading": "State-Wise Application Portals and Links",
-      "icon": "💻",
-      "type": "table",
-      "columns": [
-        "State",
-        "Portal Name",
-        "Website"
-      ],
-      "rows": [
-        [
-          "Uttar Pradesh",
-          "Shadi Anudan Portal",
-          "https://shadianudan.upsdc.gov.in/"
-        ],
-        [
-          "Bihar",
-          "ServiceOnline Bihar Portal",
-          "https://serviceonline.bihar.gov.in/"
-        ],
-        [
-          "Madhya Pradesh",
-          "CM Helpline / MP Government Portal",
-          "https://cmhelpline.mp.gov.in/"
-        ],
-        [
-          "Rajasthan",
-          "Department of Social Justice Portal",
-          "https://sje.rajasthan.gov.in/"
-        ],
-        [
-          "Jharkhand",
-          "RTPS - Right to Public Services",
-          "https://rtps.jharkhand.gov.in/"
-        ],
-        [
-          "Odisha",
-          "Odisha Government Services Portal",
-          "https://odisha.gov.in/"
-        ]
-      ]
-    },
-    {
-      "type": "svg_block",
-      "heading": "Visual: Kanya Vivah Yojana Key Numbers",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">₹5,000 - ₹51,000</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Benefit Range</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">10+ States</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">States Covered</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">Millions</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Beneficiaries</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
-      "caption": "Key numbers for Kanya Vivah Yojana: Marriage A",
-      "description": "Quick overview of the most important numbers and facts."
-    },
-    {
-      "heading": "Important Application Tips",
-      "icon": "💡",
-      "type": "text",
-      "content": [
-        "<h3>Apply After Marriage is Registered</h3>Don't apply before marriage. Some states reject early applications.",
-        "Get your marriage legally registered first at the Registrar's office (this is free or costs a small fee). Then apply within the deadline - usually 30 to 90 days after marriage registration.",
-        "<h3>Match All Names Carefully</h3>Names in Aadhaar, birth certificate, marriage certificate, and income certificate must match exactly. If your daughter's Aadhaar says 'Priya Sharma' but marriage certificate says 'Priya S.",
-        "Sharma,' it will cause rejection. Check and correct before applying.",
-        "<h3>Income Certificate Limits Vary</h3>Each state sets its own income limit. Bihar might accept families earning up to ₹1.5 lakh annually, while UP might accept up to ₹2 lakh.",
-        "Check your state's exact limit before getting the income certificate made.",
-        "<h3>Don't Miss the Deadline</h3>Most states have annual application windows - sometimes June-July, sometimes year-round. If you miss it, you'll have to wait months for the next window.",
-        "Mark the deadline in your calendar and submit early."
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "What is Kanya Vivah Yojana?",
-      "icon": "💐",
-      "content": [
-        "Kanya Vivah <a href=\"/yojana/sukanya-samriddhi-yojana\" style=\"text-decoration:underline;color:inherit\">Yojana</a> is a marriage assistance scheme run by multiple state governments to help BPL (Below Poverty Line) families marry their daughters without falling into debt. The financial burden of marriage - especially the dowry expectation and wedding expenses - pushes millions of poor families into debt spirals every year.",
-        "These schemes provide Rs 10,000-51,000 per daughter's marriage, reducing the financial shock.",
-        "The scheme operates under different names in different states: Mukhyamantri Kanya Vivah Yojana in Madhya Pradesh and Bihar, Samuhik Vivah Yojana (mass marriage scheme) in UP and Rajasthan, Kanyadan Yojana in Gujarat, and Vivah Sahayata Yojana in Chhattisgarh. While the names and exact amounts differ, the core concept is identical - government financial support for daughters' marriages in poor families.",
-        "Most states implement this through mass marriage ceremonies (Samuhik Vivah) organized by the district administration. Multiple couples marry simultaneously at a government-organized venue with all arrangements - pandal, catering, priest services, and gifts - funded by the government.",
-        "This model promotes simple weddings, reduces wasteful expenditure, and eliminates the stigma of being unable to afford a traditional wedding."
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "Madhya Pradesh Kanya Vivah Yojana - most generous",
-      "icon": "🏛️",
-      "content": [
-        "MP offers the highest financial assistance - Rs 51,000 per daughter. The benefit is distributed as: Rs 38,000 in the form of household items (cooking utensils, bedding, clothes, basic furniture), Rs 11,000 as cash in the bride's bank account, and Rs 2,000 for the mass marriage ceremony arrangement.",
-        "The household items are standardized - every bride receives the same quality items regardless of district or batch.",
-        "Eligibility in MP: Bride must be at least 18 years old (legal marriage age). Groom must be at least 21 years old.",
-        "The bride's family must be BPL, or the bride must be a Samagra-registered member from a poor household, or the bride must be a destitute/orphan/divorcee/widow. Only 2 daughters per family can receive this benefit.",
-        "Apply through the Gram Panchayat (rural) or Nagar Nigam (urban).",
-        "The mass marriage ceremonies are held on auspicious dates (usually Akshaya Tritiya, Basant Panchami, or other locally significant dates). Hundreds of couples marry simultaneously.",
-        "The district collector oversees the event. Local leaders, community organizations, and social workers attend.",
-        "The ceremonies are dignified - couples receive individual attention despite the group format.",
-        "How to apply in MP: Visit your nearest Gram Panchayat or Nagar Nigam office. Fill the application form with bride and groom details, attach BPL/Samagra card, age proof (Aadhaar/birth certificate showing bride 18+, groom 21+), and bank passbook of the bride.",
-        "The Panchayat/Nigam forwards applications to the district Social Justice department. Approved couples are notified about the mass marriage date 30-60 days in advance."
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "Bihar Kanya Vivah Yojana",
-      "icon": "🏛️",
-      "content": [
-        "Bihar provides Rs 5,000 to BPL families for daughter's marriage under Mukhyamantri Kanya Vivah Yojana. For inter-caste marriages (bride and groom from different castes), the amount increases to Rs 50,000 - a deliberate incentive to promote social integration and reduce caste barriers.",
-        "The inter-caste marriage benefit is among the highest in India.",
-        "Eligibility in Bihar: Girl must be at least 18 years old. Family must be BPL or have annual income below Rs 60,000.",
-        "Marriage must be registered under Hindu Marriage Act or Special Marriage Act. The girl must not be married before 18 (child marriage disqualifies).",
-        "Apply through the RTPS (Right to Public Service) portal at serviceonline.bihar.gov.in or at the district Women and Child Development office.",
-        "Bihar also runs Kanya Utthan Yojana separately - providing Rs 50,000 total from birth to graduation (Rs 2,000 at birth, Rs 1,000 at vaccination, Rs 2,000 at Aadhaar enrollment, Rs 10,000 at 12th pass, Rs 25,000 at graduation). Combined with Kanya Vivah Yojana, a Bihar BPL family can receive Rs 55,000-1,00,000+ in total government support for raising and marrying a daughter."
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "UP Samuhik Vivah Yojana",
-      "icon": "🏛️",
-      "content": [
-        "Uttar Pradesh's Mukhyamantri Samuhik Vivah Yojana provides Rs 51,000 per couple for mass marriages - Rs 35,000 as household items and gifts, Rs 10,000 as cash to the bride's account, and Rs 6,000 for the marriage ceremony arrangement. UP organizes the largest mass marriage events in India - some events marry 500-1,000 couples simultaneously.",
-        "Eligibility in UP: Bride's family income must be below the poverty line or the family must hold a BPL/Antyodaya card. Bride minimum 18 years, groom minimum 21 years.",
-        "Applicable to all religions - Hindu, Muslim, Christian, Sikh marriages are all covered. Widows and divorcees are also eligible, encouraging remarriage without social stigma.",
-        "UP's implementation is through the Social Welfare department at the district level. Applications are submitted through the Gram Panchayat or District Social Welfare office.",
-        "The district administration organizes mass marriage events 3-4 times per year on auspicious dates. Couples receive wedding outfits, jewelry sets, kitchen utensils, and bedding as part of the Rs 35,000 gift package."
-      ]
-    },
-    {
-      "type": "svg_block",
-      "heading": "Visual: Eligibility Check",
-      "svg": "<svg viewBox=\"0 0 700 132\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Eligibility</text><rect x=\"20\" y=\"35\" width=\"320\" height=\"87\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"180\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1B6B4A\">Eligible</text><text x=\"40\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Daughter's Age</text><text x=\"40\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Family Income</text><text x=\"40\" y=\"111\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Marriage Registratio</text><text x=\"40\" y=\"129\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Residency</text><rect x=\"360\" y=\"35\" width=\"320\" height=\"87\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"520\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#BE185D\">Not Eligible</text><text x=\"380\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ One Benefit Per Daug</text><text x=\"380\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Parental Occupation</text><text x=\"380\" y=\"111\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Caste Category</text></svg>",
-      "caption": "Quick eligibility check for Kanya Vivah Yojana",
-      "description": "Check if you meet the basic eligibility criteria before applying."
-    },
-    {
-      "type": "text",
-      "heading": "Other states with similar schemes",
-      "icon": "📊",
-      "content": [
-        "Rajasthan - Mukhyamantri Kanyadan <a href=\"/yojana/pm-garib-kalyan-anna\" style=\"text-decoration:underline;color:inherit\">Yojana:</a> Rs 31,000-41,000 per daughter (amount varies by caste category - higher for SC/ST). Includes Rs 21,000 as FD in the bride's name (maturity after 5 years) and Rs 10,000-20,000 for household items.",
-        "Maximum 2 daughters per family. Apply through e-Mitra kiosks or Social Justice department.",
-        "Gujarat - Kanyadan Yojana: Rs 10,000 for marriage of daughters from BPL families. Relatively lower amount compared to MP and UP.",
-        "Apply through the district Social Welfare office. Gujarat also runs Kunvar Bai Nu Mameru Yojana providing Rs 12,000 from maternal uncle's side (government acts as symbolic mama/uncle for orphan girls).",
-        "Chhattisgarh - Mukhyamantri Kanya Vivah Yojana: Rs 25,000 per daughter. Includes household items, clothes, and cash.",
-        "Apply through Gram Panchayat or Women and Child Development office. Chhattisgarh organizes mass marriages on Akshaya Tritiya annually - the largest event in Raipur district typically marries 200-300 couples.",
-        "Jharkhand - Mukhyamantri Kanya Dan Yojana: Rs 30,000 per daughter from BPL/Antyodaya families. Apply through the District Social Welfare office. Jharkhand's tribal communities have high participation - the scheme respects tribal marriage customs while providing financial support.",
-        "Central government - Shadi Shagun: Rs 51,000 for marriage of daughters from minority community BPL families (Muslim, Christian, Sikh, Buddhist, Parsi). Managed by the Maulana Azad Education Foundation.",
-        "Apply at maef.nic.in. This is in addition to state-level marriage schemes - eligible families can receive both state and central benefits."
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "How to apply - general process across states",
-      "icon": "📝",
-      "content": [
-        "Step 1: Confirm eligibility. Check your state's specific scheme criteria - income limit, age requirement, BPL card, and how many daughters are covered.",
-        "Most states limit the benefit to 2 daughters per family. Ensure the bride is 18+ and groom is 21+ - underage marriage applications are rejected and may trigger legal action.",
-        "Step 2: Gather documents. Common requirements across states: bride's age proof (Aadhaar/birth certificate showing 18+), groom's age proof (showing 21+), BPL card or income certificate showing below poverty line, family ration card, Aadhaar cards of bride and both parents, bride's bank passbook (for cash transfer), and passport-sized photos of bride and groom.",
-        "Step 3: Submit application at the designated office - Gram Panchayat (rural), Nagar Nigam (urban), or District Social Welfare office. Some states accept online applications through their e-District or welfare portals.",
-        "Applications should be submitted 2-3 months before the expected marriage date to allow time for verification and approval.",
-        "Step 4: After approval, if you've opted for mass marriage - attend the government-organized ceremony on the specified date. If you've opted for individual marriage assistance - the cash/benefit is transferred after submitting the marriage registration certificate proving the marriage was legally conducted.",
-        "Marriage registration is mandatory - unregistered marriages don't receive benefits."
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "Impact and criticism of Kanya Vivah schemes",
-      "icon": "💡",
-      "content": [
-        "Positive impact: These schemes have measurably reduced marriage-related debt in BPL families. A study in MP showed that families receiving Kanya Vivah benefits borrowed 40% less from money lenders for wedding expenses compared to non-beneficiary families.",
-        "Mass marriage formats have also normalized simple weddings - reducing the social pressure for lavish ceremonies that push families into bankruptcy.",
-        "The schemes indirectly discourage child marriage by requiring the bride to be 18+. Families that might have married daughters at 15-16 to avoid rising costs now have a financial incentive to wait until 18.",
-        "While this isn't a complete solution to child marriage, the economic incentive reinforces the legal age requirement.",
-        "Criticism - perpetuates the idea that daughters are a financial burden. Critics argue that instead of giving marriage money, the government should invest in girls' education, skills, and employment - making them economically independent so marriage assistance isn't needed.",
-        "The counter: these are complementary, not competing approaches. Girls need BOTH education support (Sukanya Samriddhi, Kanya Utthan) AND marriage assistance because the social reality of marriage expenses exists regardless of education level.",
-        "Criticism - mass marriages lack dignity. Some argue that mass ceremonies reduce a personal milestone to a government event.",
-        "However, beneficiary surveys consistently show 80%+ satisfaction - families who couldn't afford any ceremony at all appreciate the dignified arrangement. The alternative without the scheme is often no ceremony, no gifts, and crushing debt."
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "heading": "Combine with central + state schemes for maximum benefit",
-      "content": "A BPL family in MP can receive: Kanya Vivah Rs 51,000 (state) + Shadi Shagun Rs 51,000 (central, if minority community) + Sukanya Samriddhi maturity (if invested from birth). Apply for all schemes you're eligible for - they're independent and stackable. Also apply for PM Awas (housing) and Ujjwala (LPG) separately - your BPL status qualifies you for multiple welfare schemes simultaneously."
-    },
-    {
-      "type": "callout",
-      "variant": "warning",
-      "heading": "Child marriage = criminal offense, not eligible",
-      "content": "All Kanya Vivah schemes require the bride to be 18+ and groom to be 21+. Submitting forged age certificates for underage marriage is a criminal offense under the Prohibition of Child Marriage Act 2006 - punishable with 2 years imprisonment and Rs 1 lakh fine. The district administration verifies age documents during application processing. If you know of a child marriage, report to Childline at 1098."
-    },
-    {
-      "type": "svg_block",
-      "heading": "Visual: Application Process",
-      "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><defs><marker id=\"af\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><polygon points=\"0 0, 10 3, 0 6\" fill=\"#1E40AF\"/></marker></defs><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">How to Apply</text><rect x=\"16\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"71\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Check Your State's</text><line x1=\"126\" y1=\"65\" x2=\"142\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"152\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"207\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Get Your Marriage </text><line x1=\"262\" y1=\"65\" x2=\"278\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"288\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"343\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Collect Required D</text><line x1=\"398\" y1=\"65\" x2=\"414\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"424\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"479\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Open a Bank Accoun</text><line x1=\"534\" y1=\"65\" x2=\"550\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"560\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"615\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">Visit the Applicat</text></svg>",
-      "caption": "Step-by-step application process",
-      "description": "Follow these steps to complete your application successfully."
-    },
-    {
-      "type": "pullquote",
-      "text": "In India, the average family spends Rs 5-10 lakh on a daughter's wedding - often borrowing at 24-36% interest from money lenders. Kanya Vivah schemes provide Rs 25,000-51,000 and a dignified mass marriage ceremony, reducing debt by 40%. The scheme doesn't eliminate the financial burden of marriage - but it prevents families from falling into the debt trap that destroys livelihoods."
-    },
-    {
-      "type": "text",
-      "heading": "Documents checklist for Kanya Vivah application",
-      "icon": "📄",
-      "content": [
-        "Bride's documents: Aadhaar card (mandatory - for DBT transfer), birth certificate or 10th marksheet (proving age 18+), passport-sized photos (4-6), bank passbook (in bride's own name - some states require the account to have been active for 6+ months), and marriage invitation or consent letter from both families.",
-        "Family documents: BPL card or Antyodaya card (primary eligibility proof), ration card (shows family composition and economic status), income certificate from Tehsildar (if BPL card is unavailable - income below Rs 1-2 lakh/year depending on state), and caste certificate for SC/ST/OBC (some states offer higher amounts for reserved categories).",
-        "Groom's documents: Aadhaar card, age proof (birth certificate or 10th marksheet showing 21+), and address proof. The groom doesn't receive the financial benefit - it goes entirely to the bride's family/account. But the groom's age verification is mandatory to ensure the marriage is legal.",
-        "Additional for specific situations: Death certificate of father (for orphan/fatherless brides who get priority), divorce decree (for divorcee brides), widow certificate from Tehsildar (for widow brides), and disability certificate (for PwD brides who get priority in many states). Keep all documents as originals + 3 photocopies each."
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "Mass marriage vs individual marriage - which to choose",
-      "icon": "⚖️",
-      "content": [
-        "Mass marriage (Samuhik Vivah) advantages: Full benefit amount (Rs 51,000 in MP/UP), complete wedding arrangement by government (venue, food, priest, decorations), dignified ceremony with community celebration, marriage registration done on the spot (saves separate trip to registrar), and media coverage that ensures accountability and transparency.",
-        "Mass marriage limitations: Fixed dates (you can't choose your wedding date - it's decided by the district administration), less personal/family customization (standardized ceremony format), large crowds (200-1,000 couples at some events which can feel impersonal), and travel to the government venue (may be in a different town from your village).",
-        "Individual marriage assistance: You conduct the wedding as per your family's traditions and timeline. After marriage, submit the marriage registration certificate to claim the cash benefit.",
-        "The amount may be lower than the mass marriage package (some states give Rs 10,000-20,000 for individual marriages vs Rs 51,000 for mass marriages). The flexibility is the trade-off for a lower benefit amount.",
-        "Recommendation: If the full benefit amount matters to you and you're comfortable with a shared ceremony, choose mass marriage. If you want a traditional family wedding and the lower assistance is acceptable, choose individual marriage.",
-        "In either case, ensure the marriage is legally registered - unregistered marriages don't receive benefits and create legal complications for property rights, inheritance, and government scheme eligibility."
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "Helpline and official portals",
-      "icon": "📞",
-      "content": [
-        "MP Kanya Vivah: mpedistrict.gov.in or contact District Women and Child Development office. Helpline: 181 (Women Helpline). Bihar: serviceonline.bihar.gov.in → Mukhyamantri Kanya Vivah Yojana. UP: shadianudan.upsdc.gov.in for Samuhik Vivah registration. Rajasthan: sje.rajasthan.gov.in → Kanyadan Yojana. For all states, the Gram Panchayat or Nagar Nigam office is the first point of contact for applications and queries."
-      ]
-    },
-    {
-      "type": "callout",
-      "heading": "Official Sources & References",
-      "icon": "📖",
-      "variant": "info",
-      "content": "Source: Department of Women & Child Development. All information on this page has been verified against official government notifications and regulatory circulars. For the latest updates, always check the official portal."
-    },
-    {
-      "type": "svg_block",
-      "heading": "Marriage Assistance Amount",
-      "icon": "💐",
-      "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">Kanya Vivah Financial Assistance</text><rect x=\"50\" y=\"50\" width=\"280\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"190\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">₹51,000 per marriage (</text><rect x=\"370\" y=\"50\" width=\"280\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"510\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">BPL/SC/ST families eli</text></svg>",
-      "caption": "Government covers marriage expenses for eligible BPL families",
-      "description": "Apply through state social welfare department before the marriage date."
-    }
-  ],
-  "how_to_apply": [
-    {
-      "step": 1,
-      "title": "Check Your State's Scheme Details",
-      "description": "Visit your state's women and child development department website. Note the income limit, maximum benefit amount, and whether they prefer mass marriages or individual applications. Each state has slightly different rules."
-    },
-    {
-      "step": 2,
-      "title": "Get Your Marriage Registered",
-      "description": "Go to the Registrar of Marriages (or Registrar Office) in your district with your marriage invitation, photos, and both bride and groom's ID. Register the marriage legally. This is free or costs ₹50-100. You'll get a marriage certificate within days."
-    },
-    {
-      "step": 3,
-      "title": "Collect Required Documents",
-      "description": "Gather your Aadhaar, daughter's age proof, marriage certificate, income certificate (from Tahsildar), caste certificate if needed, residence proof, and bank details. Get all certificates notarized or attested as your state requires."
-    },
-    {
-      "step": 4,
-      "title": "Open a Bank Account if You Don't Have One",
-      "description": "The scheme transfers money via bank transfer (DBT). If you don't have a bank account, open one in your name at any bank. Bring Aadhaar and any address proof. The account takes a few days to activate."
-    },
-    {
-      "step": 5,
-      "title": "Visit the Application Portal",
-      "description": "Go to your state's official scheme portal (see the table above). Create an account using your Aadhaar or phone number. Some states also allow offline application at the district women and child development office."
-    },
-    {
-      "step": 6,
-      "title": "Fill the Application Form",
-      "description": "Enter your details: name, Aadhaar, bank account, daughter's details, marriage certificate number, income, caste category if applicable. Re-read everything - mistakes cause rejection."
-    },
-    {
-      "step": 7,
-      "title": "Upload Documents",
-      "description": "Upload clear photos or PDFs of all required documents. Image quality matters - blurry documents get rejected. Ensure file sizes are within limits (usually 5 MB per document)."
-    },
-    {
-      "step": 8,
-      "title": "Submit and Get Acknowledgment Number",
-      "description": "Click submit. The portal will show an acknowledgment number. Write it down or save the receipt. Use this number to track your application status."
-    },
-    {
-      "step": 9,
-      "title": "Track Your Application",
-      "description": "Log back into the portal regularly to check status. The office will verify your documents and update the status. Most states complete verification in 30-60 days."
-    },
-    {
-      "step": 10,
-      "title": "Receive Your Payment",
-      "description": "Once approved, the amount is transferred to your bank account. You'll usually get an SMS notification. Check your account balance to confirm. Don't withdraw all at once - use it for remaining wedding expenses or debt repayment."
-    }
-  ],
-  "important_alert": {
-    "text": "Marriage Registration is Non-Negotiable: Without a legally registered marriage certificate, no state will approve your Kanya Vivah Yojana application. Register your marriage at the Registrar's office BEFORE applying. This is free and takes 1-2 weeks. Don't wait - register immediately after the wedding ceremony.",
-    "type": "warning"
+  {
+   "heading": "Mass Marriage vs Individual Marriage Applications",
+   "icon": "👥",
+   "type": "text",
+   "content": [
+    "<h3>What is a Mass Marriage Program?</h3>Many states organize mass marriage events where hundreds of couples get married <a href=\"/compare/ayushman-vs-state-health\" style=\"text-decoration:underline;color:inherit\">together</a>. The government handles the wedding venue, decorations, food, and other arrangements.",
+    "Both the bride and groom from poor families register in advance, and the state conducts the ceremony. This is different from an individual marriage where you arrange the wedding privately.",
+    "<h3>Benefits of Mass Marriage</h3>In mass marriage programs, the <a href=\"/yojana/kanya-sumangala-yojana\" style=\"text-decoration:underline;color:inherit\">Kanya</a> Vivah Yojana assistance is often higher because the government also covers venue and catering costs. Some states give additional gifts like utensils, clothes, or furniture for the couple.",
+    "The event is festive, and you don't have to spend on basic arrangements. For families with almost no money, this removes enormous financial pressure.",
+    "<h3>Drawbacks of Mass Marriage</h3>You have less control over the guest list and wedding timing. The government picks the date based on their schedule.",
+    "You can't invite everyone you want if the government limits numbers. Some couples find it impersonal compared to family-arranged weddings.",
+    "Also, finding a suitable partner on the government-set date might be challenging.",
+    "<h3>Individual Marriage Applications</h3>If your daughter is already married or you want a private family wedding, you can apply under the individual marriage category. You arrange the wedding yourself, and after it's legally registered, you apply for the scheme assistance.",
+    "The amount is usually lower than mass marriage benefits because the government isn't handling arrangements.",
+    "<h3>How to Choose?</h3>If you're planning your daughter's marriage and money is your main concern, mass marriage programs offer better financial support. If you already have a suitable groom selected and want a family-controlled wedding, individual application is the way.",
+    "Check with your state's <a href=\"/yojana/gruha-lakshmi\" style=\"text-decoration:underline;color:inherit\">women</a> and child development office to see when mass marriages are scheduled."
+   ]
   },
-  "important_dates": [
-    {
-      "label": "Application Window (varies by state)",
-      "value": "Usually June-July or ongoing",
-      "highlight": true
-    },
-    {
-      "label": "Marriage Registration Deadline",
-      "value": "Within 30 days of marriage ceremony",
-      "highlight": true
-    },
-    {
-      "label": "Application Submission Deadline",
-      "value": "Usually 30-90 days after marriage registration",
-      "highlight": true
-    },
-    {
-      "label": "Document Verification Period",
-      "value": "30-60 days from application submission",
-      "highlight": false
-    },
-    {
-      "label": "Payment Processing",
-      "value": "5-10 days after approval via bank transfer",
-      "highlight": false
-    }
-  ],
-  "faqs": [
-    {
-      "question": "My daughter is already married. Can I still apply?",
-      "answer": "Yes, if the marriage was registered within the state's required timeframe (usually within 1 year). Get the original marriage certificate and apply as soon as possible. Some states allow applications up to 5 years after marriage, but earlier is better."
-    },
-    {
-      "question": "What if my family income is above the limit?",
-      "answer": "You're ineligible under the standard scheme. However, check if your state has an EWS (Economically Weaker Section) category or if you qualify under SC/ST/OBC subcategories, which sometimes have relaxed income limits. Also, some states have mass marriage programs that accept slightly higher incomes."
-    },
-    {
-      "question": "Can I apply if my daughter married someone outside my caste?",
-      "answer": "Most modern schemes don't check the groom's caste, only the bride's family eligibility. However, a few states still have inter-caste marriage bonus provisions (extra amount if couples from different castes marry). Check your state's current policy on the official portal."
-    },
-    {
-      "question": "Is the payment made to the bride or the parents?",
-      "answer": "Payment is always made to the parents or legal guardian, never directly to the bride. The assumption is that parents bear the wedding expenses. This also ensures the money is used for actual wedding-related purposes."
-    },
-    {
-      "question": "What if my marriage certificate shows a different spelling of my name?",
-      "answer": "This will cause rejection. Get your marriage certificate corrected by the Registrar (free or low-cost process). They'll issue a corrected certificate. Then reapply. Don't try to use a certificate with spelling errors."
-    },
-    {
-      "question": "How do I get an income certificate?",
-      "answer": "Visit your Block Development Officer (BDO) or Tehsildar office with your Aadhaar, tax returns or wage slips if you have them, and a letter requesting income certificate. They'll issue it within a few days, usually for free. Don't get it made from private agents - only government offices issue valid certificates."
-    },
-    {
-      "question": "Can I reapply in a different state if I move after marriage?",
-      "answer": "No, schemes are state-specific. You can only apply where you were a resident at the time of marriage. If you've moved, check if your new state has a similar scheme and apply there separately - but only after meeting that state's residency requirements."
-    },
-    {
-      "question": "What happens if I get rejected? Can I appeal?",
-      "answer": "Yes, you can file an appeal or complaint at the district women and child development office. Download the rejection letter from the portal - it specifies why you were rejected. Fix that issue and reapply in the next window, or file a formal appeal if you believe the rejection was wrong."
-    },
-    {
-      "question": "How much money do you get under Kanya Vivah Yojana?",
-      "answer": "Varies by state: MP Rs 51,000, UP Rs 51,000, Rajasthan Rs 31,000-41,000, Jharkhand Rs 30,000, Chhattisgarh Rs 25,000, Gujarat Rs 10,000, Bihar Rs 5,000 (Rs 50,000 for inter-caste marriage). The benefit is usually a mix of cash transfer to the bride's account and household items (utensils, bedding, clothes). Check your specific state's current amount."
-    },
-    {
-      "question": "Who is eligible for Kanya Vivah Yojana?",
-      "answer": "Generally: bride must be 18+, groom 21+, family must be BPL or below a specified income limit (varies by state). Most states limit to 2 daughters per family. Widows, divorcees, and orphan girls are usually eligible with additional priority. You must have a BPL card, Antyodaya card, or income certificate from the Tehsildar to prove economic status."
-    },
-    {
-      "question": "How to apply for Kanya Vivah Yojana online?",
-      "answer": "Visit your state's e-District or welfare portal - MP: mpedistrict.gov.in, Bihar: serviceonline.bihar.gov.in, UP: shadianudan.upsdc.gov.in, Rajasthan: sje.rajasthan.gov.in. If online isn't available in your state, apply at the Gram Panchayat, Nagar Nigam, or District Social Welfare office with BPL card, age proof, and bank passbook."
-    },
-    {
-      "question": "Can the benefit be used for a private wedding instead of mass marriage?",
-      "answer": "In most states, you can choose either mass marriage (samuhik vivah - ceremony arranged by government) or individual marriage assistance (cash transfer after submitting marriage registration certificate). For individual marriages, the cash amount may be slightly lower than the mass marriage package. Check your state's specific rules - some states mandate mass marriage participation for the full benefit amount."
-    }
-  ],
-  "official_portal": {
-    "name": "Shadi Anudan Portal - Uttar Pradesh (Primary Portal for Multiple States)",
-    "url": "https://shadianudan.upsdc.gov.in/"
+  {
+   "heading": "State-Wise Application Portals and Links",
+   "icon": "💻",
+   "type": "table",
+   "columns": [
+    "State",
+    "Portal Name",
+    "Website"
+   ],
+   "rows": [
+    [
+     "Uttar Pradesh",
+     "Shadi Anudan Portal",
+     "https://shadianudan.upsdc.gov.in/"
+    ],
+    [
+     "Bihar",
+     "ServiceOnline Bihar Portal",
+     "https://serviceonline.bihar.gov.in/"
+    ],
+    [
+     "Madhya Pradesh",
+     "CM Helpline / MP Government Portal",
+     "https://cmhelpline.mp.gov.in/"
+    ],
+    [
+     "Rajasthan",
+     "Department of Social Justice Portal",
+     "https://sje.rajasthan.gov.in/"
+    ],
+    [
+     "Jharkhand",
+     "RTPS - Right to Public Services",
+     "https://rtps.jharkhand.gov.in/"
+    ],
+    [
+     "Odisha",
+     "Odisha Government Services Portal",
+     "https://odisha.gov.in/"
+    ]
+   ]
   },
-  "related_pages": [
-    {
-      "title": "Gruha Lakshmi Scheme",
-      "slug": "gruha-lakshmi",
-      "tag": "Women Welfare",
-      "url": "/yojana/gruha-lakshmi"
-    },
-    {
-      "title": "PM Garib Kalyan Anna Yojana",
-      "slug": "pm-garib-kalyan-anna",
-      "tag": "Poverty Alleviation",
-      "url": "/yojana/pm-garib-kalyan-anna"
-    }
-  ],
-  "tags": [
-    "Marriage Assistance",
-    "Women Welfare",
-    "Poverty Alleviation",
-    "State Schemes",
-    "Financial Support",
-    "Girl Child"
-  ],
-  "ministry": "State Departments of Women and Child Development",
-  "launch_year": 2006,
-  "image_suggestions": [
-    "State-wise scheme comparison table showing amount differences across states",
-    "Marriage registration process at Registrar's office",
-    "Filled application form on the Shadi Anudan portal",
-    "Documents spread out showing all required paperwork",
-    "Mass marriage event with hundreds of couples",
-    "Young couple receiving certificate at government mass marriage",
-    "Bank transfer notification showing scheme payment received",
-    "Income certificate issued by Tahsildar office",
-    "Online portal dashboard showing application status tracking",
-    "Common Service Center helper assisting with online application"
-  ],
-  "last_reviewed": "May 2026",
-  "category": "women",
-  "state": "bihar"
+  {
+   "type": "svg_block",
+   "heading": "Visual: Kanya Vivah Yojana Key Numbers",
+   "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">₹5,000 - ₹51,000</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Benefit Range</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">10+ States</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">States Covered</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">Millions</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Beneficiaries</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
+   "caption": "Key numbers for Kanya Vivah Yojana: Marriage A",
+   "description": "Quick overview of the most important numbers and facts."
+  },
+  {
+   "heading": "Important Application Tips",
+   "icon": "💡",
+   "type": "text",
+   "content": [
+    "<h3>Apply After Marriage is Registered</h3>Don't apply before marriage. Some states reject early applications.",
+    "Get your marriage legally registered first at the Registrar's office (this is free or costs a small fee). Then apply within the deadline - usually 30 to 90 days after marriage registration.",
+    "<h3>Match All Names Carefully</h3>Names in Aadhaar, birth certificate, marriage certificate, and income certificate must match exactly. If your daughter's Aadhaar says 'Priya Sharma' but marriage certificate says 'Priya S.",
+    "Sharma,' it will cause rejection. Check and correct before applying.",
+    "<h3>Income Certificate Limits Vary</h3>Each state sets its own income limit. Bihar might accept families earning up to ₹1.5 lakh annually, while UP might accept up to ₹2 lakh.",
+    "Check your state's exact limit before getting the income certificate made.",
+    "<h3>Don't Miss the Deadline</h3>Most states have annual application windows - sometimes June-July, sometimes year-round. If you miss it, you'll have to wait months for the next window.",
+    "Mark the deadline in your calendar and submit early."
+   ]
+  },
+  {
+   "type": "text",
+   "heading": "What is Kanya Vivah Yojana?",
+   "icon": "💐",
+   "content": [
+    "Kanya Vivah <a href=\"/yojana/sukanya-samriddhi-yojana\" style=\"text-decoration:underline;color:inherit\">Yojana</a> is a marriage assistance scheme run by multiple state governments to help BPL (Below Poverty Line) families marry their daughters without falling into debt. The financial burden of marriage - especially the dowry expectation and wedding expenses - pushes millions of poor families into debt spirals every year.",
+    "These schemes provide Rs 10,000-51,000 per daughter's marriage, reducing the financial shock.",
+    "The scheme operates under different names in different states: Mukhyamantri Kanya Vivah Yojana in Madhya Pradesh and Bihar, Samuhik Vivah Yojana (mass marriage scheme) in UP and Rajasthan, Kanyadan Yojana in Gujarat, and Vivah Sahayata Yojana in Chhattisgarh. While the names and exact amounts differ, the core concept is identical - government financial support for daughters' marriages in poor families.",
+    "Most states implement this through mass marriage ceremonies (Samuhik Vivah) organized by the district administration. Multiple couples marry simultaneously at a government-organized venue with all arrangements - pandal, catering, priest services, and gifts - funded by the government.",
+    "This model promotes simple weddings, reduces wasteful expenditure, and eliminates the stigma of being unable to afford a traditional wedding."
+   ]
+  },
+  {
+   "type": "text",
+   "heading": "Madhya Pradesh Kanya Vivah Yojana - most generous",
+   "icon": "🏛️",
+   "content": [
+    "MP offers the highest financial assistance - Rs 51,000 per daughter. The benefit is distributed as: Rs 38,000 in the form of household items (cooking utensils, bedding, clothes, basic furniture), Rs 11,000 as cash in the bride's bank account, and Rs 2,000 for the mass marriage ceremony arrangement.",
+    "The household items are standardized - every bride receives the same quality items regardless of district or batch.",
+    "Eligibility in MP: Bride must be at least 18 years old (legal marriage age). Groom must be at least 21 years old.",
+    "The bride's family must be BPL, or the bride must be a Samagra-registered member from a poor household, or the bride must be a destitute/orphan/divorcee/widow. Only 2 daughters per family can receive this benefit.",
+    "Apply through the Gram Panchayat (rural) or Nagar Nigam (urban).",
+    "The mass marriage ceremonies are held on auspicious dates (usually Akshaya Tritiya, Basant Panchami, or other locally significant dates). Hundreds of couples marry simultaneously.",
+    "The district collector oversees the event. Local leaders, community organizations, and social workers attend.",
+    "The ceremonies are dignified - couples receive individual attention despite the group format.",
+    "How to apply in MP: Visit your nearest Gram Panchayat or Nagar Nigam office. Fill the application form with bride and groom details, attach BPL/Samagra card, age proof (Aadhaar/birth certificate showing bride 18+, groom 21+), and bank passbook of the bride.",
+    "The Panchayat/Nigam forwards applications to the district Social Justice department. Approved couples are notified about the mass marriage date 30-60 days in advance."
+   ]
+  },
+  {
+   "type": "text",
+   "heading": "Bihar Kanya Vivah Yojana",
+   "icon": "🏛️",
+   "content": [
+    "Bihar provides Rs 5,000 to BPL families for daughter's marriage under Mukhyamantri Kanya Vivah Yojana. For inter-caste marriages (bride and groom from different castes), the amount increases to Rs 50,000 - a deliberate incentive to promote social integration and reduce caste barriers.",
+    "The inter-caste marriage benefit is among the highest in India.",
+    "Eligibility in Bihar: Girl must be at least 18 years old. Family must be BPL or have annual income below Rs 60,000.",
+    "Marriage must be registered under Hindu Marriage Act or Special Marriage Act. The girl must not be married before 18 (child marriage disqualifies).",
+    "Apply through the RTPS (Right to Public Service) portal at serviceonline.bihar.gov.in or at the district Women and Child Development office.",
+    "Bihar also runs Kanya Utthan Yojana separately - providing Rs 50,000 total from birth to graduation (Rs 2,000 at birth, Rs 1,000 at vaccination, Rs 2,000 at Aadhaar enrollment, Rs 10,000 at 12th pass, Rs 25,000 at graduation). Combined with Kanya Vivah Yojana, a Bihar BPL family can receive Rs 55,000-1,00,000+ in total government support for raising and marrying a daughter."
+   ]
+  },
+  {
+   "type": "text",
+   "heading": "UP Samuhik Vivah Yojana",
+   "icon": "🏛️",
+   "content": [
+    "Uttar Pradesh's Mukhyamantri Samuhik Vivah Yojana provides Rs 51,000 per couple for mass marriages - Rs 35,000 as household items and gifts, Rs 10,000 as cash to the bride's account, and Rs 6,000 for the marriage ceremony arrangement. UP organizes the largest mass marriage events in India - some events marry 500-1,000 couples simultaneously.",
+    "Eligibility in UP: Bride's family income must be below the poverty line or the family must hold a BPL/Antyodaya card. Bride minimum 18 years, groom minimum 21 years.",
+    "Applicable to all religions - Hindu, Muslim, Christian, Sikh marriages are all covered. Widows and divorcees are also eligible, encouraging remarriage without social stigma.",
+    "UP's implementation is through the Social Welfare department at the district level. Applications are submitted through the Gram Panchayat or District Social Welfare office.",
+    "The district administration organizes mass marriage events 3-4 times per year on auspicious dates. Couples receive wedding outfits, jewelry sets, kitchen utensils, and bedding as part of the Rs 35,000 gift package."
+   ]
+  },
+  {
+   "type": "svg_block",
+   "heading": "Visual: Eligibility Check",
+   "svg": "<svg viewBox=\"0 0 700 132\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Eligibility</text><rect x=\"20\" y=\"35\" width=\"320\" height=\"87\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"180\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#1B6B4A\">Eligible</text><text x=\"40\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Daughter's Age</text><text x=\"40\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Family Income</text><text x=\"40\" y=\"111\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Marriage Registratio</text><text x=\"40\" y=\"129\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✓ Residency</text><rect x=\"360\" y=\"35\" width=\"320\" height=\"87\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"520\" y=\"55\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"12\" font-weight=\"700\" fill=\"#BE185D\">Not Eligible</text><text x=\"380\" y=\"75\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ One Benefit Per Daug</text><text x=\"380\" y=\"93\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Parental Occupation</text><text x=\"380\" y=\"111\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#111827\">✗ Caste Category</text></svg>",
+   "caption": "Quick eligibility check for Kanya Vivah Yojana",
+   "description": "Check if you meet the basic eligibility criteria before applying."
+  },
+  {
+   "type": "text",
+   "heading": "Other states with similar schemes",
+   "icon": "📊",
+   "content": [
+    "Rajasthan - Mukhyamantri Kanyadan <a href=\"/yojana/pm-garib-kalyan-anna\" style=\"text-decoration:underline;color:inherit\">Yojana:</a> Rs 31,000-41,000 per daughter (amount varies by caste category - higher for SC/ST). Includes Rs 21,000 as FD in the bride's name (maturity after 5 years) and Rs 10,000-20,000 for household items.",
+    "Maximum 2 daughters per family. Apply through e-Mitra kiosks or Social Justice department.",
+    "Gujarat - Kanyadan Yojana: Rs 10,000 for marriage of daughters from BPL families. Relatively lower amount compared to MP and UP.",
+    "Apply through the district Social Welfare office. Gujarat also runs Kunvar Bai Nu Mameru Yojana providing Rs 12,000 from maternal uncle's side (government acts as symbolic mama/uncle for orphan girls).",
+    "Chhattisgarh - Mukhyamantri Kanya Vivah Yojana: Rs 25,000 per daughter. Includes household items, clothes, and cash.",
+    "Apply through Gram Panchayat or Women and Child Development office. Chhattisgarh organizes mass marriages on Akshaya Tritiya annually - the largest event in Raipur district typically marries 200-300 couples.",
+    "Jharkhand - Mukhyamantri Kanya Dan Yojana: Rs 30,000 per daughter from BPL/Antyodaya families. Apply through the District Social Welfare office. Jharkhand's tribal communities have high participation - the scheme respects tribal marriage customs while providing financial support.",
+    "Central government - Shadi Shagun: Rs 51,000 for marriage of daughters from minority community BPL families (Muslim, Christian, Sikh, Buddhist, Parsi). Managed by the Maulana Azad Education Foundation.",
+    "Apply at maef.nic.in. This is in addition to state-level marriage schemes - eligible families can receive both state and central benefits."
+   ]
+  },
+  {
+   "type": "text",
+   "heading": "How to apply - general process across states",
+   "icon": "📝",
+   "content": [
+    "Step 1: Confirm eligibility. Check your state's specific scheme criteria - income limit, age requirement, BPL card, and how many daughters are covered.",
+    "Most states limit the benefit to 2 daughters per family. Ensure the bride is 18+ and groom is 21+ - underage marriage applications are rejected and may trigger legal action.",
+    "Step 2: Gather documents. Common requirements across states: bride's age proof (Aadhaar/birth certificate showing 18+), groom's age proof (showing 21+), BPL card or income certificate showing below poverty line, family ration card, Aadhaar cards of bride and both parents, bride's bank passbook (for cash transfer), and passport-sized photos of bride and groom.",
+    "Step 3: Submit application at the designated office - Gram Panchayat (rural), Nagar Nigam (urban), or District Social Welfare office. Some states accept online applications through their e-District or welfare portals.",
+    "Applications should be submitted 2-3 months before the expected marriage date to allow time for verification and approval.",
+    "Step 4: After approval, if you've opted for mass marriage - attend the government-organized ceremony on the specified date. If you've opted for individual marriage assistance - the cash/benefit is transferred after submitting the marriage registration certificate proving the marriage was legally conducted.",
+    "Marriage registration is mandatory - unregistered marriages don't receive benefits."
+   ]
+  },
+  {
+   "type": "text",
+   "heading": "Impact and criticism of Kanya Vivah schemes",
+   "icon": "💡",
+   "content": [
+    "Positive impact: These schemes have measurably reduced marriage-related debt in BPL families. A study in MP showed that families receiving Kanya Vivah benefits borrowed 40% less from money lenders for wedding expenses compared to non-beneficiary families.",
+    "Mass marriage formats have also normalized simple weddings - reducing the social pressure for lavish ceremonies that push families into bankruptcy.",
+    "The schemes indirectly discourage child marriage by requiring the bride to be 18+. Families that might have married daughters at 15-16 to avoid rising costs now have a financial incentive to wait until 18.",
+    "While this isn't a complete solution to child marriage, the economic incentive reinforces the legal age requirement.",
+    "Criticism - perpetuates the idea that daughters are a financial burden. Critics argue that instead of giving marriage money, the government should invest in girls' education, skills, and employment - making them economically independent so marriage assistance isn't needed.",
+    "The counter: these are complementary, not competing approaches. Girls need BOTH education support (Sukanya Samriddhi, Kanya Utthan) AND marriage assistance because the social reality of marriage expenses exists regardless of education level.",
+    "Criticism - mass marriages lack dignity. Some argue that mass ceremonies reduce a personal milestone to a government event.",
+    "However, beneficiary surveys consistently show 80%+ satisfaction - families who couldn't afford any ceremony at all appreciate the dignified arrangement. The alternative without the scheme is often no ceremony, no gifts, and crushing debt."
+   ]
+  },
+  {
+   "type": "callout",
+   "variant": "tip",
+   "heading": "Combine with central + state schemes for maximum benefit",
+   "content": "A BPL family in MP can receive: Kanya Vivah Rs 51,000 (state) + Shadi Shagun Rs 51,000 (central, if minority community) + Sukanya Samriddhi maturity (if invested from birth). Apply for all schemes you're eligible for - they're independent and stackable. Also apply for PM Awas (housing) and Ujjwala (LPG) separately - your BPL status qualifies you for multiple welfare schemes simultaneously."
+  },
+  {
+   "type": "callout",
+   "variant": "warning",
+   "heading": "Child marriage = criminal offense, not eligible",
+   "content": "All Kanya Vivah schemes require the bride to be 18+ and groom to be 21+. Submitting forged age certificates for underage marriage is a criminal offense under the Prohibition of Child Marriage Act 2006 - punishable with 2 years imprisonment and Rs 1 lakh fine. The district administration verifies age documents during application processing. If you know of a child marriage, report to Childline at 1098."
+  },
+  {
+   "type": "svg_block",
+   "heading": "Visual: Application Process",
+   "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><defs><marker id=\"af\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><polygon points=\"0 0, 10 3, 0 6\" fill=\"#1E40AF\"/></marker></defs><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">How to Apply</text><rect x=\"16\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"71\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Check Your State's</text><line x1=\"126\" y1=\"65\" x2=\"142\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"152\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"207\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Get Your Marriage </text><line x1=\"262\" y1=\"65\" x2=\"278\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"288\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"343\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Collect Required D</text><line x1=\"398\" y1=\"65\" x2=\"414\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"424\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"479\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Open a Bank Accoun</text><line x1=\"534\" y1=\"65\" x2=\"550\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"560\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"615\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">Visit the Applicat</text></svg>",
+   "caption": "Step-by-step application process",
+   "description": "Follow these steps to complete your application successfully."
+  },
+  {
+   "type": "pullquote",
+   "text": "In India, the average family spends Rs 5-10 lakh on a daughter's wedding - often borrowing at 24-36% interest from money lenders. Kanya Vivah schemes provide Rs 25,000-51,000 and a dignified mass marriage ceremony, reducing debt by 40%. The scheme doesn't eliminate the financial burden of marriage - but it prevents families from falling into the debt trap that destroys livelihoods."
+  },
+  {
+   "type": "text",
+   "heading": "Documents checklist for Kanya Vivah application",
+   "icon": "📄",
+   "content": [
+    "Bride's documents: Aadhaar card (mandatory - for DBT transfer), birth certificate or 10th marksheet (proving age 18+), passport-sized photos (4-6), bank passbook (in bride's own name - some states require the account to have been active for 6+ months), and marriage invitation or consent letter from both families.",
+    "Family documents: BPL card or Antyodaya card (primary eligibility proof), ration card (shows family composition and economic status), income certificate from Tehsildar (if BPL card is unavailable - income below Rs 1-2 lakh/year depending on state), and caste certificate for SC/ST/OBC (some states offer higher amounts for reserved categories).",
+    "Groom's documents: Aadhaar card, age proof (birth certificate or 10th marksheet showing 21+), and address proof. The groom doesn't receive the financial benefit - it goes entirely to the bride's family/account. But the groom's age verification is mandatory to ensure the marriage is legal.",
+    "Additional for specific situations: Death certificate of father (for orphan/fatherless brides who get priority), divorce decree (for divorcee brides), widow certificate from Tehsildar (for widow brides), and disability certificate (for PwD brides who get priority in many states). Keep all documents as originals + 3 photocopies each."
+   ]
+  },
+  {
+   "type": "text",
+   "heading": "Mass marriage vs individual marriage - which to choose",
+   "icon": "⚖️",
+   "content": [
+    "Mass marriage (Samuhik Vivah) advantages: Full benefit amount (Rs 51,000 in MP/UP), complete wedding arrangement by government (venue, food, priest, decorations), dignified ceremony with community celebration, marriage registration done on the spot (saves separate trip to registrar), and media coverage that ensures accountability and transparency.",
+    "Mass marriage limitations: Fixed dates (you can't choose your wedding date - it's decided by the district administration), less personal/family customization (standardized ceremony format), large crowds (200-1,000 couples at some events which can feel impersonal), and travel to the government venue (may be in a different town from your village).",
+    "Individual marriage assistance: You conduct the wedding as per your family's traditions and timeline. After marriage, submit the marriage registration certificate to claim the cash benefit.",
+    "The amount may be lower than the mass marriage package (some states give Rs 10,000-20,000 for individual marriages vs Rs 51,000 for mass marriages). The flexibility is the trade-off for a lower benefit amount.",
+    "Recommendation: If the full benefit amount matters to you and you're comfortable with a shared ceremony, choose mass marriage. If you want a traditional family wedding and the lower assistance is acceptable, choose individual marriage.",
+    "In either case, ensure the marriage is legally registered - unregistered marriages don't receive benefits and create legal complications for property rights, inheritance, and government scheme eligibility."
+   ]
+  },
+  {
+   "type": "text",
+   "heading": "Helpline and official portals",
+   "icon": "📞",
+   "content": [
+    "MP Kanya Vivah: mpedistrict.gov.in or contact District Women and Child Development office. Helpline: 181 (Women Helpline). Bihar: serviceonline.bihar.gov.in → Mukhyamantri Kanya Vivah Yojana. UP: shadianudan.upsdc.gov.in for Samuhik Vivah registration. Rajasthan: sje.rajasthan.gov.in → Kanyadan Yojana. For all states, the Gram Panchayat or Nagar Nigam office is the first point of contact for applications and queries."
+   ]
+  },
+  {
+   "type": "callout",
+   "heading": "Official Sources & References",
+   "icon": "📖",
+   "variant": "info",
+   "content": "Source: Department of Women & Child Development. All information on this page has been verified against official government notifications and regulatory circulars. For the latest updates, always check the official portal."
+  },
+  {
+   "type": "svg_block",
+   "heading": "Marriage Assistance Amount",
+   "icon": "💐",
+   "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">Kanya Vivah Financial Assistance</text><rect x=\"50\" y=\"50\" width=\"280\" height=\"35\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"190\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">₹51,000 per marriage (</text><rect x=\"370\" y=\"50\" width=\"280\" height=\"35\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"510\" y=\"73\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">BPL/SC/ST families eli</text></svg>",
+   "caption": "Government covers marriage expenses for eligible BPL families",
+   "description": "Apply through state social welfare department before the marriage date."
+  }
+ ],
+ "how_to_apply": [
+  {
+   "step": 1,
+   "title": "Check Your State's Scheme Details",
+   "description": "Visit your state's women and child development department website. Note the income limit, maximum benefit amount, and whether they prefer mass marriages or individual applications. Each state has slightly different rules."
+  },
+  {
+   "step": 2,
+   "title": "Get Your Marriage Registered",
+   "description": "Go to the Registrar of Marriages (or Registrar Office) in your district with your marriage invitation, photos, and both bride and groom's ID. Register the marriage legally. This is free or costs ₹50-100. You'll get a marriage certificate within days."
+  },
+  {
+   "step": 3,
+   "title": "Collect Required Documents",
+   "description": "Gather your Aadhaar, daughter's age proof, marriage certificate, income certificate (from Tahsildar), caste certificate if needed, residence proof, and bank details. Get all certificates notarized or attested as your state requires."
+  },
+  {
+   "step": 4,
+   "title": "Open a Bank Account if You Don't Have One",
+   "description": "The scheme transfers money via bank transfer (DBT). If you don't have a bank account, open one in your name at any bank. Bring Aadhaar and any address proof. The account takes a few days to activate."
+  },
+  {
+   "step": 5,
+   "title": "Visit the Application Portal",
+   "description": "Go to your state's official scheme portal (see the table above). Create an account using your Aadhaar or phone number. Some states also allow offline application at the district women and child development office."
+  },
+  {
+   "step": 6,
+   "title": "Fill the Application Form",
+   "description": "Enter your details: name, Aadhaar, bank account, daughter's details, marriage certificate number, income, caste category if applicable. Re-read everything - mistakes cause rejection."
+  },
+  {
+   "step": 7,
+   "title": "Upload Documents",
+   "description": "Upload clear photos or PDFs of all required documents. Image quality matters - blurry documents get rejected. Ensure file sizes are within limits (usually 5 MB per document)."
+  },
+  {
+   "step": 8,
+   "title": "Submit and Get Acknowledgment Number",
+   "description": "Click submit. The portal will show an acknowledgment number. Write it down or save the receipt. Use this number to track your application status."
+  },
+  {
+   "step": 9,
+   "title": "Track Your Application",
+   "description": "Log back into the portal regularly to check status. The office will verify your documents and update the status. Most states complete verification in 30-60 days."
+  },
+  {
+   "step": 10,
+   "title": "Receive Your Payment",
+   "description": "Once approved, the amount is transferred to your bank account. You'll usually get an SMS notification. Check your account balance to confirm. Don't withdraw all at once - use it for remaining wedding expenses or debt repayment."
+  }
+ ],
+ "important_alert": {
+  "text": "Marriage Registration is Non-Negotiable: Without a legally registered marriage certificate, no state will approve your Kanya Vivah Yojana application. Register your marriage at the Registrar's office BEFORE applying. This is free and takes 1-2 weeks. Don't wait - register immediately after the wedding ceremony.",
+  "type": "warning"
+ },
+ "important_dates": [
+  {
+   "label": "Application Window (varies by state)",
+   "value": "Usually June-July or ongoing",
+   "highlight": true
+  },
+  {
+   "label": "Marriage Registration Deadline",
+   "value": "Within 30 days of marriage ceremony",
+   "highlight": true
+  },
+  {
+   "label": "Application Submission Deadline",
+   "value": "Usually 30-90 days after marriage registration",
+   "highlight": true
+  },
+  {
+   "label": "Document Verification Period",
+   "value": "30-60 days from application submission",
+   "highlight": false
+  },
+  {
+   "label": "Payment Processing",
+   "value": "5-10 days after approval via bank transfer",
+   "highlight": false
+  }
+ ],
+ "faqs": [
+  {
+   "question": "My daughter is already married. Can I still apply?",
+   "answer": "Yes, if the marriage was registered within the state's required timeframe (usually within 1 year). Get the original marriage certificate and apply as soon as possible. Some states allow applications up to 5 years after marriage, but earlier is better."
+  },
+  {
+   "question": "What if my family income is above the limit?",
+   "answer": "You're ineligible under the standard scheme. However, check if your state has an EWS (Economically Weaker Section) category or if you qualify under SC/ST/OBC subcategories, which sometimes have relaxed income limits. Also, some states have mass marriage programs that accept slightly higher incomes."
+  },
+  {
+   "question": "Can I apply if my daughter married someone outside my caste?",
+   "answer": "Most modern schemes don't check the groom's caste, only the bride's family eligibility. However, a few states still have inter-caste marriage bonus provisions (extra amount if couples from different castes marry). Check your state's current policy on the official portal."
+  },
+  {
+   "question": "Is the payment made to the bride or the parents?",
+   "answer": "Payment is always made to the parents or legal guardian, never directly to the bride. The assumption is that parents bear the wedding expenses. This also ensures the money is used for actual wedding-related purposes."
+  },
+  {
+   "question": "What if my marriage certificate shows a different spelling of my name?",
+   "answer": "This will cause rejection. Get your marriage certificate corrected by the Registrar (free or low-cost process). They'll issue a corrected certificate. Then reapply. Don't try to use a certificate with spelling errors."
+  },
+  {
+   "question": "How do I get an income certificate?",
+   "answer": "Visit your Block Development Officer (BDO) or Tehsildar office with your Aadhaar, tax returns or wage slips if you have them, and a letter requesting income certificate. They'll issue it within a few days, usually for free. Don't get it made from private agents - only government offices issue valid certificates."
+  },
+  {
+   "question": "Can I reapply in a different state if I move after marriage?",
+   "answer": "No, schemes are state-specific. You can only apply where you were a resident at the time of marriage. If you've moved, check if your new state has a similar scheme and apply there separately - but only after meeting that state's residency requirements."
+  },
+  {
+   "question": "What happens if I get rejected? Can I appeal?",
+   "answer": "Yes, you can file an appeal or complaint at the district women and child development office. Download the rejection letter from the portal - it specifies why you were rejected. Fix that issue and reapply in the next window, or file a formal appeal if you believe the rejection was wrong."
+  },
+  {
+   "question": "How much money do you get under Kanya Vivah Yojana?",
+   "answer": "Varies by state: MP Rs 51,000, UP Rs 51,000, Rajasthan Rs 31,000-41,000, Jharkhand Rs 30,000, Chhattisgarh Rs 25,000, Gujarat Rs 10,000, Bihar Rs 5,000 (Rs 50,000 for inter-caste marriage). The benefit is usually a mix of cash transfer to the bride's account and household items (utensils, bedding, clothes). Check your specific state's current amount."
+  },
+  {
+   "question": "Who is eligible for Kanya Vivah Yojana?",
+   "answer": "Generally: bride must be 18+, groom 21+, family must be BPL or below a specified income limit (varies by state). Most states limit to 2 daughters per family. Widows, divorcees, and orphan girls are usually eligible with additional priority. You must have a BPL card, Antyodaya card, or income certificate from the Tehsildar to prove economic status."
+  },
+  {
+   "question": "How to apply for Kanya Vivah Yojana online?",
+   "answer": "Visit your state's e-District or welfare portal - MP: mpedistrict.gov.in, Bihar: serviceonline.bihar.gov.in, UP: shadianudan.upsdc.gov.in, Rajasthan: sje.rajasthan.gov.in. If online isn't available in your state, apply at the Gram Panchayat, Nagar Nigam, or District Social Welfare office with BPL card, age proof, and bank passbook."
+  },
+  {
+   "question": "Can the benefit be used for a private wedding instead of mass marriage?",
+   "answer": "In most states, you can choose either mass marriage (samuhik vivah - ceremony arranged by government) or individual marriage assistance (cash transfer after submitting marriage registration certificate). For individual marriages, the cash amount may be slightly lower than the mass marriage package. Check your state's specific rules - some states mandate mass marriage participation for the full benefit amount."
+  }
+ ],
+ "official_portal": {
+  "name": "Shadi Anudan Portal - Uttar Pradesh (Primary Portal for Multiple States)",
+  "url": "https://shadianudan.upsdc.gov.in/"
+ },
+ "related_pages": [
+  {
+   "title": "Gruha Lakshmi Scheme",
+   "slug": "gruha-lakshmi",
+   "tag": "Women Welfare",
+   "url": "/yojana/gruha-lakshmi"
+  },
+  {
+   "title": "PM Garib Kalyan Anna Yojana",
+   "slug": "pm-garib-kalyan-anna",
+   "tag": "Poverty Alleviation",
+   "url": "/yojana/pm-garib-kalyan-anna"
+  }
+ ],
+ "tags": [
+  "Marriage Assistance",
+  "Women Welfare",
+  "Poverty Alleviation",
+  "State Schemes",
+  "Financial Support",
+  "Girl Child"
+ ],
+ "ministry": "State Departments of Women and Child Development",
+ "launch_year": 2006,
+ "image_suggestions": [
+  "State-wise scheme comparison table showing amount differences across states",
+  "Marriage registration process at Registrar's office",
+  "Filled application form on the Shadi Anudan portal",
+  "Documents spread out showing all required paperwork",
+  "Mass marriage event with hundreds of couples",
+  "Young couple receiving certificate at government mass marriage",
+  "Bank transfer notification showing scheme payment received",
+  "Income certificate issued by Tahsildar office",
+  "Online portal dashboard showing application status tracking",
+  "Common Service Center helper assisting with online application"
+ ],
+ "last_reviewed": "May 2026",
+ "category": "women",
+ "state": "bihar"
 }
