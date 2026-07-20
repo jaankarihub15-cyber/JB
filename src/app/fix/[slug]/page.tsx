@@ -5,6 +5,22 @@ import { JsonLd, breadcrumbSchema, faqSchema, howToSchema } from "@/components/j
 import { FixSelector } from "@/components/fix-selector";
 import { FIX_PAGES } from "@/lib/fix-data";
 
+const RELATED_FIXES: Record<string, string[]> = {
+  "aadhaar-pan-name-mismatch": ["pan-correction-online", "aadhaar-name-correction"],
+  "aadhaar-name-correction": ["aadhaar-bank-name-mismatch", "aadhaar-pan-name-mismatch"],
+  "dob-mismatch-aadhaar-epf": ["epf-claim-rejected-name-mismatch", "aadhaar-name-correction"],
+  "name-mismatch-aadhaar-marksheet": ["aadhaar-name-correction", "caste-certificate-name-mismatch"],
+  "pan-correction-online": ["aadhaar-pan-name-mismatch", "aadhaar-name-correction"],
+  "epf-claim-rejected-name-mismatch": ["dob-mismatch-aadhaar-epf", "aadhaar-bank-name-mismatch"],
+  "aadhaar-bank-name-mismatch": ["aadhaar-name-correction", "epf-claim-rejected-name-mismatch"],
+  "ration-card-name-correction": ["aadhaar-name-correction", "income-certificate-mismatch"],
+  "caste-certificate-name-mismatch": ["income-certificate-mismatch", "name-mismatch-aadhaar-marksheet"],
+  "income-certificate-mismatch": ["caste-certificate-name-mismatch", "ration-card-name-correction"],
+  "aadhaar-address-change": ["aadhaar-name-correction", "aadhaar-bank-name-mismatch"],
+  "aadhaar-gender-correction": ["aadhaar-name-correction", "aadhaar-address-change"],
+};
+
+
 export const dynamicParams = false;
 
 export function generateStaticParams() {
@@ -110,6 +126,29 @@ export default async function FixComboPage({
                   />
                 </details>
               ))}
+            </div>
+          </div>
+        )}
+
+        {/* Related fixes */}
+        {(RELATED_FIXES[slug] || []).length > 0 && (
+          <div className="mt-8">
+            <h2 className="text-[19px] font-extrabold mb-3 flex items-center gap-2">🛠️ Related fixes</h2>
+            <div className="grid gap-3 sm:grid-cols-2">
+              {(RELATED_FIXES[slug] || []).map((rs) => {
+                const rp = FIX_PAGES.find((x) => x.slug === rs);
+                if (!rp) return null;
+                return (
+                  <Link
+                    key={rs}
+                    href={`/fix/${rs}`}
+                    className="block bg-card border border-border rounded-2xl p-4 hover:border-accent transition-colors"
+                  >
+                    <span className="block text-[13.5px] font-bold text-text leading-snug">{rp.h1}</span>
+                    <span className="block text-[12px] text-text-secondary mt-1">{rp.short}</span>
+                  </Link>
+                );
+              })}
             </div>
           </div>
         )}

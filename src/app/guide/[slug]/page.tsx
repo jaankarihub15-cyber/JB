@@ -12,6 +12,7 @@ import { AdSlot } from "@/components/ad-slot";
 import { Fragment } from "react";
 import { TableOfContents } from "@/components/table-of-contents";
 import { notFound } from "next/navigation";
+import { GuideFixBridge } from "@/components/fix-bridge";
 import { getGuideBySlug, getAllGuideSlugs } from "@/lib/content";
 import {
   SectionHeading, Card, InfoRow, StepCard, FAQ, Tag,
@@ -338,6 +339,8 @@ export default async function GuideDetailPage({ params }: Props) {
 
       {/* Eligibility CTA */}
       <EligibilityCTA />
+
+      <GuideFixBridge slug={slug} />
 
       {g.faqs?.length > 0 && (
         <div id="faqs">
