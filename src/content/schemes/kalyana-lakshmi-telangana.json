@@ -1,604 +1,603 @@
 {
-  "slug": "kalyana-lakshmi-telangana",
-  "title": "Kalyana Lakshmi 2026: Status Check & Rs 1,00,116 Telangana",
-  "meta_description": "Check Kalyana Lakshmi / Shaadi Mubarak status on TS-ePASS with Aadhaar. Telangana gives Rs 1,00,116 marriage assistance, Rs 1,25,145 for disability brides.",
-  "ministry": "Telangana SC, ST, BC, and Minority Welfare Departments",
-  "launch_year": 2014,
-  "last_reviewed": "May 2026",
-  "tags": [
-    "kalyana lakshmi",
-    "shaadi mubarak",
-    "telangana",
-    "marriage assistance",
-    "DBT",
-    "bride scheme"
+ "slug": "kalyana-lakshmi-telangana",
+ "title": "Kalyana Lakshmi 2026: Status Check & Rs 1,00,116 Telangana",
+ "meta_description": "Check Kalyana Lakshmi / Shaadi Mubarak status on TS-ePASS with Aadhaar. Telangana gives Rs 1,00,116 marriage assistance, Rs 1,25,145 for disability brides.",
+ "ministry": "Telangana SC, ST, BC, and Minority Welfare Departments",
+ "launch_year": 2014,
+ "last_reviewed": "May 2026",
+ "tags": [
+  "kalyana lakshmi",
+  "shaadi mubarak",
+  "telangana",
+  "marriage assistance",
+  "DBT",
+  "bride scheme"
+ ],
+ "image_suggestions": [
+  "Telangana wedding",
+  "marriage assistance",
+  "bride welfare"
+ ],
+ "hero": {
+  "status": "active",
+  "one_liner": "Telangana's one-time marriage assistance scheme - ₹1,00,116 (₹1,25,145 for brides with disability) paid to bride's mother at the time of marriage",
+  "icon": "💒",
+  "updated_date": "May 2026",
+  "stats": [
+   {
+    "label": "Marriage Assistance",
+    "value": "₹1,00,116"
+   },
+   {
+    "label": "Disability Bride",
+    "value": "₹1,25,145"
+   },
+   {
+    "label": "Income Limit",
+    "value": "₹2 Lakh / year"
+   },
+   {
+    "label": "Minimum Age",
+    "value": "18 years"
+   }
+  ]
+ },
+ "quick_actions": [
+  {
+   "icon": "🌐",
+   "label": "MeeSeva Portal",
+   "url": "https://ts.meeseva.telangana.gov.in/"
+  },
+  {
+   "icon": "🔍",
+   "label": "TS-ePASS",
+   "url": "https://telanganaepass.cgg.gov.in/"
+  },
+  {
+   "icon": "📞",
+   "label": "Helpline 040-23390228",
+   "url": "tel:04023390228"
+  }
+ ],
+ "what_is_it": [
+  "If your daughter's marriage is fixed and money is tight, Kalyana Lakshmi is the Telangana scheme you want to know about. It pays your family a one-time ₹1,00,116 around the time of the wedding.",
+  "The state launched it on 2 October 2014, and the amount has only gone up since: ₹51,000 at the start, then ₹75,116, and ₹1,00,116 from March 2018. If the bride has a certified disability, it is ₹1,25,145.",
+  "One detail trips up a lot of families: the money does not go to the bride or the groom. It lands in the bride's mother's bank account, so that account needs to be ready before you apply.",
+  "Shaadi Mubarak is the exact same scheme for brides from minority communities, same amount, same rules, just a different department. Between the two, almost every economically weaker bride in Telangana is covered.",
+  "This page walks you through who qualifies, how to apply, how to check your status online, and the specific mistakes that get applications rejected."
+ ],
+ "eligibility": [
+  {
+   "label": "Resident",
+   "value": "Bride must be a permanent resident of Telangana",
+   "highlight": true
+  },
+  {
+   "label": "Age",
+   "value": "Bride must be 18 years or above at the time of marriage",
+   "highlight": true
+  },
+  {
+   "label": "Income Limit",
+   "value": "Parents' combined annual income up to ₹2 lakh",
+   "highlight": true
+  },
+  {
+   "label": "Community (Kalyana Lakshmi)",
+   "value": "SC, ST, BC, or EBC bride",
+   "highlight": false
+  },
+  {
+   "label": "Community (Shaadi Mubarak)",
+   "value": "Minority (Muslim, Christian, Sikh, Buddhist, Parsi, Jain) bride",
+   "highlight": false
+  },
+  {
+   "label": "Application Window",
+   "value": "Apply within 3 months of marriage date - late applications are usually rejected",
+   "highlight": true
+  }
+ ],
+ "eligibility_filters": {
+  "gender": [
+   "female"
   ],
-  "image_suggestions": [
-    "Telangana wedding",
-    "marriage assistance",
-    "bride welfare"
+  "age_min": 18,
+  "age_max": 100,
+  "occupation": [
+   "any"
   ],
-  "hero": {
-    "status": "active",
-    "one_liner": "Telangana's one-time marriage assistance scheme - \u20b91,00,116 (\u20b91,25,145 for brides with disability) paid to bride's mother at the time of marriage",
-    "icon": "\ud83d\udc92",
-    "updated_date": "May 2026",
-    "stats": [
-      {
-        "label": "Marriage Assistance",
-        "value": "\u20b91,00,116"
-      },
-      {
-        "label": "Disability Bride",
-        "value": "\u20b91,25,145"
-      },
-      {
-        "label": "Income Limit",
-        "value": "\u20b92 Lakh / year"
-      },
-      {
-        "label": "Minimum Age",
-        "value": "18 years"
-      }
+  "income_max": 200000,
+  "category": [
+   "all"
+  ],
+  "states": [
+   "telangana"
+  ]
+ },
+ "extra_sections": [
+  {
+   "type": "modern_callout",
+   "variant": "warning",
+   "title": "Apply within 3 months of the marriage date",
+   "content": "Kalyana Lakshmi and Shaadi Mubarak applications must be submitted within 3 months of the marriage date. Late applications are routinely rejected and the deadline is strict.<br><br>Start the process as soon as the marriage is fixed. The benefit is paid after the marriage, but the file must be opened well within the window."
+  },
+  {
+   "type": "stat_grid",
+   "heading": "Kalyana Lakshmi / Shaadi Mubarak At a Glance",
+   "items": [
+    {
+     "icon": "wallet",
+     "value": "₹1,00,116",
+     "label": "Standard amount",
+     "color": "green"
+    },
+    {
+     "icon": "trending",
+     "value": "₹1,25,145",
+     "label": "Disability bride",
+     "color": "blue"
+    },
+    {
+     "icon": "users",
+     "value": "18+",
+     "label": "Bride's age",
+     "color": "amber"
+    },
+    {
+     "icon": "shield",
+     "value": "₹2 L",
+     "label": "Annual income limit",
+     "color": "purple"
+    }
+   ]
+  },
+  {
+   "type": "process_flow",
+   "heading": "How to check your Kalyana Lakshmi / Shaadi Mubarak status",
+   "steps": [
+    {
+     "icon": "file",
+     "title": "Open TS-ePASS",
+     "desc": "Go to telanganaepass.cgg.gov.in on any browser"
+    },
+    {
+     "icon": "users",
+     "title": "Open the scheme page",
+     "desc": "Click the Kalyana Lakshmi / Shaadi Mubarak banner"
+    },
+    {
+     "icon": "shield",
+     "title": "Click Print / Status",
+     "desc": "Enter the bride's Aadhaar number and registered mobile"
+    },
+    {
+     "icon": "wallet",
+     "title": "Get status & print",
+     "desc": "See if it is pending, approved, or sanctioned, and print it"
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "icon": "🔎",
+   "heading": "Checking your status online (step by step)",
+   "content": [
+    "Most people land here after applying, refreshing for news of whether the money is coming. The good news: you can check it yourself in under a minute, for free.",
+    "Go to telanganaepass.cgg.gov.in and click the Kalyana Lakshmi / Shaadi Mubarak banner. The direct status page is telanganaepass.cgg.gov.in/KalyanaLakshmiLinks.jsp.",
+    "Choose Print / Status, enter the bride's Aadhaar and the mobile number you used while applying, then click Get Status & Print. It works on a phone, so you do not need to visit any office.",
+    "If the page shows nothing, do not panic. Either the mobile number is wrong, or your application is not yet entered in the system, which can take a day or two after you submit."
+   ]
+  },
+  {
+   "type": "modern_callout",
+   "variant": "info",
+   "title": "What your status means",
+   "content": "Pending: your application is still under verification by the welfare officer. Approved: eligibility is cleared and the file is moving to payment.<br><br>Sanctioned or Paid: the amount has been released to the bride's mother's account, so check that account. Rejected: read the common reasons below, and if you are still inside the 3-month window, fix the issue and apply again rather than giving up."
+  },
+  {
+   "type": "text",
+   "icon": "🛠️",
+   "heading": "Status check not working? Common fixes",
+   "content": [
+    "Invalid Aadhaar or mobile: use the exact same mobile number entered during registration. A different number will not pull up the record.",
+    "Stuck on pending for weeks: contact your Mandal or District Welfare Officer, as verification delays are the usual cause.",
+    "Wrong or unverified bank details: re-upload the bride's mother's passbook and make sure the account is Aadhaar-linked and NPCI-mapped.",
+    "Nothing shows at all: your application may not be entered yet, so wait a couple of days after submitting before checking again.",
+    "If the portal is down, try again later in the day. Government portals are often slow during peak hours and work better late at night."
+   ]
+  },
+  {
+   "type": "text",
+   "icon": "⏳",
+   "heading": "What happens after you apply",
+   "content": [
+    "After you submit on MeeSeva or TS-ePASS, your file goes to the welfare officer, who checks the bride's age, income, caste, residence, and marriage proof.",
+    "Once that clears, the file is approved and sent for payment, and the full ₹1,00,116 lands in one transfer, not in instalments.",
+    "Be ready for it to take a few weeks to a few months, depending on your district and how busy the office is. Checking Print / Status now and then is enough; you do not need to keep visiting.",
+    "Here is the part nobody tells you at the counter: most delays are not about your eligibility, they are about a document mismatch or a bank account that is not NPCI-mapped. If your status sits on pending for weeks, take your application ID to the Mandal or District Welfare Office and ask them to point out exactly what is stuck."
+   ]
+  },
+  {
+   "type": "text",
+   "icon": "💡",
+   "heading": "Tips to get your money faster",
+   "content": [
+    "Get the bride's mother's bank account opened and Aadhaar-linked well before the wedding. This one step removes the most common payment delay, because the money cannot move into an account that is not NPCI-mapped.",
+    "Keep clear scans of the caste, income, and age certificates ready before you start. Uploading correct, current documents the first time is what separates a clean approval from weeks of back-and-forth.",
+    "Apply the day the marriage is done, not in the last week of the window. Filing early gives you room to fix any document problem while you are still inside the 3 months.",
+    "Note down your application ID the moment you submit. You will need it, with the bride's Aadhaar, every time you check status or follow up at the office.",
+    "Make sure the bride's name is spelt identically across Aadhaar, the bank, and every certificate. A single extra space or a short form like 'Md' versus 'Mohammed' is enough to stall verification, and it is a maddening reason to lose time on."
+   ]
+  },
+  {
+   "type": "text",
+   "heading": "Kalyana Lakshmi vs Shaadi Mubarak - What's the Difference?",
+   "icon": "📋",
+   "content": [
+    "People get confused by the two names, but for you as an applicant the difference is simple. The amount, the documents, and the process are identical, only the community and the department change.",
+    "If the bride is SC, ST, BC, or EBC, you apply under Kalyana Lakshmi. If she is from a notified minority (Muslim, Christian, Sikh, Buddhist, Parsi, Jain), you apply under Shaadi Mubarak.",
+    "Both pay the enhanced ₹1,25,145 when the bride has a certified disability. So do not overthink the choice.",
+    "Just pull out the bride's caste certificate. Whatever it says decides which scheme you file under, and nothing else about the process differs."
+   ]
+  },
+  {
+   "type": "comparison_card",
+   "heading": "Kalyana Lakshmi vs Shaadi Mubarak - Side by Side",
+   "win": {
+    "name": "KALYANA LAKSHMI",
+    "amount": "₹1,00,116",
+    "sub": "SC / ST / BC / EBC brides"
+   },
+   "others": [
+    {
+     "name": "SHAADI MUBARAK",
+     "amount": "₹1,00,116",
+     "sub": "minority brides"
+    },
+    {
+     "name": "BOTH (DISABILITY)",
+     "amount": "₹1,25,145",
+     "sub": "+ ₹25,029 enhancement"
+    },
+    {
+     "name": "PER FAMILY",
+     "amount": "2 daughters",
+     "sub": "maximum benefit limit"
+    }
+   ]
+  },
+  {
+   "type": "eligibility_check",
+   "heading": "Who Qualifies for the Scheme",
+   "qualify": [
+    "Bride is a permanent resident of Telangana",
+    "Bride is 18 years or above on marriage date",
+    "Parents' combined annual income up to ₹2 lakh",
+    "Bride from SC/ST/BC/EBC (Kalyana Lakshmi) OR minority community (Shaadi Mubarak)",
+    "Application submitted within 3 months of marriage",
+    "Bride's mother has Aadhaar-linked bank account"
+   ],
+   "disqualify": [
+    "Bride is below 18 years (child marriage is illegal)",
+    "Parents' annual income exceeds ₹2 lakh",
+    "Bride not a permanent resident of Telangana",
+    "Application filed after 3 months of marriage",
+    "Bride is the third or subsequent daughter from same family",
+    "Both bride and groom are not Indian citizens"
+   ]
+  },
+  {
+   "type": "text",
+   "icon": "✅",
+   "heading": "Eligibility in detail",
+   "content": [
+    "Check these before you apply, because every one of them is verified at the office. The bride must be a permanent Telangana resident, 18 or older on the marriage date, and the family's combined annual income must stay within ₹2 lakh.",
+    "For Kalyana Lakshmi the bride needs a valid SC, ST, BC, or EBC caste certificate. For Shaadi Mubarak she must be from a notified minority community.",
+    "The scheme covers up to two daughters per family, so a third daughter will not qualify, however genuine the case. The marriage also has to be real and registered.",
+    "One thing to be clear about: applying is free and you do not need any agent. If someone offers to get your file approved for a fee, walk away, because approval depends only on your documents, not on who you know."
+   ]
+  },
+  {
+   "type": "process_flow",
+   "heading": "How to Apply for Marriage Assistance",
+   "steps": [
+    {
+     "icon": "file",
+     "title": "Visit MeeSeva",
+     "desc": "Or apply on TS-ePASS portal online"
+    },
+    {
+     "icon": "shield",
+     "title": "Submit Documents",
+     "desc": "Aadhaar, caste cert, marriage proof, bank passbook"
+    },
+    {
+     "icon": "users",
+     "title": "Welfare Officer Verifies",
+     "desc": "Department verifies eligibility"
+    },
+    {
+     "icon": "wallet",
+     "title": "₹1,00,116 Credited",
+     "desc": "To bride's mother's account via DBT"
+    }
+   ]
+  },
+  {
+   "type": "icon_list",
+   "heading": "Documents Required",
+   "items": [
+    {
+     "icon": "shield",
+     "title": "Bride's Aadhaar",
+     "sub": "Identity proof"
+    },
+    {
+     "icon": "file",
+     "title": "Caste Certificate",
+     "sub": "SC/ST/BC/EBC or minority cert"
+    },
+    {
+     "icon": "file",
+     "title": "Marriage Certificate / Invitation",
+     "sub": "Or wedding invitation card"
+    },
+    {
+     "icon": "users",
+     "title": "Age Proof of Bride",
+     "sub": "10th/12th certificate, birth certificate"
+    },
+    {
+     "icon": "wallet",
+     "title": "Bride's Mother's Bank Passbook",
+     "sub": "Aadhaar-linked account"
+    },
+    {
+     "icon": "file",
+     "title": "Income Certificate",
+     "sub": "From Tehsildar - under ₹2 lakh"
+    }
+   ]
+  },
+  {
+   "type": "number_highlight",
+   "big": "₹1,00,116",
+   "title": "One-time marriage assistance (since 19 March 2018)",
+   "desc": "The amount was revised from ₹75,116 to ₹1,00,116 in March 2018 and has remained unchanged since. For brides with disability, the amount is enhanced by ₹25,029 to ₹1,25,145. The amount is transferred to the bride's mother's bank account, not the bride's or groom's account."
+  },
+  {
+   "type": "comparison_table",
+   "heading": "Kalyana Lakshmi amount history",
+   "icon": "💵",
+   "columns": [
+    "Year",
+    "Amount",
+    "Note"
+   ],
+   "rows": [
+    [
+     "2014",
+     "₹51,000",
+     "Scheme launched on 2 October 2014"
+    ],
+    [
+     "2017",
+     "₹75,116",
+     "First revision"
+    ],
+    [
+     "19 March 2018",
+     "₹1,00,116",
+     "Current amount, unchanged since"
+    ],
+    [
+     "Disability brides",
+     "₹1,25,145",
+     "Enhanced by ₹25,029 over the standard amount"
     ]
+   ]
   },
-  "quick_actions": [
-    {
-      "icon": "\ud83c\udf10",
-      "label": "MeeSeva Portal",
-      "url": "https://ts.meeseva.telangana.gov.in/"
-    },
-    {
-      "icon": "\ud83d\udd0d",
-      "label": "TS-ePASS",
-      "url": "https://telanganaepass.cgg.gov.in/"
-    },
-    {
-      "icon": "\ud83d\udcde",
-      "label": "Helpline 040-23390228",
-      "url": "tel:04023390228"
-    }
-  ],
-  "what_is_it": [
-    "If your daughter's marriage is fixed and money is tight, Kalyana Lakshmi is the Telangana scheme you want to know about. It pays your family a one-time \u20b91,00,116 around the time of the wedding.",
-    "The state launched it on 2 October 2014, and the amount has only gone up since: \u20b951,000 at the start, then \u20b975,116, and \u20b91,00,116 from March 2018. If the bride has a certified disability, it is \u20b91,25,145.",
-    "One detail trips up a lot of families: the money does not go to the bride or the groom. It lands in the bride's mother's bank account, so that account needs to be ready before you apply.",
-    "Shaadi Mubarak is the exact same scheme for brides from minority communities, same amount, same rules, just a different department. Between the two, almost every economically weaker bride in Telangana is covered.",
-    "This page walks you through who qualifies, how to apply, how to check your status online, and the specific mistakes that get applications rejected."
-  ],
-  "eligibility": [
-    {
-      "label": "Resident",
-      "value": "Bride must be a permanent resident of Telangana",
-      "highlight": true
-    },
-    {
-      "label": "Age",
-      "value": "Bride must be 18 years or above at the time of marriage",
-      "highlight": true
-    },
-    {
-      "label": "Income Limit",
-      "value": "Parents' combined annual income up to \u20b92 lakh",
-      "highlight": true
-    },
-    {
-      "label": "Community (Kalyana Lakshmi)",
-      "value": "SC, ST, BC, or EBC bride",
-      "highlight": false
-    },
-    {
-      "label": "Community (Shaadi Mubarak)",
-      "value": "Minority (Muslim, Christian, Sikh, Buddhist, Parsi, Jain) bride",
-      "highlight": false
-    },
-    {
-      "label": "Application Window",
-      "value": "Apply within 3 months of marriage date - late applications are usually rejected",
-      "highlight": true
-    }
-  ],
-  "eligibility_filters": {
-    "gender": [
-      "female"
-    ],
-    "age_min": 18,
-    "age_max": 100,
-    "occupation": [
-      "any"
-    ],
-    "income_max": 200000,
-    "category": [
-      "all"
-    ],
-    "states": [
-      "telangana"
-    ]
+  {
+   "type": "text",
+   "icon": "📈",
+   "heading": "Is the scheme still running in 2026?",
+   "content": [
+    "Yes. Kalyana Lakshmi and Shaadi Mubarak are both active in 2026 with the same ₹1,00,116 and the same rules.",
+    "The amount has not changed since March 2018, so do not wait for a hike before applying. There is no sign of a revision, and waiting only risks missing the 3-month window.",
+    "Over the years the two schemes have helped a very large number of Telangana families marry their daughters. The practical takeaway for you is simple: apply correctly and on time, because the money is there if your file is clean.",
+    "If you have two daughters, remember you can claim for both, but only up to two. Plan the paperwork for each marriage separately so neither one slips past its own 3-month deadline."
+   ]
   },
-  "extra_sections": [
+  {
+   "type": "timeline",
+   "heading": "Scheme Milestones",
+   "items": [
     {
-      "type": "modern_callout",
-      "variant": "warning",
-      "title": "Apply within 3 months of the marriage date",
-      "content": "Kalyana Lakshmi and Shaadi Mubarak applications must be submitted within 3 months of the marriage date. Late applications are routinely rejected and the deadline is strict.<br><br>Start the process as soon as the marriage is fixed. The benefit is paid after the marriage, but the file must be opened well within the window."
+     "date": "2 OCT 2014",
+     "event": "Scheme launched",
+     "desc": "By CM K. Chandrashekar Rao, ₹51,000 initial amount"
     },
     {
-      "type": "stat_grid",
-      "heading": "Kalyana Lakshmi / Shaadi Mubarak At a Glance",
-      "items": [
-        {
-          "icon": "wallet",
-          "value": "\u20b91,00,116",
-          "label": "Standard amount",
-          "color": "green"
-        },
-        {
-          "icon": "trending",
-          "value": "\u20b91,25,145",
-          "label": "Disability bride",
-          "color": "blue"
-        },
-        {
-          "icon": "users",
-          "value": "18+",
-          "label": "Bride's age",
-          "color": "amber"
-        },
-        {
-          "icon": "shield",
-          "value": "\u20b92 L",
-          "label": "Annual income limit",
-          "color": "purple"
-        }
-      ]
+     "date": "2017",
+     "event": "First revision",
+     "desc": "Amount raised to ₹75,116"
     },
     {
-      "type": "process_flow",
-      "heading": "How to check your Kalyana Lakshmi / Shaadi Mubarak status",
-      "steps": [
-        {
-          "icon": "file",
-          "title": "Open TS-ePASS",
-          "desc": "Go to telanganaepass.cgg.gov.in on any browser"
-        },
-        {
-          "icon": "users",
-          "title": "Open the scheme page",
-          "desc": "Click the Kalyana Lakshmi / Shaadi Mubarak banner"
-        },
-        {
-          "icon": "shield",
-          "title": "Click Print / Status",
-          "desc": "Enter the bride's Aadhaar number and registered mobile"
-        },
-        {
-          "icon": "wallet",
-          "title": "Get status & print",
-          "desc": "See if it is pending, approved, or sanctioned, and print it"
-        }
-      ]
+     "date": "19 MAR 2018",
+     "event": "Current amount fixed",
+     "desc": "Raised to ₹1,00,116 - unchanged since"
     },
     {
-      "type": "text",
-      "icon": "\ud83d\udd0e",
-      "heading": "Checking your status online (step by step)",
-      "content": [
-        "Most people land here after applying, refreshing for news of whether the money is coming. The good news: you can check it yourself in under a minute, for free.",
-        "Go to telanganaepass.cgg.gov.in and click the Kalyana Lakshmi / Shaadi Mubarak banner. The direct status page is telanganaepass.cgg.gov.in/KalyanaLakshmiLinks.jsp.",
-        "Choose Print / Status, enter the bride's Aadhaar and the mobile number you used while applying, then click Get Status & Print. It works on a phone, so you do not need to visit any office.",
-        "If the page shows nothing, do not panic. Either the mobile number is wrong, or your application is not yet entered in the system, which can take a day or two after you submit."
-      ]
+     "date": "MARCH 2018",
+     "event": "3.5+ lakh brides covered",
+     "desc": "Significant scale reached in early years"
     },
     {
-      "type": "modern_callout",
-      "variant": "info",
-      "title": "What your status means",
-      "content": "Pending: your application is still under verification by the welfare officer. Approved: eligibility is cleared and the file is moving to payment.<br><br>Sanctioned or Paid: the amount has been released to the bride's mother's account, so check that account. Rejected: read the common reasons below, and if you are still inside the 3-month window, fix the issue and apply again rather than giving up."
-    },
-    {
-      "type": "text",
-      "icon": "\ud83d\udee0\ufe0f",
-      "heading": "Status check not working? Common fixes",
-      "content": [
-        "Invalid Aadhaar or mobile: use the exact same mobile number entered during registration. A different number will not pull up the record.",
-        "Stuck on pending for weeks: contact your Mandal or District Welfare Officer, as verification delays are the usual cause.",
-        "Wrong or unverified bank details: re-upload the bride's mother's passbook and make sure the account is Aadhaar-linked and NPCI-mapped.",
-        "Nothing shows at all: your application may not be entered yet, so wait a couple of days after submitting before checking again.",
-        "If the portal is down, try again later in the day. Government portals are often slow during peak hours and work better late at night."
-      ]
-    },
-    {
-      "type": "text",
-      "icon": "\u23f3",
-      "heading": "What happens after you apply",
-      "content": [
-        "After you submit on MeeSeva or TS-ePASS, your file goes to the welfare officer, who checks the bride's age, income, caste, residence, and marriage proof.",
-        "Once that clears, the file is approved and sent for payment, and the full \u20b91,00,116 lands in one transfer, not in instalments.",
-        "Be ready for it to take a few weeks to a few months, depending on your district and how busy the office is. Checking Print / Status now and then is enough; you do not need to keep visiting.",
-        "Here is the part nobody tells you at the counter: most delays are not about your eligibility, they are about a document mismatch or a bank account that is not NPCI-mapped. If your status sits on pending for weeks, take your application ID to the Mandal or District Welfare Office and ask them to point out exactly what is stuck."
-      ]
-    },
-    {
-      "type": "text",
-      "icon": "\ud83d\udca1",
-      "heading": "Tips to get your money faster",
-      "content": [
-        "Get the bride's mother's bank account opened and Aadhaar-linked well before the wedding. This one step removes the most common payment delay, because the money cannot move into an account that is not NPCI-mapped.",
-        "Keep clear scans of the caste, income, and age certificates ready before you start. Uploading correct, current documents the first time is what separates a clean approval from weeks of back-and-forth.",
-        "Apply the day the marriage is done, not in the last week of the window. Filing early gives you room to fix any document problem while you are still inside the 3 months.",
-        "Note down your application ID the moment you submit. You will need it, with the bride's Aadhaar, every time you check status or follow up at the office.",
-        "Make sure the bride's name is spelt identically across Aadhaar, the bank, and every certificate. A single extra space or a short form like 'Md' versus 'Mohammed' is enough to stall verification, and it is a maddening reason to lose time on."
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "Kalyana Lakshmi vs Shaadi Mubarak - What's the Difference?",
-      "icon": "\ud83d\udccb",
-      "content": [
-        "People get confused by the two names, but for you as an applicant the difference is simple. The amount, the documents, and the process are identical, only the community and the department change.",
-        "If the bride is SC, ST, BC, or EBC, you apply under Kalyana Lakshmi. If she is from a notified minority (Muslim, Christian, Sikh, Buddhist, Parsi, Jain), you apply under Shaadi Mubarak.",
-        "Both pay the enhanced \u20b91,25,145 when the bride has a certified disability. So do not overthink the choice.",
-        "Just pull out the bride's caste certificate. Whatever it says decides which scheme you file under, and nothing else about the process differs."
-      ]
-    },
-    {
-      "type": "comparison_card",
-      "heading": "Kalyana Lakshmi vs Shaadi Mubarak - Side by Side",
-      "win": {
-        "name": "KALYANA LAKSHMI",
-        "amount": "\u20b91,00,116",
-        "sub": "SC / ST / BC / EBC brides"
-      },
-      "others": [
-        {
-          "name": "SHAADI MUBARAK",
-          "amount": "\u20b91,00,116",
-          "sub": "minority brides"
-        },
-        {
-          "name": "BOTH (DISABILITY)",
-          "amount": "\u20b91,25,145",
-          "sub": "+ \u20b925,029 enhancement"
-        },
-        {
-          "name": "PER FAMILY",
-          "amount": "2 daughters",
-          "sub": "maximum benefit limit"
-        }
-      ]
-    },
-    {
-      "type": "eligibility_check",
-      "heading": "Who Qualifies for the Scheme",
-      "qualify": [
-        "Bride is a permanent resident of Telangana",
-        "Bride is 18 years or above on marriage date",
-        "Parents' combined annual income up to \u20b92 lakh",
-        "Bride from SC/ST/BC/EBC (Kalyana Lakshmi) OR minority community (Shaadi Mubarak)",
-        "Application submitted within 3 months of marriage",
-        "Bride's mother has Aadhaar-linked bank account"
-      ],
-      "disqualify": [
-        "Bride is below 18 years (child marriage is illegal)",
-        "Parents' annual income exceeds \u20b92 lakh",
-        "Bride not a permanent resident of Telangana",
-        "Application filed after 3 months of marriage",
-        "Bride is the third or subsequent daughter from same family",
-        "Both bride and groom are not Indian citizens"
-      ]
-    },
-    {
-      "type": "text",
-      "icon": "\u2705",
-      "heading": "Eligibility in detail",
-      "content": [
-        "Check these before you apply, because every one of them is verified at the office. The bride must be a permanent Telangana resident, 18 or older on the marriage date, and the family's combined annual income must stay within \u20b92 lakh.",
-        "For Kalyana Lakshmi the bride needs a valid SC, ST, BC, or EBC caste certificate. For Shaadi Mubarak she must be from a notified minority community.",
-        "The scheme covers up to two daughters per family, so a third daughter will not qualify, however genuine the case. The marriage also has to be real and registered.",
-        "One thing to be clear about: applying is free and you do not need any agent. If someone offers to get your file approved for a fee, walk away, because approval depends only on your documents, not on who you know."
-      ]
-    },
-    {
-      "type": "process_flow",
-      "heading": "How to Apply for Marriage Assistance",
-      "steps": [
-        {
-          "icon": "file",
-          "title": "Visit MeeSeva",
-          "desc": "Or apply on TS-ePASS portal online"
-        },
-        {
-          "icon": "shield",
-          "title": "Submit Documents",
-          "desc": "Aadhaar, caste cert, marriage proof, bank passbook"
-        },
-        {
-          "icon": "users",
-          "title": "Welfare Officer Verifies",
-          "desc": "Department verifies eligibility"
-        },
-        {
-          "icon": "wallet",
-          "title": "\u20b91,00,116 Credited",
-          "desc": "To bride's mother's account via DBT"
-        }
-      ]
-    },
-    {
-      "type": "icon_list",
-      "heading": "Documents Required",
-      "items": [
-        {
-          "icon": "shield",
-          "title": "Bride's Aadhaar",
-          "sub": "Identity proof"
-        },
-        {
-          "icon": "file",
-          "title": "Caste Certificate",
-          "sub": "SC/ST/BC/EBC or minority cert"
-        },
-        {
-          "icon": "file",
-          "title": "Marriage Certificate / Invitation",
-          "sub": "Or wedding invitation card"
-        },
-        {
-          "icon": "users",
-          "title": "Age Proof of Bride",
-          "sub": "10th/12th certificate, birth certificate"
-        },
-        {
-          "icon": "wallet",
-          "title": "Bride's Mother's Bank Passbook",
-          "sub": "Aadhaar-linked account"
-        },
-        {
-          "icon": "file",
-          "title": "Income Certificate",
-          "sub": "From Tehsildar - under \u20b92 lakh"
-        }
-      ]
-    },
-    {
-      "type": "number_highlight",
-      "big": "\u20b91,00,116",
-      "title": "One-time marriage assistance (since 19 March 2018)",
-      "desc": "The amount was revised from \u20b975,116 to \u20b91,00,116 in March 2018 and has remained unchanged since. For brides with disability, the amount is enhanced by \u20b925,029 to \u20b91,25,145. The amount is transferred to the bride's mother's bank account, not the bride's or groom's account."
-    },
-    {
-      "type": "comparison_table",
-      "heading": "Kalyana Lakshmi amount history",
-      "icon": "\ud83d\udcb5",
-      "columns": [
-        "Year",
-        "Amount",
-        "Note"
-      ],
-      "rows": [
-        [
-          "2014",
-          "\u20b951,000",
-          "Scheme launched on 2 October 2014"
-        ],
-        [
-          "2017",
-          "\u20b975,116",
-          "First revision"
-        ],
-        [
-          "19 March 2018",
-          "\u20b91,00,116",
-          "Current amount, unchanged since"
-        ],
-        [
-          "Disability brides",
-          "\u20b91,25,145",
-          "Enhanced by \u20b925,029 over the standard amount"
-        ]
-      ]
-    },
-    {
-      "type": "text",
-      "icon": "\ud83d\udcc8",
-      "heading": "Is the scheme still running in 2026?",
-      "content": [
-        "Yes. Kalyana Lakshmi and Shaadi Mubarak are both active in 2026 with the same \u20b91,00,116 and the same rules.",
-        "The amount has not changed since March 2018, so do not wait for a hike before applying. There is no sign of a revision, and waiting only risks missing the 3-month window.",
-        "Over the years the two schemes have helped a very large number of Telangana families marry their daughters. The practical takeaway for you is simple: apply correctly and on time, because the money is there if your file is clean.",
-        "If you have two daughters, remember you can claim for both, but only up to two. Plan the paperwork for each marriage separately so neither one slips past its own 3-month deadline."
-      ]
-    },
-    {
-      "type": "timeline",
-      "heading": "Scheme Milestones",
-      "items": [
-        {
-          "date": "2 OCT 2014",
-          "event": "Scheme launched",
-          "desc": "By CM K. Chandrashekar Rao, \u20b951,000 initial amount"
-        },
-        {
-          "date": "2017",
-          "event": "First revision",
-          "desc": "Amount raised to \u20b975,116"
-        },
-        {
-          "date": "19 MAR 2018",
-          "event": "Current amount fixed",
-          "desc": "Raised to \u20b91,00,116 - unchanged since"
-        },
-        {
-          "date": "MARCH 2018",
-          "event": "3.5+ lakh brides covered",
-          "desc": "Significant scale reached in early years"
-        },
-        {
-          "date": "2026",
-          "event": "Active scheme",
-          "desc": "Continues with same amount and rules, paid via TS-ePASS / MeeSeva"
-        }
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "Common Reasons for Application Rejection",
-      "icon": "\u26a0\ufe0f",
-      "content": [
-        "If a Kalyana Lakshmi file gets rejected, it is almost always one of a handful of avoidable mistakes. Knowing them upfront saves you the \u20b91,00,116.",
-        "Late filing is the number one killer. The 3-month window from the marriage date is hard, and even a day late can sink the application, so do not leave it for later.",
-        "Age and income slip-ups come next. The age proof must clearly show 18+ on the marriage date, and an old income certificate showing income just over \u20b92 lakh will get you rejected.",
-        "Filing under the wrong scheme wastes weeks, a minority bride must use Shaadi Mubarak, not Kalyana Lakshmi. And the most frustrating one: a bank account that is not NPCI-mapped, which holds up the money even after approval.",
-        "If your file does get rejected, do not assume it is final. As long as you are still inside the 3-month window, fixing the flagged issue and resubmitting often works."
-      ]
-    },
-    {
-      "type": "modern_callout",
-      "variant": "info",
-      "title": "Money goes to bride's mother's account, not bride or groom",
-      "content": "The \u20b91,00,116 is credited via DBT to the bride's mother's Aadhaar-linked bank account. It does not go to the bride's own account, the groom's, or a joint account.<br><br>The design reflects the scheme's intent: support for the bride's family. Ensure the mother has a single-holder account with Aadhaar linked and NPCI-mapped before applying."
+     "date": "2026",
+     "event": "Active scheme",
+     "desc": "Continues with same amount and rules, paid via TS-ePASS / MeeSeva"
     }
-  ],
-  "how_to_apply": [
-    {
-      "step": 1,
-      "title": "Confirm marriage date and gather documents",
-      "description": "Before applying, fix the marriage date and obtain all required documents: bride's Aadhaar, caste certificate (SC/ST/BC/EBC or minority), age proof (10th/12th cert or birth certificate), income certificate (Tehsildar, under \u20b92 lakh), marriage invitation card, bride's mother's bank passbook (Aadhaar-linked)."
-    },
-    {
-      "step": 2,
-      "title": "Visit MeeSeva centre",
-      "description": "Go to your nearest MeeSeva centre. Ask for Kalyana Lakshmi (for SC/ST/BC/EBC) or Shaadi Mubarak (for minority) application form. The MeeSeva operator will help you fill it correctly. You can also apply online at TS-ePASS portal directly."
-    },
-    {
-      "step": 3,
-      "title": "Submit application within 3 months",
-      "description": "Submit the completed form with all documents. The application must reach the welfare department within 3 months of the marriage date - strict deadline. You receive an application reference number for tracking."
-    },
-    {
-      "step": 4,
-      "title": "Welfare officer verification & disbursement",
-      "description": "The Welfare Officer (SC/ST/BC/Minority - depending on scheme) verifies your documents and physical marriage proof. Once approved, \u20b91,00,116 is transferred via DBT to the bride's mother's bank account - typically within 60-90 days of approval. For brides with disability, \u20b91,25,145 is disbursed."
-    }
-  ],
-  "important_alert": {
-    "text": "Application must be submitted within 3 months of marriage date. Amount (\u20b91,00,116) goes to bride's mother's Aadhaar-linked account - not bride's, not groom's. Apply via MeeSeva or TS-ePASS portal.",
-    "type": "warning"
+   ]
   },
-  "important_dates": [
-    {
-      "label": "Scheme Launched",
-      "value": "2 October 2014 (CM K. Chandrashekar Rao)",
-      "highlight": false
-    },
-    {
-      "label": "Current Amount Effective Since",
-      "value": "19 March 2018 (\u20b91,00,116)",
-      "highlight": false
-    },
-    {
-      "label": "Application Deadline",
-      "value": "Within 3 months of marriage date",
-      "highlight": true
-    },
-    {
-      "label": "Helpdesk Hours",
-      "value": "Mon-Fri, 10 AM - 5 PM (Welfare Office)",
-      "highlight": false
-    }
-  ],
-  "faqs": [
-    {
-      "question": "How much money does Kalyana Lakshmi / Shaadi Mubarak give?",
-      "answer": "Both schemes give a one-time \u20b91,00,116 to the bride's family.<br><br>For brides with a disability, the amount is enhanced to \u20b91,25,145."
-    },
-    {
-      "question": "What is the difference between Kalyana Lakshmi and Shaadi Mubarak?",
-      "answer": "Kalyana Lakshmi is for SC, ST, BC, and EBC brides, while Shaadi Mubarak is for brides from notified minority communities.<br><br>The amount and process are identical; only the eligible community and the administering department differ."
-    },
-    {
-      "question": "Who is eligible for the marriage assistance?",
-      "answer": "Eligibility requires: (1) bride is a permanent resident of Telangana, (2) bride is 18 years or above on the marriage date, (3) bride belongs to SC/ST/BC/EBC (for Kalyana Lakshmi) or minority community (for Shaadi Mubarak), (4) combined annual parental income up to \u20b92 lakh, (5) application submitted within 3 months of marriage. Both schemes are limited to a maximum of 2 daughters per family."
-    },
-    {
-      "question": "Where does the \u20b91,00,116 amount get credited?",
-      "answer": "The amount is credited via DBT to the bride's mother's Aadhaar-linked bank account.<br><br>It does not go to the bride's or groom's account."
-    },
-    {
-      "question": "What is the application deadline?",
-      "answer": "Applications must be filed within 3 months of the marriage date.<br><br>The deadline is strict, so apply as soon as the marriage takes place."
-    },
-    {
-      "question": "How can I apply for Kalyana Lakshmi / Shaadi Mubarak?",
-      "answer": "Apply through MeeSeva or the TS-ePASS portal with Aadhaar, caste certificate, marriage proof, and the mother's bank passbook.<br><br>The welfare officer then verifies the application before payment."
-    },
-    {
-      "question": "What documents are required for the application?",
-      "answer": "Bride's Aadhaar card, caste certificate (SC/ST/BC/EBC or minority), bride's age proof (10th/12th certificate or birth certificate), bride's mother's bank passbook (Aadhaar-linked, single-holder), income certificate from Tehsildar (showing parental annual income under \u20b92 lakh), marriage invitation card or marriage certificate, recent passport-size photo of the bride."
-    },
-    {
-      "question": "Why was my application rejected?",
-      "answer": "Most common reasons: (1) application submitted after the 3-month window from marriage, (2) bride's age below 18 on marriage date, (3) parents' annual income above \u20b92 lakh in income certificate, (4) bride's mother's bank account is joint or not NPCI-mapped, (5) wrong scheme applied (filed Kalyana Lakshmi for minority bride or vice versa), (6) more than 2 daughters from same family. Most rejections are fixable - correct the issue and reapply within the deadline."
-    },
-    {
-      "question": "How do I check my Kalyana Lakshmi status online?",
-      "answer": "Go to telanganaepass.cgg.gov.in and click the Kalyana Lakshmi / Shaadi Mubarak banner.<br><br>Select Print / Status, enter the bride's Aadhaar and registered mobile number, then click Get Status & Print."
-    },
-    {
-      "question": "What is the TS Kalyana Lakshmi status check link?",
-      "answer": "The official portal is telanganaepass.cgg.gov.in, and the direct status page is telanganaepass.cgg.gov.in/KalyanaLakshmiLinks.jsp.<br><br>Always use the official TS-ePASS site, not third-party links."
-    },
-    {
-      "question": "My Kalyana Lakshmi status shows pending. What should I do?",
-      "answer": "Pending means your application is still under verification by the welfare officer.<br><br>If it stays pending for several weeks, contact your Mandal or District Welfare Officer to check for delays."
-    },
-    {
-      "question": "How long after marriage does the money come?",
-      "answer": "Payment is released after verification, which can take a few weeks to a few months depending on your district.<br><br>Track progress using the Print / Status option on TS-ePASS."
-    },
-    {
-      "question": "Can I check the status on my phone?",
-      "answer": "Yes, the TS-ePASS status page works in any phone browser.<br><br>Open the Kalyana Lakshmi / Shaadi Mubarak section, choose Print / Status, and enter Aadhaar and mobile."
-    },
-    {
-      "question": "Is there any fee to apply for Kalyana Lakshmi?",
-      "answer": "No, applying is completely free on MeeSeva or TS-ePASS.<br><br>Anyone demanding money to approve your application is running a scam, since approval depends only on eligibility and documents."
-    },
-    {
-      "question": "Can both daughters in a family get the benefit?",
-      "answer": "Yes, up to two daughters per family can receive the assistance.<br><br>A third or later daughter is not eligible under the scheme rules."
-    },
-    {
-      "question": "What is Kalyana Lakshmi Pathakam status?",
-      "answer": "It is the same as the Kalyana Lakshmi status, shown on TS-ePASS as pending, approved, sanctioned, or rejected.<br><br>Check it with the bride's Aadhaar and registered mobile under Print / Status."
-    },
-    {
-      "question": "Can I edit my application after submitting?",
-      "answer": "Yes, TS-ePASS has an Edit / Uploads option to correct details or re-upload documents.<br><br>Fix any errors quickly, since wrong details are a common cause of pending status."
-    }
-  ],
-  "official_portal": {
-    "name": "TS-ePASS - telanganaepass.cgg.gov.in",
-    "url": "https://telanganaepass.cgg.gov.in/"
+  {
+   "type": "text",
+   "heading": "Common Reasons for Application Rejection",
+   "icon": "⚠️",
+   "content": [
+    "If a Kalyana Lakshmi file gets rejected, it is almost always one of a handful of avoidable mistakes. Knowing them upfront saves you the ₹1,00,116.",
+    "Late filing is the number one killer. The 3-month window from the marriage date is hard, and even a day late can sink the application, so do not leave it for later.",
+    "Age and income slip-ups come next. The age proof must clearly show 18+ on the marriage date, and an old income certificate showing income just over ₹2 lakh will get you rejected.",
+    "Filing under the wrong scheme wastes weeks, a minority bride must use Shaadi Mubarak, not Kalyana Lakshmi. And the most frustrating one: a bank account that is not NPCI-mapped, which holds up the money even after approval.",
+    "If your file does get rejected, do not assume it is final. As long as you are still inside the 3-month window, fixing the flagged issue and resubmitting often works."
+   ]
   },
-  "related_pages": [
-    {
-      "title": "Kanya Sumangala Yojana",
-      "slug": "kanya-sumangala-yojana",
-      "tag": "UP \u00b7 Girl Child"
-    },
-    {
-      "title": "Sukanya Samriddhi Yojana",
-      "slug": "sukanya-samriddhi-yojana",
-      "tag": "Central \u00b7 Girl Savings"
-    },
-    {
-      "title": "Beti Bachao Beti Padhao",
-      "slug": "beti-bachao-beti-padhao",
-      "tag": "Awareness"
-    }
-  ],
-  "category": "women",
-  "state": "telangana",
-  "affiliate_stable": true
+  {
+   "type": "modern_callout",
+   "variant": "info",
+   "title": "Money goes to bride's mother's account, not bride or groom",
+   "content": "The ₹1,00,116 is credited via DBT to the bride's mother's Aadhaar-linked bank account. It does not go to the bride's own account, the groom's, or a joint account.<br><br>The design reflects the scheme's intent: support for the bride's family. Ensure the mother has a single-holder account with Aadhaar linked and NPCI-mapped before applying."
+  }
+ ],
+ "how_to_apply": [
+  {
+   "step": 1,
+   "title": "Confirm marriage date and gather documents",
+   "description": "Before applying, fix the marriage date and obtain all required documents: bride's Aadhaar, caste certificate (SC/ST/BC/EBC or minority), age proof (10th/12th cert or birth certificate), income certificate (Tehsildar, under ₹2 lakh), marriage invitation card, bride's mother's bank passbook (Aadhaar-linked)."
+  },
+  {
+   "step": 2,
+   "title": "Visit MeeSeva centre",
+   "description": "Go to your nearest MeeSeva centre. Ask for Kalyana Lakshmi (for SC/ST/BC/EBC) or Shaadi Mubarak (for minority) application form. The MeeSeva operator will help you fill it correctly. You can also apply online at TS-ePASS portal directly."
+  },
+  {
+   "step": 3,
+   "title": "Submit application within 3 months",
+   "description": "Submit the completed form with all documents. The application must reach the welfare department within 3 months of the marriage date - strict deadline. You receive an application reference number for tracking."
+  },
+  {
+   "step": 4,
+   "title": "Welfare officer verification & disbursement",
+   "description": "The Welfare Officer (SC/ST/BC/Minority - depending on scheme) verifies your documents and physical marriage proof. Once approved, ₹1,00,116 is transferred via DBT to the bride's mother's bank account - typically within 60-90 days of approval. For brides with disability, ₹1,25,145 is disbursed."
+  }
+ ],
+ "important_alert": {
+  "text": "Application must be submitted within 3 months of marriage date. Amount (₹1,00,116) goes to bride's mother's Aadhaar-linked account - not bride's, not groom's. Apply via MeeSeva or TS-ePASS portal.",
+  "type": "warning"
+ },
+ "important_dates": [
+  {
+   "label": "Scheme Launched",
+   "value": "2 October 2014 (CM K. Chandrashekar Rao)",
+   "highlight": false
+  },
+  {
+   "label": "Current Amount Effective Since",
+   "value": "19 March 2018 (₹1,00,116)",
+   "highlight": false
+  },
+  {
+   "label": "Application Deadline",
+   "value": "Within 3 months of marriage date",
+   "highlight": true
+  },
+  {
+   "label": "Helpdesk Hours",
+   "value": "Mon-Fri, 10 AM - 5 PM (Welfare Office)",
+   "highlight": false
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How much money does Kalyana Lakshmi / Shaadi Mubarak give?",
+   "answer": "Both schemes give a one-time ₹1,00,116 to the bride's family.<br><br>For brides with a disability, the amount is enhanced to ₹1,25,145."
+  },
+  {
+   "question": "What is the difference between Kalyana Lakshmi and Shaadi Mubarak?",
+   "answer": "Kalyana Lakshmi is for SC, ST, BC, and EBC brides, while Shaadi Mubarak is for brides from notified minority communities.<br><br>The amount and process are identical; only the eligible community and the administering department differ."
+  },
+  {
+   "question": "Who is eligible for the marriage assistance?",
+   "answer": "Eligibility requires: (1) bride is a permanent resident of Telangana, (2) bride is 18 years or above on the marriage date, (3) bride belongs to SC/ST/BC/EBC (for Kalyana Lakshmi) or minority community (for Shaadi Mubarak), (4) combined annual parental income up to ₹2 lakh, (5) application submitted within 3 months of marriage. Both schemes are limited to a maximum of 2 daughters per family."
+  },
+  {
+   "question": "Where does the ₹1,00,116 amount get credited?",
+   "answer": "The amount is credited via DBT to the bride's mother's Aadhaar-linked bank account.<br><br>It does not go to the bride's or groom's account."
+  },
+  {
+   "question": "What is the application deadline?",
+   "answer": "Applications must be filed within 3 months of the marriage date.<br><br>The deadline is strict, so apply as soon as the marriage takes place."
+  },
+  {
+   "question": "How can I apply for Kalyana Lakshmi / Shaadi Mubarak?",
+   "answer": "Apply through MeeSeva or the TS-ePASS portal with Aadhaar, caste certificate, marriage proof, and the mother's bank passbook.<br><br>The welfare officer then verifies the application before payment."
+  },
+  {
+   "question": "What documents are required for the application?",
+   "answer": "Bride's Aadhaar card, caste certificate (SC/ST/BC/EBC or minority), bride's age proof (10th/12th certificate or birth certificate), bride's mother's bank passbook (Aadhaar-linked, single-holder), income certificate from Tehsildar (showing parental annual income under ₹2 lakh), marriage invitation card or marriage certificate, recent passport-size photo of the bride."
+  },
+  {
+   "question": "Why was my application rejected?",
+   "answer": "Most common reasons: (1) application submitted after the 3-month window from marriage, (2) bride's age below 18 on marriage date, (3) parents' annual income above ₹2 lakh in income certificate, (4) bride's mother's bank account is joint or not NPCI-mapped, (5) wrong scheme applied (filed Kalyana Lakshmi for minority bride or vice versa), (6) more than 2 daughters from same family. Most rejections are fixable - correct the issue and reapply within the deadline."
+  },
+  {
+   "question": "How do I check my Kalyana Lakshmi status online?",
+   "answer": "Go to telanganaepass.cgg.gov.in and click the Kalyana Lakshmi / Shaadi Mubarak banner.<br><br>Select Print / Status, enter the bride's Aadhaar and registered mobile number, then click Get Status & Print."
+  },
+  {
+   "question": "What is the TS Kalyana Lakshmi status check link?",
+   "answer": "The official portal is telanganaepass.cgg.gov.in, and the direct status page is telanganaepass.cgg.gov.in/KalyanaLakshmiLinks.jsp.<br><br>Always use the official TS-ePASS site, not third-party links."
+  },
+  {
+   "question": "My Kalyana Lakshmi status shows pending. What should I do?",
+   "answer": "Pending means your application is still under verification by the welfare officer.<br><br>If it stays pending for several weeks, contact your Mandal or District Welfare Officer to check for delays."
+  },
+  {
+   "question": "How long after marriage does the money come?",
+   "answer": "Payment is released after verification, which can take a few weeks to a few months depending on your district.<br><br>Track progress using the Print / Status option on TS-ePASS."
+  },
+  {
+   "question": "Can I check the status on my phone?",
+   "answer": "Yes, the TS-ePASS status page works in any phone browser.<br><br>Open the Kalyana Lakshmi / Shaadi Mubarak section, choose Print / Status, and enter Aadhaar and mobile."
+  },
+  {
+   "question": "Is there any fee to apply for Kalyana Lakshmi?",
+   "answer": "No, applying is completely free on MeeSeva or TS-ePASS.<br><br>Anyone demanding money to approve your application is running a scam, since approval depends only on eligibility and documents."
+  },
+  {
+   "question": "Can both daughters in a family get the benefit?",
+   "answer": "Yes, up to two daughters per family can receive the assistance.<br><br>A third or later daughter is not eligible under the scheme rules."
+  },
+  {
+   "question": "What is Kalyana Lakshmi Pathakam status?",
+   "answer": "It is the same as the Kalyana Lakshmi status, shown on TS-ePASS as pending, approved, sanctioned, or rejected.<br><br>Check it with the bride's Aadhaar and registered mobile under Print / Status."
+  },
+  {
+   "question": "Can I edit my application after submitting?",
+   "answer": "Yes, TS-ePASS has an Edit / Uploads option to correct details or re-upload documents.<br><br>Fix any errors quickly, since wrong details are a common cause of pending status."
+  }
+ ],
+ "official_portal": {
+  "name": "TS-ePASS - telanganaepass.cgg.gov.in",
+  "url": "https://telanganaepass.cgg.gov.in/"
+ },
+ "related_pages": [
+  {
+   "title": "Kanya Sumangala Yojana",
+   "slug": "kanya-sumangala-yojana",
+   "tag": "UP · Girl Child"
+  },
+  {
+   "title": "Sukanya Samriddhi Yojana",
+   "slug": "sukanya-samriddhi-yojana",
+   "tag": "Central · Girl Savings"
+  },
+  {
+   "title": "Beti Bachao Beti Padhao",
+   "slug": "beti-bachao-beti-padhao",
+   "tag": "Awareness"
+  }
+ ],
+ "category": "women",
+ "state": "telangana"
 }

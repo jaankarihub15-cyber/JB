@@ -1,679 +1,678 @@
 {
-  "slug": "lakshmir-bhandar",
-  "title": "Lakshmir Bhandar 2026: Amount, Status, Eligibility",
-  "meta_description": "Lakshmir Bhandar 2026: \u20b91,500/month (general), \u20b91,700 (SC/ST) for WB women aged 25-60. Status check, eligibility, and the Annapurna Bhandar transition.",
-  "hero": {
-    "icon": "\ud83d\udcb0",
-    "one_liner": "West Bengal's monthly cash support for women aged 25-60. Currently \u20b91,500 general and \u20b91,700 for SC/ST, with the Annapurna Bhandar transition underway.",
-    "updated_date": "June 2026",
-    "stats": [
-      {
-        "label": "General",
-        "value": "\u20b91,500/mo"
-      },
-      {
-        "label": "SC/ST",
-        "value": "\u20b91,700/mo"
-      },
-      {
-        "label": "Age Range",
-        "value": "25-60 yrs"
-      },
-      {
-        "label": "Portal",
-        "value": "socialsecurity.wb.gov.in"
-      }
-    ]
+ "slug": "lakshmir-bhandar",
+ "title": "Lakshmir Bhandar 2026: Amount, Status, Eligibility",
+ "meta_description": "Lakshmir Bhandar 2026: ₹1,500/month (general), ₹1,700 (SC/ST) for WB women aged 25-60. Status check, eligibility, and the Annapurna Bhandar transition.",
+ "hero": {
+  "icon": "💰",
+  "one_liner": "West Bengal's monthly cash support for women aged 25-60. Currently ₹1,500 general and ₹1,700 for SC/ST, with the Annapurna Bhandar transition underway.",
+  "updated_date": "June 2026",
+  "stats": [
+   {
+    "label": "General",
+    "value": "₹1,500/mo"
+   },
+   {
+    "label": "SC/ST",
+    "value": "₹1,700/mo"
+   },
+   {
+    "label": "Age Range",
+    "value": "25-60 yrs"
+   },
+   {
+    "label": "Portal",
+    "value": "socialsecurity.wb.gov.in"
+   }
+  ]
+ },
+ "quick_actions": [
+  {
+   "icon": "🔍",
+   "label": "Status",
+   "url": "https://socialsecurity.wb.gov.in"
   },
-  "quick_actions": [
+  {
+   "icon": "📄",
+   "label": "Apply",
+   "url": "https://socialsecurity.wb.gov.in"
+  },
+  {
+   "icon": "✅",
+   "label": "Eligibility",
+   "url": "/check-eligibility"
+  }
+ ],
+ "what_is_it": [
+  "Lakshmir Bhandar is a West Bengal scheme that pays a monthly cash allowance to women household members aged 25 to 60. It is run by the state Women and Child Development department.",
+  "As of 2026 the amount is ₹1,500 a month for general category women and ₹1,700 for SC/ST women, after a ₹500 rise in the February 2026 budget. The money is paid by direct transfer."
+ ],
+ "eligibility": [
+  {
+   "label": "Age",
+   "value": "Woman aged between 25 and 60 years.",
+   "highlight": true
+  },
+  {
+   "label": "Residence",
+   "value": "Permanent resident of West Bengal from an economically weaker household.",
+   "highlight": true
+  },
+  {
+   "label": "Linkage",
+   "value": "Aadhaar linked to the bank account, with Swasthya Sathi enrolment.",
+   "highlight": false
+  },
+  {
+   "label": "Exclusions",
+   "value": "Not a government employee or pensioner, household has no tax-paying member.",
+   "highlight": true
+  },
+  {
+   "label": "Land",
+   "value": "For general category, household land holding within the prescribed limit.",
+   "highlight": false
+  }
+ ],
+ "eligibility_filters": {
+  "states": [
+   "west-bengal"
+  ],
+  "gender": "female",
+  "age_min": 25,
+  "age_max": 60,
+  "income_max": null,
+  "notes": "Monthly cash support for women 25-60 from economically weaker households. Not for govt employees/pensioners or tax-paying households."
+ },
+ "how_to_apply": [
+  {
+   "step": 1,
+   "title": "Apply at Duare Sarkar or online",
+   "description": "Apply through a Duare Sarkar camp or socialsecurity.wb.gov.in when applications are open."
+  },
+  {
+   "step": 2,
+   "title": "Provide documents",
+   "description": "Give Aadhaar, bank details, Swasthya Sathi and residence proof."
+  },
+  {
+   "step": 3,
+   "title": "Link Aadhaar to bank",
+   "description": "Ensure your Aadhaar is linked to your bank account for the transfer to work."
+  },
+  {
+   "step": 4,
+   "title": "Track status",
+   "description": "Track the application and payment status on the official portal."
+  }
+ ],
+ "official_portal": {
+  "name": "WB Social Security Portal",
+  "url": "https://socialsecurity.wb.gov.in"
+ },
+ "related_pages": [
+  {
+   "title": "Rupashree Prakalpa",
+   "slug": "rupashree-prakalpa",
+   "tag": "Women Welfare",
+   "url": "/yojana/rupashree-prakalpa"
+  },
+  {
+   "title": "Kanyashree Prakalpa",
+   "slug": "kanyashree-prakalpa",
+   "tag": "Education",
+   "url": "/yojana/kanyashree-prakalpa"
+  },
+  {
+   "title": "Yuvashree Prakalpa",
+   "slug": "yuvashree-prakalpa",
+   "tag": "Employment",
+   "url": "/yojana/yuvashree-prakalpa"
+  }
+ ],
+ "tags": [
+  "West Bengal",
+  "Women Welfare",
+  "Cash Transfer",
+  "Lakshmir Bhandar",
+  "Annapurna Bhandar"
+ ],
+ "ministry": "Women and Child Development and Social Welfare Department, Government of West Bengal",
+ "launch_year": 2021,
+ "category": "women",
+ "state": "west-bengal",
+ "last_reviewed": "June 2026",
+ "extra_sections": [
+  {
+   "type": "stat_grid",
+   "heading": "Lakshmir Bhandar Key Numbers",
+   "icon": "📊",
+   "items": [
     {
-      "icon": "\ud83d\udd0d",
-      "label": "Status",
-      "url": "https://socialsecurity.wb.gov.in"
+     "icon": "trophy",
+     "value": "₹3,000",
+     "label": "New Monthly Amount",
+     "color": "green"
     },
     {
-      "icon": "\ud83d\udcc4",
-      "label": "Apply",
-      "url": "https://socialsecurity.wb.gov.in"
+     "icon": "users",
+     "value": "₹1,700/month",
+     "label": "Old Amount (SC/ST)",
+     "color": "amber"
     },
     {
-      "icon": "\u2705",
-      "label": "Eligibility",
-      "url": "/check-eligibility"
+     "icon": "calendar",
+     "value": "₹1,500/month",
+     "label": "Old Amount (General)",
+     "color": "blue"
+    },
+    {
+     "icon": "shield",
+     "value": "25-60 years",
+     "label": "Age Range",
+     "color": "green"
     }
-  ],
-  "what_is_it": [
-    "Lakshmir Bhandar is a West Bengal scheme that pays a monthly cash allowance to women household members aged 25 to 60. It is run by the state Women and Child Development department.",
-    "As of 2026 the amount is \u20b91,500 a month for general category women and \u20b91,700 for SC/ST women, after a \u20b9500 rise in the February 2026 budget. The money is paid by direct transfer."
-  ],
-  "eligibility": [
+   ]
+  },
+  {
+   "type": "eligibility_check",
+   "heading": "Who qualifies",
+   "icon": "✅",
+   "qualify": [
+    "Woman aged 25 to 60 years",
+    "Permanent WB resident, weaker household",
+    "Aadhaar linked to bank with Swasthya Sathi",
+    "Household has no tax-paying member"
+   ],
+   "disqualify": [
+    "Government employee or pensioner",
+    "Household with a tax-paying member",
+    "Above prescribed land holding (general)",
+    "Aged under 25 or over 60",
+    "Not a West Bengal resident"
+   ]
+  },
+  {
+   "type": "modern_callout",
+   "variant": "warning",
+   "icon": "alert",
+   "title": "Lakshmir Bhandar Has Been Replaced by Annapurna Bhandar",
+   "content": "As of June 1/3, 2026, Lakshmir Bhandar has been replaced by the Annapurna Bhandar scheme (also called Annapurna Yojana). The new scheme pays ₹3,000 per month to all eligible women - up from ₹1,700 (SC/ST) and ₹1,500 (General) under the old scheme.<br><br>Existing Lakshmir Bhandar beneficiaries are being automatically migrated. However, an audit removed approximately 30 lakh beneficiaries who were found ineligible.<br><br>If your payment stopped around June 2026, your account may have been flagged during the audit. Read the migration and eligibility sections below to understand what to do."
+  },
+  {
+   "type": "text",
+   "heading": "What Was Lakshmir Bhandar and Why It Changed",
+   "content": [
+    "Lakshmir Bhandar was the West Bengal government's flagship monthly cash transfer scheme for women. Launched in 2021, it paid ₹1,000 per month to General category women and ₹1,200 per month to SC/ST women from households headed by women.",
+    "The amounts were subsequently revised upward to ₹1,500 and ₹1,700 respectively. At its peak, approximately 2.2 crore women were enrolled.",
+    "The scheme was a major political and welfare landmark for West Bengal. It was one of the larger women-targeted direct benefit transfer programmes in any Indian state, and its implementation was credited with a significant increase in women's financial independence in rural and semi-urban Bengal.",
+    "The everyday name Lakshmir Bhandar will stick for years even though the official scheme is now Annapurna Bhandar. For status checks, the same portal at socialsecurity.wb.gov.in serves both the old and the new records.",
+    "At its peak about 2.2 crore women were enrolled in Lakshmir Bhandar. The amounts had been raised over time to ₹1,500 for General and ₹1,700 for SC and ST women before the change."
+   ]
+  },
+  {
+   "type": "process_flow",
+   "heading": "From Lakshmir Bhandar to Annapurna Bhandar",
+   "steps": [
     {
-      "label": "Age",
-      "value": "Woman aged between 25 and 60 years.",
-      "highlight": true
+     "icon": "sparkles",
+     "title": "Rebranded in 2026",
+     "desc": "The incoming government renamed and restructured the scheme as Annapurna Bhandar."
     },
     {
-      "label": "Residence",
-      "value": "Permanent resident of West Bengal from an economically weaker household.",
-      "highlight": true
+     "icon": "wallet",
+     "title": "Flat ₹3,000 a month",
+     "desc": "A single amount for all eligible women. The old General and SC/ST split was removed."
     },
     {
-      "label": "Linkage",
-      "value": "Aadhaar linked to the bank account, with Swasthya Sathi enrolment.",
-      "highlight": false
+     "icon": "shield",
+     "title": "Fresh eligibility audit",
+     "desc": "All 2.2 crore beneficiaries were re-checked against the new rules."
     },
     {
-      "label": "Exclusions",
-      "value": "Not a government employee or pensioner, household has no tax-paying member.",
-      "highlight": true
-    },
-    {
-      "label": "Land",
-      "value": "For general category, household land holding within the prescribed limit.",
-      "highlight": false
+     "icon": "x",
+     "title": "About 30 lakh removed",
+     "desc": "Mainly government employees, income-tax payers, pensioners, and invalid bank links."
     }
-  ],
-  "eligibility_filters": {
-    "states": [
-      "west-bengal"
+   ]
+  },
+  {
+   "type": "icon_list",
+   "heading": "What the Transition Means for You",
+   "items": [
+    {
+     "icon": "check",
+     "title": "Existing beneficiaries auto-migrated",
+     "sub": "About 2 crore verified women moved to ₹3,000 from June 2026 with no fresh application."
+    },
+    {
+     "icon": "calendar",
+     "title": "New applicants must apply fresh",
+     "sub": "A 90-day window runs until August 25, 2026 for those not previously enrolled."
+    },
+    {
+     "icon": "file",
+     "title": "Removed by mistake? Appeal",
+     "sub": "File an objection at your BSK or gram panchayat if your job ended or the record is wrong."
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "heading": "📄 What Was Lakshmir Bhandar and Why It Changed (more 2)",
+   "content": [
+    "The name 'Lakshmir Bhandar' will continue to be used in everyday conversation for years, much as the old name persists even after official renaming. For status checks, the official portal socialsecurity.wb.gov.in continues to serve both old Lakshmir Bhandar records and the new Annapurna Bhandar scheme.",
+    "The scale of this transition is significant. Moving 2.2 crore women from one scheme to another while simultaneously conducting an eligibility audit and increasing the payment amount by ₹1,300-1,500 per person represents one of the larger welfare scheme transitions seen in any Indian state.",
+    "During the June to August 2026 transition, your monthly payment date may shift around as the new system settles. Track your bank account and the portal rather than waiting for a fixed date."
+   ]
+  },
+  {
+   "type": "text",
+   "heading": "📄 What Was Lakshmir Bhandar and Why It Changed (part 2)",
+   "content": [
+    "The implementation challenge - ensuring existing beneficiaries receive their enhanced payments without interruption while filtering out ineligible entries - is administratively complex. Minor delays in individual payments during this transition period are therefore expected.",
+    "The socialsecurity.wb.gov.in portal may experience high traffic around payment dates and after major announcements about the scheme. If the portal is slow or returns an error when you try to check status, try again at a different time - early morning or late evening typically has lower load.",
+    "Alternatively, BSK centres and gram panchayat offices can check your status using their official access even when the public portal is slow.",
+    "One practical point that many beneficiaries miss: the payment date each month may shift slightly during the transition. Under Lakshmir Bhandar, most beneficiaries received their payment around a consistent date each month.",
+    "During this large transition, minor delays in individual payments are expected as the system filters out ineligible entries. If the portal is slow near a payment date, a BSK or gram panchayat can often check your status using their official access."
+   ]
+  },
+  {
+   "type": "text",
+   "heading": "📄 What Was Lakshmir Bhandar and Why It Changed (more 3)",
+   "content": [
+    "Under Annapurna Bhandar, the payment schedule for June-August 2026 may be irregular as the new system stabilises. Track your bank account and the portal rather than relying on a fixed expected date.",
+    "Households where the woman recently turned 60 should note that the scheme stops at 60. If you received Lakshmir Bhandar past your 60th birthday (which sometimes happened due to age verification lapses in the original enrollment), Annapurna Bhandar will not include you.",
+    "If you crossed 60 while still receiving Lakshmir Bhandar, Annapurna Bhandar will not include you. You may instead apply for the Old Age Allowance, a separate scheme for women above 60 who meet its income rules.",
+    "Watch your bank account and the portal rather than a fixed monthly date through the June to August window. The schedule may be irregular until the new system settles."
+   ]
+  },
+  {
+   "type": "text",
+   "heading": "📄 What Was Lakshmir Bhandar and Why It Changed (part 3)",
+   "content": [
+    "However, you may apply for the Old Age Allowance, which is a separate scheme administered by the Social Welfare Department for women above 60 who meet the income criteria."
+   ]
+  },
+  {
+   "type": "table",
+   "heading": "Lakshmir Bhandar vs Annapurna Bhandar: Key Changes",
+   "icon": "📊",
+   "columns": [
+    "Feature",
+    "Lakshmir Bhandar (old)",
+    "Annapurna Bhandar (new, June 2026)"
+   ],
+   "rows": [
+    [
+     "Monthly amount (General)",
+     "₹1,500/month",
+     "₹3,000/month (all categories)"
     ],
-    "gender": "female",
-    "age_min": 25,
-    "age_max": 60,
-    "income_max": null,
-    "notes": "Monthly cash support for women 25-60 from economically weaker households. Not for govt employees/pensioners or tax-paying households."
+    [
+     "Monthly amount (SC/ST)",
+     "₹1,700/month",
+     "₹3,000/month (unified)"
+    ],
+    [
+     "Age range",
+     "21-60 years",
+     "25-60 years"
+    ],
+    [
+     "Enrollment window",
+     "Ongoing",
+     "90 days from June 1 (until Aug 25, 2026) for new applicants"
+    ],
+    [
+     "Existing beneficiaries",
+     "Applied separately",
+     "Auto-migrated (audit conducted)"
+    ],
+    [
+     "Portal",
+     "socialsecurity.wb.gov.in",
+     "socialsecurity.wb.gov.in (same)"
+    ],
+    [
+     "Ineligible categories",
+     "Govt employees, income taxpayers",
+     "Same + aided school employees, more strict audit"
+    ]
+   ]
   },
-  "how_to_apply": [
+  {
+   "type": "steps",
+   "heading": "How to Check Lakshmir Bhandar / Annapurna Bhandar Status 2026",
+   "icon": "🔍",
+   "steps": [
     {
-      "step": 1,
-      "title": "Apply at Duare Sarkar or online",
-      "description": "Apply through a Duare Sarkar camp or socialsecurity.wb.gov.in when applications are open."
+     "step": 1,
+     "title": "Go to the official portal",
+     "description": "Visit socialsecurity.wb.gov.in. This portal serves both the old Lakshmir Bhandar records and the new Annapurna Bhandar scheme.<br><br>Do not use unofficial third-party websites that promise status checks - they cannot access the actual government database and many are designed to collect personal information."
     },
     {
-      "step": 2,
-      "title": "Provide documents",
-      "description": "Give Aadhaar, bank details, Swasthya Sathi and residence proof."
+     "step": 2,
+     "title": "Click 'Track Applicant Status'",
+     "description": "On the homepage, find the Track Applicant Status or Status Check option. This may be labelled under Annapurna Bhandar or may still show the old Lakshmir Bhandar label during the transition period."
     },
     {
-      "step": 3,
-      "title": "Link Aadhaar to bank",
-      "description": "Ensure your Aadhaar is linked to your bank account for the transfer to work."
+     "step": 3,
+     "title": "Enter your mobile number and CAPTCHA",
+     "description": "Enter the mobile number that was registered with your Lakshmir Bhandar or Annapurna Bhandar application. Complete the CAPTCHA security check and click Submit.<br><br>If your mobile number is not linked, try entering your Aadhaar number instead - the portal may offer this as an alternative."
     },
     {
-      "step": 4,
-      "title": "Track status",
-      "description": "Track the application and payment status on the official portal."
+     "step": 4,
+     "title": "Read the status result",
+     "description": "The status shows whether your application is active, in migration, approved for ₹3,000, or flagged for review. If the status shows 'removed' or 'ineligible', note the reason stated.<br><br>Common reasons: income taxpayer, government employee, invalid bank account, duplicate entry. Each reason has a specific remedy."
+    },
+    {
+     "step": 5,
+     "title": "If payment has not come despite 'approved' status",
+     "description": "Check your bank's Aadhaar-linked DBT status at myaadhaar.uidai.gov.in/bank-seeding-status. If the seeding is inactive or linked to a different bank than your current account, the payment will fail.<br><br>Update the Aadhaar-bank link at your bank branch before the next payment cycle."
     }
-  ],
-  "official_portal": {
-    "name": "WB Social Security Portal",
-    "url": "https://socialsecurity.wb.gov.in"
+   ]
   },
-  "related_pages": [
+  {
+   "type": "modern_callout",
+   "variant": "info",
+   "icon": "info",
+   "title": "During the Annapurna transition, do an e-KYC check",
+   "content": "The safest move right now is to confirm your Aadhaar bank seeding and complete any e-KYC.<br><br>Several women stayed on the old amount only because their Aadhaar link was pending when the revision came."
+  },
+  {
+   "type": "icon_list",
+   "heading": "Who Is Excluded From Annapurna Bhandar",
+   "items": [
     {
-      "title": "Rupashree Prakalpa",
-      "slug": "rupashree-prakalpa",
-      "tag": "Women Welfare",
-      "url": "/yojana/rupashree-prakalpa"
+     "icon": "x",
+     "title": "Income-tax payers",
+     "sub": "Any household where someone files an ITR is ineligible, even an otherwise low-income family."
     },
     {
-      "title": "Kanyashree Prakalpa",
-      "slug": "kanyashree-prakalpa",
-      "tag": "Education",
-      "url": "/yojana/kanyashree-prakalpa"
+     "icon": "x",
+     "title": "Government employees and pensioners",
+     "sub": "Permanent or retired staff of government, panchayats, local bodies, and aided institutions are excluded."
     },
     {
-      "title": "Yuvashree Prakalpa",
-      "slug": "yuvashree-prakalpa",
-      "tag": "Employment",
-      "url": "/yojana/yuvashree-prakalpa"
+     "icon": "calendar",
+     "title": "Outside 25 to 60 years",
+     "sub": "Only women aged 25 to 60 who are permanent residents of West Bengal qualify."
     }
-  ],
-  "tags": [
-    "West Bengal",
-    "Women Welfare",
-    "Cash Transfer",
-    "Lakshmir Bhandar",
-    "Annapurna Bhandar"
-  ],
-  "ministry": "Women and Child Development and Social Welfare Department, Government of West Bengal",
-  "launch_year": 2021,
-  "category": "women",
-  "state": "west-bengal",
-  "last_reviewed": "June 2026",
-  "extra_sections": [
+   ]
+  },
+  {
+   "type": "text",
+   "heading": "📄 Who Is Eligible for Annapurna Bhandar in 2026 (more)",
+   "content": [
+    "Women aged below 25 are not eligible. This is a change from the old Lakshmir Bhandar scheme which covered women from age 21.",
+    "Women who were receiving Lakshmir Bhandar and are now aged 22-24 were removed from the list during the migration audit. They will become eligible when they turn 25.",
+    "The upper age limit of 60 years means women above 60 are not covered by Annapurna Bhandar. However, women above 60 may be eligible for the Jai Johar scheme (for SC/ST elderly women) or Old Age Allowance programmes run by the state.",
+    "The income tax payer rule catches more families than people expect. If a salaried adult child in the house files a return, the mother can become ineligible even when the family feels low income.",
+    "Permanent and retired government staff are excluded too, including teaching and non-teaching staff in government aided institutions. A regular government pension also counts as disqualifying."
+   ]
+  },
+  {
+   "type": "icon_list",
+   "heading": "Who Still Qualifies",
+   "items": [
     {
-      "type": "stat_grid",
-      "heading": "Lakshmir Bhandar Key Numbers",
-      "icon": "\ud83d\udcca",
-      "items": [
-        {
-          "icon": "trophy",
-          "value": "\u20b93,000",
-          "label": "New Monthly Amount",
-          "color": "green"
-        },
-        {
-          "icon": "users",
-          "value": "\u20b91,700/month",
-          "label": "Old Amount (SC/ST)",
-          "color": "amber"
-        },
-        {
-          "icon": "calendar",
-          "value": "\u20b91,500/month",
-          "label": "Old Amount (General)",
-          "color": "blue"
-        },
-        {
-          "icon": "shield",
-          "value": "25-60 years",
-          "label": "Age Range",
-          "color": "green"
-        }
-      ]
+     "icon": "check",
+     "title": "Informal and self-employed women",
+     "sub": "Domestic workers, farm and daily-wage workers, small-business owners, and homemakers all qualify."
     },
     {
-      "type": "eligibility_check",
-      "heading": "Who qualifies",
-      "icon": "\u2705",
-      "qualify": [
-        "Woman aged 25 to 60 years",
-        "Permanent WB resident, weaker household",
-        "Aadhaar linked to bank with Swasthya Sathi",
-        "Household has no tax-paying member"
-      ],
-      "disqualify": [
-        "Government employee or pensioner",
-        "Household with a tax-paying member",
-        "Above prescribed land holding (general)",
-        "Aged under 25 or over 60",
-        "Not a West Bengal resident"
-      ]
+     "icon": "users",
+     "title": "Any marital status",
+     "sub": "Widowed, separated, and married women qualify on the same terms."
     },
     {
-      "type": "modern_callout",
-      "variant": "warning",
-      "icon": "alert",
-      "title": "Lakshmir Bhandar Has Been Replaced by Annapurna Bhandar",
-      "content": "As of June 1/3, 2026, Lakshmir Bhandar has been replaced by the Annapurna Bhandar scheme (also called Annapurna Yojana). The new scheme pays \u20b93,000 per month to all eligible women - up from \u20b91,700 (SC/ST) and \u20b91,500 (General) under the old scheme.<br><br>Existing Lakshmir Bhandar beneficiaries are being automatically migrated. However, an audit removed approximately 30 lakh beneficiaries who were found ineligible.<br><br>If your payment stopped around June 2026, your account may have been flagged during the audit. Read the migration and eligibility sections below to understand what to do."
-    },
-    {
-      "type": "text",
-      "heading": "What Was Lakshmir Bhandar and Why It Changed",
-      "content": [
-        "Lakshmir Bhandar was the West Bengal government's flagship monthly cash transfer scheme for women. Launched in 2021, it paid \u20b91,000 per month to General category women and \u20b91,200 per month to SC/ST women from households headed by women.",
-        "The amounts were subsequently revised upward to \u20b91,500 and \u20b91,700 respectively. At its peak, approximately 2.2 crore women were enrolled.",
-        "The scheme was a major political and welfare landmark for West Bengal. It was one of the larger women-targeted direct benefit transfer programmes in any Indian state, and its implementation was credited with a significant increase in women's financial independence in rural and semi-urban Bengal.",
-        "The everyday name Lakshmir Bhandar will stick for years even though the official scheme is now Annapurna Bhandar. For status checks, the same portal at socialsecurity.wb.gov.in serves both the old and the new records.",
-        "At its peak about 2.2 crore women were enrolled in Lakshmir Bhandar. The amounts had been raised over time to \u20b91,500 for General and \u20b91,700 for SC and ST women before the change."
-      ]
-    },
-    {
-      "type": "process_flow",
-      "heading": "From Lakshmir Bhandar to Annapurna Bhandar",
-      "steps": [
-        {
-          "icon": "sparkles",
-          "title": "Rebranded in 2026",
-          "desc": "The incoming government renamed and restructured the scheme as Annapurna Bhandar."
-        },
-        {
-          "icon": "wallet",
-          "title": "Flat \u20b93,000 a month",
-          "desc": "A single amount for all eligible women. The old General and SC/ST split was removed."
-        },
-        {
-          "icon": "shield",
-          "title": "Fresh eligibility audit",
-          "desc": "All 2.2 crore beneficiaries were re-checked against the new rules."
-        },
-        {
-          "icon": "x",
-          "title": "About 30 lakh removed",
-          "desc": "Mainly government employees, income-tax payers, pensioners, and invalid bank links."
-        }
-      ]
-    },
-    {
-      "type": "icon_list",
-      "heading": "What the Transition Means for You",
-      "items": [
-        {
-          "icon": "check",
-          "title": "Existing beneficiaries auto-migrated",
-          "sub": "About 2 crore verified women moved to \u20b93,000 from June 2026 with no fresh application."
-        },
-        {
-          "icon": "calendar",
-          "title": "New applicants must apply fresh",
-          "sub": "A 90-day window runs until August 25, 2026 for those not previously enrolled."
-        },
-        {
-          "icon": "file",
-          "title": "Removed by mistake? Appeal",
-          "sub": "File an objection at your BSK or gram panchayat if your job ended or the record is wrong."
-        }
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "\ud83d\udcc4 What Was Lakshmir Bhandar and Why It Changed (more 2)",
-      "content": [
-        "The name 'Lakshmir Bhandar' will continue to be used in everyday conversation for years, much as the old name persists even after official renaming. For status checks, the official portal socialsecurity.wb.gov.in continues to serve both old Lakshmir Bhandar records and the new Annapurna Bhandar scheme.",
-        "The scale of this transition is significant. Moving 2.2 crore women from one scheme to another while simultaneously conducting an eligibility audit and increasing the payment amount by \u20b91,300-1,500 per person represents one of the larger welfare scheme transitions seen in any Indian state.",
-        "During the June to August 2026 transition, your monthly payment date may shift around as the new system settles. Track your bank account and the portal rather than waiting for a fixed date."
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "\ud83d\udcc4 What Was Lakshmir Bhandar and Why It Changed (part 2)",
-      "content": [
-        "The implementation challenge - ensuring existing beneficiaries receive their enhanced payments without interruption while filtering out ineligible entries - is administratively complex. Minor delays in individual payments during this transition period are therefore expected.",
-        "The socialsecurity.wb.gov.in portal may experience high traffic around payment dates and after major announcements about the scheme. If the portal is slow or returns an error when you try to check status, try again at a different time - early morning or late evening typically has lower load.",
-        "Alternatively, BSK centres and gram panchayat offices can check your status using their official access even when the public portal is slow.",
-        "One practical point that many beneficiaries miss: the payment date each month may shift slightly during the transition. Under Lakshmir Bhandar, most beneficiaries received their payment around a consistent date each month.",
-        "During this large transition, minor delays in individual payments are expected as the system filters out ineligible entries. If the portal is slow near a payment date, a BSK or gram panchayat can often check your status using their official access."
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "\ud83d\udcc4 What Was Lakshmir Bhandar and Why It Changed (more 3)",
-      "content": [
-        "Under Annapurna Bhandar, the payment schedule for June-August 2026 may be irregular as the new system stabilises. Track your bank account and the portal rather than relying on a fixed expected date.",
-        "Households where the woman recently turned 60 should note that the scheme stops at 60. If you received Lakshmir Bhandar past your 60th birthday (which sometimes happened due to age verification lapses in the original enrollment), Annapurna Bhandar will not include you.",
-        "If you crossed 60 while still receiving Lakshmir Bhandar, Annapurna Bhandar will not include you. You may instead apply for the Old Age Allowance, a separate scheme for women above 60 who meet its income rules.",
-        "Watch your bank account and the portal rather than a fixed monthly date through the June to August window. The schedule may be irregular until the new system settles."
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "\ud83d\udcc4 What Was Lakshmir Bhandar and Why It Changed (part 3)",
-      "content": [
-        "However, you may apply for the Old Age Allowance, which is a separate scheme administered by the Social Welfare Department for women above 60 who meet the income criteria."
-      ]
-    },
-    {
-      "type": "table",
-      "heading": "Lakshmir Bhandar vs Annapurna Bhandar: Key Changes",
-      "icon": "\ud83d\udcca",
-      "columns": [
-        "Feature",
-        "Lakshmir Bhandar (old)",
-        "Annapurna Bhandar (new, June 2026)"
-      ],
-      "rows": [
-        [
-          "Monthly amount (General)",
-          "\u20b91,500/month",
-          "\u20b93,000/month (all categories)"
-        ],
-        [
-          "Monthly amount (SC/ST)",
-          "\u20b91,700/month",
-          "\u20b93,000/month (unified)"
-        ],
-        [
-          "Age range",
-          "21-60 years",
-          "25-60 years"
-        ],
-        [
-          "Enrollment window",
-          "Ongoing",
-          "90 days from June 1 (until Aug 25, 2026) for new applicants"
-        ],
-        [
-          "Existing beneficiaries",
-          "Applied separately",
-          "Auto-migrated (audit conducted)"
-        ],
-        [
-          "Portal",
-          "socialsecurity.wb.gov.in",
-          "socialsecurity.wb.gov.in (same)"
-        ],
-        [
-          "Ineligible categories",
-          "Govt employees, income taxpayers",
-          "Same + aided school employees, more strict audit"
-        ]
-      ]
-    },
-    {
-      "type": "steps",
-      "heading": "How to Check Lakshmir Bhandar / Annapurna Bhandar Status 2026",
-      "icon": "\ud83d\udd0d",
-      "steps": [
-        {
-          "step": 1,
-          "title": "Go to the official portal",
-          "description": "Visit socialsecurity.wb.gov.in. This portal serves both the old Lakshmir Bhandar records and the new Annapurna Bhandar scheme.<br><br>Do not use unofficial third-party websites that promise status checks - they cannot access the actual government database and many are designed to collect personal information."
-        },
-        {
-          "step": 2,
-          "title": "Click 'Track Applicant Status'",
-          "description": "On the homepage, find the Track Applicant Status or Status Check option. This may be labelled under Annapurna Bhandar or may still show the old Lakshmir Bhandar label during the transition period."
-        },
-        {
-          "step": 3,
-          "title": "Enter your mobile number and CAPTCHA",
-          "description": "Enter the mobile number that was registered with your Lakshmir Bhandar or Annapurna Bhandar application. Complete the CAPTCHA security check and click Submit.<br><br>If your mobile number is not linked, try entering your Aadhaar number instead - the portal may offer this as an alternative."
-        },
-        {
-          "step": 4,
-          "title": "Read the status result",
-          "description": "The status shows whether your application is active, in migration, approved for \u20b93,000, or flagged for review. If the status shows 'removed' or 'ineligible', note the reason stated.<br><br>Common reasons: income taxpayer, government employee, invalid bank account, duplicate entry. Each reason has a specific remedy."
-        },
-        {
-          "step": 5,
-          "title": "If payment has not come despite 'approved' status",
-          "description": "Check your bank's Aadhaar-linked DBT status at myaadhaar.uidai.gov.in/bank-seeding-status. If the seeding is inactive or linked to a different bank than your current account, the payment will fail.<br><br>Update the Aadhaar-bank link at your bank branch before the next payment cycle."
-        }
-      ]
-    },
-    {
-      "type": "modern_callout",
-      "variant": "info",
-      "icon": "info",
-      "title": "During the Annapurna transition, do an e-KYC check",
-      "content": "The safest move right now is to confirm your Aadhaar bank seeding and complete any e-KYC.<br><br>Several women stayed on the old amount only because their Aadhaar link was pending when the revision came."
-    },
-    {
-      "type": "icon_list",
-      "heading": "Who Is Excluded From Annapurna Bhandar",
-      "items": [
-        {
-          "icon": "x",
-          "title": "Income-tax payers",
-          "sub": "Any household where someone files an ITR is ineligible, even an otherwise low-income family."
-        },
-        {
-          "icon": "x",
-          "title": "Government employees and pensioners",
-          "sub": "Permanent or retired staff of government, panchayats, local bodies, and aided institutions are excluded."
-        },
-        {
-          "icon": "calendar",
-          "title": "Outside 25 to 60 years",
-          "sub": "Only women aged 25 to 60 who are permanent residents of West Bengal qualify."
-        }
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "\ud83d\udcc4 Who Is Eligible for Annapurna Bhandar in 2026 (more)",
-      "content": [
-        "Women aged below 25 are not eligible. This is a change from the old Lakshmir Bhandar scheme which covered women from age 21.",
-        "Women who were receiving Lakshmir Bhandar and are now aged 22-24 were removed from the list during the migration audit. They will become eligible when they turn 25.",
-        "The upper age limit of 60 years means women above 60 are not covered by Annapurna Bhandar. However, women above 60 may be eligible for the Jai Johar scheme (for SC/ST elderly women) or Old Age Allowance programmes run by the state.",
-        "The income tax payer rule catches more families than people expect. If a salaried adult child in the house files a return, the mother can become ineligible even when the family feels low income.",
-        "Permanent and retired government staff are excluded too, including teaching and non-teaching staff in government aided institutions. A regular government pension also counts as disqualifying."
-      ]
-    },
-    {
-      "type": "icon_list",
-      "heading": "Who Still Qualifies",
-      "items": [
-        {
-          "icon": "check",
-          "title": "Informal and self-employed women",
-          "sub": "Domestic workers, farm and daily-wage workers, small-business owners, and homemakers all qualify."
-        },
-        {
-          "icon": "users",
-          "title": "Any marital status",
-          "sub": "Widowed, separated, and married women qualify on the same terms."
-        },
-        {
-          "icon": "info",
-          "title": "No general income ceiling",
-          "sub": "The disqualifiers are the listed categories, not a family income cap."
-        }
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "\ud83d\udcc4 Who Is Eligible for Annapurna Bhandar in 2026 (more 2)",
-      "content": [
-        "The marital status does not affect eligibility - what matters is age, residence, and the absence of the disqualifying conditions (government employment, ITR filing). This is an important feature for women in difficult personal circumstances who may otherwise feel they need a male household head to access welfare schemes.",
-        "A widow living alone, a separated woman, and a married woman all qualify on the same terms. You do not need a male household head to access Annapurna Bhandar."
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "\ud83d\udcc4 Who Is Eligible for Annapurna Bhandar in 2026 (part 2)",
-      "content": [
-        "One nuance on the government employee disqualification: the rule applies to permanent or retired employees. Contract workers, daily wage earners, and scheme-based workers (like ASHA workers, Anganwadi workers, mid-day meal workers) who work for government programmes but are not on a permanent salary roll are not automatically disqualified.",
-        "However, ASHA and Anganwadi workers should check with their BSK, as some districts applied the disqualification broadly during the audit.",
-        "Women in tribal areas and in hill districts (Darjeeling, Kalimpong, Alipurduar) who are covered by autonomous bodies rather than the main state government departments should check whether the Annapurna Bhandar covers them. Some tribal sub-plans and autonomous councils have parallel welfare schemes, and the relationship between those and Annapurna Bhandar should be confirmed locally."
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "\ud83d\udcc4 Who Is Eligible for Annapurna Bhandar in 2026 (more 3)",
-      "content": [
-        "For Aadhaar-bank linking: the most reliable way to check is at myaadhaar.uidai.gov.in/bank-seeding-status using your Aadhaar number and mobile OTP. The page shows which bank account your Aadhaar is currently mapped to for DBT purposes.",
-        "If the account shown is old, closed, or different from where you expect to receive the payment, visit your bank to update the Aadhaar-DBT mapping.",
-        "The most reliable way to check your Aadhaar to bank link is at myaadhaar.uidai.gov.in/bank-seeding-status with an OTP. If the mapped account is old or closed, your bank can update the DBT mapping."
-      ]
-    },
-    {
-      "type": "pullquote",
-      "icon": "\ud83d\udcac",
-      "text": "Of the 2.2 crore Lakshmir Bhandar beneficiaries, approximately 30 lakh were removed during the June 2026 audit. That is roughly 1 in 7.<br><br>The most common reasons: government employee or pensioner in the household, income tax return filed by a family member, or age below 25. If you were removed and believe the reason is incorrect, the appeal window is open - but the burden is on the applicant to show the disqualifying condition does not apply."
-    },
-    {
-      "type": "process_flow",
-      "heading": "How to Apply Fresh",
-      "steps": [
-        {
-          "icon": "file",
-          "title": "Download or collect the form",
-          "desc": "Get it at socialsecurity.wb.gov.in, or at Duare Sarkar camps, BSK, or gram panchayat offices."
-        },
-        {
-          "icon": "file",
-          "title": "Attach documents",
-          "desc": "Aadhaar copy, bank passbook copy, and a passport-size photograph."
-        },
-        {
-          "icon": "users",
-          "title": "Submit locally",
-          "desc": "Hand it in at your gram panchayat for rural or BSK centre for urban, before August 25, 2026."
-        }
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "\ud83d\udcc4 New Applications and What to Do If You Were Removed (more)",
-      "content": [
-        "For women who were on Lakshmir Bhandar but were removed during the audit: the first step is to check your status at socialsecurity.wb.gov.in to confirm the reason for removal. If the reason is government employment, and you are no longer employed or the employment entry is wrong, you need to provide a document proving current non-employment - a service termination letter, resignation acceptance, or a declaration from the employer.",
-        "If you were removed for government employment but no longer hold that job, gather a service termination or resignation acceptance letter. Submit it through the grievance process so your record can be corrected."
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "\ud83d\udcc4 New Applications and What to Do If You Were Removed (continued)",
-      "content": [
-        "If the removal reason was 'income taxpayer' but no one in your family files an ITR, the most likely cause is a database linking error - perhaps a family member with the same name filed an ITR, or a previous employer filed Form 16 that was counted. In this case, obtain a certificate from the IT department (or an income declaration) and submit it through the grievance redressal process.",
-        "For women aged 22-24 who were removed because of the raised age floor (25 years): you do not need to take any action now. When you turn 25, your eligibility resumes and you can apply fresh.",
-        "The system should recognise your previous Lakshmir Bhandar history, which may help with faster verification."
-      ]
-    },
-    {
-      "type": "icon_list",
-      "heading": "Bank Account Cautions",
-      "items": [
-        {
-          "icon": "alert",
-          "title": "Check your IFSC after a merger",
-          "sub": "A merged bank may have changed your IFSC. A wrong one returns the payment and delays it by a month."
-        },
-        {
-          "icon": "x",
-          "title": "No joint accounts",
-          "sub": "The account must be in the woman's sole name. Open a solo DBT-linked account if you only share one."
-        },
-        {
-          "icon": "file",
-          "title": "Use Duare Sarkar camps",
-          "sub": "These doorstep camps are the easiest place for applications, status, and grievances."
-        }
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "\ud83d\udcc4 New Applications and What to Do If You Were Removed (part 2)",
-      "content": [
-        "For women who were never enrolled in Lakshmir Bhandar - because they missed the original enrollment windows or were not aware of the scheme - Annapurna Bhandar is a fresh opportunity. The 90-day enrollment window gives first-time applicants until August 25, 2026.",
-        "After this window, it is not clear whether the government will open another round of fresh applications. Applying before the deadline is strongly advisable.",
-        "Joint bank accounts are not accepted for Annapurna Bhandar DBT payments. The bank account must be in the sole name of the beneficiary woman.",
-        "If you only have a joint account with your husband or another family member, open a new solo account before applying. Many state bank branches have simplified processes for opening accounts under welfare schemes - ask specifically for a DBT-linked savings account."
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "\ud83d\udcc4 New Applications and What to Do If You Were Removed (more 3)",
-      "content": [
-        "The \u20b93,000 monthly payment is credited directly to the bank account with no conditions on how it is spent. There are no requirements to show receipts, attend training, or produce certificates of usage.",
-        "The scheme is a direct income support payment. This unconditional structure is deliberate - it ensures the money reaches the woman without creating barriers that many low-income families cannot overcome.",
-        "The \u20b93,000 is paid with no conditions on how you spend it. There are no receipts to keep, no training to attend, and no usage certificate to produce.",
-        "This unconditional design is deliberate. It makes sure the money reaches the woman without paperwork hurdles that many low income families cannot clear."
-      ]
-    },
-    {
-      "type": "icon_list",
-      "heading": "Other Schemes and Grievances",
-      "items": [
-        {
-          "icon": "check",
-          "title": "No conflict with other schemes",
-          "sub": "You can hold Annapurna Bhandar alongside Kanyashree or Rupashree. Each has its own eligibility."
-        },
-        {
-          "icon": "file",
-          "title": "Grievance path",
-          "sub": "The District Social Welfare Officer is the first authority. Payment issues go to the District Programme Officer."
-        },
-        {
-          "icon": "arrow",
-          "title": "Final escalation",
-          "sub": "No response within 30 days means you approach the District Magistrate's public grievance window."
-        }
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "\ud83d\udcc4 New Applications and What to Do If You Were Removed (more 4)",
-      "content": [
-        "Some women have asked whether receiving Annapurna Bhandar affects their eligibility for central government schemes like PM Matru Vandana Yojana or Pradhan Mantri Jeevan Jyoti Bima. The short answer is: no.",
-        "Annapurna Bhandar is a state-level income support scheme and is not counted as disqualifying income or benefit for any central government scheme that this guide is aware of. However, always confirm with the specific scheme's implementing office for the most current rules.",
-        "Receiving Annapurna Bhandar does not block central schemes like PM Matru Vandana Yojana or Jeevan Jyoti Bima. It is state income support and is not counted as disqualifying income, though you should confirm with each scheme's office."
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "\ud83d\udcc4 New Applications and What to Do If You Were Removed (part 4)",
-      "content": [
-        "Finally, on the question of whether the \u20b93,000 will increase further: the new government has framed Annapurna Bhandar as an improved version of its predecessor, and there is political momentum behind women-targeted welfare transfers in West Bengal. Whether the amount is revised upward in subsequent state budgets is speculative.",
-        "For planning purposes, the current confirmed amount is \u20b93,000 per month. Check socialsecurity.wb.gov.in for any official announcements.",
-        "New applicants have only until August 25, 2026 in this window. It is not clear whether another round opens after that, so applying before the deadline is the safe choice."
-      ]
-    },
-    {
-      "type": "info_rows",
-      "heading": "Quick Facts: Lakshmir Bhandar / Annapurna Bhandar 2026",
-      "icon": "\u2139\ufe0f",
-      "rows": [
-        {
-          "label": "Old scheme name",
-          "value": "Lakshmir Bhandar (launched 2021)"
-        },
-        {
-          "label": "New scheme name",
-          "value": "Annapurna Bhandar / Annapurna Yojana (effective June 2026)"
-        },
-        {
-          "label": "New amount",
-          "value": "\u20b93,000/month (all categories, paid via DBT)"
-        },
-        {
-          "label": "Old amounts",
-          "value": "\u20b91,500/month (General), \u20b91,700/month (SC/ST)"
-        },
-        {
-          "label": "Age eligibility",
-          "value": "25 to 60 years"
-        },
-        {
-          "label": "Disqualifying conditions",
-          "value": "Income taxpayer in family, government employee/pensioner, aided school staff"
-        },
-        {
-          "label": "Existing beneficiaries",
-          "value": "Auto-migrated (~2 crore); ~30 lakh removed in audit"
-        },
-        {
-          "label": "New application window",
-          "value": "June 1 to August 25, 2026"
-        },
-        {
-          "label": "Status check portal",
-          "value": "socialsecurity.wb.gov.in"
-        },
-        {
-          "label": "Application registration",
-          "value": "socialregistry.wb.gov.in"
-        }
-      ]
+     "icon": "info",
+     "title": "No general income ceiling",
+     "sub": "The disqualifiers are the listed categories, not a family income cap."
     }
-  ],
-  "faqs": [
+   ]
+  },
+  {
+   "type": "text",
+   "heading": "📄 Who Is Eligible for Annapurna Bhandar in 2026 (more 2)",
+   "content": [
+    "The marital status does not affect eligibility - what matters is age, residence, and the absence of the disqualifying conditions (government employment, ITR filing). This is an important feature for women in difficult personal circumstances who may otherwise feel they need a male household head to access welfare schemes.",
+    "A widow living alone, a separated woman, and a married woman all qualify on the same terms. You do not need a male household head to access Annapurna Bhandar."
+   ]
+  },
+  {
+   "type": "text",
+   "heading": "📄 Who Is Eligible for Annapurna Bhandar in 2026 (part 2)",
+   "content": [
+    "One nuance on the government employee disqualification: the rule applies to permanent or retired employees. Contract workers, daily wage earners, and scheme-based workers (like ASHA workers, Anganwadi workers, mid-day meal workers) who work for government programmes but are not on a permanent salary roll are not automatically disqualified.",
+    "However, ASHA and Anganwadi workers should check with their BSK, as some districts applied the disqualification broadly during the audit.",
+    "Women in tribal areas and in hill districts (Darjeeling, Kalimpong, Alipurduar) who are covered by autonomous bodies rather than the main state government departments should check whether the Annapurna Bhandar covers them. Some tribal sub-plans and autonomous councils have parallel welfare schemes, and the relationship between those and Annapurna Bhandar should be confirmed locally."
+   ]
+  },
+  {
+   "type": "text",
+   "heading": "📄 Who Is Eligible for Annapurna Bhandar in 2026 (more 3)",
+   "content": [
+    "For Aadhaar-bank linking: the most reliable way to check is at myaadhaar.uidai.gov.in/bank-seeding-status using your Aadhaar number and mobile OTP. The page shows which bank account your Aadhaar is currently mapped to for DBT purposes.",
+    "If the account shown is old, closed, or different from where you expect to receive the payment, visit your bank to update the Aadhaar-DBT mapping.",
+    "The most reliable way to check your Aadhaar to bank link is at myaadhaar.uidai.gov.in/bank-seeding-status with an OTP. If the mapped account is old or closed, your bank can update the DBT mapping."
+   ]
+  },
+  {
+   "type": "pullquote",
+   "icon": "💬",
+   "text": "Of the 2.2 crore Lakshmir Bhandar beneficiaries, approximately 30 lakh were removed during the June 2026 audit. That is roughly 1 in 7.<br><br>The most common reasons: government employee or pensioner in the household, income tax return filed by a family member, or age below 25. If you were removed and believe the reason is incorrect, the appeal window is open - but the burden is on the applicant to show the disqualifying condition does not apply."
+  },
+  {
+   "type": "process_flow",
+   "heading": "How to Apply Fresh",
+   "steps": [
     {
-      "question": "What happened to Lakshmir Bhandar status check in 2026?",
-      "answer": "Lakshmir Bhandar was replaced by Annapurna Bhandar from June 2026. Status check still happens at the same portal - socialsecurity.wb.gov.in.<br><br>Go to Track Applicant Status, enter your mobile number, complete the CAPTCHA, and submit. The portal shows whether you have been migrated to Annapurna Bhandar (\u20b93,000/month), are under review, or were removed during the audit."
+     "icon": "file",
+     "title": "Download or collect the form",
+     "desc": "Get it at socialsecurity.wb.gov.in, or at Duare Sarkar camps, BSK, or gram panchayat offices."
     },
     {
-      "question": "Is Lakshmir Bhandar still active or replaced?",
-      "answer": "Lakshmir Bhandar has been officially replaced by Annapurna Bhandar from June 1/3, 2026. The new scheme pays \u20b93,000/month to all eligible women, compared to \u20b91,500 (General) and \u20b91,700 (SC/ST) under the old scheme.<br><br>Existing verified Lakshmir Bhandar beneficiaries were automatically migrated. New applicants must apply fresh before August 25, 2026."
+     "icon": "file",
+     "title": "Attach documents",
+     "desc": "Aadhaar copy, bank passbook copy, and a passport-size photograph."
     },
     {
-      "question": "My Lakshmir Bhandar payment stopped in June 2026. What do I do?",
-      "answer": "Check your status at socialsecurity.wb.gov.in to see the reason. Common reasons for removal: someone in your family is a government employee or pensioner, someone in your family files an income tax return, your age is below 25, or your Aadhaar-bank link is broken.<br><br>Based on the reason, gather the relevant document proving the condition does not apply and submit a grievance through the portal or at your local BSK or gram panchayat."
-    },
-    {
-      "question": "What is the new Annapurna Bhandar scheme eligibility?",
-      "answer": "Women aged 25 to 60 years who are permanent residents of West Bengal. Ineligible if: anyone in the household files an income tax return, the woman is a permanent or retired government employee or pensioner, or she works in a government-aided educational institution.<br><br>No category distinction - all eligible women receive \u20b93,000/month."
-    },
-    {
-      "question": "How do I apply for Annapurna Bhandar if I was never on Lakshmir Bhandar?",
-      "answer": "Download the application form from socialsecurity.wb.gov.in or collect it from a BSK centre, gram panchayat office, or Duare Sarkar camp. Fill in the form, attach your Aadhaar, bank passbook, and a photograph.<br><br>Submit at your gram panchayat (rural) or BSK (urban) before August 25, 2026. This is the 90-day enrollment window for new applicants."
-    },
-    {
-      "question": "I was removed from Lakshmir Bhandar because of income tax but no one in my family files ITR. What should I do?",
-      "answer": "This is likely a database error - possibly a family member with the same name, or a former employer who filed Form 16 that was flagged. Collect an income declaration or certificate from the Income Tax department showing no ITR is filed for your family.<br><br>Submit this through the grievance section at socialsecurity.wb.gov.in or in person at the district women and child development office."
-    },
-    {
-      "question": "Does Annapurna Bhandar cover women above 60?",
-      "answer": "No, the upper age limit for Annapurna Bhandar is 60 years. Women above 60 may be eligible for other state welfare schemes - the Old Age Allowance scheme and, for SC/ST women, the Jai Johar scheme.<br><br>These are separate applications from Annapurna Bhandar."
-    },
-    {
-      "question": "Can a woman with a small business or self-employment income get Annapurna Bhandar?",
-      "answer": "Yes, as long as she is not an income taxpayer. Self-employed women, small traders, agricultural workers, and homemakers are eligible.<br><br>The key disqualifier is filing an income tax return - not having income itself. As long as the family's income is below the ITR filing threshold and no family member files a return, the woman can apply."
-    },
-    {
-      "question": "Do existing Lakshmir Bhandar beneficiaries need to apply again?",
-      "answer": "No, about 2 crore verified beneficiaries were auto-migrated to Annapurna Bhandar at \u20b93,000 from June 2026 with no fresh application. Only women never enrolled before need to apply afresh."
-    },
-    {
-      "question": "Can a widowed or separated woman get Annapurna Bhandar?",
-      "answer": "Yes, marital status does not affect eligibility. What matters is being aged 25 to 60, a West Bengal resident, and not an income tax payer, government employee, or pensioner."
-    },
-    {
-      "question": "When does the Annapurna Bhandar application window close?",
-      "answer": "New applicants have a 90 day window that runs until August 25, 2026. It is not confirmed whether another round will open afterward, so applying before the deadline is the safe choice."
+     "icon": "users",
+     "title": "Submit locally",
+     "desc": "Hand it in at your gram panchayat for rural or BSK centre for urban, before August 25, 2026."
     }
-  ],
-  "affiliate_kotak": true
+   ]
+  },
+  {
+   "type": "text",
+   "heading": "📄 New Applications and What to Do If You Were Removed (more)",
+   "content": [
+    "For women who were on Lakshmir Bhandar but were removed during the audit: the first step is to check your status at socialsecurity.wb.gov.in to confirm the reason for removal. If the reason is government employment, and you are no longer employed or the employment entry is wrong, you need to provide a document proving current non-employment - a service termination letter, resignation acceptance, or a declaration from the employer.",
+    "If you were removed for government employment but no longer hold that job, gather a service termination or resignation acceptance letter. Submit it through the grievance process so your record can be corrected."
+   ]
+  },
+  {
+   "type": "text",
+   "heading": "📄 New Applications and What to Do If You Were Removed (continued)",
+   "content": [
+    "If the removal reason was 'income taxpayer' but no one in your family files an ITR, the most likely cause is a database linking error - perhaps a family member with the same name filed an ITR, or a previous employer filed Form 16 that was counted. In this case, obtain a certificate from the IT department (or an income declaration) and submit it through the grievance redressal process.",
+    "For women aged 22-24 who were removed because of the raised age floor (25 years): you do not need to take any action now. When you turn 25, your eligibility resumes and you can apply fresh.",
+    "The system should recognise your previous Lakshmir Bhandar history, which may help with faster verification."
+   ]
+  },
+  {
+   "type": "icon_list",
+   "heading": "Bank Account Cautions",
+   "items": [
+    {
+     "icon": "alert",
+     "title": "Check your IFSC after a merger",
+     "sub": "A merged bank may have changed your IFSC. A wrong one returns the payment and delays it by a month."
+    },
+    {
+     "icon": "x",
+     "title": "No joint accounts",
+     "sub": "The account must be in the woman's sole name. Open a solo DBT-linked account if you only share one."
+    },
+    {
+     "icon": "file",
+     "title": "Use Duare Sarkar camps",
+     "sub": "These doorstep camps are the easiest place for applications, status, and grievances."
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "heading": "📄 New Applications and What to Do If You Were Removed (part 2)",
+   "content": [
+    "For women who were never enrolled in Lakshmir Bhandar - because they missed the original enrollment windows or were not aware of the scheme - Annapurna Bhandar is a fresh opportunity. The 90-day enrollment window gives first-time applicants until August 25, 2026.",
+    "After this window, it is not clear whether the government will open another round of fresh applications. Applying before the deadline is strongly advisable.",
+    "Joint bank accounts are not accepted for Annapurna Bhandar DBT payments. The bank account must be in the sole name of the beneficiary woman.",
+    "If you only have a joint account with your husband or another family member, open a new solo account before applying. Many state bank branches have simplified processes for opening accounts under welfare schemes - ask specifically for a DBT-linked savings account."
+   ]
+  },
+  {
+   "type": "text",
+   "heading": "📄 New Applications and What to Do If You Were Removed (more 3)",
+   "content": [
+    "The ₹3,000 monthly payment is credited directly to the bank account with no conditions on how it is spent. There are no requirements to show receipts, attend training, or produce certificates of usage.",
+    "The scheme is a direct income support payment. This unconditional structure is deliberate - it ensures the money reaches the woman without creating barriers that many low-income families cannot overcome.",
+    "The ₹3,000 is paid with no conditions on how you spend it. There are no receipts to keep, no training to attend, and no usage certificate to produce.",
+    "This unconditional design is deliberate. It makes sure the money reaches the woman without paperwork hurdles that many low income families cannot clear."
+   ]
+  },
+  {
+   "type": "icon_list",
+   "heading": "Other Schemes and Grievances",
+   "items": [
+    {
+     "icon": "check",
+     "title": "No conflict with other schemes",
+     "sub": "You can hold Annapurna Bhandar alongside Kanyashree or Rupashree. Each has its own eligibility."
+    },
+    {
+     "icon": "file",
+     "title": "Grievance path",
+     "sub": "The District Social Welfare Officer is the first authority. Payment issues go to the District Programme Officer."
+    },
+    {
+     "icon": "arrow",
+     "title": "Final escalation",
+     "sub": "No response within 30 days means you approach the District Magistrate's public grievance window."
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "heading": "📄 New Applications and What to Do If You Were Removed (more 4)",
+   "content": [
+    "Some women have asked whether receiving Annapurna Bhandar affects their eligibility for central government schemes like PM Matru Vandana Yojana or Pradhan Mantri Jeevan Jyoti Bima. The short answer is: no.",
+    "Annapurna Bhandar is a state-level income support scheme and is not counted as disqualifying income or benefit for any central government scheme that this guide is aware of. However, always confirm with the specific scheme's implementing office for the most current rules.",
+    "Receiving Annapurna Bhandar does not block central schemes like PM Matru Vandana Yojana or Jeevan Jyoti Bima. It is state income support and is not counted as disqualifying income, though you should confirm with each scheme's office."
+   ]
+  },
+  {
+   "type": "text",
+   "heading": "📄 New Applications and What to Do If You Were Removed (part 4)",
+   "content": [
+    "Finally, on the question of whether the ₹3,000 will increase further: the new government has framed Annapurna Bhandar as an improved version of its predecessor, and there is political momentum behind women-targeted welfare transfers in West Bengal. Whether the amount is revised upward in subsequent state budgets is speculative.",
+    "For planning purposes, the current confirmed amount is ₹3,000 per month. Check socialsecurity.wb.gov.in for any official announcements.",
+    "New applicants have only until August 25, 2026 in this window. It is not clear whether another round opens after that, so applying before the deadline is the safe choice."
+   ]
+  },
+  {
+   "type": "info_rows",
+   "heading": "Quick Facts: Lakshmir Bhandar / Annapurna Bhandar 2026",
+   "icon": "ℹ️",
+   "rows": [
+    {
+     "label": "Old scheme name",
+     "value": "Lakshmir Bhandar (launched 2021)"
+    },
+    {
+     "label": "New scheme name",
+     "value": "Annapurna Bhandar / Annapurna Yojana (effective June 2026)"
+    },
+    {
+     "label": "New amount",
+     "value": "₹3,000/month (all categories, paid via DBT)"
+    },
+    {
+     "label": "Old amounts",
+     "value": "₹1,500/month (General), ₹1,700/month (SC/ST)"
+    },
+    {
+     "label": "Age eligibility",
+     "value": "25 to 60 years"
+    },
+    {
+     "label": "Disqualifying conditions",
+     "value": "Income taxpayer in family, government employee/pensioner, aided school staff"
+    },
+    {
+     "label": "Existing beneficiaries",
+     "value": "Auto-migrated (~2 crore); ~30 lakh removed in audit"
+    },
+    {
+     "label": "New application window",
+     "value": "June 1 to August 25, 2026"
+    },
+    {
+     "label": "Status check portal",
+     "value": "socialsecurity.wb.gov.in"
+    },
+    {
+     "label": "Application registration",
+     "value": "socialregistry.wb.gov.in"
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "What happened to Lakshmir Bhandar status check in 2026?",
+   "answer": "Lakshmir Bhandar was replaced by Annapurna Bhandar from June 2026. Status check still happens at the same portal - socialsecurity.wb.gov.in.<br><br>Go to Track Applicant Status, enter your mobile number, complete the CAPTCHA, and submit. The portal shows whether you have been migrated to Annapurna Bhandar (₹3,000/month), are under review, or were removed during the audit."
+  },
+  {
+   "question": "Is Lakshmir Bhandar still active or replaced?",
+   "answer": "Lakshmir Bhandar has been officially replaced by Annapurna Bhandar from June 1/3, 2026. The new scheme pays ₹3,000/month to all eligible women, compared to ₹1,500 (General) and ₹1,700 (SC/ST) under the old scheme.<br><br>Existing verified Lakshmir Bhandar beneficiaries were automatically migrated. New applicants must apply fresh before August 25, 2026."
+  },
+  {
+   "question": "My Lakshmir Bhandar payment stopped in June 2026. What do I do?",
+   "answer": "Check your status at socialsecurity.wb.gov.in to see the reason. Common reasons for removal: someone in your family is a government employee or pensioner, someone in your family files an income tax return, your age is below 25, or your Aadhaar-bank link is broken.<br><br>Based on the reason, gather the relevant document proving the condition does not apply and submit a grievance through the portal or at your local BSK or gram panchayat."
+  },
+  {
+   "question": "What is the new Annapurna Bhandar scheme eligibility?",
+   "answer": "Women aged 25 to 60 years who are permanent residents of West Bengal. Ineligible if: anyone in the household files an income tax return, the woman is a permanent or retired government employee or pensioner, or she works in a government-aided educational institution.<br><br>No category distinction - all eligible women receive ₹3,000/month."
+  },
+  {
+   "question": "How do I apply for Annapurna Bhandar if I was never on Lakshmir Bhandar?",
+   "answer": "Download the application form from socialsecurity.wb.gov.in or collect it from a BSK centre, gram panchayat office, or Duare Sarkar camp. Fill in the form, attach your Aadhaar, bank passbook, and a photograph.<br><br>Submit at your gram panchayat (rural) or BSK (urban) before August 25, 2026. This is the 90-day enrollment window for new applicants."
+  },
+  {
+   "question": "I was removed from Lakshmir Bhandar because of income tax but no one in my family files ITR. What should I do?",
+   "answer": "This is likely a database error - possibly a family member with the same name, or a former employer who filed Form 16 that was flagged. Collect an income declaration or certificate from the Income Tax department showing no ITR is filed for your family.<br><br>Submit this through the grievance section at socialsecurity.wb.gov.in or in person at the district women and child development office."
+  },
+  {
+   "question": "Does Annapurna Bhandar cover women above 60?",
+   "answer": "No, the upper age limit for Annapurna Bhandar is 60 years. Women above 60 may be eligible for other state welfare schemes - the Old Age Allowance scheme and, for SC/ST women, the Jai Johar scheme.<br><br>These are separate applications from Annapurna Bhandar."
+  },
+  {
+   "question": "Can a woman with a small business or self-employment income get Annapurna Bhandar?",
+   "answer": "Yes, as long as she is not an income taxpayer. Self-employed women, small traders, agricultural workers, and homemakers are eligible.<br><br>The key disqualifier is filing an income tax return - not having income itself. As long as the family's income is below the ITR filing threshold and no family member files a return, the woman can apply."
+  },
+  {
+   "question": "Do existing Lakshmir Bhandar beneficiaries need to apply again?",
+   "answer": "No, about 2 crore verified beneficiaries were auto-migrated to Annapurna Bhandar at ₹3,000 from June 2026 with no fresh application. Only women never enrolled before need to apply afresh."
+  },
+  {
+   "question": "Can a widowed or separated woman get Annapurna Bhandar?",
+   "answer": "Yes, marital status does not affect eligibility. What matters is being aged 25 to 60, a West Bengal resident, and not an income tax payer, government employee, or pensioner."
+  },
+  {
+   "question": "When does the Annapurna Bhandar application window close?",
+   "answer": "New applicants have a 90 day window that runs until August 25, 2026. It is not confirmed whether another round will open afterward, so applying before the deadline is the safe choice."
+  }
+ ]
 }

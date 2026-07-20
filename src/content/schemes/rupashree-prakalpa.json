@@ -1,711 +1,710 @@
 {
-  "slug": "rupashree-prakalpa",
-  "title": "Rupashree Prakalpa 2026: Status Check, Form, \u20b925,000",
-  "meta_description": "Rupashree Prakalpa 2026: \u20b925,000 marriage grant for WB women. Check status at rupashree.wb.gov.in, eligibility, form, and why payments fail.",
-  "hero": {
-    "icon": "\ud83d\udc8d",
-    "one_liner": "West Bengal's one-time \u20b925,000 marriage grant for women from low-income families. How to check status, fill the form, and avoid the conditions that block payment.",
-    "updated_date": "June 2026",
-    "stats": [
-      {
-        "label": "One-Time Grant",
-        "value": "\u20b925,000"
-      },
-      {
-        "label": "Income Limit",
-        "value": "\u20b91.5 Lakh/yr"
-      },
-      {
-        "label": "Bride's Age",
-        "value": "18+ years"
-      },
-      {
-        "label": "Portal",
-        "value": "rupashree.wb.gov.in"
-      }
-    ]
+ "slug": "rupashree-prakalpa",
+ "title": "Rupashree Prakalpa 2026: Status Check, Form, ₹25,000",
+ "meta_description": "Rupashree Prakalpa 2026: ₹25,000 marriage grant for WB women. Check status at rupashree.wb.gov.in, eligibility, form, and why payments fail.",
+ "hero": {
+  "icon": "💍",
+  "one_liner": "West Bengal's one-time ₹25,000 marriage grant for women from low-income families. How to check status, fill the form, and avoid the conditions that block payment.",
+  "updated_date": "June 2026",
+  "stats": [
+   {
+    "label": "One-Time Grant",
+    "value": "₹25,000"
+   },
+   {
+    "label": "Income Limit",
+    "value": "₹1.5 Lakh/yr"
+   },
+   {
+    "label": "Bride's Age",
+    "value": "18+ years"
+   },
+   {
+    "label": "Portal",
+    "value": "rupashree.wb.gov.in"
+   }
+  ]
+ },
+ "quick_actions": [
+  {
+   "icon": "🔍",
+   "label": "Check status",
+   "url": "https://rupashree.wb.gov.in/search-applicant/search-by-applicant"
   },
-  "quick_actions": [
+  {
+   "icon": "📄",
+   "label": "Form PDF",
+   "url": "https://bsk.wb.gov.in"
+  },
+  {
+   "icon": "✅",
+   "label": "Eligibility",
+   "url": "/check-eligibility"
+  }
+ ],
+ "what_is_it": [
+  "Rupashree Prakalpa is a West Bengal government scheme that pays a one-time grant of ₹25,000 to women from low-income families at the time of their first marriage. It is run by the Women and Child Development and Social Welfare Department.",
+  "It was launched to ease the financial burden of marriage for poor families and to discourage child marriage. The money is paid directly to the bride's own bank account."
+ ],
+ "eligibility": [
+  {
+   "label": "Bride's age",
+   "value": "18 years or above on the marriage date, unmarried at application.",
+   "highlight": true
+  },
+  {
+   "label": "Marriage",
+   "value": "Must be the bride's first marriage.",
+   "highlight": false
+  },
+  {
+   "label": "Groom's age",
+   "value": "21 years or above.",
+   "highlight": false
+  },
+  {
+   "label": "Residence",
+   "value": "Permanent resident of West Bengal.",
+   "highlight": true
+  },
+  {
+   "label": "Income",
+   "value": "Family annual income not more than ₹1.5 lakh from all sources.",
+   "highlight": true
+  },
+  {
+   "label": "Bank",
+   "value": "Bride's own NEFT-enabled bank account in her sole name.",
+   "highlight": false
+  }
+ ],
+ "eligibility_filters": {
+  "states": [
+   "west-bengal"
+  ],
+  "gender": "female",
+  "age_min": 18,
+  "age_max": 60,
+  "income_max": 150000,
+  "notes": "One-time marriage grant. Bride 18+, first marriage, groom 21+, WB resident, family income under ₹1.5 lakh."
+ },
+ "how_to_apply": [
+  {
+   "step": 1,
+   "title": "Get the form",
+   "description": "Collect it from a Bangla Sahayata Kendra, Gram Panchayat, or Block office, or download via bsk.wb.gov.in."
+  },
+  {
+   "step": 2,
+   "title": "Fill in the details",
+   "description": "Enter the bride's details, the groom's name and age, and the proposed marriage date accurately."
+  },
+  {
+   "step": 3,
+   "title": "Attach documents",
+   "description": "Add age proof, income certificate, residence proof, bank passbook copy and photographs."
+  },
+  {
+   "step": 4,
+   "title": "Submit in the window",
+   "description": "Submit at the local BDO, SDO or Municipal office between 30 and 60 days before the wedding."
+  },
+  {
+   "step": 5,
+   "title": "Save your Applicant ID",
+   "description": "Collect the signed acknowledgement and note your Applicant ID to track status later."
+  }
+ ],
+ "official_portal": {
+  "name": "Rupashree Prakalpa Portal",
+  "url": "https://rupashree.wb.gov.in"
+ },
+ "related_pages": [
+  {
+   "title": "Kanyashree Prakalpa",
+   "slug": "kanyashree-prakalpa",
+   "tag": "Women Welfare",
+   "url": "/yojana/kanyashree-prakalpa"
+  },
+  {
+   "title": "Lakshmir Bhandar",
+   "slug": "lakshmir-bhandar",
+   "tag": "Women Welfare",
+   "url": "/yojana/lakshmir-bhandar"
+  },
+  {
+   "title": "Saboojsathi",
+   "slug": "saboojsathi",
+   "tag": "Education",
+   "url": "/yojana/saboojsathi"
+  }
+ ],
+ "tags": [
+  "West Bengal",
+  "Women Welfare",
+  "Marriage Grant",
+  "Rupashree",
+  "DBT"
+ ],
+ "ministry": "Women and Child Development and Social Welfare Department, Government of West Bengal",
+ "launch_year": 2018,
+ "category": "women",
+ "state": "west-bengal",
+ "last_reviewed": "June 2026",
+ "extra_sections": [
+  {
+   "type": "stat_grid",
+   "heading": "Rupashree Prakalpa Key Numbers",
+   "icon": "📊",
+   "items": [
     {
-      "icon": "\ud83d\udd0d",
-      "label": "Check status",
-      "url": "https://rupashree.wb.gov.in/search-applicant/search-by-applicant"
+     "icon": "trophy",
+     "value": "₹25,000",
+     "label": "One-Time Grant",
+     "color": "green"
     },
     {
-      "icon": "\ud83d\udcc4",
-      "label": "Form PDF",
-      "url": "https://bsk.wb.gov.in"
+     "icon": "users",
+     "value": "₹1.5 Lakh/year",
+     "label": "Income Limit",
+     "color": "amber"
     },
     {
-      "icon": "\u2705",
-      "label": "Eligibility",
-      "url": "/check-eligibility"
+     "icon": "calendar",
+     "value": "18+ years",
+     "label": "Bride's Age",
+     "color": "blue"
+    },
+    {
+     "icon": "shield",
+     "value": "21+ years",
+     "label": "Groom's Age",
+     "color": "green"
     }
-  ],
-  "what_is_it": [
-    "Rupashree Prakalpa is a West Bengal government scheme that pays a one-time grant of \u20b925,000 to women from low-income families at the time of their first marriage. It is run by the Women and Child Development and Social Welfare Department.",
-    "It was launched to ease the financial burden of marriage for poor families and to discourage child marriage. The money is paid directly to the bride's own bank account."
-  ],
-  "eligibility": [
+   ]
+  },
+  {
+   "type": "eligibility_check",
+   "heading": "Who qualifies",
+   "icon": "✅",
+   "qualify": [
+    "Bride aged 18 or above on the marriage date",
+    "First marriage, unmarried at application",
+    "Groom aged 21 or above",
+    "WB resident, family income under ₹1.5 lakh/yr",
+    "Bride's own NEFT-enabled bank account"
+   ],
+   "disqualify": [
+    "Second or repeat marriage",
+    "Family income above ₹1.5 lakh a year",
+    "Groom under 21 years",
+    "Not a West Bengal resident",
+    "Bank account not in bride's own name"
+   ]
+  },
+  {
+   "type": "steps",
+   "heading": "How to Check Rupashree Status 2026",
+   "icon": "🔍",
+   "steps": [
     {
-      "label": "Bride's age",
-      "value": "18 years or above on the marriage date, unmarried at application.",
-      "highlight": true
+     "step": 1,
+     "title": "Go to the official Rupashree portal",
+     "description": "Visit rupashree.wb.gov.in. This is the official West Bengal government portal for the scheme.<br><br>Do not use any third-party website for status checks - only the official portal has accurate real-time data."
     },
     {
-      "label": "Marriage",
-      "value": "Must be the bride's first marriage.",
-      "highlight": false
+     "step": 2,
+     "title": "Click 'Search Applicant' or 'Check Status'",
+     "description": "On the portal, find the option to search your application. You will be asked to enter your Applicant ID or application reference number along with the application year."
     },
     {
-      "label": "Groom's age",
-      "value": "21 years or above.",
-      "highlight": false
+     "step": 3,
+     "title": "Enter your Applicant ID and year",
+     "description": "Type your Applicant ID exactly as shown on your acknowledgment receipt. Select the correct application year.<br><br>Enter the CAPTCHA code and click Submit."
     },
     {
-      "label": "Residence",
-      "value": "Permanent resident of West Bengal.",
-      "highlight": true
+     "step": 4,
+     "title": "Read the status carefully",
+     "description": "The status page shows where your application is in the approval pipeline: submitted, under verification, approved, payment initiated, or paid. If the status shows 'rejected' or 'returned', a reason is typically noted.<br><br>Note that 'approved' and 'paid' are different statuses - approval means the grant decision was made, but the money still needs to reach your bank."
     },
     {
-      "label": "Income",
-      "value": "Family annual income not more than \u20b91.5 lakh from all sources.",
-      "highlight": true
-    },
-    {
-      "label": "Bank",
-      "value": "Bride's own NEFT-enabled bank account in her sole name.",
-      "highlight": false
+     "step": 5,
+     "title": "If payment shows initiated but money not received",
+     "description": "Check whether your bank account is Aadhaar-seeded and NEFT-enabled. Also check at myaadhaar.uidai.gov.in/bank-seeding-status to confirm the bank link is active.<br><br>If seeding is inactive, visit your bank to reactivate the link before contacting the scheme office."
     }
-  ],
-  "eligibility_filters": {
-    "states": [
-      "west-bengal"
+   ]
+  },
+  {
+   "type": "text",
+   "heading": "What Is Rupashree Prakalpa and Who Runs It",
+   "content": [
+    "Rupashree Prakalpa is a West Bengal government scheme that provides a one-time financial grant of ₹25,000 to women from economically weaker families at the time of their first marriage. The scheme is run by the Women and Child Development and Social Welfare Department, Government of West Bengal.",
+    "The scheme was launched to prevent two specific harms: family financial hardship caused by the cost of marriage for families below a certain income level, and child marriage. The eligibility conditions - bride must be at least 18 and groom at least 21 - are aligned with India's legal marriage age requirements, and the scheme only applies to a first marriage."
+   ]
+  },
+  {
+   "type": "icon_list",
+   "heading": "How the Grant Reaches You",
+   "items": [
+    {
+     "icon": "wallet",
+     "title": "Direct to the bride",
+     "sub": "₹25,000 is transferred to the bride's own bank account. It is not given to the family or as a cheque."
+    },
+    {
+     "icon": "file",
+     "title": "Apply through BSK or online",
+     "sub": "Submit at a Bangla Sahayata Kendra or the portal, 30 to 60 days before the marriage date."
+    },
+    {
+     "icon": "users",
+     "title": "Urban and rural both covered",
+     "sub": "Urban applicants use the BSK or municipal office. Rural applicants go through the Gram Panchayat or BSK."
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "heading": "📄 What Is Rupashree Prakalpa and Who Runs It (continued)",
+   "content": [
+    "Rural applicants go through their Gram Panchayat or BSK. Both streams feed into the same online portal and the same approval pipeline.",
+    "The rupashree status check is the most searched aspect of the scheme because the grant is time-sensitive. Families apply before the marriage and expect payment before the ceremony.",
+    "Understanding the status pipeline is critical to knowing whether to follow up or whether the payment is simply in process.",
+    "Rupashree Prakalpa is separate from the central government's Pradhan Mantri Matru Vandana Yojana (PMMVY), which supports pregnant women financially. Rupashree is a state marriage grant - it is paid once, at the time of marriage, and is not linked to any post-marriage scheme or maternity benefit.",
+    "The grant follows the bride, not the household. Even when her parents apply for her, the ₹25,000 reaches only her own sole bank account."
+   ]
+  },
+  {
+   "type": "process_flow",
+   "heading": "Where Rupashree Fits Among WB Women's Schemes",
+   "steps": [
+    {
+     "icon": "sparkles",
+     "title": "Kanyashree Prakalpa",
+     "desc": "Supports girls through school and college education."
+    },
+    {
+     "icon": "trophy",
+     "title": "Rupashree Prakalpa",
+     "desc": "A one-time ₹25,000 grant at the time of first marriage."
+    },
+    {
+     "icon": "wallet",
+     "title": "Lakshmir Bhandar / Annapurna Bhandar",
+     "desc": "Monthly support for women as household heads after marriage."
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "heading": "📄 What Is Rupashree Prakalpa and Who Runs It (part 2)",
+   "content": [
+    "The implementing machinery involves Bangla Sahayata Kendras as the primary citizen touchpoint, Block Development Officers and Sub-Divisional Officers for verification, and the district administration for final approval. Payment flows through PFMS (Public Financial Management System), which is the central government's payment infrastructure also used by Aadhaar-linked DBT schemes across India.",
+    "For women in municipalities and Kolkata Metropolitan Area, the implementation route is slightly different - Municipal Corporation offices and municipal wards process these applications rather than BDOs. The approval pipeline is similar but goes through the urban local body administration instead of block-level machinery.",
+    "When the BDO or SDO calls for verification, keep the bride's Aadhaar, the groom's age proof, and the income papers ready at home. A missing document at this stage is a common reason a valid file slips into the next quarter's queue.",
+    "If your area falls under a municipality or the Kolkata Metropolitan Area, your file moves through the municipal ward office rather than the block. The steps are the same, only the verifying office changes."
+   ]
+  },
+  {
+   "type": "table",
+   "heading": "Rupashree Prakalpa Eligibility: Full Conditions",
+   "icon": "✅",
+   "columns": [
+    "Condition",
+    "Requirement"
+   ],
+   "rows": [
+    [
+     "Bride's age",
+     "18 years or above on the date of marriage"
     ],
-    "gender": "female",
-    "age_min": 18,
-    "age_max": 60,
-    "income_max": 150000,
-    "notes": "One-time marriage grant. Bride 18+, first marriage, groom 21+, WB resident, family income under \u20b91.5 lakh."
+    [
+     "Marital status",
+     "Unmarried at time of application; must be first marriage"
+    ],
+    [
+     "Groom's age",
+     "21 years or above"
+    ],
+    [
+     "Domicile",
+     "Born in WB, OR resident of WB for 5+ years, OR parents are permanent WB residents"
+    ],
+    [
+     "Family income",
+     "Annual income from all sources not exceeding ₹1.5 lakh"
+    ],
+    [
+     "Bank account",
+     "Own bank account (sole holder), must be NEFT-enabled with IFS and MICR codes"
+    ],
+    [
+     "Application timing",
+     "Submitted 30 to 60 days before the proposed marriage date"
+    ],
+    [
+     "Marriage type",
+     "First marriage only - divorced, widowed, or remarrying women are not eligible"
+    ]
+   ]
   },
-  "how_to_apply": [
+  {
+   "type": "icon_list",
+   "heading": "What the Rupashree Form Asks For",
+   "items": [
     {
-      "step": 1,
-      "title": "Get the form",
-      "description": "Collect it from a Bangla Sahayata Kendra, Gram Panchayat, or Block office, or download via bsk.wb.gov.in."
+     "icon": "file",
+     "title": "Download or pick up",
+     "sub": "Get it at bsk.wb.gov.in/download/RupashreeApplicationForm.pdf, or any BSK, Gram Panchayat, or district BSK centre."
     },
     {
-      "step": 2,
-      "title": "Fill in the details",
-      "description": "Enter the bride's details, the groom's name and age, and the proposed marriage date accurately."
+     "icon": "users",
+     "title": "Bride's details",
+     "sub": "Name, age, address, and Aadhaar number."
     },
     {
-      "step": 3,
-      "title": "Attach documents",
-      "description": "Add age proof, income certificate, residence proof, bank passbook copy and photographs."
+     "icon": "users",
+     "title": "Groom's details",
+     "sub": "The proposed groom's name and age."
     },
     {
-      "step": 4,
-      "title": "Submit in the window",
-      "description": "Submit at the local BDO, SDO or Municipal office between 30 and 60 days before the wedding."
+     "icon": "calendar",
+     "title": "Proposed marriage date",
+     "sub": "Cross-checked against your submission date to verify the 30 to 60 day window."
     },
     {
-      "step": 5,
-      "title": "Save your Applicant ID",
-      "description": "Collect the signed acknowledgement and note your Applicant ID to track status later."
+     "icon": "wallet",
+     "title": "Income declaration",
+     "sub": "Annual family income from all sources, self-certified unless the BDO or SDO asks for a certificate."
+    },
+    {
+     "icon": "shield",
+     "title": "Bank account",
+     "sub": "The bride's own sole account in an NEFT-enabled bank. Joint and cooperative-bank accounts are not accepted."
     }
-  ],
-  "official_portal": {
-    "name": "Rupashree Prakalpa Portal",
-    "url": "https://rupashree.wb.gov.in"
+   ]
   },
-  "related_pages": [
+  {
+   "type": "text",
+   "heading": "📄 Rupashree Form PDF: What to Fill and Where to Get It (more)",
+   "content": [
+    "In most cases, a self-declaration on the form is sufficient, but some districts additionally require an income certificate from the competent authority. Check your local BSK for district-specific requirements.",
+    "Bank account details must be for the bride's own sole account. A joint account is not accepted.",
+    "The account must be in an NEFT-enabled bank - this means cooperative banks that do not participate in NEFT are not accepted. If you only have an account in a cooperative bank, open a new account in a nationalised or scheduled commercial bank before submitting the form.",
+    "Write the honest combined family income on the form, not just the father's earnings. If a field officer later finds the real income was understated, the application can be cancelled even after it was approved.",
+    "Keep a photocopy of the filled form with the acknowledgment slip. The Applicant ID printed on that slip is the only key you have to track the application later."
+   ]
+  },
+  {
+   "type": "icon_list",
+   "heading": "Documents to Attach With the Form",
+   "items": [
     {
-      "title": "Kanyashree Prakalpa",
-      "slug": "kanyashree-prakalpa",
-      "tag": "Women Welfare",
-      "url": "/yojana/kanyashree-prakalpa"
+     "icon": "file",
+     "title": "Bride's Aadhaar card",
+     "sub": "Used as the main identity and age proof for the bride."
     },
     {
-      "title": "Lakshmir Bhandar",
-      "slug": "lakshmir-bhandar",
-      "tag": "Women Welfare",
-      "url": "/yojana/lakshmir-bhandar"
+     "icon": "file",
+     "title": "Groom's age proof",
+     "sub": "Aadhaar, birth certificate, or school leaving certificate showing date of birth."
     },
     {
-      "title": "Saboojsathi",
-      "slug": "saboojsathi",
-      "tag": "Education",
-      "url": "/yojana/saboojsathi"
+     "icon": "file",
+     "title": "Address proof",
+     "sub": "Any valid proof of the bride's residence."
+    },
+    {
+     "icon": "wallet",
+     "title": "Bride's bank passbook copy",
+     "sub": "Showing the sole account where the grant will be sent."
+    },
+    {
+     "icon": "users",
+     "title": "Passport-size photograph",
+     "sub": "A recent photo of the bride."
+    },
+    {
+     "icon": "info",
+     "title": "Ration card",
+     "sub": "Asked for by some districts as a family document."
     }
-  ],
-  "tags": [
-    "West Bengal",
-    "Women Welfare",
-    "Marriage Grant",
-    "Rupashree",
-    "DBT"
-  ],
-  "ministry": "Women and Child Development and Social Welfare Department, Government of West Bengal",
-  "launch_year": 2018,
-  "category": "women",
-  "state": "west-bengal",
-  "last_reviewed": "June 2026",
-  "extra_sections": [
+   ]
+  },
+  {
+   "type": "text",
+   "heading": "📄 Rupashree Form PDF: What to Fill and Where to Get It (more 2)",
+   "content": [
+    "It is the only identifier you can use to check your rupashree status online. If you lose it, you need to visit the BSK or GP office in person with your Aadhaar to retrieve it from their records.",
+    "A practical tip about the income declaration: if the family has multiple earning members (father, mother, older siblings), the form asks for total family income from all sources. Many families underestimate this because they only count the main earning member.",
+    "If your district insists on a separate income certificate, apply for it at the BDO or SDO office about a week before you submit. These certificates take a few days, and a late one can push you past the 60 day cut-off."
+   ]
+  },
+  {
+   "type": "modern_callout",
+   "variant": "info",
+   "icon": "info",
+   "title": "Before you apply, check two things",
+   "content": "Confirm your Aadhaar is seeded to your bank account, and that the account is in your own name only.<br><br>These two checks prevent the most common reason approved Rupashree payments never arrive."
+  },
+  {
+   "type": "text",
+   "heading": "📄 Rupashree Form PDF: What to Fill and Where to Get It (part 2)",
+   "content": [
+    "The income limit is ₹1.5 lakh per year for the entire household. This is not per capita - it is total household income from agriculture, employment, business, and any other source combined.",
+    "Some families ask whether they need to register their marriage before applying. Rupashree does not require a marriage certificate at the time of application - the application is filed before the marriage happens.",
+    "After the wedding, some districts may ask for a marriage certificate as a post-disbursement document for their records, but this is not a standard requirement across all districts and is not a condition for payment."
+   ]
+  },
+  {
+   "type": "modern_callout",
+   "variant": "warning",
+   "icon": "alert",
+   "title": "The 30-60 Day Window: The Most Common Application Error",
+   "content": "The application must be submitted at least 30 days before the wedding and no more than 60 days before. If you submit 28 days before, it is rejected.<br><br>If you submit 65 days before, it is also rejected.<br><br>Most families apply very close to the wedding when marriage preparations are already stressful. The 30-day minimum exists so the system has time to verify documents and approve payment before the ceremony.<br><br>Applying at day 59 gives the system only a day of buffer.<br><br>The practical advice: submit on day 55 or 56 before the wedding. That's close enough to have a confirmed marriage date, but gives the system almost a month to process and you a few days to follow up if there's a problem."
+  },
+  {
+   "type": "icon_list",
+   "heading": "Common Reasons Rupashree Payments Fail",
+   "items": [
     {
-      "type": "stat_grid",
-      "heading": "Rupashree Prakalpa Key Numbers",
-      "icon": "\ud83d\udcca",
-      "items": [
-        {
-          "icon": "trophy",
-          "value": "\u20b925,000",
-          "label": "One-Time Grant",
-          "color": "green"
-        },
-        {
-          "icon": "users",
-          "value": "\u20b91.5 Lakh/year",
-          "label": "Income Limit",
-          "color": "amber"
-        },
-        {
-          "icon": "calendar",
-          "value": "18+ years",
-          "label": "Bride's Age",
-          "color": "blue"
-        },
-        {
-          "icon": "shield",
-          "value": "21+ years",
-          "label": "Groom's Age",
-          "color": "green"
-        }
-      ]
+     "icon": "alert",
+     "title": "Aadhaar not seeded to the bank",
+     "sub": "PFMS pays only Aadhaar-linked accounts. Check at myaadhaar.uidai.gov.in/bank-seeding-status and submit a Bank Consent Form if inactive."
     },
     {
-      "type": "eligibility_check",
-      "heading": "Who qualifies",
-      "icon": "\u2705",
-      "qualify": [
-        "Bride aged 18 or above on the marriage date",
-        "First marriage, unmarried at application",
-        "Groom aged 21 or above",
-        "WB resident, family income under \u20b91.5 lakh/yr",
-        "Bride's own NEFT-enabled bank account"
-      ],
-      "disqualify": [
-        "Second or repeat marriage",
-        "Family income above \u20b91.5 lakh a year",
-        "Groom under 21 years",
-        "Not a West Bengal resident",
-        "Bank account not in bride's own name"
-      ]
+     "icon": "alert",
+     "title": "Cooperative bank or post office",
+     "sub": "Accounts that cannot receive NEFT fail. Rupashree needs a bank with IFSC and MICR that processes NEFT."
     },
     {
-      "type": "steps",
-      "heading": "How to Check Rupashree Status 2026",
-      "icon": "\ud83d\udd0d",
-      "steps": [
-        {
-          "step": 1,
-          "title": "Go to the official Rupashree portal",
-          "description": "Visit rupashree.wb.gov.in. This is the official West Bengal government portal for the scheme.<br><br>Do not use any third-party website for status checks - only the official portal has accurate real-time data."
-        },
-        {
-          "step": 2,
-          "title": "Click 'Search Applicant' or 'Check Status'",
-          "description": "On the portal, find the option to search your application. You will be asked to enter your Applicant ID or application reference number along with the application year."
-        },
-        {
-          "step": 3,
-          "title": "Enter your Applicant ID and year",
-          "description": "Type your Applicant ID exactly as shown on your acknowledgment receipt. Select the correct application year.<br><br>Enter the CAPTCHA code and click Submit."
-        },
-        {
-          "step": 4,
-          "title": "Read the status carefully",
-          "description": "The status page shows where your application is in the approval pipeline: submitted, under verification, approved, payment initiated, or paid. If the status shows 'rejected' or 'returned', a reason is typically noted.<br><br>Note that 'approved' and 'paid' are different statuses - approval means the grant decision was made, but the money still needs to reach your bank."
-        },
-        {
-          "step": 5,
-          "title": "If payment shows initiated but money not received",
-          "description": "Check whether your bank account is Aadhaar-seeded and NEFT-enabled. Also check at myaadhaar.uidai.gov.in/bank-seeding-status to confirm the bank link is active.<br><br>If seeding is inactive, visit your bank to reactivate the link before contacting the scheme office."
-        }
-      ]
+     "icon": "alert",
+     "title": "Name mismatch",
+     "sub": "The names on Aadhaar, the bank account, and the form must match exactly, or PFMS fails."
     },
     {
-      "type": "text",
-      "heading": "What Is Rupashree Prakalpa and Who Runs It",
-      "content": [
-        "Rupashree Prakalpa is a West Bengal government scheme that provides a one-time financial grant of \u20b925,000 to women from economically weaker families at the time of their first marriage. The scheme is run by the Women and Child Development and Social Welfare Department, Government of West Bengal.",
-        "The scheme was launched to prevent two specific harms: family financial hardship caused by the cost of marriage for families below a certain income level, and child marriage. The eligibility conditions - bride must be at least 18 and groom at least 21 - are aligned with India's legal marriage age requirements, and the scheme only applies to a first marriage."
-      ]
+     "icon": "alert",
+     "title": "Invalid IFSC after a merger",
+     "sub": "Old prefixes like BKDN or ALLA may no longer be valid. Get the current IFSC from your branch."
     },
     {
-      "type": "icon_list",
-      "heading": "How the Grant Reaches You",
-      "items": [
-        {
-          "icon": "wallet",
-          "title": "Direct to the bride",
-          "sub": "\u20b925,000 is transferred to the bride's own bank account. It is not given to the family or as a cheque."
-        },
-        {
-          "icon": "file",
-          "title": "Apply through BSK or online",
-          "sub": "Submit at a Bangla Sahayata Kendra or the portal, 30 to 60 days before the marriage date."
-        },
-        {
-          "icon": "users",
-          "title": "Urban and rural both covered",
-          "sub": "Urban applicants use the BSK or municipal office. Rural applicants go through the Gram Panchayat or BSK."
-        }
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "\ud83d\udcc4 What Is Rupashree Prakalpa and Who Runs It (continued)",
-      "content": [
-        "Rural applicants go through their Gram Panchayat or BSK. Both streams feed into the same online portal and the same approval pipeline.",
-        "The rupashree status check is the most searched aspect of the scheme because the grant is time-sensitive. Families apply before the marriage and expect payment before the ceremony.",
-        "Understanding the status pipeline is critical to knowing whether to follow up or whether the payment is simply in process.",
-        "Rupashree Prakalpa is separate from the central government's Pradhan Mantri Matru Vandana Yojana (PMMVY), which supports pregnant women financially. Rupashree is a state marriage grant - it is paid once, at the time of marriage, and is not linked to any post-marriage scheme or maternity benefit.",
-        "The grant follows the bride, not the household. Even when her parents apply for her, the \u20b925,000 reaches only her own sole bank account."
-      ]
-    },
-    {
-      "type": "process_flow",
-      "heading": "Where Rupashree Fits Among WB Women's Schemes",
-      "steps": [
-        {
-          "icon": "sparkles",
-          "title": "Kanyashree Prakalpa",
-          "desc": "Supports girls through school and college education."
-        },
-        {
-          "icon": "trophy",
-          "title": "Rupashree Prakalpa",
-          "desc": "A one-time \u20b925,000 grant at the time of first marriage."
-        },
-        {
-          "icon": "wallet",
-          "title": "Lakshmir Bhandar / Annapurna Bhandar",
-          "desc": "Monthly support for women as household heads after marriage."
-        }
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "\ud83d\udcc4 What Is Rupashree Prakalpa and Who Runs It (part 2)",
-      "content": [
-        "The implementing machinery involves Bangla Sahayata Kendras as the primary citizen touchpoint, Block Development Officers and Sub-Divisional Officers for verification, and the district administration for final approval. Payment flows through PFMS (Public Financial Management System), which is the central government's payment infrastructure also used by Aadhaar-linked DBT schemes across India.",
-        "For women in municipalities and Kolkata Metropolitan Area, the implementation route is slightly different - Municipal Corporation offices and municipal wards process these applications rather than BDOs. The approval pipeline is similar but goes through the urban local body administration instead of block-level machinery.",
-        "When the BDO or SDO calls for verification, keep the bride's Aadhaar, the groom's age proof, and the income papers ready at home. A missing document at this stage is a common reason a valid file slips into the next quarter's queue.",
-        "If your area falls under a municipality or the Kolkata Metropolitan Area, your file moves through the municipal ward office rather than the block. The steps are the same, only the verifying office changes."
-      ]
-    },
-    {
-      "type": "table",
-      "heading": "Rupashree Prakalpa Eligibility: Full Conditions",
-      "icon": "\u2705",
-      "columns": [
-        "Condition",
-        "Requirement"
-      ],
-      "rows": [
-        [
-          "Bride's age",
-          "18 years or above on the date of marriage"
-        ],
-        [
-          "Marital status",
-          "Unmarried at time of application; must be first marriage"
-        ],
-        [
-          "Groom's age",
-          "21 years or above"
-        ],
-        [
-          "Domicile",
-          "Born in WB, OR resident of WB for 5+ years, OR parents are permanent WB residents"
-        ],
-        [
-          "Family income",
-          "Annual income from all sources not exceeding \u20b91.5 lakh"
-        ],
-        [
-          "Bank account",
-          "Own bank account (sole holder), must be NEFT-enabled with IFS and MICR codes"
-        ],
-        [
-          "Application timing",
-          "Submitted 30 to 60 days before the proposed marriage date"
-        ],
-        [
-          "Marriage type",
-          "First marriage only - divorced, widowed, or remarrying women are not eligible"
-        ]
-      ]
-    },
-    {
-      "type": "icon_list",
-      "heading": "What the Rupashree Form Asks For",
-      "items": [
-        {
-          "icon": "file",
-          "title": "Download or pick up",
-          "sub": "Get it at bsk.wb.gov.in/download/RupashreeApplicationForm.pdf, or any BSK, Gram Panchayat, or district BSK centre."
-        },
-        {
-          "icon": "users",
-          "title": "Bride's details",
-          "sub": "Name, age, address, and Aadhaar number."
-        },
-        {
-          "icon": "users",
-          "title": "Groom's details",
-          "sub": "The proposed groom's name and age."
-        },
-        {
-          "icon": "calendar",
-          "title": "Proposed marriage date",
-          "sub": "Cross-checked against your submission date to verify the 30 to 60 day window."
-        },
-        {
-          "icon": "wallet",
-          "title": "Income declaration",
-          "sub": "Annual family income from all sources, self-certified unless the BDO or SDO asks for a certificate."
-        },
-        {
-          "icon": "shield",
-          "title": "Bank account",
-          "sub": "The bride's own sole account in an NEFT-enabled bank. Joint and cooperative-bank accounts are not accepted."
-        }
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "\ud83d\udcc4 Rupashree Form PDF: What to Fill and Where to Get It (more)",
-      "content": [
-        "In most cases, a self-declaration on the form is sufficient, but some districts additionally require an income certificate from the competent authority. Check your local BSK for district-specific requirements.",
-        "Bank account details must be for the bride's own sole account. A joint account is not accepted.",
-        "The account must be in an NEFT-enabled bank - this means cooperative banks that do not participate in NEFT are not accepted. If you only have an account in a cooperative bank, open a new account in a nationalised or scheduled commercial bank before submitting the form.",
-        "Write the honest combined family income on the form, not just the father's earnings. If a field officer later finds the real income was understated, the application can be cancelled even after it was approved.",
-        "Keep a photocopy of the filled form with the acknowledgment slip. The Applicant ID printed on that slip is the only key you have to track the application later."
-      ]
-    },
-    {
-      "type": "icon_list",
-      "heading": "Documents to Attach With the Form",
-      "items": [
-        {
-          "icon": "file",
-          "title": "Bride's Aadhaar card",
-          "sub": "Used as the main identity and age proof for the bride."
-        },
-        {
-          "icon": "file",
-          "title": "Groom's age proof",
-          "sub": "Aadhaar, birth certificate, or school leaving certificate showing date of birth."
-        },
-        {
-          "icon": "file",
-          "title": "Address proof",
-          "sub": "Any valid proof of the bride's residence."
-        },
-        {
-          "icon": "wallet",
-          "title": "Bride's bank passbook copy",
-          "sub": "Showing the sole account where the grant will be sent."
-        },
-        {
-          "icon": "users",
-          "title": "Passport-size photograph",
-          "sub": "A recent photo of the bride."
-        },
-        {
-          "icon": "info",
-          "title": "Ration card",
-          "sub": "Asked for by some districts as a family document."
-        }
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "\ud83d\udcc4 Rupashree Form PDF: What to Fill and Where to Get It (more 2)",
-      "content": [
-        "It is the only identifier you can use to check your rupashree status online. If you lose it, you need to visit the BSK or GP office in person with your Aadhaar to retrieve it from their records.",
-        "A practical tip about the income declaration: if the family has multiple earning members (father, mother, older siblings), the form asks for total family income from all sources. Many families underestimate this because they only count the main earning member.",
-        "If your district insists on a separate income certificate, apply for it at the BDO or SDO office about a week before you submit. These certificates take a few days, and a late one can push you past the 60 day cut-off."
-      ]
-    },
-    {
-      "type": "modern_callout",
-      "variant": "info",
-      "icon": "info",
-      "title": "Before you apply, check two things",
-      "content": "Confirm your Aadhaar is seeded to your bank account, and that the account is in your own name only.<br><br>These two checks prevent the most common reason approved Rupashree payments never arrive."
-    },
-    {
-      "type": "text",
-      "heading": "\ud83d\udcc4 Rupashree Form PDF: What to Fill and Where to Get It (part 2)",
-      "content": [
-        "The income limit is \u20b91.5 lakh per year for the entire household. This is not per capita - it is total household income from agriculture, employment, business, and any other source combined.",
-        "Some families ask whether they need to register their marriage before applying. Rupashree does not require a marriage certificate at the time of application - the application is filed before the marriage happens.",
-        "After the wedding, some districts may ask for a marriage certificate as a post-disbursement document for their records, but this is not a standard requirement across all districts and is not a condition for payment."
-      ]
-    },
-    {
-      "type": "modern_callout",
-      "variant": "warning",
-      "icon": "alert",
-      "title": "The 30-60 Day Window: The Most Common Application Error",
-      "content": "The application must be submitted at least 30 days before the wedding and no more than 60 days before. If you submit 28 days before, it is rejected.<br><br>If you submit 65 days before, it is also rejected.<br><br>Most families apply very close to the wedding when marriage preparations are already stressful. The 30-day minimum exists so the system has time to verify documents and approve payment before the ceremony.<br><br>Applying at day 59 gives the system only a day of buffer.<br><br>The practical advice: submit on day 55 or 56 before the wedding. That's close enough to have a confirmed marriage date, but gives the system almost a month to process and you a few days to follow up if there's a problem."
-    },
-    {
-      "type": "icon_list",
-      "heading": "Common Reasons Rupashree Payments Fail",
-      "items": [
-        {
-          "icon": "alert",
-          "title": "Aadhaar not seeded to the bank",
-          "sub": "PFMS pays only Aadhaar-linked accounts. Check at myaadhaar.uidai.gov.in/bank-seeding-status and submit a Bank Consent Form if inactive."
-        },
-        {
-          "icon": "alert",
-          "title": "Cooperative bank or post office",
-          "sub": "Accounts that cannot receive NEFT fail. Rupashree needs a bank with IFSC and MICR that processes NEFT."
-        },
-        {
-          "icon": "alert",
-          "title": "Name mismatch",
-          "sub": "The names on Aadhaar, the bank account, and the form must match exactly, or PFMS fails."
-        },
-        {
-          "icon": "alert",
-          "title": "Invalid IFSC after a merger",
-          "sub": "Old prefixes like BKDN or ALLA may no longer be valid. Get the current IFSC from your branch."
-        },
-        {
-          "icon": "calendar",
-          "title": "District quota exhausted",
-          "sub": "If the quarter's allocation is used up, an approved application waits for the next state release."
-        }
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "\ud83d\udcc4 Why Rupashree Payments Fail After Approval (more)",
-      "content": [
-        "Name mismatch is a frequent but overlooked cause. The name on the Aadhaar, the name on the bank account, and the name on the Rupashree application form should match exactly.",
-        "A common case: the Aadhaar has 'Priya Devi' but the bank account was opened in the name 'Priya Ghosh' (married name was added prematurely). PFMS fails on name mismatch.",
-        "Bank mergers have invalidated many IFSC codes in rural West Bengal. If your passbook shows an IFSC code starting with the old bank's prefix (like Dena Bank's BKDN prefix or Allahabad Bank's ALLA prefix), it may no longer be valid.",
-        "Check your own Aadhaar to bank seeding before you even submit. If your Aadhaar is linked to an old account you no longer use, the payment will land there and look lost.",
-        "The fix is one bank visit. Ask the branch to seed your Aadhaar to your current active account for DBT."
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "\ud83d\udcc4 Why Rupashree Payments Fail After Approval (continued)",
-      "content": [
-        "Get the updated IFSC from your bank branch and ensure the form reflects the current IFSC.",
-        "If the payment was initiated but failed, PFMS typically generates a failure message that goes to the district office. The district or BDO then contacts the applicant through the BSK.",
-        "If you haven't heard anything within 2 weeks of an 'approved' status, visit the BSK with your Aadhaar, passbook, and Applicant ID to check whether a failed transfer is waiting for a bank account correction.",
-        "The payment is supposed to reach the bride's account before the marriage date. When it doesn't, families often proceed with the marriage using other funds and wait for the Rupashree grant afterwards.",
-        "If your passbook shows an IFSC from a bank that has since merged, treat it as suspect. Ask the branch for the current IFSC and make sure the form carries the new one."
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "\ud83d\udcc4 Why Rupashree Payments Fail After Approval (more 2)",
-      "content": [
-        "This is permitted - the scheme does not require proof that the grant was used for the wedding. The application just needs to have been submitted in the 30-60 day window.",
-        "Applications filed for marriages that ultimately did not happen (cancellation, postponement beyond the original date) are typically cancelled in the system. If your marriage was postponed, contact the BSK to understand whether you need to file a fresh application with the new date or whether the existing application can be updated.",
-        "Many brides add the husband's surname to the bank account just before the wedding. If the form still carries the maiden name, the two no longer match and PFMS rejects the transfer."
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "\ud83d\udcc4 Why Rupashree Payments Fail After Approval (part 2)",
-      "content": [
-        "A second scenario that causes payment delays: the district quota for Rupashree disbursements in that quarter is exhausted. The state allocates budget district-wise and when a district's quarterly allocation is used up, pending applications are queued for the next release.",
-        "This is not visible in the status check - your application will show 'approved' but payment will not be initiated until the new allocation arrives. This delay is district-specific and not something the applicant can resolve - it resolves when the state releases the next tranche.",
-        "The most effective escalation path if a payment is stuck: go in person to the BSK with your Applicant ID, Aadhaar, bank passbook, and a printout of the approved status from the portal. Ask them to raise a grievance on the district Rupashree portal."
-      ]
-    },
-    {
-      "type": "icon_list",
-      "heading": "If a Rupashree Payment Is Stuck",
-      "items": [
-        {
-          "icon": "file",
-          "title": "Go to the BSK in person",
-          "sub": "Bring your Applicant ID, Aadhaar, passbook, and a printout of the approved status. Ask them to raise a grievance on the district portal."
-        },
-        {
-          "icon": "arrow",
-          "title": "Escalate to the District Magistrate",
-          "sub": "If unresolved within two weeks, send a written application to the DM through the Sub-Divisional Officer."
-        },
-        {
-          "icon": "alert",
-          "title": "Never pay a tout",
-          "sub": "Status checks are free at rupashree.wb.gov.in and need only your Applicant ID. Anyone offering to speed it up for money is a fraud."
-        }
-      ]
-    },
-    {
-      "type": "pullquote",
-      "icon": "\ud83d\udca1",
-      "text": "Rupashree pays \u20b925,000 once to the bride. It does not cover second marriages, marriages of women above 60 income-ineligible families, marriages of women who are not WB residents, or marriages where the groom is under 21.<br><br>These are not edge cases - they are the most common reasons for rejection at district verification."
-    },
-    {
-      "type": "icon_list",
-      "heading": "After You Receive the \u20b925,000",
-      "items": [
-        {
-          "icon": "check",
-          "title": "No usage proof needed",
-          "sub": "The grant is unrestricted in use. The government does not track how it is spent."
-        },
-        {
-          "icon": "file",
-          "title": "Not taxable",
-          "sub": "It is a state welfare grant, not taxable income. Keep the portal record and bank statement."
-        },
-        {
-          "icon": "wallet",
-          "title": "You can still claim other schemes",
-          "sub": "After marriage you may apply for Lakshmir Bhandar or Annapurna Bhandar as an adult woman."
-        }
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "\ud83d\udcc4 After the Wedding: What Comes Next for Rupashree (more)",
-      "content": [
-        "For the income tax return question: the \u20b925,000 received under Rupashree Prakalpa is a state government welfare grant and is not taxable income for the bride. Keep the portal status record and bank statement as documentation in case it is ever questioned.",
-        "After marriage, the bride becomes eligible to apply for Lakshmir Bhandar (or the recently introduced Annapurna Bhandar from June 2026) as an adult woman member of a household. These are separate schemes with their own eligibility criteria.",
-        "Save a screenshot of the approved status and the matching bank credit entry. If a question about the grant ever comes up, those two records settle it without a single office visit."
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "\ud83d\udcc4 After the Wedding: What Comes Next for Rupashree (continued)",
-      "content": [
-        "Rupashree is a one-time pre-marriage grant; the monthly cash schemes are ongoing benefits for women in households.",
-        "There is no scheme under Rupashree for the second child, a second marriage, or any post-marriage financial assistance. Families sometimes ask whether Rupashree can be claimed again in future.",
-        "It cannot. The eligibility condition is that the woman must be unmarried at the time of application and the grant applies only to the first marriage.",
-        "If there was a court marriage or registered marriage before a traditional ceremony and the court marriage date was used as the proposed date, the application timeline still applies from the court marriage date. Some families have both a court marriage and a later traditional ceremony - check with your BSK which date to use as the 'proposed marriage date' in such cases."
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "\ud83d\udcc4 After the Wedding: What Comes Next for Rupashree (more 2)",
-      "content": [
-        "For women who receive the payment but later discover a discrepancy - say the amount credited was less than \u20b925,000 due to a failed partial transfer - this should be reported to the BSK with a bank statement showing the credited amount and the application ID. The BSK raises a discrepancy ticket with the district office for reconciliation.",
-        "There are occasional state-level announcements about revising the Rupashree grant amount. As of June 2026, the amount remains \u20b925,000.",
-        "There is no second Rupashree for a later marriage or a second child. The grant is once in a lifetime, tied to the first marriage only."
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "\ud83d\udcc4 After the Wedding: What Comes Next for Rupashree (part 2)",
-      "content": [
-        "If the state government announces an enhanced amount for a new financial year, existing applications already in the pipeline at the time of the announcement would be processed at the old amount unless the government specifically announces that pending applications qualify for the revised amount. Always verify the current amount at rupashree.wb.gov.in before submitting your application.",
-        "Rupashree has been running since 2018 and has disbursed funds to a large number of beneficiaries across West Bengal. The scheme has been recognised as one of the state's more successfully implemented DBT programmes, primarily because the single-payment structure is simpler to administer than instalments and there is a clear, defined eligibility event (the marriage date) that anchors the entire timeline."
-      ]
-    },
-    {
-      "type": "info_rows",
-      "heading": "Quick Facts: Rupashree Prakalpa 2026",
-      "icon": "\u2139\ufe0f",
-      "rows": [
-        {
-          "label": "Scheme type",
-          "value": "One-time marriage grant for women from low-income families"
-        },
-        {
-          "label": "Run by",
-          "value": "Women and Child Development and Social Welfare Dept, West Bengal"
-        },
-        {
-          "label": "Grant amount",
-          "value": "\u20b925,000 one-time, paid to bride's own bank account via DBT"
-        },
-        {
-          "label": "Income limit",
-          "value": "Family annual income \u2264 \u20b91.5 lakh from all sources"
-        },
-        {
-          "label": "Bride's age",
-          "value": "18+ years; must be unmarried; first marriage only"
-        },
-        {
-          "label": "Groom's age",
-          "value": "21+ years"
-        },
-        {
-          "label": "Application window",
-          "value": "30 to 60 days before proposed marriage date"
-        },
-        {
-          "label": "Portal",
-          "value": "rupashree.wb.gov.in"
-        },
-        {
-          "label": "Form PDF",
-          "value": "bsk.wb.gov.in/download/RupashreeApplicationForm.pdf"
-        },
-        {
-          "label": "Where to apply",
-          "value": "Bangla Sahayata Kendra (BSK) centre or Gram Panchayat"
-        }
-      ]
+     "icon": "calendar",
+     "title": "District quota exhausted",
+     "sub": "If the quarter's allocation is used up, an approved application waits for the next state release."
     }
-  ],
-  "faqs": [
+   ]
+  },
+  {
+   "type": "text",
+   "heading": "📄 Why Rupashree Payments Fail After Approval (more)",
+   "content": [
+    "Name mismatch is a frequent but overlooked cause. The name on the Aadhaar, the name on the bank account, and the name on the Rupashree application form should match exactly.",
+    "A common case: the Aadhaar has 'Priya Devi' but the bank account was opened in the name 'Priya Ghosh' (married name was added prematurely). PFMS fails on name mismatch.",
+    "Bank mergers have invalidated many IFSC codes in rural West Bengal. If your passbook shows an IFSC code starting with the old bank's prefix (like Dena Bank's BKDN prefix or Allahabad Bank's ALLA prefix), it may no longer be valid.",
+    "Check your own Aadhaar to bank seeding before you even submit. If your Aadhaar is linked to an old account you no longer use, the payment will land there and look lost.",
+    "The fix is one bank visit. Ask the branch to seed your Aadhaar to your current active account for DBT."
+   ]
+  },
+  {
+   "type": "text",
+   "heading": "📄 Why Rupashree Payments Fail After Approval (continued)",
+   "content": [
+    "Get the updated IFSC from your bank branch and ensure the form reflects the current IFSC.",
+    "If the payment was initiated but failed, PFMS typically generates a failure message that goes to the district office. The district or BDO then contacts the applicant through the BSK.",
+    "If you haven't heard anything within 2 weeks of an 'approved' status, visit the BSK with your Aadhaar, passbook, and Applicant ID to check whether a failed transfer is waiting for a bank account correction.",
+    "The payment is supposed to reach the bride's account before the marriage date. When it doesn't, families often proceed with the marriage using other funds and wait for the Rupashree grant afterwards.",
+    "If your passbook shows an IFSC from a bank that has since merged, treat it as suspect. Ask the branch for the current IFSC and make sure the form carries the new one."
+   ]
+  },
+  {
+   "type": "text",
+   "heading": "📄 Why Rupashree Payments Fail After Approval (more 2)",
+   "content": [
+    "This is permitted - the scheme does not require proof that the grant was used for the wedding. The application just needs to have been submitted in the 30-60 day window.",
+    "Applications filed for marriages that ultimately did not happen (cancellation, postponement beyond the original date) are typically cancelled in the system. If your marriage was postponed, contact the BSK to understand whether you need to file a fresh application with the new date or whether the existing application can be updated.",
+    "Many brides add the husband's surname to the bank account just before the wedding. If the form still carries the maiden name, the two no longer match and PFMS rejects the transfer."
+   ]
+  },
+  {
+   "type": "text",
+   "heading": "📄 Why Rupashree Payments Fail After Approval (part 2)",
+   "content": [
+    "A second scenario that causes payment delays: the district quota for Rupashree disbursements in that quarter is exhausted. The state allocates budget district-wise and when a district's quarterly allocation is used up, pending applications are queued for the next release.",
+    "This is not visible in the status check - your application will show 'approved' but payment will not be initiated until the new allocation arrives. This delay is district-specific and not something the applicant can resolve - it resolves when the state releases the next tranche.",
+    "The most effective escalation path if a payment is stuck: go in person to the BSK with your Applicant ID, Aadhaar, bank passbook, and a printout of the approved status from the portal. Ask them to raise a grievance on the district Rupashree portal."
+   ]
+  },
+  {
+   "type": "icon_list",
+   "heading": "If a Rupashree Payment Is Stuck",
+   "items": [
     {
-      "question": "How to check rupashree status 2026?",
-      "answer": "Go to rupashree.wb.gov.in, click Search Applicant or Check Status, enter your Applicant ID and the application year, solve the CAPTCHA, and click Submit. Your status will show the current stage: submitted, under verification, approved, payment initiated, or paid."
+     "icon": "file",
+     "title": "Go to the BSK in person",
+     "sub": "Bring your Applicant ID, Aadhaar, passbook, and a printout of the approved status. Ask them to raise a grievance on the district portal."
     },
     {
-      "question": "What is the rupashree prakalpa scheme?",
-      "answer": "Rupashree Prakalpa is a West Bengal government scheme that gives a one-time grant of \u20b925,000 to women from families with annual income below \u20b91.5 lakh at the time of their first marriage. The money is paid directly to the bride's own NEFT-enabled bank account via DBT.<br><br>The bride must be 18+ and the groom 21+."
+     "icon": "arrow",
+     "title": "Escalate to the District Magistrate",
+     "sub": "If unresolved within two weeks, send a written application to the DM through the Sub-Divisional Officer."
     },
     {
-      "question": "Where can I get the rupashree form PDF?",
-      "answer": "Download the form directly from bsk.wb.gov.in/download/RupashreeApplicationForm.pdf. You can also get a physical form from any Bangla Sahayata Kendra, Gram Panchayat office, or BSK centre in your district.<br><br>The same form is used for both urban and rural applications."
-    },
-    {
-      "question": "What is the income limit for rupashree prakalpa?",
-      "answer": "Family annual income from all sources must not exceed \u20b91.5 lakh per year. This is the income of parents or guardian, not just one earning member.<br><br>The income is self-declared on the form in most cases, though some districts may ask for an income certificate from a government authority."
-    },
-    {
-      "question": "Why has my rupashree payment not come even though status shows approved?",
-      "answer": "Approval and payment are two separate steps. Payment can fail if your Aadhaar is not linked to your bank account (check at myaadhaar.uidai.gov.in/bank-seeding-status), if your bank does not support NEFT transfers, or if there is a name mismatch between your Aadhaar and bank account.<br><br>Visit your BSK with your Aadhaar and passbook to investigate."
-    },
-    {
-      "question": "Can a widow or divorced woman apply for rupashree prakalpa?",
-      "answer": "No, rupashree Prakalpa applies only to first marriages. A woman who is a widow or divorced and remarrying is not eligible.<br><br>The eligibility condition specifically requires the woman to be unmarried at the time of application."
-    },
-    {
-      "question": "What if I submit the rupashree form too early or too late?",
-      "answer": "The form must be submitted between 30 and 60 days before the proposed marriage date. If you submit less than 30 days before, it will be rejected.<br><br>If you submit more than 60 days before, it is also rejected. If this happens, you need to resubmit within the valid window."
-    },
-    {
-      "question": "Can women from outside West Bengal who now live in WB apply for rupashree?",
-      "answer": "Yes, if they have been a resident of West Bengal for at least 5 consecutive years, or if their parents are permanent residents of West Bengal. Being born in West Bengal also qualifies.<br><br>A woman who recently moved to WB and has been here for less than 5 years may not qualify unless her parents are WB permanent residents."
-    },
-    {
-      "question": "Can my parents apply for Rupashree on my behalf?",
-      "answer": "Yes, parents or guardians usually fill and submit the form. The bank account on it must still be the bride's own sole account, because the \u20b925,000 is paid only to her."
-    },
-    {
-      "question": "What happens if my marriage is postponed after I apply?",
-      "answer": "Contact your BSK with your Applicant ID as soon as the date changes. Depending on the new date, they will update your existing application or ask you to file a fresh one inside the 30 to 60 day window."
+     "icon": "alert",
+     "title": "Never pay a tout",
+     "sub": "Status checks are free at rupashree.wb.gov.in and need only your Applicant ID. Anyone offering to speed it up for money is a fraud."
     }
-  ],
-  "affiliate_stable": true
+   ]
+  },
+  {
+   "type": "pullquote",
+   "icon": "💡",
+   "text": "Rupashree pays ₹25,000 once to the bride. It does not cover second marriages, marriages of women above 60 income-ineligible families, marriages of women who are not WB residents, or marriages where the groom is under 21.<br><br>These are not edge cases - they are the most common reasons for rejection at district verification."
+  },
+  {
+   "type": "icon_list",
+   "heading": "After You Receive the ₹25,000",
+   "items": [
+    {
+     "icon": "check",
+     "title": "No usage proof needed",
+     "sub": "The grant is unrestricted in use. The government does not track how it is spent."
+    },
+    {
+     "icon": "file",
+     "title": "Not taxable",
+     "sub": "It is a state welfare grant, not taxable income. Keep the portal record and bank statement."
+    },
+    {
+     "icon": "wallet",
+     "title": "You can still claim other schemes",
+     "sub": "After marriage you may apply for Lakshmir Bhandar or Annapurna Bhandar as an adult woman."
+    }
+   ]
+  },
+  {
+   "type": "text",
+   "heading": "📄 After the Wedding: What Comes Next for Rupashree (more)",
+   "content": [
+    "For the income tax return question: the ₹25,000 received under Rupashree Prakalpa is a state government welfare grant and is not taxable income for the bride. Keep the portal status record and bank statement as documentation in case it is ever questioned.",
+    "After marriage, the bride becomes eligible to apply for Lakshmir Bhandar (or the recently introduced Annapurna Bhandar from June 2026) as an adult woman member of a household. These are separate schemes with their own eligibility criteria.",
+    "Save a screenshot of the approved status and the matching bank credit entry. If a question about the grant ever comes up, those two records settle it without a single office visit."
+   ]
+  },
+  {
+   "type": "text",
+   "heading": "📄 After the Wedding: What Comes Next for Rupashree (continued)",
+   "content": [
+    "Rupashree is a one-time pre-marriage grant; the monthly cash schemes are ongoing benefits for women in households.",
+    "There is no scheme under Rupashree for the second child, a second marriage, or any post-marriage financial assistance. Families sometimes ask whether Rupashree can be claimed again in future.",
+    "It cannot. The eligibility condition is that the woman must be unmarried at the time of application and the grant applies only to the first marriage.",
+    "If there was a court marriage or registered marriage before a traditional ceremony and the court marriage date was used as the proposed date, the application timeline still applies from the court marriage date. Some families have both a court marriage and a later traditional ceremony - check with your BSK which date to use as the 'proposed marriage date' in such cases."
+   ]
+  },
+  {
+   "type": "text",
+   "heading": "📄 After the Wedding: What Comes Next for Rupashree (more 2)",
+   "content": [
+    "For women who receive the payment but later discover a discrepancy - say the amount credited was less than ₹25,000 due to a failed partial transfer - this should be reported to the BSK with a bank statement showing the credited amount and the application ID. The BSK raises a discrepancy ticket with the district office for reconciliation.",
+    "There are occasional state-level announcements about revising the Rupashree grant amount. As of June 2026, the amount remains ₹25,000.",
+    "There is no second Rupashree for a later marriage or a second child. The grant is once in a lifetime, tied to the first marriage only."
+   ]
+  },
+  {
+   "type": "text",
+   "heading": "📄 After the Wedding: What Comes Next for Rupashree (part 2)",
+   "content": [
+    "If the state government announces an enhanced amount for a new financial year, existing applications already in the pipeline at the time of the announcement would be processed at the old amount unless the government specifically announces that pending applications qualify for the revised amount. Always verify the current amount at rupashree.wb.gov.in before submitting your application.",
+    "Rupashree has been running since 2018 and has disbursed funds to a large number of beneficiaries across West Bengal. The scheme has been recognised as one of the state's more successfully implemented DBT programmes, primarily because the single-payment structure is simpler to administer than instalments and there is a clear, defined eligibility event (the marriage date) that anchors the entire timeline."
+   ]
+  },
+  {
+   "type": "info_rows",
+   "heading": "Quick Facts: Rupashree Prakalpa 2026",
+   "icon": "ℹ️",
+   "rows": [
+    {
+     "label": "Scheme type",
+     "value": "One-time marriage grant for women from low-income families"
+    },
+    {
+     "label": "Run by",
+     "value": "Women and Child Development and Social Welfare Dept, West Bengal"
+    },
+    {
+     "label": "Grant amount",
+     "value": "₹25,000 one-time, paid to bride's own bank account via DBT"
+    },
+    {
+     "label": "Income limit",
+     "value": "Family annual income ≤ ₹1.5 lakh from all sources"
+    },
+    {
+     "label": "Bride's age",
+     "value": "18+ years; must be unmarried; first marriage only"
+    },
+    {
+     "label": "Groom's age",
+     "value": "21+ years"
+    },
+    {
+     "label": "Application window",
+     "value": "30 to 60 days before proposed marriage date"
+    },
+    {
+     "label": "Portal",
+     "value": "rupashree.wb.gov.in"
+    },
+    {
+     "label": "Form PDF",
+     "value": "bsk.wb.gov.in/download/RupashreeApplicationForm.pdf"
+    },
+    {
+     "label": "Where to apply",
+     "value": "Bangla Sahayata Kendra (BSK) centre or Gram Panchayat"
+    }
+   ]
+  }
+ ],
+ "faqs": [
+  {
+   "question": "How to check rupashree status 2026?",
+   "answer": "Go to rupashree.wb.gov.in, click Search Applicant or Check Status, enter your Applicant ID and the application year, solve the CAPTCHA, and click Submit. Your status will show the current stage: submitted, under verification, approved, payment initiated, or paid."
+  },
+  {
+   "question": "What is the rupashree prakalpa scheme?",
+   "answer": "Rupashree Prakalpa is a West Bengal government scheme that gives a one-time grant of ₹25,000 to women from families with annual income below ₹1.5 lakh at the time of their first marriage. The money is paid directly to the bride's own NEFT-enabled bank account via DBT.<br><br>The bride must be 18+ and the groom 21+."
+  },
+  {
+   "question": "Where can I get the rupashree form PDF?",
+   "answer": "Download the form directly from bsk.wb.gov.in/download/RupashreeApplicationForm.pdf. You can also get a physical form from any Bangla Sahayata Kendra, Gram Panchayat office, or BSK centre in your district.<br><br>The same form is used for both urban and rural applications."
+  },
+  {
+   "question": "What is the income limit for rupashree prakalpa?",
+   "answer": "Family annual income from all sources must not exceed ₹1.5 lakh per year. This is the income of parents or guardian, not just one earning member.<br><br>The income is self-declared on the form in most cases, though some districts may ask for an income certificate from a government authority."
+  },
+  {
+   "question": "Why has my rupashree payment not come even though status shows approved?",
+   "answer": "Approval and payment are two separate steps. Payment can fail if your Aadhaar is not linked to your bank account (check at myaadhaar.uidai.gov.in/bank-seeding-status), if your bank does not support NEFT transfers, or if there is a name mismatch between your Aadhaar and bank account.<br><br>Visit your BSK with your Aadhaar and passbook to investigate."
+  },
+  {
+   "question": "Can a widow or divorced woman apply for rupashree prakalpa?",
+   "answer": "No, rupashree Prakalpa applies only to first marriages. A woman who is a widow or divorced and remarrying is not eligible.<br><br>The eligibility condition specifically requires the woman to be unmarried at the time of application."
+  },
+  {
+   "question": "What if I submit the rupashree form too early or too late?",
+   "answer": "The form must be submitted between 30 and 60 days before the proposed marriage date. If you submit less than 30 days before, it will be rejected.<br><br>If you submit more than 60 days before, it is also rejected. If this happens, you need to resubmit within the valid window."
+  },
+  {
+   "question": "Can women from outside West Bengal who now live in WB apply for rupashree?",
+   "answer": "Yes, if they have been a resident of West Bengal for at least 5 consecutive years, or if their parents are permanent residents of West Bengal. Being born in West Bengal also qualifies.<br><br>A woman who recently moved to WB and has been here for less than 5 years may not qualify unless her parents are WB permanent residents."
+  },
+  {
+   "question": "Can my parents apply for Rupashree on my behalf?",
+   "answer": "Yes, parents or guardians usually fill and submit the form. The bank account on it must still be the bride's own sole account, because the ₹25,000 is paid only to her."
+  },
+  {
+   "question": "What happens if my marriage is postponed after I apply?",
+   "answer": "Contact your BSK with your Applicant ID as soon as the date changes. Depending on the new date, they will update your existing application or ask you to file a fresh one inside the 30 to 60 day window."
+  }
+ ]
 }

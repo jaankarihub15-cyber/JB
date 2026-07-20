@@ -131,28 +131,6 @@ export default async function SchemeDetailPage({ params }: Props) {
               <span>{a.icon}</span>
               {a.label}
             </a>
-            {s.affiliate_kotak && qi === 0 && (
-              <a
-                href="https://linksredirect.com/?cid=301717&source=linkkit&url=https%3A%2F%2Fwww.kotak811.com%2Fopen-zero-balance-savings-account"
-                target="_blank"
-                rel="sponsored noopener"
-                className="flex items-center gap-2 px-4 py-3 rounded-lg bg-green-600 text-white text-sm font-semibold hover:bg-green-700 transition-colors no-underline"
-              >
-                <span>💳</span>
-                Open Free Bank A/C
-              </a>
-            )}
-            {s.affiliate_stable && qi === 0 && (
-              <a
-                href="https://linksredirect.com/?cid=301991&source=linkkit&url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Din.stablemoney.app"
-                target="_blank"
-                rel="sponsored noopener"
-                className="flex items-center gap-2 px-4 py-3 rounded-lg bg-green-600 text-white text-sm font-semibold hover:bg-green-700 transition-colors no-underline"
-              >
-                <span>📈</span>
-                Grow Your Savings in an FD
-              </a>
-            )}
           </Fragment>
         ))}
       </div>
@@ -387,11 +365,6 @@ export default async function SchemeDetailPage({ params }: Props) {
         </>
       )}
 
-      {(s.affiliate_kotak || s.affiliate_stable) && (
-        <p className="mt-6 text-xs text-text-muted italic border-t border-border pt-4">
-          This page contains affiliate links. We may earn a commission if you open an account through them, at no extra cost to you. This never affects our scheme information.
-        </p>
-      )}
       <div className="mt-8 border-t border-border pt-6">
         <PdfSummary title={s.title} stats={s.hero?.stats} faqs={s.faqs} />
         <SourceCitations />
