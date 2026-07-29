@@ -6,7 +6,7 @@
     "status": "upcoming",
     "one_liner": "Tamil Nadu's state services exams - Group 1 for Deputy Collector/DSP, Group 2 for Sub-Registrar, Group 2A for entry-level positions.",
     "icon": "🏛️",
-    "updated_date": "May 2026",
+    "updated_date": "July 2026",
     "stats": [
       {
         "label": "Group 1 Exam",
@@ -590,24 +590,29 @@
   ],
   "important_dates": [
     {
-      "label": "Group 2A Exams",
-      "value": "Ongoing 2026",
+      "label": "Group 1 Notification",
+      "value": "Released 23 June 2026 (26 posts)",
       "highlight": false
     },
     {
-      "label": "Group 1 Exam",
-      "value": "September 6, 2026",
+      "label": "Group 1 Apply Last Date",
+      "value": "29 July 2026",
+      "highlight": true
+    },
+    {
+      "label": "Correction Window",
+      "value": "2 to 4 August 2026",
+      "highlight": false
+    },
+    {
+      "label": "Group 1 Prelims (Revised)",
+      "value": "27 September 2026",
       "highlight": true
     },
     {
       "label": "Group 2 Exam",
       "value": "October 25, 2026",
       "highlight": true
-    },
-    {
-      "label": "Mains/Interview",
-      "value": "Post-Prelims result",
-      "highlight": false
     }
   ],
   "preparation_tips": [
@@ -796,7 +801,7 @@
       }
     ]
   },
-  "last_reviewed": "May 2026",
+  "last_reviewed": "July 2026",
   "category": "state-psc",
   "salary_table": {
     "intro": "TNPSC pay follows the Tamil Nadu 7th Pay Commission. Group 1 officers are among the best-paid state employees, while entry-level Group 4 pay is lower but secure.",
@@ -881,5 +886,11 @@
         "max_age": 32
       }
     ]
-  }
+  },
+  "changes_2026": [
+    "Group 1 Notification 05/2026 was released on 23 June 2026 for 26 vacancies. That is a 63% cut from last cycle.",
+    "Applications close on 29 July 2026 at tnpsc.gov.in. The correction window runs 2-4 August 2026.",
+    "Prelims stands postponed from 6 September to 27 September 2026 via Addendum 5A/2026 dated 16 July.",
+    "DSP post is removed this cycle. Deputy Registrar of Co-operative Societies and District Registrar are added."
+  ]
 }
