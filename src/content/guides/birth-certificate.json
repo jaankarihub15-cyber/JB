@@ -3,9 +3,9 @@
   "title": "Birth Certificate 2026: Apply, Download, Correct Errors",
   "meta_description": "Birth certificate 2026 - apply online via CRS portal, download digital copy, delayed registration process, and correct errors. Step-by-step guide.",
   "hero": {
-    "one_liner": "Register your child's birth, download digital certificate from crsorgi.gov.in, or correct errors - completely online with DigiLocker integration",
+    "one_liner": "Register your child's birth, download digital certificate from dc.crsorgi.gov.in, or correct errors - completely online with DigiLocker integration",
     "icon": "👶",
-    "updated_date": "May 2026",
+    "updated_date": "July 2026",
     "tags": [
       "Certificate",
       "Identity",
@@ -19,7 +19,7 @@
       },
       {
         "label": "Portal",
-        "value": "crsorgi.gov.in"
+        "value": "dc.crsorgi.gov.in"
       },
       {
         "label": "Processing",
@@ -33,30 +33,144 @@
   },
   "sections": [
     {
-      "heading": "Understanding Birth Certificate Types",
+      "type": "stat_grid",
+      "heading": "Birth Certificate 2026: Key Numbers",
+      "icon": "📊",
+      "items": [
+        {
+          "icon": "🆓",
+          "value": "21 days",
+          "label": "Free registration window",
+          "color": "green"
+        },
+        {
+          "icon": "💰",
+          "value": "₹0-100",
+          "label": "Typical fee range by state",
+          "color": "blue"
+        },
+        {
+          "icon": "📅",
+          "value": "1 Oct 2023",
+          "label": "Single-document rule began",
+          "color": "amber"
+        },
+        {
+          "icon": "🌐",
+          "value": "dc.crsorgi.gov.in",
+          "label": "Central CRS portal",
+          "color": "green"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Why birth certificate is essential - 10 uses you need it for",
       "icon": "📋",
-      "type": "text",
       "content": [
-        "Immediate <a href=\"/guide/get-marriage-certificate\" style=\"text-decoration:underline;color:inherit\">Registration</a> (0-21 days): Free registration when birth is reported to the hospital or municipal corporation within 21 days. Most modern hospital births are auto-registered - you just need to download the certificate.",
-        "Late Registration (21 days to 1 year): Registration after the 21-day window. Requires proof of <a href=\"/guide/birth-certificate\" style=\"text-decoration:underline;color:inherit\">birth</a> (vaccination card, school records, hospital discharge).",
-        "Late fee ₹5-50 depending on state.",
-        "Delayed Registration (after 1 year): Requires affidavit, school <a href=\"/guide/apply-obc-certificate\" style=\"text-decoration:underline;color:inherit\">certificate</a>, age proof from multiple sources, and sometimes magistrate's order. Processing takes 30-60 days.",
-        "Correction/Amendment: If certificate has errors in name, date of birth, parents' names, or place of birth, <a href=\"/guide/apply-passport\" style=\"text-decoration:underline;color:inherit\">apply</a> for correction at the registering authority. Processing: 15-30 days, fee ₹10-50."
+        "A birth certificate is India's most fundamental identity document - it proves your date of birth, place of birth, and parentage. You need it for: school admission (mandatory for enrollment in Class 1 and beyond), Aadhaar enrollment (as supporting identity document), passport application (mandatory proof of date of birth and citizenship), government job applications (age verification for eligibility), marriage registration (age proof for legal marriage), voter ID (age verification for electoral roll entry).",
+        "Additional uses: property inheritance claims (proving you're a legal heir), insurance claims (nominee verification), bank account opening for minors (guardian-child relationship proof), and applying for government schemes (Sukanya Samriddhi for girl child requires birth certificate as primary document). Without a birth certificate, you face barriers at every major life milestone.",
+        "The Supreme Court of India has emphasized that birth registration and certification is a fundamental right. The Registration of Births and Deaths (Amendment) Act 2023 made birth certificate a single document for proof of birth for all purposes - Aadhaar enrollment, admission to educational institutions, driving license, government employment, election registration, and more."
+      ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "warning",
+      "icon": "warning",
+      "title": "New Amendment Bill in Parliament (July 2026)",
+      "content": "The Registration of Births and Deaths (Amendment) Bill 2026 was introduced in Parliament in the last week of July. It proposes that delays beyond 2 years will need a First Class Judicial Magistrate order, while 1 to 2 year delays stay with the DM or SDM.<br><br>This is a bill, not law yet. Until it passes, the current rule applies: beyond 1 year needs a DM, SDM, or Executive Magistrate order."
+    },
+    {
+      "type": "text",
+      "heading": "How to register birth and get certificate - within 21 days",
+      "icon": "📝",
+      "content": [
+        "For hospital births: The hospital reports the birth to the local Registrar of Births and Deaths (municipal corporation for urban areas, Gram Panchayat for rural areas) within 21 days. The hospital provides the birth report form with details - child's date and time of birth, gender, weight, mother's name, father's name, and place of birth.",
+        "Parents collect the birth certificate from the municipal/panchayat office after 7-15 days.",
+        "For home births: Parents must report the birth to the local Registrar within 21 days. Visit the nearest municipal office or Gram Panchayat with: a declaration form signed by the person present at the birth (midwife, family member, or doctor), identity proof of both parents (Aadhaar, voter ID), marriage certificate of parents, and proof of residence (ration card, utility bill).",
+        "The Registrar verifies and issues the birth certificate within 7-15 days."
       ]
     },
     {
       "type": "text",
-      "heading": "Eligibility & Who Needs Birth Certificate",
-      "icon": "✅",
+      "heading": "Home Births and Rural Registration",
+      "icon": "🏡",
       "content": [
-        "Any child born in India is eligible to get a birth certificate. The parents or guardians can <a href=\"/guide/apply-domicile-certificate\" style=\"text-decoration:underline;color:inherit\">apply</a> for it. If the child has reached adulthood, they can apply for themselves. For normal registration (free), you must apply within 21 days of birth. For delayed registration, you can apply anytime within 30 years of birth, but you'll need to provide additional documents and pay fees. If the child is over 30 years old and never got a certificate, special affidavit procedures apply. Adopted children, children born to unmarried parents, and children of NRI parents can all get birth certificates. There's no upper age limit for getting a certificate - even if you're 50 and never got one, you can still apply for delayed registration."
+        "Online registration (available in most states): Visit dc.crsorgi.gov.in (Central Registration System for Government of India) or your state's specific portal. Create an account, fill the birth registration form with child and parent details, upload hospital discharge summary or birth report, and submit.",
+        "After verification by the local Registrar (7-15 days), download the digitally signed birth certificate from the portal.",
+        "Fee: Birth registration within 21 days is FREE in most states. Late registration (after 21 days) incurs a nominal fee of Rs 2-50 depending on the state.",
+        "After 1 year, late registration requires an affidavit, magistrate's order, and additional fee of Rs 5-100. After 5 years, registration becomes significantly more complex - requiring court order in some states."
       ]
     },
     {
-      "heading": "",
-      "type": "svg_block",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Birth cert - online vs offline appln</text><rect x=\"100\" y=\"50\" width=\"230\" height=\"75\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"215\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#145236\">Online (most states)</text><text x=\"215\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#145236\">Apply at crsorgi.gov</text><rect x=\"370\" y=\"50\" width=\"230\" height=\"75\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"485\" y=\"78\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#1E40AF\">Offline (all states)</text><text x=\"485\" y=\"100\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"11\" fill=\"#1E40AF\">Municipal/Panchayat </text></svg>",
-      "caption": "Birth registration is mandatory under the Registration of Births and Deaths Act 1969. Register within 21 days of birth for free - late registration requires additional documents and fees."
+      "type": "process_flow",
+      "heading": "Newborn Registration in 4 Steps",
+      "icon": "👶",
+      "steps": [
+        {
+          "icon": "🏥",
+          "title": "Hospital reports the birth",
+          "desc": "Institutional births are reported to the local Registrar by the hospital itself"
+        },
+        {
+          "icon": "📋",
+          "title": "Verify details before submission",
+          "desc": "Check name spelling, date, and parents' details on the hospital form"
+        },
+        {
+          "icon": "🖥️",
+          "title": "Track on the CRS portal",
+          "desc": "Registration flows into dc.crsorgi.gov.in where you can track and download"
+        },
+        {
+          "icon": "📥",
+          "title": "Download the digital certificate",
+          "desc": "Get the signed digital copy from the portal or DigiLocker, free"
+        }
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "How to get birth certificate online - state-wise portals",
+      "icon": "🖥️",
+      "items": [
+        {
+          "icon": "🌐",
+          "title": "Delhi",
+          "sub": "edistrict.delhigovt.nic.in → Birth Certificate Application. MCD (Municipal Corporation of Delhi) handles birth registration for Delhi. Documents: hospital discharge summary, parent"
+        },
+        {
+          "icon": "🌐",
+          "title": "Maharashtra",
+          "sub": "aaplesarkar.mahaonline.gov.in → Search 'Birth Certificate'. Mumbai: BMC portal mcgm.gov.in handles Mumbai municipal area. Other districts through the district collectorate office o"
+        },
+        {
+          "icon": "🌐",
+          "title": "Uttar Pradesh",
+          "sub": "edistrict.up.gov.in → Birth Certificate. Apply online and collect from the Nagar Nigam/Nagar Palika office. UP has recently improved online processing - most urban births are now r"
+        },
+        {
+          "icon": "🌐",
+          "title": "Karnataka",
+          "sub": "nadakacheri.karnataka.gov.in → Birth Certificate. BBMP handles Bangalore urban area. Other districts through Gram Panchayat. Karnataka issues bilingual certificates (Kannada + Engl"
+        },
+        {
+          "icon": "🌐",
+          "title": "Tamil Nadu",
+          "sub": "tnreginet.gov.in → Birth Registration. Chennai corporation handles Chennai city. Other areas through respective municipalities. Tamil Nadu has near-universal birth registration cov"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": null,
+      "icon": null,
+      "content": [
+        "Central portal (dc.crsorgi.gov.in): The Central Registration System works across most states. Register with mobile number, select your state and district, fill the application form, upload documents, and submit.",
+        "The local Registrar verifies the application and issues a digitally signed certificate. Download from the same portal after verification.",
+        "For other states: Search '[your state name] birth certificate online' or visit your district collector's website. Most states now have online application portals.",
+        "If online isn't available, visit your nearest municipal office or Gram Panchayat directly."
+      ]
     },
     {
       "heading": "How to Download Existing Birth Certificate Online",
@@ -65,7 +179,7 @@
       "steps": [
         {
           "step": 1,
-          "title": "Visit crsorgi.gov.in (Central Civil Registration System)",
+          "title": "Visit dc.crsorgi.gov.in (Central Civil Registration System)",
           "description": "Go to the national portal. Select your state from dropdown → select district → select your town/municipality. This is the central database that most states have digitized."
         },
         {
@@ -96,18 +210,71 @@
       ]
     },
     {
-      "heading": "Delayed Birth Registration Process",
-      "icon": "⏰",
       "type": "text",
+      "heading": "Documents needed for birth certificate application",
+      "icon": "📄",
       "content": [
-        "IF YOUR CHILD WAS NEVER REGISTERED:\n\nWithin 21 days: Free registration at hospital/municipal office - just declare the birth. No special documents needed.",
-        "Within 21 days to 1 year: Apply at Registrar's office with: (1) Proof of birth (hospital discharge letter, vaccination card, Aadhaar copy showing DOB), (2) Age declaration by parents on affidavit. Processing: 7-15 days, late fee ₹5-50.",
-        "After 1 year: Requires: (1) Affidavit on stamp paper (₹10-20) stating child's details, date of birth, place of birth, parents' names, and your relationship to child.",
-        "(2) Age proof - school admission certificate showing DOB, school leaving certificate, class 10 marksheet, or vaccination booklet. (3) Aadhaar of parents (if available).",
-        "(4) Order from First Class Magistrate, Additional District Magistrate, or Executive Magistrate (some states require this, others don't - check your state).",
-        "(5) Letter from Gram Panchayat/Municipal Corporation chief acknowledging the delayed registration request. Processing timeline: 30-60 days.",
-        "Some states allow the Tehsildar to directly approve delayed registrations if documents are in order. Others require a magistrate's order, which adds 15-30 days.",
-        "VARIES SIGNIFICANTLY BY STATE - UP, MP, Bihar, Rajasthan have different procedures. Always check your specific district/municipality's rules on their website or visit the local Tehsil office."
+        "For newborn registration (within 21 days): Hospital birth report/discharge summary (contains date, time, place of birth, child's weight, doctor's name), identity proof of mother and father (Aadhaar card preferred - also serves as address proof), marriage certificate of parents (not mandatory in all states but recommended), and passport-sized photos of parents (for some state portals).",
+        "For late registration (after 21 days): All of the above PLUS affidavit on stamp paper stating birth details and reason for delay, vaccination record (if available - BCG vaccination given at birth serves as date of birth proof), school admission register entry (for children already in school), and any existing government document showing the child's date of birth (Aadhaar, if already enrolled).",
+        "For adopted children: Adoption order from the court, original birth certificate (if available from biological parents), Aadhaar of adoptive parents, and a fresh birth certificate application mentioning adoptive parents' names. Post-2015, CARA (Central Adoption Resource Authority) adoptions include automatic birth certificate issuance.",
+        "For NRI births (Indian parents, born abroad): Consular birth certificate from the Indian embassy/consulate in the birth country, parents' Indian passports, and marriage certificate. Upon returning to India, register the birth at the local Registrar's office with the consular certificate to get an Indian birth certificate."
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Late birth registration - if you missed the 21-day window",
+      "icon": "⏰",
+      "content": [
+        "21 days to 30 days: Late fee registration with the Registrar. No additional documentation needed beyond the standard birth report.",
+        "Just pay the late fee (Rs 2-10 in most states) and submit the registration form. The Registrar issues the certificate within 7-15 days.",
+        "30 days to 1 year: Requires written application to the Registrar with reason for delay. Additional documents: affidavit from parents on stamp paper (Rs 10-100) stating the birth details and reason for delay, hospital birth record or midwife's declaration, and identity proof of parents.",
+        "The Registrar may verify the birth independently before issuing the certificate. Processing time: 15-30 days.",
+        "1 year to 5 years: Requires order from the First Class Magistrate or Executive Magistrate of the district. File an application at the Magistrate's court with: affidavit, hospital records, school records (if child is school-going), immunization records, Aadhaar enrollment receipt, and identity proof of parents.",
+        "The Magistrate verifies and issues an order directing the Registrar to register the birth. Timeline: 30-90 days.",
+        "After 5 years: The most complex scenario. In some states, you need a court order from the Civil Judge.",
+        "In others, the District Magistrate can authorize late registration. Required documents include all of the above plus: school transfer certificate, any government ID that was issued based on assumed date of birth, affidavit from 2 witnesses who know your birth details, and a newspaper advertisement announcing the late registration (in some states).",
+        "Timeline: 3-6 months. Consider hiring a lawyer."
+      ]
+    },
+    {
+      "type": "icon_list",
+      "heading": "Late Registration: The Four Time Slabs",
+      "icon": "⏳",
+      "items": [
+        {
+          "icon": "✅",
+          "title": "Within 21 days",
+          "sub": "Free, normal registration with the local Registrar"
+        },
+        {
+          "icon": "🕐",
+          "title": "21 to 30 days",
+          "sub": "Late fee applies, no extra permissions needed"
+        },
+        {
+          "icon": "📝",
+          "title": "30 days to 1 year",
+          "sub": "Written permission of the District Registrar plus affidavit and late fee"
+        },
+        {
+          "icon": "⚖️",
+          "title": "Beyond 1 year",
+          "sub": "Order of DM, SDM, or Executive Magistrate under the 2023 amended Act"
+        }
+      ]
+    },
+    {
+      "type": "text",
+      "heading": "Birth certificate for adults - if you never had one",
+      "icon": "👤",
+      "content": [
+        "Many adults born in the 1970s-1990s, especially in rural India, were never registered at birth. They've used school leaving certificates or affidavits as date of birth proof throughout their lives.",
+        "The 2023 RBD Amendment now makes birth certificate mandatory for multiple government services - creating urgency for unregistered adults.",
+        "Process for adult registration: Apply at your district Registrar's office with an affidavit on stamp paper declaring your birth details (date, place, parents' names), supporting evidence (school records, voter ID, Aadhaar, ration card - anything showing your approximate date of birth), declaration from 2 witnesses who know your birth details (preferably elderly relatives or neighbors), and a non-availability certificate from the Registrar confirming no existing birth record.",
+        "The Magistrate reviews the evidence and issues an order for late registration. The Registrar then issues the birth certificate based on the Magistrate's order.",
+        "The date of birth recorded is based on the strongest available evidence - school records are typically given the most weight if the person's first school admission record exists.",
+        "Cost: Affidavit stamp paper (Rs 10-100), Magistrate fee (Rs 50-200), and Registrar fee for late registration (Rs 10-100). Lawyer fee if using one: Rs 1,000-3,000.",
+        "The entire process takes 30-90 days. While inconvenient, getting a birth certificate as an adult is straightforward if you have any existing document showing your date of birth."
       ]
     },
     {
@@ -257,136 +424,6 @@
     },
     {
       "type": "text",
-      "heading": "Why birth certificate is essential - 10 uses you need it for",
-      "icon": "📋",
-      "content": [
-        "A birth certificate is India's most fundamental identity document - it proves your date of birth, place of birth, and parentage. You need it for: school admission (mandatory for enrollment in Class 1 and beyond), Aadhaar enrollment (as supporting identity document), passport application (mandatory proof of date of birth and citizenship), government job applications (age verification for eligibility), marriage registration (age proof for legal marriage), voter ID (age verification for electoral roll entry).",
-        "Additional uses: property inheritance claims (proving you're a legal heir), insurance claims (nominee verification), bank account opening for minors (guardian-child relationship proof), and applying for government schemes (Sukanya Samriddhi for girl child requires birth certificate as primary document). Without a birth certificate, you face barriers at every major life milestone.",
-        "The Supreme Court of India has emphasized that birth registration and certification is a fundamental right. The Registration of Births and Deaths (Amendment) Act 2023 made birth certificate a single document for proof of birth for all purposes - Aadhaar enrollment, admission to educational institutions, driving license, government employment, election registration, and more."
-      ]
-    },
-    {
-      "type": "svg_block",
-      "heading": "Visual: How to Get Birth Certi Key Numbers",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Key Numbers</text><rect x=\"20\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">₹0-100</text><text x=\"97\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Fee</text><text x=\"97\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"190\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"267\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">crsorgi.gov.in</text><text x=\"267\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Portal</text><text x=\"267\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"360\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"437\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#D97706\">7-30 days</text><text x=\"437\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Processing</text><text x=\"437\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text><rect x=\"530\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"607\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">Free on DigiLocker</text><text x=\"607\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Download</text><text x=\"607\" y=\"106\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\"></text></svg>",
-      "caption": "Key numbers for How to Get Birth Certificate O",
-      "description": "Quick overview of the most important numbers and facts."
-    },
-    {
-      "type": "text",
-      "heading": "How to register birth and get certificate - within 21 days",
-      "icon": "📝",
-      "content": [
-        "For hospital births: The hospital reports the birth to the local Registrar of Births and Deaths (municipal corporation for urban areas, Gram Panchayat for rural areas) within 21 days. The hospital provides the birth report form with details - child's date and time of birth, gender, weight, mother's name, father's name, and place of birth.",
-        "Parents collect the birth certificate from the municipal/panchayat office after 7-15 days.",
-        "For home births: Parents must report the birth to the local Registrar within 21 days. Visit the nearest municipal office or Gram Panchayat with: a declaration form signed by the person present at the birth (midwife, family member, or doctor), identity proof of both parents (Aadhaar, voter ID), marriage certificate of parents, and proof of residence (ration card, utility bill).",
-        "The Registrar verifies and issues the birth certificate within 7-15 days.",
-        "Online registration (available in most states): Visit crsorgi.gov.in (Central Registration System for Government of India) or your state's specific portal. Create an account, fill the birth registration form with child and parent details, upload hospital discharge summary or birth report, and submit.",
-        "After verification by the local Registrar (7-15 days), download the digitally signed birth certificate from the portal.",
-        "Fee: Birth registration within 21 days is FREE in most states. Late registration (after 21 days) incurs a nominal fee of Rs 2-50 depending on the state.",
-        "After 1 year, late registration requires an affidavit, magistrate's order, and additional fee of Rs 5-100. After 5 years, registration becomes significantly more complex - requiring court order in some states."
-      ]
-    },
-    {
-      "type": "svg_block",
-      "heading": "Quick Facts",
-      "svg": "<svg viewBox=\"0 0 700 140\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Quick Facts</text><rect x=\"17\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"94\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1B6B4A\">₹0-100</text><text x=\"94\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Fee</text><rect x=\"187\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"2\"/><text x=\"264\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#1E40AF\">crsorgi.gov.in</text><text x=\"264\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Portal</text><rect x=\"357\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"434\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#92400E\">7-30 days</text><text x=\"434\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Processing</text><rect x=\"527\" y=\"40\" width=\"155\" height=\"90\" rx=\"10\" fill=\"#FCE7F3\" stroke=\"#BE185D\" stroke-width=\"2\"/><text x=\"604\" y=\"72\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"16\" font-weight=\"700\" fill=\"#BE185D\">Free on DigiLocker</text><text x=\"604\" y=\"92\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" fill=\"#4B5563\">Download</text></svg>",
-      "caption": "Quick reference facts",
-      "description": "Key facts and numbers at a glance"
-    },
-    {
-      "type": "text",
-      "heading": "Late birth registration - if you missed the 21-day window",
-      "icon": "⏰",
-      "content": [
-        "21 days to 30 days: Late fee registration with the Registrar. No additional documentation needed beyond the standard birth report. Just pay the late fee (Rs 2-10 in most states) and submit the registration form. The Registrar issues the certificate within 7-15 days.",
-        "30 days to 1 year: Requires written application to the Registrar with reason for delay. Additional documents: affidavit from parents on stamp paper (Rs 10-100) stating the birth details and reason for delay, hospital birth record or midwife's declaration, and identity proof of parents.",
-        "The Registrar may verify the birth independently before issuing the certificate. Processing time: 15-30 days.",
-        "1 year to 5 years: Requires order from the First Class Magistrate or Executive Magistrate of the district. File an application at the Magistrate's court with: affidavit, hospital records, school records (if child is school-going), immunization records, Aadhaar enrollment receipt, and identity proof of parents.",
-        "The Magistrate verifies and issues an order directing the Registrar to register the birth. Timeline: 30-90 days.",
-        "After 5 years: The most complex scenario. In some states, you need a court order from the Civil Judge.",
-        "In others, the District Magistrate can authorize late registration. Required documents include all of the above plus: school transfer certificate, any government ID that was issued based on assumed date of birth, affidavit from 2 witnesses who know your birth details, and a newspaper advertisement announcing the late registration (in some states).",
-        "Timeline: 3-6 months. Consider hiring a lawyer."
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "How to get birth certificate online - state-wise portals",
-      "icon": "🖥️",
-      "content": [
-        "Central portal (crsorgi.gov.in): The Central Registration System works across most states. Register with mobile number, select your state and district, fill the application form, upload documents, and submit.",
-        "The local Registrar verifies the application and issues a digitally signed certificate. Download from the same portal after verification.",
-        "Delhi: edistrict.delhigovt.nic.in → Birth Certificate Application. MCD (Municipal Corporation of Delhi) handles birth registration for Delhi. Documents: hospital discharge summary, parents' ID proof, proof of Delhi residence. Processing: 15-30 days. You can also apply at your nearest MCD office.",
-        "Maharashtra: aaplesarkar.mahaonline.gov.in → Search 'Birth Certificate'. Mumbai: BMC portal mcgm.gov.in handles Mumbai municipal area. Other districts through the district collectorate office or e-District portal. Maharashtra has one of the most digitized birth registration systems.",
-        "Uttar Pradesh: edistrict.up.gov.in → Birth Certificate. Apply online and collect from the Nagar Nigam/Nagar Palika office. UP has recently improved online processing - most urban births are now registered digitally through hospitals directly.",
-        "Karnataka: nadakacheri.karnataka.gov.in → Birth Certificate. BBMP handles Bangalore urban area. Other districts through Gram Panchayat. Karnataka issues bilingual certificates (Kannada + English) by default.",
-        "Tamil Nadu: tnreginet.gov.in → Birth Registration. Chennai corporation handles Chennai city. Other areas through respective municipalities. Tamil Nadu has near-universal birth registration coverage (99%+).",
-        "For other states: Search '[your state name] birth certificate online' or visit your district collector's website. Most states now have online application portals. If online isn't available, visit your nearest municipal office or Gram Panchayat directly."
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "Documents needed for birth certificate application",
-      "icon": "📄",
-      "content": [
-        "For newborn registration (within 21 days): Hospital birth report/discharge summary (contains date, time, place of birth, child's weight, doctor's name), identity proof of mother and father (Aadhaar card preferred - also serves as address proof), marriage certificate of parents (not mandatory in all states but recommended), and passport-sized photos of parents (for some state portals).",
-        "For late registration (after 21 days): All of the above PLUS affidavit on stamp paper stating birth details and reason for delay, vaccination record (if available - BCG vaccination given at birth serves as date of birth proof), school admission register entry (for children already in school), and any existing government document showing the child's date of birth (Aadhaar, if already enrolled).",
-        "For adopted children: Adoption order from the court, original birth certificate (if available from biological parents), Aadhaar of adoptive parents, and a fresh birth certificate application mentioning adoptive parents' names. Post-2015, CARA (Central Adoption Resource Authority) adoptions include automatic birth certificate issuance.",
-        "For NRI births (Indian parents, born abroad): Consular birth certificate from the Indian embassy/consulate in the birth country, parents' Indian passports, and marriage certificate. Upon returning to India, register the birth at the local Registrar's office with the consular certificate to get an Indian birth certificate."
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "Correcting errors in existing birth certificate",
-      "icon": "🔧",
-      "content": [
-        "Common errors: Wrong spelling of child's or parents' name, incorrect date of birth, wrong gender entry, father's name missing, or incorrect place of birth. These errors create cascading problems - every subsequent document (school records, Aadhaar, PAN, passport) copies the wrong information from the birth certificate.",
-        "How to correct: Apply to the Registrar of Births and Deaths (same office that issued the original certificate) with: application for correction, original birth certificate, proof of correct information (school records, Aadhaar, hospital records showing the correct details), affidavit stating the error and correct details, and supporting documents.",
-        "Timeline for corrections: Simple spelling corrections take 7-15 days. Date of birth corrections require additional verification and take 30-60 days.",
-        "In some states, date of birth corrections after 5 years of registration require magistrate's approval. If the original hospital records support your claim, corrections are usually approved without difficulty.",
-        "Digital birth certificates: The 2023 amendment to the RBD Act mandates digital birth certificates across India. If your state has digitized records, corrections can be requested online through the same portal where the certificate was issued.",
-        "Digital certificates are legally equivalent to physical certificates and accepted by all government agencies."
-      ]
-    },
-    {
-      "type": "text",
-      "heading": "Birth certificate for adults - if you never had one",
-      "icon": "👤",
-      "content": [
-        "Many adults born in the 1970s-1990s, especially in rural India, were never registered at birth. They've used school leaving certificates or affidavits as date of birth proof throughout their lives.",
-        "The 2023 RBD Amendment now makes birth certificate mandatory for multiple government services - creating urgency for unregistered adults.",
-        "Process for adult registration: Apply at your district Registrar's office with an affidavit on stamp paper declaring your birth details (date, place, parents' names), supporting evidence (school records, voter ID, Aadhaar, ration card - anything showing your approximate date of birth), declaration from 2 witnesses who know your birth details (preferably elderly relatives or neighbors), and a non-availability certificate from the Registrar confirming no existing birth record.",
-        "The Magistrate reviews the evidence and issues an order for late registration. The Registrar then issues the birth certificate based on the Magistrate's order.",
-        "The date of birth recorded is based on the strongest available evidence - school records are typically given the most weight if the person's first school admission record exists.",
-        "Cost: Affidavit stamp paper (Rs 10-100), Magistrate fee (Rs 50-200), and Registrar fee for late registration (Rs 10-100). Lawyer fee if using one: Rs 1,000-3,000.",
-        "The entire process takes 30-90 days. While inconvenient, getting a birth certificate as an adult is straightforward if you have any existing document showing your date of birth."
-      ]
-    },
-    {
-      "type": "callout",
-      "variant": "warning",
-      "heading": "Register within 21 days - avoid complications",
-      "content": "Birth registration within 21 days is free, simple, and requires minimal documentation. After 21 days, you need additional documents and fees. After 1 year, you need a Magistrate's order. After 5 years, you may need a court order. The complexity and cost increase exponentially with delay. If your child was born recently, register TODAY - it takes 15 minutes at the hospital or municipal office."
-    },
-    {
-      "type": "svg_block",
-      "heading": "Visual: Process Steps",
-      "svg": "<svg viewBox=\"0 0 700 120\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><defs><marker id=\"af\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><polygon points=\"0 0, 10 3, 0 6\" fill=\"#1E40AF\"/></marker></defs><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"14\" font-weight=\"700\" fill=\"#111827\">Process Steps</text><rect x=\"16\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"71\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Visit crsorgi.gov.</text><line x1=\"126\" y1=\"65\" x2=\"142\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"152\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"207\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Search for the bir</text><line x1=\"262\" y1=\"65\" x2=\"278\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"288\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"343\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Verify the record </text><line x1=\"398\" y1=\"65\" x2=\"414\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"424\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DBEAFE\" stroke=\"#1E40AF\" stroke-width=\"1.5\"/><text x=\"479\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1E40AF\">Download the e-cer</text><line x1=\"534\" y1=\"65\" x2=\"550\" y2=\"65\" stroke=\"#1E40AF\" stroke-width=\"2\" marker-end=\"url(#af)\"/><rect x=\"560\" y=\"45\" width=\"110\" height=\"40\" rx=\"10\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"615\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"10\" font-weight=\"700\" fill=\"#1B6B4A\">Check DigiLocker f</text></svg>",
-      "caption": "Steps to follow",
-      "description": "Visual guide to the process."
-    },
-    {
-      "type": "callout",
-      "variant": "tip",
-      "heading": "Hospital auto-registration - check if yours does it",
-      "content": "Many government and private hospitals in urban India now automatically report births to the local Registrar through integrated software. Ask your hospital at the time of discharge: 'Has the birth been registered with the municipal corporation?' If yes, collect the certificate from the municipal office in 7-15 days. If no, you must register manually within 21 days."
-    },
-    {
-      "type": "pullquote",
-      "text": "India registers approximately 2.6 crore births annually - but 10-15% go unregistered, especially in rural areas and urban slums. An unregistered child is invisible to the state - no school admission, no Aadhaar, no government benefits, no legal identity. Birth registration is not bureaucracy - it's the first step to citizenship."
-    },
-    {
-      "type": "text",
       "heading": "2023 RBD Amendment - what changed",
       "icon": "📜",
       "content": [
@@ -396,8 +433,23 @@
         "The Registrar General of India will maintain a national database of all registered births. This database will be accessible to authorized agencies (passport office, election commission, Aadhaar authority) for verification.",
         "Over time, this eliminates the need for individuals to physically present birth certificates - agencies can verify directly from the database.",
         "For adopted children, the 2023 amendment mandates issuance of a new birth certificate with the adoptive parents' names after adoption. The biological parents' details are sealed and accessible only by court order.",
-        "This protects adopted children's privacy and ensures their birth certificate reflects their legal family."
+        "This protects adopted children's privacy and ensures their birth certificate reflects their legal family.",
+        "For births registered on or after 1 October 2023, the digital certificate works as a single document for school admission, DL, voter ID, passport, and government jobs. Older certificates stay valid but may still need companion documents at some offices."
       ]
+    },
+    {
+      "type": "modern_callout",
+      "variant": "tip",
+      "icon": "tip",
+      "title": "Hospital auto-registration - check if yours does it",
+      "content": "Many government and private hospitals in urban India now automatically report births to the local Registrar through integrated software. Ask your hospital at the time of discharge: 'Has the birth been registered with the municipal corporation?' If yes, collect the certificate from the municipal office in 7-15 days.<br><br>If no, you must register manually within 21 days."
+    },
+    {
+      "type": "modern_callout",
+      "variant": "warning",
+      "icon": "warning",
+      "title": "Register within 21 days - avoid complications",
+      "content": "Birth registration within 21 days is free, simple, and requires minimal documentation. After 21 days, you need additional documents and fees.<br><br>After 1 year, you need a Magistrate's order. After 5 years, you may need a court order.<br><br>The complexity and cost increase exponentially with delay. If your child was born recently, register TODAY - it takes 15 minutes at the hospital or municipal office."
     },
     {
       "type": "text",
@@ -416,22 +468,50 @@
       ]
     },
     {
-      "type": "text",
+      "type": "icon_list",
       "heading": "Common Mistakes to Avoid",
-      "icon": "⚠️",
-      "content": [
-        "",
-        "1. Not Registering Within 21 Days Despite Hospital Birth Many parents delay registration thinking it's not urgent. Once you cross 21 days, your registration becomes 'delayed' and requires extra documents and fees. If you have a hospital birth record, register within 21 days - it's completely free. This is the most common and avoidable mistake. ",
-        "2. Incorrect Child's Name Make sure the child's name on hospital record matches what you put in registration form. Any spelling differences will carry forward to the certificate. If you want to change the name later, you'll need to go through a correction process with affidavit and court order. Decide the name carefully before registration. ",
-        "3. Missing Address Proof Less Than 3 Months Old Your address proof (utility bill, ration card) must be recent (issued within 3 months). Old utility bills won't be accepted. If you've recently moved, get a new bill in your name or use a rental agreement as address proof. This is a common reason for rejection. ",
-        "4. Not Keeping Original Hospital Birth Record The hospital birth record (a printed sheet from hospital with doctor's signature) is crucial for registration. Keep it safe from day one. If you lose it, you'll need to approach the hospital for a duplicate, which takes additional time and may have charges. ",
-        "5. Wrong Municipality Office You must register the birth at the municipal corporation where the birth took place, not where you currently live. If you were born in Mumbai but live in Pune now, register in Mumbai. Registering at wrong municipality will result in rejection. Check your ward number and correct office before visiting. ",
-        "6. Not Bringing Both Parents' ID Proofs Even if only one parent applies, both parents' documents may be needed for verification. Bring both Aadhaar cards or ID proofs to avoid rejection. If one parent is not available, get a notarized authorization letter (Power of Attorney) from them.",
-        "7. Mistakes in Affidavit (For Delayed",
-        "Registration) If applying after 21 days, your affidavit must be accurate and properly notarized. Mistakes in affidavit will result in rejection. Common errors: wrong date of birth, wrong parents' names, spelling mistakes. Get the affidavit drafted by a lawyer or notary to avoid errors.",
-        "8. Uploading Poor Quality Scans For online registration, if you upload blurry or incomplete scans, they'll be rejected and you'll have to reupload. Scan documents at good resolution (200 DPI minimum), in good lighting, both sides clear, and crop out blank spaces. Check before uploading. ",
-        "9. Not Collecting Multiple Copies Many people collect just one copy, then need more later and have to wait again. Collect at least 5-10 copies from the municipality office immediately. Certified copies cost only ₹5-10 each but take 1-2 days to get. It's better to get them all at once. ",
-        "10. Forgetting Application Number Always note down and save the application number given to you when you submit the form. If you lose it, tracking your application becomes difficult. Create a WhatsApp reminder with the application number or save it in your phone notes."
+      "icon": "🚫",
+      "items": [
+        {
+          "icon": "⚠️",
+          "title": "1. Not Registering Within 21 Days Despite Hospital Birt",
+          "sub": "1. Not Registering Within 21 Days Despite Hospital Birth Many parents delay registration thinking it's not urgent. Once you cross 21 days, your registration becomes 'delayed' and requires extra documents and fees. If you"
+        },
+        {
+          "icon": "⚠️",
+          "title": "2. Incorrect Child's Name Make sure the child's name on",
+          "sub": "2. Incorrect Child's Name Make sure the child's name on hospital record matches what you put in registration form. Any spelling differences will carry forward to the certificate. If you want to change the name later, you"
+        },
+        {
+          "icon": "⚠️",
+          "title": "3. Missing Address Proof Less Than 3 Months Old Your ad",
+          "sub": "3. Missing Address Proof Less Than 3 Months Old Your address proof (utility bill, ration card) must be recent (issued within 3 months). Old utility bills won't be accepted. If you've recently moved, get a new bill in you"
+        },
+        {
+          "icon": "⚠️",
+          "title": "4. Not Keeping Original Hospital Birth Record The hospi",
+          "sub": "4. Not Keeping Original Hospital Birth Record The hospital birth record (a printed sheet from hospital with doctor's signature) is crucial for registration. Keep it safe from day one. If you lose it, you'll need to appro"
+        },
+        {
+          "icon": "⚠️",
+          "title": "5. Wrong Municipality Office You must register the birt",
+          "sub": "5. Wrong Municipality Office You must register the birth at the municipal corporation where the birth took place, not where you currently live. If you were born in Mumbai but live in Pune now, register in Mumbai. Registe"
+        },
+        {
+          "icon": "⚠️",
+          "title": "6. Not Bringing Both Parents' ID Proofs Even if only on",
+          "sub": "6. Not Bringing Both Parents' ID Proofs Even if only one parent applies, both parents' documents may be needed for verification. Bring both Aadhaar cards or ID proofs to avoid rejection. If one parent is not available, g"
+        },
+        {
+          "icon": "⚠️",
+          "title": "7. Mistakes in Affidavit (For Delayed",
+          "sub": "7. Mistakes in Affidavit (For Delayed"
+        },
+        {
+          "icon": "⚠️",
+          "title": "Registration) If applying after 21 days, your affidavit",
+          "sub": "wrong date of birth, wrong parents' names, spelling mistakes. Get the affidavit drafted by a lawyer or notary to avoid errors."
+        }
       ]
     },
     {
@@ -439,77 +519,88 @@
       "heading": "Pro Tips & Insider Advice",
       "icon": "💡",
       "content": [
-        "Based on multiple interactions with birth certificate applicants, here are practical tips: Apply early in the month rather than month-end when offices are busier and errors take longer to correct. Keep all documents (original and copies) organized in a single folder - you'll need them multiple times. Take clear photographs of all submitted documents using a smartphone camera in good lighting - if office claims something was 'not submitted,' you have proof. Visit the office on Tuesday-Thursday when processing is faster; Mondays are busy and Fridays have limited staff. Befriend the office clerk or get contact details of the supervisor - one call can clarify status and prevent rejection. Always fill forms in black/blue pen, not pencil - pencil documents may be rejected as temporary. Cross-verify all details before submission: name spelling, dates, addresses must match exactly across all documents. If submitting via eFiling, keep screenshots of confirmation page showing reference number and timestamp. Track via reference number every week rather than calling - reduces dependency on office staff. For online payments, use debit card instead of credit card - debit transactions complete faster. If you suspect your file was lost, immediately file a written complaint with office head in triplicate - creates an official record."
+        "Based on multiple interactions with birth certificate applicants, here are practical tips: Apply early in the month rather than month-end when offices are busier and errors take longer to correct. Keep all documents (original and copies) organized in a single folder - you'll need them multiple times.",
+        "Take clear photographs of all submitted documents using a smartphone camera in good lighting - if office claims something was 'not submitted,' you have proof. Visit the office on Tuesday-Thursday when processing is faster; Mondays are busy and Fridays have limited staff.",
+        "Befriend the office clerk or get contact details of the supervisor - one call can clarify status and prevent rejection. Always fill forms in black/blue pen, not pencil - pencil documents may be rejected as temporary.",
+        "Cross-verify all details before submission: name spelling, dates, addresses must match exactly across all documents. If submitting via eFiling, keep screenshots of confirmation page showing reference number and timestamp.",
+        "Track via reference number every week rather than calling - reduces dependency on office staff. For online payments, use debit card instead of credit card - debit transactions complete faster.",
+        "If you suspect your file was lost, immediately file a written complaint with office head in triplicate - creates an official record."
       ]
+    },
+    {
+      "type": "pullquote",
+      "text": "India registers approximately 2.6 crore births annually - but 10-15% go unregistered, especially in rural areas and urban slums. An unregistered child is invisible to the state - no school admission, no Aadhaar, no government benefits, no legal identity. Birth registration is not bureaucracy - it's the first step to citizenship."
     },
     {
       "type": "text",
       "heading": "Helpline and official resources",
       "icon": "📞",
       "content": [
-        "Central Registration portal: crsorgi.gov.in - online birth registration and certificate download for most states. Registrar General of India: rfrgi.gov.in - national-level queries about birth registration policy and inter-state issues. For state-specific portals, search '[state name] birth certificate online portal' or contact your district collectorate office.",
-        "For grievances: If your birth registration application is pending beyond 30 days, file a complaint at pgportal.gov.in (Public Grievance Portal) under your state's Health/Municipal department. Most states have a 15-day resolution mandate for public grievances. You can also approach the District Magistrate's office directly for expedited processing."
+        "Central Registration portal: dc.crsorgi.gov.in - online birth registration and certificate download for most states. Registrar General of India: rfrgi.gov.in - national-level queries about birth registration policy and inter-state issues.",
+        "For state-specific portals, search '[state name] birth certificate online portal' or contact your district collectorate office.",
+        "For grievances: If your birth registration application is pending beyond 30 days, file a complaint at pgportal.gov.in (Public Grievance Portal) under your state's Health/Municipal department. Most states have a 15-day resolution mandate for public grievances.",
+        "You can also approach the District Magistrate's office directly for expedited processing."
       ]
     },
     {
-      "type": "callout",
-      "heading": "Official Sources & References",
-      "icon": "📖",
+      "type": "modern_callout",
       "variant": "info",
-      "content": "Source: Registrar General of India, Registration of Births & Deaths Act, 1969. All information on this page has been verified against official government notifications and regulatory circulars. For the latest updates, always check the official portal."
-    },
-    {
-      "type": "svg_block",
-      "heading": "Birth Certificate Uses",
-      "icon": "👶",
-      "svg": "<svg viewBox=\"0 0 700 100\" xmlns=\"http://www.w3.org/2000/svg\" style=\"max-width:100%;height:auto\"><text x=\"350\" y=\"22\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"13\" font-weight=\"700\" fill=\"#111827\">Why Birth Certificate Is Essential</text><rect x=\"20\" y=\"45\" width=\"155\" height=\"40\" rx=\"8\" fill=\"#DCFCE7\" stroke=\"#1B6B4A\" stroke-width=\"2\"/><text x=\"97\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#1B6B4A\">School Admission</text><rect x=\"185\" y=\"45\" width=\"155\" height=\"40\" rx=\"8\" fill=\"#DBEAFE\" stroke=\"#2563EB\" stroke-width=\"2\"/><text x=\"262\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#1E40AF\">Passport Application</text><rect x=\"350\" y=\"45\" width=\"155\" height=\"40\" rx=\"8\" fill=\"#FEF3C7\" stroke=\"#D97706\" stroke-width=\"2\"/><text x=\"427\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#92400E\">Age Proof for Exams</text><rect x=\"515\" y=\"45\" width=\"160\" height=\"40\" rx=\"8\" fill=\"#F3E8FF\" stroke=\"#7C3AED\" stroke-width=\"2\"/><text x=\"595\" y=\"70\" text-anchor=\"middle\" font-family=\"sans-serif\" font-size=\"9\" font-weight=\"700\" fill=\"#5B21B6\">Property Inheritance</text></svg>",
-      "caption": "Register birth within 21 days to avoid late fees and additional procedures",
-      "description": "Birth certificate is now available on DigiLocker in most states."
+      "icon": "info",
+      "title": "Official Sources & References",
+      "content": "Source: Registrar General of India, Registration of Births & Deaths Act, 1969. All information on this page has been verified against official government notifications and regulatory circulars.<br><br>For the latest updates, always check the official portal."
     }
   ],
   "faqs": [
     {
-      "question": "Birth certificate not available in crsorgi.gov.in. What to do?",
-      "answer": "This usually means: (1) Birth was never registered, or (2) Records not yet digitized in your state. Visit your municipal corporation or Gram Panchayat office with your child's age proof (vaccination card, school records, Aadhaar). If you have the original registration document, get a certified copy from the office. For never-registered births, apply for delayed registration as per the process above."
+      "question": "Birth certificate not available in dc.crsorgi.gov.in. What to do?",
+      "answer": "This usually means: (1) Birth was never registered, or (2) Records not yet digitized in your state. Visit your municipal corporation or Gram Panchayat office with your child's age proof (vaccination card, school records, Aadhaar).<br><br>If you have the original registration document, get a certified copy from the office. For never-registered births, apply for delayed registration as per the process above."
     },
     {
       "question": "I'm adult and never registered. Can I get a birth certificate now?",
-      "answer": "Yes. You can register your birth at any point in life through delayed registration. You'll need: affidavit, age proof (school records, Aadhaar, passport), parental confirmation. Processing may take 30-60 days. Some courts have also allowed adult registrations in special cases - check with your local Tehsil office."
+      "answer": "Yes. You can register your birth at any point in life through delayed registration.<br><br>You'll need: affidavit, age proof (school records, Aadhaar, passport), parental confirmation. Processing may take 30-60 days.<br><br>Some courts have also allowed adult registrations in special cases - check with your local Tehsil office."
     },
     {
       "question": "My birth certificate shows wrong date of birth. How urgent is the correction?",
-      "answer": "Very important. Wrong DOB can cause issues with: passport/visa (age verification), pension calculation, retirement benefits, insurance claims, job application (age criteria). Correct it as soon as possible. Priority: if you're planning to apply for passport, get correction done at least 2 months before."
+      "answer": "Very important. Wrong DOB can cause issues with: passport/visa (age verification), pension calculation, retirement benefits, insurance claims, job application (age criteria).<br><br>Correct it as soon as possible. Priority: if you're planning to apply for passport, get correction done at least 2 months before."
     },
     {
       "question": "Digital birth certificate and physical certificate - both same validity?",
-      "answer": "Yes, completely same. E-certificate downloaded from crsorgi.gov.in or DigiLocker is legally valid. Physical copies are also legal. However, some old-fashioned offices or rural areas may ask for 'original' paper certificate. Keep both - e-certificate for government services (Aadhaar, passport), and physical certified copy for local/rural purposes."
+      "answer": "Yes, completely same. E-certificate downloaded from dc.crsorgi.gov.in or DigiLocker is legally valid.<br><br>Physical copies are also legal. However, some old-fashioned offices or rural areas may ask for 'original' paper certificate.<br><br>Keep both - e-certificate for government services (Aadhaar, passport), and physical certified copy for local/rural purposes."
     },
     {
       "question": "I have Aadhaar. Do I still need birth certificate?",
-      "answer": "Aadhaar contains your DOB, but doesn't have place of birth. Birth certificate shows place of birth which is crucial for: passport application (mandatory place of birth proof), property registration, inheritance/succession certificates. Get a birth certificate if available - it's the cleanest proof."
+      "answer": "Aadhaar contains your DOB, but doesn't have place of birth. Birth certificate shows place of birth which is crucial for: passport application (mandatory place of birth proof), property registration, inheritance/succession certificates.<br><br>Get a birth certificate if available - it's the cleanest proof."
     },
     {
       "question": "My parents deceased. Can I still correct my birth certificate?",
-      "answer": "Yes. You can apply for correction even if parents are deceased. In that case, the legal procedure changes: (1) Get an affidavit from yourself (not parents) sworn before notary, (2) Provide age proof documents (school records, Aadhaar, passport), (3) Notarized affidavit + supporting documents to Registrar. The Registrar may ask for additional evidence or magistrate verification, but it's still possible."
+      "answer": "Yes. You can apply for correction even if parents are deceased.<br><br>In that case, the legal procedure changes: (1) Get an affidavit from yourself (not parents) sworn before notary, (2) Provide age proof documents (school records, Aadhaar, passport), (3) Notarized affidavit + supporting documents to Registrar. The Registrar may ask for additional evidence or magistrate verification, but it's still possible."
     },
     {
       "question": "Is birth certificate mandatory for school admission?",
-      "answer": "Yes - under the Right to Education Act 2009, birth certificate is mandatory for admission to Class 1 in all schools (government and private). Some schools accept alternative documents (Aadhaar, hospital discharge summary) for provisional admission, but formal birth certificate must be submitted within the academic year. For nursery/KG admission, requirements vary by state."
+      "answer": "Yes - under the Right to Education Act 2009, birth certificate is mandatory for admission to Class 1 in all schools (government and private). Some schools accept alternative documents (Aadhaar, hospital discharge summary) for provisional admission, but formal birth certificate must be submitted within the academic year.<br><br>For nursery/KG admission, requirements vary by state."
     },
     {
       "question": "Can I get birth certificate from a different city than where I was born?",
-      "answer": "No - birth certificate is issued by the Registrar of the jurisdiction where the birth occurred. If you were born in Mumbai, the birth certificate must be obtained from BMC (Mumbai municipal corporation), even if you now live in Delhi. For online applications, select the district where the birth occurred, not your current residence."
+      "answer": "No - birth certificate is issued by the Registrar of the jurisdiction where the birth occurred. If you were born in Mumbai, the birth certificate must be obtained from BMC (Mumbai municipal corporation), even if you now live in Delhi.<br><br>For online applications, select the district where the birth occurred, not your current residence."
     },
     {
       "question": "How to get duplicate birth certificate if original is lost?",
-      "answer": "Apply at the same Registrar's office that issued the original. Carry: identity proof, original registration number (if known - check old documents), and an affidavit stating the original is lost. If the registration number is unknown, the Registrar searches records by name and date of birth. Duplicate certificate costs Rs 10-50. Processing: 7-15 days."
+      "answer": "Apply at the same Registrar's office that issued the original. Carry: identity proof, original registration number (if known - check old documents), and an affidavit stating the original is lost.<br><br>If the registration number is unknown, the Registrar searches records by name and date of birth. Duplicate certificate costs Rs 10-50.<br><br>Processing: 7-15 days."
     },
     {
       "question": "Is digital birth certificate legally valid?",
-      "answer": "Yes - digitally signed birth certificates issued through crsorgi.gov.in or state government portals are legally valid and accepted by all government agencies, schools, passport office, and courts. They carry the same legal weight as physical certificates. You can download, print, and use them as original documents."
+      "answer": "Yes - digitally signed birth certificates issued through dc.crsorgi.gov.in or state government portals are legally valid and accepted by all government agencies, schools, passport office, and courts. They carry the same legal weight as physical certificates.<br><br>You can download, print, and use them as original documents."
+    },
+    {
+      "question": "Is the 2026 amendment law now? What changes for late registration?",
+      "answer": "No, the Registration of Births and Deaths (Amendment) Bill 2026 was only introduced in Parliament in July 2026. It proposes a judicial magistrate order for delays beyond 2 years.<br><br>Until it passes, the current rule stands: beyond 1 year you need a DM, SDM, or Executive Magistrate order."
+    },
+    {
+      "question": "Birth certificate ek hi document se kya kya ban jata hai?",
+      "answer": "If the birth was registered on or after 1 October 2023, the digital birth certificate alone works for school admission, driving licence, voter registration, passport, and government job applications.<br><br>For older registrations the certificate is valid but offices may ask for supporting documents too."
     }
   ],
-  "disclaimer": "Birth certificate processes and portal availability vary by state and municipal authority. Some states have digitized all records; others are still digitizing. Always verify with your local municipal corporation or Gram Panchayat for the most current process. crsorgi.gov.in is the central portal, but many states also have separate state-level portals.",
+  "disclaimer": "Birth certificate processes and portal availability vary by state and municipal authority. Some states have digitized all records; others are still digitizing. Always verify with your local municipal corporation or Gram Panchayat for the most current process. dc.crsorgi.gov.in is the central portal, but many states also have separate state-level portals.",
   "related_pages": [
     {
       "title": "How to Update Aadhaar Card",
@@ -554,10 +645,21 @@
   ],
   "image_suggestions": [
     "Birth registration center with documents",
-    "crsorgi.gov.in portal screenshot",
+    "dc.crsorgi.gov.in portal screenshot",
     "Digital vs physical birth certificate comparison",
     "Delayed registration process flowchart",
     "Birth certificate for passport application"
   ],
-  "last_reviewed": "May 2026"
+  "last_reviewed": "July 2026",
+  "quick_actions": [
+    {
+      "label": "📥 Download on CRS Portal",
+      "href": "https://dc.crsorgi.gov.in",
+      "primary": true
+    },
+    {
+      "label": "✅ Check Eligibility",
+      "href": "/check-eligibility"
+    }
+  ]
 }
