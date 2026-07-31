@@ -1,24 +1,24 @@
 {
   "slug": "bpsc",
-  "title": "BPSC 72nd CCE 2026: 1,189 Vacancies, Prelims 26 July 2026",
-  "meta_description": "BPSC 72nd CCE notification out 5 May 2026. 1,189 vacancies (DSP, Deputy Collector, BDO). Apply by 31 May. Prelims 26 Jul, Mains 21-25 Nov 2026.",
+  "title": "BPSC 72nd Prelims 2026: Answer Key, Cutoff & Result Status",
+  "meta_description": "BPSC 72nd Prelims held 26 July 2026. Answer key expected first week of August, result Sep-Oct. Cutoff trend 88-92 General. Mains 21-25 Nov 2026.",
   "hero": {
     "status": "upcoming",
     "one_liner": "Bihar's state civil services exam - become SDM, DSP, Circle Officer, or District Officer through BPSC Combined Competitive Exam (72nd CCE)",
     "icon": "🏛️",
-    "updated_date": "July 2026",
+    "updated_date": "August 2026",
     "stats": [
       {
-        "label": "72nd CCE Prelims",
-        "value": "July 26, 2026"
+        "label": "72nd Prelims",
+        "value": "Held 26 July 2026"
       },
       {
         "label": "Vacancies",
-        "value": "~1,000+"
+        "value": "1,186 posts"
       },
       {
-        "label": "Applicants",
-        "value": "6+ Lakh"
+        "label": "Answer Key",
+        "value": "Expected early Aug"
       },
       {
         "label": "Salary",
@@ -28,9 +28,9 @@
   },
   "quick_actions": [
     {
-      "icon": "📝",
-      "label": "Apply at BPSC",
-      "url": "https://www.bpsc.bih.nic.in/"
+      "icon": "📋",
+      "label": "Answer Key & Result Updates",
+      "url": "https://bpsc.bihar.gov.in/"
     },
     {
       "icon": "📘",
@@ -254,6 +254,39 @@
   ],
   "extra_sections": [
     {
+      "type": "modern_callout",
+      "variant": "warning",
+      "title": "📌 BPSC 72nd Status at a Glance (Verified 1 August 2026)",
+      "content": "The 72nd Prelims was held on 26 July 2026 for 1,186 posts. The provisional answer key is expected in the first week of August on bpsc.bihar.gov.in, going by BPSC's usual 6-7 day gap.<br><br>The prelims result should land between late September and October 2026 based on recent cycles. The 71st Mains result for 1,264 posts is also expected around August-September 2026."
+    },
+    {
+      "type": "process_flow",
+      "heading": "What Happens After 26 July: Answer Key to Mains",
+      "icon": "🧭",
+      "steps": [
+        {
+          "icon": "📝",
+          "title": "Provisional Answer Key",
+          "desc": "Expected first week of August 2026 on bpsc.bihar.gov.in. Match your booklet series (A/B/C/D) before calculating marks."
+        },
+        {
+          "icon": "⚖️",
+          "title": "Objection Window",
+          "desc": "Roughly one week to challenge answers with evidence. Final key is prepared after expert review of objections."
+        },
+        {
+          "icon": "✅",
+          "title": "Final Answer Key + Result",
+          "desc": "Result expected late September to October 2026. Cutoff list is published with the result PDF."
+        },
+        {
+          "icon": "📚",
+          "title": "Mains: 21-25 November 2026",
+          "desc": "Roughly 10-12 times the vacancy count qualifies. Mains admit card comes 7-10 days before the exam."
+        }
+      ]
+    },
+    {
       "type": "text",
       "heading": "What is BPSC? Full Form and Overview",
       "icon": "📋",
@@ -319,6 +352,42 @@
       ]
     },
     {
+      "type": "table",
+      "heading": "🗓️ BPSC Prelims Result Timeline: How Long the Wait Really Is",
+      "columns": [
+        "Cycle",
+        "Prelims Held",
+        "Result Declared",
+        "Wait"
+      ],
+      "rows": [
+        [
+          "68th CCE",
+          "12 Feb 2023",
+          "27 Mar 2023",
+          "~6 weeks"
+        ],
+        [
+          "70th CCE",
+          "13 Dec 2024",
+          "23 Jan 2025",
+          "~6 weeks"
+        ],
+        [
+          "71st CCE",
+          "13 Sep 2025",
+          "18 Nov 2025",
+          "~9.5 weeks"
+        ],
+        [
+          "72nd CCE",
+          "26 Jul 2026",
+          "Expected Sep-Oct 2026",
+          "-"
+        ]
+      ]
+    },
+    {
       "type": "text",
       "heading": "BPSC Selection Rate & Competition",
       "icon": "📊",
@@ -346,7 +415,7 @@
         },
         {
           "icon": "users",
-          "value": "1,189",
+          "value": "1,186",
           "label": "Total vacancies",
           "color": "blue"
         },
@@ -513,12 +582,43 @@
       ]
     },
     {
+      "type": "table",
+      "heading": "📊 BPSC Prelims Cutoff: General Category (out of 150)",
+      "columns": [
+        "Cycle",
+        "General Cutoff",
+        "Result Date"
+      ],
+      "rows": [
+        [
+          "68th CCE",
+          "91",
+          "27 Mar 2023"
+        ],
+        [
+          "69th CCE",
+          "91.67",
+          "10 Nov 2023"
+        ],
+        [
+          "70th CCE",
+          "91",
+          "23 Jan 2025"
+        ],
+        [
+          "71st CCE",
+          "88",
+          "18 Nov 2025"
+        ]
+      ]
+    },
+    {
       "type": "text",
-      "heading": "BPSC Cut Off: Previous Year Marks",
-      "icon": "📊",
+      "heading": "What the Cutoff Trend Means for 72nd",
+      "icon": "🎯",
       "content": [
-        "BPSC Prelims cutoff for General category is typically 85-100 out of 150, depending on paper difficulty. OBC cutoff is 5-10 marks lower, SC/ST 15-20 marks lower.",
-        "Mains cutoff varies more because of optional subject scoring. Final selection depends on your combined Mains + Interview score."
+        "General category cutoff has stayed in a tight 88-92 band across four cycles. Negative marking of one-third per wrong answer, in force since the 68th CCE, keeps scores compressed.",
+        "OBC and EWS cutoffs typically run 3-5 marks below General, with SC/ST lower still. If you scored 92+ in the 72nd Prelims, history says you are in the safe zone for General."
       ]
     },
     {
@@ -592,7 +692,7 @@
       "heading": "BPSC vs Other Major State PSC Exams",
       "win": {
         "name": "BPSC 72nd CCE",
-        "amount": "1,189",
+        "amount": "1,186",
         "sub": "vacancies · Bihar"
       },
       "others": [
@@ -632,7 +732,7 @@
       "type": "modern_callout",
       "variant": "info",
       "title": "BPSC 72nd CCE 2026 - Current Exam Cycle",
-      "content": "BPSC released the 72nd CCE notification on 5 May 2026 for 1,189 vacancies across Deputy Collector (SDM), DSP, Revenue Officer, Supply Inspector, and other Group A & B posts. Apply online from 7 May to 31 May 2026 at bpsc.bihar.gov.in.<br><br>Prelims: 26 July 2026 (offline mode). Mains: 21-25 November 2026.<br><br>Note: BPSC 70th (interview phase complete, result expected April-May 2026) and 71st (Mains held April 2026) are separate ongoing cycles."
+      "content": "BPSC released the 72nd CCE notification on 5 May 2026 for 1,186 vacancies across Deputy Collector (SDM), DSP, Revenue Officer, Supply Inspector, and other Group A & B posts. Apply online from 7 May to 31 May 2026 at bpsc.bihar.gov.in.<br><br>Prelims: 26 July 2026 (offline mode). Mains: 21-25 November 2026.<br><br>Note: BPSC 70th (interview phase complete, result expected April-May 2026) and 71st (Mains held April 2026) are separate ongoing cycles."
     },
     {
       "type": "modern_callout",
@@ -647,26 +747,36 @@
         {
           "date": "5 MAY 2026",
           "event": "Notification released",
-          "desc": "1,189 vacancies announced for various Bihar govt posts"
+          "desc": "1,230 posts announced, revised to 1,186 after 44 Sugarcane Officer posts were removed"
         },
         {
           "date": "7-31 MAY 2026",
           "event": "Application window",
-          "desc": "Apply online at bpsc.bihar.gov.in - One Time Registration (OTR) required"
+          "desc": "Applied online at bpsc.bihar.gov.in with One Time Registration (OTR)"
         },
         {
           "date": "26 JUL 2026",
-          "event": "Prelims Exam",
-          "desc": "Offline mode · 150 questions · 150 marks · 2 hours"
+          "event": "Prelims held",
+          "desc": "Offline mode · single GS paper · 150 marks · 2 hours · 1/3 negative marking"
+        },
+        {
+          "date": "EARLY AUG 2026",
+          "event": "Provisional answer key",
+          "desc": "Expected on bpsc.bihar.gov.in followed by objection window"
+        },
+        {
+          "date": "SEP-OCT 2026",
+          "event": "Prelims result expected",
+          "desc": "Based on 6-10 week gap in recent cycles · cutoff published with result"
         },
         {
           "date": "21-25 NOV 2026",
-          "event": "Mains Exam",
+          "event": "Mains exam",
           "desc": "Written exam over 5 days · multiple papers"
         },
         {
           "date": "EARLY 2027",
-          "event": "Interview & Final Result",
+          "event": "Interview & final result",
           "desc": "Personality test followed by final merit list"
         }
       ]
@@ -732,23 +842,18 @@
   ],
   "important_dates": [
     {
-      "label": "72nd CCE Notification",
-      "value": "Released 5 May 2026",
-      "highlight": false
-    },
-    {
-      "label": "72nd Application Window",
-      "value": "7 to 31 May 2026 (closed)",
-      "highlight": false
-    },
-    {
-      "label": "72nd CCE Prelims",
+      "label": "72nd Prelims",
       "value": "Held 26 July 2026",
+      "highlight": false
+    },
+    {
+      "label": "Provisional Answer Key",
+      "value": "Expected early Aug 2026",
       "highlight": true
     },
     {
       "label": "72nd Prelims Result",
-      "value": "Expected Aug-Sep 2026",
+      "value": "Expected Sep-Oct 2026",
       "highlight": true
     },
     {
@@ -758,7 +863,7 @@
     },
     {
       "label": "71st Mains Result",
-      "value": "Expected soon (1,264 posts)",
+      "value": "Expected Aug-Sep 2026 (1,264 posts)",
       "highlight": false
     }
   ],
@@ -770,8 +875,8 @@
   ],
   "faqs": [
     {
-      "question": "BPSC has no negative marking - is this definitely true for 72nd CCE?",
-      "answer": "Recent cycles (67th, 68th, 69th) had no negative marking. However, BPSC can change policy for future cycles.<br><br>Always verify in the official 72nd CCE notification. Even if negative marking is introduced, it's typically -1/3 or -1/4 - less severe than UPSC (-1/3).<br><br>Check bpsc.bih.nic.in once notification releases."
+      "question": "Does BPSC 72nd Prelims have negative marking?",
+      "answer": "Yes. One-third mark is deducted for every wrong answer in the 72nd Prelims.<br><br>Negative marking has been in force since the 68th CCE. It is the main reason General cutoffs sit in the compressed 88-92 range instead of 100+."
     },
     {
       "question": "Can non-Bihar residents appear for BPSC?",
@@ -810,10 +915,6 @@
       "answer": "BPSC combined exam vacancies vary significantly: 300-700 posts per cycle across 15+ state services. Some cycles have been as high as 1,000 vacancies.<br><br>The exact number is mentioned in the notification. Bihar Administrative Service and Bihar Police Service get the most vacancies.<br><br>Check bpsc.bih.nic.in for the latest vacancy details."
     },
     {
-      "question": "Can non-Bihar residents apply for BPSC?",
-      "answer": "Yes - BPSC is open to all Indian citizens. However, some posts have domicile requirements (Bihar domicile preferred for certain allied services).<br><br>For BAS and BPS, there's no domicile restriction. Non-Bihar candidates compete in the general category without state reservation benefits.<br><br>Practically, deep Bihar GK knowledge gives domicile holders a natural advantage."
-    },
-    {
       "question": "What is the full form of BPSC?",
       "answer": "BPSC stands for Bihar Public Service Commission. It conducts the CCE (Combined Competitive Examination) for recruiting civil servants like Deputy Collectors, DSPs, and BDOs in Bihar."
     },
@@ -832,6 +933,22 @@
     {
       "question": "Which optional subject is best for BPSC?",
       "answer": "History, Geography, and Political Science are the most popular and scoring. Choose a subject you studied in graduation and have genuine interest in.<br><br>The optional paper is 300 marks and often decides your rank."
+    },
+    {
+      "question": "BPSC 72nd answer key kab aayegi?",
+      "answer": "The provisional answer key is expected in the first week of August 2026 on bpsc.bihar.gov.in. BPSC released the 68th key 7 days after the exam and the 71st key 6 days after.<br><br>An objection window of about a week follows. The final key comes after expert review of objections."
+    },
+    {
+      "question": "BPSC 72nd Prelims result kab aayega?",
+      "answer": "Expect the result between late September and October 2026. The 68th and 70th results came about 6 weeks after the exam, while the 71st took 9.5 weeks.<br><br>The cutoff list is published together with the result PDF on bpsc.bihar.gov.in."
+    },
+    {
+      "question": "BPSC 71st Mains result kab aayega?",
+      "answer": "The 71st Mains was held 25-30 April 2026 and the result is expected around August-September 2026. BPSC typically takes 4-6 months to evaluate Mains copies.<br><br>13,000+ candidates are competing for 1,264 posts. The interview shortlist follows the result."
+    },
+    {
+      "question": "BPSC 72nd Mains kab hoga?",
+      "answer": "Mains is scheduled for 21-25 November 2026 as per the BPSC exam calendar. Roughly 10-12 times the vacancy count qualifies from Prelims.<br><br>The Mains admit card usually releases 7-10 days before the exam on bpsc.bihar.gov.in."
     }
   ],
   "official_portal": {
@@ -972,7 +1089,7 @@
       }
     ]
   },
-  "last_reviewed": "July 2026",
+  "last_reviewed": "2026-08-01",
   "category": "state-psc",
   "salary_table": {
     "intro": "In-hand salary ranges from ₹75,000–90,000/month to ₹80,000–1,00,000/month depending on the post and city.",
@@ -997,16 +1114,16 @@
   },
   "quick_facts": [
     {
-      "label": "72nd CCE Prelims",
-      "value": "July 26, 2026"
+      "label": "72nd Prelims",
+      "value": "Held 26 July 2026"
     },
     {
       "label": "Vacancies",
-      "value": "~1,000+"
+      "value": "1,186 posts"
     },
     {
-      "label": "Applicants",
-      "value": "6+ Lakh"
+      "label": "Answer Key",
+      "value": "Expected early Aug"
     },
     {
       "label": "Salary",
@@ -1055,9 +1172,9 @@
     ]
   },
   "changes_2026": [
-    "72nd CCE Prelims was held on 26 July 2026. Answer key and result updates will appear on bpsc.bihar.gov.in.",
-    "72nd CCE has 1,186 vacancies after BPSC removed 44 Cane Officer posts via corrigendum. Applications closed 31 May 2026.",
-    "Mains is scheduled for 21-25 November 2026 as per the BPSC exam calendar.",
-    "71st CCE Mains result for 1,264 posts is expected shortly. Interview shortlist follows the result."
+    "72nd Prelims was held on 26 July 2026. The provisional answer key is expected in the first week of August on bpsc.bihar.gov.in.",
+    "72nd CCE has 1,186 vacancies after BPSC removed 44 Sugarcane Officer posts via corrigendum. Applications closed 31 May 2026.",
+    "Prelims result is expected between late September and October 2026. Mains is scheduled for 21-25 November 2026.",
+    "71st CCE Mains result for 1,264 posts is expected around August-September 2026. Interview shortlist follows the result."
   ]
 }
