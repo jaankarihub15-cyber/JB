@@ -46,37 +46,25 @@
       "type": "comparison_card",
       "heading": "4 Free Ways to Check: Which Route Fits You",
       "win": {
-        "title": "Official bureau website",
-        "points": [
-          "Exactly what banks see when they check you",
-          "Full report: every loan, card, and inquiry listed",
-          "Free once a year per bureau under RBI rules"
-        ]
+        "name": "OFFICIAL BUREAU SITE",
+        "amount": "Most Complete",
+        "sub": "Full free report once a year, exactly what banks see when they check you"
       },
       "others": [
         {
-          "title": "Your bank app",
-          "points": [
-            "SBI YONO, PNB One, HDFC, ICICI, Axis show CIBIL free",
-            "Updates monthly, instant, no registration",
-            "Score only, full report not always shown"
-          ]
+          "name": "YOUR BANK APP",
+          "amount": "Monthly, instant",
+          "sub": "SBI YONO, PNB One, HDFC, ICICI, Axis show CIBIL free, score only"
         },
         {
-          "title": "Fintech apps",
-          "points": [
-            "CRED shows CIBIL, Paytm and Bajaj Finserv show Experian",
-            "Free monthly tracking with change alerts",
-            "Different bureau numbers can vary 20-30 points"
-          ]
+          "name": "FINTECH APPS",
+          "amount": "Free tracking",
+          "sub": "CRED shows CIBIL, Paytm and Bajaj show Experian, numbers vary 20-30 points"
         },
         {
-          "title": "All 4 bureaus yearly",
-          "points": [
-            "One free full report from EACH bureau every year",
-            "4 free reports total: use them quarterly",
-            "Best way to catch reporting errors early"
-          ]
+          "name": "ALL 4 BUREAUS",
+          "amount": "4 reports/year",
+          "sub": "One free report per bureau yearly, space them quarterly to catch errors"
         }
       ]
     },
