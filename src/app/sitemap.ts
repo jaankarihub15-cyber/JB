@@ -56,7 +56,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { url: `${baseUrl}/yojana-by-state/odisha`, changeFrequency: "weekly" as const, priority: 0.85 },
     { url: `${baseUrl}/yojana-by-state/chhattisgarh`, changeFrequency: "weekly" as const, priority: 0.85 },
     { url: `${baseUrl}/about`, lastModified: "2026-05-10", changeFrequency: "monthly" as const, priority: 0.4 },
-    { url: `${baseUrl}/books`, changeFrequency: "weekly" as const, priority: 0.6 },
     { url: `${baseUrl}/search`, changeFrequency: "monthly" as const, priority: 0.3 },
   ];
 
@@ -70,7 +69,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     { dir: "sarkari-naukri", prefix: "sarkari-naukri" },
     { dir: "education", prefix: "education" },
     { dir: "legal", prefix: "legal" },
-    { dir: "books", prefix: "books" },
+    { dir: "banking-finance", prefix: "banking-finance" },
   ];
 
   const contentPages: MetadataRoute.Sitemap = [];
@@ -83,30 +82,27 @@ export default function sitemap(): MetadataRoute.Sitemap {
       const slug = file.replace(".json", "");
       const isNews = prefix === "news";
       
-      // Read actual date from JSON
+      // Emit lastmod ONLY when a real ISO date exists in the file.
+      // Display strings like "June 2026" are NOT dates; synthetic values
+      // teach Google to ignore our lastmod entirely. Omission is honest.
+      let realDate: string | undefined;
       try {
         const data = JSON.parse(fs.readFileSync(path.join(dirPath, file), "utf-8"));
-        const lastMod = data.date || data.last_reviewed || data.hero?.updated_date || "2026-04-01";
-        // Normalize date format
-        const dateStr = lastMod.includes("T") ? lastMod :
-                       /^\d{4}-\d{2}-\d{2}$/.test(lastMod) ? lastMod :
-                       /^(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)/i.test(lastMod) ?
-                         new Date(/\d{4}/.test(lastMod) ? `1 ${lastMod}` : `1 ${lastMod} 2026`).toISOString().split("T")[0] : "2026-04-01";
-        
-        contentPages.push({
-          url: `${baseUrl}/${prefix}/${slug}`,
-          lastModified: dateStr,
-          changeFrequency: isNews ? ("daily" as const) : ("monthly" as const),
-          priority: isNews ? 0.8 : 0.6,
-        });
+        const candidate = data.last_reviewed || data.date;
+        if (typeof candidate === "string") {
+          if (/^\d{4}-\d{2}-\d{2}$/.test(candidate)) realDate = candidate;
+          else if (/^\d{4}-\d{2}-\d{2}T/.test(candidate)) realDate = candidate.split("T")[0];
+        }
       } catch {
-        contentPages.push({
-          url: `${baseUrl}/${prefix}/${slug}`,
-          lastModified: "2026-04-01",
-          changeFrequency: "monthly" as const,
-          priority: 0.6,
-        });
+        // unreadable file: emit URL without lastmod
       }
+
+      contentPages.push({
+        url: `${baseUrl}/${prefix}/${slug}`,
+        ...(realDate ? { lastModified: realDate } : {}),
+        changeFrequency: isNews ? ("daily" as const) : ("monthly" as const),
+        priority: isNews ? 0.8 : 0.6,
+      });
     }
   }
 
@@ -117,7 +113,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
   ];
   const calcPages = calcSlugs.map((slug) => ({
     url: `${baseUrl}/calculator/${slug}-calculator`,
-    lastModified: "2026-04-01",
     changeFrequency: "monthly" as const,
     priority: 0.8,
   }));

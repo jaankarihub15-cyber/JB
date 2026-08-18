@@ -9,6 +9,7 @@ export const metadata: Metadata = {
   description:
     "Honest, exam-wise book guides for UPSC, SSC CGL, Banking, RBI Grade B and Railways. NCERT-first reading order, no coaching agenda. Updated 2026.",
   alternates: { canonical: "https://knowledgekendra.com/books" },
+  robots: { index: false, follow: false },
 };
 
 export default function BooksHubPage() {
